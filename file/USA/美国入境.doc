@@ -1,0 +1,329 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>美国入境 - 美国海关入境攻略流程</title><link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" /><meta name="description" content="美国入境，入境美国流程，注意事项，美国海关入境申报单如何填写？美国入境海关中英文对话。Entry into the United States" /><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/entry-into-us/"><meta http-equiv="Cache-Control" content="no-transform" /><meta http-equiv="Cache-Control" content="no-siteapp" /><base target="_blank" /><script>        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "entry-into-us/";
+        }
+
+
+    </script><style>        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style></head><body><a name="top4"></a><div class="topBox" name="top"><div class="topMain"><div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div><div id="icoPhone"></div><div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div><div id="icoWechat"></div><div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a></div><div id="icoSina"></div><div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a></div><div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div><div class="topRight"></div></div></div><div id="showqrCode"><div><span></span></div><img src="" /><div><span></span></div></div><script type="text/javascript">        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script><div class="body"><div class="lindBox" style="position: relative;"><img src="http://img.xixik.net/custom/topic/001/entry-into-us.jpg" alt="美国入境 - 美国海关入境攻略流程" /><div class="title"><h1>美国入境 - 美国海关入境攻略流程</h1></div></div><div class=" custom_border lindBox"><div class="special_content"><div class="content_text"><div class="content_daodu"></div><h2 style="border-bottom:1px dashed #999; displayinline;">美国入境</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.-->                    2018年美国出入境攻略（入境流程、出境须知、海关规定）。每天有近一百万人抵达美国入境口岸。每个人都需接受美国国土安全部（DHS）下辖的美国海关与边境保护局 (CBP) 官员的检查，以确保遵守美国的移民、海关和农业法规。
+                </div></div></div><div class="lindBox" style="overflow: hidden;"><div class="gg1"><a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a></div><div class="guide"><div class="guideBorder" id="guideBorder"><div class="guideTitle">导读（目录）</div><ul id="guideDisplay"><li>·<a title="美国入境之航空边境口岸" href="#anchor1" target="_self"> 美国入境之航空边境口岸</a></li><li>·<a title="美国入境携带物品规定" href="#anchor2" target="_self"> 美国入境携带物品规定</a></li><li>·<a title="美国入境禁止携带物品清单" href="#anchor3" target="_self"> 美国入境禁止携带物品清单</a></li><li>·<a title="美国入境现金限制2018" href="#anchor4" target="_self"> 美国入境现金限制2018</a></li><li>·<a title="美国入境FAQ" href="#anchor5" target="_self"> 美国入境FAQ</a></li><li>·<a title="美国入境问题英语对话" href="#anchor6" target="_self"> 美国入境问题英语对话</a></li><li>·<a title="美国入境之陆地边境口岸" href="#anchor7" target="_self"> 美国入境之陆地边境口岸</a></li></ul><div class="guideOpen">展开&darr;</div></div></div><div class="guideFllow"><div class="guideFllowBorder"><div class="guideFllowTitle">导读（目录）</div><ul id="guideFllowDisplay"><li>·<a title="美国入境之航空边境口岸" href="#anchor1" target="_self"> 美国入境之航空边境口岸</a></li><li>·<a title="美国入境携带物品规定" href="#anchor2" target="_self"> 美国入境携带物品规定</a></li><li>·<a title="美国入境禁止携带物品清单" href="#anchor3" target="_self"> 美国入境禁止携带物品清单</a></li><li>·<a title="美国入境现金限制2018" href="#anchor4" target="_self"> 美国入境现金限制2018</a></li><li>·<a title="美国入境FAQ" href="#anchor5" target="_self"> 美国入境FAQ</a></li><li>·<a title="美国入境问题英语对话" href="#anchor6" target="_self"> 美国入境问题英语对话</a></li><li>·<a title="美国入境之陆地边境口岸" href="#anchor7" target="_self"> 美国入境之陆地边境口岸</a></li></ul><div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div></div></div><div class="gg2"><a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a></div></div><a name="anchor1"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        美国入境之航空边境口岸</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	在拿到美国签证并不意味着你就得到了进入美国的通行证。为确保入境者遵守美国法律，美国海关和边境保护局（U.S.&nbsp;Customs&nbsp;and&nbsp;BorderProtection,&nbsp;CBP）会对入境者进行抽查面试，当然也无需对此忐忑不安，在出行前仔细了解出入境的流程，相信在入境的时候会得心应手，从容应对。</p><p style="TEXT-INDENT:2em"><a href="http://114.xixik.com/evus/" title="EVUS"><strong>登机前准备 填写EVUS</strong></a></p><div class='right_gg'><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- 336x280-114-left --><ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-3849899595029685"
+     data-ad-slot="9973132210"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/custom/topic/xixik_c31927bc2b2fdb6b.jpg" style="margin: 10px; float: left; width: 400px;" /></p><p style="TEXT-INDENT:2em">	自2016年11月29日起，所有持中华人民共和国护照，同时持有最长有效期（十年）B1/B2、B1和B2签证的个人必须持有有效的EVUS（https://www.evus.gov/evus/#/）登记才能赴美旅行。旅客可以在任何时候在EVUS上提交登记，包括在机场的时候。提交登记后，旅客一般会在数分钟内收到系统的回复，但个别情况可能最长需要72个小时。所有最好尽早登记，以免延误已经订好的出行计划。</p><p style="TEXT-INDENT:2em"><span arial="" style="color: rgb（0, 0, 0）; font-family: SimSun, ">在赴美途中的飞机、船舶等交通工具上，服务员会向旅客散发美国的海关申报表（即6059B表，CBP Form 6059B），此表被译成多种语言，包括中文。所有赴美旅客可事先填写该表，以便加快通关速度。在入境口岸，海关官员对入境者携带的行李是否有违禁品及是否征税进行检查。</span></p><p style="TEXT-INDENT:2em">	抵达口岸后，你必须通过 CBP 检查站办理移民和海关手续。CBP 必须在你抵达美国入境口岸时批准你入境。通过入境<a href="http://news.xixik.com/zt/passport/" style="color:#000" title="护照">护照</a>检查后，领取个人行李并过美国海关检查。</p><p style="TEXT-INDENT:2em"><b>1）入境流程</b></p><p style="TEXT-INDENT:2em"><b>填写海关申报单 CUSTOMS DECLARATION</b></p><p style="TEXT-INDENT:2em">	首先，在飞机上，空姐会发放一张海关申报单。美国已取消I-94出入境表格的填写，因此只需填写海关申报单。海关申报单以每个家庭为单位，必须是直系亲属（如：父子，母子，夫妻，亲生兄弟姐妹等）才能够共同填写一张表格，旁系亲属及朋友关系都必须分开单独填写。无论您拿到的表格是中文版或者英语版，整张表格必须是以英语大写字母来填写。（之前入境总看到一些年长者全部用中文填写，结果入境排了很长的队以后还要重新填写，非常浪费时间，建议子女在家里帮忙填好带着，或者写好让他们抄写）</p><p style="TEXT-INDENT:2em"><img aid="1242586" data-original="http://img.xixik.net/custom/section/entry-into-us/xixik-b42ca25ceb8e8626.jpg-700" id="aimg_1242586" img="" src="http://img.xixik.net/custom/section/entry-into-us/xixik-c090e3f774ff099c.jpg" style="margin: 10px; float: left; width: 500px;" /></p><p style="text-indent: 2em;">	海关申报单填写说明：</p><p style="text-indent: 2em;">	1、姓：大写字母拼音</p><p style="text-indent: 2em;">	名：大写字母拼音</p><p style="text-indent: 2em;">	2、出生日期：阿拉伯数字填写，顺序为日，月，年</p><p style="text-indent: 2em;">	3、同行家庭成员人数：这里指的是除了您之外，您直系亲属的人数。如一家三口出行，则这里填2</p><p style="text-indent: 2em;">	4、美国地址（旅馆名称/目的地）：请注意，这里需要填写您详细的住址，精确到城市和州。不要偷懒只写酒店名字，如洛杉矶入境，这样就是不被允许的，必须填写详细的地址，城市及州也务必搞清楚再填写，地址一栏比较重要。</p><p style="text-indent: 2em;">	5、护照签发国家：这里填写的是您自己的护照签发国家，一般为CHINA</p><p style="text-indent: 2em;">	6、护照号码</p><p style="text-indent: 2em;">	7、居住国家：这里指您居住的国家，一般为CHINA</p><p style="text-indent: 2em;">	8、此次旅行抵达美国前到的国家：这里指的是您是否直达美国，如不是是否有去过其他国家，如没有这里可以空白</p><p style="text-indent: 2em;">	9、航班编号：指的是您来美国坐飞机的航班号</p><p style="text-indent: 2em;">	10、此次旅行的目的是公务：如是出差，则如实标记YES；如是旅游，则标记为NO</p><p style="text-indent: 2em;">	11、我们携带有，</p><p style="text-indent: 2em;">	（A）水果，植物，食品，昆虫</p><p style="text-indent: 2em;">	（B）肉类，动物，动物/野生动物制品</p><p style="text-indent: 2em;">	（C）细菌携带物，细菌培养物，蜗牛</p><p style="text-indent: 2em;">	（D）土壤或曾经到过农场，牧场，草场</p><p style="text-indent: 2em;">	此处请如实回答，一般标记为NO</p><p style="text-indent: 2em;">	12，我们曾近距离接触（触摸或搬运）家畜</p><p style="text-indent: 2em;">	此处请如实回答，一般标记为NO</p><p style="text-indent: 2em;">	13、我们携带的货币或金额票据超过10000美金或等值外币</p><p style="text-indent: 2em;">	此处请如实回答，如一个家庭携带超过10000美金或等值外币，则需要申报，走红色申报通道</p><p style="text-indent: 2em;">	14、我们携有商业货物（销售品，用于吸引订单的样本或不被视作个人物品的货物）</p><p style="text-indent: 2em;">	此处请如实回答，一般标记为NO</p><p style="text-indent: 2em;">	15、居民&mdash;&mdash;包括商业货物在内，我们在境外购买或取得，并携入美国的所有货品（包括带给他人的礼物，但并不包括邮寄至美国的货品）总值为美元</p><p style="text-indent: 2em;">	此处是居住在美国的居民填写，无需标记</p><p style="text-indent: 2em;">	访客&mdash;&mdash;将留在美国境内的所有物品（包括商业货物）总值为X美元</p><p style="text-indent: 2em;">	此处指的是如您有物品赠送给美国的亲友，则表明总价值，超过100美元以上会被加税3%</p><p style="text-indent: 2em;">	签名及日期：此处请签您的中文姓名（与护照签字一致），日期则为当天抵达的美国日期</p><p style="TEXT-INDENT:2em">	备注L:海关申报单上【国籍（Nationality）】时应写Chinese；如果是【国家（Country）】时应该填写China。Chinese与China填错不影响入境（不要拼写错误），但我们应该告诉你正确的！）</p><p style="TEXT-INDENT:2em"><b>边防面试</b></p><p><img src="http://img.xixik.net/custom/section/entry-into-us/xixik-34702a01e4994b23.jpg" style="text-indent: 28px; margin: 10px; float: left; width: 400px;" /></p><p style="TEXT-INDENT:2em">	下了飞机后，到达入境大厅，排队等待办理入境手续。在排队的时候请准备好以下文件：</p><p style="TEXT-INDENT:2em"><a href="http://news.xixik.com/zt/passport/" style="color:#000;" title="护照">护照</a>（含有效签证）</p><p style="TEXT-INDENT:2em">	往返电子客票行程单</p><p style="TEXT-INDENT:2em">	英文行程单（上面标注具体入住的酒店）</p><p style="TEXT-INDENT:2em">	酒店确认单</p><p style="TEXT-INDENT:2em">	&nbsp;</p><p style="TEXT-INDENT:2em">	机场入境通常需要排长队，有时需要等上一两个小时。入境通道分美国公民（US Citizens）、持绿卡者（Permanent Residents）和访客（Visitors）几种，来美国旅游、商务、读书等都需要走访客（Visitors）通道。</p><p style="TEXT-INDENT:2em">	将护照、有效签证、申报单、入学证明等必要和相关文件交给海关官员检查。然后就是问题时刻啦，如果你担心自己英文不是很好，听不懂海关问话，下面的内容你要仔细看哦！</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/custom/section/entry-into-us/xixik-11a4726673192131.jpg" style="margin: 10px; float: left; width: 400px;" /></p><p style="TEXT-INDENT:2em"><b>边防人员面试的问题可能是：</b></p><p style="TEXT-INDENT:2em">	您是第一次来美国吗？如不是，第一次什么时候来，目的是什么，上次待了多久，去了哪里？</p><p style="TEXT-INDENT:2em">	您本次来美国的目的是？</p><p style="TEXT-INDENT:2em">	您即将参观那些城市，停留几天？</p><p style="TEXT-INDENT:2em">	您几日归国？</p><p style="TEXT-INDENT:2em">	您是一个人来的吗？如不是，家属分别是什么关系？</p><p style="TEXT-INDENT:2em">	以上问题仅供参考，但大致就是这些问题，放心，事先准备一下，并不会很难的。过了边防这一步之后，就成功了一大半了。边防会在您的<a href="http://news.xixik.com/zt/passport/" style="text-indent: 2em; color: rgb（0, 0, 0）;" title="护照">护照</a>上敲上签证类型及停留期限，只要在此期限之前回国即可。</p></div></div></div><a name="anchor2"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        美国入境携带物品规定</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em"><b>提取行李</b></p><p style="TEXT-INDENT:2em">	请按照屏幕上的指示，根据航班号查看相对应的行李转盘，到达相应的转盘前等待您的行李。</p><p style="TEXT-INDENT:2em">	请注意:务必不要带有侥幸心理偷偷在行李中私藏违禁物品，违者很可能处以没收甚至罚款的处罚。</p><p style="TEXT-INDENT:2em"><b>海关抽查</b></p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/custom/section/entry-into-us/xixik-d6cb94ccaa3a8cab.jpg" style="margin: 10px; float: right; width: 400px;" /></p><p style="TEXT-INDENT:2em">	此时是您踏入美国的最后一关，交给海关人员您的海关申报单，如果没有申报物品则走绿色通道；有申报物品则走红色通道。请务必如实申报，否则抽查到则可能处以罚款。以下摘录为中华人民共和国海关总署披露的入境美国可免税的物品，仅供参考。在入境口岸，海关官员将对入境者携带的行李是否有违禁品及是否征税进行检查。</p><p style="TEXT-INDENT:2em">	可免关税的物品：</p><p style="TEXT-INDENT:2em"><b>1、个人财产：</b></p><p style="TEXT-INDENT:2em">	个人穿戴使用的衣物、珠宝、化妆品、打猎或钓鱼用具、照相机、便携式收音机以及其他类似个人、物品如仅用于个人使用，可免于征税。上述物品可跟随着你入出境。</p><p style="TEXT-INDENT:2em">	如果你是移民到美国，属个人使用的免于征税的价值300美元或以上的珠宝等个人饰品，如未缴关税，3年以内不得售卖。尚未缴税即出售的上述物品会被查封没收。</p><p style="TEXT-INDENT:2em"><b>2、酒精饮料：</b>年满21岁的非美国居民（Non-resident）可免税携带入境1公升啤酒、葡萄酒、白酒等酒精饮料，但仅限个人使用。超过上述数量的酒精饮料将被征收海关税和国内税。另外，除了联邦法律，您还必须遵守可能比联邦法律更加严格的有关酒精饮料的州法律。</p><p style="TEXT-INDENT:2em"><b>3、烟草产品：</b>旅客可以免税带入一条香烟（200支），或50支雪茄烟，或2公升（4.4磅）烟草，或按比例的上述各类物品。 产于古巴的雪茄无论是自用还是送礼都禁止进入美国。</p><p style="TEXT-INDENT:2em"><b>4、家用物：</b>可免税进口家具、餐具、书籍、艺术品等家用物品。</p><p style="TEXT-INDENT:2em"><b>5、免税礼品：</b>非居民（Non-resident）可免税带进价值不超过100美元的礼品。要使上述礼品免税，您必须在美国停留至少超过72个小时，期间上述礼品必须伴随着您。为方便海关官员检查，您的礼品不要进行礼物包装。</p><p style="TEXT-INDENT:2em"><strong>6、婚礼礼品：</strong>对非居民携带的婚礼礼品没有明确的免税规定。对于美国居民，如美国居民去另一国家，与另一国家的人结婚后，该夫妇回美时，该另一国家的人将被视为美国居民。</p><p style="TEXT-INDENT:2em"><b>7、邮寄礼品：</b>从另一国家或加勒比受惠国通过邮寄寄来的礼品零售价值不超过100美元，免于征税。如该礼品寄自美属维尔京 群岛、美属萨摩亚或关岛，礼品的免税额可允许不超过200美元。超过上述价值的礼品将被征税。注意：酒精饮料、烟草产品以及含酒精的香水不在上述规定的范围之内。</p><p style="TEXT-INDENT:2em"><strong>8、在免税店购买的物品：</strong>在免税店、飞机或船舶上购买的物品，如超过个人可携带的免税物品的数量或金额限制，将被海关征税。</p><p style="TEXT-INDENT:2em">	非美国居民在美国转机过境时，如个人携带的物品，包括不超过4升的酒精饮料，将带往美国海关征税范围以外的地方，且上述物品的价值不超过200美元，可免于征税。</p><p style="TEXT-INDENT:2em"><strong>应予征税的物品</strong></p><p style="TEXT-INDENT:2em">	超出上述免税范围的物品将被征税。其征收方法是：减去应予免税的物品价值后，1000美元价值的部分将被征收统一税率为3％的关税，超过1000美元价值的部分将按适用于该商品的税率征税。</p><p style="TEXT-INDENT:2em">	按统一税率征税的物品必须跟随您本人，并且只供您个人使用或当作礼品。</p><p style="TEXT-INDENT:2em">	在美属维尔京群岛、美属萨摩亚和关岛得到的物品，无论该物品跟随您本人或是寄往美国本土，对上述物品征收关税的统一税率为5％。</p><p style="TEXT-INDENT:2em"><span arial="" style="font-family: SimSun, " text-indent:="">向美国运入家用物品：</span><span arial="" style="font-family: SimSun, " text-indent:="">按规定可免税入境的家用物品不必随同本人入境，您可以采取邮寄托运的方法。</span></p><p style="TEXT-INDENT:2em"><strong>禁止或限制入境的物品</strong></p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/custom/section/entry-into-us/xixik-868e368ac22f1b59.jpg" style="margin: 10px; float: right; width: 400px;" /></p><p style="TEXT-INDENT:2em">	生物制品：未经消毒的人类和动物组织（包括血液、人或动植物排泄物）、活体细菌培养基、病毒或类似有机体、被怀疑感染人畜共患疾病的动物、昆虫、蜗牛和蝙蝠的进口需从美国疾病控制中心取得进口许可证，联系方式为：Office of Health and Safety, Centers for Disease Control and Prevention （F-05）, 1600 Clifton Road NE, Atlanta, GA 30333, USA</p><p style="TEXT-INDENT:2em">	书籍、音像资料、电脑程序和磁带：盗版书籍、电脑程序及音像制品不得进入美国，盗版制品会被没收销毁。</p><p style="TEXT-INDENT:2em">	水果、蔬菜和植物：许多水果、蔬菜、植物、枝条、种籽、未经处理的植物产品、特定濒危物种等一般都禁止进口或是需持有许可证才能进口。所有植物、植物产品、水果或蔬菜都必须向海关官员申报并接受检查。</p><p style="TEXT-INDENT:2em">	肉类、牲畜和禽类：肉类、牲畜、禽类及其副产品一般都禁止入境，或是根据原产国的动物疾病状况进行限制。对于罐头装的肉类产品，如检验官员能够确认该产品系熟制、已经商业封装，则允许入境。其他罐装及腌制的肉类产品及干肉产品均严格限制入境。</p><p style="TEXT-INDENT:2em">	打猎所得：如果您打算进口打猎纪念品或野味，一般需事先获得许可证，而且只有特定的口岸被授权处理上述物品进口的事宜。</p><p style="TEXT-INDENT:2em">	货币：携带入境的货币工具（包括美国或其他国家的硬币及货币、旅行支票、现金汇票和可流通证券等）金额超过一万美元，应填妥现金申报表（FinCEN Form 105，之前是美国海关4790表 Custom Form 4790），主动向海关申报。未如实申报者可能导致被追究民事及刑事责任，包括没收所持货币及货币工具。</p><p style="TEXT-INDENT:2em">	宠物：</p><p style="TEXT-INDENT:2em">	猫：在入境检查时必须能证明未患可传染给人的疾病。如果该宠物健康状况明显不佳，有执照的兽医将对其作进一步检查，有关费用由宠物的主人支付。</p><p style="TEXT-INDENT:2em">	狗：在入境检查时必须能证明其未患可传染给人的疾病，抵达前至少30天内注射过狂犬病疫苗（此项规定不适用于3个月以下的幼狗）。</p><p style="TEXT-INDENT:2em">	个人拥有的宠物鸟：可以入境，但鹦鹉类鸟只允许带入两只。同时需符合APHIS和公共卫生服务机构的有关要求，比如可能要求由宠物的主人出资，为该宠物在APHIS机构进行卫生防疫。</p><p style="TEXT-INDENT:2em">	灵长类动物如猴子、猿等不允许进口。</p><p style="TEXT-INDENT:2em">	您最好向州及地方有关机构查询了解对带入宠物有何规定和限定。有些地方，如夏威夷州，对宠物有严格的卫生防疫要求。</p><p style="TEXT-INDENT:2em">	鱼和野生动植物：</p><p style="TEXT-INDENT:2em">	鱼类和野生动植物也在进出口管制及卫生防疫要求范围内，主要包括：野生鸟类、哺乳动物、海洋哺乳动物、爬行动物、甲壳类动物、鱼类和软体动物；上述动物的任何部分或产品，如皮革、羽毛、蛋（卵）等；用野生动植物和鱼类制成的产品。</p><p style="TEXT-INDENT:2em">	野生濒危物种和由此制造的产品禁止进出口。象牙或象牙制品一般禁止进出口。含有野生动植物部分的古董如能证明其历史有100年则可以进口。</p><p style="TEXT-INDENT:2em">	需要留意的是，按美国法律规定，边境海关官员可不经本人同意随时打开行李检查，所以建议入境美国托运物品箱包不要上锁，除非您是TSA海关锁，否则海关会用破坏方式打开带锁的箱包，如有损失，海关不负责赔偿。</p><p style="TEXT-INDENT:2em"><b>2）出境须知</b></p><p style="TEXT-INDENT:2em">	从美国出境时，出境者须再次留取指纹和拍照。</p><p style="TEXT-INDENT:2em"><b>3）海关规定</b></p><p style="TEXT-INDENT:2em">	美国海关条例中规定，进入美国时，每人可免税携带1升烈酒（此人至少满21岁）、100支雪茄或200支香烟，非美国公民只允许带价值100美元的物品进入美国。</p><p style="TEXT-INDENT:2em">	美国法律允许每人带入或带出一万美元或同等价值的外国货币、旅行支票及不记名信用证。没有最大额度限制，但数目巨大的金额必须申报。</p><p style="TEXT-INDENT:2em">	对于毒品走私的处罚相当严重。业禁止将本人用的毒品、彩票、仿冒品牌产品、古巴或伊拉克生产的物品带入美国。人和水果、蔬菜或其他食物及植物制品都必须申报或在到达出口前将其丢弃在垃圾箱里。多种食物都不允许带入，目的是为了防止他们可能携带外来生物或疾病病毒。</p><p style="TEXT-INDENT:2em">	美国是频危物种国际贸易公约的会员国。美国禁止进口和出口任何濒危物种制成的商品，包括象牙、玳瑁、珊瑚、以及一些皮毛和羽毛制品。如果您买了皮毛大衣、蛇皮腰带、鳄鱼皮靴子或骨雕，那么在进入或离开美国时，需要出示购买。</p></div></div></div><a name="anchor3"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        美国入境禁止携带物品清单</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em"><span style="text-indent: 2em;">来美国，过海关，有些人总会有侥幸心理。那么入境美国什么不能带？对此，美国有严格的规定。违反了，轻则东西没收，重则罚款、甚至逮捕。</span></p><p style="TEXT-INDENT:2em">	美国海关和边防局（ U.S. Customs and Boarder Protection，简称CBP）列出了禁止和限制的物品名单（Prohibited and Restricted Items）。名单是按照物品的英文字母顺序排列的，这份名单的总结是包含具有“中国特色”而量身定制的，大体归类如下。</p><p style="TEXT-INDENT:2em"><strong>美国海关禁止入境食品</strong></p><p style="TEXT-INDENT:2em">	畜禽肉类（Meats, Livestock and Poultry）。不论是新鲜的、干燥的、罐头的、真空包装的，都是禁止的。所以肉松、牛肉干之类，都不能带。含有肉类的食品，也是禁止的。比如肉粽子、小笼包子、鲜肉月饼等。另外，鸡爪子也不能带，曾近有人带鸡爪子被没收，理由是防止禽流感进入美国……</p><p style="TEXT-INDENT:2em">	食品（Food Products）。可以带少量的面包进入美国。但是，几乎任何含有肉类的食品，如牛肉汤、汤粉都是不容许的（almost anything containing meat products, such as bouillon, soup mixes, etc., is not admissible）。不过，调味品、食醋、食油、蜂蜜、咖啡和茶叶是允许的。可以带些比较有中国特色的，比如香菇、木耳，八角茴香等调料；红枣、枸杞子、小核桃、山楂片等。喜欢吃海鲜的，恭喜你，美国对此没有什么特别的禁令，比如，鱿鱼干、黄鱼鲞、开洋、虾皮什么的，都可以带，但大闸蟹和奶制品不能带。</p><p style="TEXT-INDENT:2em">	特别提醒：</p><p style="TEXT-INDENT:2em">	1）如果带了食物，一定要在表格中申报，你会被检查，通常这个检查跟其他行李的检查一样简单，仅仅是过一下扫描。</p><p style="TEXT-INDENT:2em">	2）一些食物是不许带入的。但是如果你已经提前申报的话，仅仅是没收这些食物。</p><p style="TEXT-INDENT:2em">	3）如果没有申报而携带了违禁品的话，那么就可能会被处罚。</p><p style="TEXT-INDENT:2em">	水果和蔬菜（Fruits and Vegetables）。上世纪80年代，应对地中海果蝇（Mediterranean fruit fly）爆发，加州政府和联邦政府花了1亿美元。这果蝇爆发的根源就是有人携带水果<a href="http://114.xixik.com/entry-into-us/" style="color:#000" title="入境美国">入境美国</a>。所以美国对水果和蔬菜严加防范。若从中国带了苹果什么的，在飞机上没有吃完，进海关前最好扔掉，或者申报。违反者罚款，第一次三百美元，第二次五百美元。另外，煮熟的花生可以带，生的就不可以了。</p><p style="TEXT-INDENT:2em">	植物和种子（Plants and Seeds）。需要进口文件和其他文件才可进入美国。主要是防范虫害。所以，打算带些菜籽自己种菜的，就不要冒险了。美国有些蔬菜比猪肉贵，但美国超市其实是有菜籽出售的，当然，可能没有你的家乡蔬菜，也只得“入乡随俗”了。另外，用植物材料（包括稻草）做成的手工艺品，必须申报。</p><p style="TEXT-INDENT:2em">	泥土（Soil）。比如，带一盆花，花是禁止的，盆里的泥土也是禁止的。</p><p style="TEXT-INDENT:2em">	生物制品（Biologicals），比如细胞培养物、生物组织等。到美国进行生物研究的，若需要携带有关生物制品，必须事先得到美国农业部（USDA）和疾病防治中心（CDCP）的批准。</p><p style="TEXT-INDENT:2em"><strong><a href="http://114.xixik.com/entry-into-us/" style="color:#000" title="美国入境">美国入境</a>携带药品</strong>（Medication）。可以携带你所需要的药物（take the medicines you will need），但只能是个人合理用量。此外，麻醉剂和其他可能会滥用的药物是禁止的，比如：罗眠乐、丙种羟基丁酸（神仙水）和芬芬（Rohypnol, GHB and Fen-Phen），违者将受到处罚。如果要携带含有成瘾性成分的药物，比如咳嗽药水、镇定剂、安眠药、抗抑郁药，必须申报，并放在原装的盒子或瓶子里；还需要医生的处方和医治证明。<span style="text-indent: 2em;">需注意的是，只有在美国能合法开具的处方药物，才能被进口作个人用途。美国食品和药品管理局一般不允许进口从美国国外购买的处方药物。</span></p><p style="TEXT-INDENT:2em">	一般常用的处方中西药可携带通过安检处，但有时可能要求您出示需求证明。中药类产品必须是无寄生类植物。珍贵的中药材如蛇胆、豹骨、虎皮、鹿茸等属于保育类动物，严禁携入美国，寄生类植物如兔丝子、石斛等也禁止携入，含可卡因类禁止，作为中药的陈皮也在禁止之列。</p><p style="TEXT-INDENT:2em">	陶制餐具（Ceramic Tableware）。美国FDA建议携带者，将产自中国、墨西哥和印度的陶制餐具送去检测，以确定含铅量符合安全标准。</p><p style="TEXT-INDENT:2em">	文化遗产物品（Cultural Artifacts and Cultural Property）。你需要提供合法拥有的证明，购买收据，或出口许可。</p><p style="TEXT-INDENT:2em">	受知识产权保护的物品（Trademarked and Copyrighted Articles）。比如微软公司的软件、美国大片的光盘。山寨的名牌包最好也别带了。</p><p style="TEXT-INDENT:2em">	狗皮和猫皮（Dog and Cat Fur）。包括含有狗皮、猫皮的产品，比如狗皮帽子。有意的违反，每项可罚款1万美元；无意的违反，每项可罚款3千美元。</p><p style="TEXT-INDENT:2em">	那宠物能不能带呢？比如狗啊、猫啊。可以。但是，在海关得进行严格的检查，包括审查所有的<a href="http://114.xixik.com/yimiao/" style="color:#000" title="疫苗">疫苗</a>接种记录和健康证书。夏威夷特别严格，所有的宠物进夏威夷（包括从美国大陆进夏威夷），都得经过检疫（quarantine），“隔离审查”，费用为数百美元，若检疫期是120天的话，费用是1080美元。你如果实在舍不得心爱的宝贝，就只得花这笔隔离审查费了。</p><p style="TEXT-INDENT:2em">	黄金（Gold）。金币、金条，以前是禁止的，现在可以携带了。但是，没有发行国家名字的金币是不可携带进美国的。</p><p style="TEXT-INDENT:2em">	至于武器弹药，中国人基本没有这个问题。但要注意，随身行李（carry-on）中，下列东西是不能带的:</p><p style="TEXT-INDENT:2em">	刀具，如水果刀、剃须刀、大剪刀（有金属尖头，刀刃长于4英寸）。</p><p style="TEXT-INDENT:2em">	液体，如饮料、香波、牙膏。饮料在安全检查（Security check）前得喝完。其他的液体物品，如料酒、米醋、麻油，都可以随行李托运，但绝对不准随身携带。牙膏可以带旅行用的，容量不超过3.4盎司。</p><p style="TEXT-INDENT:2em">	入境物品海关是规定是不断增加的，通常根据没收的东西进行检测，有问题的一定会添加上去，禁止入境的。最后在罗嗦一句，美国真的什么都有，买什么也都很方便的。比中国的东西还全很多，劝大家尽量少带东西。</p><p style="TEXT-INDENT:2em">	如果不知道情况，带进来了违禁品，如果你带了违法的，只要你报了，一般是没收，很少有罚款。如果你不报，查到你了，就没准了，甚至会坐牢。</p></div></div></div><a name="anchor4"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        美国入境现金限制2018</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="text-indent: 2em;"><span style="text-indent: 2em;">美国海关对于携带现金入境措施严厉，严禁分拆携带超额现金/支票入境。否则，可能面临所携带现金被全额没收的风险！</span><span style="text-indent: 2em;">如果你准备带超过一万美金入境美国，但为了避免申报麻烦，而将大额现金分拆开，让同行的亲朋戚友帮忙携带过境，这不但在过海关的时候“行不通”，辛辛苦苦带来的现金甚至很可能全部被没收“充公”哦！</span></p><p style="text-indent: 2em;">	这项政策具体规定如下：</p><p style="text-indent: 2em;">	·金额无上限：入境/出境美国携带现金/支票数额没有上限</p><p style="text-indent: 2em;">	·个人入境：携带现金/支票超过1万美元需要申报，并填写FinCEN 105表格</p><p style="text-indent: 2em;">	·多人入境：多人结伴入境，携带现金/支票总数超过$10,000 需要申报，并填写FinCEN 105表格</p><p style="text-indent: 2em;">	·不可分拆：多人结伴入境的情况下，不可将现金/支票分拆至团队中的多个人携带，以“降低”携带金额，免去申报。</p><p style="text-indent: 2em;">	·超额没收：如果携带金额超过$10,000 没有申报，可能面临全额没收、甚至收到法律处罚。</p><p style="text-indent: 2em;"><img src="http://img.xixik.net/cimg/022/xixik_513a686bdaaeaa44.jpg" style="text-align: center;" /></p><p style="text-indent: 2em;">	对于你带入或者带出美国的钱，一般没有限额。但是，如果你和你的旅伴一起携带超过1万美元现金或者可流通票据，你必须通过FinCEN105表格申报。请注意，这1万美元限额是你和你的旅伴一起合并计算的。比如，如果你只带了5000美元现金，你的旅伴只带了6000美元，你们每个人单独都没有超过1万美元，但是你们一起超过了1万美元，你就必须申报。<a href="http://www.xixik.com/content/db83be78efb0d05a" title="美国海关攻略：这样携带现金入境会被全额没收">如果你没有申报，那么这些现金或者可流通票据可能被没收</a>，你还可能面对民事和刑事惩罚。</p><p style="text-indent: 2em;"><strong>携带超过1万美元的支票需要申报吗？</strong></p><p style="text-indent: 2em;">	美国海关不会只认钞票不认支票。进出美国的人携带的旅行支票、现金支票及别人开的个人支票，还有可流通证券也都须算在1万美元内，超了就要申报。</p><p style="text-indent: 2em;"><strong>要带超过1万美金大额现金入境怎么办？</strong></p><p style="text-indent: 2em;"><img src="http://img.xixik.net/mimg/001/xixik_118d97ffa6884a61.gif" /></p><p style="text-indent: 2em;">	首先在海关申报蛋上13项如实申报———选择“是”（YES）（美国流行选中打X）</p><p style="text-indent: 2em;"><img src="http://img.xixik.net/mimg/001/xixik_0fa5f82f2367a6ab.gif" /></p><p style="text-indent: 2em;"><span style="text-indent: 2em;">填写FinCEN 105表格（在CBP有人协助填写，不具体复述）</span></p><p style="text-indent: 2em;">	美国海关规定，如果携带现金或支票总金额超过$10,000（美元或等值外币，或二者的组合），法律要求您填写表格FinCEN 105（前海关表格4790）呈交海关及边境保卫局。</p><p style="text-indent: 2em;">	FinCEN 105表格电子版下载：<a href="https://www.fincen.gov/sites/default/files/shared/fin105_cmir.pdf">https://www.fincen.gov/sites/default/files/shared/fin105_cmir.pdf</a></p><p style="text-indent: 2em;">	如果携带现金超过1万元且未如实申报，海关将会依法没收。如果申报的现金数额和被抽查发现的现金金额不符，携带者将可能面临现金全数没收及处罚的民事处罚，严重者还可能面临现金走私的刑事罪名。如果现金被没收，携带者可在30日内进行上诉，通过提供文件，证明资金的合法来源和合法用途，要求海关部门退还现金。但从申诉到最后退回现金款项的过程一般需要数个月的漫长时间，而写携带者将可能被列上黑名单，在日后出入境时可能遭遇海关的重点抽查。</p></div></div></div><a name="anchor5"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        美国入境FAQ</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em"><span style="text-indent: 2em;">汇总一些在美国海关入境的常见问题：</span></p><p style="TEXT-INDENT:2em"><strong>1：&#160;我已获得了B2旅游签证，但是护照有效期不够六个月，可以进入美国吗？</strong></p><p style="TEXT-INDENT:2em">	不可以。<a href="http://www.xixik.com/content/002721ecfef1ca1f" title="护照有效期还剩下6个月不能出入境？">你的护照必须在你的美国之行结束之后至少六个月仍然保持有效</a>，这被称为Six&#160;Month&#160;Rule（六个月规定）。如果你不能满足这个要求，你就应该去申请一本新的护照，才能进入美国。</p><p style="TEXT-INDENT:2em"><strong>2：&#160;如果我的护照有七个月有效期，我可以凭B2签证进入美国吗？</strong></p><p style="TEXT-INDENT:2em">	可以。&#160;但有可能只允许在美国停留一个月。&#160;因为你护照的有效期只有七个月，&#160;减去六个月就只剩一个月了。</p><p style="TEXT-INDENT:2em"><strong>3：&#160;为了满足Six&#160;Month&#160;Rule（六个月规定），我去获得了新护照。但是签证在旧护照上，我需要持新护照去申请新的签证吗？</strong></p><p style="TEXT-INDENT:2em">	不需要申请新的签证，只需要在入境时，把你的新护照和带有签证信息的旧护照出示给移民官即可。</p><p style="TEXT-INDENT:2em"><strong>4：&#160;我能随身携带的现金有多少？</strong></p><p style="TEXT-INDENT:2em">	长期以来，许多华人担心携带大量现金入境美国，如果如实申报，将会遭到美国海关的刁难及收取税费，多数选择隐瞒不报。其实<strong>根据《货币与国外来往报告法令》，美国政府并未限制出入境可携带的现金额度，但若携带超过1万美元或等值货币的现金，出入境时必须如实申报，入境旅客可填写“国际金融票据流通申报表”（FinCEN Form 105）。这项现金申报只是旅行登记程序，不会产生任何税费，申报后的现金也可自由使用。</strong></p><p style="TEXT-INDENT:2em"><strong>5：2018入境美国还要i-94吗？</strong></p><p style="TEXT-INDENT:2em"><strong>&#160;我以前来美国，都会在我的护照上附上一个白色的小表格I-94，这次为什么没有了呢？</strong></p><p style="TEXT-INDENT:2em">	从2013年5月起，美国海关和边境保护局（CBP）对通过空路来到美国的外国人不再提供纸质的I-94卡，而是提供电子化的I-94。外国人需要使用I-94时，可以到CBP的网站<a href="http://www.cbp.gov/I94">www.cbp.gov/I94</a>，输入名字、生日、护照号码和身份资料把它打印出来。</p><p style="TEXT-INDENT:2em"><strong>6：&#160;我能不能带肉类制品来美国？</strong></p><p style="TEXT-INDENT:2em">	首先，新鲜的、晒干的或者罐头类的肉类制品不可以被带入美国。有关这方面的规定非常严格。但是，如果这些制品是已经烹饪过的、可以放在货架上（不需要冰箱的）、在罐头或者其它密封的容器里的，并且它们来自没有被各种主要的疫病（比如疯牛病）影响的国家，它们可能被允许入境，但仍然取决于全球疫病的最新发展情况。其次，即使你相信你可以带，你也必须向CBP申报。如果你不申报，你可能会面对最高1万美元的罚款。</p><p style="TEXT-INDENT:2em"><strong>7：我能不能带水果或者蔬菜进入美国？</strong></p><p style="TEXT-INDENT:2em"><span style="text-indent: 2em;">水果或者蔬菜可能携带农业害虫或者疾病，因此被禁止入境。同肉类一样，你必须向CBP申报你携带的水果或者蔬菜，无论其是否可能被允许入境。</span></p><p style="TEXT-INDENT:2em"><strong>8：&#160;我能否带香烟进入美国？</strong></p><p style="TEXT-INDENT:2em">	你被允许带最多200支香烟。更多的香烟也可能被允许入境，但是必须交税。</p><p style="TEXT-INDENT:2em"><strong>9：&#160;酒类是否允许携带？</strong></p><p style="TEXT-INDENT:2em">	如果你年满21岁，你被允许带每人1升酒，免税。如果你带更多的酒，你可能会被怀疑是在贩卖酒，一个CBP官员可能会让你提供一个进口执照。</p><p style="TEXT-INDENT:2em"><strong>10：中国产的月饼能不能带进美国？</strong></p><p style="TEXT-INDENT:2em">	看情况，月饼经常含有鸡蛋或者肉类。如果月饼是在有疫病流行的国家制作的，它们将被拒绝入境。如果月饼是在加拿大制作的，并且进口商可以证明它们是完全的加拿大产品，那么将没有进口限制。如果CBP官员无法确认没有被禁止的鸡蛋或者肉类含量，那么月饼将被拒绝入境。稳妥起见建议不要带月饼入关。</p><p style="TEXT-INDENT:2em"><strong>11：&#160;我能否携带药品和医疗器械，比如针或者氧气瓶？</strong></p><p style="TEXT-INDENT:2em">	处方药必须在其最初的容器里，还需要医生的诊断书。一般不要带超过90天停留所需的药物。对所有进入美国的药品，都需要一封有效的诊断书或者医生的证明。如果你携带可能对其他人有安全隐患的医疗器械，比如针或者氧气瓶，你必须有一份来自你的医生的关于这些器械的证明。</p><p style="TEXT-INDENT:2em"><strong>12：&#160;艾滋病病毒携带者（HIV阳性人士）能否入境美国？</strong></p><p style="TEXT-INDENT:2em">	可以。HIV已经从“影响公共安全的传播类疾病”的名单中去除。</p><p style="TEXT-INDENT:2em">	以上涉及的物品在过美国海关时最好不要携带，一旦不符合海关规定或者缺乏相关证明，轻则对你进行罚款，重则追究法律责任，并且在海关会留存不良记录，今后进出美国都会受到严格搜查。</p></div></div></div><a name="anchor6"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        美国入境问题英语对话</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	在态度上，要“不卑不亢”，淡定自信。英文不好没关系，只要能听懂，回答清楚就可以了，蹦单字、有文法错误这些都不要紧。听不懂的时候，请对方重复一遍（Pardon me?），听懂之后再回答。另外，问什么答什么，以免“言多必失”。<a href="http://www.xixik.com/content/bc40f685b0982f6b" target="_blank" title="过美国海关英文对话：入境美国会这十句就够啦">入境美国海关常见重要对话即提醒</a></p><p style="TEXT-INDENT:2em">	注：以下所列问题和回答仅为示范，大家要根据自己的实际情况回答。</p><p style="TEXT-INDENT:2em">	Question 1: May I see your passport, please？</p><p style="TEXT-INDENT:2em">	问：请出示你的护照。</p><p style="TEXT-INDENT:2em">	Answer: Here is my passport and the declaration form.</p><p style="TEXT-INDENT:2em">	答：这是我的护照和申报单。</p><p style="TEXT-INDENT:2em">	Question 2:Where are you from? / Where do you come from?</p><p style="TEXT-INDENT:2em">	问：你是哪里人？</p><p style="TEXT-INDENT:2em">	Answer: I am from China.</p><p style="TEXT-INDENT:2em">	答：我是中国人。</p><p style="TEXT-INDENT:2em">	Question 3: What is your final destination?</p><p style="TEXT-INDENT:2em">	问：你此行的最后目的地是哪里?（多在转机时被问）</p><p style="TEXT-INDENT:2em">	Answer: I am going to ***（地名）.</p><p style="TEXT-INDENT:2em">	答：我要去***（地名）。</p><p style="TEXT-INDENT:2em">	Question 4: What's the purpose of your visit? / Why are you here?</p><p style="TEXT-INDENT:2em">	问：你来美国的目的是什么？/ 你为什么来美国？</p><p style="TEXT-INDENT:2em">	Answer: I am here for a vacation. / I am here to visit my family and friends. / I am here for a business trip.</p><p style="TEXT-INDENT:2em">	答：我来这里度假的。 / 我来这里探亲访友。 / 我是来出差的。</p><p style="TEXT-INDENT:2em">	Question 5:How long will you stay?</p><p style="TEXT-INDENT:2em">	问：你会在这里待多久？</p><p style="TEXT-INDENT:2em">	Answer：I will stay here for *** days/*** months.</p><p style="TEXT-INDENT:2em">	答：我会在这里停留***天/***月。</p><p style="TEXT-INDENT:2em">	此时可以出示回程机票：This is my return ticket.</p><p style="TEXT-INDENT:2em">	Question 6:Where will you stay?</p><p style="TEXT-INDENT:2em">	问：你会住在哪里？</p><p style="TEXT-INDENT:2em">	Answer：I will stay in XXX Hotel. / I will stay at my friend’s place in XXX.</p><p style="TEXT-INDENT:2em">	答：我会住在XXX酒店。/我会住朋友的家，他的家在XXX。</p><p style="TEXT-INDENT:2em">	Question 7:Do you come alone or with any companions?</p><p style="TEXT-INDENT:2em">	问：你自己一个人来旅行吗？有沒有其他人和你一起？</p><p style="TEXT-INDENT:2em">	Answer：I am travelling here alone. / I am travelling with my family and friends.</p><p style="TEXT-INDENT:2em">	答：我单独来旅行的。 /我和我的家人和朋友一起来旅行。</p><p style="TEXT-INDENT:2em">	Question 8:What is your occupation?</p><p style="TEXT-INDENT:2em">	问：你从事什么行业？</p><p style="TEXT-INDENT:2em">	Answer：I am a student/ teacher/ nurse…</p><p style="TEXT-INDENT:2em">	答：我是学生/老师/护士…</p><p style="TEXT-INDENT:2em">	Question 9:Do you have any relatives living here in this country?</p><p style="TEXT-INDENT:2em">	我：你在本国有亲戚吗？</p><p style="TEXT-INDENT:2em">	Answer：Yes, my auntie/ uncle/ cousin/ grandparents/ mother/ father/ sister/ brother is / are living here. / No.</p><p style="TEXT-INDENT:2em">	答：有，我的姑姑姨妈/叔叔/表堂兄弟姐妹/祖父母/妈妈/爸爸/姐妹/兄弟居住在这里。 / 沒有</p><p style="TEXT-INDENT:2em">	Question 10:How much currency/ cash are you carrying?</p><p style="TEXT-INDENT:2em">	问：你身上携带了多少现金？</p><p style="TEXT-INDENT:2em">	Answer：I am carrying $2000 with me.</p><p style="TEXT-INDENT:2em">	答：我身上有2000美金。</p><p style="TEXT-INDENT:2em">	Question 11:Do you have anything to declare?</p><p style="TEXT-INDENT:2em">	问：你有任何东西需要申报吗？</p><p style="TEXT-INDENT:2em">	Answer：I have nothing to declare. / I need to declare…</p><p style="TEXT-INDENT:2em">	答：我没有东西需要申报。/我需要申报…</p><p style="TEXT-INDENT:2em">	如果是家里的老人，英文实在不好，也可以准备一份英文的书面情况说明，列出旅客信息、来美目的、停留时间、行程等信息。实在不行，还可以准备一张小卡片，请求会说中文的工作人员提供帮助（<span style="text-indent: 2em;">May I have a Chinese translator?）</span><span style="text-indent: 2em;">我能要一名中文翻译吗？</span></p></div></div></div><a name="anchor7"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        美国入境之陆地边境口岸</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="text-indent: 2em;"><span style="text-indent: 2em;">所有经由陆路抵美的外国旅客都需填写报关单 6059B 和出入境登记表 I-94（俗称“小白卡”）。 在陆地入境口岸，CBP 仍会签发纸质表单 I-94。</span></p><p style="text-indent: 2em;"><b>1）车辆</b></p><p style="text-indent: 2em;">	如果是经由陆路从加拿大或墨西哥入境美国，除了护照和签证外，你还需要提供某些文件：</p><p style="text-indent: 2em;">	驾驶证（提供加拿大和墨西哥驾照就够了。如果能提供国际驾驶执照当然更好，强烈推荐）</p><p style="text-indent: 2em;">	车辆注册登记文件</p><p style="text-indent: 2em;">	责任保险证明</p><p style="text-indent: 2em;"><b>2）船舶</b></p><p style="text-indent: 2em;">	旅客通常搭乘注册游轮抵美，但国际旅客不能在未报备的情况下乘私人船舶入境。从外国口岸抵美的小型船舶的驾驶员需要立即向 CBP 报备入境事宜。如果你计划乘私人游艇入境，则你很可能需要办理签证。核实巡航线路。</p><p style="text-indent: 2em;"><b>3）公共汽车</b></p><p style="text-indent: 2em;">	灰狗巴士和 Megabus 巴士提供从加拿大到美国的跨境运输，海关官员将对登车人员进行检查。灰狗巴士还提供从墨西哥始发的跨境运输。公民从加拿大或墨西哥跨境进入美国，均需提供有效护照和签证。</p><p style="text-indent: 2em;">	携带儿童旅行的监护人必须提供监护证明或由公证人证实的家长旅行授权。既不是家长也不是监护人的成人在携带儿童旅行时，必须持有儿童家长或监护人允许随同此儿童跨境旅行的书面证明，包括父母或监护人的姓名和联系信息。</p></div></div></div></div><script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script><script type="text/javascript">        var value = '227';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script><div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/entry-into-us/" target="_self" title="美国入境 - 美国海关入境攻略流程">美国入境</a></div><ul style="width: 960px; margin: auto; overflow: hidden;"><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/lixi/"
+                title="人民币存款利率表，2019银行利息，银行存款利率，银行贷款利率">银行存款利息</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chaodai/zhou/"
+                title="周朝历史_西周历史_东周历史_周朝帝王列表">周朝历史</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证_中国旅行证更换新政策_美宝中国旅行证过期了该怎么办？">中国旅行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国历任总统名单_美国历届总统任期_美国总统简历生卒年份及所属党派">美国历届总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/baijiaxing-qq/"
+                title="百家姓qq头像,百家姓qq头像闪图大全_百家姓中国心qq头像">百家姓QQ头像</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="赴美生子_美宝证件_中国旅行证_美国护照_社会安全号_美国出生纸_美宝上户口">美宝需要哪些证件？</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_赴美生子费用预算清单_赴美生子2019费用">赴美生子要多少钱</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/obama/"
+                title="奥巴马_美国总统奥巴马_贝拉克·奥巴马(Barack Hussein Obama)_第44任美国总统">奥巴马</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/trump/"
+                title="美国总统特朗普_唐纳德·约翰·特朗普_Donald John Trump_第45任美国总统川普">特朗普</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_赴美生子要多少钱？_赴美生子预算表">赴美生子费用</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 中国护照免签证国家2019">中国护照免签证</a></li></ul><div class="lindBox"><div class="btnGray"><div class="btnText"><a target="_self" title="美国入境 - 美国海关入境攻略流程" href="http://news.xixik.com/word/227/">另存为<br />                    Word格式</a></div></div></div><div class="lindBox" style="text-align: center;"><img src="http://news.xixik.com/qrcode/227/" alt="扫码手机上继续看" /><br /><br /><strong>用微信或者支付宝扫码在手机上继续观看<br />            可以保存收藏，也扫码后可以分享给好友
+        </strong></div><hr style="height: 1px; border: none; border-top: 1px dashed #999;" /><script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script><!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.--></body></html>

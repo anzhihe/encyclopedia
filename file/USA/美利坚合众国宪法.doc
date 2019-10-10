@@ -1,0 +1,2219 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <title>美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照</title>
+    <link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" />
+    <meta name="description" content="美国宪法,美利坚合众国宪法(Constitution of the United States)，通称美国联邦宪法(U.S. Constitution)。它是美国的根本大法，美国宪法是第一部比较完整的成文宪法，奠定了美国政治制度的法律基础。依照宪法第五条的规定，宪法修正案是美国宪法规定的正式改变宪法的形式之一。
+" />
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/us-constitution/">
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <base target="_blank" />
+    
+    <script>
+        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "us-constitution/";
+        }
+
+
+    </script>
+    <style>
+        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style>
+</head>
+<body>
+    <a name="top4"></a>
+    <div class="topBox" name="top">
+        <div class="topMain">
+            <div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div>
+            <div id="icoPhone"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div>
+            <div id="icoWechat"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a> </div>
+            <div id="icoSina"></div>
+            <div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a>  </div>
+            <div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div>
+            <div class="topRight">
+            </div>
+        </div>
+    </div>
+
+    <div id="showqrCode">
+        <div><span></span></div>
+        <img src="" /><div><span></span></div>
+    </div>
+    <script type="text/javascript">
+        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script>
+    <div class="body">
+        
+        <div class="lindBox" style="position: relative;">
+            <img src="http://img.xixik.net/custom/topic/001/us-constitution.jpg" alt="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照" />
+            <div class="title">
+                <h1>美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照</h1>
+            </div>
+        </div>
+        
+
+        <div class=" custom_border lindBox">
+            <div class="special_content">
+                <div class="content_text">
+                    <div class="content_daodu">
+                    </div>
+                    <h2 style="border-bottom:1px dashed #999; displayinline;">美利坚合众国宪法</h2>
+                    <p>
+	<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美利坚合众国宪法">美利坚合众国宪法</a>(Constitution of the United States)由1787年5月，<a href="http://114.xixik.com/usa-stats/" style="color:#000" title="美国50州">美国各州</a>（当时为13个）代表在费城(Philadelphia)召开制宪会议，同年9月15日制宪会议通过。200多年来，美国国会陆续通过27条修正案，使之成为美国宪法的一部分，作为美国宪法的补充条款。根据美国1787年宪法规定，美国最高法院有权利宣布总统法令违宪。</p>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="lindBox" style="overflow: hidden;">
+            <div class="gg1">
+                <a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a>
+            </div>
+            <div class="guide">
+                <div class="guideBorder" id="guideBorder">
+                    <div class="guideTitle">导读（目录）</div>
+                    <ul id="guideDisplay">
+                        
+                                <li>·<a title="美国宪法制定背景" href="#anchor1" target="_self"> 美国宪法制定背景</a></li>
+                            
+                                <li>·<a title="美国宪法内容" href="#anchor2" target="_self"> 美国宪法内容</a></li>
+                            
+                                <li>·<a title="《美利坚合众国宪法》（中文版）" href="#anchor3" target="_self"> 《美利坚合众国宪法》（中文版）</a></li>
+                            
+                                <li>·<a title="《美利坚合众国宪法》（英文版）" href="#anchor4" target="_self"> 《美利坚合众国宪法》（英文版）</a></li>
+                            
+                                <li>·<a title="美国宪法中英文对照" href="#anchor5" target="_self"> 美国宪法中英文对照</a></li>
+                            
+                                <li>·<a title="美国宪法修正案" href="#anchor6" target="_self"> 美国宪法修正案</a></li>
+                            
+                                <li>·<a title="美国宪法修正案汇总" href="#anchor7" target="_self"> 美国宪法修正案汇总</a></li>
+                            
+                                <li>·<a title="美国宪法成功的原因" href="#anchor8" target="_self"> 美国宪法成功的原因</a></li>
+                            
+                    </ul>
+                    <div class="guideOpen">展开&darr;</div>
+                </div>
+            </div>
+
+            <div class="guideFllow">
+                <div class="guideFllowBorder">
+                    <div class="guideFllowTitle">导读（目录）</div>
+                    <ul id="guideFllowDisplay">
+                        
+                                <li>·<a title="美国宪法制定背景" href="#anchor1" target="_self"> 美国宪法制定背景</a></li>
+                            
+                                <li>·<a title="美国宪法内容" href="#anchor2" target="_self"> 美国宪法内容</a></li>
+                            
+                                <li>·<a title="《美利坚合众国宪法》（中文版）" href="#anchor3" target="_self"> 《美利坚合众国宪法》（中文版）</a></li>
+                            
+                                <li>·<a title="《美利坚合众国宪法》（英文版）" href="#anchor4" target="_self"> 《美利坚合众国宪法》（英文版）</a></li>
+                            
+                                <li>·<a title="美国宪法中英文对照" href="#anchor5" target="_self"> 美国宪法中英文对照</a></li>
+                            
+                                <li>·<a title="美国宪法修正案" href="#anchor6" target="_self"> 美国宪法修正案</a></li>
+                            
+                                <li>·<a title="美国宪法修正案汇总" href="#anchor7" target="_self"> 美国宪法修正案汇总</a></li>
+                            
+                                <li>·<a title="美国宪法成功的原因" href="#anchor8" target="_self"> 美国宪法成功的原因</a></li>
+                            
+                    </ul>
+                    <div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div>
+                </div>
+            </div>
+
+
+            <div class="gg2">
+                <a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a>
+            </div>
+        </div>
+        
+        <a name="anchor1"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        美国宪法制定背景</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/us-constitution/xixik-ed242fe89790e9d4.jpg" style="margin: 10px; float: right; width: 400px;" /></p><p style="TEXT-INDENT:2em">
+	在美国独立战争结束后，<a href="http://114.xixik.com/us-states/13states/" title="美洲13个殖民地">13个殖民地地区</a>根据邦联条例，首次成立了以大陆会议为形式的松散的中央政府。在这种体制下，大陆会议没有征税权，同时由于缺乏全国性的行政和司法机构，国会只能依靠各个州的地方政府（各地政府之间往往缺乏协作）来实施其指定的法律。同时，国会对于各州之间的关税也无权介入。</p><div class='right_gg'><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 336x280-114-left -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-3849899595029685"
+     data-ad-slot="9973132210"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><p style="TEXT-INDENT:2em">
+	由于条例规定只有所有州的一致同意才能修改《邦联条例》，而且各州对于中央政府非常不重视，经常不派员参加中央会议，因此国会经常因为表决人数不足而被迫休会。</p><p style="TEXT-INDENT:2em">
+	1786年9月，5个州的行政长官在安那波利斯举行会议，讨论如何修改邦联条例以促进各州之间的通商往来。会后他们邀请各州的代表来到费城进一步讨论发展联邦政府的事宜。在激烈的辩论之后，邦联国会在1787年2月21日批准了修订邦联条约的方案。除罗德岛州之外的12个州都接受了邀请，并派代表参加1787年5月在费城举行的会议。</p><p style="TEXT-INDENT:2em">
+	最初的决议案写明了这次会议的目的是起草邦联条例的修正案，但是会议最终决定重新起草一部宪法。费城制宪会议代表投票同意采用秘密会议的方式，并且同意新的法案需要获得13个州中的9个州的批准才能生效。有人批评说这是对会议权限和现行法律的逾越。但是对于邦联体制下的政府极度不满的会议代表全体一致同意将宪法草案交付各州表决。</p><p style="TEXT-INDENT:2em">
+	1787年9月17日，该宪法草案在费城召开的美国制宪会议上获得代表的批准，并在此后不久被当时美国拥有的13个州的特别会议所批准。根据这部宪法，美国成为一个由各个拥有主权的州所组成的联邦国家，同时也有一个联邦政府来为联邦的运作而服务。从此联邦体制取代了基于邦联条例而存在的较为松散的邦联体制。<a href="http://www.xixik.com/content/eb32268ada57a3be" target="_blank" title="先知的力量？美国宪法两百年成就美国世界第一强国">先知的力量？美国宪法两百年成就美国世界第一强国</a></p><p style="TEXT-INDENT:2em">
+	直到1789年，独立战争胜利后的6年，法定建国日的13年后，<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>的前一部分才被通过、美国政府才开始工作。</p><p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/us-constitution/xixik-fa1c00a9684c67f0.jpg" style="margin: 10px; float: right; width: 400px;" /></p><p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>是世界历史上最早的成文宪法之一。此后许多国家以<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>为典范而制定本国宪法，例如1791年制定的波兰五月宪法。此外法国大革命的思想也受到了<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>的极大影响。第二次世界大战后，美国通过对日本的占领和对制定宪法的指导，对《日本国宪法》也有非常明显的影响。</p><p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>序言<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>的序言只有一句话，由52个单词构成。We the people of the United States, in order to form a more perfect Union, establish justice, insure domestic tranquility, provide for the common defense, promote the general welfare, and secure the blessings of liberty to ourselves and our posterity, do ordain and establish this Constitution for the United States of America.</p><p style="TEXT-INDENT:2em">
+	译文如下：我们合众国人民，为建立更完善的联邦，树立正义，保障国内安宁，提供共同防务，促进公共福利，并使我们自己和后代得享自由的幸福，特为美利坚合众国制定本宪法。这篇序言并没有赋予或者限制任何主体的权力，仅仅阐明了制定<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>的理论基础和目的。尽管如此，这篇序言尤其是最开头的&ldquo;我们合众国人民&rdquo;（英文为&quot;We the people&quot;三个单词）却成为<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>中被引用频率最高的部分。</p><p style="TEXT-INDENT:2em">
+	<strong>&ldquo;美国建国200多年，宪法从来没改过一个字&rdquo;？</strong></p><p style="TEXT-INDENT:2em">
+	在中国互联网上，一种习惯将中国宪法修改和<a href="http://114.xixik.com/us-constitution/" style="color:#000;" title="美国宪法">美国宪法</a>修改做比较，称&ldquo;<a href="http://www.xixik.com/content/56ac8be7960156e3" target="_blank" title="辟谣：“美国建国200多年，宪法从来没改过一个字”">美国建国200多年，宪法从来没改过一个字</a>&rdquo;的说法被广泛传播。</p><p style="TEXT-INDENT:2em">
+	1787年9月通过的仅仅是7个条文的宪法文本。这为后来<a href="http://114.xixik.com/us-constitution/" style="color:#000;" title="美国宪法">美国宪法</a>的修改埋下了伏笔。</p><p style="TEXT-INDENT:2em">
+	美国一直在用&ldquo;批准宪法修正案&rdquo;的方式对本国的宪法进行修改。虽然，美国的《宪法修正案》不是对宪法原文修改而重新颁布，但其《宪法修正案》本身就是对原来的宪法的具体的修改或补充，甚至是对原有条款的否定。截至2016年，将近一万一千条宪法修正案，在两个多世纪中被提出，只有27条最终成为<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>的一部分。即<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>27项修正案，涉及宗教、枪支、选举等各方面。</p><p style="TEXT-INDENT:2em">
+	因此<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>自颁布200多年来&ldquo;一字未改&rdquo;的说法不攻自破。根据<a href="http://114.xixik.com/us-constitution/" style="color:#000;" title="美国宪法">美国宪法</a>第5章所规定的程序，美国国会可以通过宪法修正案。但是确实<a href="http://114.xixik.com/us-constitution/" style="color:#000;" title="美国宪法">美国宪法</a>非常难修改，一个修正案的提出，须经国会参众两院的三分之二表决通过，或者由三分之二的州议会请求召开的全国制宪法议会提出。然而这只是第一部，若要修改宪法，修正案必须经过四分之三州议会的批准，因此，每个州可通过立法部门对修正案投票表决，或是单独召开一个由选民选出的代表参与的州制宪会议。一旦修正案获得通过，就将被视为<a href="http://114.xixik.com/us-constitution/" style="color:#000;" title="美国宪法">美国宪法</a>的一部分，其效力等同于<a href="http://114.xixik.com/us-constitution/" style="color:#000;" title="美国宪法">美国宪法</a>主文。</p><p style="TEXT-INDENT:2em">
+	<strong>美国宪法哪条规定可以持枪？</strong>《美国宪法》修正案第二条规定：&ldquo;一支训练有素的民兵，对一个自由州的安全实为必要，民众拥有并且佩带枪支的权利不容侵犯。&rdquo;这就是美国人可以在一些约束条件下持有枪支的法律依据。宪法第二修正案于1791年写入宪法，属于闻名于世界的&ldquo;权利法案&rdquo;的中的一条，紧随保护言论自由的宪法第一修正案。由此可见保护佩带枪支权利的悠久历史。</p>
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor2"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        美国宪法内容</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<strong>法律地位</strong></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>第六条第二款将其本身的地位表述为“国家的最高法律”。法官们通常将之理解为：当国会或者州的立法机关制定的法律与<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>有所冲突的话，这些法律将被宣布无效。两个多世纪以来，美国联邦最高法院通过众多判例不断地强化<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>的权威性。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>明确权力</strong></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>规定实行资产阶级性质的联邦制，肯定了以立法、行政、司法三权分立，相互制衡为原则的资产阶级总统制民主共和政体。</p>
+<p style="TEXT-INDENT:2em">
+	宪法原文由序言和7条正文组成。规定立法权属于美国国会，并规定了国会的组成；行政权属于<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>，以及规定总统产生的办法；司法权属于美国联邦最高法院，并规定最高法院的组成；各州的相互关系和义务；宪法修正案提出和通过的程序；联邦宪法和按照宪法制定的法律为全国最高法律；本宪法经9个州制宪会议批准后生效 。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/us-constitution/xixik-dbeaf9dc50c74d03.jpg" style="margin: 10px; float: right; width: 400px;" title="詹姆斯·麦迪逊——美国宪法之父" /></p>
+<p style="TEXT-INDENT:2em">
+	这部宪法表明，美国在世界上第一次创造出既不同于英国君主立宪制的民主共和制，也不同于议会内阁制的总统制，使美国成为一个具有全国统一的中央政权的联邦制国家。这种政治体制和国家结构形式后来为许多国家所仿效。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>明确了由选举产生的政府具有唯一的合法性。人民通过选举或者指定产生的政府官员和议员来行使权力。议员们也可以修改<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>和其他基本法律，甚至还可以重新起草新的宪法。</p>
+<p style="TEXT-INDENT:2em">
+	根据产生方式的不同，各种政府官员在权力上有着不同的限制。通过选举产生的官员只有通过选举才能继续留任其职位。而由政府首长或部门指派的其他官员则根据指派人的意愿决定去留，而且随时可以被罢免。这一规则也存在例外：美国联邦法院系统法官在接受<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>的任命之后，该项任命将终身有效。创立这一例外的目的，是为了保证法官在司法过程中不因为其职位的变动，而受到行政权力的不当干涉和压力。</p>
+<p style="TEXT-INDENT:2em">
+	在<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>生效后不久的1803年，最高法院大法官马歇尔在马伯利诉麦迪逊案中，确立了美国联邦最高法院的违宪审查权，即法院有权判断国会的立法是否与宪法的精神相违背，从而可以宣布国会的立法合宪或者无效。这一判例也确立了法院在对具体案件进行审判时，可以对宪法进行解释并运用到实际判决中。这样的判例往往会反映不同时期政治、经济、社会文化的变化，因此这也使得<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>可以在不进行修改条文的情况下，具有适应历史发展的柔软性。多年以来，从政府对广播电视的管理政策到刑事案件中被告人的权利，一系列的著名案例对美国政治和社会带来了不可忽视的影响。</p>
+<p style="TEXT-INDENT:2em">
+	根据马歇尔大法官在马伯里诉麦迪逊 （Marbury v. Madison）一案中的判决，美国最高法院在个案中有权解释宪法，并可宣布国会通过的法律违宪。至今美国法院的司法审查权已成为<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>体制中重要的组成部分。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>解释修正</strong></p>
+<p style="TEXT-INDENT:2em">
+	除了直接对宪法条文进行的修正之外，美国司法机构也可以通过判例对宪法进行实质上的修正。美国在法律传统上属于普通法国家，因此法庭在判决案件时有义务遵循之前的判例。当最高法院在判断<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>的部分条文与现存法律的关系时，事实上就是对宪法行使了解释权。</p>
+<p style="TEXT-INDENT:2em">
+	根据<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>第5章所规定的程序，美国国会可以通过宪法修正案。此外，美国2/3以上的州可以联合提出修改宪法的议案。一旦修正案获得通过，将被视为<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>的一部分，其效力等同于<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>主文。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/us-constitution/xixik-59f55d9d37dfb36f.jpeg" style="margin: 10px; float: right; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	部分学说认为，由于<a href="http://114.xixik.com/usa-stats/" style="color:#000" title="美国50州">美国各州</a>的人口差异很大，而各州在地位上保持平等，因此<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>规定的修正程序导致少数人可以否决大多数人的决定。在极端的情况下，拥有仅仅美国4%人口的州可以否决90%以上的美国人的议案。但反对派认为这种极端情况并不会出现。但是，根据宪法规定，任何对于宪法修正程序的修改都需要通过新的修正案，这将会导致出现与第二十二条军规一样的情况。</p>
+<p style="TEXT-INDENT:2em">
+	1787年制定的宪法没有把《独立宣言》和当时一些州宪法中所肯定的民主权利包括在内，遭到广大人民群众的强烈反对。后来在资产阶级民主派的压力下和1789年法国资产阶级革命的影响下，美国国会于1789年9月25日通过10条宪法修正案，作为<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>的补充条款，并于1791年12月15日得到当时9个州批准开始生效。</p>
+<p style="TEXT-INDENT:2em">
+	这10条修正案通称“权利法案”。主要内容是：国会不得制定剥夺公民的言论、出版、和平集会和请愿等自由的法律；公民的人身、住宅、文件和财产不受非法的搜查或扣押；非依法律的正当程序，不得剥夺任何人的自由、生命或财产，以及司法程序上的一些民主权利等。</p>
+<p style="TEXT-INDENT:2em">
+	以后又陆续补充了17条宪法修正案，其中主要的有：南北战争后生效的废除奴隶制，保障黑人权利的第13～15条修正案；1920年生效的美国妇女享有选举权的第19条修正案；1964年生效的关于选举时取消人头税限制的第24条修正案；1971年生效的关于降低公民选举年龄的第26条修正案等。其中第14条宪法修正案，成为了<a href="http://www.usbabyada.com/" style="color:#000" title="赴美生子">赴美生子</a>的法律基础。最终这27条修正案成为<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>的一部分。</p>
+<p style="TEXT-INDENT:2em">
+	200 多年来，<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>的内容除通过宪法修正案的方式加以改变外，更重要的是通过联邦最高法院行使司法审查权，对联邦宪法作出解释，以及通过政党、总统和国会的活动所形成的宪法惯例来改变宪法的内容，以适应社会不断变化的需要。</p>
+<p style="text-indent: 2em; text-align: center;">
+	<strong>美国宪法27条修正案列表</strong></p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<th>
+				序号</th>
+			<th>
+				通过日期</th>
+			<th>
+				修正案内容</th>
+		</tr>
+		<tr>
+			<td>
+				1</td>
+			<td>
+				1791年12月15日</td>
+			<td>
+				信仰、出版、集会、示威自由</td>
+		</tr>
+		<tr>
+			<td>
+				2</td>
+			<td>
+				1791年12月15日</td>
+			<td>
+				携带武器的自由</td>
+		</tr>
+		<tr>
+			<td>
+				3</td>
+			<td>
+				1791年12月15日</td>
+			<td>
+				军队不得进入民房</td>
+		</tr>
+		<tr>
+			<td>
+				4</td>
+			<td>
+				1791年12月15日</td>
+			<td>
+				免于不合理的搜查与扣押</td>
+		</tr>
+		<tr>
+			<td>
+				5</td>
+			<td>
+				1791年12月15日</td>
+			<td>
+				正当审判程序、一事不再理、无罪推定、征用私产需赔偿</td>
+		</tr>
+		<tr>
+			<td>
+				6</td>
+			<td>
+				1791年12月15日</td>
+			<td>
+				刑事案件接受陪审团审判的权利</td>
+		</tr>
+		<tr>
+			<td>
+				7</td>
+			<td>
+				1791年12月15日</td>
+			<td>
+				民事案件接受陪审团审判的权利</td>
+		</tr>
+		<tr>
+			<td>
+				8</td>
+			<td>
+				1791年12月15日</td>
+			<td>
+				禁止过度严厉的刑罚和罚款</td>
+		</tr>
+		<tr>
+			<td>
+				9</td>
+			<td>
+				1791年12月15日</td>
+			<td>
+				宪法未列明的权利同样受保护</td>
+		</tr>
+		<tr>
+			<td>
+				10</td>
+			<td>
+				1791年12月15日</td>
+			<td>
+				宪法未赋予政府的权利都属于各州和人民</td>
+		</tr>
+		<tr>
+			<td>
+				11</td>
+			<td>
+				1795年2月7日</td>
+			<td>
+				限制联邦法院对各州的管辖权</td>
+		</tr>
+		<tr>
+			<td>
+				12</td>
+			<td>
+				1804年6月15日</td>
+			<td>
+				总统选举办法</td>
+		</tr>
+		<tr>
+			<td>
+				13</td>
+			<td>
+				1865年12月6日</td>
+			<td>
+				废除奴隶制度</td>
+		</tr>
+		<tr>
+			<td>
+				14</td>
+			<td>
+				1868年7月9日</td>
+			<td>
+				国籍、众议员选举，公民享有平等被保护权（<a href="http://www.usbabyada.com/" style="color: rgb(0, 0, 0);" title="赴美生子">赴美生子</a>法律依据）</td>
+		</tr>
+		<tr>
+			<td>
+				15</td>
+			<td>
+				1870年2月3日</td>
+			<td>
+				公民不得受到（除性别之外的因素造成的）选举权的限制。</td>
+		</tr>
+		<tr>
+			<td>
+				16</td>
+			<td>
+				1913年2月3日</td>
+			<td>
+				国会对所得税的征收权</td>
+		</tr>
+		<tr>
+			<td>
+				17</td>
+			<td>
+				1913年4月8日</td>
+			<td>
+				代表各州的联邦参议员必须直接选举</td>
+		</tr>
+		<tr>
+			<td>
+				18</td>
+			<td>
+				1919年1月16日</td>
+			<td>
+				禁止在美国国内制造、运输酒类（<a href="http://www.xixik.com/content/58b8378b523e3914" title="美国历史上唯一被废除的宪法修正案 多管闲事出大事">后被第21条废止</a>）</td>
+		</tr>
+		<tr>
+			<td>
+				19</td>
+			<td>
+				1920年8月18日</td>
+			<td>
+				公民的选举权不因性别而受限（即赋予女性选举权）</td>
+		</tr>
+		<tr>
+			<td>
+				20</td>
+			<td>
+				1933年1月23日</td>
+			<td>
+				规定总统任期、国会议事程序</td>
+		</tr>
+		<tr>
+			<td>
+				21</td>
+			<td>
+				1933年12月5日</td>
+			<td>
+				废除第18条修正案</td>
+		</tr>
+		<tr>
+			<td>
+				22</td>
+			<td>
+				1951年2月27日</td>
+			<td>
+				总统最多连任一次</td>
+		</tr>
+		<tr>
+			<td>
+				23</td>
+			<td>
+				1961年3月19日</td>
+			<td>
+				首都华盛顿哥伦比亚特区指派总统选举人的办法</td>
+		</tr>
+		<tr>
+			<td>
+				24</td>
+			<td>
+				1964年1月23日</td>
+			<td>
+				选举权不受税收限制</td>
+		</tr>
+		<tr>
+			<td>
+				25</td>
+			<td>
+				1967年2月10日</td>
+			<td>
+				总统与副总统的继任规则</td>
+		</tr>
+		<tr>
+			<td>
+				26</td>
+			<td>
+				1971年7月1日</td>
+			<td>
+				保护18岁以上公民选举权</td>
+		</tr>
+		<tr>
+			<td>
+				27</td>
+			<td>
+				1992年5月7日</td>
+			<td>
+				禁止随意改动议员薪酬</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&#160;</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor3"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        《美利坚合众国宪法》（中文版）</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<strong style="text-indent: 2em;">序言</strong></p>
+<p style="TEXT-INDENT:2em">
+	我们美利坚合众国的人民，为了组织一个更完善的联邦，树立正义，保障国内的安宁，建立共同的国防，增进全民福利和确保我们自己及我们後代能安享自由带来的幸福，乃为美利坚合众国制定和确立这一部宪法。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>第一条</strong></p>
+<p style="TEXT-INDENT:2em">
+	第一款 本宪法所规定的立法权，全属合众国的<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>，<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>由一个<a href="http://114.xixik.com/congress/" style="color:#000" title="参议院">参议院</a>和一个<a href="http://114.xixik.com/congress/" style="color:#000" title="众议院">众议院</a>组成。</p>
+<p style="TEXT-INDENT:2em">
+	第二款 <a href="http://114.xixik.com/congress/" style="color:#000" title="众议院">众议院</a>应由各州人民每两年选举一次之议员组成，各州选举人应具有该州州议会中人数最多之一院的选举人所需之资格。凡年龄未满二十五岁，或取得合众国公民资格未满七年，或於某州当选而并非该州居民者，均不得任众议员。众议员人数及直接税税额，应按联邦所辖各州的人口数目比例分配，此项人口数目的计算法，应在全体自由人民——包括订有契约的短期仆役，但不包括末被课税的印第安人——数目之外，再加上所有其他人口之五分之三。实际人口调查，应於合众国<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>第一次会议後三年内举行，并於其後每十年举行一次，其调查方法另以法律规定之。众议员的数目，不得超过每三万人口有众议员一人，但每州至少应有众议员一人； 在举行人囗调查以前，各州得按照下列数目选举众议员 : 新罕布什尔三人、麻萨诸塞八人、罗德岛及普罗维登斯垦殖区一人、康涅狄格五人、纽约州六人．新泽西四人、宾夕法尼亚八人、特拉华一人、马里兰六人、弗吉尼亚十人、北卡罗来纳五人、南卡罗来纳五人、乔治亚三人。任何一州的众议员有缺额时，该州的行政长官应颁选举令，选出众议员以补充缺额。<a href="http://114.xixik.com/congress/" style="color:#000" title="众议院">众议院</a>应选举该除议长及其他官员； 只有<a href="http://114.xixik.com/congress/" style="color:#000" title="众议院">众议院</a>具有提出弹劾案的权力。</p>
+<p style="TEXT-INDENT:2em">
+	第三款 合众国的<a href="http://114.xixik.com/congress/" style="color:#000" title="参议院">参议院</a>由每州的州议会选举两名参议员组成之，参议员的任期为六年，每名参议员有一票表决权。参议员於第一次选举後举行会议之时，应当立即尽量均等地分成三组。第一组参议员的任期，到第二年年终时届满，第二组到第四年年终时届满，第三组到第六年年终时届满，俾使每两年有三分之一的参议员改选；如果在某州州议会休会期间，有参议员因辞职或其它原因出缺，该州的行政长官得任命临时参议员，等到州议会下次集会时，再予选举补缺。凡年龄未满三十岁，或取得合众国公民资格未满九年，或於某州当选而并非该州居民者，均不得任参议员。合众国<a href="http://114.xixik.com/vice-president/" style="color:#000" title="副总统">副总统</a>应为<a href="http://114.xixik.com/congress/" style="color:#000" title="参议院">参议院</a>议长，除非在投票票数相等时，议长无投票权。<a href="http://114.xixik.com/congress/" style="color:#000" title="参议院">参议院</a>应选举该院的其他官员，在<a href="http://114.xixik.com/vice-president/" style="color:#000" title="副总统">副总统</a>缺席或执行合众国总统职务时，还应选举临时议长。所有弹劾案，只有<a href="http://114.xixik.com/congress/" style="color:#000" title="参议院">参议院</a>有权审理。在开庭审理弹劾案时，参议员们均应宣誓或誓愿。如受审者为合众国总统，则应由最高法院首席大法官担任主席；在末得出席的参议员的三分之二的同意时，任何人不得被判有罪。弹劾案的判决，不得超过免职及取消其担任合众国政府任何有荣誉、有责任或有俸给的职位之资格；但被判处者仍须服从另据法律所作之控诉、审讯、判决及惩罚。</p>
+<p style="TEXT-INDENT:2em">
+	第四款 各州州议会应规定本州参议员及众议员之选举时间、地点及程序；但<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>得随时以法律制定或变更此种规定，惟有选举议员的地点不在此例。<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>应至少每年集会一次，开会日期应为十二月的第一个星期一，除非他们通过法律来指定另一个日期。</p>
+<p style="TEXT-INDENT:2em">
+	第五款 参众两院应各自审查本院的选举、选举结果报告和本院议员的资格，每院议员过半数即构成可以议事的法定人数；不足法定人数时，可以一天推一天地延期开会，并有权依照各该议院所规定的程序和罚则，强迫缺席的议员出席。参众两院得各自规定本院的议事规则，处罚本院扰乱秩序的议员，并且得以三分之二的同意，开除本院的议员。参众两院应各自保存一份议事记录，并经常公布，惟各该院认为应保守秘密之部分除外；两院议员对於每一问题之赞成或反对，如有五分之一出席议员请求，则应记载於议事记录内。在<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>开会期间，任一议院未得别院同意，不得休会三日以上，亦不得迁往非两院开会的其他地点。</p>
+<p style="TEXT-INDENT:2em">
+	第六款 参议员与众议员得因其服务而获报酬，报酬的多寡由法律定之，并由合众国国库支付。两院议员除犯叛国罪、重罪以及扰乱治安罪外，在出席各该院会议及往返各该院途中，有不受逮捕之特权；两院议员在议院内所发表之演说及辩论，在其它场合不受质询。参议员或众议员不得在其当选任期内担任合众国政府任何新添设的职位，或在其任期内支取因新职位而增添的俸给；在合众国政府供职的人，不得在其任职期间担任<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>议员。</p>
+<p style="TEXT-INDENT:2em">
+	第七款 有关徵税的所有法案应在<a href="http://114.xixik.com/congress/" style="color:#000" title="众议院">众议院</a>中提出；但<a href="http://114.xixik.com/congress/" style="color:#000" title="参议院">参议院</a>得以处理其它法案的方式，以修正案提出建议或表示同意。经<a href="http://114.xixik.com/congress/" style="color:#000" title="众议院">众议院</a>和<a href="http://114.xixik.com/congress/" style="color:#000" title="参议院">参议院</a>通过的法案，在正式成为法律之前，须呈送合众国总统；总统如批准，便须签署，如不批准，即应连同他的异议把它退还给原来提出该案的议院，该议院应将异议详细记入议事记录，然後进行复议。倘若在复议之後，该议院议员的三分之二仍然同意通过该法案，该院即应将该法案连同异议书送交另一院，由其同样予以复议，若此另一院亦以三分之二的多数通过，该法案即成为法律。但遇有这样的情形时，两院的表决均应以赞同或反对来定，而赞同和反对该法案的议员的姓名，均应由两院分别记载於各该院的议事记录之内 . 如总统接到法案後十日之内 （星期日除外） ，不将之退还，该法案即等於曾由总统签署一样，成为法律¨准有当<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>休会因而无法将该法案退还时，该法案才不得成为法律。任何命令、决议或表决 （有关休会问题者除外） ，凡须由<a href="http://114.xixik.com/congress/" style="color:#000" title="参议院">参议院</a>及<a href="http://114.xixik.com/congress/" style="color:#000" title="众议院">众议院</a>予以同意者，均应呈送合众国总统；经其此准之後，方始生效，如总统不予批准，则参众两院可依照对於通过法案所规定的各种规则和限制，各以三分之二的多数，再行通过。</p>
+<p style="TEXT-INDENT:2em">
+	第八款 <a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>有权规定并徵收税金、捐税、关税和其它赋税，用以偿付国债并为合众国的共同防御和全民福利提供经费；但是各种捐税、关税和其它赋税，在合众国内应划一徵收；以合众国的信用举债；管理与外国的、州与州间的，以及对印第安部落的贸易；制定在合众国内一致适用的归化条例，和有关破产的一致适用的法律；铸造货币，调议其价值，并厘定外币价值，以及制定度量衡的标准；制定对伪造合众国证券和货币的惩罚条例；设立邮政局及延造驿路；为促进科学和实用技艺的进步，对作家和发明家的著作和发明，在一定期限内给予专利权的保障；设置最高法院以下的各级法院；界定并惩罚海盗罪、在公海所犯的重罪和违背国际公法的罪行;宣战，对民用船只颁发捕押敌船及采取报复行动的特许证，制定在陆地和海面虏获战利晶的规则；募集和维持陆军，但每次拨充该项费用的款项，其有效期不得超过两年；配备和保持海军;制定有开管理和控制陆海军队的各种条例；制定召集民兵的条例，以便执行联邦法律，镇压叛乱和击退侵略；规定民兵的组织、装备和训练，以及民兵为合众国服务时的管理办法，但各州保留其军官任命权，和依照<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>规定的条例训练其民团的权力；对於由某州让与而由<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>承受，用以充当合众国政府所在地的地区 （不逾十哩见方） ，握有对其一切事务的全部立法权；对於经州议会同意，向州政府购得，用以建筑要塞、弹药库、兵工厂、船坞和其它必要建筑物的地方，也握有同样的权力；——并且为了行使上述各项权力，以及行使本宪法赋予合众国政府或其各部门或其官员的种种权力，制定一切必要的和适当的法律。</p>
+<p style="TEXT-INDENT:2em">
+	第九款 对於现有任何一州所认为的应准其移民或入境的人，在一八O八年以前，<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>不得加以禁止，但可以对入境者课税，惟以每人不超过十美元为限。不得中止人身保护令所保障的特权，惟在叛乱或受到侵犯的情况下，出於公共安全的必要时不在此限。不得通过任何褫夺公权的法案或者追溯既往的法律。除非按本宪法所规定的人口调查或统计之比例，不得徵收任何人口税或其它直接税。对各州输出之货物，不得课税。任何有关商务或纳税的条例，均不得赋予某一州的港口以优惠待遇；亦不得强迫任何开往或来自某一州的船只，驶入或驶出另一州，或向另一州纳税。除了依照法律的规定拨款之外，不得自国库中提出任何款项；一切公款收支的报告和帐目，应经常公布。合众国不得颁发任何贵族爵位: 凡是在合众国政府担任有俸给或有责任之职务者，末经<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>许可，不得接受任何国王、王子或外国的任何礼物、薪酬、职务或爵位。</p>
+<p style="TEXT-INDENT:2em">
+	第十款 各州不得缔结任何条约、结盟或组织邦联；不得对民用船只颁发捕押敌船及采取报复行动之特许证；不得铸造货币；不得发行纸币；不得指定金银币以外的物品作为偿还债务的法定货币；不得通过任何褫夺公权的法案、追溯既往的法律和损害契约义务的法律；也不得颁发任何贵族爵位。未经<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>同意，各州不得对进口货物或出口货物徵收任何税款，但为了执行该州的检查法律而有绝对的必要时，不在此限；任何州对於进出囗货物所徵的税，其净收益应归合众国国库使用；所有这一类的检查法律，<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>对之有修正和监督之权。未经<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>同意，各州不得徵收船舶吨位税，不得在和平时期保持军队和军舰，不得和另外一州或国缔结任何协定或契约，除非实际遭受入侵，或者遇到刻不容缓的危急情形时，不得从事战争。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>第二条</strong></p>
+<p style="TEXT-INDENT:2em">
+	第一款 行政权力赋予<a href="http://114.xixik.com/us-president/" style="color:#000" title="美利坚合众国总统">美利坚合众国总统</a>。<a href="http://www.xixik.com/content/1dba66dbff9cbc35" title="美国总统任期四年">总统任期四年</a>，总统和具有同样任期的<a href="http://114.xixik.com/vice-president/" style="color:#000" title="副总统">副总统</a>，应照下列手续选举 :每州应依照该州州议会所规定之手续，指定选举人若干名，其人数应与该州在<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>之参议员及众议员之总数相等；但参讥员、众议员及任何在合众国政府担任有责任及有俸给之职务的人，均不得被指定为选举人。各选举人应於其本身所属的州内集会，每人投票选举二人，其中至少应有一人不属本州居民。选举人应开列全体被选人名单，注明每人所得票数；他们还应签名作证明，并将封印後的名单送至合众国政府所在地交与<a href="http://114.xixik.com/congress/" style="color:#000" title="参议院">参议院</a>议长。<a href="http://114.xixik.com/congress/" style="color:#000" title="参议院">参议院</a>议长应於参众两院全体议员之前，开拆所有来件，然後计算票数。得票最多者，如其所得票数超过全体选举人的半数，即当选为总统；如同时不止一人得票过半数，旦又得同等票数，则<a href="http://114.xixik.com/congress/" style="color:#000" title="众议院">众议院</a>应立即投票表决，选毕其中一人为总统；如无人得票过半数，则<a href="http://114.xixik.com/congress/" style="color:#000" title="众议院">众议院</a>应自得票最多之前五名中用同样方法选举总统。但依此法选举总统时，应以州为单位，每州之代表共有一票；如全国三分之二的州各有一名或多名众议员出席，即构成选举总统的法定人数；当选总统者需获全部州的过半数票。在每次这样的选举中，於总统选出後，其获得选举人所投票数最多者，即为<a href="http://114.xixik.com/vice-president/" style="color:#000" title="副总统">副总统</a>。但如有二人或二人以上得票相等时，则应由<a href="http://114.xixik.com/congress/" style="color:#000" title="参议院">参议院</a>投票表决，选学其中一人为<a href="http://114.xixik.com/vice-president/" style="color:#000" title="副总统">副总统</a>。<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>得决定各州选出选举人的时期以及他们投票的日子；投票日期全国一律。只有出生时为合众国公民，或在本宪法实施时已为合众国公民者，可被选为总统；凡年龄未满三十五岁，或居住合众国境内未满十四年者，不得被选为总统。如遇总统被免职，或因死亡、辞职或丧失能力而不能执行其权力及职务时，总统职权应由<a href="http://114.xixik.com/vice-president/" style="color:#000" title="副总统">副总统</a>执行之。<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>得以法律规定，在总统及<a href="http://114.xixik.com/vice-president/" style="color:#000" title="副总统">副总统</a>均被免职，或死亡、辞职或丧失能力时，由何人代理总统职务，该人应即遵此视事，至总统能力恢复，或新总统被选出时为止。总统得因其服务而在规定的时间内接受俸给，在其任期之内，俸金数额不得增加或减低，他亦不得在此任期内，自合众国政府和任何州政府接爱其它报酬。在他就职之前，他应宣誓或誓愿如下：——「我郑重宣誓（或 矢言） 我必忠诚地执行合众国总统的职务，并尽我最大的能力，维持、保护和捍卫合众国宪法。</p>
+<p style="TEXT-INDENT:2em">
+	第二款 总统为合众国陆海军的总司令，并在各州民团奉召为合众国执行任务的担任统帅；他可以要求每个行政部门的主管官员提出有关他们职务的任何事件的书面意见 ，除了弹劫案之外，他有权对於违犯合众国法律者颁赐缓刑和特赦。总统有权缔订条约，但须争取<a href="http://114.xixik.com/congress/" style="color:#000" title="参议院">参议院</a>的意见和同意，并须出席的参议员中三分之二的人赞成 ；他有权提名，并於取得<a href="http://114.xixik.com/congress/" style="color:#000" title="参议院">参议院</a>的意见和同意後，任命大使、公使及领事、最高法院的法官，以及一切其他在本宪法中未经明定、但以後将依法律的规定而设置之合众国官员；<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>可以制定法律，酌情把这些较低级官员的任命权，授予总统本人，授予法院，或授予各行政部门的首长。在<a href="http://114.xixik.com/congress/" style="color:#000" title="参议院">参议院</a>休会期间，如遇有职位出缺，总统有权任命官员补充缺额，任期於<a href="http://114.xixik.com/congress/" style="color:#000" title="参议院">参议院</a>下届会议结束时终结。</p>
+<p style="TEXT-INDENT:2em">
+	第三款 总统应经常向<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>报告联邦的情况，并向<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>提出他认为必要和适当的措施，供其考虑；在特殊情况下，他得召集两院或其中一院开会，并得於两院对於休会时间意见不一致时，命令两院休会到他认为适当的时期为止；他应接见大使和公使；他应注意使法律切实执行，并任命所有合众国的军官。</p>
+<p style="TEXT-INDENT:2em">
+	第四款 合众国总统、<a href="http://114.xixik.com/vice-president/" style="color:#000" title="副总统">副总统</a>及其他所有文官，因叛国、贿赂或其它重罪和轻罪，被弹劾而判罪者，均应免职。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>第三条</strong></p>
+<p style="TEXT-INDENT:2em">
+	第一款 合众国的司法权属於一个最高法院以及由<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>随时下令设立的低级法院。最高法院和低级法院的法官，如果尽忠职守，应继续任职，并按期接受俸给作为其服务之报酬，在其继续任职期间，该项俸给不得削减。</p>
+<p style="TEXT-INDENT:2em">
+	第二款 司法权适用的范围，应包括在本宪法、合众国法律、和合众国已订的及将订的条约之下发生的一切涉及普通法及衡平法的案件；一切有关大使、公使及领事的案件；一切有关海上裁判权及海事裁判权的案件；合众国为当事一方的诉讼; 州与州之间的诉讼，州与另一州的公民之间的诉讼，一州公民与另一州公民之间的诉讼，同州公民之间为不同之州所让与之土地而争执的诉讼，以及一州或其公民与外国政府、公民或其属民之间的诉讼。在一切有关大使、公使、领事以及州为当事一方的案件中，最高法院有最初审理权。在上述所有其它案件中，最高法院有关於法律和事实的受理上诉权，但由<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>规定为例外及另有处理条例者，不在此限。对一切罪行的审判，除了弹劫案以外，均应由陪审团裁定，并且该审判应在罪案发生的州内举行；但如罪案发生地点并不在任何一州之内，该项审判应在<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>按法律指定之地点或几个地点学行。</p>
+<p style="TEXT-INDENT:2em">
+	第三款 只有对合众国发动战争，或投向它的敌人，予敌人以协助及方便者，方构成叛国罪。无论何人，如非经由两个证人证明他的公然的叛国行为，或经由本人在公开法庭认罪者，均不得被判叛国罪。<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>有权宣布对於叛国罪的惩处，但因叛国罪而被褫夺公权者，其後人之继承权不受影响，叛国者之财产亦只能在其本人生存期间被没收。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>第四条</strong></p>
+<p style="TEXT-INDENT:2em">
+	第一款 各州对其它各州的公共法案、记录、和司法程序，应给予完全的信赖和尊重。<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>得制定一般法律，用以规定这种法案、记录、和司法程序如何证明以及具有何等效力。</p>
+<p style="TEXT-INDENT:2em">
+	第二款 每州公民应享受各州公民所有之一切特权及豁免。凡在任何一州被控犯有叛国罪、重罪或其它罪行者，逃出法外而在另一州被缉获时，该州应即依照该罪犯所逃出之州的行政当局之请求，将该罪犯交出，以便移交至该犯罪案件有管辖权之州。凡根据一州之法律应在该州服役或服劳役者，逃往另一州时，不得因另一州之任何法律或条例，解除其服役或劳役，而应依照有权要求该项服役或劳役之当事一方的要求，把人交出。</p>
+<p style="TEXT-INDENT:2em">
+	第三款 <a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>得准许新州加入联邦；如无有关各州之州议会及<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>之同意，不得於任何州之管辖区域内建立新州；亦不得合并两州或数州、或数州之一部分而成立新州。<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>有权处置合众国之属地及其它产业，并制定有关这些属地及产业的一切必要的法规和章则；本宪法中任何条文，不得作有损於合众国或任何一州之权利的解释。</p>
+<p style="TEXT-INDENT:2em">
+	第四款 合众国保证联邦中的每一州皆为共和政体，保障它们不受外来的侵略；并且根据各州州议会或行政部门 （当州议会不能召集时） 的请求，平定其内部的暴乱。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>第五条</strong></p>
+<p style="TEXT-INDENT:2em">
+	举凡两院议员各以三分之二的多数认为必要时，<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>应提出对本宪法的修正案；或者， 当现有诸州三分之二的州议会提出请求时，<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>应召集修宪大会，以上两种修正案，如经诸州四分之三的州议会或四分之三的州修宪大会批准时，即成为本宪法之一部分而发生全部效力，至於采用那一种批准方式，则由<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>议决；但一八零八年以前可能制定之修正案，在任何情形下，不得影响本宪法第一条第九款之第一、第四两项；任何一州，没有它的同意，不得被剥夺它在<a href="http://114.xixik.com/congress/" style="color:#000" title="参议院">参议院</a>中的平等投票权。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>第六条</strong></p>
+<p style="TEXT-INDENT:2em">
+	合众国政府於本宪法被批准之前所积欠之债务及所签订之条约，於本宪法通过後，具有和在邦联政府时同等的效力。本宪法及依本宪法所制定之合众国法律; 以及合众国已经缔结及将要缔结的一切条约，皆为全国之最高法律；每个州的法官都应受其约束，任何一州宪法或法律中的任何内容与之抵触时，均不得有违这一规定。前述之参议员及众议员，各州州议会议员，合众国政府及各州政府之一切行政及司法官员，均应宣誓或誓愿拥护本宪法；但合众国政府之任何职位或公职，皆不得以任何宗教标准作为任职的必要条件。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>第七条</strong></p>
+<p style="TEXT-INDENT:2em">
+	本宪法经过九个州的制宪大会批准後，即在批准本宪法的各州之间开始生效。</p>
+<p style="TEXT-INDENT:2em">
+	签署人：乔治·华盛顿、亚伯拉罕·鲍德温、理查德·巴西特、小冈宁·贝德福德、约翰·布莱尔、威廉·布朗特、戴维·布里尔利、雅各布·布鲁姆、 皮尔斯·巴特勒、丹尼尔·卡罗尔、 乔治·克莱默、 丹尼尔·圣托马斯·詹尼弗、 乔纳森·戴顿、 约翰·迪金森、 威廉·菲尤、 托马斯·菲茨西蒙斯、本杰明·富兰克林、尼古拉斯·吉尔曼、 纳撒尼尔·戈勒姆、 亚历山大·汉密尔顿、 贾里德·英格索尔、 威廉·塞缪尔·约翰逊、 鲁弗斯·金、 约翰·兰登、 威廉·利文斯顿、 詹姆斯·麦迪逊、 詹姆斯·麦克亨利、托马斯·米夫林、 古弗尼尔·莫里斯、罗伯特·莫里斯、 威廉·佩特森、 查尔斯·科茨沃思·平克尼、 查尔斯·平克尼、 乔治·里德、 约翰·拉特利奇、罗杰·谢尔曼、理查德·多布斯·斯佩特、 休·威廉森、 詹姆斯·威尔逊</p>
+<p style="TEXT-INDENT:2em">
+	<strong>美国宪法中文版</strong>文件下载：<a href="http://114.xixik.com/us-constitution/US-Constitution.pdf" title="《美国宪法》中文版下载">http://114.xixik.com/us-constitution/US-Constitution.pdf</a></p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor4"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        《美利坚合众国宪法》（英文版）</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    	<style type="text/css">
+.engtxt {text-transform:capitalize;}
+	</style>
+
+<p class="engtxt">
+	<strong>《THE CONSTITUTION OF THE UNITED STATES OF AMERICA》</strong></p>
+<p class="engtxt">
+	March 4, 1789</p>
+<p class="engtxt">
+	<strong>Preamble</strong></p>
+<p class="engtxt">
+	We the people of the United States, in order to form a more perfect union, establish justice, insure domestic tranquility, provide for the common defense, promote the general welfare, and secure the blessings of liberty to ourselves and our posterity, do ordain and establish this Constitution for the United States of America.</p>
+<p>
+	<strong>Article I</strong></p>
+<p>
+	Section 1. All legislative powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives.</p>
+<p>
+	Section 2. The House of Representatives shall be composed of members chosen every second year by the people of the several states, and the electors in each state shall have the qualifications requisite for electors of the most numerous branch of the state legislature.</p>
+<p>
+	No person shall be a Representative who shall not have attained to the age of twenty five years, and been seven years a citizen of the United States, and who shall not, when elected, be an inhabitant of that state in which he shall be chosen.</p>
+<p>
+	Representatives and direct taxes shall be apportioned among the several states which may be included within this union, according to their respective numbers, which shall be determined by adding to the whole number of free persons, including those bound to service for a term of years, and excluding Indians not taxed, three fifths of all other Persons. The actual Enumeration shall be made within three years after the first meeting of the Congress of the United States, and within every subsequent term of ten years, in such manner as they shall by law direct. The number of Representatives shall not exceed one for every thirty thousand, but each state shall have at least one Representative; and until such enumeration shall be made, the state of New Hampshire shall be entitled to choose three, Massachusetts eight, Rhode Island and Providence Plantations one, Connecticut five, New York six, New Jersey four, Pennsylvania eight, Delaware one, Maryland six, Virginia ten, North Carolina five, South Carolina five, and Georgia three.</p>
+<p>
+	When vacancies happen in the Representation from any state, the executive authority thereof shall issue writs of election to fill such vacancies.</p>
+<p>
+	The House of Representatives shall choose their speaker and other officers; and shall have the sole power of impeachment.</p>
+<p>
+	Section 3. The Senate of the United States shall be composed of two Senators from each state, chosen by the legislature thereof, for six years; and each Senator shall have one vote.Immediately after they shall be assembled in consequence of the first election, they shall be divided as equally as may be into three classes. The seats of the Senators of the first class shall be vacated at the expiration of the second year, of the second class at the expiration of the fourth year, and the third class at the expiration of the sixth year, so that one third may be chosen every second year; and if vacancies happen by resignation, or otherwise, during the recess of the legislature of any state, the executive thereof may make temporary appointments until the next meeting of the legislature, which shall then fill such vacancies.</p>
+<p>
+	No person shall be a Senator who shall not have attained to the age of thirty years, and been nine years a citizen of the United States and who shall not, when elected, be an inhabitant of that state for which he shall be chosen.</p>
+<p>
+	The Vice President of the United States shall be President of the Senate, but shall have no vote, unless they be equally divided.</p>
+<p>
+	The Senate shall choose their other officers, and also a President pro tempore, in the absence of the Vice President, or when he shall exercise the office of President of the United States.</p>
+<p>
+	The Senate shall have the sole power to try all impeachments. When sitting for that purpose, they shall be on oath or affirmation. When the President of the United States is tried, the Chief Justice shall preside: And no person shall be convicted without the concurrence of two thirds of the members present.</p>
+<p>
+	Judgment in cases of impeachment shall not extend further than to removal from office, and disqualification to hold and enjoy any office of honor, trust or profit under the United States: but the party convicted shall nevertheless be liable and subject to indictment, trial, judgment and punishment, according to law.</p>
+<p>
+	Section 4. The times, places and manner of holding elections for Senators and Representatives, shall be prescribed in each state by the legislature thereof; but the Congress may at any time by law make or alter such regulations, except as to the places of choosing Senators.</p>
+<p>
+	The Congress shall assemble at least once in every year, and such meeting shall be on the first Monday in December, unless they shall by law appoint a different day.Section 5. Each House shall be the judge of the elections, returns and qualifications of its own members, and a majority of each shall constitute a quorum to do business; but a smaller number may adjourn from day to day, and may be authorized to compel the attendance of absent members, in such manner, and under such penalties as each House may provide.</p>
+<p>
+	Each House may determine the rules of its proceedings, punish its members for disorderly behavior, and, with the concurrence of two thirds, expel a member.</p>
+<p>
+	Each House shall keep a journal of its proceedings, and from time to time publish the same, excepting such parts as may in their judgment require secrecy; and the yeas and nays of the members of either House on any question shall, at the desire of one fifth of those present, be entered on the journal.</p>
+<p>
+	Neither House, during the session of Congress, shall, without the consent of the other, adjourn for more than three days, nor to any other place than that in which the two Houses shall be sitting.</p>
+<p>
+	Section 6. The Senators and Representatives shall receive a compensation for their services, to be ascertained by law, and paid out of the treasury of the United States. They shall in all cases, except treason, felony and breach of the peace, be privileged from arrest during their attendance at the session of their respective Houses, and in going to and returning from the same; and for any speech or debate in either House, they shall not be questioned in any other place.</p>
+<p>
+	No Senator or Representative shall, during the time for which he was elected, be appointed to any civil office under the authority of the United States, which shall have been created, or the emoluments whereof shall have been increased during such time; and no person holding any office under the United States, shall be a member of either House during his continuance in office.</p>
+<p>
+	Section 7. All bills for raising revenue shall originate in the House of Representatives; but the Senate may propose or concur with amendments as on other Bills.</p>
+<p>
+	Every bill which shall have passed the House of Representatives and the Senate, shall, before it become a law, be presented to the President of the United States; if he approve he shall sign it, but if not he shall return it, with his objections to that House in which it shall have originated, who shall enter the objections at large on their journal, and proceed to reconsider it. If after such reconsideration two thirds of that House shall agree to pass the bill, it shall be sent, together with the objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall become a law. But in all such cases the votes of both Houses shall be determined by yeas and nays, and the names of the persons voting for and against the bill shall be entered on the journal of each House respectively. If any bill shall not be returned by the President within ten days （Sundays excepted） after it shall have been presented to him, the same shall be a law, in like manner as if he had signed it, unless the Congress by their adjournment prevent its return, in which case it shall not be a law.</p>
+<p>
+	Every order, resolution, or vote to which the concurrence of the Senate and House of Representatives may be necessary （except on a question of adjournment） shall be presented to the President of the United States; and before the same shall take effect, shall be approved by him, or being disapproved by him, shall be repassed by two thirds of the Senate and House of Representatives, according to the rules and limitations prescribed in the case of a bill.</p>
+<p>
+	Section 8. The Congress shall have power to lay and collect taxes, duties, imposts and excises, to pay the debts and provide for the common defense and general welfare of the United States; but all duties, imposts and excises shall be uniform throughout the United States;</p>
+<p>
+	To borrow money on the credit of the United States;</p>
+<p>
+	To regulate commerce with foreign nations, and among the several states, and with the Indian tribes;</p>
+<p>
+	To establish a uniform rule of naturalization, and uniform laws on the subject of bankruptcies throughout the United States;</p>
+<p>
+	To coin money, regulate the value thereof, and of foreign coin, and fix the standard of weights and measures;</p>
+<p>
+	To provide for the punishment of counterfeiting the securities and current coin of the United States;</p>
+<p>
+	To establish post offices and post roads;</p>
+<p>
+	To promote the progress of science and useful arts, by securing for limited times to authors and inventors the exclusive right to their respective writings and discoveries;</p>
+<p>
+	To constitute tribunals inferior to the Supreme Court;</p>
+<p>
+	To define and punish piracies and felonies committed on the high seas, and offenses against the law of nations;</p>
+<p>
+	To declare war, grant letters of marque and reprisal, and make rules concerning captures on land and water;</p>
+<p>
+	To raise and support armies, but no appropriation of money to that use shall be for a longer term than two years;</p>
+<p>
+	To provide and maintain a navy;</p>
+<p>
+	To make rules for the government and regulation of the land and naval forces;</p>
+<p>
+	To provide for calling forth the militia to execute the laws of the union, suppress insurrections and repel invasions;</p>
+<p>
+	To provide for organizing, arming, and disciplining, the militia, and for governing such part of them as may be employed in the service of the United States, reserving to the states respectively, the appointment of the officers, and the authority of training the militia according to the discipline prescribed by Congress;</p>
+<p>
+	To exercise exclusive legislation in all cases whatsoever, over such District （not exceeding ten miles square） as may, by cession of particular states, and the acceptance of Congress, become the seat of the government of the United States, and to exercise like authority over all places purchased by the consent of the legislature of the state in which the same shall be, for the erection of forts, magazines, arsenals, dockyards, and other needful buildings;</p>
+<p>
+	To make all laws which shall be necessary and proper for carrying into execution the foregoing powers, and all other powers vested by this Constitution in the government of the United States, or in any department or officer thereof.</p>
+<p>
+	Section 9. The migration or importation of such persons as any of the states now existing shall think proper to admit, shall not be prohibited by the Congress prior to the year one thousand eight hundred and eight, but a tax or duty may be imposed on such importation, not exceeding ten dollars for each person.</p>
+<p>
+	The privilege of the writ of habeas corpus shall not be suspended, unless when in cases of rebellion or invasion the public safety may require it.</p>
+<p>
+	No bill of attainder or ex post facto Law shall be passed.</p>
+<p>
+	No capitation, or other direct, tax shall be laid, unless in proportion to the census or enumeration herein before directed to be taken.</p>
+<p>
+	No tax or duty shall be laid on articles exported from any state.</p>
+<p>
+	No preference shall be given by any regulation of commerce or revenue to the ports of one state over those of another: nor shall vessels bound to, or from, one state, be obliged to enter, clear or pay duties in another.</p>
+<p>
+	No money shall be drawn from the treasury, but in consequence of appropriations made by law; and a regular statement and account of receipts and expenditures of all public money shall be published from time to time.</p>
+<p>
+	No title of nobility shall be granted by the United States: and no person holding any office of profit or trust under them, shall, without the consent of the Congress, accept of any present, emolument, office, or title, of any kind whatever, from any king, prince, or foreign state.</p>
+<p>
+	Section 10. No state shall enter into any treaty, alliance, or confederation; grant letters of marque and reprisal; coin money; emit bills of credit; make anything but gold and silver coin a tender in payment of debts; pass any bill of attainder, ex post facto law, or law impairing the obligation of contracts, or grant any title of nobility.</p>
+<p>
+	No state shall, without the consent of the Congress, lay any imposts or duties on imports or exports, except what may be absolutely necessary for executing it s inspection laws: and the net produce of all duties and imposts, laid by any state on imports or exports, shall be for the use of the treasury of the United States; and all such laws shall be subject to the revision and control of the Congress.</p>
+<p>
+	No state shall, without the consent of Congress, lay any duty of tonnage, keep troops, or ships of war in time of peace, enter into any agreement or compact with another state, or with a foreign power, or engage in war, unless actually invaded, or in such imminent danger as will not admit of delay.</p>
+<p>
+	<strong>Article II</strong></p>
+<p>
+	Section 1. The executive power shall be vested in a President of the United States of America. He shall hold his office during the term of four years, and, together with the Vice President, chosen for the same term, be elected, as follows:</p>
+<p>
+	Each state shall appoint, in such manner as the Legislature thereof may direct, a number of electors, equal to the whole number of Senators and Representatives to which the State may be entitled in the Congress: but no Senator or Representative, or person holding an office of trust or profit under the United States, shall be appointed an elector.</p>
+<p>
+	The electors shall meet in their respective states, and vote by ballot for two persons, of whom one at least shall not be an inhabitant of the same state with themselves. And they shall make a list of all the persons voted for, and of the number of votes for each; which list they shall sign and certify, and transmit sealed to the seat of the government of the United States, directed to the President of the Senate. The President of the Senate shall, in the presence of the Senate and House of Representatives, open all the certificates, and the votes shall then be counted. The person having the greatest number of votes shall be the President, if such number be a majority of the whole number of electors appointed; and if there be more than one who have such majority, and have an equal number of votes, then the House of Representatives shall immediately choose by ballot one of them for President; and if no person have a majority, then from the five highest on the list the said House shall in like manner choose the President. But in choosing the President, the votes shall be taken by States, the representation from each state having one vote; A quorum for this purpose shall consist of a member or members from two thirds of the states, and a majority of all the states shall be necessary to a choice. In every case, after the choice of the President, the person having the greatest number of votes of the electors shall be the Vice President. But if there should remain two or more who have equal votes, the Senate shall choose from them by ballot the Vice President.</p>
+<p>
+	The Congress may determine the time of choosing the electors, and the day on which they shall give their votes; which day shall be the same throughout the United States.</p>
+<p>
+	No person except a natural born citizen, or a citizen of the United States, at the time of the adoption of this Constitution, shall be eligible to the office of President; neither shall any person be eligible to that office who shall not have attained to the age of thirty five years, and been fourteen Years a resident within the United States.</p>
+<p>
+	In case of the removal of the President from office, or of his death, resignation, or inability to discharge the powers and duties of the said office, the same shall devolve on the Vice President, and the Congress may by law provide for the case of removal, death, resignation or inability, both of the President and Vice President, declaring what officer shall then act as President, and such officer shall act accordingly, until the disability be removed, or a President shall be elected.</p>
+<p>
+	The President shall, at stated times, receive for his services, a compensation, which shall neither be increased nor diminished during the period for which he shall have been elected, and he shall not receive within that period any other emolument from the United States, or any of them.</p>
+<p>
+	Before he enter on the execution of his office, he shall take the following oath or affirmation:——"I do solemnly swear （or affirm） that I will faithfully execute the office of President of the United States, and will to the best of my ability, preserve, protect and defend the Constitution of the United States."</p>
+<p>
+	Section 2. The President shall be commander in chief of the Army and Navy of the United States, and of the militia of the several states, when called into the actual service of the United States; he may require the opinion, in writing, of the principal officer in each of the executive departments, upon any subject relating to the duties of their respective offices, and he shall have power to grant reprieves and pardons for offenses against the United States, except in cases of impeachment.</p>
+<p>
+	He shall have power, by and with the advice and consent of the Senate, to make treaties, provided two thirds of the Senators present concur; and he shall nominate, and by and with the advice and consent of the Senate, shall appoint ambassadors, other public ministers and consuls, judges of the Supreme Court, and all other officers of the United States, whose appointments are not herein otherwise provided for, and which shall be established by law: but the Congress may by law vest the appointment of such inferior officers, as they think proper, in the President alone, in the courts of law, or in the heads of departments.</p>
+<p>
+	The President shall have power to fill up all vacancies that may happen during the recess of the Senate, by granting commissions which shall expire at the end of their next session.</p>
+<p>
+	Section 3. He shall from time to time give to the Congress information of the state of the union, and recommend to their consideration such measures as he shall judge necessary and expedient; he may, on extraordinary occasions, convene both Houses, or either of them, and in case of disagreement between them, with respect to the time of adjournment, he may adjourn them to such time as he shall think proper; he shall receive ambassadors and other public ministers; he shall take care that the laws be faithfully executed, and shall commission all the officers of the United States.</p>
+<p>
+	Section 4. The President, Vice President and all civil officers of the United States, shall be removed from office on impeachment for, and conviction of, treason, bribery, or other high crimes and misdemeanors.</p>
+<p>
+	<strong>Article III</strong></p>
+<p>
+	Section 1. The judicial power of the United States, shall be vested in one Supreme Court, and in such inferior courts as the Congress may from time to time ordain and establish. The judges, both of the supreme and inferior courts, shall hold their offices during good behaviour, and shall, at stated times, receive for their services, a compensation, which shall not be diminished during their continuance in office.</p>
+<p>
+	Section 2. The judicial power shall extend to all cases, in law and equity, arising under this Constitution, the laws of the United States, and treaties made, or which shall be made, under their authority;——to all cases affecting ambassadors, other public ministers and consuls;——to all cases of admiralty and maritime jurisdiction;——to controversies to which the United States shall be a party;——to controversies between two or more states;——between a state and citizens of another state;——between citizens of different states;——between citizens of the same state claiming lands under grants of different states, and between a state, or the citizens thereof, and foreign states, citizens or subjects.</p>
+<p>
+	In all cases affecting ambassadors, other public ministers and consuls, and those in which a state shall be party, the Supreme Court shall have original jurisdiction. In all the other cases before mentioned, the Supreme Court shall have appellate jurisdiction, both as to law and fact, with such exceptions, and under such regulations as the Congress shall make.</p>
+<p>
+	The trial of all crimes, except in cases of impeachment, shall be by jury; and such trial shall be held in the state where the said crimes shall have been committed; but when not committed within any state, the trial shall be at such place or places as the Congress may by law have directed.</p>
+<p>
+	Section 3. Treason against the United States, shall consist only in levying war against them, or in adhering to their enemies, giving them aid and comfort. No person shall be convicted of treason unless on the testimony of two witnesses to the same overt act, or on confession in open court.</p>
+<p>
+	The Congress shall have power to declare the punishment of treason, but no attainder of treason shall work corruption of blood, or forfeiture except during the life of the person attainted.</p>
+<p>
+	<strong>Article IV</strong></p>
+<p>
+	Section 1. Full faith and credit shall be given in each state to the public acts, records, and judicial proceedings of every other state. And the Congress may by general laws prescribe the manner in which such acts, records, and proceedings shall be proved, and the effect thereof.</p>
+<p>
+	Section 2. The citizens of each state shall be entitled to all privileges and immunities of citizens in the several states.</p>
+<p>
+	A person charged in any state with treason, felony, or other crime, who shall flee from justice, and be found in another state, shall on demand of the executive authority of the state from which he fled, be delivered up, to be removed to the state having jurisdiction of the crime.</p>
+<p>
+	No person held to service or labor in one state, under the laws thereof, escaping into another, shall, in consequence of any law or regulation therein, be discharged from such service or labor, but shall be delivered up on claim of the party to whom such service or labor may be due.</p>
+<p>
+	Section 3. New states may be admitted by the Congress into this union; but no new states shall be formed or erected within the jurisdiction of any other state; nor any state be formed by the junction of two or more states, or parts of states, without the consent of the legislatures of the states concerned as well as of the Congress.</p>
+<p>
+	The Congress shall have power to dispose of and make all needful rules and regulations respecting the territory or other property belonging to the United States; and nothing in this Constitution shall be so construed as to prejudice any claims of the United States, or of any particular state.</p>
+<p>
+	Section 4. The United States shall guarantee to every state in this union a republican form of government, and shall protect each of them against invasion; and on application of the legislature, or of the executive （when the legislature cannot be convened） against domestic violence.</p>
+<p>
+	<strong>Article V</strong></p>
+<p>
+	The Congress, whenever two thirds of both houses shall deem it necessary, shall propose amendments to this Constitution, or, on the application of the legislatures of two thirds of the several states, shall call a convention for proposing amendments, which, in either case, shall be valid to all intents and purposes, as part of this Constitution, when ratified by the legislatures of three fourths of the several states, or by conventions in three fourths thereof, as the one or the other mode of ratification may be proposed by the Congress; provided that no amendment which may be made prior to the year one thousand eight hundred and eight shall in any manner affect the first and fourth clauses in the ninth section of the first article; and that no state, without its consent, shall be deprived of its equal suffrage in the Senate.</p>
+<p>
+	<strong>Article VI</strong></p>
+<p>
+	All debts contracted and engagements entered into, before the adoption of this Constitution, shall be as valid against the United States under this Constitution, as under the Confederation.</p>
+<p>
+	This Constitution, and the laws of the United States which shall be made in pursuance thereof; and all treaties made, or which shall be made, under the authority of the United States, shall be the supreme law of the land; and the judges in every state shall be bound thereby, anything in the Constitution or laws of any State to the contrary notwithstanding.</p>
+<p>
+	The Senators and Representatives before mentioned, and the members of the several state legislatures, and all executive and judicial officers, both of the United States and of the several states, shall be bound by oath or affirmation, to support this Constitution; but no religious test shall ever be required as a qualification to any office or public trust under the United States.</p>
+<p>
+	<strong>Article VII</strong></p>
+<p>
+	The ratification of the conventions of nine states, shall be sufficient for the establishment of this Constitution between the states so ratifying the same.</p>
+<p>
+	Done in convention by the unanimous consent of the states present the seventeenth day of September in the year of our Lord one thousand seven hundred and eighty seven and of the independence of the United States of America the twelfth.In witness whereof We have hereunto subscribed our Names,</p>
+<p>
+	G. Washington-Presidt. and deputy from Virginia</p>
+<p>
+	New Hampshire: John Langdon, Nicholas Gilman</p>
+<p>
+	Massachusetts: Nathaniel Gorham, Rufus King</p>
+<p>
+	Connecticut: Wm: Saml. Johnson, Roger Sherman</p>
+<p>
+	New York: Alexander Hamilton</p>
+<p>
+	New Jersey: Wil: Livingston, David Brearly, Wm. Paterson, Jona: Dayton</p>
+<p>
+	Pennsylvania: B. Franklin, Thomas Mifflin, Robt. Morris, Geo. Clymer, Thos. FitzSimons, Jared Ingersoll, James Wilson, Gouv Morris</p>
+<p>
+	Delaware: Geo: Read, Gunning Bedford jun, John Dickinson, Richard Bassett, Jaco: Broom</p>
+<p>
+	Maryland: James McHenry, Dan of St Thos. Jenifer, Danl Carroll</p>
+<p>
+	Virginia: John Blair, James Madison Jr.North Carolina: Wm. Blount, Richd. Dobbs Spaight, Hu Williamson</p>
+<p>
+	South Carolina: J. Rutledge, Charles Cotesworth Pinckney, Charles Pinckney, Pierce Butler</p>
+<p>
+	Georgia: William Few, Abr Baldwin</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor5"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        美国宪法中英文对照</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p>
+	<strong>PREAMBLE序言</strong></p>
+<p>
+	We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.</p>
+<p>
+	我们合众国人民，为建立更完善的联盟，树立正义，保障国内安宁，提供共同防务，促进公共福利，并使我们自己和后代得享自由的幸福，特为美利坚合众国制定本宪法。</p>
+<p>
+	<strong>ARTICLE I第一条</strong></p>
+<p>
+	Section 1第一款</p>
+<p>
+	All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives.</p>
+<p>
+	本宪法所授予的全部立法权均属于由<a style="color:#000" title="参议院" href="http://114.xixik.com/congress/">参议院</a>和<a style="color:#000" title="众议院" href="http://114.xixik.com/congress/">众议院</a>组成的合众国<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>。</p>
+<p>
+	Section 2第二款</p>
+<p>
+	The House of Representatives shall be composed of Members chosen every second Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislature.</p>
+<p>
+	<a style="color:#000" title="众议院" href="http://114.xixik.com/congress/">众议院</a>由各州人民每两年选举产生的议员组成，每州的选举人应具备该州州议会人数最多一院的选举人所需具备的资格。</p>
+<p>
+	No Person shall be a Representative who shall not have attained to the Age of twenty five Years, and been seven Years a Citizen of the United States, and who shall not, when elected, be an Inhabitant of that State in which he shall be chosen.</p>
+<p>
+	<a style="color:#000" title="年龄" href="http://114.xixik.com/nianling/">年龄</a>未满25岁，为合众国公民未满7年以及当选时非其选出州居民者，不得为<a style="color:#000" title="众议院" href="http://114.xixik.com/congress/">众议院</a>议员。</p>
+<p>
+	Representatives and direct Taxes shall be apportioned among the several States which may be included within this Union, according to their respective Numbers, which shall be determined by adding to the whole Number of free Persons, including those bound to Service for a Term of Years, and excluding Indians not taxed, three fifths of all other Persons. The actual Enumeration shall be made within three Years after the first Meeting of the Congress of the United States, and within every subsequent Term of ten Years, in such Manner as they shall by Law direct.The number of Representatives shall not exceed one for every thirty Thousand, but each State shall have at Least one Representative; and until such enumeration shall be made, the State of New Hampshire shall be entitled to chuse three, Massachusetts eight, Rhode-Island and Providence Plantations one, Connecticut five, New-York six, New Jersey four, Pennsylvania eight, Delaware one, Maryland six, Virginia ten, North Carolina five, South Carolina five, and Georgia three.</p>
+<p>
+	<a style="color:#000" title="众议院" href="http://114.xixik.com/congress/">众议院</a>人数和直接税税额均应按本联邦所辖各州的人口比例分配于各州，各州人口数目指自由人总数加上所有其他人口的3/5。自由人总数包括必须在一定年限内服役的人，但不包括未被征税的印地安人。人口的实际统计应于合众国<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>第一次会议3年内，以及此后每10年内依照法律规定的方式进行。众议员人数以每3万人选出1人为限，但每州至少应有众议员1人。在实行此种人口统计前，新罕布什尔州可选出3人，马萨诸塞州8人，罗得岛州和普罗维登斯种植地1人，康涅狄格州5人，纽约州6人，新泽西州4人，宾夕法尼亚州8人，特拉华州1人，马里兰州6人，弗吉尼亚州10人，北卡罗莱纳州5人，南卡罗莱纳州5人，佐治亚州3人。</p>
+<p>
+	When vacancies happen in the Representation from any State, the Executive Authority thereof shall issue Writs of Election to fill such Vacancies.</p>
+<p>
+	任何一州所选众议员中出现缺额时，该州行政长官应发布选举令以补足此项缺额。</p>
+<p>
+	The House of Representatives shall chuse their Speaker and other Officers;and shall have the sole Power of Impeachment.</p>
+<p>
+	<a style="color:#000" title="众议院" href="http://114.xixik.com/congress/">众议院</a>应选举该院议长和其他官员，并独自享有弹劾权。</p>
+<p>
+	Section 3第三款</p>
+<p>
+	The Senate of the United States shall be composed of two Senators from each State, chosen by the Legislature thereof, for six Years; and each Senator shall have one Vote.</p>
+<p>
+	合众国<a style="color:#000" title="参议院" href="http://114.xixik.com/congress/">参议院</a>由每州州议会选出2名参议员组成，参议员任期6年，每名参议员有1票表决权。</p>
+<p>
+	Immediately after they shall be assembled in Consequence of the first Election, they shall be divided as equally as may be into three Classes. The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class at the Expiration of the fourth Year, and of the third Class at the Expiration of the sixth Year, so that one third may be chosen every second Year; and if Vacancies happen by Resignation, or otherwise, during the Recess of the Legislature of any State, the Executive thereof may make temporary Appointments until the next Meeting of the Legislature, which shall then fill such Vacancies.</p>
+<p>
+	参议员在第一次选举后集会时，应即尽可能平均分为三组：第一组参议员应于第2年年终改选，第二组参议员应于第4年年终改选，第3组参议员应于第6年年终改选，以便每两年改选参议员总数的1/3。在任何一州州议会休会期间，如因辞职或其他原因出现参议员缺额，该州行政长官可在州议会召开下次会议补足缺额之前，任命临时参议员。</p>
+<p>
+	No Person shall be a Senator who shall not have attained to the Age of thirty Years, and been nine Years a Citizen of the United States, and who shall not, when elected, be an Inhabitant of that State for which he shall be chosen.</p>
+<p>
+	<a style="color:#000" title="年龄" href="http://114.xixik.com/nianling/">年龄</a>未满30岁，为合众国公民未满9年以及当选时非其选出州居民者，不得为<a style="color:#000" title="参议院" href="http://114.xixik.com/congress/">参议院</a>议员。</p>
+<p>
+	The Vice President of the United States shall be President of the Senate, but shall have no Vote, unless they be equally divided.</p>
+<p>
+	合众国<a style="color:#000" title="副总统" href="http://114.xixik.com/vice-president/">副总统</a>应为<a style="color:#000" title="参议院" href="http://114.xixik.com/congress/">参议院</a>议长，但除非出现该院全体参议员的赞成票和反对票相等的情况，无表决权。</p>
+<p>
+	The Senate shall chuse their other Officers, and also a President pro tempore, in the Absence of the Vice President, or when he shall exercise the Office of President of the United States.</p>
+<p>
+	<a style="color:#000" title="参议院" href="http://114.xixik.com/congress/">参议院</a>应选定本院其他官员，遇<a style="color:#000" title="副总统" href="http://114.xixik.com/vice-president/">副总统</a>缺席或行使合众国总统职权时，并应选举临时议长。</p>
+<p>
+	The Senate shall have the sole Power to try all Impeachments. When sitting for that Purpose, they shall be on Oath or Affirmation. When the President of the United States is tried, the Chief Justice shall preside: And no Person shall be convicted without the Concurrence of two thirds of the Members present.</p>
+<p>
+	<a style="color:#000" title="参议院" href="http://114.xixik.com/congress/">参议院</a>享有审理一切弹劾案的全权。因审理弹劾案而开庭时，参议员应进行宣誓或作郑重声明。合众国总统受审时，应由最高法院首席大法官主持审判，无论何人，非经出席参议员2/3人数同意，不得被定罪。</p>
+<p>
+	Judgment in Cases of Impeachment shall not extend further than to removal from Office, and disqualification to hold and enjoy any Office of honor, Trust or Profit under the United States: but the Party convicted shall nevertheless be liable and subject to Indictment, Trial, Judgment and Punishment, according to Law.</p>
+<p>
+	弹劾案的判决，应以免职和剥夺其担任和享有合众国荣誉职位、信任职位或高收益职位的资格为限；但被定罪者仍应依法接受起诉、审讯、判决和惩罚。</p>
+<p>
+	Section 4第四款</p>
+<p>
+	The Times, Places and Manner of holding Elections for Senators and Representatives, shall be prescribed in each State by the Legislature thereof; but the Congress may at any time by Law make or alter such Regulations, except as to the Places of chusing Senators.</p>
+<p>
+	举行参议员和众议员选举的时间、地点和方式，由各州州议会自行规定，但除选举参议员地点一项外，<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>可随时以法律规定或改变此类规定。</p>
+<p>
+	The Congress shall assemble at least once in every Year, and such Meeting shall be on the first Monday in December, unless they shall by Law appoint a different Day.</p>
+<p>
+	<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>每年至少应开会一次，除以法律另行指定日期外，会议应在12月第一个星期一举行。</p>
+<p>
+	Section 5第五款</p>
+<p>
+	Each House shall be the Judge of the Elections, Returns and Qualifications of its own Members,and a Majority of each shall constitute a Quorum to do Business; but a smaller Number may adjourn from day to day, and may be authorized to compel the Attendance of absent Members, in such Manner, and under such Penalties as each House may provide.</p>
+<p>
+	各院应自行审查本院议员的选举、选举结果报告和议员资格；各院议员出席过半数即构成议事的法定人数；不足法定人数时可逐日休会，并可依照各院规定的方式与罚则强迫缺席议员出席会议。</p>
+<p>
+	Each House may determine the Rules of its Proceedings, punish its Members for disorderly Behaviour, and, with the Concurrence of two thirds, expel a Member.</p>
+<p>
+	各院可制定其议事规则，处罚扰乱秩序的议员，并可经2/3人数同意开除议员。</p>
+<p>
+	Each House shall keep a Journal of its Proceedings, and from time to time publish the same, excepting such Parts as may in their Judgment require Secrecy; and the Yeas and Nays of the Members of either House on any question shall, at the Desire of one fifth of those Present, be entered on the Journal.</p>
+<p>
+	各院应保持本院的会议记录，并不时予以公布，但各该院认为需要保密的那部分除外；各院议员对任何问题所投的赞成票和反对票应依出席议员1/5的请求，载入会议记录。</p>
+<p>
+	Neither House, during the Session of Congress, shall, without the Consent of the other, adjourn for more than three days, nor to any other Place than that in which the two Houses shall be sitting.</p>
+<p>
+	在<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>开会期间，一院未经另一院同意不得休会3日以上，也不得从两院开会地点移往他处。</p>
+<p>
+	Section 6第六款</p>
+<p>
+	The Senators and Representatives shall receive a Compensation for their Services, to be ascertained by Law, and paid out of the Treasury of the United States.They shall in all Cases, except Treason, Felony and Breach of the Peace, be privileged from Arrest during their Attendance at the Session of their respective Houses, and in going to and returning from the same; and for any Speech or Debate in either House, they shall not be questioned in any other Place.</p>
+<p>
+	参议员和众议员应取得由法律规定，并从合众国国库中支付的服务报酬。两院议员，除犯有叛国罪、重罪和妨害治安罪外，在出席各自议院会议期间和往返于各自议院途中不受逮捕；也不得因其在各自议院发表的演说或辩论而在其他任何地方受到质问。</p>
+<p>
+	No Senator or Representative shall, during the Time for which he was elected, be appointed to any civil Office under the Authority of the United States, which shall have been created, or the Emoluments whereof shall have been encreased during such time; and no Person holding any Office under the United States, shall be a Member of either House during his Continuance in Office.</p>
+<p>
+	参议员或众议员在其当选期内不得出任合众国当局在此期间设置或增加薪俸的任何文官职务；在合众国属下供职者，在其继续任职期间，不得担任<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>任何一院的议员。</p>
+<p>
+	Section 7第七款</p>
+<p>
+	All Bills for raising Revenue shall originate in the House of Representatives; but the Senate may propose or concur with Amendments as on other Bills.</p>
+<p>
+	所有征税议案应首先由<a style="color:#000" title="众议院" href="http://114.xixik.com/congress/">众议院</a>提出；但<a style="color:#000" title="参议院" href="http://114.xixik.com/congress/">参议院</a>可以如同对待其他议案一样，提出修正案或对修正案表示赞同。</p>
+<p>
+	Every Bill which shall have passed the House of Representatives and the Senate, shall, before it become a Law, be presented to the President of the United States; If he approve he shall sign it, but if not he shall return it, with his Objections to that House in which it shall have originated, who shall enter the Objections at large on their Journal, and proceed to reconsider it. If after such Reconsideration two thirds of that House shall agree to pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall become a Law. But in all such Cases the Votes of both Houses shall be determined by Yeas and Nays, and the Names of the Persons voting for and against the Bill shall be entered on the Journal of each House respectively. If any Bill shall not be returned by the President within ten Days (Sundays excepted) after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law.</p>
+<p>
+	<a style="color:#000" title="众议院" href="http://114.xixik.com/congress/">众议院</a>或<a style="color:#000" title="参议院" href="http://114.xixik.com/congress/">参议院</a>通过的每一议案，均应在成为法律之前送交合众国总统；总统如批准该议案，即应签署；如不批准，则应附上异议书将议案退还给提出该项议案的议院，该院应将总统异议详细载入本院会议记录，并进行复议。如复议后，该院2/3议员同意通过，即应将该议案连同异议书送交另一院，另一院亦应加以复议，如经该院2/3议员认可，该项议案即成为法律。但在这种情况下，两院的表决应以投赞成票和反对票决定，投赞成票或反对票的议员的姓名应分别载入各该院的会议记录。如议案在送交总统后10日内（星期日除外）未经退还，即视为业经总统签署，该项议案即成为法律；但如因<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>休会而阻碍该议案退还，则该项议案不能成为法律。</p>
+<p>
+	Every Order, Resolution, or Vote to which the Concurrence of the Senate and House of Representatives may be necessary (except on a question of Adjournment) shall be presented to the President of the United States; and before the Same shall take Effect, shall be approved by him, or being disapproved by him, shall be repassed by two thirds of the Senate and House of Representatives, according to the Rules and Limitations prescribed in the Case of a Bill.</p>
+<p>
+	凡须经<a style="color:#000" title="参议院" href="http://114.xixik.com/congress/">参议院</a>和<a style="color:#000" title="众议院" href="http://114.xixik.com/congress/">众议院</a>一致同意的命令、决议或表决（有关休会问题者除外）均应送交合众国总统，以上命令、决议或表决须经总统批准始能生效。如总统不予批准，则应按照对于议案所规定的规则与限制，由<a style="color:#000" title="参议院" href="http://114.xixik.com/congress/">参议院</a>和<a style="color:#000" title="众议院" href="http://114.xixik.com/congress/">众议院</a>2/3议员再行通过。</p>
+<p>
+	Section 8第八款</p>
+<p>
+	The Congress shall have Power To&#160;lay and collect Taxes, Duties, Imposts and Excises, to pay the Debts and provide for the common Defence and general Welfare of the United States; but all Duties, Imposts and Excises shall be uniform throughout the United States;</p>
+<p>
+	<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>拥有下列权力：</p>
+<p>
+	规定和征收直接税、间接税、进口税与货物税，以偿付国债、提供合众国共同防御与公共福利，但所有间接税、进口税与货物税应全国统一；</p>
+<p>
+	To borrow Money on the credit of the United States;</p>
+<p>
+	以合众国的名义借贷款项；</p>
+<p>
+	To regulate Commerce with foreign Nations, and among the several States, and with the Indian Tribes;</p>
+<p>
+	管理合众国与外国的、各州之间的以及与印地安部落的贸易；</p>
+<p>
+	To establish an uniform Rule of Naturalization, and uniform Laws on the subject of Bankruptcies throughout the United States;</p>
+<p>
+	制定全国统一的归化条例和破产法；</p>
+<p>
+	To coin Money, regulate the Value thereof, and of foreign Coin, and fix the Standard of Weights and Measures;</p>
+<p>
+	铸造货币，厘定国币和外币的价值，并确定度量衡的标准；</p>
+<p>
+	To provide for the Punishment of counterfeiting the Securities and current Coin of the United States;</p>
+<p>
+	制定关于伪造合众国证券和通货的罚则；</p>
+<p>
+	To establish Post Offices and post Roads;</p>
+<p>
+	设立邮局并开辟邮路；</p>
+<p>
+	To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries;</p>
+<p>
+	保障著作家和发明家对其著作和发明在限定期间内的专利权，以促进科学与实用技艺的发展；</p>
+<p>
+	To constitute Tribunals inferior to the supreme Court;</p>
+<p>
+	设立低于最高法院的各级法院；</p>
+<p>
+	To define and punish Piracies and Felonies committed on the high Seas, and Offenses against the Law of Nations;</p>
+<p>
+	明确划定并惩罚在公海上所犯的海盗罪与重罪以及违反国际法的犯罪行为；</p>
+<p>
+	To declare War, grant Letters of Marque and Reprisal, and make Rules concerning Captures on Land and Water;</p>
+<p>
+	宣战，颁发缉拿敌船许可证和报复性拘捕证，制定关于陆上和水上的拘捕条例；</p>
+<p>
+	To raise and support Armies, but no Appropriation of Money to that Use shall be for a longer Term than two Years;</p>
+<p>
+	招募陆军并供应给养，但此项用途的拨款期限不得超过两年；</p>
+<p>
+	To provide and maintain a Navy;</p>
+<p>
+	To make Rules for the Government and Regulation of the land and naval Forces;</p>
+<p>
+	To provide for calling forth the Militia to execute the Laws of the Union, suppress Insurrections and repel Invasions;</p>
+<p>
+	招募陆军并供应给养，但此项用途的拨款期限不得超过两年；</p>
+<p>
+	To provide for organizing, arming, and disciplining, the Militia, and for governing such Part of them as may be employed in the Service of the United States, reserving to the States respectively, the Appointment of the Officers, and the Authority of training the Militia according to the discipline prescribed by Congress;</p>
+<p>
+	装备海军并供应给养；规定征召民兵的组织、装备和纪律，规定可能征召为合众国服务的那部分民兵的管理办法；但民兵军官的任命和按照<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>规定纪律训练民兵的权力由各州保留；</p>
+<p>
+	To exercise exclusive Legislation in all Cases whatsoever, over such District (not exceeding ten Miles square) as may, by Cession of particular States, and the Acceptance of Congress, become the Seat of the Government of the United States, and to exercise like Authority over all Places purchased by the Consent of the Legislature of the State in which the Same shall be, for the Erection of Forts, Magazines, Arsenals, dock-Yards and other needful Buildings;-And</p>
+<p>
+	在任何情况下，对由某些州让与合众国，经<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>接受，充作合众国政府所在地的区域（其面积不超过10平方英里）行使专有的立法权；并对经州立法机构同意由合众国在该州购买的一切用于修筑要塞、军火库、兵工厂、船厂及其他必要建筑物的地方行使同样权力。</p>
+<p>
+	To make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers, and all other Powers vested by this Constitution in the Government of the United States, or in any Department or Officer thereof.</p>
+<p>
+	制定为执行以上各项权力和依据本宪法授予合众国政府或政府中任何机关或官员的其他一切权力所必要的和恰当的法律。(from - http://www.171english.cn)</p>
+<p>
+	Section 9第九款</p>
+<p>
+	The Migration or Importation of such Persons as any of the States now existing shall think proper to admit, shall not be prohibited by the Congress prior to the Year one thousand eight hundred and eight, but a Tax or duty may be imposed on such Importation, not exceeding ten dollars for each Person.</p>
+<p>
+	现有任何一州认为应予接纳的人员移居或入境时，<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>在1808年以前不得加以禁止；但对入境者可征收每人不超过10美元的税金或关税。</p>
+<p>
+	The Privilege of the Writ of Habeas Corpus shall not be suspended, unless when in Cases of Rebellion or Invasion the public Safety may require it.</p>
+<p>
+	根据人身保护令享有的特权，除非在发生叛乱或遭遇入侵，公共治安需要停止此项特权时，不得中止。</p>
+<p>
+	No Bill of Attainder or ex post facto Law shall be passed.</p>
+<p>
+	不得通过公民权利剥夺法案或追溯既往的法律。</p>
+<p>
+	No Capitation, or other direct, Tax shall be laid, unless in Proportion to the Census or Enumeration herein before directed to be taken.</p>
+<p>
+	除按本宪法前文对人口普查或统计结果规定的比例征税外，不得征收人头税或其他直接税。</p>
+<p>
+	No Tax or Duty shall be laid on Articles exported from any State.</p>
+<p>
+	对于从任何一州输入的货物不得征收直接税或间接税。</p>
+<p>
+	No Preference shall be given by any Regulation of Commerce or Revenue to the Ports of one State over those of another: nor shall Vessels bound to, or from, one State, be obliged to enter, clear, or pay Duties in another.</p>
+<p>
+	任何贸易条例或税收条例不得给予一州港口以优于另一州港口的特惠，开往或来自一州的船舶不得强令其在另一州入港、出港或交纳关税。</p>
+<p>
+	No Money shall be drawn from the Treasury, but in Consequence of Appropriations made by Law; and a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time.</p>
+<p>
+	除依据法律规定拨款外不得从国库支款；一切公款的收支报告和账目应不时予以公布。</p>
+<p>
+	No Title of Nobility shall be granted by the United States: And no Person holding any Office of Profit or Trust under them, shall, without the Consent of the Congress, accept of any present, Emolument, Office, or Title, of any kind whatever, from any King, Prince, or foreign State.</p>
+<p>
+	合众国不得授予贵族爵位；在合众国担任任何信任职位或高收益职位者，未经<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>许可，不得接受任何外国君主或国家所赠予的任何礼物、酬金、官职或爵位。</p>
+<p>
+	Section 10第十款</p>
+<p>
+	No State shall enter into any Treaty, Alliance, or Confederation; grant Letters of Marque and Reprisal; coin Money; emit Bills of Credit; make any Thing but gold and silver Coin a Tender in Payment of Debts; pass any Bill of Attainder, ex post facto Law, or Law impairing the Obligation of Contracts, or grant any Title of Nobility.</p>
+<p>
+	无论何州，不得缔结条约、结盟或加入联邦；不得颁发缉拿敌船许可证和报复性拘捕证；不得铸造货币；不得发行信用券；不得将金银币以外的任何物品作为偿还债务的法定货币；不得通过公民权利剥夺法案、追溯既往的法律或损害契约义务的法律；不得授予任何贵族爵位。</p>
+<p>
+	No State shall, without the Consent of the Congress, lay any Imposts or Duties on Imports or Exports, except what may be absolutely necessary for executing it's inspection Laws: and the net Produce of all Duties and Imposts, laid by any State on Imports or Exports, shall be for the Use of the Treasury of the United States; and all such Laws shall be subject to the Revision and Control of the Congress.</p>
+<p>
+	无论何州，不经<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>同意，不得对进出口货物征收进口税或间接税，但为执行该州检查法令所绝对必要者不在此限。任何一州对进出口货物征得的一切间接税和进口税的净所得额应充合众国国库之用，所有这类法律都应由<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>负责修订与控制。</p>
+<p>
+	No State shall, without the Consent of Congress, lay any Duty of Tonnage, keep Troops, or Ships of War in time of Peace, enter into any Agreement or Compact with another State, or with a foreign Power, or engage in War, unless actually invaded, or in such imminent Danger as will not admit of delay.</p>
+<p>
+	无论何州，未经<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>同意，不得征收船舶吨位税，不得在和平时期保持军队或战舰，不得与另一州或外国缔结协定或条约，除非已实际遭受入侵或遇到刻不容缓的危险，不得进行战争。</p>
+<p>
+	<strong>ARTICLE II第二条</strong></p>
+<p>
+	第一款</p>
+<p>
+	The executive Power shall be vested in a President of the United States of America. He shall hold his Office during the Term of four Years, and, together with the Vice President, chosen for the same Term, be elected, as follows:</p>
+<p>
+	行政权属于<a style="color:#000" title="美利坚合众国总统" href="http://114.xixik.com/us-president/">美利坚合众国总统</a>。总统任期为4年，<a style="color:#000" title="副总统" href="http://114.xixik.com/vice-president/">副总统</a>任期与总统任期相同。总统和<a style="color:#000" title="副总统" href="http://114.xixik.com/vice-president/">副总统</a>的选举办法如下：</p>
+<p>
+	Each State shall appoint, in such Manner as the Legislature thereof may direct, a Number of Electors, equal to the whole Number of Senators and Representatives to which the State may be entitled in the Congress: but no Senator or Representative, or Person holding an Office of Trust or Profit under the United States, shall be appointed an Elector. 各州应按照该州议会规定的方式选派选举人若干名，其人数应与该州所应选派于<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>的参议员和众议员的总数相等；但参议员或众议员或在合众国政府中担任信任职位或高收益职位者不得被选派为选举人。</p>
+<p>
+	The Electors shall meet in their respective States, and vote by Ballot for two Persons, of whom one at least shall not be an Inhabitant of the same State with themselves. And they shall make a List of all the Persons voted for, and of the Number of Votes for each; which List they shall sign and certify, and transmit sealed to the Seat of the Government of the United States, directed to the President of the Senate. The President of the Senate shall, in the Presence of the Senate and House of Representatives, open all the Certificates, and the Votes shall then be counted.</p>
+<p>
+	选举人应在本州集会，投票选举2人，其中至少应有1人不是选举人同州的居民。选举人应开列名单，写明所有被选举人和每人所得票数，计算票数。获得选票最多者如选票超出选举人总数的一半即当选为总统。</p>
+<p>
+	The Person having the greatest Number of Votes shall be the President, if such Number be a Majority of the whole Number of Electors appointed; and if there be more than one who have such Majority, and have an equal Number of Votes, then the House of Representatives shall immediately chuse by Ballot one of them for President; and if no Person have a Majority, then from the five highest on the List the said House shall in like Manner chuse the President. But in chusing the President, the Votes shall be taken by States, the Representation from each State having one Vote; A quorum for this Purpose shall consist of a Member or Members from two thirds of the States, and a Majority of all the States shall be necessary to a Choice.</p>
+<p>
+	如不止1人获得半数选票且票数相当，<a style="color:#000" title="众议院" href="http://114.xixik.com/congress/">众议院</a>应立即投票其中1人为总统。如无人获得过半数票，则<a style="color:#000" title="众议院" href="http://114.xixik.com/congress/">众议院</a>应以同样方式从名单上得票最多的5人中选举1人为总统。但<a style="color:#000" title="众议院" href="http://114.xixik.com/congress/">众议院</a>选举总统时应以州为单位投票，每州代表有1票表决权；以此种方式选举总统的法定人数为全国2/3的州各有1名或数名代表出席，并须取得所有州的过半数票始能当选。</p>
+<p>
+	In every Case, after the Choice of the President, the Person having the greatest Number of Votes of the Electors shall be the Vice President. But if there should remain two or more who have equal Votes, the Senate shall chuse from them by Ballot the Vice President. 在总统选出后，获得选举人所投票数最多者即当选为<a style="color:#000" title="副总统" href="http://114.xixik.com/vice-president/">副总统</a>；但如有2人或数人获得相等票数，<a style="color:#000" title="参议院" href="http://114.xixik.com/congress/">参议院</a>应投票选举其中1人为<a style="color:#000" title="副总统" href="http://114.xixik.com/vice-president/">副总统</a>。</p>
+<p>
+	The Congress may determine the Time of chusing the Electors, and the Day on which they shall give their Votes; which Day shall be the same throughout the United States. No Person except a natural born Citizen, or a Citizen of the United States, at the time of the Adoption of this Constitution, shall be eligible to the Office of President; neither shall any person be eligible to that Office who shall not have attained to the Age of thirty five Years, and been fourteen Years a Resident within the United States.</p>
+<p>
+	<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>可决定选出选举人的时间以及选举人的投票日期，该日期须全国统一。 任何人除出生于合众国的公民或在本宪法通过时已为合众国公民者外，不得当选为总统。<a style="color:#000" title="年龄" href="http://114.xixik.com/nianling/">年龄</a>未满35岁及居住于合众国境内未满14年者亦不得当选为总统。</p>
+<p>
+	In Case of the Removal of the President from Office, or of his Death, Resignation, or Inability to discharge the Powers and Duties of the said Office, the Same shall devolve on the Vice-President, and the Congress may by Law provide for the Case of Removal, Death, Resignation or Inability, both of the President and Vice President, declaring what Officer shall then act as President, and such Officer shall act accordingly, until the Disability be removed, or a President shall be elected.</p>
+<p>
+	如遇总统免职、死亡、辞职或丧失履行总统权力和职责的能力时，该项职务应移交给<a style="color:#000" title="副总统" href="http://114.xixik.com/vice-president/">副总统</a>；在总统与<a style="color:#000" title="副总统" href="http://114.xixik.com/vice-president/">副总统</a>均为免职、死亡、辞职或丧失履行总统权力和职责的能力时，<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>得依法律规定宣布某一官员代行总统职权，该官员即为总统，直至总统恢复任职能力或新总统选出为止。</p>
+<p>
+	The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be increased nor diminished during the Period for which he shall have been elected, and he shall not receive within that Period any other Emolument from the United States, or any of them. Before he enter on the Execution of his Office, he shall take the following Oath or Affirmation: —“I do solemnly swear (or affirm) that I will faithfully execute the Office of President of the United States, and will to the best of my Ability, preserve, protect and defend the Constitution of the United States.”</p>
+<p>
+	总统应在规定时间获得服务报酬，此项报酬在其当选任总统期间不得增加或减少。总统在任期内不得收受合众国或任何一州给予的任何其他酬金。 总统在就职前应作如下宣誓或郑重声明： “我谨庄严宣誓（或郑重声明），我一定忠实执行合众国总统职务，竭尽全力，恪守、维护和捍卫合众国宪法。”</p>
+<p>
+	Section 2第二款</p>
+<p>
+	The President shall be Commander in Chief of the Army and Navy of the United States, and of the Militia of the several States, when called into the actual Service of the United States; he may require the Opinion, in writing, of the principal Officer in each of the executive Departments, upon any Subject relating to the Duties of their respective Offices, and he shall have Power to grant Reprieves and Pardons for Offences against the United States, except in Cases of Impeachment.</p>
+<p>
+	总统为合众国陆海军的总司令，并在各州民团奉召为合众国执行任务时担任统帅 ; 他可以要求每个行政部门的主管官员提出有关他们职务的任何事件的书面意见，除了弹劫案之外，他有权对于违犯合众国法律者颁赐缓刑和特赦。</p>
+<p>
+	He shall have Power, by and with the Advice and Consent of the Senate, to make Treaties, provided two thirds of the Senators present concur; and he shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the supreme Court, and all other Officers of the United States, whose Appointments are not herein other- wise provided for, and which shall be established by Law: but the Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments.</p>
+<p>
+	总统有权缔订条约，但须争取<a style="color:#000" title="参议院" href="http://114.xixik.com/congress/">参议院</a>的意见和同意，并须出席的参议员中三分之二的人赞成；总统应提出人选，并于取得<a style="color:#000" title="参议院" href="http://114.xixik.com/congress/">参议院</a>的意见和同意后，任命大使、公使及领事、最高法院的法官，以及一切其他在本宪法中未经明定、但以后将依法律的规定而设置之合众国官员。<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>可以制定法律，酌情把这些下级官员的任命权，授予总统本人，或授予法院，或授予各部部长。</p>
+<p>
+	The President shall have Power to fill up all Vacancies that may happen during the Recess of the Senate, by granting Commissions which shall expire at the End of their next Session.</p>
+<p>
+	在<a style="color:#000" title="参议院" href="http://114.xixik.com/congress/">参议院</a>休会期间，如遇有职位出缺，总统有权任命官员补充缺额，任期于<a style="color:#000" title="参议院" href="http://114.xixik.com/congress/">参议院</a>下届会议结束时终结。</p>
+<p>
+	Section 3第三款</p>
+<p>
+	He shall from time to time give to the Congress Information of the State of the Union, and recommend to their Consideration such Measures as he shall judge necessary and expedient; he may, on extraordinary Occasions, convene both Houses, or either of them, and in Case of Disagreement between them, with Respect to the Time of Adjournment, he may adjourn them to such Time as he shall think proper; he shall receive Ambassadors and other public Ministers; he shall take Care that the Laws be faithfully executed, and shall Commission all the Officers of the United States.</p>
+<p>
+	总统应经常向<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>提供有关国情的报告，并向<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>提出他认为必要和适当的措施，供其考虑；在非常时期，总统可召集两院或其中一院开会，如两院对于休会时间意见不一致时，总统可使两院休会到他认为适当的时期为止；总统应接见大使和公使；他应监督一切法律的切实执行，并任命合众国的一切官员。</p>
+<p>
+	Section 4第四款</p>
+<p>
+	The President, Vice President and all civil Officers of the United States, shall be removed from Office on Impeachment for, and Conviction of, Treason, Bribery, or other high Crimes and Misdemeanors</p>
+<p>
+	合众国总统、<a style="color:#000" title="副总统" href="http://114.xixik.com/vice-president/">副总统</a>及其他所有文官，因叛国、贿赂或其它重罪和轻罪而遭弹劾并被判定有罪时，应予以免职。</p>
+<p>
+	<strong>Article IV 第四条</strong></p>
+<p>
+	Section 1 第一款</p>
+<p>
+	Full Faith and Credit shall be given in each State to the public Acts, Records, and judicial Proceedings of every other State. And the Congress may by general Laws prescribe the Manner in which such Acts, Records and Proceedings shall be proved, and the Effect thereof.</p>
+<p>
+	各州对其它州的公共法令、记录和司法诉讼程序应给予完全的信任和尊重。<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>可用一般法律规定此类法令、记录和司法诉讼程序的验定方法及其效力。</p>
+<p>
+	Section 2第二款</p>
+<p>
+	The Citizens of each State shall be entitled to all Privileges and Immunities of Citizens in the several States.</p>
+<p>
+	每州公民应享受其他各州公民所有之一切特权及豁免权。</p>
+<p>
+	A Person charged in any State with Treason, Felony, or other Crime, who shall flee from Justice, and be found in another State, shall on Demand of the executive Authority of the State from which he fled, be delivered up, to be removed to the State having Jurisdiction of the Crime.</p>
+<p>
+	凡在任何一州被控犯有叛国罪、重罪或其它罪行的人并于另一州被缉获时，该州应即依照该人所逃出之州的行政当局的请求，将其交出，以便押送到对该罪行有审理权的州。</p>
+<p>
+	No Person held to Service or Labour in one State, under the Laws thereof, escaping into another, shall, in Consequence of any Law or Regulation therein, be discharged from such Service or Labour, but shall be delivered up on Claim of the Party to whom such Service or Labour may be due.</p>
+<p>
+	凡根据一州之法律应在该州服兵役或服劳役者，逃往另一州时，不得根据逃往州的任何法律或规章解除该兵役或劳役，而应依照有权得到兵役或劳役的当事人的要求，将其交出。</p>
+<p>
+	Section 3第三款</p>
+<p>
+	New States may be admitted by the Congress into this Union; but no new State shall be formed or erected within the Jurisdiction of any other State; nor any State be formed by the Junction of two or more States, or Parts of States, without the Consent of the Legislatures of the States concerned as well as of the Congress.</p>
+<p>
+	<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>可准许新州加入本联邦，但不得在任何其他州的管辖权之内组成或建立新州，亦不得未经有关州议会和<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>同意合并两州或数州的部分地区建立新州。</p>
+<p>
+	The Congress shall have Power to dispose of and make all needful Rules and Regulations respecting the Territory or other Property belonging to the United States; and nothing in this Constitution shall be so construed as to Prejudice any Claims of the United States, or of any particular State.</p>
+<p>
+	<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>有权处置并制定合众国领土或其它财产的一切必要法章和条例；对本宪法条文，不得作有损于合众国或任何特定州的任何权利的解释。</p>
+<p>
+	Section 4第四款</p>
+<p>
+	The United States shall guarantee to every State in this Union a Republican Form of Government, and shall protect each of them against Invasion; and on Application of the Legislature, or of the Executive (when the Legislature cannot be convened) against domestic Violence.</p>
+<p>
+	合众国应保障联邦各州实行共和政体，保护各州免受入侵，并应根据州议会或州行政长官 (当州议会不能召集时) 的请求平定内乱。</p>
+<p>
+	<strong>Article V 第五条</strong></p>
+<p>
+	The Congress, whenever two thirds of both Houses shall deem it necessary, shall propose Amendments to this Constitution, or, on the Application of the Legislatures of two thirds of the several States, shall call a Convention for proposing Amendments, which, in either Case, shall be valid to all Intents and Purposes, as Part of this Constitution, when ratified by the Legislatures of three fourths of the several States, or by Conventions in three fourths thereof, as the one or the other Mode of Ratification may be proposed by the Congress; Provided that no Amendment which may be made prior to the Year One thousand eight hundred and eight shall in any Manner affect the first and fourth Clauses in the Ninth Section of the first Article; and that no State, without its Consent, shall be deprived of its equal Suffrage in the Senate.</p>
+<p>
+	<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>应在两院各2/3议员认为必要时，提出本宪法的修正案，或根据全国2/3州议会的请求召开公议提出修正案。以上任何一种情况下提出的修正案，经全国的州议会或3/4州的制宪会议批准，即成为本宪法的一部分而发生实际效力；采用哪种批准方式可由<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>提出。但在1808年前所制定的修正案不得以任何形式影响本宪法全文第九款之第一、第四两项；任何一州，未经其同意，不得被剥夺它在<a style="color:#000" title="参议院" href="http://114.xixik.com/congress/">参议院</a>中的平等投票权。</p>
+<p>
+	<strong>Article VI 第六条</strong></p>
+<p>
+	All Debts contracted and Engagements entered into, before the Adoption of this Constitution, shall be as valid against the United States under this Constitution, as under the Confederation.</p>
+<p>
+	本宪法生效前所负的一切债务和所签订一切契约在本宪法生效后对合众国仍然有效，其效力一如邦联时代。</p>
+<p>
+	This Constitution, and the Laws of the United States which shall be made in Pursuance thereof; and all Treaties made, or which shall be made, under the Authority of the United States, shall be the supreme Law of the Land; and the Judges in every State shall be bound thereby, any Thing in the Constitution or Laws of any State to the Contrary notwithstanding.</p>
+<p>
+	本宪法及依照本宪法所制定之合众国法律以及根据合众国权力所缔结或将缔结的一切条约，均为全国的最高法律；即使与任何一州的宪法或法律相抵触，各州的法官仍应遵守。任何一州宪法或法律中的任何内容与之抵触时，均不得违反本宪法。</p>
+<p>
+	The Senators and Representatives before mentioned, and the Members of the several State Legislatures, and all executive and judicial Officers, both of the United States and of the several States, shall be bound by Oath or Affirmation, to support this Constitution; but no religious Test shall ever be required as a Qualification to any Office or public Trust under the United States.</p>
+<p>
+	上述参议员和众议员、各州议会议员以及合众国政府和各州一切行政、司法官员均应宣誓或郑重声明拥护本宪法；但不得以宗教信仰作为担任合众国任何官职或公职的必要资格。</p>
+<p>
+	<strong>Article VII 第七条</strong></p>
+<p>
+	The Ratification of the Conventions of nine States, shall be sufficient for the Establishment of this Constitution between the States so ratifying the Same.</p>
+<p>
+	经过9个州的制宪会议批准，即足以使本宪法在批准本宪法的各州成立。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor6"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        美国宪法修正案</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<strong>美国宪法修正案</strong>（Amendments to the Constitution of the United States ）是美国宪法规定的正式改变宪法的形式之一（另一形式是召开另一次制宪会议，但并未被使用过），是美国宪法的重要组成部分，代表了美国宪法制度的基本发展方向。</p>
+<p style="TEXT-INDENT:2em">
+	自宪法签署完成后，已有二十七项修正案经批准，其中前十项统称权利法案。对美国宪法的修正程序受美国宪法第五条所规定。另有其他许多已向<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>提议，但是未向各州提交的美国宪法修正提议。</p>
+<p style="TEXT-INDENT:2em">
+	表决流程：修正案在生效之前，须经<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>参众两院的三分之二表决通过，或是由三分之二的州会议（称作宪法第五条会议）的要求，而后才能提呈给各州，并经过四分之三州份或其会议的批准，批准的方式是由<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>在提案时决定。迄今为止，没有任何一个修正案是由州会议的要求而提出。只有1933年的第二十一修正案，是采行州会议的方式来批准。</p>
+<p style="TEXT-INDENT:2em">
+	依照宪法第五条的规定，经<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>提出和各州州议会批准的<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美利坚合众国宪法">美利坚合众国宪法</a>增添与修正条文如下：</p>
+<p style="TEXT-INDENT:2em">
+	以下一至十条是关于公民权利的修正案于1791年批准生效，也称为权利法案，具有重大影响。</p>
+<p style="TEXT-INDENT:2em">
+	宪法修正案第一条<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>不得制定关于下列事项的法律：确立国教或禁止宗教活动自由；剥夺言论或出版自由；剥夺人民和平集会和向政府诉冤请愿的权利。</p>
+<p style="TEXT-INDENT:2em">
+	宪法修正案第二条管理良好的民兵是保障自由州的安全所必需，人民持有和携带武器的权利不得侵犯。</p>
+<p style="TEXT-INDENT:2em">
+	宪法修正案第三条士兵在和平时期，非经房主许可不得驻扎于任何民房；在战争时期，除依照法律规定的方式外亦不得进驻民房。</p>
+<p style="TEXT-INDENT:2em">
+	宪法修正案第四条人民保护其人身、住房、文件和财物不受无理搜查扣押的权利不得侵犯；除非有合理的根据认为有罪，以宣誓或郑重声明保证，并详细开列应予搜查的地点、应予扣押的人或物，不得颁发搜查和扣押证。</p>
+<p style="TEXT-INDENT:2em">
+	宪法修正案第五条非经大陪审团提出报告或起诉，任何人不受死罪和其他重罪的惩罚，唯在战时或国家危急时期发生在陆、海军中或正在服役的民兵中的案件不在此限。任何人不得因同一犯罪行为而两次遭受生命或身体伤残的危害；不得在任何刑事案件中被迫自证其罪；未经正当法律程序，不得剥夺任何人的生命、自由和财产；非有恰当补偿，不得将私有财产充作公用。</p>
+<p style="TEXT-INDENT:2em">
+	宪法修正案第六条在一切刑事诉讼中，被告应享受下列权利：由犯罪行为发生地的州和地区的公正陪审团予以迅速和公开的审判，该地区应事先已由法律确定；获知受控事件的性质和原因；与原告证人对质；以强制程序取得有利于自己的证据，并取得律师的帮助为其辩护。</p>
+<p style="TEXT-INDENT:2em">
+	宪法修正案第七条在习惯法诉讼中，争执价额超过20美元者，由陪审团审判的权利应予保护；案情事实经陪审团审定后，除非依照习惯法的规则，合众国的任何法院不得再行审理。</p>
+<p style="TEXT-INDENT:2em">
+	宪法修正案第八条不得索取过多的保释金，不得处以过重的罚金，或施加残酷的、非常的刑罚。</p>
+<p style="TEXT-INDENT:2em">
+	宪法修正案第九条本宪法对某些权利的列举不得被解释为否定或轻视人民保有的其他权利。</p>
+<p style="TEXT-INDENT:2em">
+	宪法修正案第十条本宪法未授予合众国也未禁止各州行使的权力，分别由各州或由人民保留。</p>
+<p style="TEXT-INDENT:2em">
+	宪法修正案第十一条[1798年批准生效]合众国司法权不得被解释为可扩大受理另一州公民或任何外国公民或国民对合众国任何一州提出的或起诉的任何普通法或衡平法的诉讼。</p>
+<p style="TEXT-INDENT:2em">
+	宪法修正案第十二条[1804年批准生效]选举人应在本州集会，投票选举总统和副总统，所选总统和副总统中至少应有一人不是选举人本州的居民；选举人应在选票上写明被选为总统之人的姓名，并在另一选票上写明被选为副总统之人的姓名。选举人须将所有被选为总统及副总统的人分别开列名单，写明每人所得票数，在名单上签名作证，封印后送至合众国政府所在地，呈交<a href="http://114.xixik.com/congress/" style="color:#000" title="参议院">参议院</a>议长。<a href="http://114.xixik.com/congress/" style="color:#000" title="参议院">参议院</a>议长应在<a href="http://114.xixik.com/congress/" style="color:#000" title="参议院">参议院</a>和<a href="http://114.xixik.com/congress/" style="color:#000" title="众议院">众议院</a>全体议员面前开拆所有证明书，然后计算票数。获得总统选票最多者，如所得选票超出选举人总数的一半，即当选为总统。如无人获得过半数票，<a href="http://114.xixik.com/congress/" style="color:#000" title="众议院">众议院</a>应以立即从被选为总统之人的名单上得票最多者（不超过3人）中投票选举其中1人为总统。但<a href="http://114.xixik.com/congress/" style="color:#000" title="众议院">众议院</a>选举总统时应以州为单位投票，每州代表有1票表决权，选出总统需要所有州的过半数票。如选举总统的权力转移给<a href="http://114.xixik.com/congress/" style="color:#000" title="众议院">众议院</a>而该院于次年3月4日前尚未选出总统，则副总统应按总统死亡或宪法所规定的其他有关丧失任职能力的条款代行总统职务。获得副总统选票最多者，如所得票数超过选举人总数之半，即当选为副总统。如无人获得过半数票，<a href="http://114.xixik.com/congress/" style="color:#000" title="参议院">参议院</a>应以从名单上得票最多者的2人中选举1人为副总统。以此种方式选举副总统的法定人数为参议员总数的2/3，选出副总统需要参议员总数过半数票。但依宪法规定无资格当选为合众国总统的人不得当选为合众国副总统。</p>
+<p style="TEXT-INDENT:2em">
+	宪法修正案第十三条[1865年批准生效]第一款在合众国境内或属合众国管辖的任何地方，不准有奴隶制或强制劳役存在，唯用于业经定罪的罪犯作为惩罚者不在此限。</p>
+<p style="TEXT-INDENT:2em">
+	第二款<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>有权以适当立法实施本条规定。</p>
+<p style="TEXT-INDENT:2em">
+	宪法修正案第十四条[1868年批准生效]第一款在合众国出生或归化于合众国并受合众国管辖的人，均为合众国和他所居住的州的公民。无论何州均不得制定或实施任何剥夺合众国公民的特权或豁免的法律；无论何州未经正当法律程序均不得剥夺任何人的生命、自由或财产；亦不得拒绝给予在其管辖下的任何人以同等的法律保护。</p>
+<p style="TEXT-INDENT:2em">
+	第二款众议员名额应按各州人口总数的比例分配，但不纳税的印地安人除外。各州年满21岁且为合众国公民的男性居民，除因参加叛乱或犯其他罪行者外，其选举合众国总统与副总统选举人、<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>众议员、州行政与司法官员或州议会议员的权利被取消或剥夺时，该州众议员人数应按上述男性公民的人数同该州年满21岁的男性公民总人数的比例予以削减。</p>
+<p style="TEXT-INDENT:2em">
+	第三款曾经作为<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>议员、合众国官员、州议会议员或州行政或司法官员，宣誓拥护合众国宪法，而又参与反对合众国的暴乱或谋反，或给予合众国敌人以帮助或庇护者，不得为<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>参议员或众议员、总统和副总统选举人，或在合众国或任何一州任文职、军职官员。但<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>可以每院2/3的票数取消此项限制。</p>
+<p style="TEXT-INDENT:2em">
+	第四款经法律认可的合众国公债，包括因支付对平定暴乱或叛乱有功人员的养老金与奖金而产生的债务，其效力不得怀疑。但合众国或任何一州都不得承担或偿付因资助对合众国作乱或谋叛而产生的债务或义务，或因丧失或解放任何奴隶而提出的赔偿要求；所有此类债务、义务和要求应视为非法和无效。</p>
+<p style="TEXT-INDENT:2em">
+	第五款<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>有权以适当立法实施本条各项规定。</p>
+<p style="TEXT-INDENT:2em">
+	宪法修正案第十五条[1870年批准生效]第一款合众国或任何一州不得因种族、肤色或以前的奴隶身份而否认或剥夺合众国公民的选举权。</p>
+<p style="TEXT-INDENT:2em">
+	第二款<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>有权以适当立法实施本条规定。</p>
+<p style="TEXT-INDENT:2em">
+	宪法修正案第十六条[1913年批准生效]<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>有权对任何来源的收入规定并征收所得税，所得税收入不必按比例分配于各州，也不必考虑任何人口普查或统计。</p>
+<p style="TEXT-INDENT:2em">
+	宪法修正案第十七条[1913年批准生效]合众国<a href="http://114.xixik.com/congress/" style="color:#000" title="参议院">参议院</a>由每州人民选出两名参议员组成，参议员任期6年，各有1票表决权。</p>
+<p style="TEXT-INDENT:2em">
+	各州选举人应具备州议会中人数最多一院的选举人所必需的资格。</p>
+<p style="TEXT-INDENT:2em">
+	任何一州在<a href="http://114.xixik.com/congress/" style="color:#000" title="参议院">参议院</a>的议席出现缺额时，该州行政当局应发布选举令以填补此顶缺额；但任何一州州议会在人民按照州议会指示进行选举补足缺额以前，可授权行政长官作出临时任命。</p>
+<p style="TEXT-INDENT:2em">
+	本修正案对于本条作为合众国宪法一部分被批准生效前当选的任何参议员的选举或任期不发生影响。</p>
+<p style="TEXT-INDENT:2em">
+	宪法修正案第十八条[1919年批准生效]第一款从本条批准起一年以后，禁止在合众国及其管辖下的一切领土内酿造、出售或运送致醉酒类，并且不准此种酒类输入或输出合众国及其管辖下的一切领土。</p>
+<p style="TEXT-INDENT:2em">
+	第二款<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>和各州均有权以适当立法实施本条规定。</p>
+<p style="TEXT-INDENT:2em">
+	第三款本条除非在<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>送达各州之日起7年内经各州州议会按照宪法规定批准为宪法修正案，不得发生效力。</p>
+<p style="TEXT-INDENT:2em">
+	宪法修正案第十九条[1920年批准生效]合众国或任何一州不得因性别而否认或剥夺合众国公民的选举权。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>有权以适当立法实施本条规定。</p>
+<p style="TEXT-INDENT:2em">
+	宪法修正案第二十条[1933年批准生效]第一款如果本条尚未获批准，则总统和副总统的任期应于原定任期届满之年1月20日正午终止，参议员和众议员之任期应于原定任期届满之年1月3日正午终止；其继任者的任期即在此时开始。</p>
+<p style="TEXT-INDENT:2em">
+	第二款<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>每年至少应开会一次，开会日期除以法律另行规定外，应于1月3日正午开始。</p>
+<p style="TEXT-INDENT:2em">
+	第三款如当选总统在规定的任期开始之前死亡，当选副总统应成为总统。如在规定的总统任期开始时间以前总统尚未选出，或当选总统不符合资格，则当选副总统应代行总统职权直到有一名当选总统符合资格为止；如遇当选总统和当选副总统均不符合资格的情况，<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>可以法律决定代理总统人选或选择代理总统的方式，此人即可依法代行总统职务，直至有一名总统或副总统符合资格为止。</p>
+<p style="TEXT-INDENT:2em">
+	第四款当选举总统的权利转移到<a href="http://114.xixik.com/congress/" style="color:#000" title="众议院">众议院</a>，而可被该院选为总统的人中有人死亡；或选举副总统的权利转移到<a href="http://114.xixik.com/congress/" style="color:#000" title="参议院">参议院</a>，而可被该院选为副总统的人中有人死亡时，<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>得以法律对此种情况作出决定。</p>
+<p style="TEXT-INDENT:2em">
+	第五款第一与第二两款应在本条批准后之10月15日起生效。</p>
+<p style="TEXT-INDENT:2em">
+	第六款本条如在<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>送达各州之日起7年内，未经3/4之州议会批准为宪法修正案，将不再发生效力。</p>
+<p style="TEXT-INDENT:2em">
+	宪法修正案第二十一条[1933年批准生效]第一款合众国宪法修正案第十八条现予废止。</p>
+<p style="TEXT-INDENT:2em">
+	第二款在合众国各州、各领地或属地内为交付或使用致醉酒类而进行的运送或输入，如违反有关法律，应予禁止。</p>
+<p style="TEXT-INDENT:2em">
+	第三款本条除非在<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>送达各州之日起7年内经3/4之州议会批准为宪法修正案，不发生效力。</p>
+<p style="TEXT-INDENT:2em">
+	宪法修正案第二十二条[1951年批准生效]第一款无论何人不得当选总统职务两次以上；无论何人在他人任期内担任总统或代理总统超过两年者，不得当选担作总统职务一次以上。但本条不适用于在<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>提出本条时正在担任总统职务的任何人；也不妨碍在本条开始生效的总统任期内可能担任总统职务或代理总统的任何人在此任期结束以前担任总统职务或代理总统。</p>
+<p style="TEXT-INDENT:2em">
+	第二款本条除非在<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>将其提交各州之日起7年内由3/4州议会批准为宪法修正案，不发生效力。</p>
+<p style="TEXT-INDENT:2em">
+	宪法修正案第二十三条[1961年批准生效]第一款合众国政府所在的特区，应按<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>指定的方式选派若干总统和副总统选举人，为此目的，该特区应被视为一个州，选举人数量应相当于它有权选举的<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>参议员和众议员人数的总和，但不得超过人数最少的州的选举人人数；以上选举人是在各州选派的选举人之外所增添的，但为了选举总统和副总统，应被视为一个州所选派的选举人。他们应在特区集会并依照宪法修正案第十二条的规定履行其职责。</p>
+<p style="TEXT-INDENT:2em">
+	第二款<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>有权以适当立法实施本条规定。</p>
+<p style="TEXT-INDENT:2em">
+	宪法修正案第二十四条[1964年批准生效]第一款合众国或任何一州不得以未交纳人头税或其他税款为理由，否认或剥夺合众国公民在总统或副总统、总统或副总统选举人或参议员、众议员的任何初选或其他选举中的选举权。</p>
+<p style="TEXT-INDENT:2em">
+	第二款<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>有权以适当立法实施本条规定。</p>
+<p style="TEXT-INDENT:2em">
+	宪法修正案第二十五条[1967年批准生效]第一款如果总统免职、死亡或辞职，副总统应成为总统。</p>
+<p style="TEXT-INDENT:2em">
+	第二款副总统职位出现空缺时，总统应提名一位副总统，经由<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>两院多数票批准后就职。</p>
+<p style="TEXT-INDENT:2em">
+	第三款如总统向<a href="http://114.xixik.com/congress/" style="color:#000" title="参议院">参议院</a>临时议长及<a href="http://114.xixik.com/congress/" style="color:#000" title="众议院">众议院</a>议长递交书面声明，宣称他无能力履行其权力与职责，则其权力与职责应由副总统作为代理总统履行，直至他递交相反的书面声明为止。</p>
+<p style="TEXT-INDENT:2em">
+	第四款如副总统以及各行政部门或<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>依法设立的此种其他机构的多数主要官员，向<a href="http://114.xixik.com/congress/" style="color:#000" title="参议院">参议院</a>临时议长及<a href="http://114.xixik.com/congress/" style="color:#000" title="众议院">众议院</a>议长递交关于总统无能力履行其权力与职责的书面声明，则由副总统作为代理总统立即承担以上权力与职责。</p>
+<p style="TEXT-INDENT:2em">
+	此后，当总统向<a href="http://114.xixik.com/congress/" style="color:#000" title="参议院">参议院</a>临时议长及<a href="http://114.xixik.com/congress/" style="color:#000" title="众议院">众议院</a>议长递交他丧失能力情况并不存在的书面声明时，除非副总统以及各行政部门或<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>依法设立的此种其他机构的多数主要官员在4日内向<a href="http://114.xixik.com/congress/" style="color:#000" title="参议院">参议院</a>临时议长及<a href="http://114.xixik.com/congress/" style="color:#000" title="众议院">众议院</a>议长递交总统无能力履行其权力与职责的书面声明，总统应恢复其权力与职责。<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>应对此作出裁决。如在休会期间，应在48小时之内为此目的召集会议。如果<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>收到后一书面声明21天之内，或处在休会期间被要求召集以后的21天之内，以两院的2/3票数决定总统不能履行其权力与职责，副总统应继续作为代理总统履行上述权力与职责；否则，总统应恢复其权力与职责。</p>
+<p style="TEXT-INDENT:2em">
+	宪法修正案第二十六条[1971年批准生效]第一款合众国或任何一州不得因年龄而否认或剥夺已满18岁或18岁以上合众国公民的选举权。</p>
+<p style="TEXT-INDENT:2em">
+	第二款<a href="http://114.xixik.com/congress/" style="color:#000" title="国会">国会</a>有权以适当立法实施本条规定。</p>
+<p style="TEXT-INDENT:2em">
+	宪法修正案第二十七条[1992年批准生效]</p>
+<p style="TEXT-INDENT:2em">
+	改变<a href="http://114.xixik.com/congress/" style="color:#000" title="参议院">参议院</a>和<a href="http://114.xixik.com/congress/" style="color:#000" title="众议院">众议院</a>议员职位薪水的法律，必须在下届代表选举后生效。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor7"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        美国宪法修正案汇总</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p>
+	<style type="text/css">
+table tr:hover{background-color: #f5f5f5;}
+.gop{background-color: #FEDCDE;}
+.dnc{background-color: #D2E7FD;}	</style>
+</p>
+<p style="TEXT-INDENT:2em">
+	<strong>已通过</strong></p>
+<p style="TEXT-INDENT:2em">
+	目前美国宪法共存在27个有效的修正案。其中，最初的10个修正案是一次性被通过的，因为其主要规定了人民的权利和对政府的限制，因此被统称为权利法案。此后的17个修正案则是逐次获得通过的。</p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<th width="100">
+				顺序</th>
+			<th>
+				修正案</th>
+			<th width="100">
+				提出日期</th>
+			<th width="100">
+				生效日期</th>
+		</tr>
+		<tr>
+			<td>
+				第一修正案</td>
+			<td>
+				保护言论自由、信仰自由、出版自由，以及集会的权利、抗议的权利和请愿的权利</td>
+			<td>
+				1789年9月25日</td>
+			<td>
+				1791年12月15日</td>
+		</tr>
+		<tr>
+			<td>
+				第二修正案</td>
+			<td>
+				保护持有与携带武器的权利</td>
+			<td>
+				1789年9月25日</td>
+			<td>
+				1791年12月15日</td>
+		</tr>
+		<tr>
+			<td>
+				第三修正案</td>
+			<td>
+				在和平时期，未经房主同意，士兵不得在民房驻扎；除依法律规定的方式，战时也不允许如此。</td>
+			<td>
+				1789年9月25日</td>
+			<td>
+				1791年12月15日</td>
+		</tr>
+		<tr>
+			<td>
+				第四修正案</td>
+			<td>
+				禁止不合理的收押，并载明须有基于相当理由，由中立的法官或裁判官裁定的搜索票</td>
+			<td>
+				1789年9月25日</td>
+			<td>
+				1791年12月15日</td>
+		</tr>
+		<tr>
+			<td>
+				第五修正案</td>
+			<td>
+				载明公诉须经由大陪审团起诉与征收的规则，保护正当程序的权利，并禁止自证己罪和双重审判</td>
+			<td>
+				1789年9月25日</td>
+			<td>
+				1791年12月15日</td>
+		</tr>
+		<tr>
+			<td>
+				第六修正案</td>
+			<td>
+				保护接受迅速、公平、公开及由陪审团审判的权利，包括告知被指控之罪、与原告对质、取得证人与聘请律师的权利</td>
+			<td>
+				1789年9月25日</td>
+			<td>
+				1791年12月15日</td>
+		</tr>
+		<tr>
+			<td>
+				第七修正案</td>
+			<td>
+				根据普通法，规定在特定民事案件中由陪审团审判的权利</td>
+			<td>
+				1789年9月25日</td>
+			<td>
+				1791年12月15日</td>
+		</tr>
+		<tr>
+			<td>
+				第八修正案</td>
+			<td>
+				禁止过高的罚款与过高的保释金，及禁止施予残酷且不寻常的惩罚</td>
+			<td>
+				1789年9月25日</td>
+			<td>
+				1791年12月15日</td>
+		</tr>
+		<tr>
+			<td>
+				第九修正案</td>
+			<td>
+				保护在宪法中未列举的权利</td>
+			<td>
+				1789年9月25日</td>
+			<td>
+				1791年12月15日</td>
+		</tr>
+		<tr>
+			<td>
+				第十修正案</td>
+			<td>
+				将宪法未授予美国联邦政府的权利保留给各州</td>
+			<td>
+				1789年9月25日</td>
+			<td>
+				1791年12月15日</td>
+		</tr>
+		<tr>
+			<td>
+				第十一修正案</td>
+			<td>
+				使各州免受他州公民或不住在州内的外国人起诉，奠定主权豁免的基础</td>
+			<td>
+				1794年3月4日</td>
+			<td>
+				1795年2月7日</td>
+		</tr>
+		<tr>
+			<td>
+				第十二修正案</td>
+			<td>
+				修改总统选举的程序</td>
+			<td>
+				1803年12月9日</td>
+			<td>
+				1804年6月15日</td>
+		</tr>
+		<tr>
+			<td>
+				第十三修正案</td>
+			<td>
+				废除奴隶制和强迫劳役，除非是作为犯罪的惩罚</td>
+			<td>
+				1865年1月31日</td>
+			<td>
+				1865年12月6日</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="http://114.xixik.com/us-constitution/14th-amendment/" title="美国宪法修正案第十四条"><strong>第十四修正案</strong></a></td>
+			<td>
+				定义公民权，包含特权或豁免权条款、正当程序条款、平等保护条款，并处理内战后的问题</td>
+			<td>
+				1866年6月13日</td>
+			<td>
+				1868年7月9日</td>
+		</tr>
+		<tr>
+			<td>
+				第十五修正案</td>
+			<td>
+				选举权不能由于种族、肤色、或以前曾服劳役而遭受剥夺，此时尚不包括性别</td>
+			<td>
+				1869年2月26日</td>
+			<td>
+				1870年2月3日</td>
+		</tr>
+		<tr>
+			<td>
+				第十六修正案</td>
+			<td>
+				允许联邦政府征收所得税</td>
+			<td>
+				1909年7月12日</td>
+			<td>
+				1913年2月3日</td>
+		</tr>
+		<tr>
+			<td>
+				第十七修正案</td>
+			<td>
+				确立代表各州的美国参议员必须由民众直接选举</td>
+			<td>
+				1912年5月13日</td>
+			<td>
+				1913年4月8日</td>
+		</tr>
+		<tr>
+			<td>
+				第十八修正案</td>
+			<td>
+				制定禁酒令，禁止在美国国内制造、运输酒类（后被第二十一修正案废止）</td>
+			<td>
+				1917年12月18日</td>
+			<td>
+				1919年1月16日</td>
+		</tr>
+		<tr>
+			<td>
+				第十九修正案</td>
+			<td>
+				公民的选举权不因性别而受限，即确立女性的选举权</td>
+			<td>
+				1919年6月4日</td>
+			<td>
+				1920年8月18日</td>
+		</tr>
+		<tr>
+			<td>
+				第二十修正案</td>
+			<td>
+				修正国会与总统的上任日期与任期（前者在1月3日，后者在1月20日），被称作&ldquo;跛脚鸭修正案&rdquo;</td>
+			<td>
+				1932年3月2日</td>
+			<td>
+				1933年1月23日</td>
+		</tr>
+		<tr>
+			<td>
+				第二十一修正案</td>
+			<td>
+				废除第十八修正案，并禁止违反关于酒精的州法律</td>
+			<td>
+				1933年2月20日</td>
+			<td>
+				1933年12月5日</td>
+		</tr>
+		<tr>
+			<td>
+				第二十二修正案</td>
+			<td>
+				限制一个人可以被选为总统的次数：一人不能被选为总统超过两次，以及在他人当选任期中担任了两年以上者，不能当选超过一次</td>
+			<td>
+				1947年3月24日</td>
+			<td>
+				1951年2月27日</td>
+		</tr>
+		<tr>
+			<td>
+				第二十三修正案</td>
+			<td>
+				规定首都华盛顿特区在选举人团中指派代表的方法</td>
+			<td>
+				1960年6月16日</td>
+			<td>
+				1961年3月29日</td>
+		</tr>
+		<tr>
+			<td>
+				第二十四修正案</td>
+			<td>
+				禁止因为没有支付人头税而撤销投票权</td>
+			<td>
+				1962年9月14日</td>
+			<td>
+				1964年1月23日</td>
+		</tr>
+		<tr>
+			<td>
+				第二十五修正案</td>
+			<td>
+				将泰勒先例编纂成为法例，定义总统继任的程序</td>
+			<td>
+				1965年7月6日</td>
+			<td>
+				1967年2月10日</td>
+		</tr>
+		<tr>
+			<td>
+				第二十六修正案</td>
+			<td>
+				确立年龄18岁以上之人的投票权</td>
+			<td>
+				1971年3月23日</td>
+			<td>
+				1971年7月1日</td>
+		</tr>
+		<tr>
+			<td>
+				第二十七修正案</td>
+			<td>
+				防止影响国会薪资的法律生效，直到下一任的代表被选出</td>
+			<td>
+				1989年9月25日</td>
+			<td>
+				1992年5月7日</td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT:2em">
+	<strong>未通过</strong></p>
+<p style="TEXT-INDENT:2em">
+	有六个修正案已通过国会，但之后却没有得到适当数量的州议会所批准。其中四项修正案在技术上还有待州议员的决定，其中一项已经过了自己的期限，又其中一项已经过了提出该修正案的决议案的期限（虽然这有争议）。</p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<th>
+				修正案</th>
+			<th width="100">
+				提出日期</th>
+			<th>
+				状态</th>
+			<th width="150">
+				主题</th>
+		</tr>
+		<tr>
+			<td>
+				国会配额修正案</td>
+			<td>
+				1789年9月25日</td>
+			<td>
+				有待州议员决定</td>
+			<td>
+				美国众议员的配额</td>
+		</tr>
+		<tr>
+			<td>
+				贵族头衔修正案</td>
+			<td>
+				1810年5月1日</td>
+			<td>
+				有待州议员决定</td>
+			<td>
+				禁止贵族头衔</td>
+		</tr>
+		<tr>
+			<td>
+				科尔文修正案</td>
+			<td>
+				1861年3月2日</td>
+			<td>
+				有待州议员决定</td>
+			<td>
+				保留奴隶制</td>
+		</tr>
+		<tr>
+			<td>
+				儿童劳工修正案</td>
+			<td>
+				1924年6月2日</td>
+			<td>
+				有待州议员决定</td>
+			<td>
+				国会有权规范童工</td>
+		</tr>
+		<tr>
+			<td>
+				平等权利修正案</td>
+			<td>
+				1972年3月22日</td>
+			<td>
+				在1979或1982年过期（有些学者不同意），然而还是有可能会被批准，因为期限在先前已被延长，且期限没有写进修正案的本文中</td>
+			<td>
+				禁止男女不平等</td>
+		</tr>
+		<tr>
+			<td>
+				哥伦比亚特区投票权修正案</td>
+			<td>
+				1978年8月22日</td>
+			<td>
+				在1985年过期，由于最后期限被写进修正案的本文中，故无法复活</td>
+			<td>
+				华盛顿特区的投票权</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	<strong><a href="http://114.xixik.com/us-constitution/amendments/" style="color:#000;" title="美国宪法修正案">美国宪法修正案</a></strong>：<a href="http://114.xixik.com/us-constitution/amendments/">http://114.xixik.com/us-constitution/amendments/</a></p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor8"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        美国宪法成功的原因</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	民主是极其脆弱的东西。自1787年以来，民主经常失灵，远多于成功的次数仅在20世纪，民主就曾几度沦陷，德国、西班牙意大利、俄罗斯；非洲和亚洲许多新兴国家；南美许多老牌国家。人类依然发现，很难找出管理自己的方法，即使在今天，大多数人依然生活在独裁政府的管制之下对他们的日常生活说三道四民主，及其伴随而来的自由，往往难以实现，而且维持起来更难。脱胎于制宪会议的美国社会绝非尽善尽美。这个国家饱受种族摩擦之苦，看来几乎没有根除的可能。它还有令人头痛的贫民问题，虽然几任总统真心实意想解决，并投入大量金钱，但依然没有得到解决。</p>
+<p style="TEXT-INDENT:2em">
+	市中心的犯罪率节节上升，无论是严刑峻法还是宽大处理，对于减少犯罪都收效甚微。近几十年里，这个国家更愿意用枪炮来解决外交问题，而不是像开国元勋们希望的那样，理性地寻求更富有成效的解决方案。至少在一些观察家看来，这个国家的老百姓显得过于热衷做肤浅的表面文章—“加利福尼亚综合征”—而不是去做一些对生活有意义的事情。因此，如果用理想来衡量，美国还差得很远。宪法及其后成立的政府，都未能达到建国之父们宣扬的理想。我们现在进行归纳，必须实事求是。但是，当我们用现实—世界上其他国家——来衡量美国时，我们吃惊地发现，美国治理得非常好，当之无愧是全球最繁荣富强的国家，堪称世界上最自由国家的典范。</p>
+<p style="TEXT-INDENT:2em">
+	世界上不要求公民随身携带身份证件的国家不多，美国就是其中之一。可能只有在美国，普通老百姓才能够切实有机会发表意见，推举他们中间的某个人竞选公职。在美国，人民不想要的政策几乎不可能维持太久，其他国家很少能做到，和其他国家相比，美国人民的声音，不论好坏，总是更加响亮。因此，如果不看那些正在化脓的伤口，特别是贫困和种族歧视，仍在破坏美国的社会结构，可以公平地说，在经历漫长的道路之后，美利坚合众国有望实现费城立宪者们的构想。那么，关于<a style="color:#000" title="美国宪法" href="http://114.xixik.com/us-constitution/">美国宪法</a>，是什么使美国的民主不仅得以幸存，而且蓬勃发展的呢？是立宪者们如人们所说的那般贤良，抑或只是机缘巧合？</p>
+<p style="TEXT-INDENT:2em">
+	<a style="color:#000" title="美国宪法" href="http://114.xixik.com/us-constitution/">美国宪法</a>之所以取得成功，原因并非一个，而是多方面的。第一出席费城会议的这些代表，用美国精神写就了这部宪法。查尔斯·平克尼明确表示，这是一部专为美国人民量身定做的文件，其他代表马上表示认同（这有助于解释，为什么将其应用到其他文化却不一定成功）。与会代表了解他们的人民，大部分代表从政多年，他们熟悉美国人民的思维和情感方式:他们明白事理、务实，最重要的是，他们思想上独立，他们希望以自己喜欢的方式生活，政府干预越少越好。美国人信仰上帝，但对物质生活的追求高于对精神生活的追求。他们想要一个务实、开放的政府，建国之父们建立的正是这样一个政府。</p>
+<p style="TEXT-INDENT:2em">
+	<a style="color:#000" title="美国宪法" href="http://114.xixik.com/us-constitution/">美国宪法</a>不是由理论家写成的，而是由一批具有丰富政治经验的人写成的，宪法的制定反映的政治现实，不仅是1787年时他们所看到的，而且是他们为子孙后代所想到的。尽管建国之父们想忽视美国精神例如后来汉密尔顿带头那样做了但他们知道做不到，因为这点应该十分清楚，未经本人同意，美国人民不会也不可能被管治。詹姆斯·麦迪逊及其支持者，特别是詹姆斯·威尔逊，坚持建立一个以人民为基础的新政府，是完全正确的。他们用新的理论，即人民可以用任何方式授予权力，来取代旧的社会契约观念，也是完全正确的费城的大部分代表都很明智，他们赞同麦迪逊和威尔逊的意见。</p>
+<p style="TEXT-INDENT:2em">
+	有时，他们一开始并没有得出这个结论，但最终，他们投票决定，让人民按切合当时实际的紧密程度参与政府管理。他们提议代表由人民直接选举产生，在1787年，这是世界上最广泛的选举权，他们还提议各邦批准大会要有广泛的参与度，而且，也许是最重要的，通过频繁的选举和修正案机制，人民有机会迫使政府接受政策。他们想要一个最终属于人民的政府，将美国民主制度发扬光大。第二，<a style="color:#000" title="美国宪法" href="http://114.xixik.com/us-constitution/">美国宪法</a>之所以成功，是因为制宪先贤们懂得人的自然权利。他们认为，人类身上有许多善的方面，但同时也清楚地知道必须小心提防人类身上恶的一面。那时候，只要有点政治头脑的美国人，几乎都极度不信任人能够贤明正当地行使权力。</p>
+<p style="TEXT-INDENT:2em">
+	大家普遍认为，“利己主义”是人类行为的主要决定因素。我们还认为，即使从最广义上来看“利已主义”，得出的结论也是如此。也许这样的时代终会到来，到那时候，人们为了共同利益，愿意牺牲自己的最大利益，但我们不指望这样的时刻很快就会到来。<a style="color:#000" title="美国宪法" href="http://114.xixik.com/us-constitution/">美国宪法</a>反映了人性的现实。选民们并非总是作出明智的选择，这是理所当然的。政界人士往往把自己的利益置于其管治的人民之上，这也是理所当然的美国政府的设计，不仅在好人掌权时运作正常，而且经常在蠢蛋、无赖、不学无术之人掌权时也能运作正常。第三，宪法允许政府拥有足够的权力，推行它应该做的事情。</p>
+<p style="TEXT-INDENT:2em">
+	一些代表来参会，是希望建立一个强有力的中央政府，但另外为数不少的代表可没这么想，需要说服他们。他们对赋予新政府太多权力持谨慎态度同样，他们也很清楚，新政府必须拥有实权，他们肯定会赋予新政府实际权力，因为他们开始理解三权分立的概念及其制约和平衡机制，相信会获得成功。第四，建国之父们非常关心少数派的权利问题。他们认为自己及其同类是拥有债权的少数派，而债务人占多数，多数派势必想方设法“压迫”他们，这是他们关心少数人权利的部分原因。不过，抛开他们自己的私利，他们也承认，即使在那时，这个国家还是少数派组成的群体。没有一个派系、会或职业团体真正占据支配地位。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+    </div>
+    <script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        var value = '183';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script>
+    <div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/us-constitution/" target="_self" title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a></div>
+    <ul style="width: 960px; margin: auto; overflow: hidden;">
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/lixi/"
+                title="人民币存款利率表，2019银行利息，银行存款利率，银行贷款利率">银行存款利息</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chaodai/zhou/"
+                title="周朝历史_西周历史_东周历史_周朝帝王列表">周朝历史</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证更换新政策_过期了该怎么办？">中国旅行证</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国历任总统名单_美国总统简历生卒年份及所属党派">美国历任总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/baijiaxing-qq/"
+                title="百家姓qq头像,百家姓qq头像闪图大全_百家姓中国心qq头像">百家姓QQ头像</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="美宝证件_美宝需要哪些证件（美国出生纸_中国旅行证_美国护照_社会安全号_出生纸三级认证）">美宝需要哪些证件？</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_去美国生孩子费用预算清单2019">赴美生子要多少钱</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/obama/"
+                title="奥巴马_美国总统奥巴马_贝拉克·奥巴马(Barack Hussein Obama)_第44任美国总统">奥巴马</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/trump/"
+                title="美国总统特朗普_唐纳德·约翰·特朗普_Donald John Trump_第45任美国总统川普">特朗普</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_去美国生孩子要多少钱？">赴美生子费用</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 中国护照免签证国家2019">中国护照免签证</a> </li>
+        
+    </ul>
+
+    <div class="lindBox">
+        <div class="btnGray">
+            <div class="btnText">
+                <a target="_self" title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照" href="http://news.xixik.com/word/183/">另存为<br />
+                    Word格式</a>
+            </div>
+        </div>
+    </div>
+    <div class="lindBox" style="text-align: center;">
+        <img src="http://news.xixik.com/qrcode/183/" alt="扫码手机上继续看" /><br />
+        <br />
+        <strong>用微信或者支付宝扫码在手机上继续观看<br />
+            可以保存收藏，也扫码后可以分享给好友
+        </strong>
+    </div>
+    <hr style="height: 1px; border: none; border-top: 1px dashed #999;" />
+    <script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script>
+<!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.-->
+
+</body></html>

@@ -1,0 +1,4062 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <title>中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表</title>
+    <link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" />
+    <meta name="description" content="中国朝代简史,中国历史朝代及皇帝简介,三皇五帝分别是谁?中国朝代顺序表,中国历史朝代,中国有多少个朝代,中国有多少个皇帝,朝代歌,中国朝代更替表,历史朝代公元对照简表." />
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/chinese-dynasties/">
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <base target="_blank" />
+    
+    <script>
+        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "chinese-dynasties/";
+        }
+
+
+    </script>
+    <style>
+        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style>
+</head>
+<body>
+    <a name="top4"></a>
+    <div class="topBox" name="top">
+        <div class="topMain">
+            <div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div>
+            <div id="icoPhone"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div>
+            <div id="icoWechat"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a> </div>
+            <div id="icoSina"></div>
+            <div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a>  </div>
+            <div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div>
+            <div class="topRight">
+            </div>
+        </div>
+    </div>
+
+    <div id="showqrCode">
+        <div><span></span></div>
+        <img src="" /><div><span></span></div>
+    </div>
+    <script type="text/javascript">
+        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script>
+    <div class="body">
+        
+        <div class="lindBox" style="position: relative;">
+            <img src="http://img.xixik.net/custom/topic/001/chinese-dynasties.jpg" alt="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表" />
+            <div class="title">
+                <h1>中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表</h1>
+            </div>
+        </div>
+        
+
+        <div class=" custom_border lindBox">
+            <div class="special_content">
+                <div class="content_text">
+                    <div class="content_daodu">
+                    </div>
+                    <h2 style="border-bottom:1px dashed #999; displayinline;">朝代顺序表</h2>
+                    <p>
+	<a href="http://114.xixik.com/chaodai/" title="中国朝代顺序表"><strong>中国朝代顺序表</strong></a>：夏、商、周【西周、东周（春秋、战国）】、秦、汉（西汉、东汉）、三国（魏、蜀、吴）、晋（西晋、东晋）、<a href="http://114.xixik.com/chaodai/5hu16guo/">五胡十六国</a>、南北朝【南朝（刘宋、萧齐、萧梁、南陈）、北朝（北魏、东魏、西魏、北齐、北周）】、隋、唐、五代十国【五代（后梁、后唐、后晋、后汉、后周）、十国（前蜀、后蜀、杨吴、南唐、吴越、闽、马楚、南汉、南平、北汉）】、宋（北宋、南宋）、辽、西夏、金、元、明、清。<a href="http://114.xixik.com/chinese-emperors/" title="中国皇帝顺序表"><strong>中国历代皇帝顺序表</strong></a></p>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="lindBox" style="overflow: hidden;">
+            <div class="gg1">
+                <a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a>
+            </div>
+            <div class="guide">
+                <div class="guideBorder" id="guideBorder">
+                    <div class="guideTitle">导读（目录）</div>
+                    <ul id="guideDisplay">
+                        
+                                <li>·<a title="中国历史朝代顺序详表" href="#anchor1" target="_self"> 中国历史朝代顺序详表</a></li>
+                            
+                                <li>·<a title="中国历史上十八个朝代名称来历" href="#anchor2" target="_self"> 中国历史上十八个朝代名称来历</a></li>
+                            
+                                <li>·<a title="中国历史上由少数民族建立的王朝" href="#anchor3" target="_self"> 中国历史上由少数民族建立的王朝</a></li>
+                            
+                                <li>·<a title="中国朝代前缀的含义" href="#anchor4" target="_self"> 中国朝代前缀的含义</a></li>
+                            
+                                <li>·<a title="中国皇帝的谥号、庙号和年号" href="#anchor5" target="_self"> 中国皇帝的谥号、庙号和年号</a></li>
+                            
+                                <li>·<a title="中国历史朝代持续的时间（国祚）" href="#anchor6" target="_self"> 中国历史朝代持续的时间（国祚）</a></li>
+                            
+                                <li>·<a title="中国历史年代简表英文版" href="#anchor7" target="_self"> 中国历史年代简表英文版</a></li>
+                            
+                                <li>·<a title="中国简史" href="#anchor8" target="_self"> 中国简史</a></li>
+                            
+                    </ul>
+                    <div class="guideOpen">展开&darr;</div>
+                </div>
+            </div>
+
+            <div class="guideFllow">
+                <div class="guideFllowBorder">
+                    <div class="guideFllowTitle">导读（目录）</div>
+                    <ul id="guideFllowDisplay">
+                        
+                                <li>·<a title="中国历史朝代顺序详表" href="#anchor1" target="_self"> 中国历史朝代顺序详表</a></li>
+                            
+                                <li>·<a title="中国历史上十八个朝代名称来历" href="#anchor2" target="_self"> 中国历史上十八个朝代名称来历</a></li>
+                            
+                                <li>·<a title="中国历史上由少数民族建立的王朝" href="#anchor3" target="_self"> 中国历史上由少数民族建立的王朝</a></li>
+                            
+                                <li>·<a title="中国朝代前缀的含义" href="#anchor4" target="_self"> 中国朝代前缀的含义</a></li>
+                            
+                                <li>·<a title="中国皇帝的谥号、庙号和年号" href="#anchor5" target="_self"> 中国皇帝的谥号、庙号和年号</a></li>
+                            
+                                <li>·<a title="中国历史朝代持续的时间（国祚）" href="#anchor6" target="_self"> 中国历史朝代持续的时间（国祚）</a></li>
+                            
+                                <li>·<a title="中国历史年代简表英文版" href="#anchor7" target="_self"> 中国历史年代简表英文版</a></li>
+                            
+                                <li>·<a title="中国简史" href="#anchor8" target="_self"> 中国简史</a></li>
+                            
+                    </ul>
+                    <div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div>
+                </div>
+            </div>
+
+
+            <div class="gg2">
+                <a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a>
+            </div>
+        </div>
+        
+        <a name="anchor1"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        中国历史朝代顺序详表</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="text-align: center;">
+	<a href="http://114.xixik.com/chinese-dynasties/" title="中国历史朝代演变表"><img src="http://img.xixik.net/custom/section/chinese-dynasties/Dynasties-in-Chinese-history.png" style="width: 90%; max-width: 90%;" /></a></p>
+<p style="text-align: center;">
+	图表：中国历史朝代演进表（<a href="http://img.xixik.net/custom/topic/xixik_f791c3b935f20d11.jpg" title="中国历史朝代演变表">查看另一个版本</a>）</p>
+<p style="text-align: center;">
+	<a href="http://114.xixik.com/chaodai/" title="中国历史朝代纪年表"><img src="http://img.xixik.net/custom/topic/chinese-dynasties-history.png" style="width: 90%; max-width: 90%;" /></a></p>
+<p style="text-align: center;">
+	图表：中国历史朝代纪年表</p>
+<p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/chinese-dynasties/Magic-Dynasties-in-Chinese-history.gif" style="width: 90%; max-width: 556px;" /></p>
+<p style="text-align:center;">
+	动画：<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000;" title="中国历史朝代">中国历史朝代</a>演变史</p>
+<style type="text/css">
+table tr:hover{background-color: #f5f5f5;}</style>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" class="table_bg_xixik" style="text-align: center; margin: auto; width:90%">
+	<tbody>
+		<tr style="background-color:#efefef;">
+			<th colspan="3">
+				朝代</th>
+			<th>
+				起讫年代</th>
+			<th>
+				都城</th>
+			<th>
+				今地</th>
+			<th>
+				统治民族</th>
+			<th>
+				开国皇帝</th>
+		</tr>
+		<tr style="color:#999;">
+			<td colspan="8">
+				<a href="http://www.xixik.com/content/4b5c8207f8fc2952" title="三皇五帝">三皇五帝</a>：&ldquo;三皇&ldquo;指伏羲、燧人、神农，&ldquo;五帝&rdquo;指黄帝、颛顼、帝喾、唐尧、虞舜</td>
+		</tr>
+		<tr style="background-color:#efefef;color:#999;">
+			<td colspan="3">
+				<strong>夏朝</strong>①</td>
+			<td>
+				约前2146-1675年</td>
+			<td>
+				安邑</td>
+			<td>
+				山西夏县</td>
+			<td>
+				华夏族</td>
+			<td>
+				禹</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				<strong>商朝</strong></td>
+			<td>
+				约前1675-1029年</td>
+			<td>
+				亳</td>
+			<td>
+				河南商丘</td>
+			<td>
+				华夏族</td>
+			<td>
+				汤</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td rowspan="3">
+				<strong>周朝</strong></td>
+			<td colspan="2">
+				西</td>
+			<td>
+				约前1029-771年</td>
+			<td>
+				镐京</td>
+			<td>
+				陕西西安</td>
+			<td>
+				华夏族</td>
+			<td>
+				文王姬昌</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td rowspan="2" width="43">
+				东</td>
+			<td width="63">
+				春秋</td>
+			<td>
+				前770-476年</td>
+			<td>
+				洛邑</td>
+			<td>
+				河南洛阳</td>
+			<td>
+				华夏族</td>
+			<td>
+				平王姬宜臼</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td>
+				战国</td>
+			<td>
+				前475-221年</td>
+			<td>
+				　</td>
+			<td>
+				　</td>
+			<td>
+				华夏族</td>
+			<td>
+				<a href="http://114.xixik.com/chinese-emperors/xianqin/" title="先秦国君世系表">先秦国君世系表</a></td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				<strong><a href="http://114.xixik.com/chaodai/qin/" style="color:#000;" title="秦朝">秦朝</a></strong></td>
+			<td>
+				前221-207年<br />
+				来源：<a href="http://114.xixik.com/chinese-dynasties/" title="中国历史朝代">中国历史朝代</a></td>
+			<td>
+				咸阳</td>
+			<td>
+				陕西咸阳</td>
+			<td>
+				华夏族</td>
+			<td>
+				<a href="http://114.xixik.com/chinese-emperors/qinguo/" title="秦国历代国君">秦国历代国君</a><br />
+				始皇帝嬴政<br />
+				<a href="http://114.xixik.com/chinese-emperors/qin/" title="秦朝历代皇帝">秦朝历代皇帝</a></td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td rowspan="4">
+				<strong><a href="http://114.xixik.com/chaodai/han/" style="color:#000;" title="汉朝">汉朝</a></strong></td>
+			<td colspan="2">
+				西汉</td>
+			<td>
+				前206-公元8年</td>
+			<td>
+				长安</td>
+			<td>
+				陕西西安</td>
+			<td>
+				汉族</td>
+			<td>
+				<a href="http://www.xixik.com/content/5860833e2e47ff16" title="汉高祖既非刘邦的庙号也非谥号">太祖刘邦</a>②<br />
+				<a href="http://114.xixik.com/chinese-emperors/han/" title="西汉历代皇帝，汉朝历代皇帝">西汉皇帝列表</a></td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="2">
+				<a href="http://114.xixik.com/chaodai/xin/" title="新朝历史">新朝</a>③</td>
+			<td>
+				9-23年</td>
+			<td>
+				长安</td>
+			<td>
+				陕西西安</td>
+			<td>
+				汉族</td>
+			<td>
+				王莽</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="2">
+				玄汉</td>
+			<td>
+				23年2月~25年9月</td>
+			<td>
+				宛城<br />
+				洛阳<br />
+				长安</td>
+			<td>
+				河南南阳<br />
+				河南洛阳<br />
+				山西西安</td>
+			<td>
+				汉族</td>
+			<td>
+				更始帝刘玄</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="2">
+				东汉</td>
+			<td>
+				25-220年</td>
+			<td>
+				洛阳</td>
+			<td>
+				河南洛阳</td>
+			<td>
+				汉族</td>
+			<td>
+				光武帝刘秀<br />
+				<a href="http://114.xixik.com/chinese-emperors/han/" title="东汉历代皇帝，汉朝历代皇帝列表">东汉皇帝列表</a></td>
+		</tr>
+		<tr>
+			<td rowspan="3">
+				<strong><a href="http://114.xixik.com/chaodai/sanguo/" style="color:#000;" title="三国:魏蜀吴">三国</a></strong></td>
+			<td colspan="2">
+				曹魏</td>
+			<td>
+				220-265年</td>
+			<td>
+				洛阳</td>
+			<td>
+				河南洛阳</td>
+			<td>
+				汉族</td>
+			<td>
+				魏文帝曹丕</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				蜀汉</td>
+			<td>
+				221-263年</td>
+			<td>
+				成都</td>
+			<td>
+				四川成都</td>
+			<td>
+				汉族</td>
+			<td>
+				汉昭烈帝刘备</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				孙吴</td>
+			<td>
+				222-280年</td>
+			<td>
+				建业</td>
+			<td>
+				江苏南京</td>
+			<td>
+				汉族</td>
+			<td>
+				吴大帝孙权</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td rowspan="2">
+				<strong><a href="http://114.xixik.com/chaodai/jin/" style="color:#000;" title="晋朝,西晋,东晋">晋朝</a></strong></td>
+			<td colspan="2">
+				西晋</td>
+			<td>
+				265-316</td>
+			<td>
+				洛阳</td>
+			<td>
+				河南洛阳</td>
+			<td>
+				汉族</td>
+			<td>
+				晋武帝司马炎<br />
+				<a href="http://114.xixik.com/chinese-emperors/jin/" title="西晋皇帝列表,晋朝皇帝列表及简介">西晋皇帝列表</a></td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="2">
+				东晋</td>
+			<td>
+				317-420</td>
+			<td>
+				建康</td>
+			<td>
+				江苏南京</td>
+			<td>
+				汉族</td>
+			<td>
+				晋元帝司马睿<br />
+				<a href="http://114.xixik.com/chinese-emperors/jin/" title="东晋皇帝列表,晋朝皇帝列表及简介">东晋皇帝列表</a></td>
+		</tr>
+		<tr>
+			<td rowspan="20">
+				<strong><a href="http://114.xixik.com/chaodai/5hu16guo/" style="color:#000;" title="五胡十六国">十六国</a></strong>⑤<br />
+				304-439</td>
+			<td colspan="2" rowspan="2">
+				前赵<br />
+				（汉赵）</td>
+			<td>
+				304-318</td>
+			<td>
+				平阳</td>
+			<td>
+				山西临汾</td>
+			<td rowspan="2">
+				匈奴族</td>
+			<td rowspan="2">
+				高祖光文皇帝刘渊</td>
+		</tr>
+		<tr>
+			<td>
+				319-329</td>
+			<td>
+				长安</td>
+			<td>
+				陕西西安</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				成汉</td>
+			<td>
+				306-347</td>
+			<td>
+				成都</td>
+			<td>
+				四川成都</td>
+			<td>
+				巴氐族</td>
+			<td>
+				太宗武皇帝李雄</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				前凉</td>
+			<td>
+				314-363</td>
+			<td>
+				姑臧</td>
+			<td>
+				甘肃武威</td>
+			<td>
+				汉族</td>
+			<td>
+				高祖明王张寔</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				后赵</td>
+			<td>
+				319-351</td>
+			<td>
+				襄国</td>
+			<td>
+				河北邢台</td>
+			<td>
+				羯族</td>
+			<td>
+				高祖明皇帝石勒</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				前燕</td>
+			<td>
+				337-370</td>
+			<td>
+				龙城</td>
+			<td>
+				辽宁朝阳</td>
+			<td>
+				鲜卑族</td>
+			<td>
+				太祖文明皇帝慕容皝</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				前秦④</td>
+			<td>
+				351-394</td>
+			<td>
+				长安</td>
+			<td>
+				陕西西安</td>
+			<td>
+				氐族</td>
+			<td>
+				世宗明皇帝苻健</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				后秦</td>
+			<td>
+				384-417</td>
+			<td>
+				长安</td>
+			<td>
+				陕西西安</td>
+			<td>
+				羌族</td>
+			<td>
+				太祖武昭皇帝姚苌</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				后燕</td>
+			<td>
+				384-407</td>
+			<td>
+				中山</td>
+			<td>
+				河北定州</td>
+			<td>
+				鲜卑族</td>
+			<td>
+				世祖成武皇帝慕容垂</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				西秦</td>
+			<td>
+				385-431</td>
+			<td>
+				苑川</td>
+			<td>
+				甘肃榆中</td>
+			<td>
+				鲜卑族</td>
+			<td>
+				烈祖宣烈王乞伏国仁</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				后凉</td>
+			<td>
+				386-403</td>
+			<td>
+				略阳</td>
+			<td>
+				甘肃平凉</td>
+			<td>
+				氐族</td>
+			<td>
+				太祖懿武皇帝吕光</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				南凉</td>
+			<td>
+				397-414</td>
+			<td>
+				西平</td>
+			<td>
+				青海西宁</td>
+			<td>
+				鲜卑族</td>
+			<td>
+				烈祖武王拓跋乌孤</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				南燕</td>
+			<td>
+				398-410</td>
+			<td>
+				广固</td>
+			<td>
+				山东益都</td>
+			<td>
+				鲜卑族</td>
+			<td>
+				世宗献武皇帝慕容德</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				西凉</td>
+			<td>
+				407-421</td>
+			<td>
+				酒泉</td>
+			<td>
+				甘肃酒泉</td>
+			<td>
+				汉族</td>
+			<td>
+				太祖昭武王李暠</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				胡夏</td>
+			<td>
+				407-431</td>
+			<td>
+				统万城</td>
+			<td>
+				陕西靖边</td>
+			<td>
+				匈奴</td>
+			<td>
+				世祖烈武皇帝赫连勃勃</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				北燕</td>
+			<td>
+				407-436</td>
+			<td>
+				和龙</td>
+			<td>
+				辽宁朝阳</td>
+			<td>
+				高句丽</td>
+			<td>
+				燕惠懿帝高云</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				北凉</td>
+			<td>
+				397-439</td>
+			<td>
+				张掖</td>
+			<td>
+				甘肃张掖</td>
+			<td>
+				卢水胡</td>
+			<td>
+				太祖武宣王沮渠蒙逊</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				*冉魏</td>
+			<td>
+				350-352</td>
+			<td>
+				邺城</td>
+			<td>
+				河北临漳</td>
+			<td>
+				汉族</td>
+			<td>
+				武悼天王冉闵</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				*西燕</td>
+			<td>
+				384-394</td>
+			<td>
+				长子</td>
+			<td>
+				山西长子</td>
+			<td>
+				鲜卑族</td>
+			<td>
+				济北王慕容泓</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				*西蜀<br />
+				（后蜀）</td>
+			<td>
+				405-413</td>
+			<td>
+				益州</td>
+			<td>
+				四川成都</td>
+			<td>
+				汉族</td>
+			<td>
+				成都王谯纵</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td rowspan="10">
+				<a href="http://114.xixik.com/chaodai/nanbeichao/" style="color:#000;"><strong>南北朝</strong></a><br />
+				420-589</td>
+			<td rowspan="4">
+				南朝</td>
+			<td>
+				刘宋</td>
+			<td>
+				420-479</td>
+			<td>
+				建康</td>
+			<td>
+				江苏南京</td>
+			<td>
+				汉族</td>
+			<td>
+				宋武帝刘裕<br />
+				<a href="http://114.xixik.com/chinese-emperors/nanbeichao/" title="南北朝皇帝列表,南北朝历代皇帝">南北朝皇帝列表</a></td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td>
+				萧齐</td>
+			<td>
+				479-502</td>
+			<td>
+				建康</td>
+			<td>
+				江苏南京</td>
+			<td>
+				汉族</td>
+			<td>
+				齐高帝萧道成</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td>
+				萧梁</td>
+			<td>
+				502-557</td>
+			<td>
+				建康</td>
+			<td>
+				江苏南京</td>
+			<td>
+				汉族</td>
+			<td>
+				梁武帝萧衍</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td>
+				南陈</td>
+			<td>
+				557-589</td>
+			<td>
+				建康</td>
+			<td>
+				江苏南京</td>
+			<td>
+				汉族</td>
+			<td>
+				陈武帝陈霸先</td>
+		</tr>
+		<tr>
+			<td rowspan="6">
+				北朝</td>
+			<td rowspan="2">
+				北魏⑥</td>
+			<td rowspan="2">
+				386-534</td>
+			<td>
+				平城</td>
+			<td>
+				山西大同</td>
+			<td rowspan="2">
+				鲜卑族</td>
+			<td rowspan="2">
+				魏道武帝拓跋珪</td>
+		</tr>
+		<tr>
+			<td>
+				洛阳</td>
+			<td>
+				河南洛阳</td>
+		</tr>
+		<tr>
+			<td>
+				东魏</td>
+			<td>
+				534-550</td>
+			<td>
+				邺</td>
+			<td>
+				河北临漳</td>
+			<td>
+				鲜卑族</td>
+			<td>
+				魏孝静帝元善见</td>
+		</tr>
+		<tr>
+			<td>
+				西魏</td>
+			<td>
+				535-556</td>
+			<td>
+				长安</td>
+			<td>
+				陕西西安</td>
+			<td>
+				鲜卑族</td>
+			<td>
+				魏文帝元宝炬</td>
+		</tr>
+		<tr>
+			<td>
+				北齐</td>
+			<td>
+				550-577</td>
+			<td>
+				邺</td>
+			<td>
+				河北临漳</td>
+			<td>
+				鲜卑族</td>
+			<td>
+				齐文宣帝高洋</td>
+		</tr>
+		<tr>
+			<td>
+				北周</td>
+			<td>
+				557-581</td>
+			<td>
+				长安</td>
+			<td>
+				陕西西安</td>
+			<td>
+				鲜卑族</td>
+			<td>
+				孝闵帝宇文觉</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="3">
+				<strong><a href="http://114.xixik.com/chaodai/sui/" style="color:#000;" title="隋朝">隋朝</a></strong></td>
+			<td>
+				581-618</td>
+			<td>
+				大兴</td>
+			<td>
+				陕西西安</td>
+			<td>
+				汉族</td>
+			<td>
+				隋文帝杨坚<br />
+				<a href="http://114.xixik.com/chinese-emperors/sui/" title="隋朝历代皇帝">隋朝皇帝列表</a></td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				<strong><a href="http://114.xixik.com/chaodai/tang/" style="color:#000;" title="唐朝">唐朝</a></strong>⑦</td>
+			<td>
+				618-907</td>
+			<td>
+				长安</td>
+			<td>
+				陕西西安</td>
+			<td>
+				汉族</td>
+			<td>
+				唐高祖李渊<br />
+				<a href="http://114.xixik.com/chinese-emperors/tang/" title="唐朝历代皇帝">唐朝皇帝列表</a></td>
+		</tr>
+		<tr>
+			<td rowspan="15">
+				<strong>五代十国</strong>⑧</td>
+			<td colspan="2">
+				后梁</td>
+			<td>
+				907-923</td>
+			<td>
+				汴</td>
+			<td>
+				河南开封</td>
+			<td>
+				汉族</td>
+			<td>
+				梁太祖朱晃<br />
+				<a href="http://114.xixik.com/chinese-emperors/5dai10guo/" title="五代十国皇帝列表,五代十国历代皇帝">五代十国皇帝列表</a></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				后唐</td>
+			<td>
+				923-936</td>
+			<td>
+				洛阳</td>
+			<td>
+				河南洛阳</td>
+			<td>
+				沙陀族</td>
+			<td>
+				唐庄宗李存勖</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				后晋</td>
+			<td>
+				936-947</td>
+			<td>
+				汴</td>
+			<td>
+				河南开封</td>
+			<td>
+				沙陀族</td>
+			<td>
+				晋高祖石敬瑭</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				后汉</td>
+			<td>
+				947-950</td>
+			<td>
+				汴</td>
+			<td>
+				河南开封</td>
+			<td>
+				沙陀族</td>
+			<td>
+				汉高祖刘暠</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				后周</td>
+			<td>
+				951-960</td>
+			<td>
+				汴</td>
+			<td>
+				河南开封</td>
+			<td>
+				汉族</td>
+			<td>
+				周太祖郭威</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="2">
+				前蜀</td>
+			<td>
+				891-925</td>
+			<td>
+				成都</td>
+			<td>
+				四川成都</td>
+			<td>
+				汉族</td>
+			<td>
+				高祖王建</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="2">
+				后蜀</td>
+			<td>
+				925-965</td>
+			<td>
+				成都</td>
+			<td>
+				四川成都</td>
+			<td>
+				汉族</td>
+			<td>
+				高祖孟知祥</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="2">
+				杨吴</td>
+			<td>
+				892-937</td>
+			<td>
+				扬州</td>
+			<td>
+				江苏扬州</td>
+			<td>
+				汉族</td>
+			<td>
+				太祖杨行密</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="2">
+				南唐</td>
+			<td>
+				937-975</td>
+			<td>
+				金陵</td>
+			<td>
+				江苏南京</td>
+			<td>
+				汉族</td>
+			<td>
+				烈祖李昪</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="2">
+				吴越</td>
+			<td>
+				893-978</td>
+			<td>
+				杭州</td>
+			<td>
+				浙江杭州</td>
+			<td>
+				汉族</td>
+			<td>
+				武肃王钱鏐</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="2">
+				闽国</td>
+			<td>
+				893-945</td>
+			<td>
+				长乐</td>
+			<td>
+				福建福州</td>
+			<td>
+				汉族</td>
+			<td>
+				太祖王审知</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="2">
+				马楚</td>
+			<td>
+				896-951</td>
+			<td>
+				长沙</td>
+			<td>
+				湖南长沙</td>
+			<td>
+				汉族</td>
+			<td>
+				武穆王马殷</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="2">
+				南汉</td>
+			<td>
+				905-971</td>
+			<td>
+				兴王府</td>
+			<td>
+				广东广州</td>
+			<td>
+				汉族</td>
+			<td>
+				高祖刘龑</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="2">
+				南平</td>
+			<td>
+				907-963</td>
+			<td>
+				荆州</td>
+			<td>
+				湖北荆州</td>
+			<td>
+				汉族</td>
+			<td>
+				武信王高季兴</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="2">
+				北汉</td>
+			<td>
+				951-979</td>
+			<td>
+				太原</td>
+			<td>
+				山西太原</td>
+			<td>
+				沙陀族</td>
+			<td>
+				世祖刘崇</td>
+		</tr>
+		<tr>
+			<td rowspan="2">
+				<strong><a href="http://114.xixik.com/chaodai/song/" style="color:#000;" title="宋朝">宋朝</a></strong>⑨</td>
+			<td colspan="2">
+				北宋</td>
+			<td>
+				<a href="tel:960-1127">960-1127</a></td>
+			<td>
+				开封</td>
+			<td>
+				河南开封</td>
+			<td>
+				汉族</td>
+			<td>
+				太祖赵匡胤<br />
+				<a href="http://114.xixik.com/chinese-emperors/song/" title="宋朝历代皇帝">宋朝皇帝列表</a></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				南宋</td>
+			<td>
+				1127-1279</td>
+			<td>
+				临安</td>
+			<td>
+				浙江杭州</td>
+			<td>
+				汉族</td>
+			<td>
+				高宗赵构<br />
+				<a href="http://114.xixik.com/chinese-emperors/song/" title="宋朝历代皇帝">宋朝皇帝列表</a></td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="3">
+				辽国</td>
+			<td>
+				<a href="tel:907-1125">907-1125</a></td>
+			<td>
+				皇都</td>
+			<td>
+				辽宁</td>
+			<td>
+				契丹族</td>
+			<td>
+				太祖耶律阿保机</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				大理</td>
+			<td>
+				<a href="tel:937-1254">937-1254</a></td>
+			<td>
+				太和城</td>
+			<td>
+				云南大理</td>
+			<td>
+				白族</td>
+			<td>
+				太祖段思平</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="3" style="background-color:#efefef;">
+				西夏</td>
+			<td>
+				1032-1227</td>
+			<td>
+				兴庆府</td>
+			<td>
+				宁夏银川</td>
+			<td>
+				党项族</td>
+			<td>
+				景帝李元昊</td>
+		</tr>
+		<tr>
+			<td colspan="3" rowspan="3">
+				金朝</td>
+			<td rowspan="3">
+				1115-1234</td>
+			<td>
+				会宁</td>
+			<td>
+				阿城（黑）</td>
+			<td rowspan="3">
+				女真族</td>
+			<td rowspan="3">
+				金太祖阿骨打</td>
+		</tr>
+		<tr>
+			<td>
+				中都</td>
+			<td>
+				北京</td>
+		</tr>
+		<tr>
+			<td>
+				汴京</td>
+			<td>
+				河南开封</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="3">
+				<strong><a href="http://114.xixik.com/chaodai/yuan/" style="color:#000;" title="元朝">元朝</a></strong></td>
+			<td>
+				1206-1368</td>
+			<td>
+				大都</td>
+			<td>
+				北京</td>
+			<td>
+				蒙古族</td>
+			<td>
+				元世祖忽必烈<br />
+				<a href="http://114.xixik.com/chinese-emperors/yuan/" title="元朝历代皇帝">元朝皇帝列表</a></td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				<strong><a href="http://114.xixik.com/chaodai/ming/" style="color:#000;" title="明朝">明朝</a></strong></td>
+			<td>
+				1368-1644</td>
+			<td>
+				北京</td>
+			<td>
+				北京</td>
+			<td>
+				汉族</td>
+			<td>
+				明太祖朱元璋<br />
+				<a href="http://114.xixik.com/chinese-emperors/ming/" title="明朝历代皇帝">明朝皇帝列表</a></td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="3">
+				<strong><a href="http://114.xixik.com/chaodai/qing/" style="color:#000;" title="清朝">清朝</a></strong>⑩</td>
+			<td>
+				1636-1911</td>
+			<td>
+				北京</td>
+			<td>
+				北京</td>
+			<td>
+				满族</td>
+			<td>
+				清太宗皇太极<br />
+				<a href="http://114.xixik.com/chinese-emperors/qing/" title="清朝历代皇帝">清朝皇帝列表</a></td>
+		</tr>
+		<tr>
+			<td colspan="8">
+				三皇五帝始，尧舜禹相传。 夏商与西，东分两段。 春秋和战国，一统秦两汉。<br />
+				三分魏蜀吴，二晋前后延。 南北朝并立，隋唐五代传。 宋元明清后，皇朝自此完。<br />
+				<strong>更多：</strong><a href="http://114.xixik.com/china-dynasties/" title="朝代歌，中国历史朝代顺序表">中国朝代歌</a></td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT: 2em">
+	<strong>备注：</strong></p>
+<p style="TEXT-INDENT: 2em">
+	①<a href="http://www.xixik.com/content/ea0fa1e45dddcff5">中国历史按照5000年计算</a>那么就要把<a href="http://www.xixik.com/content/4b5c8207f8fc2952" title="三皇五帝">三皇五帝</a>等神话纳入了。根据经过5年匆匆结题的夏商周断代工程结论，<a href="http://www.xixik.com/content/84804b9f647bc185">夏朝应是公元前2070年～公元前1600年</a>，商朝是公元前1600年～公元前1046年，西周是公元前1046年～公元前771年。当然<a href="http://www.xixik.com/content/934f440cfa8e4a18">夏商周断代工程被人讽刺是&ldquo;系统性编造历史&rdquo;</a>，&ldquo;一群老混蛋最后找到的最大的证据是几片远古篱笆遗址&rdquo;。</p>
+<p style="TEXT-INDENT: 2em">
+	②<a href="http://www.xixik.com/content/5860833e2e47ff16">汉高祖既非刘邦的庙号，也非谥号</a>。作为汉朝开国皇帝，刘邦的庙号为&ldquo;太祖&rdquo;，谥号为&ldquo;高皇帝&rdquo;。但自汉武帝时代的史学家司马迁开始称刘邦为&ldquo;高祖&rdquo;，后世多沿用之，其实称&ldquo;汉高帝&rdquo;或&ldquo;汉太祖&rdquo;才是正确的。</p>
+<p style="TEXT-INDENT: 2em">
+	③王莽既无庙号也无谥号，虽然自称新朝皇帝，但后来刘姓君主并没有对王莽进行追封，所以王莽也是封建王朝进行之中唯一一个没有追封庙号的君主，但王莽在位时为前代多个皇帝追封庙号，<a href="http://www.xixik.com/content/f8e92ac2c404b987">庙号也从他这一代开始泛滥</a>。元末农民起义韩宋政权小明王韩林儿为多位前朝皇帝追封。</p>
+<p style="TEXT-INDENT: 2em">
+	④&ldquo;前秦&rdquo;既然是在秦朝的后边，<a href="http://www.xixik.com/content/47a05a09d33779a1">为什么不叫&ldquo;后秦&rdquo;而叫&ldquo;前秦&rdquo;</a>？前秦的&ldquo;前&rdquo;是指其在十六国中的前，十六国里有两个秦，氐族苻健的前秦和羌族姚苌的后秦。后秦是反前秦建立的，也自称秦，故以前后秦区分。&ldquo;前秦&rdquo;是中国历史上第一个统一北方的非汉民族政权，孙功达《氐族研究》称是&ldquo;最早尝试由少数民族来统一全国&rdquo;的历史政权。&ldquo;先秦&rdquo;通常指秦始皇建立的秦朝之前，特指春秋、战国时期。<a href="http://www.xixik.com/content/ef840f0c74a814ec" target="_blank" title="先秦、秦国、秦朝、前秦、后秦、西秦是什么关系？">先秦、秦国、秦朝、前秦、后秦、西秦是什么关系？</a></p>
+<p style="TEXT-INDENT: 2em">
+	⑤<a href="http://114.xixik.com/chaodai/5hu16guo/" style="text-indent: 2em; color: rgb（0, 0, 0）;">五胡十六国</a>（公元304年～公元439年），以匈奴、羯、鲜卑、羌及氐为主的五胡在中国北方范围内相继建立的国家，&ldquo;<a href="http://114.xixik.com/chaodai/5hu16guo/" style="text-indent: 2em;">五胡十六国</a>&rdquo;的说法源自<a href="http://www.xixik.com/content/df57ba4f067380ea" title="崔鸿：第一个敢于为少数民族政权写历史的人">北魏史学家崔鸿私下撰写的《十六国春秋》</a>，这十六国分别为：成汉（巴氐）、前赵（匈奴）、后赵（羯）、前凉、前燕（鲜卑）、前秦（氐）、后燕（鲜卑）、后秦（羌）、西秦（鲜卑）、后凉、南凉（鲜卑）、西凉（氐）、北凉（卢水胡）、南燕（鲜卑）、北燕及胡夏（匈奴），简称&ldquo;五凉、四燕、三秦、二赵、一成、一夏&rdquo;。实际上这一时期国家数目远多于16个，在当时具有较大影响的仇池、代国、<a href="http://www.xixik.com/content/0ac0e9005be0a806" title="高句丽≠高丽">高句丽</a>、冉魏、西燕、吐谷浑、西蜀和翟魏等。</p>
+<p style="TEXT-INDENT: 2em">
+	1）十六国里前秦的开国皇帝是苻健，发起淝水之战的是苻坚，注意他们的姓氏&mdash;&mdash;艹的&ldquo;苻&rdquo;，不是&ldquo;符&rdquo;，很多史料都会错写成&ldquo;符&rdquo;。</p>
+<p style="TEXT-INDENT: 2em">
+	2）北燕的第一代皇帝是高句丽人高云（高句丽王族，高云的祖父高和，是高句骊族群的分支。慕容宝收以为养子，赐姓慕容，因又名&ldquo;慕容云&rdquo;，称帝后恢复原姓高），实际的建立者是鲜卑化的汉人冯跋（太祖文成皇帝）。</p>
+<p style="TEXT-INDENT: 2em">
+	3）慕容泓在前燕时期慕容俊在位时被封为济北王。慕容泓在位时虽未正式称燕王或燕帝，且原本有意归附慕容垂，惟建立年号已表示有独立于其他政权之意，故一般以慕容泓为西燕之建立者。</p>
+<p style="text-indent: 2em;">
+	⑥北魏的鲜卑族后来和汉族融合为汉族，是五胡里汉化最彻底的。北魏孝文帝拓跋宏改革，迁都洛阳，命令鲜卑贵族改姓汉姓，与汉族大地主通婚，学习汉语，穿汉服。由此100多个鲜卑复姓改为汉人单姓，独孤氏、贺赖氏、步六孤氏都不见了，转而被刘氏、贺氏、陆氏所替代。北魏皇室本来姓拓跋，从那时候开始改姓为元。所以魏孝文帝由拓跋弘改为元宏。</p>
+<p style="TEXT-INDENT: 2em">
+	⑦李唐一家祖籍在今河北省赵县，<a href="http://www.xixik.com/content/ebfd6ff463ce4fb0" style="text-indent: 2em;">而李渊生于关陇，7岁被袭封为&ldquo;唐国公&rdquo;，</a>自称祖居关陇，是西凉王李昺的后代，借以提高自己的身份地位。根据可考证的历史资料证明，李世民的祖母、即李渊的母亲独孤氏，是隋文帝的一名后妃的姐妹，属于非汉族，<a href="http://www.xixik.com/content/d7605196314fc5e5" style="text-indent: 2em;">所以李世民和隋炀帝之间还有着姨表关系</a>。李世民的母亲窦氏也是鲜卑族人。而李渊一方的血统还没有足够的历史证据进行论证。比较客观的说法是<a href="http://www.xixik.com/content/5d7027454a783c84" style="text-indent: 2em;">李世民是各民族的混血儿</a>，民族大融合的产物，并非鲜卑一族。</p>
+<p style="TEXT-INDENT: 2em">
+	⑧在五代十国乱世中，沙陀人建立了后唐、后晋、后汉、北汉四个王朝，建立了五代一半的国家，历史上熟知的李克用、李存勖、李嗣源、石敬瑭、刘知远等人，都是沙陀族人，部分<a href="http://114.xixik.com/chaodai/" style="color:#000;">历史朝代表</a>都误作汉族。这是因为沙陀族的汉化程度较高，加上被赐姓，看起来误以为是汉族。宋朝以后，沙陀族的命运就和当年的鲜卑族类似融入了汉族。</p>
+<p style="TEXT-INDENT: 2em">
+	⑨<a href="http://www.xixik.com/content/585250a7072b841a" title="南宋为何一直没有定都 打死也不承认临安是首都">南宋的首都不是临安</a>，其实不管南宋还是北宋法定首都都是东京。公元1131年，杭州被升为临安府（临时安顿之意），只是南宋的行在（天子巡行所到之地）、临时驻跸的地方，也就是临时首都，地位比陪都建康（南京）高一些。南宋皇帝一直都不承认临安是首都。只是这一临时，就&ldquo;临时&rdquo;了一百七八十年，直到南宋灭亡。《马可&middot;波罗游记》和同时期的西方著作均将杭州称为行在（Quinsay）。不升格临安为都城是为了凸显匡复中原的决心，避免被人称之为逃跑皇帝，偏安一隅，给北上收复存点念想。</p>
+<p style="TEXT-INDENT: 2em">
+	⑩1616年（明万历四十四年），女真族人努尔哈赤建国称汗，国号大金，史称&ldquo;后金&rdquo;。1636年（明崇祯九年），皇太极称帝，改国号为&ldquo;大清&rdquo;，简称&ldquo;清&rdquo;，因此把皇太极作为清朝的开国皇帝，庙号太宗。1644年清军入关，同年顺治帝（福临）迁都北京，从此清朝取代明朝成为全国的统治者，这是中国历史又一次大倒退。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor2"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        中国历史上十八个朝代名称来历</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/custom/topic/xixik_a96a16e5e22e8d33.gif" style="margin: 10px; float: right; width: 400px;" title="中国历史各朝代疆域变迁（动态图）" /></p>
+<p style="TEXT-INDENT: 2em">
+	中国历史悠久，朝代更零星纷繁。每朝的创建者要首手办的第一件事就是确立国号（朝代名称）。国号就是一个国家的称号，亦即政权之号。《史记&middot;五帝本纪》：&ldquo;自黄帝至舜禹，皆同姓而异其国号，以章明德。&rdquo;</p>
+<p style="TEXT-INDENT: 2em">
+	<a href="http://www.xixik.com/content/4a2b5f55ef0df508" title="中国各朝代国号的由来">宋代及宋代以前，大小国家的国号都是依照地望取的</a>。春秋国家诸如晋、宋、汉、周、赵、魏、楚、吴等等这些明星国号，在后代也经常反复出现，就是因为胡汉建国或者起兵或者领袖的封地，都在禹贡九州的体系下活动。建国者都能找到各自对应的地望。即使是南北朝时期，五胡建立的政权，国号也严格依据地望，如北凉、南燕、前秦、后赵等等。但有一个例外，是西汉末期王莽建立的新朝，有革故鼎新之意，赋予了王莽新政的含义。</p>
+<p style="TEXT-INDENT: 2em">
+	而随着中国版图的扩大，地望已经不能涵盖出现在历史舞台上的国家了。比如，禹贡九州并没有包括东北和蒙古地区，所以从东北起家的胡人也很难按照地望来取国号。从辽开始，金元等从东北亚起家的胡人取消了以地望立国号的传统，而赋予国号以意义。辽因辽水得名；金能胜铁，故女真取国号为金；所谓&ldquo;大哉乾元&rdquo;，元是初始的意思，故蒙古取名为元；明虽然是汉人建立的政权，然而也不准备恢复古制；清则是金的变体。</p>
+<p style="TEXT-INDENT: 2em">
+	<strong>国号的分类</strong></p>
+<p style="TEXT-INDENT: 2em">
+	朝代大致这么几个来源：由部族、部落联盟的名称而来，来自创建者原有卦号、爵位；源于创建者原始所或政权统治的区域；源于宗族关系等等，总而言之寓意吉祥。</p>
+<p style="text-indent: 2em;">
+	<strong>一是以部落名为国名</strong>：以族名为国名在中国上比较常见。夏朝、商朝、周朝都是以部落为名的。</p>
+<p style="text-indent: 2em;">
+	<strong>二是以地名为国名</strong>：在周朝时的诸侯国最常见，比如陈、蔡等即是地名又是国号。</p>
+<p style="text-indent: 2em;">
+	<strong>三是以姓为国号</strong>：战国初期的赵、魏、韩这三国就是典型的以姓为国号。</p>
+<p style="text-indent: 2em;">
+	<strong>四是以原封号为国号</strong>：开国<a href="http://114.xixik.com/chinese-emperors/" style="color:#000;" title="中国皇帝列表">皇帝</a>在未登基前，有过封号后来就以封号为国号。比如：曹丕在称帝前世袭魏王，当<a href="http://114.xixik.com/chinese-emperors/" style="color:#000;" title="中国皇帝列表">皇帝</a>后就以魏为国号。这样的例子还很多，比如刘邦受封汉中王，司马炎受封晋王，杨坚袭父爵隨国公，李渊袭父爵唐国公、后又受封唐王等。南朝的刘宋、萧齐、萧梁、南陈更是齐刷刷保持这样的规律，刘宋武帝即位前为宋王、萧齐武帝即位前为齐王、萧梁武帝即位前为梁王、南陈武帝即位前为陈王；夏，五代时期定难军节度使李彝兴（李彝殷）被北宋封为夏王，后来李继迁叛宋，又被辽封为夏王，故国号为夏，史称&ldquo;西夏&rdquo;；其实封号也是地名，指被封的地方。</p>
+<p style="text-indent: 2em;">
+	<strong>五、从文化角度确定的国名</strong>：国号都寄托了某种愿望。比如：元朝，就是取自《周易》中的一句话&ldquo;大哉乾元&rdquo;。元为首，为刚。<a href="http://www.xixik.com/content/c16b8a013b4779b8" title="明朝国号的由来？">而&ldquo;大明&rdquo;在《易经》中，表示光明周而复始，成就天地四方</a>，在《诗经》中是歌颂周文王的功业。清又是五行属水，水克火，明属火。是从五德文化角度上确定的。</p>
+<p style="text-indent: 2em;">
+	<strong>六、继承（山寨）历史上同姓或同族人的国名</strong>：唐朝时，武则天因为出身本不显，加上唐人认为，唐以前的盛世只有周和汉，而周又比汉更为称赞。为了表明自己其实出身显赫，武自认是周平王的少子姬武的第40代子孙，<a href="http://www.xixik.com/content/5f04921d22afdd67" style="text-indent: 2em;" title="武氏代唐改国号为周">改唐为周，史称&ldquo;武周&rdquo;</a>。五代时的代北沙陀族人李存勖以忠于唐朝自居，故灭梁后以唐为号，史称&ldquo;后唐&rdquo;；郭威自称为周朝虢叔后裔，故国号为周，史称&ldquo;后周&rdquo;；清朝在前期叫金，就是继承女真族完颜部建立的金；刘姓<a href="http://114.xixik.com/chinese-emperors/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="中国皇帝列表">皇帝</a>甭管跟刘邦有无血统关系就喜欢继承<a href="http://114.xixik.com/chaodai/han/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="汉朝">汉朝</a>的国号。这些无非是显示皇族的历史悠久和血统高贵。</p>
+<p style="TEXT-INDENT: 2em">
+	接下来嘻嘻网根据<strong><a href="http://www.xixik.com/content/4a2b5f55ef0df508" style="color:#000;" title="中国历史上十八个朝代的国号由来">中国历史上十八个朝代的国号讲解其由来</a></strong>：</p>
+<p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/topic/001/chinese-dynasties.gif" /></p>
+<p style="TEXT-INDENT: 2em">
+	<strong>夏：</strong>据传禹曾受卦于夏伯，因用以称其政权为&ldquo;夏&rdquo;。另据历史学家范文澜先生说，禹的儿子启西迁大夏（山西南部汾浍一带）后，才称&ldquo;夏&rdquo;。</p>
+<p style="TEXT-INDENT: 2em">
+	<strong>商：</strong>相传商（今河南商丘南）的始祖契曾帮助禹治水有功而受卦于商，以后就以&ldquo;商&rdquo;来称其部落（或部族）。汤灭夏后，就以&ldquo;商&rdquo;作为国名。后盘庚迁殷（今河南安阳西北）后，又以&ldquo;殷&rdquo;或&ldquo;殷商&rdquo;并称。</p>
+<p style="TEXT-INDENT: 2em">
+	<strong>周：</strong>周部落到古公亶父时，迁居于周原（今陕西岐山）。武王灭殷以后，就以&ldquo;周&rdquo;为朝代名。周前期建都于镐（今陕西西安西南），后来平王东迁洛邑（今河南洛阳），因在镐的东方，就有&ldquo;西周&rdquo;和&ldquo;东周&rdquo;的称号。</p>
+<p style="TEXT-INDENT: 2em">
+	<strong>秦：</strong>据《史记》记载，本为古部落，其首领非子为周孝王羊马有成绩，被周孝王赐姓为&ldquo;嬴&rdquo;，并赐给了一小块土地（今甘肃天水县，另说是陇西谷名）。后来襄又救周有功被封为诸侯，秦始皇统一六国，始建秦国。</p>
+<p style="TEXT-INDENT: 2em">
+	<strong>汉：</strong>项羽封刘邦为汉中王，后刘邦击败项羽称帝，国号称&ldquo;汉&rdquo;。<a href="http://114.xixik.com/chaodai/han/" style="color:#000" title="汉朝">汉朝</a>前期都长安，后期都洛阳，故从都城上有&ldquo;西汉&rdquo;（前汉）和&ldquo;东汉&rdquo;（后汉）。从刘邦开始到这之后的中国历史上，一共有九个正统朝代是刘姓<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>建立的。分别是西汉、玄汉、东汉、蜀汉、汉赵、刘宋、后汉、南汉、北汉，他们的建立者分别是刘邦、刘玄、刘秀，刘备，刘渊、刘裕、刘知远、刘龑、刘崇，而且这里还可以看出一个非常鲜明的特点，就是这些刘姓的<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>们，从刘邦之后除了刘裕（刘裕自称是刘邦之弟楚元王刘交的二十二世孙）之外，<a href="http://www.xixik.com/content/c8051cfd4e9ea807" title="中国历史上国号为汉的朝代">刘姓只要建国都喜欢用汉作为国号</a>，似乎就对刘姓皇帝第一人刘邦跟他的大<a href="http://114.xixik.com/chaodai/han/" style="color:#000" title="汉朝">汉朝</a>推崇备至。</p>
+<p style="TEXT-INDENT: 2em">
+	<strong>魏：</strong>汉献帝曾封曹操为&ldquo;魏公&rdquo;、&ldquo;魏王&rdquo;爵位，曹丕代汉后便称&ldquo;魏&rdquo;。以皇室姓曹，历史上又称&ldquo;曹魏&rdquo;。</p>
+<p style="TEXT-INDENT: 2em">
+	<strong>蜀：</strong>事实上，刘备建立的政权叫&ldquo;汉&rdquo;，不叫&ldquo;蜀&rdquo;，<a href="http://www.xixik.com/content/4bc06775d02b7406" title="刘备比汉献帝小5辈怎成了皇叔？">他自认中山靖王刘胜的后人</a>，自封是汉政权的延续，但是史学界并不认同。由于刘备以四川为活动地区，蜀指四川，其政权史称&ldquo;蜀&rdquo;，也称&ldquo;蜀汉&rdquo;。</p>
+<p style="TEXT-INDENT: 2em">
+	<strong>吴：</strong>孙权活动于长江下游一带，历史上曾建吴国，曹魏曾封孙权为&ldquo;吴王&rdquo;，故史称&ldquo;孙吴&rdquo;；又以地位在东，也称&ldquo;东吴&rdquo;。</p>
+<p style="TEXT-INDENT: 2em">
+	<strong>晋：</strong>司马昭逼魏元帝曹奂封他为&ldquo;晋公&rdquo;，灭蜀后进爵为晋王。后来他的儿子司炎继承他的爵位，逼令魏帝退位，自立为<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，国号&ldquo;晋&rdquo;。</p>
+<p style="TEXT-INDENT: 2em">
+	<strong>隋：</strong>隋文帝杨坚之父杨忠是西魏十二府兵大将军之一，曾被北周封为&ldquo;隨国公&rdquo;（封地隨）。隋文帝后袭用此卦爵，称为&ldquo;隨朝&rdquo;。他认为&ldquo;隨&rdquo;有走的意思，恐不祥把&ldquo;隨&rdquo;字的&lsquo;辶&rsquo;去掉改为&ldquo;隋&rdquo;。然而<a href="http://114.xixik.com/chaodai/sui/">隋朝国运并没因此而改变，三代而亡</a>。</p>
+<p style="TEXT-INDENT: 2em">
+	<strong>唐：</strong>唐高祖李渊之祖父李虎是<a href="http://www.xixik.com/content/11d64a44b5a0d567" title="西魏八柱国">西魏十二府兵大将军之一</a>，佐北周有功，被追封为&ldquo;唐国公&rdquo;（封地唐），爵位传至其李昞，又传至李渊。晋阳起兵攻入长安后拥立杨侑，李渊封&ldquo;唐王&rdquo;，后废杨侑建<a href="http://114.xixik.com/chaodai/tang/" style="color:#000;" title="唐朝">唐朝</a>。</p>
+<p style="TEXT-INDENT: 2em">
+	<strong>辽：</strong><a href="http://www.xixik.com/content/b8d7439994aa37dd" title="契丹族建国为什么使用“辽”字">辽原称&ldquo;契丹&rdquo;，改&ldquo;辽&rdquo;是因居于辽河上游之故</a>。还有一说为&ldquo;天辽地宁&rdquo;。至于史料记载的&quot;辽以镔铁为号&quot;应是金人 杜撰。</p>
+<p style="TEXT-INDENT: 2em">
+	<strong>宋：</strong>陈桥兵变，黄袍加身时，赵匡胤为宋州（今河南商丘）归德节度史，宋州成为<a href="http://www.xixik.com/content/636235b298c40029" title="中国历史上十大“龙兴之地”">龙兴之地</a>，故国号曰&ldquo;宋&rdquo;。</p>
+<p style="TEXT-INDENT: 2em">
+	<strong>西夏：</strong>拓拔思恭占据夏州（今山西横山县），建国时以夏州得名，称&ldquo;大夏&rdquo;。因其在西方，宋人称&ldquo;西夏&rdquo;。</p>
+<p style="TEXT-INDENT: 2em">
+	<strong>金：</strong>金都城上京会宁（今黑龙江哈尔滨阿城区南），位于按出虎水（今阿什河），相传其水产金，女真语&ldquo;金&rdquo;为&ldquo;按出虎&rdquo;。</p>
+<p style="TEXT-INDENT: 2em">
+	<strong>元：</strong>据《元史》记载：&ldquo;元&rdquo;的命名是忽必烈定的。是取《易经》上&ldquo;大哉乾元&rdquo;句中的&ldquo;元&rdquo;，有大、首等意思。但也有人认为与蒙古人的风俗与图腾有关，有的认为与佛教有关。</p>
+<p style="TEXT-INDENT: 2em">
+	<strong>明：</strong>朱元璋是元末起义军之一，是继承郭子兴而发展起来的，郭子兴属于白莲教组织。白莲教宣称&ldquo;黑暗即将过去，光明将要到来&rdquo;，借以鼓舞人民反对黑暗的元朝统治。朱元璋承认自己是白莲教起义军的一支，曾为小明王韩林儿的左副元帅。<a href="http://www.xixik.com/content/c16b8a013b4779b8" title="明朝国号的由来？">朱元璋取得政权后，国号称&ldquo;明&rdquo;</a>。为表明自己是小明王的合法继任者，继续用其&ldquo;明&rdquo;字笼络人心。还有一说&ldquo;大明&rdquo;一词在儒家经典《易经》乾卦和《诗经&middot;大雅》中早就出现了。在易经中，是表示光明周而复始，成就天地四方，在诗经中是歌颂周文王的功业。</p>
+<p style="TEXT-INDENT: 2em">
+	<strong>清：</strong>满族是女真族的一支，女真族在北宋时建立金国。明末女真势力复强，重建金国（后金）。后金为了向外扩展，割断了同<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>的臣属关系，皇太极把&ldquo;女真&rdquo;改为&ldquo;满州&rdquo;，把&ldquo;金&rdquo;改为&ldquo;清&rdquo;。在宋时女真人受制于契丹人，他代针对&ldquo;辽&rdquo;字在契丹语中是 &ldquo;铁&rdquo;的意思，因此命名&ldquo;金&rdquo;，表示比铁更坚强有力，可以压倒辽&rdquo;。&ldquo;金&rdquo;改&ldquo;清&rdquo;的原因，史学家有不同意见，有人认为是皇太极要避免引起尖锐的矛盾。也说努尔哈赤早年逃难时骑着一匹大青马，慌急赶路，马被累死。努尔哈赤为此难过地说：&ldquo;大青啊，大青，将来我得了天下，国号就叫大清。&rdquo;</p>
+<p style="TEXT-INDENT: 2em">
+	注释：实际上元、明、清、国号都是两字，分别是大元、大明、大清。大清也作&ldquo;岱青&rdquo;，是满语中的蒙古语借词，意为勇猛善战，后金时期也用作头衔，意思是勇士。皇太极改国号&ldquo;金&rdquo;（Aisin gurun）为&ldquo;大清&rdquo;（Daicing gurun）后取消了&ldquo;岱青&rdquo;头衔。当然元朝之前国号也可以加&ldquo;大&rdquo;、&ldquo;皇&rdquo;等字，比如&ldquo;大唐&rdquo;、&ldquo;皇宋&rdquo;、&ldquo;大哉皇齐，长发其祥&rdquo;之类。但这个&ldquo;皇&rdquo;、&ldquo;大&rdquo;只是形容词，那些朝代的正式国号还是&ldquo;唐&rdquo;、&ldquo;宋&rdquo;等单字。来源：<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000;">嘻嘻网历史朝代</a>&nbsp;<span style="color: rgb（0, 0, 0）; text-indent: 2em;"><a href="http://114.xixik.com/chinese-dynasties/" style="color:#000;" title="历史朝代">http://114.xixik.com/chinese-dynasties/</a></span></p>
+<p style="TEXT-INDENT: 2em">
+	<a href="http://www.xixik.com/content/636235b298c40029"><strong>历朝历代龙兴之地</strong></a></p>
+<p style="TEXT-INDENT: 2em">
+	龙兴之地，指每个朝代的起源、发迹或肇基之地。一般分为三种情况，第一种指的是朝代的龙兴之地，王朝及地方政权的起源地，封地。第二种指的是开国皇帝的龙兴之地，祖居地或开国君主出生地。第三种指的是开国皇帝的发迹之地，也就是政权创始人最初控制的地区。</p>
+<p style="TEXT-INDENT: 2em">
+	开国皇帝立国立朝后，基本都会厚待龙兴之地，有的龙兴之地都会有执政者的祖庙设立，有的龙兴之地也会被升为陪都（如：北宋升龙兴之地宋州为南京），有的则没有龙兴之地。当龙兴之地发生灾害或者叛乱时，有的创始人会不惜一切代价救灾或平叛。龙兴之地更多的是象征意义大于实际意义，具有迷信色彩。比如几乎任何开国皇帝出生时，史料都会形容当天夜空紫微星发亮，当地龙气飞腾，异象丛生，祥瑞降临。龙兴之地和五德说一样，都和风水说法有关，认为龙兴之地是龙脉所在地。从商代起就已经有了龙兴之地的概念，当龙兴之地说法在民间盛传时，就具备很大的意义。</p>
+<p style="text-indent: 2em;">
+	<strong>三大&ldquo;龙兴之地&rdquo;</strong></p>
+<p style="text-indent: 2em;">
+	在中国古代，有可能、有资本统一天下的边角地区，也就是关中、河北、东南三个。中国历史上，最终能够统一天下的势力，也大多出自这三个地区之一。&ldquo;山河四塞，百二秦关&mdash;&mdash;关中&rdquo;、&ldquo;上游之势，临驭六合&mdash;&mdash;河北&rdquo;、&ldquo;龙盘虎踞，东南形胜&mdash;&mdash;东南&rdquo;如此特殊的地位，这三个地区被称之为&ldquo;龙兴之地&rdquo;、&ldquo;王霸之基&rdquo;。</p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<th style="text-align: center; width:30px;">
+				朝代</th>
+			<th style="text-align: center;">
+				奠基人</th>
+			<th style="text-align: center;">
+				建立人</th>
+			<th style="text-align: center; width:100px;">
+				创立时间</th>
+			<th style="text-align: center;">
+				龙兴之地</th>
+		</tr>
+		<tr>
+			<td>
+				夏朝</td>
+			<td>
+				禹</td>
+			<td>
+				启</td>
+			<td>
+				公元前2029年</td>
+			<td>
+				阳翟（禹都，今河南禹州），<br />
+				安邑（夏都，今山西夏县）</td>
+		</tr>
+		<tr>
+			<td>
+				商朝</td>
+			<td>
+				契</td>
+			<td>
+				汤</td>
+			<td>
+				公元前1559年</td>
+			<td>
+				商/亳（今河南商丘）</td>
+		</tr>
+		<tr>
+			<td>
+				西周</td>
+			<td>
+				古公亶父、姬昌</td>
+			<td>
+				姬发</td>
+			<td>
+				公元前1046年</td>
+			<td>
+				周原（今陕西岐山）</td>
+		</tr>
+		<tr>
+			<td>
+				东周</td>
+			<td>
+				姬发</td>
+			<td>
+				姬宜臼</td>
+			<td>
+				公元前770年</td>
+			<td>
+				洛邑（今河南洛阳）</td>
+		</tr>
+		<tr>
+			<td>
+				秦朝</td>
+			<td>
+				秦非子、嬴渠梁</td>
+			<td>
+				嬴政</td>
+			<td>
+				公元前221年</td>
+			<td>
+				秦（秦国，今天甘肃天水），<br />
+				咸阳（秦朝，今陕西咸阳）</td>
+		</tr>
+		<tr>
+			<td>
+				西楚</td>
+			<td>
+				项羽</td>
+			<td>
+				项羽</td>
+			<td>
+				公元前206年</td>
+			<td>
+				吴中（今江苏苏州）</td>
+		</tr>
+		<tr>
+			<td>
+				西汉</td>
+			<td>
+				刘邦</td>
+			<td>
+				刘邦</td>
+			<td>
+				公元前202年</td>
+			<td>
+				芒砀山（今河南永城境内）</td>
+		</tr>
+		<tr>
+			<td>
+				新朝</td>
+			<td>
+				王莽</td>
+			<td>
+				王莽</td>
+			<td>
+				公元8年</td>
+			<td>
+				常安（今陕西西安）</td>
+		</tr>
+		<tr>
+			<td>
+				玄汉</td>
+			<td>
+				刘邦</td>
+			<td>
+				刘玄</td>
+			<td>
+				公元23年</td>
+			<td>
+				淯水（今河南南阳）</td>
+		</tr>
+		<tr>
+			<td>
+				东汉</td>
+			<td>
+				刘邦</td>
+			<td>
+				刘秀</td>
+			<td>
+				公元25年</td>
+			<td>
+				宛（舂陵、新野，河南南阳附近）</td>
+		</tr>
+		<tr>
+			<td>
+				曹魏</td>
+			<td>
+				曹操</td>
+			<td>
+				曹丕</td>
+			<td>
+				公元220年</td>
+			<td>
+				邺（今河南安阳）</td>
+		</tr>
+		<tr>
+			<td>
+				蜀汉</td>
+			<td>
+				刘备</td>
+			<td>
+				刘备</td>
+			<td>
+				公元221年</td>
+			<td>
+				成都（今四川成都）</td>
+		</tr>
+		<tr>
+			<td>
+				东吴</td>
+			<td>
+				孙坚 孙策</td>
+			<td widtd="80">
+				孙权</td>
+			<td>
+				公元222年</td>
+			<td>
+				吴郡（今江苏苏州）</td>
+		</tr>
+		<tr>
+			<td>
+				西晋</td>
+			<td>
+				司马懿、司马师、司马昭</td>
+			<td>
+				司马炎</td>
+			<td>
+				公元226年</td>
+			<td>
+				洛阳（今河南洛阳）</td>
+		</tr>
+		<tr>
+			<td>
+				北魏</td>
+			<td>
+				拓跋力微、拓跋珪</td>
+			<td>
+				拓跋珪</td>
+			<td>
+				公元386年</td>
+			<td>
+				盛乐（今内蒙古和林格尔）</td>
+		</tr>
+		<tr>
+			<td>
+				北齐</td>
+			<td>
+				高欢、高澄</td>
+			<td>
+				高洋</td>
+			<td>
+				公元550年</td>
+			<td>
+				邺（今河南安阳）</td>
+		</tr>
+		<tr>
+			<td>
+				北周</td>
+			<td>
+				宇文泰、宇文护</td>
+			<td>
+				宇文觉</td>
+			<td>
+				公元557年</td>
+			<td>
+				关中</td>
+		</tr>
+		<tr>
+			<td>
+				隋朝</td>
+			<td>
+				杨忠、杨坚</td>
+			<td>
+				杨坚</td>
+			<td>
+				公元581年</td>
+			<td>
+				关中</td>
+		</tr>
+		<tr>
+			<td>
+				唐朝</td>
+			<td>
+				李虎、李渊</td>
+			<td>
+				李渊</td>
+			<td>
+				公元618年</td>
+			<td>
+				晋阳（今山西太原）</td>
+		</tr>
+		<tr>
+			<td>
+				辽朝</td>
+			<td>
+				耶律阿保机</td>
+			<td>
+				耶律阿保机</td>
+			<td>
+				公元916年</td>
+			<td>
+				临潢府（上京，今内蒙巴林左旗）</td>
+		</tr>
+		<tr>
+			<td>
+				北宋</td>
+			<td>
+				赵匡胤</td>
+			<td>
+				赵匡胤</td>
+			<td>
+				公元960年</td>
+			<td>
+				宋州（今河南商丘）</td>
+		</tr>
+		<tr>
+			<td>
+				西夏</td>
+			<td>
+				拓跋思恭、李继迁、李德明</td>
+			<td>
+				李元昊</td>
+			<td>
+				公元1038年</td>
+			<td>
+				夏州（今陕西横山县）</td>
+		</tr>
+		<tr>
+			<td>
+				金朝</td>
+			<td>
+				完颜阿骨打</td>
+			<td>
+				完颜阿骨打</td>
+			<td>
+				公元1115年</td>
+			<td>
+				会宁府（今黑龙江哈尔滨）</td>
+		</tr>
+		<tr>
+			<td>
+				南宋</td>
+			<td>
+				赵匡胤</td>
+			<td>
+				赵构</td>
+			<td>
+				公元1127年</td>
+			<td>
+				南京应天府（今河南商丘）</td>
+		</tr>
+		<tr>
+			<td>
+				元朝</td>
+			<td>
+				孛儿只斤&middot;铁木真<br />
+				孛儿只斤&middot;窝阔台<br />
+				孛儿只斤&middot;蒙哥</td>
+			<td>
+				孛儿只斤&middot;忽必烈</td>
+			<td>
+				公元1271年</td>
+			<td>
+				漠北（今蒙古国境内）</td>
+		</tr>
+		<tr>
+			<td>
+				明朝</td>
+			<td>
+				朱元璋</td>
+			<td>
+				朱元璋</td>
+			<td>
+				公元1368年</td>
+			<td>
+				濠州钟离（今安徽凤阳）</td>
+		</tr>
+		<tr>
+			<td>
+				清朝</td>
+			<td>
+				爱新觉罗&middot;努尔哈赤</td>
+			<td>
+				爱新觉罗&middot;皇太极</td>
+			<td>
+				公元1644年</td>
+			<td>
+				赫图阿拉（金兴京，今辽宁新宾），<br />
+				盛京（清，今辽宁沈阳）</td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT: 2em">
+	<strong><a href="http://114.xixik.com/chaodai/" title="中国历史朝代顺序表">中国朝代顺序表</a>：</strong><a href="http://114.xixik.com/chinese-dynasties/" title="中国朝代顺序表,历史朝代公元对照简表">历史朝代公元对照简表</a>：<a href="http://114.xixik.com/chinese-dynasties/" title="中国朝代顺序表,历史朝代公元对照简表">http://114.xixik.com/chinese-dynasties/</a></p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor3"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        中国历史上由少数民族建立的王朝</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT: 2em">
+	“<strong><a href="http://114.xixik.com/chaodai/5hu16guo/">五胡十六国</a></strong>”是指在西晋时期北方塞外（有时包括蜀地）北方众多游牧民族趁西晋八王之乱，国力衰弱之际，陆续建立数个非汉族政权，形成与南方汉人政权对峙的时期，是<a href="http://www.xixik.com/content/a738548df743a186">中国历史上最混乱的一个时代</a>。时间跨度从公元304年匈奴贵族刘渊建立汉国，316年刘渊之子刘聪灭掉西晋，到439年鲜卑拓跋部统一北方，这100多年时间政权更迭，征战不休。</p>
+<p style="TEXT-INDENT: 2em">
+	在入侵中国北方的众多游牧民族中，匈奴、鲜卑、羯（匈奴别支）、羌和氐（包括大月氐、小月氐、巴氐、仇池氐）五大胡人部落合称为“五胡”，但事实上五胡是西晋末各乱华胡人的代表，数目远非五个。还有丁零族（翟魏）、北马兰羌、巴、卢水胡、杂胡、铁弗、乌桓、九大石胡、姜、扶余、坚昆等族。实际上建立者还有汉族（前凉、西凉、北燕等）。“十六国”因北魏史学家崔鸿私下撰写的《十六国春秋》而得名：“五凉、四燕、三秦、二赵，并成、夏为十六”。他自北方所有大大小小的七十八个政权中选出国祚较长、影响力大、较具代表性的十六国。这十六国主要分布在华北地区和四川地区，共有成汉（巴氐）、前赵（匈奴）、后赵（羯）、前凉、前燕（鲜卑）、前秦（氐）、后燕（鲜卑）、后秦（羌）、西秦（鲜卑）、后凉、南凉（鲜卑）、西凉（氐）、北凉（卢水胡）、南燕（鲜卑）、北燕及夏国（匈奴）等国。于是后世史学家称这时期为“五胡十六国”。此外影响较大的还有仇池、代国、高句丽、冉魏、西燕、吐谷浑、西蜀和翟魏等，实际远不止十六国。</p>
+<p style="background-color: transparent; color: rgb（0, 0, 0）; font-variant-numeric: normal; font-variant-east-asian: normal; text-indent: 28px; text-align: center;">
+	<strong>五胡十六国各政权列表</strong></p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%" title="来源：嘻嘻网 http://114.xixik.com/chinese-dynasties/">
+	<tbody>
+		<tr>
+			<td width="20">
+				<strong>序号</strong></td>
+			<td width="35">
+				<strong>国名</strong></td>
+			<td width="65">
+				<strong>建国时间</strong></td>
+			<td width="65">
+				<strong>灭亡时间</strong></td>
+			<td width="135">
+				<strong>国祚/传帝</strong></td>
+			<td width="65">
+				<strong>开国皇帝</strong></td>
+			<td width="55">
+				<strong>民族</strong></td>
+			<td>
+				<strong>都城</strong></td>
+			<td>
+				<strong>今地</strong></td>
+			<td>
+				<strong>统治区域</strong></td>
+		</tr>
+		<tr>
+			<td>
+				1</td>
+			<td>
+				前赵</td>
+			<td>
+				304年</td>
+			<td>
+				329年</td>
+			<td>
+				历二十六年，传四主</td>
+			<td>
+				刘渊</td>
+			<td>
+				匈奴族</td>
+			<td>
+				平阳，<br />
+				后迁长安</td>
+			<td>
+				山西临汾西北</td>
+			<td>
+				今陕西渭水流域及山西、河南、甘肃各一部分。</td>
+		</tr>
+		<tr>
+			<td>
+				2</td>
+			<td>
+				成汉</td>
+			<td>
+				304年</td>
+			<td>
+				347年</td>
+			<td>
+				历四十四年</td>
+			<td>
+				李雄</td>
+			<td>
+				巴氐族</td>
+			<td>
+				成都</td>
+			<td>
+				四川成都</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr>
+			<td>
+				3</td>
+			<td>
+				前凉</td>
+			<td>
+				314年</td>
+			<td>
+				316年</td>
+			<td>
+				历六十三年，传七主</td>
+			<td>
+				张寔[shí]</td>
+			<td>
+				鲜卑族</td>
+			<td>
+				姑臧</td>
+			<td>
+				武威市凉州区</td>
+			<td>
+				今甘肃西部、新疆东部、宁夏西部。</td>
+		</tr>
+		<tr>
+			<td>
+				4</td>
+			<td>
+				后赵</td>
+			<td>
+				319年</td>
+			<td>
+				351年</td>
+			<td>
+				历三十三年，传五主</td>
+			<td>
+				石勒</td>
+			<td>
+				匈奴族</td>
+			<td>
+				襄国</td>
+			<td>
+				&#160;</td>
+			<td>
+				今河北、山西、山东、河南、陕西和江苏、安徽、甘肃、辽宁一部。</td>
+		</tr>
+		<tr>
+			<td>
+				5</td>
+			<td>
+				前燕</td>
+			<td>
+				337年</td>
+			<td>
+				370年</td>
+			<td>
+				历三十四年，传三主</td>
+			<td>
+				慕容氏</td>
+			<td>
+				鲜卑族</td>
+			<td>
+				龙城，<br />
+				后迁蓟，<br />
+				后又迁邺</td>
+			<td>
+				辽宁朝阳</td>
+			<td>
+				今河北、山东、山西、河南、安徽、江苏、辽宁之大部。</td>
+		</tr>
+		<tr>
+			<td>
+				6</td>
+			<td>
+				前秦</td>
+			<td>
+				350年</td>
+			<td>
+				394年</td>
+			<td>
+				历四十四年，传六主</td>
+			<td>
+				符洪</td>
+			<td>
+				氐族</td>
+			<td>
+				长安</td>
+			<td>
+				&#160;</td>
+			<td>
+				今河北、山西、山东、陕西、甘肃、河南、四川、贵州、江苏、安徽、湖北、辽宁之大部。</td>
+		</tr>
+		<tr>
+			<td>
+				7</td>
+			<td>
+				后秦</td>
+			<td>
+				384年</td>
+			<td>
+				417年</td>
+			<td>
+				历三十四年，传三主</td>
+			<td>
+				姚苌</td>
+			<td>
+				羌族</td>
+			<td>
+				长安</td>
+			<td>
+				&#160;</td>
+			<td>
+				今陕西、甘肃、宁夏及山西一部分。</td>
+		</tr>
+		<tr>
+			<td>
+				8</td>
+			<td>
+				后燕</td>
+			<td>
+				384年</td>
+			<td>
+				407年</td>
+			<td>
+				历二十四年，传四主</td>
+			<td>
+				慕容垂</td>
+			<td>
+				鲜卑族</td>
+			<td>
+				中山</td>
+			<td>
+				河北定县</td>
+			<td>
+				今河北、山东、山西诸省及河南、辽宁一部。</td>
+		</tr>
+		<tr>
+			<td>
+				9</td>
+			<td>
+				西秦</td>
+			<td>
+				385年</td>
+			<td>
+				431年</td>
+			<td>
+				历四十七年，传四主</td>
+			<td>
+				乞伏国仁</td>
+			<td>
+				鲜卑族</td>
+			<td>
+				勇士川<br />
+				后迁金城，<br />
+				又迁苑川</td>
+			<td>
+				甘肃榆中东北</td>
+			<td>
+				今甘肃西南部。</td>
+		</tr>
+		<tr>
+			<td>
+				10</td>
+			<td>
+				后凉</td>
+			<td>
+				386年</td>
+			<td>
+				403年</td>
+			<td>
+				历十八年，传三主</td>
+			<td>
+				吕光</td>
+			<td>
+				鲜卑族</td>
+			<td>
+				姑臧</td>
+			<td>
+				甘肃武威</td>
+			<td>
+				今甘肃西部，宁夏西部，新疆东部。</td>
+		</tr>
+		<tr>
+			<td>
+				11</td>
+			<td>
+				南凉</td>
+			<td>
+				397年</td>
+			<td>
+				414年</td>
+			<td>
+				历十八年，传三主</td>
+			<td>
+				秃发乌孤</td>
+			<td>
+				鲜卑族</td>
+			<td>
+				廉川堡<br />
+				后迁西平</td>
+			<td>
+				青海乐都东</td>
+			<td>
+				今甘肃西部和青海省一部分。</td>
+		</tr>
+		<tr>
+			<td>
+				12</td>
+			<td>
+				南燕</td>
+			<td>
+				398年</td>
+			<td>
+				410年</td>
+			<td>
+				历十三年，传二主</td>
+			<td>
+				慕容德</td>
+			<td>
+				鲜卑族</td>
+			<td>
+				广固</td>
+			<td>
+				山东益都西北</td>
+			<td>
+				东至海，南滨泗水，西至巨野，北临黄河。</td>
+		</tr>
+		<tr>
+			<td>
+				13</td>
+			<td>
+				前凉</td>
+			<td>
+				400年</td>
+			<td>
+				421年</td>
+			<td>
+				历二十二年，传二主</td>
+			<td>
+				李暠</td>
+			<td>
+				汉族</td>
+			<td>
+				敦煌</td>
+			<td>
+				甘肃敦煌</td>
+			<td>
+				今甘肃西部。</td>
+		</tr>
+		<tr>
+			<td>
+				14</td>
+			<td>
+				夏国</td>
+			<td>
+				407年</td>
+			<td>
+				431年</td>
+			<td>
+				历二十五年，传三主</td>
+			<td>
+				赫连勃勃</td>
+			<td>
+				匈奴族</td>
+			<td>
+				统万城<br />
+				后迁安定<br />
+				后迁平原</td>
+			<td>
+				陕西横山西北</td>
+			<td>
+				今陕西和内蒙一部分。</td>
+		</tr>
+		<tr>
+			<td>
+				15</td>
+			<td>
+				北燕</td>
+			<td>
+				407年</td>
+			<td>
+				436年</td>
+			<td>
+				历十年，传三主</td>
+			<td>
+				高云</td>
+			<td>
+				匈奴族</td>
+			<td>
+				龙城</td>
+			<td>
+				辽宁朝阳</td>
+			<td>
+				今辽宁西南部和河北西北部。</td>
+		</tr>
+		<tr>
+			<td>
+				16</td>
+			<td>
+				北凉</td>
+			<td>
+				401年</td>
+			<td>
+				439年</td>
+			<td>
+				历四十三年，传三主</td>
+			<td>
+				沮渠蒙逊</td>
+			<td>
+				卢水胡</td>
+			<td>
+				张掖<br />
+				后迁武威<br />
+				姑臧</td>
+			<td>
+				&#160;</td>
+			<td>
+				今甘肃西部、宁夏、新疆、青海的一部分。</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+				<strong><a href="http://114.xixik.com/chaodai/5hu16guo/" style="color:#000;" title="五胡十六国">五胡十六国</a></strong>政权列表数据来源：<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000;">嘻嘻网历史朝代</a>&#160;http://114.xixik.com/chinese-dynasties/</td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT: 2em">
+	<strong style="text-indent: 2em;">北魏</strong>（386年～534年），鲜卑族建立的少数民族王朝，拓跋珪于太初元年（386）称王，初称代国，同年改国号为魏，建元登国。史称北魏、拓跋魏、元魏、后魏。北魏太延五年（439）北魏灭北凉，结束十六国时期，统一北方，传17帝，历171年。天兴元年（398）称帝，都平城。盛时疆域约为今河北、山东、山西、宁夏、甘肃等省区，河南、陕西、内蒙古的大部，辽宁、安徽、江苏、青海、新疆各一部分以及蒙古国南端一部分。后迁都洛阳（今属河南）。太和十八年（494）孝文帝拓跋弘迁都洛阳，加速鲜卑族汉化及加强对中原地区的统治。改拓跋氏为元氏。永熙三年（534）孝武帝逃往长安投靠宇文泰。高欢立元善见为帝，是为孝静帝，迁都于邺（今河北临漳），改元天平。史称东魏。北魏亡。</p>
+<!--Contents of this file3 are Copyright 2006-2009, Xixik Inc.-->
+<p style="TEXT-INDENT: 2em">
+	<strong>东魏</strong>（534年～550年），鲜卑族建立的少数民族王朝。534年魏北魏宗室元善见为帝，迁都邺城，史称东魏，传1帝，历17年。</p>
+<!--Contents of this file3 are Copyright 2006-2009, Xixik Inc.-->
+<p style="TEXT-INDENT: 2em">
+	<strong>西魏</strong>（535年～556年），鲜卑族建立的少数民族王朝。535年魏宗室元宝矩为帝，都长安，史称西魏，传3帝，历22年。</p>
+<!--Contents of this file3 are Copyright 2006-2009, Xixik Inc.-->
+<p style="TEXT-INDENT: 2em">
+	<strong>北齐</strong>（550年～577年），鲜卑族建立的少数民族王朝。550年高洋废东魏帝自立，都邺城，国号齐，史称北齐，传6帝，历18年。</p>
+<!--Contents of this file3 are Copyright 2006-2009, Xixik Inc.-->
+<p style="TEXT-INDENT: 2em">
+	<strong>北周</strong>（557年～581年），鲜卑族建立的少数民族王朝。557年宇文觉称天王，都长安，国号周，史称北周，传5帝，历25年。</p>
+<!--Contents of this file3 are Copyright 2006-2009, Xixik Inc.-->
+<p style="TEXT-INDENT: 2em">
+	<strong>辽朝</strong>（916年～1125年），契丹族建立的少数民族王朝。916年耶律阿保机称帝，都皇都，国号辽，传9帝，历210年。</p>
+<!--Contents of this file3 are Copyright 2006-2009, Xixik Inc.-->
+<p style="TEXT-INDENT: 2em">
+	<strong>金朝</strong>（1115年～1234年），女真族建立的少数民族王朝。1115年完颜阿骨打称帝，都上京，国号“大金”，传10帝，历119年。</p>
+<!--Contents of this file3 are Copyright 2006-2009, Xixik Inc.-->
+<p style="TEXT-INDENT: 2em">
+	<strong>元朝</strong>（1206年～1368年），蒙古族建立的少数民族王朝，1271年忽必烈称帝，都大都，蒙古语国号全称“大元大蒙古国”，传11帝，历98年。</p>
+<!--Contents of this file3 are Copyright 2006-2009, Xixik Inc.-->
+<p style="TEXT-INDENT: 2em">
+	<strong>清朝</strong>（1636年—1912年），满族建立的少数民族王朝，1636年皇太极称帝，都盛京，后迁都北京，国号“大清”，传11帝，历268年。</p>
+<p style="TEXT-INDENT: 2em">
+	嘻嘻网备注：有部分学者称元朝、清朝不是中国的朝代，<a href="http://www.xixik.com/content/6e1a833196044a79" title="哪来什么元朝？只有元朝拖雷汗国中国其实亡了">那时候中国是亡国了</a>，也有<a href="http://www.xixik.com/content/9b0ba61233e6fc0a" target="_blank" title="学者全面驳斥元清非中国谬论 干嘛把人往外推？">学者驳斥元清非中国谬论。</a>中国历史上由农民建立的政权正史里算的有<a href="http://www.xixik.com/content/e6baa5c067722975" title="历史上农民起义少有成功建政 汉朝和明朝是例外">刘邦的汉朝，朱元璋的明朝</a>。他们相似地对知识阶层怀有不信任和一种嫉妒恨的感情。比如刘邦在士人帽子里撒尿；尤其是出身最贫贱的，当过和尚和乞丐的朱元璋更是怀疑屠杀士人，庭前杖毙大臣；反倒是贵族们建立的朝代，比如<a href="http://114.xixik.com/chaodai/sui/" style="color:#000;" title="隋朝">隋朝</a>，<a href="http://114.xixik.com/chaodai/tang/" style="color:#000;" title="唐朝">唐朝</a>，对这个知识阶层是尊重的，这个现象值得思考。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor4"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        中国朝代前缀的含义</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT: 2em">
+	中国历史朝代里的<a href="http://www.xixik.com/content/47a05a09d33779a1" title="西汉东汉北宋南宋这样的称呼是什么时候形成的？">西周东周，西汉东汉，南朝北朝，西晋东晋，南宋北宋是后人什么时候开始这样称呼的</a>，南北东西怎么来区分的？</p>
+<p style="TEXT-INDENT: 2em">
+	嘻嘻网历史组编辑部经过考证，<a href="http://www.xixik.com/content/4a2b5f55ef0df508">宋代及宋代以前，大小国家的国号都是依照地望取的</a>。春秋国家诸如<strong>晋、宋、汉、周、赵、魏、楚、吴</strong>等等这些明星国号，在后代也经常反复出现，就是因为后代建国或者起兵或者领袖的封地，都在这些古老的区域内。</p>
+<p style="TEXT-INDENT: 2em">
+	为了表达自己的传承，当然绝大部分就是刻意追祖认宗彰显血统高贵，嘻嘻网举例来说比如<a href="http://www.xixik.com/content/c008e727785cb81b">匈奴人刘渊自认是刘禅的后人</a>，嗯，就是那个乐不思蜀的扶不起的阿斗，建立的政权也叫“汉”。后世的一些朝代依照地望起名，势必跟前朝同名，因此中国好多<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000;">朝代</a>名称并不是只有一次使用，所以史学家往往在前面加一些词以示区别，比如五胡十六国时代的政权几乎都加了前缀以示区分：成汉、前赵、后赵、前凉、前燕、前秦、后燕、后秦、西秦、后凉、南凉、西凉、北凉、南燕、北燕等。五代的时候，梁唐汉晋周前都加了一个“后”字，同样的还有努尔哈赤建立的金，历史上亦称为后金，区别于女真族与宋朝同一时代的金朝。</p>
+<p style="TEXT-INDENT: 2em">
+	有时又以统治的中心来区别，比如两汉，为了有所区别，因为刘邦建立的汉定都是在长安，而刘秀重建的汉定都在洛阳，由于洛阳在西安以东，于是就把刘邦的汉称为西汉，刘秀的汉为东汉，同样的情况还有西晋和东晋，北宋和南宋的划分。当然这些全部都是现代人或者后世人对以前的称呼，当时不会这么叫的，只会自称大汉，大宋，大周之类的。嘻嘻网提醒如果穿越过去务必注意，：）避免暴露身份。但有一个例外，就是<a style="color:#000" title="西夏" href="http://114.xixik.com/chaodai/xixia/">西夏</a>，因为当时夏国在北宋西面，当时就已经有宋人称夏国为“<a style="color:#000" title="西夏" href="http://114.xixik.com/chaodai/xixia/">西夏</a>”。</p>
+<p style="text-indent: 2em;">
+	一、“东南西北”都是以都城的位置来区分的，就分成了东西两汉，宋朝、晋朝、周朝皆如是。例如：</p>
+<p style="text-indent: 2em;">
+	1、周朝都城在镐京（今陕西西安附近），后来周建都洛邑（今河南洛阳附近）。后人于是根据镐京在西，洛邑在东，史称西周、东周。</p>
+<p style="text-indent: 2em;">
+	2、汉朝都城在长安（今陕西西安附近），后来刘秀在洛阳（今河南洛阳附近）重建汉。到了三国时期，就把汉称之为前汉，后汉，史称西汉、东汉。</p>
+<p style="text-indent: 2em;">
+	3、晋朝都城在长安（今陕西西安附近），后来司马睿在建康（今江苏南京附近）重建晋，长安在西，建康在动，史称西晋，东晋。</p>
+<p style="text-indent: 2em;">
+	4、南北朝是以他们的统治区域划分，南朝基本是在黄河以南，后来也萎缩到淮河以南。北朝基本是在今中国北方。也可以这样理解，南朝都城，基本都在建康（今江苏南京附近），北朝都城，平成（今大同附近），洛阳（今河南洛阳）等，都在建康北边，所以分南朝北朝，出身于北周八柱国之一的李唐宗室修《晋书》奉南北朝共为正统。司马光的《资治通鉴》奉南朝为正统。</p>
+<p style="text-indent: 2em;">
+	5、宋朝都城在开封（今河南开封），靖康之难后，赵构登基南逃，<a href="http://www.xixik.com/content/585250a7072b841a" title="南宋为何一直没有定都 打死也不承认临安是首都">临安（今浙江杭州）为行在</a>，一北一南。史称北宋、南宋。</p>
+<p style="text-indent: 2em;">
+	这些都是该王朝经过一重大事件导致几近倾覆，但是皇统皇权犹在或者可以复建，但是国都变迁过并且东西南北相距甚远，如西周东周国都为镐京和洛邑，就是长安和洛阳，西汉东汉也是长安和洛阳，一个在西一个在东——后来史书，更多的是口头上，为了更好的记录描写述说，就用东西南北来区分，让人一看一听，就知道发生在什么时候，历史背景如何。</p>
+<p style="text-indent: 2em;">
+	另外一个朝代的命名在国号前往往加上主体位置，如蜀汉，刘备在四川建立的汉政权，又称季汉。</p>
+<p style="text-indent: 2em;">
+	二、“前”、“后”是以建立的时间先后来划分：十六国时期的前赵、后赵、前凉、前燕、前秦、后燕、后秦、后凉等。五代十国的后梁，后唐，后晋，后汉，后周，前蜀，后蜀等。</p>
+<p style="text-indent: 2em;">
+	在朝代里标注“前”、“后”在十六国（“<a href="http://114.xixik.com/chaodai/5hu16guo/" title="五胡十六国历史,五胡十六国皇帝列表">五胡乱华</a>”）里和五代十国里非常普遍。不过有人要问了为什么十六国里有个叫“前秦”？既然是在秦朝的后边，为什么不叫“后秦”而叫“前秦”？前秦的“前”是指其在十六国中是前，十六国里有两个秦，氐族苻健的前秦和羌族姚苌的后秦。后秦是反前秦建立的，也自称秦，故以前后秦区分。“前秦”是中国历史上第一个统一北方的非汉民族政权，且像孙功达《氐族研究》所称，还是“最早尝试由少数民族来统一全国”的历史政权。而“先秦”通常指秦始皇建立的秦朝之前，特指春秋、战国时期。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor5"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        中国皇帝的谥号、庙号和年号</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="text-indent: 2em; text-align: center;">
+	<img src="http://img.xixik.net/custom/section/chinese-dynasties/xixik-095693ffefcfcdc4.jpg" style="margin: 10px; float: right; width: 400px;" /></p>
+<p style="text-indent: 2em;">
+	对于帝王的称呼，上古的尧舜禹都是直呼其名的，后世为了表示尊重，<a href="http://www.xixik.com/content/c793b5b9e21260f9">就不好直呼其名了还要避讳</a>，二则<a href="http://www.xixik.com/content/e37c98412768453f">皇帝名字多用冷僻字不好称呼</a>，<a href="http://www.xixik.com/content/f8e92ac2c404b987" title="皇帝的帝号、庙号、谥号怎样区别？">因此皇帝的称呼往往和年号、庙号和谥号联系在一起</a>。而且谈中国历史，也无法绕开<a href="http://www.xixik.com/content/93b754d500338c25" title="中国古代庙号、谥号、帝号、年号简介及区别">庙号、谥号、年号</a>这几个字眼，一般的人根本不清楚这几者之间的差异，并且经常混淆。那么嘻嘻网历史组就来为读者厘清三者的概念、渊源和区别。简单地来说，比如唐高祖就是<strong style="text-indent: 2em;">庙号</strong>，隋炀帝就是<strong style="text-indent: 2em;">谥号</strong>，乾隆皇帝就是<strong style="text-indent: 2em;">年号</strong>，武则天就是<strong style="text-indent: 2em;">尊号</strong>，“成吉思汗”（Genghis Khan）也是尊号。一般最早的皇帝谥号用得多（汉文帝、汉武帝），后来庙号多（唐太宗、唐玄宗），明清则往往年号更深入人心（嘉靖皇帝、康熙皇帝）。<a href="http://www.xixik.com/content/4aa959a5a5799f23" target="_blank" title="中国皇帝的帝号：庙号尊号谥号年号怎样区别？">中国皇帝的帝号：庙号尊号谥号年号怎样区别？</a></p>
+<p style="text-indent: 2em;">
+	<strong>庙号：</strong>庙号起源于商朝，帝王驾崩后，子孙在太庙立宣奉祀时追尊的名号。对国家有大功、值得子孙永世祭祀的先王，就会特别追上庙号，以视永远立庙祭祀之意。当时庙号只有四种：创基立业曰“太”（太祖汤、太宗太甲）、功高者曰“高”（高祖王亥、高宗武丁）、世代祭祀曰“世”（世祖盘庚、世宗且甲）、中兴者曰“中”（中宗且乙）。另外按照“祖有功而宗有德”的标准，给予祖或宗的称号。这些是最早出现的庙号。按照周礼，天子七庙，也就是天子也只敬七代祖先，但有庙号就一代一代都保留着，没有庙号的，到了一定时间就“亲尽宜毁”，不再保留他的庙，而是把他的神主附在别的庙里。在上古时，帝王在生前死后都用的是同一个名字。后来，人们觉得直接称呼已死的先帝、先王不大方便，祭祀时直呼名字也有些不妥。所以，商时祭祀时就用每个王生日的<a href="http://114.xixik.com/chinese-era/" style="text-indent: 2em;" title="天干地支">天干</a>来称呼他，不再用他的名字了，以表示恭敬。如夏、商两代的王，习惯上就是以庙号相称的，如夏朝太康、少康、孔甲，商朝的祖甲、帝乙等等。但周文王、周武王不是谥号，是自称，昭王穆王开始才是谥号。</p>
+<p style="text-indent: 2em;">
+	商朝灭亡后，周朝没有延用商朝的庙号制度，只是继续发展了商朝的谥号制度，所以周朝君主有谥号而无庙号，再到始皇帝建立秦朝之后，将庙号连同谥号制度一并废止，原因是“庙号和谥号”的定夺将会形成“子议父、臣议君”的局面，因此废除谥法与庙法。故周朝到秦朝时期，庙号一度被废止了近千年之久。西汉以后承袭了庙号这一制度。汉朝对于追加庙号一事极为慎重，不少皇帝因此都没有庙号。刘邦是开国君主，庙号为太祖谥号为高皇帝（谥法无“高”，以为开国立朝功最高，故特起名焉，齐高帝萧道成，秦高帝苻登亦然）。汉朝强调以孝治天下，所以除刘邦外，继嗣皇帝谥号都有“孝”字。</p>
+<p style="text-indent: 2em;">
+	历代庙号并无严格规定，早期都是一、两个字，<a href="http://www.xixik.com/content/e9bd03c2fc99881d">亦非每位皇帝都享有庙号</a>，只有成就突出的帝王才能拥有，尤其是西汉，非有大功大德者不能拥有。经过东汉光<span arial="" style="text-indent: 2em;">武帝刘秀的删减和重新拟定，西汉皇帝里真正有庙号的只有四个：太祖高皇帝刘邦、太宗孝文皇帝刘恒、世宗孝武皇帝刘彻、中宗孝宣皇帝刘询。东汉有庙号的也只有三人：世祖刘秀、显宗刘庄、肃宗刘炟。东汉的其他几个皇帝：刘肇为穆宗孝和皇帝、刘祜为恭宗孝安皇帝、刘保为敬宗孝顺皇帝、刘志为威宗孝桓皇帝，但这些庙号在孝献帝时被取消。可见早期皇帝干得合格才有庙号，但是皇帝基本都有谥号，所以唐朝以前的皇帝大多称谥号。从唐朝开始是皇帝都有庙号了，加上谥号开始变长，所以人们习惯称庙号，如唐太宗、宋太祖。时至唐朝，某些皇帝由于某种原因亦无庙号，如武周皇帝武氏，退位还政于李氏后</span>，上尊号“则天大圣皇帝”，去世后遗诏省去帝号——“则天大圣皇帝”，称”则天大圣皇后“，<a href="http://www.xixik.com/content/5f04921d22afdd67" style="text-indent: 2em;" title="一代女皇不叫武则天 也不叫武曌更不叫武媚娘">这就是后世称之“武则天”的由来</a>。故而刘知几云：“历观自古称谓不同，缘情而作，本无定准。”</p>
+<p style="text-indent: 2em;">
+	<strong>庙号里的“祖”和“宗”：</strong>庙号的选字并不参照谥法，但是也有褒贬之意。庙号常用“祖”字或“宗”字，一般来说“祖”的档次比“宗”更高些。太祖、高祖开国立业；太宗发扬光大；世祖、圣祖、成祖重新打了次天下；《礼记》云：“祖有功，宗有德。”汉应劭注：“始取天下者曰祖，高帝称高祖是也；始治天下者曰宗，文帝称太宗是也。”唐颜师古注：“应说非也。祖，始也，始受命也。宗，尊也。有德可尊。”宋刘攽则云：“颜说非也。始受命称太祖耳；有功亦称祖，商祖甲是也。”清方苞撰《谥法》云：“祖者始也，故宗无定数，祖一而已。”这个”祖”和欧洲尊某皇帝为大帝一样，一定要有特殊的功绩才行。</p>
+<p style="text-indent: 2em;">
+	一般<a href="http://114.xixik.com/chinese-emperors/" style="text-indent: 2em;" title="中国历史朝代开国皇帝">开国皇帝</a>被称为“太祖”或“高祖”，如汉太祖刘邦、唐高祖李渊、宋太祖赵匡胤、元太祖铁木真，清太祖努尔哈赤；后面的皇帝一般称为“宗”，如唐太宗、宋太宗等。唐、宋两代，一般是一祖而多宗。汉朝刘邦庙号太祖（<a href="http://www.xixik.com/content/5860833e2e47ff16" style="text-indent: 2em;" title="刘邦的庙号不是“汉高祖”">汉高祖属于讹传</a>），刘秀庙号世祖，一朝已有二祖。或可解释为刘邦乃西汉始祖，刘秀乃东汉始祖，<a href="http://www.xixik.com/content/710521c12ee76289" style="text-indent: 2em;" title="开创光武中兴的刘秀太低调">刘秀虽然没有改朝换代</a>，但是他这个皇帝位置并不是祖先给的，而是靠自己打下来的，世祖实至名归。偶尔亦称某宗为祖，以示特别尊崇之意。如北宋绍圣时，称赵祯为仁宗，而又称仁祖。元、明、清三代，变化更多。如元代既称成吉思汗为太祖，又称忽必烈为世祖；明代既称开国之君朱元璋为太祖，<a href="http://www.xixik.com/content/a7eadfd23c7bdb7c" style="text-indent: 2em;">又称第三任皇帝朱棣为成祖（最早是太宗）</a>，“成祖”以此赞扬明成祖开创了小宗继承大统的先河（本来帝统属于建文帝一脉），“成祖”是中国历史上绝无仅有的庙号。清朝既称努尔哈赤为太祖，又称福临为世祖，复称玄烨为圣祖宗，<a href="http://www.xixik.com/content/4a5f47269ed5cea9" style="text-indent: 2em;" title="奇葩的满清一朝三祖">由此构成满清奇葩的一朝三世祖</a>。<a href="http://www.xixik.com/content/6b194f37b938d340" style="text-indent: 2em;" title="多尔衮为何拥立6岁的顺治登基不称帝之谜">其实满清入主中原功劳最大是多尔衮</a>，顺治何德何能敢于称圣祖？</p>
+<p style="text-indent: 2em;">
+	世宗有守成令主的美誉，但也指世系传承发生偏移；仁宗、孝宗、睿宗乃仁爱孝顺的贤主；圣宗是中兴之主；哲宗、兴宗、成宗、显宗是守成之君；肃宗有中兴意愿却没有成功，有心无力；宪宗、宣宗、景宗有功有过；宁宗过于懦弱；德宗遭遇动乱被迫逃亡；高宗由盛转衰；玄宗、真宗、理宗、道宗等好玄虚；文宗文弱无能；武宗偏好武力；度宗、定宗、顺宗仅是过渡君主，影响不大；穆宗、光宗在位时间短且作为少；惠宗治国无方，江山残破；熹宗昏庸腐朽；哀宗、思宗则应用于较为悲情的亡国之君。</p>
+<p style="text-indent: 2em;">
+	到了魏晋南北朝开始，随着天下动乱、礼乐败坏，庙号也跟着泛滥了。除了某些亡国之君和政变中被推翻的皇帝外一般都有庙号。在曹魏时，却有三代庙号相继称祖：曹操（武帝）为太祖，曹丕（文帝）为世祖，曹睿（明帝）为烈祖，即所谓“曹氏三祖”是也。故而唐刘知几《史通·称谓》云：“古者天子庙号，祖有功而宗有德，始自三代，迄于两汉，名实相允，今古共传。降及曹氏，祖名多滥”。意思是庙号“祖”的泛滥始于曹魏。曹操被追封为太祖武皇帝，曹丕被封为世祖文皇帝，曹睿活着的时候，就迫不及待地自称烈祖明皇帝，被后世嘲笑。到<a href="http://114.xixik.com/chaodai/5hu16guo/" title="五胡乱华">五胡十六国</a>时期，胡人的后赵、前燕、后秦、西秦等小国，其帝王庙号几乎无不称祖，<a href="http://114.xixik.com/chaodai/5dai10guo/" style="color: rgb（0, 0, 0）;" title="五代十国">五代十国</a>时期的十国也是如此。明末清初顾炎武《日知录·除去祖宗庙谥》亦有“称祖之滥，始于曹魏之三祖”之议。称宗之情形更滥。顾炎武更批评道：“王莽尊元帝庙号高宗，成帝号统宗，平帝号元宗，中兴皆去之。……称宗之滥，始王莽之三宗。”到了唐代，滥情尤甚。清人王鸣盛《十七史商榷·三祖》则有“自李唐始无代不称宗，其滥斯极。除一祖之外，其余诸帝，不问有功与否，莫不称宗”之讽。</p>
+<p style="text-indent: 2em;">
+	一般而言，每位皇帝只有一个庙号，但亦有例外。比如<a href="http://www.xixik.com/content/a7eadfd23c7bdb7c">明朝朱棣有成祖、太宗两个庙号</a>；<a href="http://www.xixik.com/content/7e44214882c61e37">朱由检甚至有毅宗、怀宗和思宗三个庙号</a>。朱由检以亡国之君，却有三个庙号，乃是由于都中人士曾先谥为怀宗，盖有怀念之意；南明福王（朱由崧）又由高弘图等尊之为思宗，亦有思念之义；后赵之龙疏议思字不美，再改毅宗。得庙号者皇帝也，而后妃王侯皆不得与也。当然有些生前没做皇帝的，死后给追尊为皇帝的，如曹操、司马懿司马昭父子，<a href="http://www.xixik.com/content/753aa6d375ef9679" title="摄政王多尔衮太悲催 两次皇位不得死后挫骨扬灰">多尔衮</a>等也有庙号。</p>
+<p>
+	<img src="http://img.xixik.net/cimg/007/xixik_00fcc27270b56d88.jpg" style=" margin: 10px; float: left; width: 400px;" title="图：中国帝王的庙号、谥号和年号" /></p>
+<p style="text-indent: 2em;">
+	<strong>谥号：</strong>上古有号无谥，周初始制谥法，至秦废。汉复其旧，历代因之， 至清止。帝王的谥号一般由礼官议上。依据生平业绩，根据谥法拟定谥号，奏请钦定。<span style="text-indent: 0px;">根据国学大师王国维等人的考证，谥号制度的形成，应该起源于西周中期，这种观点也得到学术界的广泛认可。帝王、诸侯、卿大夫、大臣，后妃等具有一定社会地位的人死后，朝廷据其生前业绩、道德修养给予一种评判性质的称号以褒贬善恶，相当于一个人的盖棺定论，称为谥或谥号。</span></p>
+<p style="text-indent: 2em;">
+	据说，周公做谥法，每个天子死后，就根据他生前的行为，给他一个代名。周公旦和姜子牙有大功于周室，死后获谥。这是谥法之始。《周礼》说：“小丧赐谥。”小丧，死后一段时间。《逸周书·谥法解》：“谥者，行之迹也。大行受大名，细行受细名。行出于己，名出于人。”郑玄注云："谥者，行之迹也"。 《五经通义》：“有德则谥善，无德则谥恶，故虽君臣可同。”</p>
+<p style="text-indent: 2em;">
+	谥法在秦朝时也曾一度中断。这是因为秦王赢政于公元221年统一中国后，认为加谥号是“子议父，臣议君”，大逆不道，不可取。于是下令废除了谥法，自称“始皇帝”。后世子孙世代相传，即二世、三世皇帝以至无穷，可惜只传了二世。呃……要不然，我们就能见到像法国“路易十四”这样的叫法了。汉朝搞复古，又开始实行了谥号，汉倡导以孝治天下，所有皇帝的谥号都有个孝字，如孝惠、孝文、孝景一直到孝献。汉文帝，汉景帝休养生息的仁政时期，史称“文景之治”。再如汉武帝，他本名刘彻，庙号“世宗”，谥号“孝武”，全称是“世宗孝武皇帝”，简称“汉武帝”。至于<span arial="" style="text-indent: 2em;"><a href="http://www.xixik.com/content/d324ece8ff21b15d" title="电视剧《汉武大帝》">“汉武大帝”这种莫名其妙地说法只存在于中国电视剧里</a>。刘协被称为汉献帝，“孝献皇帝”是他死去之后曹魏给他加的谥号，他在生时候没有这个叫法，三国的文艺片里在他在世时直呼其献帝，<a href="http://www.xixik.com/content/d42b89b0585260b6" title="末代皇帝善终的寥寥无几 汉献帝算是受到礼遇的">难道刘协未卜先知，早就想把皇位献出来</a>？但号称汉室之后的刘备方面在曹丕即位后就让刘协“被殉国”，上谥号“孝愍皇帝”。</span></p>
+<p style="text-indent: 2em;">
+	<strong>谥号字数越来越长：</strong>谥号的字数，从一个字开始，比如隋朝以前，皇帝的谥号很短，一般称谥号。如：刘恒，谥号“孝文皇帝”，庙号“太宗”，史称“汉文帝”；司马炎，谥号“武皇帝”，庙号“世祖”，史称“晋武帝”；杨坚，谥号“文皇帝”，庙号“高祖”，史称“隋文帝”。发展到后来用好多个字，简直成了褒义词堆砌，大概是臣子觉得皇帝太伟大太光辉了，单个字无法形容其伟业。如：李世民，谥号“文武大圣大广孝皇帝”，庙号“太宗”，史称“唐太宗”；武则天开创了皇帝生前叠加谀词即自己定谥的先例。其实质由客观地评判变成了一味地溢美，字数的增加是溢美程度的发展。到了明清，谥号已经跟缠脚纱一样，又臭又长，完全是拍马屁到极致了，<a href="http://114.xixik.com/chinese-emperors/ming/" title="明朝皇帝列表">明朝皇帝谥号十七字</a>，<a href="http://114.xixik.com/chinese-emperors/qing/" title="清朝皇帝列表">清朝皇帝谥号为廿一字</a>。<a href="http://www.xixik.com/content/4a5f47269ed5cea9" title="清朝皇帝的谥号">清朝皇帝在谥号上不要脸到了令人发指的地步</a>。比如像清宣宗爱新觉罗·旻宁，谥号“效天符运立中体正至文圣武智勇仁慈俭勤孝敏宽定成皇帝”，谁记得住？肺活量不好能一气读完么？而他的年号是道光，叫道光皇帝，多么简单易记。这也就是为什么历史上大多以谥号或庙号称皇帝，<a href="http://www.xixik.com/content/8e9f2e77f8d4d83f" title="历史上多以谥号或庙号称皇帝 但清朝为何用年号？">但明清朝皇帝多以年号称呼的原因</a>。而明清皇帝大多只有一个年号，就用年号称呼。</p>
+<p style="text-indent: 2em;">
+	<a href="http://www.xixik.com/content/3b52c4551ee00f72" title="中国皇帝谥号大全">皇帝的谥号</a>是在嗣位皇帝的参与下得到的；末代皇帝的谥号由下一王朝的帝王追赠，或者由遗民政权上谥。比如明崇祯帝的谥号，南明上的是“绍天绎道刚明恪俭揆文奋武敦仁懋孝烈皇帝”，清代定鼎中原后，追赠崇祯帝的谥号为“庄烈帝”。</p>
+<p style="text-indent: 2em;">
+	大臣的谥号是朝廷赐予的，一般由礼部（礼官）主持，在皇帝同意的情况下赐谥。谥法制度有两个要点：一是谥号要符合死者的为人，二是谥号在死后由别人评定并授予。君主的谥号由礼官确定，由即位皇帝宣布，大臣的谥号是朝廷赐予的。周朝时，天子、各国诸侯、卿大夫及夫人有得谥资格；汉朝规定只有生前封侯者有得谥资格；唐朝规定职事官三品以上有得谥资格；一般文人学士或隐士的谥号，则由其亲友、门生或故吏所加，称为私谥，与朝廷颁赐的不同。</p>
+<p style="text-indent: 2em;">
+	<a href="http://www.xixik.com/content/b2aa1404f4162751" title="中国谥号含义大全">谥号来自于谥法</a>。谥法规定了若干个有固定涵义的字，大致分为三类：</p>
+<p style="text-indent: 2em;">
+	属表扬的有：文、武、景、烈、昭、穆、明、睿、康、景、庄、宣、懿等都是好字眼，称为上谥、美谥；<a href="http://www.xixik.com/content/f07989769097660a" title="文正这个谥号文人最大渴求">谥号中“文正”最高</a>，“文忠”次之，“文恭”再次，以下为“文成”、“文端”、“文恪”、“文襄”之类。<span arial="" style="text-indent: 2em; color: rgb（0, 0, 0）; font-family: SimSun, ">清朝汉臣曾国藩因为其平定太平天国、推动洋务运动等一系列卓越的功绩，死后被定谥号为“文正”（整个清朝，也只有八个人获得）。另一位名臣张之洞知道之后，对其他人说，连曾国藩都能得“文正”这样的谥号，我死后看来也差不到哪儿去，结果是，他死后只得了个“文襄”的谥号，别说“文正”了，连李鸿章的“文忠”都比他的谥号高十多个级别。看来人有的时候自我感觉还真不能太良好。</span></p>
+<p style="text-indent: 2em;">
+	属于批评的有：炀、历、灵等，称为下谥，恶谥。知名的有：隋炀帝、周厉王、汉灵帝。</p>
+<p style="text-indent: 2em;">
+	属于同情的有：哀、思、怀、愍、悼等，称为中谥；如，楚怀王的“怀”表示“慈仁短折”。有些谥号本身的意思并不坏，但被用在某个实在不堪的皇帝身上后就没法再用了。例如惠，谥法是“爱民好与曰惠。柔质慈民曰惠”，汉惠帝是吕后执政时给亲儿子上的，并不算坏。然而惠帝都是些平庸的，如汉惠帝、晋惠帝都是没什么能力的白痴，后世基本没人用这个谥号了，只有乾隆拿来恶心建文帝——“恭愍惠帝”……类似的还有白痴晋安帝。而恭帝倒是成了亡国之君的惯用谥号，有晋恭帝、西魏恭帝、隋恭帝、后周恭帝等，需要说明的是宋恭帝是朝廷上的尊号，不是谥号。质帝、冲帝、少帝往往是幼年即位而且早死的，适用于<a href="http://www.xixik.com/content/287466052f1630f3">娃娃皇帝</a>。至于末帝、献帝、顺帝，那就是胜利者对失败者的嘲笑了。另外孙权是个特例，他的谥号是大帝，在中国是绝无仅有的。</p>
+<p style="text-indent: 2em;">
+	谥号最初只有“美谥”、“平谥”，<a href="http://www.xixik.com/content/d1fc15f5a71c1dab" title="谥号有褒贬之别">恶谥是后来才有的</a>——人们渐渐觉察到，有些帝王大臣不是好人，有一些还很可恨。周厉王在“厉”表示“暴慢无亲”、“杀戮无辜”。他是一个贪婪的君主，“国人”发动暴动，他逃到彘（今山西霍县东北），后来死在了那里。《召公谏厉王弥谤》是先秦历史散文名篇，选进了多种课本。从一个侧面反映了厉王的专制残暴。并且从此以后，逐步形成了清晰、明确的谥法。孔子、孟子为代表的儒家学派为了达成将谥法作为以礼教褒贬人物、挽救社会风气的目的，编写了《谥法解》一书，这本书也成为后世谥法施行时的重要依据。</p>
+<p style="text-indent: 2em;">
+	<a href="http://www.xixik.com/content/5bf7e361197a5adb">隋朝杨广最知名的称呼是“隋炀帝”</a>，这个炀在谥法里是：好内远礼曰炀；去礼远众曰炀；好内怠政曰炀；肆行劳神曰炀；去礼远正曰炀；逆天虐民曰炀；这是他被缢杀当年唐朝开国皇帝李渊在其控制的义宁朝廷加的恶谥。其实，<a href="http://www.xixik.com/content/c9e2e34fd5705f92">杨广还有其他两个意义完全不同的谥号</a>。留守东都洛阳被王世充拥立的越王杨侗的皇泰朝廷，却给他上了美谥，谥号明皇帝，庙号世祖，即世祖明皇帝，隋明帝，完全是成功二世祖的待遇。巧合的是，王世充篡位建郑，杀害杨侗后，给他的谥号和李渊给杨侑的一样，都是“恭”，也就是隋恭帝。而夏王窦建德听说王世充篡位后，与他关系断绝，给杨广上谥号“闵”，也就是隋闵帝。“炀——重昏暴”、“明——重功业”、“闵——重悲哀”、这三个谥号，<a href="http://www.xixik.com/content/fce7d48c8d19762b">贯穿了杨广的一生，或许能盖棺定论</a>。<a href="http://www.xixik.com/content/fce7d48c8d19762b">这位罄竹难书的暴君生前励精图治搞“大业”，开凿大运河</a>，<a href="http://www.xixik.com/content/3c9c51de130bc7ae">却不曾为自己建造陵墓</a>；被称为荒淫奢侈，而<a href="http://www.xixik.com/content/4c07ce4a69ee07e4">他的正室萧后始终被宠爱，被尊重</a>。<a href="http://www.xixik.com/content/99e74462f321c06c">他被弑后，是萧后将其安葬，自己死后，又与其合葬</a>。这样一个矛盾的人物在中国诸多帝王中，恐怕并不多见。</p>
+<p style="text-indent: 2em;">
+	历史也有开玩笑的一面。开皇九年（589）隋朝年轻统帅晋王杨广灭陈，将陈叔宝等一大批俘虏押往长安。隋朝廷对这位亡国之君以礼相待，把他养了起来。陈叔宝在隋朝活了十五年，604年病死于洛阳。这年隋文帝死，杨广即位，追封陈叔宝为长城县公，赠大将军的虚衔，赐谥号曰“炀”。陈叔宝荒淫无度，昏庸不堪，这个“炀”字对他是适合的。杨广万万没有想到，死后也会得到这个同样的谥号，和陈叔宝相提并论，并且比陈叔宝叫得响（后人一般称呼其为陈后主），这是巧合？是误会？还是嘲讽？留待后人去体会了。北宋做出规定：不立恶谥，只作美谥、平谥。因此像赵佶这样的昏君，谥号“体神合道骏烈逊功圣文仁德宪慈显孝皇帝”，庙号“徽宗”，史称“宋徽宗”。故谥号变质了，实际上无法显示皇帝评价，庙号反而取代了谥号起到盖棺论定的功用。</p>
+<p style="text-indent: 2em;">
+	绵延几千年的谥号制度没有在最后一个皇帝身上终结，而是由国学大师王国维来收尾。一九二六年六月，著名学者王国维自沉身亡，<a href="http://www.xixik.com/content/c6d5ff637e798415" title="清朝末代皇帝溥仪的庙号和谥号是什么？">因为是废帝溥仪没有谥号</a>，但他却给王国维御赐了“忠悫”二字的谥号，墓碑上刻着“王忠悫公”。悫：诚实。陈寅恪在其碑文中说：“思想不自由，毋宁死耳！”惟恐思想不自由，是王国维寻死的主要原因。这是中国谥号制度的终点。从此，中国古代的谥号制度沉入历史。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/custom/section/chinese-dynasties/xixik-d99a70e51b8689fe.jpg" style="margin: 10px; float: right; width: 400px;" /></p>
+<p style="text-indent: 2em;">
+	<strong>年号：</strong>也叫帝号，是皇帝用以纪年的名号。年号也不是一开始都有的，汉武帝以前，无年号之名目。汉武帝时期的公元前122年为元狩元年，此前年号是追记的。按惯例，新君即位大多会颁行新年号，称为“改元”，一般会熬到次年大年初一，<a href="http://www.xixik.com/content/aaf887ac9c8f7b6f" style="text-indent: 2em;" title="活的制度史：从公元前到21世纪的中日年号简史">当然也有例外</a>。年号蕴涵着帝王君临天下、宣示正统的特殊意义，称为“奉正朔”。设立新年号君臣朝野为之瞩目，司其事者索遍枯肠，绞尽脑汁。在民间纪年除了干支纪年，就是用皇帝的年号了。有些皇帝喜欢换年号，好事坏事都要换，有的几年换一次，偶有的一年要换几次，爱标新立异的年号换得多，比如汉武帝改了十一次年号，<a href="http://www.xixik.com/content/b3809197ed66df83" style="text-indent: 2em;">唐高宗李治改了十四次年号</a>，<a href="http://www.xixik.com/content/07911355d4151f13" style="text-indent: 2em;">他的妻子武周皇帝武则天改年号创下了17个的纪录</a>。一般朴素务实的皇帝年号换得少，唐太宗李世民的年号“贞观”因为“贞观之治”的缘故大概是知名度最高的年号了——堪称坚持品牌，做大做强的典范。再比如唐玄宗兴盛明君时期用的年号是开元，所以这段时期就被称为“开元盛世”。而在开元29年，唐玄宗认为功业已就，一生中的大事都已经办完，想要开始享受成果，<a href="http://www.xixik.com/content/fd4d2f202bff043f">改元为“天宝”</a>，唐朝也由此由盛转衰。</p>
+<p style="text-indent: 2em;">
+	中国历史上使用过的年号共有720个左右。一般年号是两个字的，武则天还用过四个字的——“天策万岁”、“万岁登封”、“万岁通天”。而<strong>年号最多的年份是公元684年甲申</strong>。这一年，唐高宗李治由“万岁”而“万年”，武则天立太子李显为帝，是为中宗，定年号为嗣圣，继而又废而立李旦为睿宗，改年号为“文明”。未几，干脆取而代之，再改为“光宅”。一年之中，三改年号，折射出谋夺皇权的激烈斗争，这一年七月二十二日夜哈雷彗星出现。而以清末所用“宣统”为最后年号。</p>
+<p style="text-indent: 2em;">
+	<strong>使用年号最多的一年是公元373年</strong>，共计有10个。即前秦苻登太初元年；后燕慕容垂建兴元年；后秦姚苌建初元年；北魏道武帝拓拔珪登国元年；后凉吕光太安元年；西燕段随昌平元年；西燕慕容顗建明元年；西燕慕容瑶建平元年；西燕慕容忠建武元年；西燕慕容永中兴元年。&#160;</p>
+<p style="text-indent: 2em;">
+	年号往往也是时运变化的标志，一般而言，同一时间段内年号多而短暂，则折射出神州板荡，国运衰微，而年号少而长久，则显示出国力隆盛，天下承平。但是也有例外，比如<strong>使用时间最长的年号</strong>，是清圣祖玄烨的年号“康熙”，自1662年壬寅到1722年壬寅，经历了整整一个甲子，长达61年；其次，是玄烨的孙子清高宗弘历的年号“乾隆”，从1736年丙寅到1795年乙卯，共60年。<a href="http://www.xixik.com/content/ecfa518db7c1e617" title="“康乾盛世”是哪门子的盛世？">不过满清在这对爷孙的统治下正走下坡路</a>。</p>
+<p style="text-indent: 2em;">
+	年号被认为是帝王正统的标志，称为“奉正朔”。一个政权使用另一政权的年号，被认为是藩属、臣服的重要的标志之一。在中国四分五裂的时期，这种现象便经常出现。例如，五代十国时期，闽国、楚国使用后梁、后唐年号；吴越国则使用唐、后梁、后唐、后晋、后汉、后周和北宋的年号。同时，诸多地方割据政权和少数民族政权，以及农民起义军也常常自立年号纪年。史家因立场不同，著述所用年号多有歧异。如三国时，陈寿撰《三国志》，以三国年号并列，分别以各自年号纪年纪事；而习凿齿《汉晋春秋》，则认为蜀为大汉延续，故奉蜀汉为正统，用其年号纪年。年号不仅为纪年之名号，却有着复杂的背景和内涵和意义。无论是研究历史、还是整理古籍，都不得不予以关注。</p>
+<p style="text-indent: 2em;">
+	帝王年号于选词择字十分考究，须经重臣集议、反复筛选，要求字意吉瑞、词意隽永，多用“天、大、太、应、元、中、永”等字开头。尤其是以“天”字开始之年号，达66个之多。其次是“建”字打头者，有30个；以“永”字作首字者有28个。用“隆”字的年号19个；有“龙”字的年号有13个，有“凤”字和“皇”字的年号各有11个。由于择字范围狭窄，历代年号重复使用现屡见不鲜。如用 “建兴”11次，为使用次数之最；“太平”出现9次；“建武”年号曾出现7次；另外“中兴”、“永和”、“永平”、“永兴”、“建和”、“建平”等年号亦分别曾被6位皇帝所用。究其原因，有的是皇帝大臣缺乏历史知识，宋朝年号最喜欢用“祐”字，一共用了七回，然后就是兴、熙和元，这三个字，也用了五回。宋初关于年号的使用，还闹了次乌龙事件。宋太祖赵匡胤的第二个年号“乾德”跟后蜀割据政重名，叹曰：“宰相须用读书人”，自此定下重用儒臣之策。<a href="http://www.xixik.com/content/4b4dd0aa120c6878">后来明朝朱棣“永乐”这个年号知名度很高</a>，被此前多个政权用过。天启这个年号，元末农民起义的徐寿辉就用过，还能追溯到南北朝，可大明也没说啥，将错就错，也就过了。</p>
+<p style="text-indent: 2em;">
+	明清两代的皇帝人们习惯称以他们的年号。<a href="http://www.xixik.com/content/8e9f2e77f8d4d83f" style="text-indent: 2em;">朱元璋规定一帝一元，才有可能用年号来称呼皇帝</a>。比如万历帝，<a href="http://www.xixik.com/content/de8d0024aebcb0a7" style="text-indent: 2em;">崇祯帝</a>，康熙帝，雍正帝等，这个在皇帝在世也可以称呼。比如朱棣朝的修的典籍叫《永乐大典》，玄烨朝编纂的字典叫《康熙字典》。明清两朝年号出现例外的只有三次，①是<a href="http://www.xixik.com/content/8d6f51db0f7179fb" style="text-indent: 2em;">明英宗于土木堡之变被瓦剌俘虏去</a>，经“夺门之变”重新登基后没有沿用以前的“正统”年号，改为“天顺”；<span arial="" style="text-indent: 2em;">果然历经波折、后来复位的明英宗老实了很多，从年号中就能看的出来，做事情要顺着天意，不再像着年轻时候那般轻狂随意了，晚年任用李贤，听信纳谏，仁俭爱民，美善很多，<a href="http://www.xixik.com/content/a627ea723a4769c8" title="明英宗死前废除殉葬制度">他去世前废除了殉葬制度</a>——“用人殉葬，吾不忍也，此事宜自我而止”。<span arial="" style="text-indent: 2em;">②是清朝皇太极在沈阳称帝，改国号为大清，并由“天聪”改元为“崇德”，不过当时满清尚未一统中原；③是辛酉政变之前，八大顾命大臣原定年号为“祺祥”，在政变后被两宫与恭亲王改为“同治”，然而这些都是极特殊的情况。除此之外，均都是以一年号贯穿皇帝执政始终。而且一帝一年号更容易对应，比如说嘉靖、雍正，我们都很容易分辨出来，但是如果光说“世宗”，那嘉靖和雍正都是“世宗”，连朝鲜都有世宗。所以如果是一帝多年号的情况，用庙号好分辨皇帝，庙号必须加朝代名，不然会混，比如明太祖。幸亏清朝不用谥号了，不然清高宗法天隆运至诚先觉体元立极敷文奋武钦明孝慈神圣纯皇帝（爱新觉罗·弘历，乾隆皇帝<span arial="" style="text-indent: 2em;">），简称“清纯皇帝”<span arial="" style="text-indent: 2em;">，真让人随时随地受不了。</span></span></span></span></p>
+<p style="text-indent: 2em;">
+	所以综合一下，如果你是个清朝子民，生于康熙8年，死于乾隆22年，活了80多，高寿。你死后没两年，有人问你孙子你生卒日。他用谥号就是，合天弘运文武睿哲恭俭宽裕孝敬诚信中和恭德大成仁皇帝8年生。敬天昌运建中表正文武英明宽仁信毅睿圣大孝至诚宪皇帝死后，第22年卒。注意，你还不能说法天隆运至诚先觉体元立极敷文奋武孝慈神圣纯皇帝22年卒，因为当时乾隆还没死，所以他的谥号你不知道。庙号短点，但是道理一样，皇帝还没死，难道穿越到后世么？</p>
+<p style="text-indent: 2em;">
+	<strong><a href="http://www.xixik.com/content/c94aca066873c99b">那怎么区分“庙号”、“谥号”、“年号”呢</a>？</strong>一般说：凡称某某祖、某某宗的就是庙号，凡称某某帝的便是谥号。但在历史各阶段习惯上的称呼又有些不同。打开<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000;" title="中国历史朝代顺序表">中国历史年表</a>，就会发现唐朝以前，一般都只称“谥号”，如汉光武帝，魏武帝，隋炀帝等等。唐朝以后，一般都称庙号，如唐太宗、宋太祖、明神宗等等。不过在这期间，也有称谥号的；如唐玄宗李隆基的庙号是“玄宗”，谥号是“至道大圣大明孝皇帝”，这中间关键的是“明”字，<a href="http://www.xixik.com/content/e37c98412768453f">清朝时为了避讳玄烨</a>（康熙帝）因而唐玄宗又被称为“唐明皇”。明朝中叶后，帝王的称号又有所改变，多数以年号来称呼。比如：万历皇帝、崇祯皇帝、康熙皇帝、乾隆皇帝等……谥号长得令人发指，谥号和庙号死了才有，年号可以称当朝，实在是方便。</p>
+<p style="text-indent: 2em;">
+	<strong>尊号：</strong>在皇帝和后妃生前所加的表示崇敬褒美的称号。有别于庙号和谥号是死后使用的称呼，尊号在皇帝和后妃生前也可使用的。尊号的别名是徽号，《尔雅·释佑》：“徽，善也。”徽号即善美的称号。比如嘉佑四年，群臣再次请上尊号，而刘敞劝阻说：“陛下不受徽号且二十年”，说明尊号也可称徽号。尊号始于唐高宗时期，其发明人是武后。武后为扩大影响，抬高自己，实现其掌权的野心，开创了为在位帝后上“尊号”的先例。</p>
+<p style="text-indent: 2em;">
+	臣下根据帝王的意思先拟好尊号奉上，再由皇帝认可即成。一般在皇帝在世之时便开始有群臣上请，因为大臣们会尽量把好的词语都往皇帝身上加，并不断加长，所以尊号一般会比较长。尊号最初只加给在位皇帝、皇后，后来也给死去的帝后追加。唐高宗上元元年，将皇帝皇后分别改为“天皇”和“天后”；高宗死后，追加尊号为“天皇大帝”，武氏则作为太后加尊号为“圣母神皇”。她称帝之后，又先后加尊号为“越古金轮圣神皇帝”等多个尊号。从此，后世之君在位期间和去世以后也都要上尊号和被追加尊号，并且根据在位帝王的意向一改再改。如唐太宗李世民最初被谥为文皇帝，后几经追尊更改，最后被追尊为“文武大圣大广孝皇帝”。唐玄宗在位期间曾四次上尊号，由“开元神武皇帝”一直增加到“开元天地大宝圣文神武孝德证道皇帝”，宋太祖为“启运立极英武睿文神德圣功至明大孝皇帝”，慈禧为“慈禧端佑康颐昭豫庄诚寿恭钦献崇熙圣母皇太后”（这也就是慈禧太后称呼的出处）。由于尊号太长，所以平民百姓很少称呼皇帝的尊号。</p>
+<p style="text-indent: 2em;">
+	尊号不但替代了谥号，还因其过长且名不副实，为纪史带来不便，所以中国史书上自唐朝开始，纪年方式改为国号——帝王庙号——年号——年序号的纪年方式。如唐高宗永徽四年，清世宗雍正八年等。比如624年是指唐高祖神尧大圣光孝皇帝武德七年。</p>
+<p style="text-indent: 2em;">
+	古语云：风流总被雨打风吹去。庙号、谥号、尊号及年号，皆中国古代国粹，并已伴随封建时代之结束而寿终正寝，飘然而去。今朝予以审视回味，其感受如何，评价怎样，必定是因人而异，见仁见智矣。年号发源于中国，随后传到了日本越南朝鲜，崇祯皇帝自杀之后，<a href="http://www.xixik.com/content/8990c1b41b81b43a" title="李氏朝鲜为何尊崇明朝？还将崇祯年号用了265年">藩属国朝鲜一直在使用崇祯年号直到1909年</a>，长达265年。而日本一直施行君主立宪制，因此成为世界上唯一一个还使用年号纪年的发达文明国家。日本选择年号大多采用《易经》、《尚书》和《史记》等汉文经典，比如“明治”（1868—1912年）取自于《易经·说卦》“圣人南面而听天下，向明而治”。历史上也不乏向中国某些时代“致敬”——比如日本清和天皇和阳成天皇时期（859年四月十五日至877年四月十六日）用“贞观”。日本年号“平成”（1989—2019）则取自《史记&#8226;五帝本纪》中“父义，母慈，兄友，弟恭，子孝，内平外成。”这一年号已经使用了30年。<a href="http://www.xixik.com/content/33dddf52976c9240" style="text-indent: 2em;" title="日本第248个年号“令和”出炉">2019年4月1日日本新年号出炉——“令和”</a>。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor6"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        中国历史朝代持续的时间（国祚）</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/195d8c08e2c6ce92">中国历史上各个朝代持续的时间（国祚）哪个最长</a>？以秦统一六国后的封建王朝起算，到末代皇帝溥仪退位为止。国祚（祚，zuò。英文：Longevity of the dynasty）（1）.国运。（2）.皇位。指王朝理论上应该维持的时间，与王朝实际维持时间有区别。国祚有一套严格的计算公式，创自北宋邵雍。王朝的国祚数有的时候与实际值一致，有时候大于实际值，但是不会小于实际值。</p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://www.xixik.com/content/cface7498e104962" style="color:#000;" title="中国历史最悠久的朝代 各朝代延续时间排行榜">中国主要朝代的国祚</a></strong></p>
+<p style="TEXT-INDENT:2em">
+	夏朝（约前21世纪—约前16世纪）中国传统文献中关于夏朝的记载较多，但由于都成书较晚，已知的又没有发现公认的夏朝存在的直接证据，如夏朝同时期的文字作为自证物，因此近现代史学界一直有人<a href="http://www.xixik.com/content/84804b9f647bc185" title="夏朝在中国历史真实存在吗？">质疑夏朝存在的真实性</a>。共传十四代，<a href="http://www.xixik.com/content/1dfc2688a4217467" title="夏朝17位帝王">十七后</a>（夏朝统治者在位时称”后“，去世后称”帝“），延续约471年。</p>
+<p style="TEXT-INDENT:2em">
+	商朝（前1600年—前1046年），经历了三个大的阶段。第一阶段是“先商”；第二阶段是“早商”；第三阶段是“晚商”，前后相传17世31王，延续600年。</p>
+<p style="TEXT-INDENT:2em">
+	周朝（前1046年—前256年）是<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>上继商朝之后的<a href="http://114.xixik.com/chaodai/" style="color:#000" title="历史朝代顺序表">朝代</a>。周亦为“<a href="http://www.xixik.com/content/d53357d3fb437a68" title="中国、炎黄子孙、华夏、中华民族各有什么区别？">华夏</a>”一词的创造者与最初指代。周朝共传31代38王，共计791年。周朝分为“西周”（前11世纪中期－前771年）与“东周”（前770年－前256年）两个时期。西周由周武王姬发创建，定都镐京（宗周），成王五年营建东都成周雒邑；公元前770年（周平王元年），平王东迁，定都雒邑（成周），此后周朝的这段时期称为东周。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/qin/" style="color:#000" title="秦朝">秦朝</a>（公元前221年－公元前207年），共传3帝，国祚14年。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/han/" style="color:#000" title="汉朝">汉朝</a>（前202—220年），<a href="http://114.xixik.com/chaodai/han/" style="color:#000" title="汉朝">汉朝</a>分为西汉（前202年十二月—公元8年十一月）、东汉（25年－220年）。西汉传12帝，共210年；东汉传14帝，共195年。东西两汉国祚405年（王莽建立之新朝：公元8年十二月—公元23年10月，共历一帝）。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="晋朝">晋朝</a>（265—420年），分为<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="西晋">西晋</a>与东晋两个时期，两晋总历时156年，传20帝。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>（581年－618年），国祚38年，传3帝。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>（618年—907年），是中国封建社会继<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>之后的强盛王朝，国祚289年，共传21帝。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/song/" style="color:#000;" title="宋朝历史">宋朝</a>（公元960年—公元1279年）是<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>上承五代十国、下启元朝的<a href="http://114.xixik.com/chaodai/" style="color:#000" title="历史朝代顺序表">朝代</a>，分北宋和南宋两个历史阶段，<a href="http://114.xixik.com/chinese-emperors/song/" title="宋朝皇帝列表">两宋共传18帝</a>，国祚319年。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/yuan/" style="color:#000;" title="元朝历史">元朝</a>（1271年—1368年），<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>上由蒙古族建立的统一帝国，传16帝，国祚97年。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>（1368－1644年），是<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>上最后一个由汉族建立的中原王朝。历经12世、共传16帝，国祚276年。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>（1644—1911年）是<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>上第二个由少数民族建立的统一政权，也是中国最后一个封建帝制国家。共传12帝，国祚267年。</p>
+<p style="text-indent: 2em; text-align: center;">
+	<img src="http://img.xixik.net/custom/section/chinese-dynasties/xixik-4c47eb3711ef8305.jpg" /></p>
+<p style="text-indent: 2em; text-align: center;">
+	图：中国历史朝代年表</p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:60%">
+	<tbody>
+		<tr>
+			<th colspan="2">
+				朝代</th>
+			<th>
+				起止年代（年）</th>
+		</tr>
+		<tr>
+			<td colspan="2">
+				三皇五帝①</td>
+			<td>
+				约170万-4000年前</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				夏朝</td>
+			<td>
+				前2100-前1600</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				商朝</td>
+			<td>
+				前1600-前1046</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				西周</td>
+			<td>
+				前1046―前771</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				东周</td>
+			<td>
+				前771-前256</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				春秋②</td>
+			<td>
+				前770-前476</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				战国③</td>
+			<td>
+				前475-前221</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				秦朝</td>
+			<td>
+				前221-前207</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				西楚④</td>
+			<td>
+				前206-前202</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				西汉</td>
+			<td>
+				前202-公元9年</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				新朝</td>
+			<td>
+				8-23</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				东汉</td>
+			<td>
+				25-220</td>
+		</tr>
+		<tr>
+			<td rowspan="3">
+				三国</td>
+			<td>
+				魏</td>
+			<td>
+				220-266</td>
+		</tr>
+		<tr>
+			<td>
+				蜀</td>
+			<td>
+				221-263</td>
+		</tr>
+		<tr>
+			<td>
+				吴</td>
+			<td>
+				222-280</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				西晋</td>
+			<td>
+				266-316</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				东晋</td>
+			<td>
+				317-420</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				十六国⑤</td>
+			<td>
+				304-439</td>
+		</tr>
+		<tr>
+			<td rowspan="4">
+				南朝</td>
+			<td>
+				宋</td>
+			<td>
+				420-479</td>
+		</tr>
+		<tr>
+			<td>
+				齐</td>
+			<td>
+				479-502</td>
+		</tr>
+		<tr>
+			<td>
+				梁</td>
+			<td>
+				502-557</td>
+		</tr>
+		<tr>
+			<td>
+				陈</td>
+			<td>
+				557-589</td>
+		</tr>
+		<tr>
+			<td rowspan="5">
+				北朝</td>
+			<td>
+				北魏</td>
+			<td>
+				386-534</td>
+		</tr>
+		<tr>
+			<td>
+				东魏</td>
+			<td>
+				534-550</td>
+		</tr>
+		<tr>
+			<td>
+				北齐</td>
+			<td>
+				550-577</td>
+		</tr>
+		<tr>
+			<td>
+				西魏</td>
+			<td>
+				535-557</td>
+		</tr>
+		<tr>
+			<td>
+				北周</td>
+			<td>
+				557-581</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				隋朝</td>
+			<td>
+				581-618</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				唐朝</td>
+			<td>
+				618-907</td>
+		</tr>
+		<tr>
+			<td rowspan="5">
+				五代</td>
+			<td>
+				后梁</td>
+			<td>
+				907-923</td>
+		</tr>
+		<tr>
+			<td>
+				后唐</td>
+			<td>
+				923-936</td>
+		</tr>
+		<tr>
+			<td>
+				后晋</td>
+			<td>
+				936-947</td>
+		</tr>
+		<tr>
+			<td>
+				后汉</td>
+			<td>
+				947-951</td>
+		</tr>
+		<tr>
+			<td>
+				后周</td>
+			<td>
+				951-960</td>
+		</tr>
+		<tr>
+			<td rowspan="10">
+				十国</td>
+			<td>
+				前蜀</td>
+			<td>
+				907—925</td>
+		</tr>
+		<tr>
+			<td>
+				后蜀</td>
+			<td>
+				934—965</td>
+		</tr>
+		<tr>
+			<td>
+				吴</td>
+			<td>
+				907—937</td>
+		</tr>
+		<tr>
+			<td>
+				南唐</td>
+			<td>
+				937-975</td>
+		</tr>
+		<tr>
+			<td>
+				吴越</td>
+			<td>
+				907-978</td>
+		</tr>
+		<tr>
+			<td>
+				闽</td>
+			<td>
+				909—945</td>
+		</tr>
+		<tr>
+			<td>
+				楚</td>
+			<td>
+				896—951</td>
+		</tr>
+		<tr>
+			<td>
+				南汉</td>
+			<td>
+				917—971</td>
+		</tr>
+		<tr>
+			<td>
+				南平</td>
+			<td>
+				924-963</td>
+		</tr>
+		<tr>
+			<td>
+				北汉</td>
+			<td>
+				951―979</td>
+		</tr>
+		<tr>
+			<td rowspan="2">
+				宋朝</td>
+			<td>
+				北宋</td>
+			<td>
+				960-1127</td>
+		</tr>
+		<tr>
+			<td>
+				南宋</td>
+			<td>
+				1127-1279</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				辽朝</td>
+			<td>
+				916-1125</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				西夏</td>
+			<td>
+				1038-1227</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				金朝</td>
+			<td>
+				1115-1234</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				元朝</td>
+			<td>
+				1271-1368</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				明朝</td>
+			<td>
+				1368-1644</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				清朝</td>
+			<td>
+				1644-1912</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-indent: 2em;">
+	① 三皇五帝，并不是真正的帝王，仅仅是部落联盟首领。因其杰出而被后世尊为帝或王。</p>
+<p style="text-indent: 2em;">
+	② 从公元前770年开始，到公元前476年为止，是奴隶制不断瓦解、封建制因素日益增长的向封建社会转变的时期。这段长达295年间的历史，叫作“春秋”时代。</p>
+<p style="text-indent: 2em;">
+	③ 春秋以后，齐、楚、燕、韩、赵、魏、秦七大诸侯国连年战争，当时人们就称呼这七大诸侯国为“战国”。</p>
+<p style="text-indent: 2em;">
+	④ 西楚霸王项羽：公元前206年--公元前202年在位，虽称霸王，实际上相当于皇帝，存在5年。</p>
+<p style="text-indent: 2em;">
+	⑤ <a href="http://114.xixik.com/chaodai/5hu16guo/" style="color:#000;" title="五胡十六国">五胡十六国</a>，简称十六国。这个时期，先后存在过一些封建政权，其中有：汉（前赵）、成（成汉）、前凉、后赵（魏）、前燕、前秦、后燕、后秦、西秦、后凉、南凉、北凉、南燕、西凉、北燕、夏等国。</p>
+<p style="text-indent: 2em;">
+	<strong>按正统<a href="http://114.xixik.com/chaodai/" style="color:#000" title="历史朝代顺序表">朝代</a>存续时间</strong>（秦以后）</p>
+<p style="text-indent: 2em;">
+	第1名、宋（960-1276年）316年国祚</p>
+<p style="text-indent: 2em;">
+	第2名、唐（618-907年）289年国祚（含武周690-705）</p>
+<p style="text-indent: 2em;">
+	第3名、明（1368-1644年）276年国祚</p>
+<p style="text-indent: 2em;">
+	第4名、清（1644-1912年）268年国祚</p>
+<p style="text-indent: 2em;">
+	第5名、西汉（前202-公元8年）209年国祚</p>
+<p style="text-indent: 2em;">
+	第5名、辽（916-1125年）209年国祚</p>
+<p style="text-indent: 2em;">
+	第7名、东汉（25-220年）195年国祚</p>
+<p style="text-indent: 2em;">
+	第8名、晋（265-420年）155年国祚</p>
+<p style="text-indent: 2em;">
+	第9名、金（1115-1234年）119年国祚</p>
+<p style="text-indent: 2em;">
+	第10名、元（1271-1368年）97年国祚</p>
+<p style="text-indent: 2em;">
+	第11名、隋（581-618年）38年国祚</p>
+<p style="text-indent: 2em;">
+	第12名、秦 （前221-前206年）15年国祚　</p>
+<p style="text-indent: 2em;">
+	第13名、新 （8-23年）15年国祚</p>
+<p style="text-indent: 2em;">
+	<strong>按政权存续时间</strong>（秦以后）</p>
+<p style="text-indent: 2em;">
+	第1名、宋（960-1279年）319年国祚</p>
+<p style="text-indent: 2em;">
+	第2名、辽（916-1218年）302年国祚（含西辽1124-1218）</p>
+<p style="text-indent: 2em;">
+	第3名、明（1364-1661年）297年国祚（含西吴1364-1368、南明1644-1661）</p>
+<p style="text-indent: 2em;">
+	第4名、清（1616-1912年）296年国祚（含后金1616-1636，如果不含应为276年）</p>
+<p style="text-indent: 2em;">
+	第5名、唐（618-907年）289年国祚（含武周690-705）</p>
+<p style="text-indent: 2em;">
+	第6名、西汉（前206-公元8年）213年国祚</p>
+<p style="text-indent: 2em;">
+	第7名、元（1206-1402年）196年国祚（含蒙古1206-1271、北元1368-1402）</p>
+<p style="text-indent: 2em;">
+	第8名、东汉（25-220年）195年国祚</p>
+<p style="text-indent: 2em;">
+	第9名、晋（265-420年）155年国祚</p>
+<p style="text-indent: 2em;">
+	第10名、金（1115-1234年）119年国祚</p>
+<p style="text-indent: 2em;">
+	第11名、隋（581-619年）38年国祚</p>
+<p style="text-indent: 2em;">
+	第12名、秦 （前221-前206年）15年国祚　</p>
+<p style="text-indent: 2em;">
+	第13名、新 （8-23年）15年国祚</p>
+<p style="text-indent: 2em;">
+	此表将<a href="http://114.xixik.com/chaodai/han/" style="color:#000" title="汉朝">汉朝</a>分为西汉和东汉，若合并则<a href="http://114.xixik.com/chaodai/han/" style="color:#000" title="汉朝">汉朝</a>国祚为405年，在古代历史学家眼里，西汉和东汉就是两个王朝，他们的共同之处就是开国皇帝都姓刘而已。<a href="http://www.xixik.com/content/710521c12ee76289" title="刘秀是真皇族后裔 但是只想做个静静的美男子">尽管刘秀自称是汉高帝九世孙</a>，出自汉景帝一脉，但属于远支旁庶一脉。历史上记载汉朝历史的史书分别是《汉书》和《后汉书》，西汉和东汉又称前汉和后汉。</p>
+<p style="text-indent: 2em;">
+	而宋朝则是将北宋和南宋合并计算国祚319年。<a href="http://www.xixik.com/content/a7c954e77f5343d9">1127年靖康之难，宋徽钦二帝被掳走后</a>，徽宗第九子康王<a href="http://www.xixik.com/content/047977cd0cefdafc">赵构就在南京应天府（今河南商丘）称帝登基</a>，史称宋高宗。高宗指的是守成令主的帝王，从其谥号“受命中兴全功至德圣神武文昭仁宪孝皇帝”即可知道，后世仅把他看做中兴宋朝的帝王。记载宋朝历史的史书也仅有《宋史》一书。南宋的法定首都依然是东京开封，<a href="http://www.xixik.com/content/f818dec7cb51e00e" title="南宋法定都城仍是东京 临安只是行在">临安也就是杭州仅仅是行在（行都）而已</a>。</p>
+<p style="text-indent: 2em;">
+	<strong><a href="http://www.xixik.com/content/6cff6fd5f491e6b6">中国朝代为什么大多持续两百多年，不会超过三百年？</a></strong></p>
+<p style="text-indent: 2em;">
+	因此自秦朝第一个统一中国起2000多年的历史长河中，中国大小封建王朝虽然多达100多个，国祚超过300年的仅有一个——宋朝（国祚319年），宋朝是中国历史上国祚最长的的封建王朝，当然中间也经历的北宋和南宋的变动。强大的<a href="http://114.xixik.com/chaodai/tang/" style="color: #000;" title="唐朝">唐朝</a>，也只有289年，非常有意思的是<a href="http://www.xixik.com/content/710521c12ee76289" style="text-indent: 2em;">汉朝刘秀</a>的先祖刘发的母亲，康王赵构的母亲都是低微的宫女，都因为皇帝酒后唯一一次临幸生下了他们，<a href="http://www.xixik.com/content/4fa7c92a13ccab01" style="text-indent: 2em;" title="刘秀和赵构的出生都是酒后意外 却由他们延续国祚">由此让他们的后代延续了国祚</a>。</p>
+<p style="TEXT-INDENT:2em">
+	那么中国大一统的<a href="http://114.xixik.com/chaodai/" style="color:#000" title="历史朝代顺序表">朝代</a>在持续时间上鲜有超过三百年的，是什么原因造成中国<a href="http://114.xixik.com/chaodai/" style="color:#000" title="历史朝代顺序表">朝代</a>大多持续两百多年？</p>
+<p style="TEXT-INDENT:2em">
+	<strong>中国王朝的覆灭基本上有三种模式</strong></p>
+<p style="TEXT-INDENT:2em">
+	第一种可称作“制度崩溃”，就是体制内的人叛乱或者相互冲突导致国家灭亡。比如西汉的汉元帝声色犬马，整个统治系统失能，最后被王家篡权。这个类别的有，秦、西汉、东汉、西晋、<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>、隋、唐。</p>
+<p style="TEXT-INDENT:2em">
+	第二种可称作“寿终正寝”，王朝延续到一定时期，民乱四起，军队四处奔袭。虽然国家制度本身没有致命缺陷，最后却因为长期镇压而耗尽军力，国家覆亡。</p>
+<p style="TEXT-INDENT:2em">
+	与制度崩溃相比，寿终正寝模式的主要作乱者是体制外的人员。<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>基本就是这种模式（如果不是民乱四起消耗了<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>的国力和军队，满清也没什么希望）。</p>
+<p style="TEXT-INDENT:2em">
+	第三种可称作“外敌入侵”，时运不济，被人灭掉了。这基本就是南宋和北宋。</p>
+<p style="TEXT-INDENT:2em">
+	元朝有点第一种和第二种综合的意味，但我觉得基本可以归咎于其制度实在太差。<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>灭亡的原因太特殊，不在此处讲解。</p>
+<p style="TEXT-INDENT:2em">
+	朝代寿命跟人口繁衍、土地兼并、经济崩溃、党争激烈、篡位频繁、矛盾激化、分裂盛行有关。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/chinese-dynasties/xixik-6ef8b7fe3a7fbd3c.jpg" style="margin: 10px; float: right; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	除却气候灾变和人地矛盾这种历史不可抗因素外，王朝寿命一看经济周期二看体制，体制从宋来看，立国之初宋太祖作为武夫陈桥兵变，宋太宗得位不正于是选择与士大夫共天下，不与武夫共治，于是以文统武，一群人把精力用到政治倾轧上，软实力发达却没了硬实力。现代国家不是不会灭亡，从东欧到中东，从南美到非洲，无论技术怎么发展，无论时代如何，只要社会不健康，族群生存无法保障，社会自然崩溃，重新归于混乱，消灭掉破坏上一个秩序的因素，等待下一个秩序重建。国家犹如修修补补的衣服，建国底子就确定了，之后就一直在变旧变腐朽，腐朽的是所有人，失去开拓斗志的也是所有人。生于忧患，死于安乐，这是真的。</p>
+<p style="TEXT-INDENT:2em">
+	因此中国主要<a href="http://114.xixik.com/chaodai/" style="color:#000" title="历史朝代顺序表">朝代</a>灭亡的主要原因，压倒性多数的，是制度本身的崩溃。体制内人员站出来谋权篡位，或者由于体制人员的武力冲突而导致国力衰微，最终灭亡。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>各<a href="http://114.xixik.com/chaodai/" style="color:#000" title="历史朝代顺序表">朝代</a>都是怎么灭亡的？</strong></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/qin/" style="color:#000" title="秦朝">秦朝</a>灭亡时，人口并未到达土地承载极限，秦始皇的暴政引发了民怨四起，再加上胡亥、赵高胡整，把王朝早早断送了。</p>
+<p style="TEXT-INDENT:2em">
+	西汉，<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>声色犬马，不理朝政，被外戚把持，灭亡。</p>
+<p style="TEXT-INDENT:2em">
+	东汉，外戚与宦官相争，最后军头趁机篡权，最后各地军阀割据，<a href="http://114.xixik.com/chaodai/han/" style="color:#000" title="汉朝">汉朝</a>灭亡。</p>
+<p style="TEXT-INDENT:2em">
+	西晋，八王之乱，国灭。<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>，桓玄/刘裕篡位，国灭。</p>
+<p style="TEXT-INDENT:2em">
+	隋，隋炀帝翻下很多巨大政治错误，杨玄感与权贵子弟纷纷叛乱，李渊等权贵起兵，宇文化及等兵变，国灭。</p>
+<p style="TEXT-INDENT:2em">
+	唐，节度使制度失去控制，自安禄山起，整个体制走向崩溃已不可避免。</p>
+<p style="TEXT-INDENT:2em">
+	从上述案例大家可以看出来，各王朝灭亡主要可以细分为三种原因：1、<a href="http://114.xixik.com/chinese-emperors/" style="color:#000;" title="中国皇帝列表">皇帝</a>自己胡整，国家完蛋了。2、权力制衡失败，各方文斗变武斗，国家崩溃。3、军力制衡失败，军头叛乱，国家崩溃。</p>
+<p style="TEXT-INDENT:2em">
+	实际上在古代，每个<a href="http://114.xixik.com/chaodai/" style="color:#000" title="历史朝代顺序表">朝代</a>在前一代的基础上都进行了改良。两汉以后，官员选拔从随意性比较大的察举制改为九品中正制，然后再进化到领先世界的科举制度。政府结构，从<a href="http://114.xixik.com/chaodai/qin/" style="color:#000" title="秦朝">秦朝</a>脆弱的专权结构演化到后来<a href="http://www.xixik.com/content/50ba3f7cba1e6c53" title="三省六部制的意义和特点">分权制衡的三省六部制</a>。<a href="http://114.xixik.com/chaodai/song/" style="color:#000;" title="宋朝">宋朝</a>时，文官政府对军队的控制能力已经超过了<a href="http://114.xixik.com/chaodai/tang/" style="color:#000;" title="唐朝">唐朝</a>。此后的<a href="http://114.xixik.com/chaodai/ming/" style="color:#000;" title="明朝">明朝</a>和<a href="http://114.xixik.com/chaodai/qing/" style="color:#000;" title="清朝">清朝</a>由于皇权的加强，基本都没有发生过过去那种体制内重要将领带兵叛乱的问题。对<a href="http://114.xixik.com/chinese-emperors/" style="color:#000;" title="中国皇帝列表">皇帝</a>权力的制约，也一直在向前发展。在西汉时期，<a href="http://114.xixik.com/chinese-emperors/" style="color:#000;" title="中国皇帝列表">皇帝</a>不理朝政可以导致天下大乱。到<a href="http://114.xixik.com/chaodai/ming/" style="color:#000;" title="明朝">明朝</a>时，文官已经开始不欢迎<a href="http://114.xixik.com/chinese-emperors/" style="color:#000;" title="中国皇帝列表">皇帝</a>打理朝政了。<a href="http://114.xixik.com/chinese-emperors/" style="color:#000;" title="中国皇帝列表">皇帝</a>自己玩自己的，玩一辈子，对朝政都没有太大影响，比如万历皇帝28年不上朝。<a href="http://114.xixik.com/chinese-emperors/" style="color:#000;" title="中国皇帝列表">皇帝</a>的意志，已经越来越难以对抗文官政府的意志了。可以说当时已经逐步在向“虚君共和制”方向发展。所以，从这一路看来，中国古代的政治也是在不断地发展，不断寻求诸多政治问题的解决方案。</p>
+<p style="TEXT-INDENT:2em">
+	因此，两汉都是200年就灭亡，两晋和隋处在激变之中，几十年就完蛋了。唐朝坚持了近三百来年才完蛋，<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="宋朝">宋朝</a>是被外敌干掉的，这在<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>上大一统王朝中极度罕见。而<a href="http://114.xixik.com/chaodai/ming/" style="color:#000;" title="明朝">明朝</a>已经明显解决了唐代的制度问题，国防也做得不错，只是运气实在太差，碰上小冰川期，连年灾荒，民乱四起，这才提前寿终正寝。如果不是小冰川期，<a href="http://114.xixik.com/chaodai/ming/" style="color:#000;" title="明朝">明朝</a>寿命超过<a href="http://114.xixik.com/chaodai/tang/" style="color:#000;" title="唐朝">唐朝</a>实在不成问题。尤其是在明末，土豆和玉米已经在中国开始种植，这两种作物大大提高了土地所能承载的人口极限。如果没有小冰川期，恐怕<a href="http://114.xixik.com/chaodai/ming/" style="color:#000;" title="明朝">明朝</a>再延续一两百年都不是问题，说不定直接推动中国进入资本主义时代了。</p>
+<p style="TEXT-INDENT:2em">
+	各个王朝的终结原因各有不同，不可一概而论。总的来说，由于制度的演进，他们的生命力都是逐渐增长的。<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="宋朝">宋朝</a>、<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>主要原因并不是由于制度或者经济，而是一些难以控制的外部因素。看待中国皇朝的寿命，不能简单归结到一两个要素。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor7"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        中国历史年代简表英文版</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="font-family:arial; text-align: left; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<td colspan="8" style="text-align: center;">
+				<strong>A Brief Chinese Chronology<br />
+				中国历史年代简表</strong></td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<th colspan="3">
+				<strong>朝代中文名</strong></th>
+			<th>
+				<strong>朝代英文名</strong></th>
+			<th>
+				<strong>起讫年代</strong></th>
+			<th>
+				<strong>国祚</strong></th>
+			<th>
+				<strong>备注</strong></th>
+			<th>
+				-</th>
+		</tr>
+		<tr>
+			<td colspan="3">
+				夏</td>
+			<td>
+				Xia Dynasty</td>
+			<td>
+				C.2100－C.1600 B.C.</td>
+			<td>
+				500</td>
+			<td>
+				备注</td>
+			<td>
+				-</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="3">
+				商</td>
+			<td>
+				Shang Dynasty</td>
+			<td>
+				C.1600－C.1100 B.C.</td>
+			<td>
+				500</td>
+			<td>
+				备注</td>
+			<td>
+				-</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				周</td>
+			<td>
+				Zhou Dynasty</td>
+			<td>
+				&#160;</td>
+			<td>
+				879</td>
+			<td>
+				备注</td>
+			<td>
+				-</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="3">
+				—西周</td>
+			<td>
+				Western Zhou Dynasty</td>
+			<td>
+				C.1100－771 B.C.</td>
+			<td>
+				329</td>
+			<td>
+				备注</td>
+			<td>
+				-</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				—东周</td>
+			<td>
+				Eastern Zhou dynasty</td>
+			<td>
+				770－256 B.C.</td>
+			<td>
+				514</td>
+			<td>
+				备注</td>
+			<td>
+				-</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="3">
+				——春秋</td>
+			<td>
+				Spring and Autumn period</td>
+			<td>
+				770－476 B.C.</td>
+			<td>
+				294</td>
+			<td>
+				备注</td>
+			<td>
+				-</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				——战国</td>
+			<td>
+				Warring States</td>
+			<td>
+				475－221 B.C.</td>
+			<td>
+				254</td>
+			<td>
+				备注</td>
+			<td>
+				-</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="3">
+				<a href="http://114.xixik.com/chaodai/qin/" style="color:#000" title="秦朝">秦朝</a></td>
+			<td>
+				Qin Dynasty&#160;</td>
+			<td>
+				221－206 B.C.</td>
+			<td>
+				15</td>
+			<td>
+				备注</td>
+			<td>
+				-</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				<a href="http://114.xixik.com/chaodai/han/" style="color:#000" title="汉朝">汉朝</a></td>
+			<td>
+				Han Dynasty</td>
+			<td>
+				206 B.C.－220 A.D.</td>
+			<td>
+				425</td>
+			<td>
+				备注</td>
+			<td>
+				-</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="3">
+				－西汉</td>
+			<td>
+				Western Han</td>
+			<td>
+				206 B.C.－24 A.D.</td>
+			<td>
+				230</td>
+			<td>
+				备注</td>
+			<td>
+				-</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				—东汉</td>
+			<td>
+				Eastern Han</td>
+			<td>
+				25－220 A.D.</td>
+			<td>
+				195</td>
+			<td>
+				备注</td>
+			<td>
+				-</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="3">
+				<a href="http://114.xixik.com/chaodai/sanguo/" style="color:#000" title="三国">三国</a></td>
+			<td>
+				Three Kingdoms</td>
+			<td>
+				220－280</td>
+			<td>
+				&#160;</td>
+			<td>
+				备注</td>
+			<td>
+				-</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				－魏</td>
+			<td>
+				Wei</td>
+			<td>
+				220－265</td>
+			<td>
+				45</td>
+			<td>
+				备注</td>
+			<td>
+				-</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="3">
+				－蜀汉</td>
+			<td>
+				Shu Han</td>
+			<td>
+				221－263</td>
+			<td>
+				42</td>
+			<td>
+				备注</td>
+			<td>
+				-</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				－吴</td>
+			<td>
+				Wu</td>
+			<td>
+				222－280</td>
+			<td>
+				58</td>
+			<td>
+				备注</td>
+			<td>
+				-</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="3">
+				<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="西晋">西晋</a></td>
+			<td>
+				Western Jin Dynasty</td>
+			<td>
+				265－316</td>
+			<td>
+				51</td>
+			<td>
+				备注</td>
+			<td>
+				-</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				东晋</td>
+			<td>
+				Eastern Jin Dynasty</td>
+			<td>
+				317－420</td>
+			<td>
+				103</td>
+			<td>
+				备注</td>
+			<td>
+				-</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="3">
+				南北朝</td>
+			<td>
+				Northern and Southern Dynasty</td>
+			<td>
+				&#160;</td>
+			<td>
+				161/195</td>
+			<td>
+				备注</td>
+			<td>
+				-</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				－南朝</td>
+			<td>
+				Southern Dynasty</td>
+			<td>
+				&#160;</td>
+			<td>
+				169</td>
+			<td>
+				备注</td>
+			<td>
+				-</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="3">
+				－－宋</td>
+			<td>
+				Song</td>
+			<td>
+				420－479</td>
+			<td>
+				59</td>
+			<td>
+				&#160;</td>
+			<td>
+				-</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				－－齐</td>
+			<td>
+				Qi&#160;</td>
+			<td>
+				479－502</td>
+			<td>
+				23</td>
+			<td>
+				&#160;</td>
+			<td>
+				-</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="3">
+				－－梁</td>
+			<td>
+				Liang</td>
+			<td>
+				502－557</td>
+			<td>
+				55</td>
+			<td>
+				&#160;</td>
+			<td>
+				-</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				－－陈</td>
+			<td>
+				Chen</td>
+			<td>
+				557－589</td>
+			<td>
+				32</td>
+			<td>
+				&#160;</td>
+			<td>
+				-</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="3">
+				－北朝</td>
+			<td>
+				Northern Dynasty</td>
+			<td>
+				&#160;</td>
+			<td>
+				195</td>
+			<td>
+				&#160;</td>
+			<td>
+				-</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				－－北魏</td>
+			<td>
+				Northern Wei</td>
+			<td>
+				386－534</td>
+			<td>
+				148</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="3">
+				－－东魏</td>
+			<td>
+				Eastern Wei</td>
+			<td>
+				534－550</td>
+			<td>
+				16</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				－－北齐</td>
+			<td>
+				Northern Qi</td>
+			<td>
+				550－577</td>
+			<td>
+				27</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="3">
+				－－西魏</td>
+			<td>
+				Western Wei</td>
+			<td>
+				535－556</td>
+			<td>
+				21</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				－－北周</td>
+			<td>
+				Northern Zhou</td>
+			<td>
+				557－581</td>
+			<td>
+				24</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="3">
+				<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a></td>
+			<td>
+				Sui Dynasty</td>
+			<td>
+				581－618</td>
+			<td>
+				37</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a></td>
+			<td>
+				Tang Dynasty</td>
+			<td>
+				618－907</td>
+			<td>
+				289</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="3">
+				五代</td>
+			<td>
+				Five Dynasties</td>
+			<td>
+				&#160;</td>
+			<td>
+				53</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				－后梁</td>
+			<td>
+				Later Liang</td>
+			<td>
+				907－923</td>
+			<td>
+				16</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="3">
+				－后唐</td>
+			<td>
+				Later Tang</td>
+			<td>
+				923－936</td>
+			<td>
+				13</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				－后晋</td>
+			<td>
+				Later Jin</td>
+			<td>
+				936－946</td>
+			<td>
+				10</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="3">
+				－后汉</td>
+			<td>
+				Later Han</td>
+			<td>
+				947－950</td>
+			<td>
+				3</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				－后周</td>
+			<td>
+				Later Zhou</td>
+			<td>
+				951－960</td>
+			<td>
+				9</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="3">
+				十国</td>
+			<td>
+				Ten Kingdoms</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				<div>
+					－前蜀</div>
+				<div>
+					－后蜀</div>
+				<div>
+					－南吴</div>
+				<div>
+					－南唐</div>
+				<div>
+					－吴越</div>
+				<div>
+					－闽国</div>
+				<div>
+					－马楚</div>
+				<div>
+					－南汉</div>
+				<div>
+					－南平</div>
+				<div>
+					－北汉</div>
+			</td>
+			<td>
+				Former Shu<br />
+				Later Shu<br />
+				Southern Wu<br />
+				Southern Tang<br />
+				Wu Yue<br />
+				Min<br />
+				Ma Chu<br />
+				Southern Han<br />
+				Southern Ping<br />
+				Northern Han</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="3">
+				<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="宋朝">宋朝</a></td>
+			<td>
+				Song Dynasty&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				319</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				－北宋</td>
+			<td>
+				Northern Song Dynasty</td>
+			<td>
+				960－1127</td>
+			<td>
+				167</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="3">
+				－南宋</td>
+			<td>
+				Southern Song Dynasty</td>
+			<td>
+				1127－1279</td>
+			<td>
+				152</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				辽&#160; &#160; &#160;</td>
+			<td>
+				Liao Dynasty</td>
+			<td>
+				916－1125</td>
+			<td>
+				209</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="3">
+				金</td>
+			<td>
+				Jin Dynasty</td>
+			<td>
+				1115－1234</td>
+			<td>
+				119</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				元朝</td>
+			<td>
+				Yuan Dynasty</td>
+			<td>
+				1271－1368</td>
+			<td>
+				97</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="3">
+				<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a></td>
+			<td>
+				Ming Dynasty</td>
+			<td>
+				1368－1644</td>
+			<td>
+				276</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				<a href="http://114.xixik.com/chaodai/qing/" style="color:#000;" title="清朝">清朝</a></td>
+			<td>
+				Qing Dynasty</td>
+			<td>
+				1644－1911</td>
+			<td>
+				267</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr style="background-color:#efefef;">
+			<td colspan="8">
+				来源：<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000;" title="中国历史朝代顺序表">中国历史朝代顺序表</a>&#160;http://114.xixik.com/chinese-dynasties/</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-indent: 2em;">
+	<strong>Remarks:</strong> C.:Century 世纪、B.C.:Before Christ 公元前、A.D.:Anno Domini 公元</p>
+<p style="text-indent: 2em;">
+	<strong>中国历史朝代英语</strong>怎么说？请参考上面的中国历史朝代英文版（A Brief Chinese&#160;Chronology），涵盖中国主要朝代的英文名称大全。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor8"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        中国简史</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="text-indent: 2em;">
+	<strong style="color: rgb(0, 0, 0); "><a href="http://www.xixik.com/content/bb952426558443e0" style="color: #000;">中国简史（一句话简史）</a></strong><strong style="color: rgb(0, 0, 0); ">作者：嘻嘻网历史组</strong></p>
+<p style="text-indent: 2em;">
+	中国历史悠久，自黄帝部落的姬轩辕（也称公孙轩辕）时期算起约有5000年；从三皇五帝算起约有4600年；自夏朝算起约有近4100年；从中国第一次大统一的中央集权制的秦朝算起约有2240年。中国历经多次政权演变和朝代更迭。</p>
+<p style="text-indent: 2em;">
+	【史前】中国史前时期有<a href="http://www.xixik.com/content/4b5c8207f8fc2952" title="中国古代的三皇五帝究竟是谁？">三皇五帝</a>之说，<a href="http://www.xixik.com/content/d53357d3fb437a68" title="中国、炎黄子孙、华夏、中华民族各有什么区别？">炎黄二帝被尊奉为中华民族的人文始祖</a>。这时期时间的跨度最大，从约170万年前到公元前21世纪。</p>
+<p style="text-indent: 2em;">
+	【夏】<a href="http://www.xixik.com/content/84804b9f647bc185" title="夏朝在中国历史真实存在吗？">传说中的夏朝开始于公元前2070年</a>。夏朝的中心地区，在今河南省西部和山西南部一带，其势力和影响已达到黄河南北，并开始进入奴隶社会。</p>
+<p style="text-indent: 2em;">
+	【商】公元前1600年，商部落的首领成汤建立商朝，之后，商朝国都频繁迁移，至其后裔盘庚迁殷（今安阳）后国都才稳定下来，在殷建都达273年，因此商朝又被后世称为&ldquo;殷&rdquo;或&ldquo;殷商&rdquo;。</p>
+<p style="text-indent: 2em;">
+	【周】公元1046年周部落首领姬发灭掉商朝建立周朝，进一步发展了奴隶制度。公元前770年，平王东迁，定都雒邑，历史上将周朝这段之后的时期称为东周，之前时期称之为西周。周朝行分封制（封邦建国），周王为&ldquo;天下共主&rdquo;。东周时期王室势力衰微，诸侯争霸，又被称为&ldquo;春秋战国&rdquo;时期，三家分晋为分水岭，分为&ldquo;春秋&rdquo;及&ldquo;战国&rdquo;两部分。这一时期被认为是由奴隶社会向封建社会过渡的阶段。春秋战国时期思想学术空前活跃，百家争鸣，涌现出对后世产生深远影响的著名思想家孔孟等。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/custom/section//chinese-dynasties/xixik-ec0e42523323964f.jpg" style="margin: 10px; float: right; width: 400px;" /></p>
+<p style="text-indent: 2em;">
+	【秦】公元前221年，秦始皇嬴政结束了长达250多年诸侯纷争的战国时期，建立了<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>上第一个统一的、中央集权的多<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>封建国家&mdash;&mdash;秦。<a href="http://114.xixik.com/chaodai/qin/" style="color:#000" title="秦朝">秦朝</a>统一了文字，度量衡，货币，建立了郡县制度。由秦奠定的封建国家框架在以后的2000多年中一直被人们延用着。为了抵御北方匈奴，秦朝连接原有北方的长城，<a href="http://www.xixik.com/content/dcc76daf232aee45" title="了解长城的软背景和硬知识">成为今日万里长城的雏形</a>。<a href="http://www.xixik.com/content/db10f6fd9c9a5085" title="唐朝不筑长城 花30年将祸害中原的突厥彻底消灭">然而长城从未成功抵御过北方胡人南下</a>。</p>
+<p style="text-indent: 2em;">
+	【汉】公元前202年，楚汉相争获胜的刘邦建立汉朝，定都长安。为了区别于25年刘秀重建于洛阳的汉，历史上把汉朝分为西汉和东汉。西汉的汉文帝、汉景帝推行休养生息国策开创&ldquo;文景之治&rdquo;；汉武帝时期，四面出击，而且战绩辉煌，<a href="http://www.xixik.com/content/017a5476afb7eeb3" target="_blank" title="汉武帝：犯强汉者虽远必诛 治下百姓死亡上千万">虽然标榜犯强汉者虽远必诛，但是治下百姓死亡上千万</a>。派张骞两次出使西域，打开直抵地中海东岸的道路，被称为&ldquo;丝绸之路&rdquo;，中国绚丽的丝织品经此源源西运；至汉宣帝时期国力达到极盛。西汉末年外戚王莽篡汉建立新朝，亡于绿林赤眉起义。刘邦九世孙刘秀趁势而起，<a href="http://www.xixik.com/content/710521c12ee76289" style="text-indent: 2em;" title="开创光武中兴的刘秀太低调">重建汉后开创了&ldquo;光武中兴&rdquo;</a>。东汉豪强地主势力扩张并形成门阀士族，匈奴、羌族、氐族等民族内迁，北匈奴西迁后鲜卑人占据漠北，对后世产生深远影响。随着东西交往的密切，佛教也于公元一世纪时传入中国。</p>
+<p style="text-indent: 2em;">
+	【三国两晋南北朝】184年黄巾起义后，群雄割据纷争，汉室衰微名存实亡。220年，曹丕篡汉建立魏，后进入魏、蜀、吴三国鼎立，使中国由分裂走向局部的统一。曹魏实权旁落司马家，司马炎于公元265年取代曹魏改国号为晋，分封诸王，为<a href="http://www.xixik.com/content/b2b8fce1ec2f6dda" title="从“八王之乱”开始 魏晋南北朝369年的混乱历史">八王之乱</a>埋下祸根。316年，<a href="http://www.xixik.com/content/42a9b2a25b247ac1" title="晋朝是历史上最可悲的王朝 胡乱让汉族差点亡族">晋朝被胡人所灭</a>，史称&ldquo;永嘉之乱&rdquo;，此后胡人纷纷入主中原建立政权&mdash;&mdash;史称&ldquo;<a href="http://114.xixik.com/chaodai/5hu16guo/" title="五胡乱华">五胡乱华</a>&rdquo;（五胡十六国）。317年，晋皇族司马睿于建康重建晋，史称&ldquo;衣冠南渡&rdquo;，历史以此为分界点把晋朝分为西晋，东晋。氐族前秦一度短暂统一与东晋对峙，&ldquo;<a href="http://www.xixik.com/content/8c6969bdd5d51c5e" title="淝水之战">淝水之战</a>&rdquo;后前秦大败北方又陷入混乱。鲜卑人拓跋焘的北魏于439年统一北方，结束将近一百五十年的中原混战局面、534年分裂为东魏、西魏、历经北齐和北周，这五朝合称为北朝，与南方地区相继出现了宋、齐、梁、陈四个朝代合称为南朝对峙，南朝北朝合称南北朝。这是中国历史上的大分裂，也是民族大融合，异族融于中国趋势加强，诸多民族在分立政权的冲突中逐渐汇聚。<a href="http://www.xixik.com/content/b2b8fce1ec2f6dda" title="魏晋南北朝乱世300多年">三国两晋南北朝（时期）是中国一大割据乱世</a>。</p>
+<p style="text-indent: 2em;">
+	【隋唐】581年，<a href="http://www.xixik.com/content/832607a918f0a767">北周外戚杨坚建立隋朝</a>，589年灭陈再次统一中国，<a href="http://www.xixik.com/content/534f98c4ca134e52" title="隋文帝一统天下结束300年乱世 兴科举又废学校">结束了300年的动乱和分治</a>，是中国历史上第二次大统一。隋朝推行科举制选拔优秀人才，弱化世族垄断仕官的现象，<a href="http://www.xixik.com/content/b9f266538ed001ea" title="隋炀帝开挖大运河原因">开凿大运河对后世影响深远</a>，<a href="http://www.xixik.com/content/89a9aa967232aba2" title="隋朝二世而亡">隋朝二世而亡</a>。618年，<a href="http://www.xixik.com/content/d7605196314fc5e5" title="杨隋李唐皇室其实是一家人：表亲间的皇位游戏">李渊建立的唐朝</a>实行一系列开明的政策，其子李世民的&ldquo;贞观之治&rdquo;更是把中国封建时期的繁荣昌盛推向了顶峰：发达的农业、手工业和商业，纺织、染色、陶瓷、冶炼、造船等技术也都有了进一步的发展，全国水陆交通纵横交错。唐朝中期以后的繁荣，主要表现在工商业的兴盛上。七世纪六十年代，中国的力量不仅在塔里木盆地、准噶尔盆地、伊犁河流域牢牢扎根，甚至扩展到中亚的许多城邦。<a href="http://www.xixik.com/content/b8627e4912b4a32d" style="text-indent: 2em;" target="_blank" title="今天中国之疆域 我们祖先们如何一点点开拓的？">今天中国之疆域 我们祖先们如何一点点开拓的？</a><a href="http://114.xixik.com/chaodai/tang/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="唐朝">唐朝</a>与阿拉伯帝国是当时世界上最强盛的帝国，声誉远扬海外，与亚欧国家均有往来。<a href="http://114.xixik.com/chaodai/tang/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="唐朝">唐朝</a>以后海外多称中国人为唐人，固华人聚居的地方称之为&ldquo;唐人街&rdquo;。</p>
+<p style="text-indent: 2em;">
+	【五代十国】唐亡后，经历了<a href="http://114.xixik.com/chaodai/5dai10guo/" style="color:#000" title="五代十国">五代十国</a>，是中国一段大分裂时期。依次定都于中原地区的五个朝代，后梁、后唐、后晋、后汉和后周更替，合成五代，中原外存在许多割据政权，其中前蜀、后蜀、南吴、南唐、吴越、闽、楚、南汉、南平（荆南）、北汉被《新五代史》及后世史学家统称十国。公元960年，后周大将赵匡胤发动陈桥兵变建立了<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="宋朝">宋朝</a>，史称&ldquo;北宋&rdquo;，<a href="http://www.xixik.com/content/34d4fe90ea24353d" title="宋辽金夏：辽、金、西夏与宋同处一个时期对峙">与辽、金、西夏等政权并立</a>，战争经济交往密切。公元1127年金兵南下北宋汴京陷落，<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="北宋">北宋</a>覆灭，史称&ldquo;靖康之变&rdquo;。<a href="http://www.xixik.com/content/8a16b334a53145e7" title="中兴皇帝赵构不思进取，一生都在逃难和妥协！">赵构在南方重建宋政权</a>，史称&ldquo;<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="南宋">南宋</a>&rdquo;，将北方先进的经济、文化推广到南方。<a href="http://www.xixik.com/content/5042bc526f895b0d" style="text-indent: 2em;">宋代天文、科技以及印刷术均居世界前列</a>。</p>
+<p style="text-indent: 2em;">
+	【蒙元】1206年，蒙古族铁木真建立蒙古汗国四处征战入侵华夏，先后灭掉西夏、西辽、金国、花剌子模沙朝等国，其孙子忽必烈1271年入主中原，建立<a href="http://114.xixik.com/chaodai/yuan/" style="color:#000" title="元朝">元朝</a>（1271&mdash;1368年），定都大都（今北京）。后在1279年崖山海战攻灭南宋统一中国，<a href="http://www.xixik.com/content/0aef3bc38cb92db5" title="元朝还是蒙古帝国 是中国朝代还是中国的亡国史">中国第二次被异族灭国</a>。元政权实现了包括新疆、西藏及云南地区在内的全国大统一。<a href="http://www.xixik.com/content/e05d0a6ce8724fae" target="_blank" title="漫画说历史之元朝：武力强国为何如此不堪一击">漫画说历史之元朝：武力强国为何如此不堪一击</a></p>
+<p style="text-indent: 2em;">
+	【明】元末民不聊生，爆发红巾起义，朱元璋加入郭子兴队伍。1368年，<a href="http://www.xixik.com/content/6623306db59b6aef">朱元璋在南京建立了明朝</a>（1368&mdash;1644年）。<a href="http://www.xixik.com/content/e67db4b362ad2381" title="靖难之役：朱棣10万大军难破济南城的前后始末">朱棣靖难之役后登基</a>，大规模营建北京城池和宫殿，并于1421年正式迁都北京。1405年至1433年，他派太监郑和率领庞大的船队进行了七次规模巨大的海上远航，途经东南亚各国、印度洋、波斯湾、马尔代夫群岛，最远到达非洲东海岸的索马里和肯尼亚，是哥伦布时代以前世界上规模最大、航程最远的海上探险，但是除了扬国威，并未留下寸土。明代手工业和商品经济繁荣，出现商业集镇和资本主义萌芽，文化艺术呈现世俗化趋势。</p>
+<p style="text-indent: 2em;">
+	【满清】<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>后期，中国东北部的女真族迅速崛起建立金，后改为清。<a href="http://www.xixik.com/content/ab192941f3209875" title="业的米脂驿卒 闯王李自成四十二天“皇帝梦”">1644年农民军李自成攻入北京</a>，<a href="http://www.xixik.com/content/de8d0024aebcb0a7" title="同为“亡国之君”，崇祯皇帝凭啥不招恨甚至有同情">崇祯帝自缢殉国</a>，明朝覆灭。满清入关定都北京取代<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>，这是中国第三次被异族灭国。<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>康熙年间统一了台湾，<a href="http://www.xixik.com/content/3fc7eb4df8e7b4cf" title="尼布楚条约是平等条约，却是失地条约">签订不平等割地条约暂时遏止了沙俄的入侵</a>，同时加强对西藏的管辖。十九世纪初，清朝迅速衰败。英国在这一时期向中国大量输入鸦片，清政府力图查禁鸦片。英国为保护鸦片贸易，于1840年对中国发动侵略战争，清政府最后同英国政府签订《南京条约》确保自由通商。鸦片战争之后，英、美、法、俄、日等国家不断强迫清政府签订各种不平等条约。自此，中国逐渐沦为半殖民地半封建社会。</p>
+<p style="text-indent: 2em;">
+	【民国】1911年辛亥革命爆发，1912年成立&ldquo;中华民国&rdquo;简称&ldquo;中国&rdquo;（<a href="http://www.xixik.com/content/2d962d6f8056b195" target="_blank" title="中国是什么时候开始叫“中国”这个名字的？">中国是什么时候开始叫&ldquo;中国&rdquo;这个名字的？</a>）。同时也<a href="http://www.xixik.com/content/6fd3be3f2189c843">结束了延续2000多年的皇权统治（封建君主制）</a>。<a href="http://www.xixik.com/content/8b5f0e7c355ace66" title="本来是伟人国父 可是贪恋皇帝梦毁了袁世凯英明">袁世凯曾经改国号为&ldquo;中华帝国&rdquo;</a>，总共做了83天<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，很快死于民众的唾骂，从此中国不再有<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>了，但是无形的帝王思想却存在民众心中。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+    </div>
+    <script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        var value = '39';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script>
+    <div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/chinese-dynasties/" target="_self" title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a></div>
+    <ul style="width: 960px; margin: auto; overflow: hidden;">
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/lixi/"
+                title="人民币存款利率表，2019银行利息，银行存款利率，银行贷款利率">银行存款利息</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chaodai/zhou/"
+                title="周朝历史_西周历史_东周历史_周朝帝王列表">周朝历史</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证更换新政策_过期了该怎么办？">中国旅行证</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国历任总统名单_美国总统简历生卒年份及所属党派">美国历任总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/baijiaxing-qq/"
+                title="百家姓qq头像,百家姓qq头像闪图大全_百家姓中国心qq头像">百家姓QQ头像</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="美宝证件_美宝需要哪些证件（美国出生纸_中国旅行证_美国护照_社会安全号_出生纸三级认证）">美宝需要哪些证件？</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_去美国生孩子费用预算清单2019">赴美生子要多少钱</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/obama/"
+                title="奥巴马_美国总统奥巴马_贝拉克·奥巴马(Barack Hussein Obama)_第44任美国总统">奥巴马</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/trump/"
+                title="美国总统特朗普_唐纳德·约翰·特朗普_Donald John Trump_第45任美国总统川普">特朗普</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_去美国生孩子要多少钱？">赴美生子费用</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 中国护照免签证国家2019">中国护照免签证</a> </li>
+        
+    </ul>
+
+    <div class="lindBox">
+        <div class="btnGray">
+            <div class="btnText">
+                <a target="_self" title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表" href="http://news.xixik.com/word/39/">另存为<br />
+                    Word格式</a>
+            </div>
+        </div>
+    </div>
+    <div class="lindBox" style="text-align: center;">
+        <img src="http://news.xixik.com/qrcode/39/" alt="扫码手机上继续看" /><br />
+        <br />
+        <strong>用微信或者支付宝扫码在手机上继续观看<br />
+            可以保存收藏，也扫码后可以分享给好友
+        </strong>
+    </div>
+    <hr style="height: 1px; border: none; border-top: 1px dashed #999;" />
+    <script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script>
+<!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.-->
+
+</body></html>

@@ -1,0 +1,4167 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <title>美国历任总统名单_美国总统简历生卒年份及所属党派</title>
+    <link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" />
+    <meta name="description" content="美国历任总统名单一览表及就职情况,美国历届总统排名,简历,所属党派,信仰的宗教,任期,年龄等.美国总统(The President of the United States of America)是美利坚合众国的国家元首和政府首脑,三军统帅." />
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/us-president/">
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <base target="_blank" />
+    
+    <script>
+        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "us-president/";
+        }
+
+
+    </script>
+    <style>
+        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style>
+</head>
+<body>
+    <a name="top4"></a>
+    <div class="topBox" name="top">
+        <div class="topMain">
+            <div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div>
+            <div id="icoPhone"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div>
+            <div id="icoWechat"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a> </div>
+            <div id="icoSina"></div>
+            <div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a>  </div>
+            <div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div>
+            <div class="topRight">
+            </div>
+        </div>
+    </div>
+
+    <div id="showqrCode">
+        <div><span></span></div>
+        <img src="" /><div><span></span></div>
+    </div>
+    <script type="text/javascript">
+        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script>
+    <div class="body">
+        
+        <div class="lindBox" style="position: relative;">
+            <img src="http://img.xixik.net/custom/topic/001/us-president.jpg" alt="美国历任总统名单_美国总统简历生卒年份及所属党派" />
+            <div class="title">
+                <h1>美国历任总统名单_美国总统简历生卒年份及所属党派</h1>
+            </div>
+        </div>
+        
+
+        <div class=" custom_border lindBox">
+            <div class="special_content">
+                <div class="content_text">
+                    <div class="content_daodu">
+                    </div>
+                    <h2 style="border-bottom:1px dashed #999; displayinline;">美国历任总统名单</h2>
+                    <p>
+	<strong><a href="http://114.xixik.com/us-president/" style="color:#000;" title="美国历届总统名单">美国历届总统名单</a></strong>顺序及<a href="http://114.xixik.com/us-president/ranking/" style="color:#000;" title="美国历任总统历史排名">美国历任总统历史排名</a>、<a href="http://114.xixik.com/us-president/greatest/" style="color:#000;" title="美国最伟大的总统">美国最伟大的总统</a>、<a href="http://114.xixik.com/us-president/resume/" style="color:#000;" title="美国总统简历">美国总统简历</a>、所属党派、信仰宗教。<a href="http://114.xixik.com/usa-president/" style="color: rgb(0, 0, 0);" title="美国历届总统">美国总统</a>(President of the United States of America，缩写<a href="http://114.xixik.com/potus/" style="font-family: arial; font-weight: bold;" title="美国历任总统名单">POTUS</a>)是美利坚合众国的国家元首、政府首脑与三军统帅。截止第45任总统<a href="http://114.xixik.com/us-president/trump/" style="color:#000;" title="美国总统特朗普">唐纳德&middot;特朗普</a>，迄今已有44人担任过总统职务。</p>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="lindBox" style="overflow: hidden;">
+            <div class="gg1">
+                <a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a>
+            </div>
+            <div class="guide">
+                <div class="guideBorder" id="guideBorder">
+                    <div class="guideTitle">导读（目录）</div>
+                    <ul id="guideDisplay">
+                        
+                                <li>·<a title="美国历任总统名单" href="#anchor1" target="_self"> 美国历任总统名单</a></li>
+                            
+                                <li>·<a title="美国总统选举制度" href="#anchor2" target="_self"> 美国总统选举制度</a></li>
+                            
+                                <li>·<a title="美国总统选举中的届、任、位" href="#anchor3" target="_self"> 美国总统选举中的届、任、位</a></li>
+                            
+                                <li>·<a title="美国总统“之最”" href="#anchor4" target="_self"> 美国总统“之最”</a></li>
+                            
+                                <li>·<a title="美国总统轶事" href="#anchor5" target="_self"> 美国总统轶事</a></li>
+                            
+                                <li>·<a title="美国历任总统简历" href="#anchor6" target="_self"> 美国历任总统简历</a></li>
+                            
+                                <li>·<a title="美国总统上任时的年龄" href="#anchor7" target="_self"> 美国总统上任时的年龄</a></li>
+                            
+                                <li>·<a title="美国总统宣誓就职仪式" href="#anchor8" target="_self"> 美国总统宣誓就职仪式</a></li>
+                            
+                    </ul>
+                    <div class="guideOpen">展开&darr;</div>
+                </div>
+            </div>
+
+            <div class="guideFllow">
+                <div class="guideFllowBorder">
+                    <div class="guideFllowTitle">导读（目录）</div>
+                    <ul id="guideFllowDisplay">
+                        
+                                <li>·<a title="美国历任总统名单" href="#anchor1" target="_self"> 美国历任总统名单</a></li>
+                            
+                                <li>·<a title="美国总统选举制度" href="#anchor2" target="_self"> 美国总统选举制度</a></li>
+                            
+                                <li>·<a title="美国总统选举中的届、任、位" href="#anchor3" target="_self"> 美国总统选举中的届、任、位</a></li>
+                            
+                                <li>·<a title="美国总统“之最”" href="#anchor4" target="_self"> 美国总统“之最”</a></li>
+                            
+                                <li>·<a title="美国总统轶事" href="#anchor5" target="_self"> 美国总统轶事</a></li>
+                            
+                                <li>·<a title="美国历任总统简历" href="#anchor6" target="_self"> 美国历任总统简历</a></li>
+                            
+                                <li>·<a title="美国总统上任时的年龄" href="#anchor7" target="_self"> 美国总统上任时的年龄</a></li>
+                            
+                                <li>·<a title="美国总统宣誓就职仪式" href="#anchor8" target="_self"> 美国总统宣誓就职仪式</a></li>
+                            
+                    </ul>
+                    <div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div>
+                </div>
+            </div>
+
+
+            <div class="gg2">
+                <a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a>
+            </div>
+        </div>
+        
+        <a name="anchor1"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        美国历任总统名单</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p>
+	<style type="text/css">
+table tr:hover{background-color: #f5f5f5;}
+.gop{background-color: #FEDCDE;}
+.dnc{background-color: #D2E7FD;}	</style>
+</p>
+<p style="text-align:center;">
+	<strong><a href="http://114.xixik.com/us-president/" style="color:#000; text-decoration:none;">美国历任总统名单，美国历届总统任期、美国总统生卒年份及所属党派</a></strong></p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<th>
+				任数</th>
+			<th>
+				届数</th>
+			<th>
+				美国总统姓名（英文）</th>
+			<th>
+				美国总统姓名（中文）</th>
+			<th width="140">
+				美国总统出生地</th>
+			<th width="60">
+				任期起止</th>
+			<th width="60">
+				生卒年份</th>
+			<th width="50">
+				党派</th>
+			<th width="60">
+				宗教</th>
+		</tr>
+		<tr>
+			<td>
+				1</td>
+			<td>
+				1、2</td>
+			<td>
+				George Washington</td>
+			<td>
+				乔治&middot;华盛顿</td>
+			<td>
+				弗吉尼亚州威斯特摩兰县</td>
+			<td>
+				1789 - 1797</td>
+			<td>
+				1732 - 1799</td>
+			<td>
+				无</td>
+			<td>
+				圣公会</td>
+		</tr>
+		<tr>
+			<td>
+				2</td>
+			<td>
+				3</td>
+			<td>
+				John Adams</td>
+			<td>
+				约翰&middot;亚当斯</td>
+			<td>
+				马萨诸塞州布伦特里</td>
+			<td>
+				1797 - 1801</td>
+			<td>
+				1735 - 1826</td>
+			<td>
+				联邦党</td>
+			<td>
+				唯一神教派</td>
+		</tr>
+		<tr>
+			<td>
+				3</td>
+			<td>
+				4、5</td>
+			<td>
+				Thomas Jefferson</td>
+			<td>
+				托马斯&middot;杰斐逊</td>
+			<td>
+				弗吉尼亚州沙德维尔</td>
+			<td>
+				1801 - 1809</td>
+			<td>
+				1743 - 1826</td>
+			<td>
+				民主共和党</td>
+			<td>
+				无</td>
+		</tr>
+		<tr>
+			<td>
+				4</td>
+			<td>
+				6、7</td>
+			<td>
+				James Madison</td>
+			<td>
+				詹姆斯&middot;麦迪逊</td>
+			<td>
+				弗吉尼亚州康维港</td>
+			<td>
+				1809 - 1817</td>
+			<td>
+				1751 - 1836</td>
+			<td>
+				民主共和党</td>
+			<td>
+				圣公会</td>
+		</tr>
+		<tr>
+			<td>
+				5</td>
+			<td>
+				8、9</td>
+			<td>
+				James Monroe</td>
+			<td>
+				詹姆斯&middot;门罗</td>
+			<td>
+				弗吉尼亚州威斯特摩兰县</td>
+			<td>
+				1817 - 1825</td>
+			<td>
+				1758 - 1831</td>
+			<td>
+				民主共和党</td>
+			<td>
+				圣公会</td>
+		</tr>
+		<tr>
+			<td>
+				6</td>
+			<td>
+				10</td>
+			<td>
+				John Quincy Adams</td>
+			<td>
+				约翰&middot;昆西&middot;亚当斯</td>
+			<td>
+				马萨诸塞州布伦特里</td>
+			<td>
+				1825 - 1829</td>
+			<td>
+				1767 - 1848</td>
+			<td>
+				民主共和党</td>
+			<td>
+				无</td>
+		</tr>
+		<tr class="dnc">
+			<td>
+				7</td>
+			<td>
+				11、12</td>
+			<td>
+				Andrew Jackson</td>
+			<td>
+				安德鲁&middot;杰克逊</td>
+			<td>
+				南卡罗莱那州维克斯豪</td>
+			<td>
+				1829 - 1837</td>
+			<td>
+				1767 - 1845</td>
+			<td>
+				民主共和党</td>
+			<td>
+				长老会</td>
+		</tr>
+		<tr class="dnc">
+			<td>
+				8</td>
+			<td>
+				13</td>
+			<td>
+				Martin Van Buren</td>
+			<td>
+				马丁&middot;范布伦</td>
+			<td>
+				纽约州肯德胡克镇</td>
+			<td>
+				1837 - 1841</td>
+			<td>
+				1782 - 1862</td>
+			<td>
+				民主党</td>
+			<td>
+				归正会</td>
+		</tr>
+		<tr>
+			<td>
+				9</td>
+			<td>
+				14</td>
+			<td>
+				William Henry Harrison</td>
+			<td>
+				威廉&middot;亨利&middot;哈里森</td>
+			<td>
+				弗吉尼亚州查尔斯城县</td>
+			<td>
+				1841 - 1841</td>
+			<td>
+				1773 - 1841</td>
+			<td>
+				辉格党</td>
+			<td>
+				圣公会</td>
+		</tr>
+		<tr>
+			<td>
+				10</td>
+			<td>
+				14</td>
+			<td>
+				John Tyler</td>
+			<td>
+				约翰&middot;泰勒</td>
+			<td>
+				弗吉尼亚州奥伦芝县</td>
+			<td>
+				1841 - 1845</td>
+			<td>
+				1790 - 1862</td>
+			<td>
+				辉格党</td>
+			<td>
+				长老会</td>
+		</tr>
+		<tr class="dnc">
+			<td>
+				11</td>
+			<td>
+				15</td>
+			<td>
+				James Knox Polk</td>
+			<td>
+				詹姆斯&middot;诺克斯&middot;波尔克</td>
+			<td>
+				北卡罗来纳州梅克伦堡县</td>
+			<td>
+				1845 - 1849</td>
+			<td>
+				1795 - 1849</td>
+			<td>
+				民主党</td>
+			<td>
+				圣公会</td>
+		</tr>
+		<tr>
+			<td>
+				12</td>
+			<td>
+				16</td>
+			<td>
+				Zachary Taylor</td>
+			<td>
+				扎卡里&middot;泰勒</td>
+			<td>
+				弗吉尼亚州查尔斯城县</td>
+			<td>
+				1849 - 1850</td>
+			<td>
+				1784 - 1850</td>
+			<td>
+				辉格党</td>
+			<td>
+				圣公会</td>
+		</tr>
+		<tr>
+			<td>
+				13</td>
+			<td>
+				16</td>
+			<td>
+				Millard Fillmore</td>
+			<td>
+				米勒德&middot;菲尔莫尔</td>
+			<td>
+				纽约州卡约加县</td>
+			<td>
+				1850 - 1853</td>
+			<td>
+				1800 - 1874</td>
+			<td>
+				辉格党</td>
+			<td>
+				唯一神教派</td>
+		</tr>
+		<tr class="dnc">
+			<td>
+				14</td>
+			<td>
+				17</td>
+			<td>
+				Franklin Pierce</td>
+			<td>
+				富兰克林&middot;皮尔斯</td>
+			<td>
+				新罕布什尔州西尔布鲁</td>
+			<td>
+				1853 - 1857</td>
+			<td>
+				1804 - 1869</td>
+			<td>
+				民主党</td>
+			<td>
+				圣公会</td>
+		</tr>
+		<tr class="dnc">
+			<td>
+				15</td>
+			<td>
+				18</td>
+			<td>
+				James Buchanan</td>
+			<td>
+				詹姆斯&middot;布坎南</td>
+			<td>
+				宾夕法尼亚州卡沃盖普</td>
+			<td>
+				1857 - 1861</td>
+			<td>
+				1791 - 1868</td>
+			<td>
+				民主党</td>
+			<td>
+				长老会</td>
+		</tr>
+		<tr class="gop">
+			<td>
+				16</td>
+			<td>
+				19、20</td>
+			<td>
+				Abraham Lincoln</td>
+			<td>
+				亚伯拉罕&middot;林肯</td>
+			<td>
+				肯塔基州哈丁县</td>
+			<td>
+				1861 - 1865</td>
+			<td>
+				1809 - 1865</td>
+			<td>
+				共和党</td>
+			<td>
+				无</td>
+		</tr>
+		<tr class="dnc">
+			<td>
+				17</td>
+			<td>
+				20</td>
+			<td>
+				Andrew Johnson</td>
+			<td>
+				安德鲁&middot;约翰逊</td>
+			<td>
+				北卡罗来纳州罗利</td>
+			<td>
+				1865 - 1869</td>
+			<td>
+				1808 - 1875</td>
+			<td>
+				民主党</td>
+			<td>
+				基督宗教（无教派）</td>
+		</tr>
+		<tr class="gop">
+			<td>
+				18</td>
+			<td>
+				21、22</td>
+			<td>
+				Ulysses Simpson Grant</td>
+			<td>
+				尤利西斯&middot;辛普森&middot;格兰特</td>
+			<td>
+				俄亥俄州波因特普莱森特</td>
+			<td>
+				1869 - 1873</td>
+			<td>
+				1822 - 1885</td>
+			<td>
+				共和党</td>
+			<td>
+				循道卫理联合会</td>
+		</tr>
+		<tr class="gop">
+			<td>
+				19</td>
+			<td>
+				23</td>
+			<td>
+				Rutherford Birchard Hayes</td>
+			<td>
+				拉瑟福德&middot;伯查德&middot;海斯</td>
+			<td>
+				俄亥俄州德拉华</td>
+			<td>
+				1877 - 1881</td>
+			<td>
+				1822 - 1893</td>
+			<td>
+				共和党</td>
+			<td>
+				无</td>
+		</tr>
+		<tr class="gop">
+			<td>
+				20</td>
+			<td>
+				24</td>
+			<td>
+				James Abram Garfield</td>
+			<td>
+				詹姆斯&middot;艾伯拉姆&middot;加菲尔德</td>
+			<td>
+				俄亥俄州奥伦芝</td>
+			<td>
+				1881 - 1881</td>
+			<td>
+				1831 - 1881</td>
+			<td>
+				共和党</td>
+			<td>
+				基督会</td>
+		</tr>
+		<tr class="gop">
+			<td>
+				21</td>
+			<td>
+				24</td>
+			<td>
+				Chester Alan Arthur</td>
+			<td>
+				切斯特&middot;艾伦&middot;阿瑟</td>
+			<td>
+				佛蒙特州法尔菲尔德</td>
+			<td>
+				1881 - 1885</td>
+			<td>
+				1829 - 1886</td>
+			<td>
+				共和党</td>
+			<td>
+				圣公会</td>
+		</tr>
+		<tr class="dnc">
+			<td>
+				22</td>
+			<td>
+				25</td>
+			<td>
+				Grover Cleveland</td>
+			<td>
+				格罗弗&middot;克利夫兰</td>
+			<td>
+				新泽西州卡德维尔</td>
+			<td>
+				1885 - 1889</td>
+			<td>
+				1837 - 1908</td>
+			<td>
+				民主党</td>
+			<td>
+				长老会</td>
+		</tr>
+		<tr class="gop">
+			<td>
+				23</td>
+			<td>
+				26</td>
+			<td>
+				Benjamin Harrison</td>
+			<td>
+				本杰明&middot;哈利森</td>
+			<td>
+				俄亥俄州诺斯本德</td>
+			<td>
+				1889 - 1893</td>
+			<td>
+				1833 - 1901</td>
+			<td>
+				共和党</td>
+			<td>
+				长老会</td>
+		</tr>
+		<tr class="dnc">
+			<td>
+				24</td>
+			<td>
+				27</td>
+			<td>
+				Grover Cleveland</td>
+			<td>
+				格罗弗&middot;克利夫兰</td>
+			<td>
+				新泽西州卡德维尔</td>
+			<td>
+				1893 - 1897</td>
+			<td>
+				1837 - 1908</td>
+			<td>
+				民主党</td>
+			<td>
+				长老会</td>
+		</tr>
+		<tr class="gop">
+			<td>
+				25</td>
+			<td>
+				28、29</td>
+			<td>
+				William McKinley</td>
+			<td>
+				威廉&middot;麦金莱（利）</td>
+			<td>
+				俄亥俄州尼尔斯</td>
+			<td>
+				1897 - 1901</td>
+			<td>
+				1843 - 1901</td>
+			<td>
+				共和党</td>
+			<td>
+				循道卫理联合会</td>
+		</tr>
+		<tr class="gop">
+			<td>
+				26</td>
+			<td>
+				29、30</td>
+			<td>
+				Theodore Roosevelt</td>
+			<td>
+				西奥多&middot;罗斯福<br />
+				（狄奥多&middot;罗斯福）</td>
+			<td>
+				纽约州纽约市</td>
+			<td>
+				1901 - 1909</td>
+			<td>
+				1858 - 1919</td>
+			<td>
+				共和党</td>
+			<td>
+				归正会</td>
+		</tr>
+		<tr class="gop">
+			<td>
+				27</td>
+			<td>
+				31</td>
+			<td>
+				William Howard Taft</td>
+			<td>
+				威廉&middot;霍华德&middot;塔夫脱</td>
+			<td>
+				俄亥俄州辛辛纳提</td>
+			<td>
+				1909 - 1913</td>
+			<td>
+				1857 - 1930</td>
+			<td>
+				共和党</td>
+			<td>
+				唯一神教派</td>
+		</tr>
+		<tr class="dnc">
+			<td>
+				28</td>
+			<td>
+				32、33</td>
+			<td>
+				Thomas Woodrow Wilson</td>
+			<td>
+				托马斯&middot;伍德罗&middot;威尔逊</td>
+			<td>
+				弗吉尼亚州斯丹顿</td>
+			<td>
+				1913 - 1921</td>
+			<td>
+				1856 - 1924</td>
+			<td>
+				民主党</td>
+			<td>
+				长老会</td>
+		</tr>
+		<tr class="gop">
+			<td>
+				29</td>
+			<td>
+				34</td>
+			<td>
+				Warren Gamaliel Harding</td>
+			<td>
+				沃伦&middot;盖玛利尔&middot;哈定</td>
+			<td>
+				俄亥俄州柯尔斯卡</td>
+			<td>
+				1921 - 1923</td>
+			<td>
+				1865 - 1923</td>
+			<td>
+				共和党</td>
+			<td>
+				浸信会</td>
+		</tr>
+		<tr class="gop">
+			<td>
+				30</td>
+			<td>
+				34、35</td>
+			<td>
+				John Calvin Coolidge</td>
+			<td>
+				约翰&middot;卡尔文&middot;柯立芝</td>
+			<td>
+				佛蒙特州普利茅斯</td>
+			<td>
+				1923 - 1929</td>
+			<td>
+				1872 - 1933</td>
+			<td>
+				共和党</td>
+			<td>
+				公理会</td>
+		</tr>
+		<tr class="gop">
+			<td>
+				31</td>
+			<td>
+				36</td>
+			<td>
+				Herbert Clark Hoover</td>
+			<td>
+				赫伯特&middot;克拉克&middot;胡佛</td>
+			<td>
+				爱荷华州西布兰奇</td>
+			<td>
+				1929 - 1933</td>
+			<td>
+				1874 - 1964</td>
+			<td>
+				共和党</td>
+			<td>
+				贵格会</td>
+		</tr>
+		<tr class="dnc">
+			<td>
+				32</td>
+			<td>
+				37、38<br />
+				39、40</td>
+			<td>
+				Franklin Delano Roosevelt</td>
+			<td>
+				富兰克林&middot;德拉诺&middot;罗斯福</td>
+			<td>
+				纽约州海德公园镇</td>
+			<td>
+				1933 - 1945</td>
+			<td>
+				1882 - 1945</td>
+			<td>
+				民主党</td>
+			<td>
+				圣公会</td>
+		</tr>
+		<tr class="dnc">
+			<td>
+				33</td>
+			<td>
+				40、41</td>
+			<td>
+				Harry S. Truman</td>
+			<td>
+				哈里&middot;S&middot;杜鲁门</td>
+			<td>
+				密苏里州拉马尔</td>
+			<td>
+				1945 - 1953</td>
+			<td>
+				1884 - 1972</td>
+			<td>
+				民主党</td>
+			<td>
+				浸信会</td>
+		</tr>
+		<tr class="gop">
+			<td>
+				34</td>
+			<td>
+				42、43</td>
+			<td>
+				Dwight David Eisenhower</td>
+			<td>
+				德怀特&middot;戴维&middot;艾森豪威尔</td>
+			<td>
+				德克萨斯州丹尼森</td>
+			<td>
+				1953 - 1961</td>
+			<td>
+				1890 - 1969</td>
+			<td>
+				共和党</td>
+			<td>
+				长老会</td>
+		</tr>
+		<tr class="dnc">
+			<td>
+				35</td>
+			<td>
+				44</td>
+			<td>
+				John Fitzgerald Kennedy</td>
+			<td>
+				约翰&middot;菲茨杰拉德&middot;肯尼迪</td>
+			<td>
+				马萨诸塞州布鲁克莱恩</td>
+			<td>
+				1961 - 1963</td>
+			<td>
+				1917 - 1963</td>
+			<td>
+				民主党</td>
+			<td>
+				天主教</td>
+		</tr>
+		<tr class="dnc">
+			<td>
+				36</td>
+			<td>
+				44、45</td>
+			<td>
+				Lyndon Baines Johnson</td>
+			<td>
+				林登&middot;贝恩斯&middot;约翰逊</td>
+			<td>
+				德克萨斯州斯通沃尔</td>
+			<td>
+				1963 - 1969</td>
+			<td>
+				1908 - 1973</td>
+			<td>
+				民主党</td>
+			<td>
+				基督会</td>
+		</tr>
+		<tr class="gop">
+			<td>
+				37</td>
+			<td>
+				46、47</td>
+			<td>
+				Richard Milhous Nixon</td>
+			<td>
+				理查德&middot;米尔豪斯&middot;尼克松</td>
+			<td>
+				加利福尼亚州约巴林达</td>
+			<td>
+				1969 - 1974</td>
+			<td>
+				1913 - 1994</td>
+			<td>
+				共和党</td>
+			<td>
+				贵格会</td>
+		</tr>
+		<tr class="gop">
+			<td>
+				38</td>
+			<td>
+				47</td>
+			<td>
+				Gerald Rudolph Ford Jr.</td>
+			<td>
+				杰拉尔德&middot;鲁道夫&middot;福特</td>
+			<td>
+				内布拉斯加州奥马哈</td>
+			<td>
+				1974 - 1977</td>
+			<td>
+				1913 - 2006</td>
+			<td>
+				共和党</td>
+			<td>
+				圣公会</td>
+		</tr>
+		<tr class="dnc">
+			<td>
+				39</td>
+			<td>
+				48</td>
+			<td>
+				James（Jimmy）&nbsp;Earl Carter</td>
+			<td>
+				詹姆斯（吉米）&middot;厄尔&middot;卡特</td>
+			<td>
+				佐治亚州普莱恩斯</td>
+			<td>
+				1977 - 1981</td>
+			<td>
+				1924 -</td>
+			<td>
+				民主党</td>
+			<td>
+				浸信会</td>
+		</tr>
+		<tr class="gop">
+			<td>
+				40</td>
+			<td>
+				49、50</td>
+			<td>
+				Ronald Wilson Reagan</td>
+			<td>
+				<a href="http://114.xixik.com/us-president/reagan/" title="美国总统里根">罗纳德&middot;威尔逊&middot;里根</a></td>
+			<td>
+				伊利诺伊州坦皮科</td>
+			<td>
+				1981 - 1989</td>
+			<td>
+				1911&nbsp; -2004</td>
+			<td>
+				共和党</td>
+			<td>
+				基督会</td>
+		</tr>
+		<tr class="gop">
+			<td>
+				41</td>
+			<td>
+				51</td>
+			<td>
+				George Herbert Walker Bush</td>
+			<td>
+				<a href="http://114.xixik.com/us-president/george-h-w-bush/" title="美国总统老布什">乔治&middot;赫伯特&middot;沃克&middot;布什</a><br />
+				（<a href="http://www.xixik.com/content/7381ca6bc120ee7a" title="美国前总统老布什去世">老布什</a>）</td>
+			<td>
+				马萨诸塞州米尔顿</td>
+			<td>
+				1989 - 1993</td>
+			<td>
+				1924 -<br />
+				2018</td>
+			<td>
+				共和党</td>
+			<td>
+				圣公会</td>
+		</tr>
+		<tr class="dnc">
+			<td>
+				42</td>
+			<td>
+				52、53</td>
+			<td>
+				William Jefferson Clinton<br />
+				（Bill Clinton）</td>
+			<td>
+				<a href="http://114.xixik.com/us-president/bill-clinton/">威廉&middot;杰斐逊&middot;克林顿</a><br />
+				（比尔&middot;克林顿）</td>
+			<td>
+				阿肯色州霍普</td>
+			<td>
+				1993 - 2001</td>
+			<td>
+				1946 -</td>
+			<td>
+				民主党</td>
+			<td>
+				浸信会</td>
+		</tr>
+		<tr class="gop">
+			<td>
+				43</td>
+			<td>
+				54、55</td>
+			<td>
+				George Walker Bush</td>
+			<td>
+				<a href="http://114.xixik.com/us-president/george-walker-bush/" title="美国总统小布什">乔治&middot;沃克&middot;布什</a><br />
+				（<a href="http://www.xixik.com/content/4db64528e89b11ed" title="小布什搞笑照片">小布什</a>）</td>
+			<td>
+				康涅狄格州纽黑文</td>
+			<td>
+				2001 - 2009</td>
+			<td>
+				1946 -</td>
+			<td>
+				共和党</td>
+			<td>
+				循道卫理联合会</td>
+		</tr>
+		<tr class="dnc">
+			<td>
+				44</td>
+			<td>
+				56、57</td>
+			<td>
+				Barack Hussein Obama II</td>
+			<td>
+				<a href="http://114.xixik.com/us-president/obama/" title="美国总统奥巴马">贝拉克&middot;侯赛因&middot;奥巴马</a><br />
+				（<a href="http://www.xixik.com/content/037c5b8a9663cb21" title="为什么翻译成奥巴马而不是欧巴马？">巴拉克&middot;侯赛因&middot;欧巴马</a>）</td>
+			<td>
+				夏威夷州火奴鲁鲁</td>
+			<td>
+				2009 - 2017</td>
+			<td>
+				1961 -</td>
+			<td>
+				民主党</td>
+			<td>
+				基督教</td>
+		</tr>
+		<tr class="gop">
+			<td>
+				45</td>
+			<td>
+				58</td>
+			<td>
+				Donald John Trump</td>
+			<td>
+				<a href="http://114.xixik.com/us-president/trump/" title="特朗普">唐纳德&middot;约翰&middot;特朗普</a><br />
+				（<a href="http://www.xixik.com/content/3a2ec0300d4ce112" title="特朗普为什么叫川普？">唐纳德&middot;约翰&middot;川普</a>）</td>
+			<td>
+				纽约州纽约市</td>
+			<td>
+				2017 -</td>
+			<td>
+				1946 -</td>
+			<td>
+				共和党</td>
+			<td>
+				基督教</td>
+		</tr>
+		<tr>
+			<td>
+				<span style="color:#a9a9a9;">46</span></td>
+			<td>
+				<span style="color:#a9a9a9;">59</span></td>
+			<td>
+				<span style="color:#a9a9a9;">Elizabeth Warren ？</span></td>
+			<td>
+				<span style="color:#a9a9a9;">伊丽莎白&middot;沃伦</span></td>
+			<td>
+				<span style="color:#a9a9a9;">俄克拉荷马州俄克拉荷马城</span></td>
+			<td>
+				<span style="color:#a9a9a9;">2021 -&nbsp;</span></td>
+			<td>
+				<span style="color:#a9a9a9;">1949 -</span></td>
+			<td>
+				<span style="color:#a9a9a9;">民主党</span></td>
+			<td>
+				<span style="color:#a9a9a9;">基督教</span></td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://www.xixik.com/content/8c4ef1d8fcd5f325" style="color:#000;" title="美国总统所属党派">美国总统所属党派</a>：</strong>无党籍（1） 联邦党（1） 民主共和党（4） 民主党（16） 辉格党（4） 共和党（19）</p>
+<p style="TEXT-INDENT:2em">
+	数据来源：<a href="http://www.xixik.com/" style="color:#000;">嘻嘻网</a>&nbsp;（<a href="http://114.xixik.com/us-president/" title="美国历任总统名单">美国历任总统名单简介，美国历届总统名单顺序</a>）<a href="http://114.xixik.com/us-president/" title="美国历届总统名单">http://114.xixik.com/us-president/</a>&nbsp;数据更新于&nbsp;12:48 2019/10/04</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor2"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        美国总统选举制度</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="text-align:center;">
+	<a href="http://img.xixik.net/custom/section/us-president/xixik-becbc74f0f236564.png" title="美国总统选举程序"><img src="http://img.xixik.net/custom/topic/xixik_aabdd3c5913b1190.jpg" style="width: 80%; max-width: 90%;" /></a></p>
+<p style="text-align:center;">
+	图：美国选总统的程序</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/us-president/" style="color:#000;" title="美国总统"><strong>美国总统</strong></a>（President of the United States of America，缩写<a href="http://114.xixik.com/potus/" title="历任美国总统名单"><strong>POTUS</strong></a>）是美利坚合众国的国家元首、政府首脑与三军统帅，<a href="http://www.xixik.com/content/264415c4094e4e85" target="_blank" title="全世界权力最高的人：美国总统是个怎样的存在？">是当今世界权力最高的人</a>。<a href="http://114.xixik.com/usa-president/" style="color:#000;" title="美国历届总统">美国总统</a>是根据1787年通过的<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>而设立，行使宪法赋予的行政权。截至2019年3月，美国一共有过44位总统（45任，58届），均为男性（<a href="http://www.xixik.com/content/55ee602e39aafa42" title="2020美国总统大选，美国会出现女性总统吗？">2020美国总统大选，美国会出现女性总统吗</a>？）<a href="http://www.xixik.com/content/8d949a0274610852" title="美国总统族裔">美国45任总统族裔</a>主要为英格兰裔、苏格兰裔、爱尔兰裔6人、荷兰裔3人、德裔3人，第44任总统贝拉克&middot;奥巴马是首位非裔男性。美国总统的前一个身份大多是参议员，副总统、州长。比如老布什就是以副总统的身份竞选的。克林顿和小布什都是以州长身份竞选的。参加2008年总统大选的罗姆尼和赫卡比也都当过州长。而内阁成员国务卿，财政部长，国防部长等很少有竞选总统的。</p>
+<p style="TEXT-INDENT:2em">
+	从国家层面上讲，<a href="http://www.xixik.com/content/bba00e071d152145" style="text-indent: 2em;" title="美国国会参议院和众议院的区别">美国国会主要负责制定法律并监督总统行使权力</a>。如果美国总统所在的政党能够在国会占据多次席位，<a href="http://www.xixik.com/content/d84003f7a70da772" style="text-indent: 2em;" title="美国国会里的“提案”“ 法案”的区别">那么将使得白宫能够更加方便地实施各项政策</a>；而如果另外一个政党占据了国会的多次席次，那么总统在行使权力时将面临很大的牵制，成为<a href="http://www.xixik.com/content/ca17b1082ea49820" style="text-indent: 2em;">跛脚鸭总统</a>；<a href="http://www.xixik.com/content/0cff02ad6b4cc0ee" style="text-indent: 2em;" title="奥巴马通过总统否决权驳回了这项“总统津贴现代化法案”">美国总统可以否决任何获国会通过的法案</a>，但需要于法案通过后10日（星期日除外）内提出。如果法案获<a href="http://114.xixik.com/congress/" style="text-indent: 2em;" title="美国两院：参议院和众议院">国会参众两院</a>（Congress）均以2/3票数通过，总统的否决权将会被推翻。美国总统亦都可以于国会休会的时候单方面否决任何获国会通过的法案。除了首任总统乔治&middot;华盛顿于1789年4月30日就职外，之后至1933的历任总统均为3月4日就职，而其后则于1月20日就职。（参考：<a href="http://www.xixik.com/content/c9fcecb0778afbc7" style="text-indent: 2em;" target="_blank" title="老照片的回忆，那些年美国总统宣誓就职现场">老照片的回忆，那些年美国总统宣誓就职现场</a>）</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/us-president/xixik-33c5f26a6b1b7999.jpg" style="margin: 10px; float: right; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/55f02887dfbe55eb" title="美国总统一届干几年">美国总统每届任期4年</a>，连选连任不得多于2次（<a href="http://www.xixik.com/content/22d70046f63dfd8b" target="_blank" title="史无前例：为什么罗斯福能任四届总统？">史无前例：为什么罗斯福能任四届总统？</a>），也不能担任总统或执行总统职责超过2年后再被选为总统多于1次。根据<a href="http://114.xixik.com/us-constitution/" style="text-indent: 2em;" title="美国宪法">美国宪法</a>第二条第一款，总统须年满35岁，在美国居住14年以上，<a href="http://www.xixik.com/content/7eaff2ba1980e001" title="总统出生地那些事儿：自然出生时美国公民才算">也一定要是自然出生的美国公民</a>（<a href="http://www.usbabyada.com/" style="text-indent: 2em;" title="诚实合法赴美生子">想让你的孩子出生在美国</a>？根据<a href="http://114.xixik.com/us-constitution/14th-amendment/" title="美国宪法修正案第十四条">美国宪法修正案第十四条</a>第一款出生在美国就是美国公民）或者是在美国宪法通过时为<a href="http://114.xixik.com/us-citizens/" style="color:#000;" title="美国公民">美国公民</a>（参见<a href="http://114.xixik.com/us-constitution/" title="美国宪法">美国宪法</a>第二条第一款）。<a href="http://www.xixik.com/content/609c43eb8a3d147a" title="美国总统的专车是“陆军一号”">美国总统的专车是&ldquo;陆军一号&rdquo;</a>，<a href="http://www.xixik.com/content/a37d53e03abdfbc7" title="美国总统专机是“空军一号”">美国总统专机是&ldquo;空军一号&rdquo;</a>，官方的进行曲是《向统帅致敬》，<a href="http://www.xixik.com/content/eea1a1d2c76c5c51" title="美国总统官邸是白宫">美国总统官邸是位于哥伦比亚特区的&ldquo;白宫&rdquo;</a>，<a href="http://www.xixik.com/content/926cc1d9fb5d6878" title="白宫西翼的椭圆形办公室">近代总统绝大多数选择白宫西翼的椭圆形办公室</a>作为主要的办公地点，他的家庭被称为&ldquo;第一家庭&rdquo;，她的妻子被称为&ldquo;<a href="http://114.xixik.com/flotus/" style="text-indent: 2em;" title="美国第一夫人">美国第一夫人</a>&rdquo;（目前的<a href="http://114.xixik.com/flotus/" style="color:#000;" title="美国第一夫人">美国第一夫人</a>是现任<a href="http://114.xixik.com/us-president/trump/" title="美国总统特朗普">美国总统特朗普</a>的第三任妻子<a href="http://www.xixik.com/content/c252a24d9449e829" style="text-indent: 2em;" title="从移民到名模到第一夫人 盘点梅拉尼娅白宫之路">梅拉尼娅&middot;特朗普 Melania Trump</a>），连他的狗都被称为&ldquo;<a href="http://www.xixik.com/content/c24c0795d1e6a4f5" title="白宫第一狗">白宫第一狗</a>&rdquo;。根据美国宪法第二条第四款规定：总统、副总统和合众国的所有文职官员，因叛国罪、贿赂罪或其他重罪和轻罪而受弹劾并被定罪时，应予免职（<a href="http://www.xixik.com/content/1fab64095f9cad32" style="text-indent: 2em;" title="四种方法废掉“巨婴”总统特朗普，包括军事政变">如何让特朗普下台呢</a>？）。<a href="http://www.xixik.com/content/cdf499f12b797708" style="text-indent: 2em;" title="美国历史上遭到弹劾的三位总统">在美国历史上共有三位总统受到弹劾</a>，他们分别是：第17任总统安德鲁&middot;约翰逊、因为&ldquo;水门事件&rdquo;遭国会弹劾的第37任总统尼克松以及<a href="http://www.xixik.com/content/18675a74e01c8a20" style="text-indent: 2em;" title="克林顿性丑闻：莱温斯基是如何勾引上克林顿的？">因为&ldquo;莱温斯基性丑闻&rdquo;而要遭受弹劾的第42任总统克林顿</a>。<a href="http://www.xixik.com/content/f312dd77335e099b" title="美国开启弹劾特朗普程序">2019年民粹总统特朗普遭遇弹劾危机</a>。1955年，美国国会通过《总统图书馆法》，根据此法，美国总统卸任后在自己家乡建造一座图书馆，存放自己的文件，交国家档案部门管理。具体内容参见：<a href="http://www.xixik.com/content/3f28593768ebf870" target="_blank" title="难得一见的美国五位总统和第一夫人“全家福”">小布什总统图书馆开馆</a></p>
+<p style="TEXT-INDENT:2em">
+	尽管美国并无法律明文规定总统必须公布缴税证明，但自1967年乔治&middot;罗姆尼开创了美国总统候选人公布纳税记录的传统。之后50多年间，<a href="http://www.xixik.com/content/051fc213e7f8af90">美国几乎</a><a href="http://www.xixik.com/content/051fc213e7f8af90">每一位重要的总统候选人均公布了缴税证明</a>。但是特朗普打破了这一常规，<a href="http://114.xixik.com/us-president/presidential-election-2016/">2016年美国总统大选</a>期间，当时特朗普称，其个人税表正接受税务部门审计不方便公开，会在审计完毕后公布。而美国国内税务局（IRS）则不留情面地对外表示，审计活动并未限制特朗普公布其税表。一个自诩&ldquo;我真的很有钱&rdquo;的特朗普总统浪费极好的炫富机会，还把这个伟大的传统丢进了垃圾桶，看来<a href="http://www.xixik.com/content/046b0799b69b6e57" title="特朗普的税单藏着什么秘密">特朗普地税单有需要掩盖的东西</a>，比如<a href="http://www.xixik.com/content/b1faf1b95f819b22" title="德意志成“通俄”调查新目标 特朗普关键财务线索">其与俄罗斯的生意往来</a>，<a href="http://www.xixik.com/content/a06d1ad154ad2d03" title="特朗普并非白手起家，协助父母逃漏税继承4亿财产">偷税漏税</a>。</p>
+<p style="TEXT-INDENT:2em">
+	美国宪法规定总统&ldquo;应不时向国会提供国情信息&rdquo;&mdash;&mdash;<a href="http://www.xixik.com/content/75a764c8e3a691fa">国情咨文</a>（State of the Union Address）。总统可选择在任何地点或以书面形式发表国情咨文。不过，依照美国政治传统，国情咨文演讲是一种&ldquo;庄严&rdquo;仪式，通常会经由电视直播传达给民众。在美国历史上，前总统罗纳德&middot;里根在1986年的国情咨文演讲因&ldquo;挑战者&rdquo;号航天飞机失事而推迟；德怀特&middot;艾森豪威尔1956年通过电视台播出的演讲系7分钟的视频录播。艾森豪威尔与哈里&middot;杜鲁门和吉米&middot;卡特等总统一样，任内最后一次国情咨文以书面形式完成；理查德&middot;尼克松1973年国情咨文也以书面形式发表，原因是与他的第二次就职演说时间相隔太近。最近的一次是<a href="http://www.xixik.com/content/dc621d48583b8c72" style="text-indent: 2em;" title="特朗普总统2019年国情咨文">2019年1月因为政府关门，推迟发表国情咨文</a>。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/us-president/xixik-01d7ae8621d79d27.jpg" style="margin: 10px; float: right; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/us-president/presidential-election/" style="color:#000;"><strong>美国总统大选</strong></a></p>
+<p style="TEXT-INDENT:2em">
+	美国是总统制的国家，在其早期的权力构架中，并没有政党的因素，只是在后来政治角逐中，<a href="http://www.xixik.com/content/bdb4ee2aa741ba28" title="美国共和党和民主党差别">政党不断在其中发挥越来越重要的作用</a>，所以才孕育了美国现有的选举制度&mdash;&mdash;美国并非一人一票选，<a href="http://www.xixik.com/content/33110e14524bcddc" title="美国总统大选不一定得票率高就能当选">是通过选举人票制度</a>实施间接选举，这是美国所独有的。自第17届美国总统大选开始，美国总统一直在民主党<img src="http://img.xixik.net/custom/section/us-president/xixik-b75698d8b52205cc.jpg" style="width: 53px; height: 20px;" />（Democratic Party，D.N.C）和共和党<img src="http://img.xixik.net/custom/section/us-president/xixik-a9b9deeaaac599e0.jpg" style="width: 53px; height: 20px;" />（Republican Party，Grand Old Party，GOP）候选人中产生，因此美国大选又被称为&ldquo;<a href="http://www.xixik.com/content/e03348d481ca6823" title="民主党和共和党驴象之争">驴象之争</a>&rdquo;（<a href="http://www.xixik.com/content/bdb4ee2aa741ba28" style="text-indent: 2em;" target="_blank" title="民主党是驴共和党是大象？共和民主党根本区别 ">共和党和民主党根本区别</a>），但是<a href="http://www.xixik.com/content/ead986d688682f45" title="2016年美国大选有多少总统候选人？">参选的候选人并非只有两人也并非局限民主共和两党</a>。<strong style="text-indent: 2em;">美国总统几年选一回？</strong>美国总统选举每四年举行一次。根据<a href="http://114.xixik.com/us-constitution/amendments/" title="美国宪法修正案第22条">美国宪法修正案第22条</a>，<strong>美国总统任期四年</strong>，可以连任一届。<a href="http://114.xixik.com/us-president/presidential-election/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="美国总统选举制度">美国总统选举程序</a>复杂且漫长：分为①预选、②党的全国代表大会、③总统候选人竞选、④全国选民投票选出总统&ldquo;选举人&rdquo;和⑤&ldquo;选举人&rdquo;成立选举人团正式选举总统5个阶段进行，整个程序需耗费近一年的时间。当然最后还有<a href="http://www.xixik.com/content/e6564055d5ca3e5a" title="美国四年一度的盛典——1月20日美国总统就职日">当选总统就职典礼</a>。</p>
+<p style="TEXT-INDENT:2em">
+	①预选通常在大选年的2月份开始进行，6月份结束。其间，各政党登记参加总统竞选的人将为获得党内总统候选人的提名而展开竞争。预选的另一项任务是各党推选出各州出席本党全国代表大会的代表。预选通常从美国东北部的小州新罕布什尔州开始进行。预选方式主要有两种：一种是由各党从基层选区开始，自下而上逐级选出出席县、州和全国代表大会的代表；另一种是由各党的选民在同一天到投票站秘密投票，分别选举各自支持的总统候选人，然后根据各候选人的得票比例确定该州参加各党全国代表大会的代表人数。由于第二种方式比较正规，在近几届总统大选中，绝大部分州采用这一方式。</p>
+<p style="TEXT-INDENT:2em">
+	②各党的全国代表大会一般在7、8月份举行，其主要任务是确定该党的总统、副总统候选人，并通过党的竞选纲领。</p>
+<p style="TEXT-INDENT:2em">
+	③全国代表大会之后，总统竞选便正式拉开帷幕。这一过程一般要持续8至9周。在此期间，各党的总统候选人要耗费巨资，穿梭于全国各地，通过广告大战、发表竞选演说、会见选民、召开记者招待会以及进行公开辩论等多种形式，阐述其对国内外事务的政策主张，以赢得选民对自己的信任，争取选票。</p>
+<p style="TEXT-INDENT:2em">
+	④全国选民投票日也叫<strong>总统大选日</strong>，<a href="http://www.xixik.com/content/2cbd6d5d08664325" title="美国总统大选投票日为何是11月第一个星期后的星期二？">全国选民投票日在选举年11月份的第一个星期一后的第一个星期二</a>举行（2016年第58届美国总统大选时间是11月8日，2020年第59届美国总统大选时间是11月3日），美国大选中公民投票被称为普选（General Election）。由于<a href="http://www.xixik.com/content/177bfcc9bd93f6aa" title="美国大选各州票数分布，美国各州选举人票数">美国总统选举实行选举人团制度</a>（Electoral College），因此总统大选日实际上是选举代表选民的&ldquo;选举人&rdquo;（Electors）。由于<a href="http://114.xixik.com/us-time-zone/" title="美国时区">美国横跨6个时区</a>，且有些州跨时区，因此，各州、甚至同一州的东西部投票开始和结束时间都有所差别。1960年起，<a href="http://www.xixik.com/content/c3e01cca309a344d" target="_blank" title="美国大选第一村">每年美国大选从新罕布什尔州迪克斯维尔山口村开始</a>，到阿拉斯加结束。美国有17个州开创总统大选投票规则先例，通过相关立法在<a href="http://114.xixik.com/us-president/presidential-election-2016/" title="2016年美国总统大选">2016年美国总统大选</a>时首次实施多项投票限制。其中的11个州，包括威斯康辛州、北卡罗来纳州和德克萨斯州等，都将要求选民在投票时必须出示带有照片的身份证件，否则将无权参与投票。自1980年以来，<a href="http://www.xixik.com/content/603f88e9de689f32" title="美国大选投票率">美国大选的投票率徘徊在48%到57%</a>，<a href="http://114.xixik.com/presidential-election-2016/" style="color:#000;" title="2016年美国大选">2016年美国大选</a>投票率也只有57.6%。相信2020年美国总统大选投票率会创新高。</p>
+<p style="text-align: center;">
+	<a href="http://img.xixik.net/custom/section/us-president/xixik-261eb97ad61e6e43.png" title="2016年大选选举人票分布"><img src="http://img.xixik.net/custom/section/us-president/xixik-95e01200b60d4ed1.gif" style="width: 90%; max-width: 90%;" /></a></p>
+<p style="text-align: center;">
+	图为<a href="http://114.xixik.com/usa-stats/" style="color:#000;" title="美国州,美国50州">美国50州</a>拥有的选举人票数量</p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://www.xixik.com/content/177bfcc9bd93f6aa" title="美国各州选举人票数">美国共有538张选举人票</a></strong>（Electoral Vote）。根据<a href="http://114.xixik.com/usa-stats/" style="color:#000;" title="美国州">50州</a>在<a href="http://114.xixik.com/congress/" style="color:#000;" title="美国国会">国会</a>参议院和众议院席位总数多少（<a href="http://www.xixik.com/content/afef75d8c5994830" title="美国国会：参议院与众议院的区别是什么？">国会参议院和众议院区别</a>），每州拥有数目不同的选举人票。每个州都在国会有2名参议员和至少1名众议员，所以，任何州都至少有3票。但人口多的大州，除了这3票以外，众议员人数越多，选举人票数也就越多。人口最多的加州选举人票多达55张，而人口少的阿拉斯加州只有3张票，鉴于这种情况人口众多的州为总统候选人争夺的重要目标。1961年，<a href="http://114.xixik.com/us-constitution/amendments/" title="美国宪法修正案">美国宪法修正案</a>第23条批准首都华盛顿哥伦比亚特区（Washington D.C.）可以像州一样有总统选举人。这样，<a href="http://114.xixik.com/congress/" title="美国国会">美国国会有100名参议员、435名众议员</a>，加上华盛顿特区的3票，<a href="http://www.xixik.com/content/1c52758f33d414ce">总统选举人票总共就是538票</a>。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/us-president/presidential-election/" title="美国历届总统大选得票率"><img src="http://img.xixik.net/custom/section/us-president/xixik-e11adb91d99fb5d0.jpg" style="margin: 10px; float: right; width:300px;" /></a></p>
+<p style="TEXT-INDENT:2em">
+	在<a href="http://114.xixik.com/us-president/presidential-election/" style="color:#000;" title="美国大选">美国大选</a>中，选民在数名总统候选人之间选择一名，随后各州统计每名候选人在本州所获实际选票数，超过半数的候选人即获得本州全部选举人票（<a href="http://www.xixik.com/content/81a21445772454cb" style="text-indent: 2em;" target="_blank" title="美国大选规则：在红蓝州投了也白投，白投也要投">在红蓝州投了也白投，白投也要投</a>）。<strong style="text-indent: 2em;">因此首先获得270张选举人票的总统候选人将成为美国当选总统。</strong>除了缅因州和内布拉斯加两个州是按普选票得票比例分配选举人票外（因此两位候选人的选票数在这两个州均可能有所&ldquo;入账&rdquo;），其余48个州和华盛顿特区均实行&ldquo;赢者通吃&rdquo;（Winner-Take-All）制度，即将其选举人票全部给予获得相对多数选民票的总统候选人。<a href="http://www.xixik.com/content/f6a137c3b6782e56" style="text-indent: 2em;" title="美国总统大选的数学问题：胜选不是超过了半数选票">按照理论上总统候选人最低只需获得全国选票的 21.8% 就当上美国总统</a>。由于各州选举人票数量相差较大，这样就可能出现<a href="http://www.xixik.com/content/dc9e4f0e0f166ee3" title="赢得普选票却输掉选举人票不能赢得总统选举的情形">在全国投票中赢得普选票的总统候选人不能赢得选举人票输掉总统选举的情形</a>。美国历史上发生五次这种情形，最近的一次是<a href="http://114.xixik.com/us-president/presidential-election-2016/" style="text-indent: 2em;">2016年美国总统大选</a>，希拉里获得普选票（Popular Vote）6,424万，得票率约47.9%，<a href="http://www.xixik.com/content/97c205ff222de368" style="text-indent: 2em;" title="希拉里比特朗普获得的普选票多200万票却输掉了选举">比特朗普获得的普选票多200万票却输掉了选举</a>。虽然特朗普还宣称自己的胜利是美国民主一次历史性的&ldquo;压倒性胜利&rdquo;。但事实上<a href="http://www.xixik.com/content/3f67c759bf4fc791" title="特朗普当选为普选票表现最差劲的美国当选总统">特朗普是自1876年以来在普选票中表现最差劲的美国当选总统</a>。即便选举人票<a href="http://114.xixik.com/us-president/trump/" style="color:#000;" title="特朗普">特朗普</a>也只获得56.9%，仅仅在美国1804年以来的54次大选中排名第44。美国史上最一边倒、最毫无悬念的<a href="http://www.xixik.com/content/66be5ac7630c27bb" title="1984年总统大选">1984年美国总统大选</a>：共和党<a href="http://114.xixik.com/us-president/reagan/" title="里根总统">罗纳德&middot;<span style="text-align: -webkit-center;">里</span></a><span style="text-indent: 2em; text-align: -webkit-center;"><a href="http://114.xixik.com/us-president/reagan/" title="里根总统">根</a>PK民主党</span>沃尔特&middot;<span style="text-indent: 2em; text-align: -webkit-center;">蒙代尔</span>，尽管里根获得高达524张选举人票对应蒙代尔13张非常悬殊，但是普选票上，里根的普选票得票率59%，蒙代尔普选票得票率41%，两者相差并没那么明显。<a href="http://www.xixik.com/content/f87eb61877c62632" title="1900年以来历次美国总统大选得票率">1900年以来美国历次大选得票率</a></p>
+<p style="TEXT-INDENT:2em">
+	⑤真正的总统选举则是在12月第二个星期三之后的第一个星期一举行。届时，各州被推选出的&ldquo;选举人&rdquo;将前往各州的首府进行投票，最终选举出总统。选举人团间接选举只是礼仪性的程序，当选的选举人在选举人团投票时要把票投给在该州获胜的总统候选人，因此大选结果通常在大选投票日当天便可根据各州选举结果算出。<a href="http://www.xixik.com/content/08205551b0714e4c" title="如果选举人没有按民意给总统候选人投票怎么办？">历史上曾出现个别选举人未按选民意志投票的情况</a>。<a href="http://www.xixik.com/content/ac59075b964b0715" title="美国总统选举出现过多次难产">美国总统选举也出现过多次难产</a>，美国宪法规定，如果所有总统候选人都未获得半数以上的选举人票，由国会众议院从得票最多的前三名候选人中选出总统。1824年，约翰&middot;昆西&middot;亚当斯就是在这种情况下，经众议院投票表决被指定为总统的。由国会参议院从得票最多的两名副总统候选人中选出副总统。2000年，在佛罗里达州经过长时间的重新计票，以及美国最高法院做出定停止重新计算的决定后，<a href="http://www.xixik.com/content/f04524dadbb2f156" title="2000年美国大选小布什诉戈尔案">当时的共和党总统候选人小布什才击败民主党候选人戈尔赢得总统选举</a>。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/d882c01f1ac008b3" title="历届美国总统就职典礼">总统就职典礼是美国总统选举的最后一道程序</a>。至当选总统于次年1月20日宣誓就职，总统选举过程方告结束。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>美国总统的备份&mdash;&mdash;<a href="http://114.xixik.com/vice-president/" style="color:#000;" title="美国副总统">美国副总统</a></strong></p>
+<p style="TEXT-INDENT:2em">
+	在美国政治中，<a href="http://www.xixik.com/content/cc68249206e4690f">美国副总统不掌握任何行政权力</a>。他的公务是担任国会参议院议长，但这主要是礼仪性的主持会议，日常没投票权。只有在参议院表决时赞成票和反对票相等情况下才投票。2017年2月7日，在参议院投票支持贝齐&middot;德沃斯担任教育部长的提名时，出现50票赞成，50票反对，最终<a href="http://114.xixik.com/vice-president/" style="color:#000;">副总统迈克&middot;彭斯</a>以参议院议长身份投下决定性一票，力保了特朗普的提名通过。这关键一票也创造了历史&mdash;&mdash;这是参议院历史上首次出现副总统就内阁人选提名进行投票的情况。当然这个教育部部长是个祸害这是后话。副总统上一次在参议院投票发生在2008年，时任副总统切尼投票支持一项税收法案。副总统的日常工作通常根据总统的要求而定，一般无足轻重，如<a href="http://www.xixik.com/content/30999888de32da1e" title="美国副总统更多的是礼仪性工作">代表总统参加外国领导人的葬礼活动</a>等。</p>
+<p style="TEXT-INDENT:2em">
+	根据<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>，如果总统去世或失去工作能力，<a href="http://114.xixik.com/vice-president/" style="color:#000;" title="美国副总统">副总统</a>接任总统职位（<a href="http://www.xixik.com/content/8e0afccd9923fe29" title="美国总统职位的继承顺序：谁将是总统的继承人">美国总统继任顺序</a>）。<a href="http://www.xixik.com/content/cc68249206e4690f" title="美国副总统是二把手还是储君？">副总统就是美国宪政体制下的&ldquo;储君&rdquo;</a>，&ldquo;备份&rdquo;，距离美国总统就一个心脏的距离。1841年，美国总统哈里森就职一个月后去世，约翰&middot;泰勒继任总统，成为美国历史上第一个不是靠选举而由副总统直接继位当上总统的人。根据<a href="http://114.xixik.com/us-constitution/" style="color:#000;" title="美国宪法">美国宪法</a>第十二条修正案的相关规定，&ldquo;无资格担任总统的人，也无资格担任合众国副总统&rdquo;。知名的<a href="http://www.usbabyada.com/" style="color:#000;" title="赴美生子">赴美生子</a>服务商@<a href="http://www.usbabyada.com" style="color:#000;" title="Ada出生在美国">Ada出生在美国</a>揶揄中国一些无知的<a href="http://www.usbabyada.com/" style="color:#000;" title="赴美生子">赴美生子</a>中介推销<a href="http://114.xixik.com/usbaby-saipan/" style="color:#000;" title="塞班赴美生子">塞班生子</a>时，会说&ldquo;去塞班生唯一的缺点是，不能竞选总统，只能竞选副总统&rdquo;的逻辑是多么的可笑。<a href="http://www.xixik.com/content/30999888de32da1e" title="登上总统宝座的副总统们">先当副总统是登上美国总统宝座的途径之一</a>。第二次世界大战以来，有三位副总统在总统任期内接任总统职务。杜鲁门因罗斯福去世，<a href="http://www.xixik.com/content/e8859eb000eb6eca">约翰逊因肯尼迪遇剌</a>，<a href="http://www.xixik.com/content/d6f9681cad059845" title="唯一未通过选举直接担任美国总统">福特因尼克松下台</a>而分别继任总统。此外，有几位副总统还当过总统候选人，其中包括尼克松、汉弗莱、蒙代尔和老布什。来源：嘻嘻网</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/vice-president/" style="color:#000;" title="美国副总统">美国副总统</a>不是由美国公众直接选出的，<a href="http://www.xixik.com/content/1fe9967817dea5a2" style="text-indent: 2em;" title="美国总统大选 如何选择搭档副总统是一个技术活">总统候选人在选择副总统候选人时首先要考虑此人的政治资历和条件</a>，但主要看他在党内代表哪部分势力以便取得平衡，尽可能争取最大多数选民的支持（参考：<a href="http://www.xixik.com/content/de3b23ab10936522" style="text-indent: 2em;" title="竞选搭档千呼万唤始出来 奥巴马宣布拜登为副手">奥巴马当年为何选择了拜登？</a>）。副总统候选人通常是国会议员，但参议员被挑选为副总统候选人的机会较大。原因是参议员一旦当选副总统，就担任参议院议长，这可加强总统与参议院的联系。但大选结果不取决于总统候选人对副总统的选择，而是取决于总统候选人。1988年美国大选期间，许多美国人认为共和党总统候选人老布什的竞选伙伴奎尔太年轻、不老练、不值得考虑，而认为民主党总统候选人杜卡基斯的竞选伙伴本特森经验丰富、深孚众望。但大选结果，老布什获胜当上了总统，奎尔自然也成为副总统。<img src="http://img.xixik.net/custom/section/us-president/xixik-1917d59a997f806e.jpg" style="margin: 10px; float: right; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	根据<a href="http://114.xixik.com/us-constitution/" style="color:#000;" title="美国宪法">美国宪法</a>，<a href="http://114.xixik.com/congress/" style="color:#000;" title="美国国会">国会</a>是国家的最高立法机构，由参议院和众议院组成。两院议员都由各州选民直接选举产生。参议员每州选2名，50个州共100名，任期6年，每两年改选1/3。众议员按各州人口比例选出，大约50万人选一名，共435名，任期2年，届满后全部改选。国会每两年一届。参议员候选人必须年满30周岁，作为美国公民已满9年，且必须是选出州的居民；众议员必须年满25周岁，作为美国公民已满7年，且为选出州的居民。任何文官不得担任国会议员。在总统大选日，选民还要进行<a href="http://www.xixik.com/content/afef75d8c5994830" style="color: rgb(0, 0, 0);">参议院和众议院</a>议员选举。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>中期选举</strong></p>
+<p style="TEXT-INDENT:2em">
+	国会选举每两年举行一次。其中一次国会选举与四年一度的总统选举同时举行，而另一次则在两届总统选举之间举行。在两次总统选举之间举行的国会选举，就是&ldquo;中期选举&rdquo;。中期选举的日期大都在当年11月的第一个星期二举行。中期选举的实质是民主党和共和党争夺对国会的控制权。自1862年以来的39次中期选举中，总统所在的政党35次失去了众议院多数席位，24次失去了参议院多数席位。</p>
+<p style="TEXT-INDENT:2em">
+	中期选举不但关系到两院成员的变动，还涉及到州长及重要城市的市长选举。美国是一个联邦制国家，<a href="http://114.xixik.com/usa-stats/" title="美国州">由50个州和哥伦比亚特区组成</a>。各州州长由选民直接选出，一般为4年，少数州为2年，1/2的州规定州长任期为一届或两届。</p>
+<p>
+	<img src="http://img.xixik.net/custom/section/us-president/xixik-26354b9720f8921f.jpeg" style="text-indent: 28px; margin: 10px; float: right; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	2018年中期选举改选美国国会众议院的全部435席、参议院100席中的35席。美国50个州的36个州长职位，3处海外领土的总督职位，华盛顿哥伦比亚特区、旧金山等重要城市市长职位，以及全美99个州立法机构中的87个。</p>
+<p style="TEXT-INDENT:2em">
+	最受瞩目的是国会参众两院的改选，这也是共和、民主两党之争的主要战场。<strong><a href="http://www.xixik.com/content/557900838e19f750" title="2018年中期选举">2018年中期选举</a></strong>结果，共和党以<strong>53席</strong>继续执掌参议院，对民主党以<strong>47席</strong>；截至2018年11月20日，民主党以<strong>232席</strong>执掌众议院，对共和党以<strong>200席</strong>，终结了共和党长达八年对众议院的把控。<a href="http://www.xixik.com/content/ce7b108462319217" title="美国第116届国会于2019年1月3日履职">美国第116届国会于2019年1月3日履职</a>。议员中约四分之一是女性，共有125位，其中106人是民主党、19人是共和党。共和党拿下了25个州的州长席位，而民主党则拿下了23个州。</p>
+<p style="TEXT-INDENT:2em">
+	国会是美国最高立法机构，由参议院和众议院共同负责起草和制定法律，参议院还有权批准或否决总统对政府高层人员及联邦法官的提名。众议院的作用提出各项财政法案，弹劾政府官员。</p>
+<p style="TEXT-INDENT:2em">
+	共和党占领优势的参议院人数较少，因为参议院议员与人口无关，是由每州两名议员组成。参议院的职能则是对众议院提出的弹劾做出审查、对众议院提出的法案进行修订甚至是驳回、以及做出人事任命决定等。任何法案都需要通过众参两院共同认可才能最终成为法案。</p>
+<p style="TEXT-INDENT:2em">
+	从最终的结果来看，无论是两院的选举，还是州长的最终归属，民主党占领经济、教育水平较为发达的东西海岸，共和党拿下经济教育水准相对落后的中部地区都是不争的事实。曾经靠着&ldquo;农村包围城市&rdquo;策略拿下总统位置的特朗普在此次中期选举过后将会面临新一轮的挑战，毕竟拿下众议院的民主党不会像原来的共和党那样对他一路开绿灯了。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor3"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        美国总统选举中的届、任、位</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="text-align:center;">
+	<img src="http://img.xixik.net/custom/section/potus/xixik-President-of-the-United-States-of-America.jpg" style="width: 90%; max-width: 90%;" /></p>
+<p style="text-align:center;">
+	图：<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国历任总统">美国历任总统</a>画像</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/eea57ede8214fd77" title="美国总统届、任、位三种提法">谈及美国总统经常会遇到届、任、位这三种提法</a>。届、任、位三种提法的含义各不相同，根据<a href="http://114.xixik.com/us-constitution/" style="color:#000;" title="美国宪法">美国宪法</a>，总统选举每四年举行一次，总统任期四年，任满四年为一届。它们之间的关系和区别如下：</p>
+<p style="TEXT-INDENT:2em">
+	<strong>届</strong>：略同于&ldquo;次&rdquo;，用于表示定期会议、选举的次数。美国总统的&ldquo;届&rdquo;是以四年为限类推的，有多少个四年就有多少届总统。如果总统在任期内死亡或因故去职，另由他人接任，继任总统和前总统为同一届总统。例如，1961年至1965年的第44届总统，开始由约翰&middot;肯尼迪担任，<a href="http://www.xixik.com/content/e8859eb000eb6eca" style="text-indent: 2em;" title="深度解密肯尼迪遇刺当日照片">1963年11月肯尼迪遇刺身亡</a>后（<a href="http://www.xixik.com/content/2649fcfc6e3af75e" style="text-indent: 2em;" target="_blank" title="肯尼迪政治生涯的26个瞬间">肯尼迪政治生涯的26个瞬间</a>），<a href="http://www.xixik.com/content/7af700c6385d3657" style="text-indent: 2em;" title="美国第36任总统：林登·贝恩斯·约翰逊就职演说">由林登&middot;约翰逊接任</a>。肯尼迪和约翰逊均为第44届总统。</p>
+<p style="TEXT-INDENT:2em">
+	从1789年华盛顿当选美国第一届总统开始，截至2019年9月已有58届。计算方法为：（就职年份－1789）&divide;4＋1。如<a href="http://114.xixik.com/us-president/obama/" style="color:#000;" title="奥巴马">奥巴马</a>2009年就职，用2009减去1789再除以4加上1，就是第56届。总统的届只受年限限制，如果总统在任期内死亡或因故去职，未能满任，则由<a href="http://114.xixik.com/vice-president/" style="color:#000;" title="副总统">副总统</a>接任，继续当完这一届，也就是说继任总统和前总统属同一届总统。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>美国总统一届两任的情况</strong></p>
+<p style="text-indent: 2em;">
+	美国第14届总统。1841年美国总统68岁的威廉&middot;亨利&middot;哈里森哈里森就职那天正遇上寒流，凛冽寒风中，哈里森用了一个半小时宣读他的就职演说。几天之后，这位老人就得了肺炎，在32天后逝去。副总统约翰&middot;泰勒继任总统，完成这一届任期。</p>
+<p style="text-indent: 2em;">
+	美国第16届总统。1850年美国总统扎卡里&middot;泰勒于任内病死，由副总统菲尔莫尔继任，完成这一届任期。</p>
+<p style="text-indent: 2em;">
+	美国第19届总统。1865年美国总统林肯遇刺身亡，由副总统约翰逊继任，完成这一届任期。</p>
+<p style="text-indent: 2em;">
+	美国第24届总统。1881年美国总统加菲尔德遇刺身亡，副总统阿瑟继任，完成这一届任期。</p>
+<p style="text-indent: 2em;">
+	美国第28届总统。1902年美国总统威廉&middot;麦金莱遇刺身亡，由副总统西奥多&middot;罗斯福继任，完成这一届任期。</p>
+<p style="text-indent: 2em;">
+	美国第34届总统。1923年美国总统哈定突然逝世，副总统柯立芝继任，完成这一届任期。</p>
+<p style="text-indent: 2em;">
+	美国第39届总统。1945年连任四届的总统富兰克林&middot;罗斯福于任内病死，由副总统杜鲁门继任，完成这一届任期。</p>
+<p style="text-indent: 2em;">
+	美国第44届总统。1963年美国总统约翰&middot;肯尼迪遇刺身亡，由副总统林顿&middot;约翰逊继任，完成这一届任期。</p>
+<p style="text-indent: 2em;">
+	美国第47届总统。1974年美国总统尼克松因&ldquo;水门事件&rdquo;辞职，副总统福特继任，完成这一届任期。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>美国总统两届最多：</strong>美国第一任总统华盛顿于1789年上任。当时宪法规定<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>每届任期为4年。 但1787年宪法并没有明文限制总统的连任次数。1796年9月17日行将任满两届的<a href="http://www.xixik.com/content/b505ffed0d024130" title="首任总统乔治·华盛顿发表了著名的告别词">首任总统乔治&middot;华盛顿发表了著名的告别词</a>，宣布不再竞选连任，从而开创了总统任期不超过两届的先例，1951年以前美国历任总统都逐一效仿。由于二战的特殊背景，富兰克林&middot;罗斯福三次当选（1933-1945）<a href="http://www.xixik.com/content/22d70046f63dfd8b" title="为什么罗斯福能任四届总统？">成为美国历史上唯一一个打破传统而连任三届（担任四届）的总统</a>。在罗斯福总统去世后，国会于1947年通过了宪法第22修正案（1951年3月生效），生效的宪法第22条修正案规定：&ldquo;任何人不得任总统之职两届以上，在另一人选为总统期内接任或代行总统职务两年以上者，不得再任总统之职一届以上。&rdquo; 因此由副总统继任为总统的福特假如1976年大选获胜的话，他不能在1980年再次参加大选，因为它在尼克松的任期内已经任了两年以上的总统了。</p>
+<p style="TEXT-INDENT:2em">
+	连续任满两届的美国总统迄今只有12位。即乔治&middot;华盛顿（1789-1797）、托玛斯&middot;杰斐逊（1801-1808）、詹姆斯&middot;麦迪逊（1809-1816）、詹姆斯&middot;门罗（1817-1824）、安德鲁&middot;杰克逊（1829-1836）、尤塞利斯&middot;格兰特（1869-1876）、伍德罗&middot;威尔逊（1913-1920）、富兰克林&middot;罗斯福（1933-1945）、德怀特&middot;艾森豪威尔（1953-1961）、罗纳德&middot;里根（1981-1988）、比尔&middot;克林顿（1993-2000）、小布什（2001-2009）和<a href="http://114.xixik.com/us-president/obama/" style="color:#000;" title="奥巴马">奥巴马</a>（2009-2017）。</p>
+<p style="TEXT-INDENT:2em">
+	有7位美国总统连任但没有任满两届。其中林肯和麦金莱因遇刺身亡而未能任满两届；西奥多&middot;罗斯福、卡尔文&middot;柯立芝、哈里&middot;杜鲁门、林登&middot;约翰逊四位因以<a href="http://114.xixik.com/vice-president/" style="color:#000;" title="副总统">副总统</a>身份接任总统而无缘任满两届；理查德&middot;尼克松则因水门事件丑闻辞职而提前离开了白宫。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>任</strong>：有别于&ldquo;届&rdquo;，用于表示担任总统的次数而言。一人连续担任几届总统职务，仍为一任。富兰克林&middot;罗斯福就属于这种情况，他从1933年至1945年连任4届总统，但仍是第32任总统。但如果一人在不连续的几届总统选举中先后几次当选，当选几次就算几任。例如，1885年至1889年的第25任总统和1893年至1897年的第27任总统都由格罗弗&middot;克利夫兰担任。<a href="http://www.xixik.com/content/3ae134ca204bf6b2" title="克利夫兰：唯一两次任期不相连的美国总统">由于不是连任，克利夫兰被认为担任过两任总统</a>，这也是美国历史上唯一一个当了两任的总统。&nbsp;</p>
+<p style="TEXT-INDENT:2em">
+	<strong>位</strong>：指担任过总统的实际人数。美国从1789年开始选举总统至今，不论连选连任，还是先后当选几任，均不重复计算，有几位算几位。美国从1789年华盛顿当选总统截至2019年的唐纳德&middot;特朗普，已先后有44人担任过总统职务。之所以&ldquo;位&rdquo;数与&ldquo;任&rdquo;数不一致，皆因为格罗弗&middot;克利夫兰前后当选两任，如果格罗弗&middot;克利夫兰两任中间没有断开，而是连任两届的话，那么美国的总统就是有多少&ldquo;位&rdquo;就有多少&ldquo;任&rdquo;。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>怎么来称呼这些总统？</strong></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>乔治&middot;沃克&middot;布什（小布什）是美国历史上第54届和第55届、第43任和第42位总统。在2008年美国总统大选中，<a href="http://114.xixik.com/us-president/obama/" style="color:#000" title="奥巴马">奥巴马</a>获胜，成为美国历史上首位非洲裔总统，<a href="http://www.xixik.com/content/367a95e75a84a638">2012年赢得连任</a>，是美国第56届、57届、第44任和第43位总统。<a href="http://114.xixik.com/us-president/presidential-election-2016/" title="2016美国总统大选">2016年美国总统大选</a>中当选的唐纳德&middot;<a href="http://114.xixik.com/us-president/trump/" style="color:#000;" title="特朗普">特朗普</a>是美国历史上第58届、第45任和第44位总统。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>任&mdash;&mdash;造成&ldquo;届&rdquo;和&ldquo;任&rdquo;数字之差的因素</strong>有二：有人连任两届以上；有人未任职届满而由他人接任。具体情况如下：</p>
+<p style="TEXT-INDENT:2em">
+	1、两届一任。第1、2届，第4、5届，第6、7届，第8、9届，第11、12届，第21、22届，第32、33届，第42、43届，第49、50届，第52、53届，第54、55届，第56、57届，均是两届一任，即一人任职两届。</p>
+<p style="TEXT-INDENT:2em">
+	2、一届两任。第14、16、24届，均是一届两任，即因前任病故或遭暗杀身亡，后由副总统接任。</p>
+<p style="TEXT-INDENT:2em">
+	3、三届两任。第29届由两人先后任职，前任威廉&middot;麦金莱是第28届总统连任，后任西奥多&middot;罗斯福又连任第30届。</p>
+<p style="TEXT-INDENT:2em">
+	4、五届两任。第37~41届由富兰克林&middot;罗斯福和哈里&middot;杜鲁门先后担任。</p>
+<p style="TEXT-INDENT:2em">
+	另外，第34、44届虽由两人先后任职，但后任又连任下届；第20、47届虽由两人先后任职，但前任为上届总统，这两种情况均算是两届两任，对总届次和总任次不产生影响。</p>
+<p style="text-indent: 2em; text-align: center;">
+	<img src="http://img.xixik.net/cimg/007/xixik_851fd9191bab45cb.jpg" style="height: 533px; width: 800px;" /></p>
+<p style="TEXT-INDENT:2em">
+	图：2009年1月7日，在美国白宫椭圆形办公室，美国5个总统在白宫椭圆形办公室合影，左起分别是第51届，第41任<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>老布什，当选<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a><a href="http://114.xixik.com/us-president/obama/" style="color:#000" title="奥巴马">奥巴马</a>，第54-55届，第43任<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>小布什，第52-53届，第42任<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a><a href="http://114.xixik.com/us-president/bill-clinton/" style="color:#000" title="克林顿">克林顿</a>，第48届，第39任<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>卡特。这是1981年以来，美国前总统、现任总统和当选总统在白宫的首次聚会。后来他们又聚会了：<a href="http://www.xixik.com/content/3f28593768ebf870" target="_blank" title="小布什总统图书馆开幕 难得一见的美国五位总统和第一夫人“全家福”">小布什总统图书馆开幕</a>、<a href="http://www.xixik.com/content/b586f24efd9395aa">德克萨斯州大学城筹款音乐会</a>，<a href="http://www.xixik.com/content/4fbc2ca0136808be" title="芭芭拉葬礼四位前总统再次相聚">芭芭拉&middot;布什的葬礼</a>，<a href="http://www.xixik.com/content/7381ca6bc120ee7a" target="_blank" title="最长寿的总统——美国前总统老布什去世享年94岁">老布什的葬礼</a>。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor4"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        美国总统“之最”</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<strong>最伟大的美国总统：亚伯拉罕·林肯</strong>&#160;林肯有一位著名的恶妻玛丽，于是他成为美国历史上最伟大的哲学家型总统。他思想开放，肯容纳新事物；又能吸收经验，古为今用，没有他，<a href="http://www.xixik.com/content/42bb9fbf6bbf30a0">美国联邦也许不会在南北战争中获胜</a>，黑奴的解放也要延迟许多时日。在美国从封建奴隶制向资本主义转换的历史进程中，林肯扮演的是一个极为重要的角色。可以说，没有他，就没有今日的美国。林肯在任期间签署了著名的《宅地法》是促成美国南北战争以后<a href="http://www.xixik.com/content/ff3e9bdea48de9f4" title="西进运动">西部拓荒热</a>的主要原因，对后来美国版图的形成具有重要意义。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>最内向却最滑稽的总统：卡尔文·柯立芝</strong> 柯立芝是个公认的平庸总统，在他任职的那几年，白宫可以说是“无为而治”。但他有自己的一套幽默术，被称为“滑稽大师”。他是以其逸闻趣事而不是显赫功名蜚声海内外的。他的绰号是：“沉默的卡尔”。当他还在白宫任职时，有关他“嘴紧”、“手紧”和节俭的故事就到处传扬。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>晋升最快的美国总统：德怀特·艾森豪威尔</strong> 艾森豪威尔晋升“第一快”；出身“第一穷”；他是美军统率最大战役行动的第一人；他是第一个担任北大西洋公约组织盟军最高统帅；他是美军退役高级将领担任哥伦比亚大学校长的第一人；他是唯一当上总统的五星上将。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>结局最尴尬、最有争议的美国总统：理查德·尼克松</strong>&#160;1974年8月，尼克松因“水门事件”辞职，成为美国历史上第一位也是迄今为止惟一被迫辞职的<a href="http://114.xixik.com/us-president/" style="color:#000;" title="美国总统">美国总统</a>，尼克松将名留史册。美国人评论他“狡猾、不可捉摸”。对外他果断地让美国拔出了深陷在越南战争中的那只泥脚，与此同时将战火扩大到了柬埔寨和老挝，为该地区种下了不安定的种子；他与前苏联签订了一系列限制武器发展的条约，使剑拔弩张的“冷战”局势一度得到缓和；1971年他又戏剧性地<a href="http://www.xixik.com/content/807006538cd9be5f" title="尼克松访华">放弃了其对红色中国的一贯敌视态度访华开启破冰之旅</a>，不可谓没有战略眼光。在国内，尼克松加强打击犯罪，重视环境保护，<a href="http://www.xixik.com/content/0398011cdfa50d55" title="1969年7月21日，阿波罗11号，人类首次登上月球">更让宇航员踏上了月球</a>，不可谓没有政绩。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>最老实的美国总统：杰拉尔德·福特</strong> <a href="http://www.xixik.com/content/d6f9681cad059845" title="福特是美国唯一未经选举的美国总统">福特是唯一没有经过选举而直接被任命的总统</a>。1973年10月，副总统阿格纽因受贿丑闻辞职，福特被尼克松任命为副总统；1974年8月9日，尼克松本人也在受到弹劾的威胁下主动下台，福特便递补成为了美国第38任总统。他的总统和副总统职位都是“递补”得来的，他都是接替了丢人现眼的领导人辞去的职务，可谓“意外总统”。似乎历史专门让福特来落实<a href="http://114.xixik.com/us-constitution/" style="color:#000;" title="美国宪法">美国宪法</a>中关于总统产生的补充条文。从副总统到总统，他不需要选票，而从众议员到副总统，他也没经过选举。福特是个“好好先生”，生性温厚谦逊、随和，以至于有人说他是“白宫里的童子军”。尽管他是一个经历了30年政治斗争的老手，历年来所树的政敌却少得惊人。2017年7月22日，<a href="http://www.xixik.com/content/8d1ff804563a32e3" style="text-indent: 2em;">以福特命名的同名航母正式服役</a>，为目前世界上最先进航母。表彰其将一生奉献给海军，政府和国家。他二战期间获得海军中尉军衔。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>最长寿的美国总统：吉米·卡特&#160;</strong>截至2019年10月01日，<a href="http://www.xixik.com/content/445369a8ea90f1a9" title="吉米卡特以94岁又172天成为美国最长寿总统">吉米·卡特以95岁继续成为最长寿的美国总统</a>。<a href="http://www.xixik.com/content/8107a69a090fba55" title="美国十大长寿总统">美国有5位总统活到90岁以上</a>：第2任总统约翰·亚当斯（90岁又247天）、<a href="http://www.xixik.com/content/1f1ded46c25d2811" title="第31任总统赫伯特·胡佛">第31任总统赫伯特·胡佛</a>（90岁又？天）、第38任总统杰拉尔德·福特（93岁又165天）、第40任里根（93岁又120天）、第41任老布什（94岁又171天）、第39任总统吉米·卡特 （95岁）。美国总统被称为世界上权力最大的人，可不是一个轻松的活，<a href="http://www.xixik.com/content/26da60d837353d20" style="text-indent: 2em;" title="美国总统老得快">所以美国总统老得快</a>（<a href="http://www.xixik.com/content/26da60d837353d20" style="text-indent: 2em;" title="岁月是把杀猪刀 10位美国总统在任前后的对比照">10个历任美国总统在任前后的对比照</a>），但是寿命长。<a href="http://www.xixik.com/content/512d13df5083790d" style="text-indent: 2em;" title="美国总统老得快但长寿 平均寿命73岁">美国历届自然死亡的总统平均寿命73岁</a>。截至2019年10月01日，在世的美国前总统有第48届，第39任美国总统卡特；第54-55届，第43任<a href="http://114.xixik.com/us-president/george-walker-bush/" style="text-indent: 2em;" title="美国总统">美国总统小布什</a>；第52-53届，第42任<a href="http://114.xixik.com/us-president/bill-clinton/" style="text-indent: 2em;" title="克林顿">美国总统林顿</a>；第56届-57届，第44任<a href="http://114.xixik.com/us-president/obama/" style="text-indent: 2em;" title="奥巴马">美国总统奥巴马</a>；</p>
+<p style="TEXT-INDENT:2em">
+	<strong>最年轻的美国总统：西奥多·罗斯福</strong>（老罗斯福）&#160;<a href="http://www.xixik.com/content/ab2489d6b9b2caa3" title="美国最年轻的总统 不是肯尼迪是西奥多·罗斯福">美国最年轻的总统不是肯尼迪</a>（上任时43岁），而是西奥多·罗斯福（上任时42岁）。西奥多·罗斯福，人称老罗斯福。1901年总统威廉·麦金莱被无政府主义者刺杀身亡，他继任成为美国总统。他的独特个性和改革主义政策，使他成为美国历史上最伟大的总统之一。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>最年长的，最无知的，最粗俗的，<a href="http://www.xixik.com/content/6012d0f93f73c6cd" style="color:#000;" title="最差的美国总统">最差的美国总统</a>：唐纳德·<a href="http://114.xixik.com/us-president/trump/" style="color:#000" title="特朗普">特朗普</a></strong> 之前保持最年长记录的罗纳德·里根（69岁11月14天），唐纳德·<a href="http://114.xixik.com/us-president/trump/" style="color:#000" title="特朗普">特朗普</a> 上任时（70岁7月6天），美国卡内基-梅隆大学的语言技术研究所一项研究通过分析，<a href="http://www.xixik.com/content/08a6b3799a3d9c72">特朗普的语法水平仅和10到11岁的小学生相当</a>。<a href="http://www.xixik.com/content/2c8c491a60eeed9f" target="_blank" title="特朗普爱说谎话 上任后说谎3000多次 日均6.5次">特朗普爱说谎话 上任后说谎3000多次 日均6.5次</a>，多个<a href="http://114.xixik.com/us-president/ranking/" title="美国总统历史排名">美国总统历史排名</a>显示<a href="http://www.xixik.com/content/29fe111d2a3a960b" title="美国最伟大总统排名 奥巴马位列前10 特朗普垫底">特朗普已经成为美国历史上最糟糕的总统</a>。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>最有魅力的美国总统：约翰·F·肯尼迪</strong> 1960年11月，肯尼迪在大选中以微弱的优势战胜对手，<a href="http://www.xixik.com/content/ab2489d6b9b2caa3">成为美国有史以来第二年轻的总统</a>（年仅43岁）。<a href="http://www.xixik.com/content/7265ea39030f5bd8" title="肯尼迪时代">肯尼迪极富个人魅力，他年轻英俊，言谈举止风趣有活力</a>，即使在局势动乱的年头也给美国民众带来了极大的希望和勇气。人们称他是美国历史上最有魅力的总统。可惜的是<a href="http://www.xixik.com/content/5c756226c8fc1943" title="肯尼迪遇刺身亡">1963年11月22日肯尼迪在达拉斯遇刺身亡</a>。他是美国历史上迄今唯一信奉罗马天主教的总统和唯一获得普利策奖的总统。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>美国历史上婚龄最长的总统：乔治·赫伯特·沃克·布什</strong>（老布什）&#160;<a href="http://www.xixik.com/content/bafb2650146f3e48" title="辍学早婚做全职主妇 被女权主义歧视的布什夫人">老布什与芭芭拉于1945年结婚</a>，育有6个子女，其中一个女儿夭折。芭芭拉表示自己这辈子最大的幸福就是“嫁了个好丈夫，生了些好孩子”。他们的儿子乔治·W·布什（小布什）于2001年至2009年期间出任美国第43任总统。芭芭拉祖上出过总统，她是美国总统的妻子，是美国总统的母亲，可以说是美国历史上与总统最有渊源的女性之一。与老布什结发73年的芭芭拉2019年4月去世，享年92岁。芭芭拉是一位“了不起的第一夫人，“<a href="http://www.xixik.com/content/e08b6d26d9638dd2" style="text-indent: 2em;">她把爱与知识带给了百万美国人</a>”。<a href="http://www.xixik.com/content/052a8ce66358eb57" style="text-indent: 2em;" target="_blank" title="美国总统的婚姻：十对美国总统结婚当天老照片">十对美国总统结婚当天老照片</a></p>
+<p style="TEXT-INDENT:2em">
+	<strong>最像演员的美国总统：比尔·<a href="http://114.xixik.com/us-president/bill-clinton/" style="color:#000" title="克林顿">克林顿</a></strong> <a href="http://www.xixik.com/content/18675a74e01c8a20">克林顿最出名的莱温斯基拉链门事件</a>，他爱表现：吹萨克斯、频频出访确立外交形象，连带自己的夫人和女儿也大大出名。<a href="http://www.xixik.com/content/52d5f6205684a473" title="比尔·克林顿的演讲一级棒的三大技能">没有人会否认克林顿高超的演讲才能</a>，克林顿每一次的公开演讲都被认为颇能打动人心。他在任的几年美国的经济比里根、布什时代都好，失业率也降到最低。更重要的是预见互联网的发展，并极大鼓励推动其发展，让美国成为世界互联网的领导者。</p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://www.xixik.com/content/5299b072b3a5e6f1" title="美国总统们都毕业于哪些大学">诞生美国总统最多的大学：哈佛大学</a></strong>&#160;<a href="http://www.xixik.com/content/558a7569d80eee2e" title="哈佛大学诞生了8位美国总统">哈佛大学已经诞生了8位总统校友</a>（也就是44位总统中的18%）：约翰·亚当斯（美国第2任总统）、约翰·昆西·亚当斯（美国第6任总统）、拉瑟福德·海斯（美国第19任总统）、西奥多·罗斯福（美国第26任总统）、富兰克林·罗斯福（美国第32任总统）、约翰·肯尼迪（美国第35任总统）、小布什（美国第43任总统），奥巴马（美国第44任总统）。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/1cd791c737f62de3" title="美国总统出身律师最多"><strong>美国总统出身最多的职业：律师</strong></a>&#160;细数美国建国以来的历任44位总统，<a href="http://www.xixik.com/content/78b80c51b6539501" title="44位美国历任总统律师出身过半">其中竟有25位是律师出身的</a>，比例高达57%。律师成为政治精英，俨然成为美国政治文化中的一个突出现象。美国为何能有如此众多的律师成为总统？有人将原因归为美国的自由、民主、法治，也有人将原因归为法律人独有的政治家理想，一种带领他们冲破商业化迷津、不断朝前奋斗的理想。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/344e7f7432abd116"><strong>盛产</strong><strong>美国</strong><strong>总统最多的州</strong><strong>：弗吉尼亚州</strong></a><strong>&#160;</strong>1776年7月4日第二届大陆会议通过弗吉尼亚代表托马斯·杰斐逊参与起草的《独立宣言》。迄今为止（截至2019年10月）美国已有44位总统，他们分别出生在21个州，其中有8位是弗吉尼亚人，他们是：乔治·华盛顿、托马斯·杰斐逊、詹姆斯·麦迪逊、詹姆斯·门罗、威廉·哈里森、约翰·泰勒、扎卡里·泰勒和伍德罗·威尔逊。弗吉尼亚州可谓是盛产总统的风水宝地，故弗吉尼亚州号称美国的“总统之乡”。另外俄亥俄州7位，纽约州5位，麻萨诸塞州4位。<a href="http://114.xixik.com/usa-stats/">美国50州别称</a></p>
+<p style="TEXT-INDENT:2em">
+	<strong>任期最短的<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>：威廉·哈里森</strong>&#160;<a href="http://www.xixik.com/content/e1b46055dff2c39c" title="回顾美国历任总统“最好”及“最差”就职演说">哈里森的就职演说不仅是史上最长的（大约有8445个字）</a>，打破了美国的惯例，同时也是史上文笔最糟糕的就职演说之一。当天冰冷的天气还让哈里森患上感冒，并继发肺炎，这让他在就职仅一个月后便去世了。在任仅31天，因严重的感冒加上年事已高而去世，1841年4月6日，约翰·泰勒成为第一位因现任总统死亡而入主白宫的<a href="http://114.xixik.com/us-president/" style="color:#000;" title="美国总统">美国总统</a>。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>任期最长的美国总统：富兰克林·罗斯福</strong>（小罗斯福） 富兰克林·罗斯福由于扭转了究竟大萧条，又领导了二战，威望达到了顶峰，<a href="http://www.xixik.com/content/22d70046f63dfd8b" title="为什么罗斯福能任四届总统？">成为美国历史上唯一连任超过两届的总统，一共担任四届</a>（任期：1933-1945），当了12年又39天的总统（病逝于第四届任期中，只担任了73天职务就去世了），由此打破美国第一届总统乔治·华盛顿在连任两期后自动退下，<a href="http://www.xixik.com/content/55f02887dfbe55eb" title="美国历任总统在任时间">形成的总统只能连任两届的不成文惯例</a>。在罗斯福去世后，<a href="http://114.xixik.com/us-constitution/" style="color:#000;" title="美国宪法">美国宪法</a>第二十二修正案于1947年3月21日由美国国会批准提交各州认可，并于1951年2月27日通过，总统只可以连任两届，如果在一个任期的一半时间内退下，他再次当选后最多还可以连任两期。<a href="http://www.xixik.com/content/44d87da3bc40ee5d" title="美国大多数人认为限制总统任期是为保护自由做出的取舍">美国大多数人认为限制总统任期是为保护自由做出的取舍</a>。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>美国总统的“唯一”和“第一”</strong></p>
+<p style="TEXT-INDENT:2em">
+	<span style="text-indent: 0px;">乔治·华盛顿&#160;</span>George Washington&#160;<span style="text-indent: 0px;">是美国历史上第一个也是最后一个全票当选的总统。</span></p>
+<p style="TEXT-INDENT:2em">
+	约翰·昆西·亚当斯 John Quincy Adams 是唯一一位卸任后当选众议院议员的<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>。>><a href="http://www.xixik.com/content/16737b26f1e860da" target="_blank" title="尽显时代特色：历届美国总统退休去向大揭秘">历届美国总统退休去向大揭秘</a></p>
+<p style="TEXT-INDENT:2em">
+	安德鲁·约翰逊 Andrew Johnson 是唯一一位卸任后当选参议院议员的美国总统。</p>
+<p style="TEXT-INDENT:2em">
+	格罗弗·克利夫兰 Grover Cleveland 是唯一一位在职其间结婚的美国总统。并且是唯一非连任当选两次的<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>。</p>
+<p style="TEXT-INDENT:2em">
+	本杰明·哈里森 Benjamin Harrison 是唯一一位祖父也是总统的美国总统。</p>
+<p style="TEXT-INDENT:2em">
+	威廉·H·塔夫脱 William H. Taft 是唯一一位卸任后在联邦最高法院任职的美国总统 。</p>
+<p style="TEXT-INDENT:2em">
+	沃伦·盖玛利尔·哈定 Warren Gamaliel Harding 是美国历史上第一位坐着汽车去白宫就职的总统，也是电台上第一次广播的总统就职典礼。</p>
+<p style="TEXT-INDENT:2em">
+	德怀特·D·艾森豪威尔 Eisenhower是第一位就职典礼通过电视转播的<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a> 。</p>
+<p style="TEXT-INDENT:2em">
+	约翰·F·肯尼迪 John F. Kennedy 总统任职六天后第一个通过电视现场直播举行记者招待会。</p>
+<p style="TEXT-INDENT:2em">
+	贝拉克·侯赛因·<a href="http://114.xixik.com/us-president/obama/" style="color:#000" title="奥巴马">奥巴马</a> Barack Hussein Obama II&#160;是美国历史上第一个非洲裔的<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>。</p>
+<p style="TEXT-INDENT:2em">
+	唐纳德·<a href="http://114.xixik.com/us-president/trump/" style="color:#000" title="特朗普">特朗普</a>&#160;Donald&#160;John&#160;Trump&#160;是美国历史上唯一一个商人出身的靠民粹上台的美国总统。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor5"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        美国总统轶事</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<strong><a href="http://www.xixik.com/content/8d949a0274610852" title="美国总统族裔">美国总统族裔</a></strong></p>
+<p style="TEXT-INDENT:2em">
+	大多数美国总统都是英格兰人后裔，<a href="http://www.xixik.com/content/e9a67c9251d3e7c7" style="text-indent: 2em;" title="美国第一大族裔是徳裔">三名总统是德裔</a>，他们是<a href="http://www.xixik.com/content/1f1ded46c25d2811" title="美国总统赫伯特·胡佛 白手起家却谋杀了一个时代">赫伯特&middot;胡佛</a>（任期1929年-1933年）、德怀特&middot;戴维&middot;艾森豪威尔（1953年-1961年在任）和现任的唐纳德&middot;特朗普（2017~）。艾森豪威尔作为将军，二战中曾对德国作战。主荷兰裔：马丁&middot;范布伦。另外，唯一具有黑人血统的总统贝拉克&middot;奥巴马（第44任总统）的祖籍是肯尼亚。只有哈里&middot;S&middot;杜鲁门的祖籍不明，他的家庭很贫困，无足轻重，没有相应的记载。<a href="http://www.xixik.com/content/7eaff2ba1980e001" title="美国自然出生公民才可以竞选美国总统">美国宪法规定自然出生在美国（Nature Born Citizen）才可以竞选美国总统</a>，防火防盗主要是防英国人。美国制宪者担心极有可能出现的场景：一位拥有巨额财富和大量随从的欧洲贵族，跨越大西洋来到新生的美国，取得公民资格后，运用他的雄厚财力，以任何一位本土美国人无法匹敌的优势，扩大自己的政治影响力，成功登上总统宝座。毕竟那时候美国不是世界第一强国&hellip;&hellip;</p>
+<p style="TEXT-INDENT:2em">
+	<strong>美国总统的婚姻</strong></p>
+<p style="TEXT-INDENT:2em">
+	几乎所有美国总统的婚姻状况都是已婚，其中有几人丧偶。唯一的例外是詹姆斯&middot;布坎南（1857年-1861年任总统），历史学家认为他是同性恋者。他自己说，他没有结婚，因为他的未婚妻在结婚前不久去世。格罗弗&middot;克利夫兰是唯一一位<a href="http://www.xixik.com/content/8fbf90370fcf53bd" title="白宫婚礼">在白宫中结婚</a>的美国总统，当时此事掀起轩然大波，几乎成了丑闻，只是因为这位49岁的新郎迎娶了一位21岁的新娘。</p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://www.xixik.com/content/43cbc3dc5eefc893">美国总统平均身高180.3CM</a></strong></p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:40%">
+	<tbody>
+		<tr>
+			<th>
+				排名</th>
+			<th>
+				任期</th>
+			<th>
+				美国总统名字</th>
+			<th>
+				身高CM</th>
+		</tr>
+		<tr>
+			<td>
+				1</td>
+			<td>
+				第19、20届</td>
+			<td>
+				亚伯拉罕&middot;林肯</td>
+			<td>
+				193</td>
+		</tr>
+		<tr>
+			<td>
+				2</td>
+			<td>
+				第44、45届</td>
+			<td>
+				林登&middot;约翰逊</td>
+			<td>
+				192</td>
+		</tr>
+		<tr>
+			<td>
+				3</td>
+			<td>
+				第58届</td>
+			<td>
+				唐纳德&middot;特朗普</td>
+			<td>
+				190</td>
+		</tr>
+		<tr>
+			<td>
+				4</td>
+			<td>
+				第4、5届</td>
+			<td>
+				托马斯&middot;杰斐逊</td>
+			<td>
+				189</td>
+		</tr>
+		<tr>
+			<td>
+				5</td>
+			<td>
+				第1、2届</td>
+			<td>
+				乔治&middot;华盛顿</td>
+			<td>
+				188</td>
+		</tr>
+		<tr>
+			<td>
+				5</td>
+			<td>
+				第24届</td>
+			<td>
+				切斯特&middot;艾伦&middot;阿瑟</td>
+			<td>
+				188</td>
+		</tr>
+		<tr>
+			<td>
+				5</td>
+			<td>
+				第37、38、39、40届</td>
+			<td>
+				富兰克林&middot;罗斯福</td>
+			<td>
+				188</td>
+		</tr>
+		<tr>
+			<td>
+				5</td>
+			<td>
+				第51届</td>
+			<td>
+				乔治&middot;赫伯特&middot;布什</td>
+			<td>
+				188</td>
+		</tr>
+		<tr>
+			<td>
+				5</td>
+			<td>
+				第52、53届</td>
+			<td>
+				比尔&middot;克林顿</td>
+			<td>
+				188</td>
+		</tr>
+		<tr>
+			<td>
+				10</td>
+			<td>
+				第56、57届</td>
+			<td>
+				巴拉克&middot;奥巴马</td>
+			<td>
+				187</td>
+		</tr>
+		<tr>
+			<td>
+				11</td>
+			<td>
+				第44届</td>
+			<td>
+				约翰&middot;肯尼迪</td>
+			<td>
+				186</td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://www.xixik.com/content/aa8cb84aa3e6f06f" title="没有经过选举的九位美国总统">没有经过选举的九位美国总统</a></strong></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/cc68249206e4690f" title="美国副总统是美国的储君">美国副总统是美国的储君</a>，美国历史上共有九位<a href="http://114.xixik.com/vice-president/" style="color:#000" title="副总统">副总统</a>被扶正成为总统。</p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="margin: auto; width: 60%;">
+	<tbody>
+		<tr>
+			<th>
+				序号</th>
+			<th>
+				任数</th>
+			<th>
+				在任时间</th>
+			<th>
+				被扶正的副总统</th>
+			<th>
+				前任总统</th>
+		</tr>
+		<tr>
+			<td>
+				1</td>
+			<td>
+				10</td>
+			<td>
+				1841~1844</td>
+			<td>
+				约翰&middot;泰勒 John Tyler</td>
+			<td>
+				哈里森</td>
+		</tr>
+		<tr>
+			<td>
+				2</td>
+			<td>
+				13</td>
+			<td>
+				1850~1853</td>
+			<td>
+				米勒德.菲尔莫尔 Millard Fillmore</td>
+			<td>
+				扎卡里&middot;泰勒</td>
+		</tr>
+		<tr>
+			<td>
+				3</td>
+			<td>
+				17</td>
+			<td>
+				1865~1869</td>
+			<td>
+				安德鲁&middot;约翰逊 Andrew Johnson</td>
+			<td>
+				林肯</td>
+		</tr>
+		<tr>
+			<td>
+				4</td>
+			<td>
+				21</td>
+			<td>
+				1881~1885</td>
+			<td>
+				切斯特&middot;A&middot;阿瑟 Chester A. Arthur</td>
+			<td>
+				加菲尔德</td>
+		</tr>
+		<tr>
+			<td>
+				5</td>
+			<td>
+				26</td>
+			<td>
+				1901~1909</td>
+			<td>
+				西奥多&middot;罗斯福 Theodore Roosevelt</td>
+			<td>
+				麦金莱</td>
+		</tr>
+		<tr>
+			<td>
+				6</td>
+			<td>
+				30</td>
+			<td>
+				1923~1929</td>
+			<td>
+				卡尔文&middot;柯立芝 Calvin Coolidge</td>
+			<td>
+				沃伦&middot;G&middot;哈定</td>
+		</tr>
+		<tr>
+			<td>
+				7</td>
+			<td>
+				33</td>
+			<td>
+				1945~1953</td>
+			<td>
+				哈里&middot;S&middot;杜鲁门 Harry S. Truman</td>
+			<td>
+				罗斯福</td>
+		</tr>
+		<tr>
+			<td>
+				8</td>
+			<td>
+				36</td>
+			<td>
+				1963~1969</td>
+			<td>
+				林登&middot;B&middot;约翰逊 Lyndon B. Johnson</td>
+			<td>
+				肯尼迪</td>
+		</tr>
+		<tr>
+			<td>
+				9</td>
+			<td>
+				38</td>
+			<td>
+				1974~1977</td>
+			<td>
+				杰拉尔德&middot;R&middot;福特 Gerald Rudolph Ford</td>
+			<td>
+				尼克松</td>
+		</tr>
+		<tr>
+			<td colspan="5">
+				来源：美国历任总统：<a href="http://114.xixik.com/us-president/" title="美国历任总统">http://114.xixik.com/us-president/</a></td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT:2em">
+	<strong>有四位<a href="http://114.xixik.com/vice-president/" style="color:#000;" title="美国副总统">副总统</a>在现任总统任满后参选并顺利接任总统职务</strong>，他们是：</p>
+<p style="TEXT-INDENT:2em">
+	约翰&middot;亚当斯，是乔治&middot;华盛顿总统任内的<a href="http://114.xixik.com/vice-president/" style="color: rgb(0, 0, 0);" title="副总统">副总统</a>（1789－1797年），1796年成功当选并顺利接任总统。<br />
+	　　托马斯&middot;杰斐逊，是约翰&middot;亚当斯总统任内的<a href="http://114.xixik.com/vice-president/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="副总统">副总统</a>（1797－1801年），1800年击败亚当斯接任总统。<br />
+	　　马丁&middot;范布伦，是安德鲁&middot;杰克逊总统任内的<a href="http://114.xixik.com/vice-president/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="副总统">副总统</a>（1833－1837年），1836年成功当选并顺利接任总统。<br />
+	　　乔治&middot;H&middot;W&middot;布什，是罗纳德&middot;里根总统任内的<a href="http://114.xixik.com/vice-president/" style="color: rgb(0, 0, 0);" title="副总统">副总统</a>（1981－1989年），1988年成功当选并顺利接任总统。<br />
+	　　而尼克松是个例外，他是唯一一位<a href="http://114.xixik.com/vice-president/" style="color: rgb(0, 0, 0);" title="副总统">副总统</a>任期结束后竞选<a href="http://114.xixik.com/us-president/" style="color: rgb(0, 0, 0);" title="美国总统">美国总统</a>失败，后又东山再起的人。</p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://www.xixik.com/content/b1a4d7a0ea30a105" title="150年无人能破“国务卿当不了总统”的魔咒">六位既当过国务卿又当过总统</a></strong></p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="margin: auto; width: 640px;">
+	<tbody>
+		<tr>
+			<th>
+				总统任数</th>
+			<th>
+				总统名字</th>
+			<th>
+				总统任期</th>
+			<th>
+				国务卿任期</th>
+			<th>
+				时任总统</th>
+		</tr>
+		<tr>
+			<td>
+				第3任</td>
+			<td>
+				托马斯&middot;杰斐逊</td>
+			<td>
+				1801~1809</td>
+			<td>
+				1790年03月22日~1793年12月31日</td>
+			<td>
+				乔治&middot;华盛顿</td>
+		</tr>
+		<tr>
+			<td>
+				第4任</td>
+			<td>
+				詹姆斯&middot;麦迪逊</td>
+			<td>
+				1809~1817</td>
+			<td>
+				1801年05月02日~1809年03月03日</td>
+			<td>
+				托马斯&middot;杰斐逊</td>
+		</tr>
+		<tr>
+			<td>
+				第5任</td>
+			<td>
+				詹姆斯&middot;门罗</td>
+			<td>
+				1817~1825</td>
+			<td>
+				1811年04月02日~1817年03月03日</td>
+			<td>
+				詹姆斯&middot;麦迪逊</td>
+		</tr>
+		<tr>
+			<td>
+				第6任</td>
+			<td>
+				约翰&middot;昆西&middot;亚当斯</td>
+			<td>
+				1825~1829</td>
+			<td>
+				1817年09月22日~1825年03月03日</td>
+			<td>
+				詹姆斯&middot;门罗</td>
+		</tr>
+		<tr>
+			<td>
+				第8任</td>
+			<td>
+				马丁&middot;范布伦</td>
+			<td>
+				1837~1841</td>
+			<td>
+				1829年03月28日~1831年05月23日</td>
+			<td>
+				安德鲁&middot;杰克逊</td>
+		</tr>
+		<tr>
+			<td>
+				第15任</td>
+			<td>
+				詹姆斯&middot;布坎南</td>
+			<td>
+				1857~1861</td>
+			<td>
+				1845年03月10日~1849年03月07日</td>
+			<td>
+				詹姆斯&middot;波尔克</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	　　&nbsp;美国自立国以来，有六位总统曾当过<a href="http://114.xixik.com/secretary-of-state/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="国务卿">国务卿</a>，美国开国先贤们轮流当完国务卿再<span style="text-indent: 28px;">当总统</span>。但自从1856年布坎南当选第15任总统后，<a href="http://114.xixik.com/secretary-of-state/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="国务卿">国务卿</a>职位就成为总统候选人的黑洞，此后160年，无人能破&ldquo;国务卿当不了总统&rdquo;的魔咒。<a href="http://www.xixik.com/content/3f67c759bf4fc791" style="text-indent: 2em;">2016年希拉里赢得了选民票却还败给了特朗普</a>，这是历史的遗憾，是美国的耻辱。</p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://www.xixik.com/content/75ac5c6676b747bc" title="九位美国总统遭遇刺杀有四位死亡">九位美国总统遇刺</a>、<a href="http://www.xixik.com/content/2e30e14bf125e937" title="美国历史上被刺杀的9位总统：仅有 4位不幸遇难">四位被刺杀身亡</a></strong></p>
+<p>
+	　　亚伯拉罕&middot;林肯 Abraham Lincoln （1865）<br />
+	　　詹姆斯&middot;A&middot;加菲尔德 James Garfield （1881）<br />
+	　　威廉&middot;麦金莱 William McKinley （1901）<br />
+	　　<a href="http://www.xixik.com/content/73a38b79c0a233e9" title="到底是谁刺杀了肯尼迪总统？">约翰&middot;F&middot;肯尼迪</a> John F. Kennedy （1963）</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/63d57df27213ede1" target="_blank" title="除了被刺杀相同 林肯和肯尼迪种种巧合是编造的">除了被刺杀相同 林肯和肯尼迪种种巧合是编造的</a></p>
+<p style="TEXT-INDENT:2em">
+	<strong>四位美国总统任职其间病故</strong></p>
+<p>
+	　　威廉&middot;亨利&middot;哈里森 William H. Harrison （1841）<br />
+	　　扎卡里&middot;泰勒 Zachary Taylor （1850）<br />
+	　　沃伦&middot;G&middot;哈定 Warren G. Harding （1923）<br />
+	　　富兰克林&middot;D&middot;罗斯福 Franklin D. Roosevelt （1945）</p>
+<p style="TEXT-INDENT:2em">
+	综合上述统计，<a href="http://www.xixik.com/content/d6d25d23c93d3bf4">美国历史上共有八位美国总统死于任内</a>。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/911ae8639359ef7f" title="9位美国总统被刺杀5位幸存"><strong>五位美国总统任职其间被刺但幸免于难</strong></a></p>
+<p style="TEXT-INDENT:2em">
+	安德鲁&middot;杰克逊 Andrew Jackson （1835）<br />
+	　　富兰克林&middot;D&middot;罗斯福 Franklin Roosevelt （1933）<br />
+	　　哈里&middot;S&middot;杜鲁门 Harry Truman （1950）<br />
+	　　杰拉尔德&middot;R&middot;福特 Gerald R. Ford （1975）<br />
+	　　罗纳德&middot;里根 Ronald Reagan （1981）</p>
+<p style="TEXT-INDENT:2em">
+	<strong>三位总统都死于美国独立日（7月4日）</strong></p>
+<p style="TEXT-INDENT:2em">
+	约翰&middot;亚当斯John Adams （1735年10月30日－1826年7月4日）<br />
+	　　托马斯&middot;杰斐逊 Thomas Jefferson（1743年4月13日-1826年7月4日）<br />
+	　　詹姆斯&middot;门罗 James Monroe（1758年4月28日&mdash;1831年7月4日）</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/cdf499f12b797708" title="美国历史上被弹劾的三位总统"><strong>三位美国总统被弹劾或辞职</strong></a></p>
+<p style="TEXT-INDENT:2em">
+	安德鲁&middot;约翰逊 Andrew Johnson：1868年2月22日，众议院通过弹劾调查，到<a href="http://114.xixik.com/congress/" style="color:#000;" title="参议院">参议院</a>宣判无罪，共持续了94天，继续任职。<br />
+	　　理查德&middot;尼克松 Richard Nixon：1974年2月6日，<a href="http://114.xixik.com/congress/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="众议院">众议院</a>通过弹劾调查，尼克松主动辞职，共持续了184天。<br />
+	　　比尔&middot;<a href="http://114.xixik.com/us-president/bill-clinton/" style="text-indent: 2em;" title="克林顿">克林顿</a>&nbsp;Bill Clinton：1998年10月8日，<a href="http://114.xixik.com/congress/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="众议院">众议院</a>批准了弹劾调查，到<a href="http://114.xixik.com/congress/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="参议院">参议院</a>宣判无罪，共持续了127天，继续任职 。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/d7fb1bc793a79293" target="_blank" title="总统也烦恼 历届美国总统丑闻大盘点（双语）">历届美国总统丑闻大盘点</a></p>
+<p>
+	<img src="http://img.xixik.net/cimg/020/xixik_98f0dfc9cabb20b4.jpg" style="text-indent: 28px; margin: 10px; float: right; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/4037dc9f377f2bb8" title="拉什莫尔山国家纪念公园"><strong>总统山上的四位总统雕像</strong></a></p>
+<p style="TEXT-INDENT:2em">
+	拉什莫尔山国家纪念公园，俗称为美国总统山，位于南达科他州基斯通。公园内有四座高达60英尺（约合18米）的美国历史上著名的前总统头像，分别雕刻着18米高的四位总统头像，从左到右分别是：</p>
+<p>
+	　　乔治&middot;华盛顿（1789年到1797年任第1任总统，联邦党人）<br />
+	　　托马斯&middot;杰斐逊（1801年到1809年任第3任总统，民主共和党人）<br />
+	　　西奥多&middot;罗斯福（1901年到1909年任第26任总统，共和党人）<br />
+	　　亚伯拉罕&middot;林肯（1861年到1865年任第16任总统，共和党人）</p>
+<p style="TEXT-INDENT:2em">
+	这四位总统被认为代表了美国建国150年来的历史。论总统知名度，为何少了富兰克林&middot;罗斯福呢？这项工程始于1927年，那时候富兰克林&middot;罗斯福还只是个律师呢。</p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://www.xixik.com/content/acd23dc7a5829968" title="美国家族政治王朝 那些是亲戚的美国总统">有亲戚关系的美国总统</a></strong>（<a href="http://www.xixik.com/content/a05c74018291954f" target="_blank" title="美国历史上两对”父子总统“：亚当斯父子布什父子">两对&rdquo;父子总统&ldquo;</a>、<a href="http://www.xixik.com/content/181460baf78db8d5" target="_blank" title="美国政治四大家族历史现状  掌握百年美国政治">美国政治四大家族</a>）</p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:80%">
+	<tbody>
+		<tr>
+			<th>
+				任数</th>
+			<th>
+				总统名字</th>
+			<th>
+				任数</th>
+			<th>
+				总统名字</th>
+			<th>
+				关系</th>
+		</tr>
+		<tr>
+			<td>
+				第二任</td>
+			<td>
+				约翰&middot;亚当斯</td>
+			<td>
+				第六任</td>
+			<td>
+				约翰&middot;昆西&middot;亚当斯</td>
+			<td>
+				父子关系</td>
+		</tr>
+		<tr>
+			<td>
+				第九任</td>
+			<td>
+				威廉&middot;亨利&middot;哈里森</td>
+			<td>
+				第二十三任</td>
+			<td>
+				本杰明&middot;哈里森</td>
+			<td>
+				祖孙关系</td>
+		</tr>
+		<tr>
+			<td>
+				第二十六任</td>
+			<td>
+				西奥多&middot;罗斯福（老罗斯福）</td>
+			<td>
+				第三十二任</td>
+			<td>
+				富兰克林&middot;德拉诺&middot;罗斯福（小罗斯福）</td>
+			<td>
+				叔侄关系</td>
+		</tr>
+		<tr>
+			<td>
+				第四十一任</td>
+			<td>
+				乔治&middot;赫伯特&middot;沃克&middot;布什（老布什）</td>
+			<td>
+				第四十三任</td>
+			<td>
+				乔治&middot;沃克&middot;布什（小布什）</td>
+			<td>
+				父子关系</td>
+		</tr>
+		<tr>
+			<td colspan="5">
+				来源：有亲戚关系的美国总统：<a href="http://114.xixik.com/us-president/" title="美国历任总统">http://114.xixik.com/us-president/</a></td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/d4f81549a9d1d241" title="八位是左撇子的美国总统"><strong>八位是左撇子的美国总统</strong></a></p>
+<p style="TEXT-INDENT:2em">
+	詹姆斯&middot;加菲尔德<br />
+	　　赫伯特&middot;胡佛<br />
+	　　哈利&middot;杜鲁门<br />
+	　　杰拉尔德&middot;福特<br />
+	　　罗纳德&middot;里根<br />
+	　　老布什<br />
+	　　比尔&middot;克林顿<br />
+	　　巴拉克&middot;奥巴马</p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://114.xixik.com/us-president/ranking/" title="美国总统排名">美国总统历史排名</a></strong></p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://114.xixik.com/us-president/ranking/" title="美国总统排名">美国最好的总统？</a></strong>&darr;</p>
+<p>
+	　　1、亚伯拉罕&middot;林肯<br />
+	　　2、乔治&middot;华盛顿<br />
+	　　3、富兰克林&middot;罗斯福<br />
+	　　4、西奥多&middot;罗斯福<br />
+	　　5、德怀特&middot;艾森豪威尔<br />
+	　　6、哈里&middot;杜鲁门<br />
+	　　7、托马斯&middot;杰斐逊<br />
+	　　8、约翰&middot;肯尼迪<br />
+	　　9、罗纳德&middot;里根</p>
+<p style="text-indent: 2em;">
+	<strong><a href="http://114.xixik.com/us-president/greatest/" title="美国最伟大的总统">美国最伟大的三位总统</a></strong></p>
+<p>
+	　　乔治&middot;华盛顿 George Washington&mdash;&mdash;国父、领导独立战争胜利，建立美利坚合众国；<br />
+	　　亚伯拉罕&middot;林肯&nbsp;Abraham Lincoln&mdash;&mdash;确立联邦制共和国国体，解放黑奴；<br />
+	　　富兰克林&middot;D&middot;罗斯福&nbsp;Franklin D. Roosevelt&mdash;&mdash;赢得人类历史上规模最大、最惨烈的二战，<a href="http://www.xixik.com/content/22d70046f63dfd8b" title="史无前例：为什么罗斯福能任四届总统？">连续担任四届美国总统</a>；</p>
+<p style="text-indent: 2em;">
+	<a href="http://www.xixik.com/content/6012d0f93f73c6cd" title="美国最差总统"><strong>最差的美国总统</strong>&darr;</a>（倒数）</p>
+<p>
+	　　4、富兰克林&middot;皮尔斯<br />
+	　　3、安德鲁&middot;杰克逊<br />
+	　　2、詹姆斯&middot;布坎南<br />
+	　　1、唐纳德&middot;特朗普</p>
+<p style="text-indent: 2em;">
+	&mdash;&mdash;<a href="http://www.xixik.com/content/25d3de09e5f87419">来自美国有线电视台C-SPAN关于43位美国前总统排名</a></p>
+<p style="text-indent: 2em;">
+	1999年，&ldquo;有线-卫星公共事务电视网&rdquo;（C-SPAN）对历史学者进行调查，发现历史学家们认为乔治&middot;华盛顿、林肯和富兰克林&middot;罗斯福是美国最出色的三位总统，赞许度远超其他人；而威廉&middot;亨利&middot;哈里森、安德鲁&middot;约翰逊、福兰克林&middot;皮尔斯和詹姆斯&middot;布坎南是最失败的总统。</p>
+<p style="text-indent: 2em;">
+	2000年，《华盛顿邮报》也做了一次调查，结果显示受调查者认为只有乔治&middot;华盛顿、林肯和富兰克林&middot;罗斯福这三位才能称作&ldquo;伟大&rdquo;的总统，而只有安德鲁&middot;约翰逊、皮尔斯、哈定和布坎南能称作&ldquo;失败者&rdquo;。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/c9d3e22e03d3076f" title="死于贫困的美国总统"><strong>穷困潦倒的美国总统</strong></a></p>
+<p>
+	　　第3任总统：托马斯&middot;杰斐逊 Thomas Jefferson<br />
+	　　第5任总统：詹姆斯&middot;门罗 James Monroe<br />
+	　　第7任总统：安德鲁&middot;杰克逊 Andrew Jackson<br />
+	　　第11任总统：詹姆斯&middot;波尔克 James Knox Polk<br />
+	　　第13任总统：米勒德&middot;菲尔莫尔 Millrd Fillmore<br />
+	　　第18任总统：尤利西斯&middot;格兰特 Ulysses Simpson Grant<br />
+	　　第28任总统：伍德罗&middot;威尔逊 Woodrow Wilson</p>
+<p style="TEXT-INDENT:2em">
+	&mdash;&mdash;当然说这<a href="http://www.xixik.com/content/a75ae4f06cab3cd2" title="	“历史上六位美国总统死于贫困”的传言不可信">六位美国总统死于贫困的传言不可信</a>，了解<a href="http://www.xixik.com/content/024f9e87beab4b98" style="text-indent: 2em;" title="美国总统待遇">详细美国卸任总统待遇</a>&gt;&gt;</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/58b91d3af6c9c991"><strong>美国总统财富十大排行榜</strong></a></p>
+<p>
+	　　10 - 比尔&middot;克林顿，净资产：$ 5500万<br />
+	　　09 - 富兰克林&middot;罗斯福，净资产：$ 6000万<br />
+	　　08 - 赫伯特&middot;胡佛，净资产：$ 7500万<br />
+	　　07 - 林登&middot;约翰逊，净资产：$ 9800万<br />
+	　　06 - 詹姆斯&middot;麦迪逊，净资产：$ 1.01亿<br />
+	　　05 - 安德鲁&middot;杰克逊，净资产：$ 1.19亿<br />
+	　　04 - 西奥多&middot;罗斯福，净资产：$ 1.25亿<br />
+	　　03 - 托马斯&middot;杰斐逊，净资产：$ 2.12亿<br />
+	　　02 - 乔治&middot;华盛顿，净资产：$ 5.25亿<br />
+	　　01 - 约翰&middot;肯尼迪，净资产：$ 10亿</p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="margin: auto; width: 640px;">
+	<tbody>
+		<tr>
+			<td>
+				~</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&nbsp;</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor6"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        美国历任总统简历</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em;font-weight:bold;">
+	<a href="http://114.xixik.com/us-president/resume/" title="美国历任总统简历">美国历任总统简历</a>>></p>
+<p style="TEXT-INDENT:2em;font-weight:bold;">
+	美国第一任总统：乔治·华盛顿</p>
+<p style="TEXT-INDENT:2em">
+	1732年2月22日生于弗吉尼亚州威斯特摩县的蒲柏溪农场。<br />
+	　　1747年十五岁时辍学后当土地测量员。<br />
+	　　1753年宣誓就任弗吉尼亚志愿兵少校。<br />
+	　　1753—1754年给宾夕法尼亚西部法军下战书，勒令他们撤离俄亥俄河谷。<br />
+	　　1754年7月4日被迫以奈塞西迪要塞降于法方。<br />
+	　　1754—1758年参加对法军和印第安人的战争，晋升至上校，统领弗吉尼亚州志愿兵。<br />
+	　　1759年1月6日与玛莎·丹德里奇·卡斯蒂斯结婚。<br />
+	　　1774—1775年任弗吉尼亚州派往第一次及第二次大陆会议的代表团成员。<br />
+	　　1775—1783年在独立战争中任大陆军总司令。<br />
+	　　1787年任为制订<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>召开的制宪会议主席。<br />
+	　　1789—1797年任美利坚合众国第一任总统。<br />
+	　　1798年7月4日由于美法战争的危机，被授予中将军衔，任美利坚合众国部队总司令。<br />
+	　　1799年12月14日在弗吉尼亚州的维尔农山逝世。</p>
+<p style="TEXT-INDENT:2em;font-weight:bold;">
+	美国第二任总统：约翰·亚当斯</p>
+<p style="TEXT-INDENT:2em">
+	1735年10月30日生于马萨诸塞州布伦特里（今称昆西）。<br />
+	　　1755年毕业于哈佛大学。<br />
+	　　1758年开始从事律师业务。<br />
+	　　1764年10月25日与艾比盖尔·史密斯结婚。<br />
+	　　1774—1777年代表马萨诸塞州出席大陆会议。<br />
+	　　1779年草拟马萨诸塞州宪法。<br />
+	　　1778—1788年任美国驻欧洲外交使节。<br />
+	　　1789—1797年任美国第一任副总统。<br />
+	　　1797—1801年任美利坚合众国第二任总统。<br />
+	　　1826年7月4日在马萨诸塞州的昆西逝世。</p>
+<p style="TEXT-INDENT:2em;font-weight:bold;">
+	美国第三任总统：托马斯·杰斐逊</p>
+<p style="TEXT-INDENT:2em">
+	1743年4月13日生于弗吉尼亚州阿尔比弥县的夏德维尔。<br />
+	　　1762年毕业于威廉·玛利学院。<br />
+	　　1767年开始从事律师业务。<br />
+	　　1769—1779年任弗吉尼亚州议员。<br />
+	　　1772年1月1日与玛莎·韦利思·斯克尔顿结婚。<br />
+	　　1775—1776年作为弗吉尼亚州的代表团成员参加大陆会议，草拟《独立宣言》。<br />
+	　　1779—1781年任弗吉尼亚州州长。<br />
+	　　1783—1784年作为弗吉尼亚州代表团成员参加会议。<br />
+	　　1784—1785年作为国会的外交使节出使欧洲。<br />
+	　　1785—1789年任美国驻法国公使。<br />
+	　　1789—1793年任华盛顿政府的副总统。<br />
+	　　1797—1801年任约翰·亚当斯政府的副总统。<br />
+	　　1801—1809年任美国第三任总统。<br />
+	　　1816—1825年创立弗吉尼亚大学。并任第一任校长。<br />
+	　　1826年7月4日在弗吉尼亚州阿尔比弥县的蒙蒂塞洛逝世。</p>
+<p style="TEXT-INDENT:2em;font-weight:bold;">
+	美国第四任总统：詹姆斯·麦迪逊</p>
+<p style="TEXT-INDENT:2em">
+	1751年3月16日生于弗吉尼亚州康书港。<br />
+	　　1771年毕业于普林斯顿的新泽西州学院。<br />
+	　　1776年协助草拟弗吉尼亚州宪法。<br />
+	　　1776—1777年任弗吉尼亚州议会议员。<br />
+	　　1778—1779年任弗吉尼亚州参政会成员。<br />
+	　　1780—1783年出任国会代表。<br />
+	　　1784—1786年任弗吉尼亚州议会议员。<br />
+	　　1786年出席安纳波利斯会议代表。<br />
+	　　1787年出任制宪会议代表。<br />
+	　　1787—1788年任联邦议会代表，拟写了《联邦主义者》文集中的多篇文章。<br />
+	　　1789—1797年任国会众议员。<br />
+	　　1794年与多莉·佩斯·托德结婚。<br />
+	　　1799—1800年任弗吉尼亚议会议员。<br />
+	　　1801—1809年任杰斐逊政府<a href="http://114.xixik.com/secretary-of-state/" style="color:#000" title="美国国务卿">国务卿</a>。<br />
+	　　1809—1817年任美国第四任总统。<br />
+	　　1826年继任杰斐逊为弗吉尼亚大学校长。<br />
+	　　1829年任弗吉尼亚制宪会议的主席之一。<br />
+	　　1836年6月28日逝世于弗吉尼亚州奥兰治县的蒙特彼利埃庄园。</p>
+<p style="TEXT-INDENT:2em;font-weight:bold;">
+	美国第五任总统：詹姆斯·门罗</p>
+<p style="TEXT-INDENT:2em">
+	1758年4月28日生于弗吉尼亚州威斯特摩兰县。<br />
+	　　1776—1780年参加独立战争。晋升为中校。<br />
+	　　1782年任弗吉尼亚州议会议员。<br />
+	　　1783—1786年出席国会的弗吉尼亚州代表团成员。<br />
+	　　1786年2月16日与伊莉沙白·科特里特结婚。<br />
+	　　1786—1790年任弗吉尼亚州议会议员。<br />
+	　　1790—1794年任国会弗吉尼亚州参议员。<br />
+	　　1794—1796年任美国驻法国公使。<br />
+	　　1799—1802年任弗吉尼亚州州长。<br />
+	　　1803年参加购买路易斯安娜州的谈判。<br />
+	　　1803—1807年任美国驻英国公使。<br />
+	　　1811年任弗吉尼亚州州长。<br />
+	　　1811—1817年任<a href="http://114.xixik.com/secretary-of-state/" style="color:#000" title="美国国务卿">美国国务卿</a>。<br />
+	　　1814—1815年兼任美国陆军部部长。<br />
+	　　1817—1825年任美国第五任总统。<br />
+	　　1829年任弗吉尼亚制宪会议联合主席。<br />
+	　　1831年7月4日在纽约逝世。</p>
+<p style="TEXT-INDENT:2em;font-weight:bold;">
+	美国第六任总统：约翰·昆西·亚当斯</p>
+<p style="TEXT-INDENT:2em">
+	1767年7月11日生于马萨诸塞州的布伦特里（现称昆西）。<br />
+	　　1787年毕业于哈佛大学。<br />
+	　　1782年任弗吉尼亚州议会议员。<br />
+	　　1790年在波士顿开始从事律师业务。<br />
+	　　1794—1801年任美国派往若干个欧洲国家的外交使节。<br />
+	　　1797年2月26日与路易斯·凯瑟琳·约翰逊结婚。<br />
+	　　1803—1808年任国会马萨诸塞州参议员。<br />
+	　　1806—1809年任哈佛大学演说及修辞学教授。<br />
+	　　1809—1814年任第一任美国驻俄公使。<br />
+	　　1814年率领代表团进行《肯特和约》的谈判，从而结束了1812年的战争。<br />
+	　　1815—1817年任美国驻英公使。<br />
+	　　1817—1825年任<a href="http://114.xixik.com/secretary-of-state/" style="color:#000" title="美国国务卿">美国国务卿</a>。<br />
+	　　1825—1829年任第六任<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>。<br />
+	　　1830—1846年任美国国会马萨诸塞州众议员。<br />
+	　　1848年2月23日于华盛顿国会大厦逝世。</p>
+<p style="TEXT-INDENT:2em;font-weight:bold;">
+	美国第七任总统：安德鲁·杰克逊</p>
+<p style="TEXT-INDENT:2em">
+	1767年3月15日生于南卡罗莱纳州瓦克萨豪。<br />
+	　　1780—1781年独立战争中在武装部队服役。<br />
+	　　1787年在北卡罗莱纳曾取得律师资格，执行任务。<br />
+	　　1791年与雷切尔·唐奈尔逊·罗巴兹结婚。<br />
+	　　1795年参加田纳西州立宪会议。<br />
+	　　1796—1797年任美国国会田纳西州众议员。<br />
+	　　1798—1804年任田纳西州最高法院法官。<br />
+	　　1812—1815年在1812年战争中任少将。<br />
+	　　1817—1818年在佛罗里达州的塞米诺尔战役中指挥美国军队。<br />
+	　　1821年任佛罗里达领地监时总督。<br />
+	　　1823—1825年任国会田纳西州参议员。<br />
+	　　1829—1837年任美国第七任总统。<br />
+	　　1845年6月8日在团纳西州的纳什维尔附近的退隐庄园逝世。</p>
+<p style="TEXT-INDENT:2em;font-weight:bold;">
+	美国第八任总统：马丁·范布伦</p>
+<p style="TEXT-INDENT:2em">
+	1782年12月5日生于纽约州金德胡克。<br />
+	　　1803年获得律师资格，从事律师业务。<br />
+	　　1807年2月21日与汉纳·霍丝结婚。<br />
+	　　1812—1820年任纽约州参议员。<br />
+	　　1816—1819年任纽约州总检察长。<br />
+	　　1829年任纽约州州长。<br />
+	　　1829—1831年任<a href="http://114.xixik.com/secretary-of-state/" style="color:#000" title="美国国务卿">美国国务卿</a>。<br />
+	　　1831—1832年任美国驻英国公使。<br />
+	　　1833—1837年任<a href="http://114.xixik.com/vice-president/" style="color:#000" title="美国副总统">美国副总统</a>。<br />
+	　　1837—1841年任美国第八任总统。<br />
+	　　1862年7月24日在纽约州金德胡克逝世。</p>
+<p style="TEXT-INDENT:2em;font-weight:bold;">
+	美国第九任总统：威廉·亨利·哈里逊</p>
+<p style="TEXT-INDENT:2em">
+	1773年2月9日生于弗吉尼亚州，查尔斯城。<br />
+	　　1791—1797年在美国军队中服役，晋升至上尉。<br />
+	　　1795年11月25日与安娜·西姆斯结婚。<br />
+	　　1799—1800年任西北地区派驻国会代表。<br />
+	　　1800—1812年任印第安纳领地总督。<br />
+	　　1811年在蒂普卡努战役中击败肖尼族印第安人。<br />
+	　　1812—1814年在1812年战争中任将军。<br />
+	　　1817—1819年任美国国会俄亥俄州众议员。<br />
+	　　1819—1825年任俄亥俄州参议员。<br />
+	　　1825—1828年任国会俄亥俄州参议员。<br />
+	　　1828—1829年任美国驻哥伦比亚公使。<br />
+	　　1841年任美国第九任总统。<br />
+	　　1841年4月4日在白宫逝世。</p>
+<p style="TEXT-INDENT:2em;font-weight:bold;">
+	美国第十任总统：约翰·泰勒</p>
+<p style="TEXT-INDENT:2em">
+	1790年3月29日生于弗吉尼亚州，查尔斯城。<br />
+	　　1807年毕业于威廉·玛利学院。<br />
+	　　1809年取得律师资格，从事律师业务。<br />
+	　　1811—1816年任弗吉尼亚州议会议员。<br />
+	　　1813年3月29日与莱蒂希亚·克里斯琴结婚。<br />
+	　　1813年被任命为参加1812年战争的国民自卫队队长。<br />
+	　　1816—1821年任国会弗吉尼亚州众议员。<br />
+	　　1823—1825年任弗吉尼亚州州议员。<br />
+	　　1825—1827年任弗吉尼亚州州长。<br />
+	　　1827—1836年任国会弗吉尼亚州参议员。<br />
+	　　1841年任<a href="http://114.xixik.com/vice-president/" style="color:#000" title="美国副总统">美国副总统</a>。<br />
+	　　1841—1845年任美国第十任总统。<br />
+	　　1844年6月6日与朱莉娅·加德纳结婚。<br />
+	　　1861年任华盛顿的和平协商会议主席。<br />
+	　　1862年任美国南部帮联的国会议员。<br />
+	　　1862年1月18日死于弗吉尼亚州的里士满。</p>
+<p style="TEXT-INDENT:2em;font-weight:bold;">
+	美国第十一任总统：詹姆斯·诺克斯·波尔克</p>
+<p style="TEXT-INDENT:2em">
+	1795年11月2日生于北卡罗莱纳州的梅克伦堡城。<br />
+	　　1818年毕业于北卡罗莱纳州立大学。<br />
+	　　1820年在田纳西州联得律师资格，从事律师业务。<br />
+	　　1823—1825年任田纳西州议会议员。<br />
+	　　1824年1月1日与萨拉·蔡尔德雷丝结婚。<br />
+	　　1825—1839年任国会田纳西州众议员。<br />
+	　　1835—1839年任美国众议院议长。<br />
+	　　1839—1841年任田纳西州州长。<br />
+	　　1845—1849年任美国第十一任总统。<br />
+	　　1849年6月15日在田纳西州纳什乘维尔城逝世。</p>
+<p style="TEXT-INDENT:2em;font-weight:bold;">
+	美国第十二任总统：扎卡里·泰洛</p>
+<p style="TEXT-INDENT:2em">
+	1784年11月24日生于弗吉尼亚州的奥兰治县。<br />
+	　　1808—1848年在美国陆军服役，从中校晋升为少将。<br />
+	　　1810年6月21日与马格丽特·史密斯结婚。<br />
+	　　1847年2月22—23日在布埃纳维斯塔战争中凯旋而归。<br />
+	　　1849—1850年任美国第十二任总统。<br />
+	　　1850年7月9日在华盛顿逝世。</p>
+<p style="TEXT-INDENT:2em;font-weight:bold;">
+	美国第十三任总统：米拉德·菲尔莫尔</p>
+<p style="TEXT-INDENT:2em">
+	1800年1月7日生于纽约州卡尤加县。<br />
+	　　1815—1819年当织布工的学徒。<br />
+	　　1823年取得律师资格，在纽约从事律师业务。<br />
+	　　1826年2月5日与艾比盖尔·鲍苇尔丝结婚。<br />
+	　　1828—1831年任纽约州州议会议员。<br />
+	　　1837—1843年任美国国会纽约州众议员。<br />
+	　　1848年任纽约州主计官。<br />
+	　　1849—1850年任<a href="http://114.xixik.com/vice-president/" style="color:#000" title="美国副总统">美国副总统</a>。<br />
+	　　1850—1853年任第十三任<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>。<br />
+	　　1856年由美国党和辉格点联合提名为总统候选人，但未获选。<br />
+	　　1858年2月10日与卡罗琳·麦金托什结婚。<br />
+	　　1874年3月8日于纽约州布法罗市去世。</p>
+<p style="TEXT-INDENT:2em;font-weight:bold;">
+	美国第十四任总统：富兰克林·皮尔斯</p>
+<p style="TEXT-INDENT:2em">
+	1804年11月23日生于新罕布什尔州的希尔兹巴勒。<br />
+	　　1824年毕业于博多因学院 。<br />
+	　　1827年取得律师资格，从事律师业务。<br />
+	　　1829—1833年任新罕布什尔州州议员。<br />
+	　　1833—1837年任国会新罕布什尔州众议员。<br />
+	　　1834年11月10日与简·米恩丝·阿普尔顿结婚。<br />
+	　　1837—1842年任国会新罕布什尔州参议员。<br />
+	　　1846—1848年在墨西哥战争中被授与陆军准将衔。<br />
+	　　1850年任州制宪大会主席。<br />
+	　　1853—1857年任第十四任<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>。<br />
+	　　1869年10月8日在新罕布什尔州康科得逝世。</p>
+<p style="TEXT-INDENT:2em;font-weight:bold;">
+	美国第十五任总统：詹姆士·卜坎南</p>
+<p style="TEXT-INDENT:2em">
+	1791年4月23日生于宾夕法尼亚州的默塞尔斯堡附近。<br />
+	　　1809年毕业于迪金森学院。<br />
+	　　1812年开始在宾夕法尼亚州兰开斯特从事律师业务。<br />
+	　　1814—1816年任宾夕法尼亚州议员。<br />
+	　　1821—1831年任宾夕法尼亚州众议员。<br />
+	　　1839—1833年任美国驻俄大使。<br />
+	　　1834—1845年任国会宾夕法尼亚州参议员。<br />
+	　　1845—1849年任波克尔政府的<a href="http://114.xixik.com/secretary-of-state/" style="color:#000" title="美国国务卿">国务卿</a>。<br />
+	　　1853—1856年任美国驻英国大使。<br />
+	　　1857—1861年任第十五任<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>。<br />
+	　　1868年6月1日在宾夕法尼亚州开斯特附近的惠特家中逝世。</p>
+<p style="TEXT-INDENT:2em;font-weight:bold;">
+	美国第十六任总统：亚伯拉罕·林肯</p>
+<p style="TEXT-INDENT:2em">
+	1809年2月12日出生在肯塔基州霍詹维尔附近。<br />
+	　　1816年随父母迁居印第安纳州。<br />
+	　　1830年迁居伊利诺斯州。<br />
+	　　1832年在“黑鹰战争”中当志愿兵，但从未参加过战斗。<br />
+	　　1834—1842年任伊利诺斯州州议员。<br />
+	　　1836年取得律师资格，从事律师业务。<br />
+	　　1842年11月4日与玛利·托德结婚。<br />
+	　　1847—1849年当选美国国会伊利诺斯州的众议员。<br />
+	　　1856年作为共和党副总统候选人在竞选中失败。<br />
+	　　1858年和斯梯芬·A·道格拉斯进行奴隶制法案的大辩论，获得全国的赞扬。声誉卓著，但未能当选为参议员。<br />
+	　　1861—1865年任第十六任<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>。<br />
+	　　1865年4月14日被约翰·威尔克斯·布斯暗杀。<br />
+	　　1865年4月15日于首都华盛顿逝世。</p>
+<p style="TEXT-INDENT:2em;font-weight:bold;">
+	美国第十七任总统：安德鲁·约翰逊</p>
+<p style="TEXT-INDENT:2em">
+	1808年12月29日生于北卡罗纳州的罗利地方。<br />
+	　　1822—1824年当裁缝学徒。<br />
+	　　1827年5月17日与伊利莎·麦卡德尔结婚。<br />
+	　　1828—1830年任田纳西州格林维尔市议员。<br />
+	　　1835—1837年任田纳西州众议院议员。<br />
+	　　1839—1841年任田纳西州众议院议员。<br />
+	　　1841—1843年任田纳西州参议员。<br />
+	　　1843—1853年任国会田纳西州众议员。<br />
+	　　1853—1857年任田纳西州州长。<br />
+	　　1857—1862年任国会田纳西州参议员。<br />
+	　　1862—1864年任田纳西州军事长官。<br />
+	　　1865年任<a href="http://114.xixik.com/vice-president/" style="color:#000" title="美国副总统">美国副总统</a>。<br />
+	　　1865—1869年任第十七任<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>。<br />
+	　　1874—1875年任国会田纳西州参议员。<br />
+	　　1875年7月31日于田纳西州卡尔特站逝世。</p>
+<p style="TEXT-INDENT:2em;font-weight:bold;">
+	美国第十八任总统：尤利西斯·S·格兰特</p>
+<p style="TEXT-INDENT:2em">
+	1822年4月27日生于俄亥俄州的普莱曾特角。<br />
+	　　1839—1843年在西点军校学习。<br />
+	　　1843—1853年在美军任职，晋升为上尉。<br />
+	　　1848年8月22日与朱莉亚·登特结婚。<br />
+	　　1854—1858年在密苏里州圣路易斯附近务农。<br />
+	　　1860—1861年在伊利诺斯州加利纳的一家铺子里当店员。<br />
+	　　1861—1865年国内南北战争时期 升为联邦军总司令。<br />
+	　　1867—1868年在约翰逊政府中任临时陆军部长。<br />
+	　　1869—1877年任第十八任<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>。<br />
+	　　1880年由共和党提名为总统候选人，竞选中失败。<br />
+	　　1885年7月23日在纽约的麦克格里格尔山逝世。</p>
+<p style="TEXT-INDENT:2em;font-weight:bold;">
+	美国第十九任总统：拉瑟福德·伯查德·海斯（Rutherford Birchard Hayes）</p>
+<p style="TEXT-INDENT:2em">
+	1822年10月4日生于俄亥俄州特拉华。<br />
+	　　1842年毕业于肯杨学院。<br />
+	　　1843—1845年在哈佛大学学习法律。<br />
+	　　1845年在俄亥俄州从事律师业务。<br />
+	　　1852年12月30日与露西·惠尔·韦布结婚。<br />
+	　　1858—1861年任俄亥俄州辛辛那提市法务官。<br />
+	　　1861—1865年在南北战争中曾是联邦军官，故晋升为名誉少将。<br />
+	　　1865—1867年任俄亥俄州众议员（第二选区）。<br />
+	　　1868—1872年任俄亥俄州州长。<br />
+	　　1876—1877年任俄亥俄州州长。<br />
+	　　1877—1881年任第十九任<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>。<br />
+	　　1893年1月7日在俄亥俄州弗里蒙特逝世。</p>
+<p style="TEXT-INDENT:2em;font-weight:bold;">
+	美国第二十任总统：詹姆士·亚伯拉姆·加菲尔德</p>
+<p style="TEXT-INDENT:2em">
+	1831年11月19生于俄亥俄州的奥兰治。<br />
+	　　1856年毕业于威廉斯学院。<br />
+	　　1857—1861年进修于海天姆选修学院。<br />
+	　　1858年11月11日与璐克莱希娅·鲁道夫结婚。<br />
+	　　1859—1861年任俄亥俄州州参议员。<br />
+	　　1861—1863年国内战争时期在联邦军队中从中校晋升至少将。<br />
+	　　1863—1880年任国会俄亥俄州众议员。<br />
+	　　1880年任美国参议员。<br />
+	　　1881年任第二十任<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>。<br />
+	　　1881年7月2日在首都华盛顿遇刺。<br />
+	　　1881年9月19日于新泽西州爱尔伯朗去世。</p>
+<p style="TEXT-INDENT:2em;font-weight:bold;">
+	美国第二十一任总统：切斯特·A·亚瑟</p>
+<p style="TEXT-INDENT:2em">
+	1830年10月5日生于弗蒙特的费尔菲尔德。<br />
+	　　1848年毕业于联合大学。<br />
+	　　1853年取得律师资格，在纽约市从事律师业务。<br />
+	　　1859年10月29日与埃伦·刘易斯·赫尔登结婚。<br />
+	　　1861—1862年作为纽约州州长的部属，以准将军衔协助办理国内战争的军队给养工作。<br />
+	　　1871—1879年任纽约港口征税官。<br />
+	　　1881年任<a href="http://114.xixik.com/vice-president/" style="color:#000" title="美国副总统">美国副总统</a>。<br />
+	　　1881—1885年接替遇刺的伽菲尔德总统，任第十九任<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>。<br />
+	　　1886年11月18日在站台逝世。</p>
+<p style="TEXT-INDENT:2em;font-weight:bold;">
+	美国第二十二任、二十四任总统：格罗佛·克利夫兰</p>
+<p style="TEXT-INDENT:2em">
+	1837年3月18日生于新泽西州考德威尔。<br />
+	　　1851—1852年在纽约州的费耶特维尔当杂货店店员。<br />
+	　　1859年取得律师资格，从事律师业务。<br />
+	　　1863—1865年在纽约州的伊利县任地方副检察官。<br />
+	　　1882年任布法罗市市长。<br />
+	　　1883—1884年任纽约州州长。<br />
+	　　1885—1889年任第二十二任<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>。<br />
+	　　1886年6月2日与弗朗再斯·福尔逊结婚。<br />
+	　　1893—1897年任第二十四任<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>。<br />
+	　　1908年6月24日在新泽西州的普林斯顿去世。</p>
+<p style="TEXT-INDENT:2em;font-weight:bold;">
+	美国第二十三任总统：本杰明·哈利森</p>
+<p style="TEXT-INDENT:2em">
+	1833年8月20日生于俄亥俄州的北本德县。<br />
+	　　1852年毕业于联合大学。<br />
+	　　1853年10月20日与卡罗琳·拉维尼亚·斯科特结婚。<br />
+	　　1854年开始在印第安纳州的印第安纳波利斯从事律师业务。<br />
+	　　1860年被选为印第安纳州最高法院的诉讼发布人。<br />
+	　　1862—1865年在南北战争时期，指挥印第安纳州第七十志愿军团。<br />
+	　　1876年作为共和党候选人做印第安纳州州长竞选中失败。<br />
+	　　1881—1887年任国会印第安纳州参议员。<br />
+	　　1889—1893年任美国第二十三任总统。<br />
+	　　1893—1894年在小里兰·斯坦弗大学讲授法律。<br />
+	　　1896年4月6日与玛丽·斯科特·洛德·迪米克结婚。<br />
+	　　1899年在委内瑞拉同英属圭亚那的边界争端中担任委方辩护人。<br />
+	　　1901年3月13日在印第安纳州波利斯去世。</p>
+<p style="TEXT-INDENT:2em;font-weight:bold;">
+	美国第二十五任总统：威廉·麦金莱</p>
+<p style="TEXT-INDENT:2em">
+	1843年1月29日生于俄亥俄州的奈尔斯。<br />
+	　　1895年进入宾夕法尼亚米德维尔的阿勒格尼学院。<br />
+	　　1860年在一所乡村学校任教，在邮局当职员。<br />
+	　　1861—1865年在南北战争中，参加联邦军队，众士兵晋升为少校。<br />
+	　　1867年获得律师资格，开始从事律师业务。<br />
+	　　1869—1871年任俄亥俄州斯达克县检察官。<br />
+	　　1871年1月25日同伊达·萨克斯顿结婚。<br />
+	　　1877—1891年任国会俄亥俄州的众议员。<br />
+	　　1892—1896年任俄亥俄州州长。<br />
+	　　1897—1901年任第二十五任<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>。<br />
+	　　1901年9月6日在纽约州的布法罗市遇刺。<br />
+	　　1901年9月14日在布法罗市死于枪伤。</p>
+<p style="TEXT-INDENT:2em;font-weight:bold;">
+	美国第二十六任总统：西奥多·罗斯福</p>
+<p style="TEXT-INDENT:2em">
+	1858年10月27日生于纽约市一个富商之家。<br />
+	　　1876年进入哈佛大学。<br />
+	　　1880年毕业后入哥伦比亚大学法学院。<br />
+	　　1881年他得到进入纽约州下议院的机会，退学开始公务生涯。<br />
+	　　1882至1884年任纽约州众议员。<br />
+	　　1895至1897年任纽约市警察局局长。<br />
+	　　1897年被任命为助理海军部长。<br />
+	　　1898年当选为纽约州州长。<br />
+	　　1900年被共和党全国代表大会提名为副总统候选人，获胜当选。<br />
+	　　1901年9月麦金莱总统遇刺身亡，依法继任总统。<br />
+	　　1904年再次竞选，又获连任。<br />
+	　　1909年卸任，去非洲科学考察。<br />
+	　　1910年任《展望》杂志副主编。<br />
+	　　1912年6月在共和党全国代表大会上与塔夫脱竞选总统候选人提名失败。<br />
+	　　1913至1914年去南美旅行，率领探险队到巴西亚马逊河热带丛林探险。<br />
+	　　1916年6月病逝。</p>
+<p style="TEXT-INDENT:2em;font-weight:bold;">
+	美国第二十七任总统：威廉·塔夫脱</p>
+<p>
+	　　1857年9月15日生于俄亥俄州辛辛那提时。<br />
+	　　1887年任州高法院法官。<br />
+	　　1890—1892年任司法部副部长。<br />
+	　　1901年任菲律宾总督，改进经济制度，建造道路和学校，并且让人们参与政府管理。<br />
+	　　1904年-1908年任战争部长。<br />
+	　　1908年，在罗斯福的支持下，获共和党总统候选人提名，并在竞选中获胜。<br />
+	　　1912年竞选连任总统遭到失败，输给了新泽西州州长伍德罗·威尔逊。<br />
+	　　卸任后耶鲁大学执教，任法学教授、律师协会主席。<br />
+	　　1921-1930年美国首席大法官。<br />
+	　　1930年从法官职位上退休，一年后因病逝世。</p>
+<p style="TEXT-INDENT:2em;font-weight:bold;">
+	美国第二十八任总统：托马斯·伍德罗·威尔逊</p>
+<p style="TEXT-INDENT:2em;">
+	1856年12月28日，生于弗吉尼亚州斯汤顿的一个牧师家庭，祖先大部分是苏格兰血统。<br />
+	　　1870年-1874年间，因父亲在哥伦比亚神学院担任教授，一直在南卡罗来纳州的哥伦比亚生活。<br />
+	　　1873年在戴维森学院上了一年学。之后作为新生转到普林斯顿就读，成为Phi Kappa Psi兄弟会的成员，并于1879年毕业。<br />
+	　　1879年进入弗吉尼亚大学法学院，但一年之后由于健康原因不得不退学。<br />
+	　　1890年进入普林斯顿大学，任法学和政治经济学教授。<br />
+	　　1902年晋升为普林斯顿大学校长。<br />
+	　　1910年作为民主党候选人参选新泽西州州长获胜。<br />
+	　　1912年6月25日，赢得民主党总统候选人的身份并赢得大选。<br />
+	　　1913年3月15日他举办了美国现代史上首次总统新闻发布会，并在会上允许记者向他提问。<br />
+	　　1919年因为倡导国际联盟而获得诺贝尔和平奖。<br />
+	　　1924年他获任美国历史学会主席一职，这是他成为美国历史上仅有的两位担任过此职的总统之一。另一位是西奥多·罗斯福（1912）。</p>
+<p style="TEXT-INDENT:2em;">
+	<strong>美国第二十九任总统：沃伦·甘梅利尔·哈定（Warren Gamaliel Harding）</strong>（总统任期：1921年3月4日——1923年8月2日）</p>
+<p style="TEXT-INDENT:2em;">
+	1865年11月2日生于俄亥俄州的布卢明格罗夫，祖先是英格兰人。<br />
+	　　1891年与弗洛伦斯·克林·德沃尔夫结婚，婚后，弗洛伦斯即经营报纸来支持哈定投身政界。<br />
+	　　1899年共和党代表大会上被提名为俄亥俄州参议员候选人，竞选获胜。<br />
+	　　1903年当选俄亥俄州副州长。<br />
+	　　1909年被提名州长候选人，竞选失败。<br />
+	　　1912年为威廉·塔夫脱竞选连任班子负责人，塔夫脱失败。<br />
+	　　1914年当选国会参议员。<br />
+	　　1919年参加总统竞选，竞选成功。<br />
+	　　1921年3月4日，宣誓就职。<br />
+	　　1923年8月，在横跨全国的“谅解旅行”途中去世。</p>
+<p style="TEXT-INDENT:2em;">
+	<strong>美国第三十任总统：约翰·卡尔文·柯立芝</strong></p>
+<p style="TEXT-INDENT:2em;">
+	1872年7月4日生于佛蒙特州温莎县的普利茅斯。他是迄今为止唯一一位生于美国独立日的总统。<br />
+	　　1899年 北安普敦市政府成员<br />
+	　　1900年-1902年 北安普敦市律师。<br />
+	　　1904年&#160;北安普敦市法院正式公务员 。<br />
+	　　1910年-1911年&#160;北安普敦市长。<br />
+	　　1912年-1915年 麻州参议院成员，1914年-1915年为院长。<br />
+	　　1916年-1918年 麻州副州长。<br />
+	　　1919年-1920年 麻州州长。<br />
+	　　1920年 在竞选共和党总统候选人提名，输给沃伦·G·哈定，但是提名为他的副总统。哈定入选总统。<br />
+	　　1921年3月4日到1923年8月3日就任副总统。<br />
+	　　1923年8月2日，在其父的农庄度假时，突然接到沃伦·G·哈定总统逝世的电报，翌日即宣誓就职总统。<br />
+	　　1924年再次竞选，连任下届总统。政治上主张小政府，以古典自由派保守主义闻名。<br />
+	　　1928年宣告不再竞选，他说“因为总统没有提升的机会”。<br />
+	　　1933年1月5日在北安普敦过世，入葬于出生地普利茅斯</p>
+<p style="TEXT-INDENT:2em;">
+	<strong>美国第三十一任总统：赫伯特·克拉克·胡佛</strong>（Herbert Clark Hoover）</p>
+<p style="TEXT-INDENT:2em;">
+	（总统任期：1929年3月4日-1933年3月3日）</p>
+<p style="TEXT-INDENT:2em;">
+	1874年8月10日生于爱荷华州西布兰奇<br />
+	　　9岁时成为孤儿，由叔父抚养成人。<br />
+	　　1895年毕业于斯坦福大学。<br />
+	　　1896年起以采矿工程师身份从事矿业、铁路、冶金等业务，在世界各地活动并成为矿业界的富豪。<br />
+	　　1897年为一家公司所雇佣去了澳大利亚，次年作为美国“白领”被派往中国河北唐山的开滦煤矿“打工”。&#160;<br />
+	　　1897年，与罗·亨利结婚。亨利受过良好的教育，婚后成为胡佛的贤内助。他们有两个儿子。<br />
+	　　1921年3月4日被任命为商务部长，担任此职务长达7年之久，历经两任总统。<br />
+	　　1928年接受共和党总统候选人的提名，获胜。<br />
+	　　1929年至1933年出任美国总统，任期内正赶上世界性的经济危机，美国经济坠入深渊。<br />
+	　　1932年总统大选被罗斯福击败。<br />
+	　　1947年任政府行政部门改组委员会（亦称“胡佛委员会”）主席。他还在杜鲁门总统任内担任过饥荒紧急委员会主席。&#160;<br />
+	　　1953年被任命为艾森豪威尔总统的委托主席。<br />
+	　　1964年10月20日，逝世于纽约。</p>
+<p style="TEXT-INDENT:2em;">
+	<strong>美国第三十二任总统：富兰克林·德拉诺·罗斯福</strong>（Franklin D.Roosevelt）</p>
+<p style="TEXT-INDENT:2em;">
+	（总统任期：1933年3月4日－1945年4月12日）</p>
+<p style="TEXT-INDENT:2em;">
+	1882年1月30日出生在纽约海德公园。<br />
+	　　1900年进入哈佛大学，攻读政治学、历史学和新闻学。<br />
+	　　1904年进入哥伦比亚大学法学院。<br />
+	　　1905年3月，与埃莉诺（西奥多·罗斯福总统的侄女）结婚。<br />
+	　　1907年从法学院毕业，进入律师事务所任律师。<br />
+	　　1910年以民主党人的身份开始涉足政界，任纽约州参议员。<br />
+	　　1913年任海军部助理部长，在任七年表现杰出，主张建设“强大而有作战能力的海军”。<br />
+	　　1919年为威尔逊的国际聪明计划奔走游说，结果导致1920年竞选副总统失败。<br />
+	　　1921年因患脊髓灰质炎（俗称：小儿麻痹）致残。<br />
+	　　1928年任纽约州长。<br />
+	　　1932年竞选总统获胜。执政后以 “新政”对付经济危机颇有成效，故获得1936年、1940年、1944年大选连任。<br />
+	　　领导美国参加二战并协助盟军取得胜利。提出了建立联合国的构想也得到了实施。<br />
+	　　1945年4月12日，罗斯福在乔治亚洲的温泉因突发脑溢血去世，享年63岁。</p>
+<p style="TEXT-INDENT:2em;">
+	<strong>美国第三十三任总统：哈里·S·杜鲁门</strong>（Harry S. Truman）（任期：1945年至1953年）</p>
+<p style="TEXT-INDENT:2em;">
+	1884年5月8日生于密苏里州拉马尔市。<br />
+	　　1901年高中毕业后，从事了很多种工作，是美国历史上第九位没有大学学位的总统。<br />
+	　　1906年回到了格兰德维尤的农场并在那里度过了约十年的时光。<br />
+	　　1918年获得上尉军衔，和贝丝·华莱士结婚。<br />
+	　　1945年4月富兰克林·罗斯福总统病故后，继任总统，对日本使用原子弹，加快第二次世界大战结束。<br />
+	　　1947年提出“杜鲁门主义”。<br />
+	　　<a href="http://www.xixik.com/content/7344ee54058548dc" title="改变中国历史进程的美国大选-：杜鲁门击败杜威">1948年美国总统大选，出乎众人所料在大选中胜出</a>。<br />
+	　　1948年批准以控制欧洲为目的的“马歇尔计划”。<br />
+	　　1949年至1953年连任总统。<br />
+	　　1953年卸任回乡。<br />
+	　　1972年12月26日在堪萨斯城病故。</p>
+<p style="TEXT-INDENT:2em;">
+	<strong>美国第三十四任总统：德怀特·戴维·艾森豪威尔</strong>（Dwight David Eisenhower）（总统任期：1953年－1961年）</p>
+<p style="TEXT-INDENT:2em;">
+	1890年10月14日生于美国德克萨斯州丹尼森市<br />
+	　　1915年毕业于西点军校。<br />
+	　　第二次世界大战期间，他担任盟军在欧洲的最高指挥官。<br />
+	　　1948年2月退役，任哥伦比亚大学校长至1953年。<br />
+	　　1950年起一直缺席而担任北约司令<br />
+	　　1952年作为共和党总统候选人参加竞选总统获胜，成为美国第34任总统。<br />
+	　　1956年再次竞选获胜，蝉联总统。<br />
+	　　1969年3月28日在华盛顿因心脏病逝世 。</p>
+<p style="TEXT-INDENT:2em;">
+	<strong>美国第三十五任总统：约翰·菲茨杰拉德·肯尼迪</strong>（John Fitzgerald Kennedy）（总统任期：1961年1月20日——1963年11月22日）</p>
+<p style="TEXT-INDENT:2em;">
+	1917年5月29日生于马萨诸塞州布鲁克莱恩市。<br />
+	　　1922~1924年爱德华奉献学校幼儿园到三年级。<br />
+	　　1924年德克斯特学校。后坎特伯雷寄宿学校继续学习、生活。<br />
+	　　1935年秋季插班学习普林斯顿大学的课程，只病坚持到12月就中断了学习。<br />
+	　　1936年7月申请进入哈佛大学学习并被顺利录取。<br />
+	　　1940年6月以优异的成绩从哈佛大学毕业，获国际关系荣誉学位。<br />
+	　　1940年9月-12月斯坦福大学商学院学习。<br />
+	　　1941年10月以海军少尉的身份到海军情报局外国情报处工作。<br />
+	　　1945年3月1日美国海军退役。<br />
+	　　1946年-1960年期间曾先后任众议员和参议员。<br />
+	　　1960年当选为美国总统，43岁的年纪为美国截至2018年第二年轻的当选总统。<br />
+	　　1963年11月22日在达拉斯遇刺身亡为止。</p>
+<p style="TEXT-INDENT:2em;">
+	<strong>美国第三十六任总统：林登·贝恩斯·约翰逊</strong>（Lyndon Baines Johnson）（总统任期：1963年11月22日——1969年1月20日）</p>
+<p style="TEXT-INDENT:2em;">
+	1908年8月27日生于德克萨斯州基利斯比县石墙。<br />
+	　　1930年他毕业于德克萨斯州西南师范学院。<br />
+	　　1930年至1932年他在休斯顿一所学校教授演说术和辩论术。<br />
+	　　1931年他有幸成为克莱伯格议员的秘书。<br />
+	　　1935年至1937年任全国青年总署得克萨斯州公署署长。<br />
+	　　1937年国会补缺选举中当选为众议员，并任众议院海军委员会委员。<br />
+	　　1941年至1942年在海军服役，立下战功，并获得银星勋章。<br />
+	　　1948年当选为参议员。<br />
+	　　1951年在参议院工作仅三年的就成为了民主党的领袖。<br />
+	　　1953年起任参议院民主党多数派领袖，兼任参议院军事委员会、财政委员会、拨款委员会等要职。<br />
+	　　1956年争取民主党总统候选人提名失败。<br />
+	　　1960年未能获得民主党总统候选人提名，便接受了肯尼迪提名他为副总统的建议。<br />
+	　　1963年11月22日肯尼迪总统在德克萨斯州达拉斯遇刺身亡，继任成为美国第36任总统。<br />
+	　　1964年当选为美国总统。<br />
+	　　1973年1月22日在德克萨斯州自家牧场里因心肌梗塞去世了，年仅64岁。<br />
+	　　1980年被授予总统自由勋章。著有回忆录《高瞻远瞩》。&#160;</p>
+<p style="TEXT-INDENT:2em;">
+	<strong>美国第三十七任总统：查德·米尔豪斯·尼克松</strong>（Richard Milhous Nixon）</p>
+<p>
+	　　1913年1月9日生于加利福尼亚州洛杉矶县巴林达镇的一个爱尔兰人后裔家庭。<br />
+	　　1934年获惠特尔学院学士学位，后进杜克大学专修法学，1937年获法学士学位。<br />
+	　　1937年至1942年在加利福尼亚州惠特尔当律师。<br />
+	　　1938年加入共和党。<br />
+	　　1940年与特尔玛·凯瑟琳·罗恩结婚，他们共有两个女儿。<br />
+	　　1942年至1946年，他在美国海军服役，并逐步升为海军少校。<br />
+	　　1946年当选为美国共和党众议员，开始步入政界。<br />
+	　　1950年当选为美国联邦参议员。<br />
+	　　1952年作为艾森豪威尔的竞选伙伴，当选为美国副总统。<br />
+	　　1956年再度当选为美国副总统。<br />
+	　　1959年参加了总统竞选，但以微弱票差被约翰·肯尼迪击败。竞选失败后，先后在洛杉矶和纽约从事律师工作。<br />
+	　　1968年再次参加总统选举，并击败竞争对手民主党人汉弗莱和独立竞选人华莱士赢得胜利。<br />
+	　　1969年1月宣誓就任美国第三十七任总统。<br />
+	　　<a href="http://www.xixik.com/content/9d9786228649a8a8" title="1972年尼克松访华">1972年2月成为首位访问中国大陆的美国总统</a>，开启中美关系新纪元。<br />
+	　　1973年1月连任总统。<br />
+	　　1974年7月8日最高法院以八票对零票通过了对其不利的裁决。<br />
+	　　1974年8月9日因“水门事件”被迫辞去总统职务，成为美国历史上第一位辞职的总统。<br />
+	　　1994年4月22日去世，享年81岁。</p>
+<p style="TEXT-INDENT:2em;">
+	<strong>美国第三十八任总统：杰拉尔德·鲁道夫·福特</strong>（Gerald Rudolph Ford）</p>
+<p style="TEXT-INDENT:2em;">
+	1913年07月14日生于内布拉斯加州奥马哈<br />
+	　　1941年从耶鲁大学法学院毕业， 此后不久就被允许在密歇根州从事律师职务。<br />
+	　　1941年12月7日珍珠港事件后福特正式参军。<br />
+	　　1942年4月参加美国海军预备队，获少尉军衔。<br />
+	　　1943年春他开始在曼特瑞号轻航空母舰上任体育教练和炮官。<br />
+	　　1946年2月他以少校的军衔退役。退役后开始主动参加当地共和党的政治活动。<br />
+	　　1949年到1973年任密歇根大急流城地区的众议员23年。他当选后第三年他进入众议院拨款委员会，他是国防拨款委员会中的重要成员。<br />
+	　　1965到1973年任少数派领导人。在此期间他以他的领导作风和不伤人的人格赢得了许多朋友。<br />
+	　　1970年领导了弹劾美国最高法院法官威廉·道格拉斯的试图。<br />
+	　　1973年副总统斯皮罗·阿格纽辞职后，总统理查德·尼克松于10月10日任命其为副总统。这是美国宪法第25次修正案首次获得应用，成为美国历史上第一个没有经过选举程序而就任的副总统。同年11月27日参议院以92:3票，12月6日众议院以387:35票确认其为副总统。<br />
+	　　1974年8月9日尼克松因水门事件辞职后其按美国宪法第25修正案当任总统。成为美国历史上第一个没有经过选举程序而就任的总统。<br />
+	　　1974年9月8日无条件和完全赦免尼克松在他总统期间犯的任何罪行。<br />
+	　　1976年勉强同意参加总统大选，败给卡特。<br />
+	　　2006年12月26日去世，他的人生走过93年又121天，成为当时美国历史上最长寿的总统。</p>
+<p style="TEXT-INDENT:2em;font-weight:bold;">
+	美国第三十九任总统：小詹姆斯（吉米）·厄尔·卡特</p>
+<p style="TEXT-INDENT:2em">
+	1924年10月1日生于南佐治亚州。<br />
+	　　1946年毕业于美国海军学院，毕业后在海军服役7年。<br />
+	　　1953年他退伍回乡，经营父亲的产业。　　<br />
+	　　1970至1974年任佐治亚州州长。他以办事富有实效、积极 消除种族歧视赢得声誉。<br />
+	　　1974年宣布竞选总统，并轻易获得民主党提名。<br />
+	　　1977年经过艰苦的竞选战以微弱优势击败福特总统，出任美国第39任总统。<br />
+	　　1990年7月4日卡特获费城自由勋章。<br />
+	　　1995年1月10日获得1994年度联合国教科文组织设立的费利克斯·乌弗埃-博瓦尼和平奖。<br />
+	　　1997年11月印度英·甘地纪念基金会授予他1997年度英·甘地奖，以奖励他为全球和平、裁军和发展所作的贡献。<br />
+	　　1998年12月10日获1998年度联合国人权奖。　　<br />
+	　　2002年5月12日访问古巴并与卡斯特罗举行会谈，是自1959年古巴革命胜利以来，<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国历任总统">美国历任总统</a>中访问古巴的第一人。<br />
+	　　2015年被查出患有癌症。<br />
+	　　2016年2月15日自传《充实的一生：九十岁回忆录》有声读物获得格莱美奖中的“最佳朗读专辑奖”。</p>
+<p style="TEXT-INDENT:2em;">
+	<a href="http://114.xixik.com/us-president/reagan/" style="color:#000;" title="美国第四十任总统：罗纳德·威尔逊·里根"><strong>美国第四十任总统：罗纳德·威尔逊·里根</strong></a></p>
+<p style="TEXT-INDENT:2em">
+	1911年2月6日生于伊利诺斯州的坦皮科镇。<br />
+	　　1937年进入好莱坞华纳兄弟电影公司当电影和电视演员。第二次世界大战期间应征入伍，在空军服役。退伍后重返好莱坞，在接下来的20年里，他共参加了53部电影的演出。后任电影演员公会主席、电影委员会主席。　　<br />
+	　　1962年、1976年两次争取共和党提名总统候选人，均未成功。<br />
+	　　1980年再次争取，被提名，并在竞选中击败卡特而获胜。<br />
+	　　1984年谋求连任成功。执政期间提出政治改革计划，收效甚微。对外提出了“星球大战”计划。　　<br />
+	　　1984年美国民族自信心的恢复，使里根和布什以前所未有的选票赢得了第二任。　　<br />
+	　　1984年4月26日至5月1日，里根应邀对中国进行国事访问，他是中美两国建交后首位在任时访华的<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>。　　<br />
+	　　1986年里根成功地进行了税收法典的改革，在他任职末期，是美国历史上持续时间最长的、没有经济衰退和经济萧条的和平时期。　　<br />
+	　　1993年里根获总统自由勋章。　　<br />
+	　　1994年11月5日，里根向公众宣布，他患了老年痴呆症。<br />
+	　　2006年4月5日去世。</p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://114.xixik.com/us-president/george-h-w-bush/" style="color:#000;" title="美国第四十一任总统：乔治·赫伯特·沃克·布什">美国第四十一任总统：乔治·赫伯特·沃克·布什</a></strong>（老布什，George Herbert Walker Bush）</p>
+<p style="TEXT-INDENT:2em">
+	1924年6月12日生于马萨诸塞州米尔顿。<br />
+	　　1942年菲利普斯学院毕业。第二次世界大战期间，参加海军当飞行员。<br />
+	　　1944年与巴巴拉·皮尔斯结婚，生有四子一女。<br />
+	　　1948年毕业于耶鲁大学，获经济学学士学位。<br />
+	　　1953年与人合股筹建扎帕塔石油公司，1954年又创办扎帕塔近海石油公司。<br />
+	　　1956年—1964年是休斯敦扎帕塔近海石油公司总经理。<br />
+	　　1966年—1970年任国会众议员，曾任众议院筹款委员会委员。<br />
+	　　1971年—1973年美国任常驻联合国代表。<br />
+	　　1973年—1974年任共和党全国委员会主席。<br />
+	　　1974年—1975年任美国驻中华人民共和国联络处主任。<br />
+	　　1976年—1977年任中央情报局局长。<br />
+	　　1980年原拟参加总统竞选，后来成为里根的竞选伙伴。里根当选总统后，担任副总统兼参议院议长。<br />
+	　　1984年11月再度当选为副总统。<br />
+	　　1989年1月—1993年1月任美国第51届总统。在任期间，对外政策多有建树。<br />
+	　　1989年5月宣布对苏联实行“超越遏制”战略。12月，与苏联总统戈尔巴乔夫在马耳他会晤。<br />
+	　　1990年5月31日至6月3日，与苏联就削减战略性核武器、销毁和不生产化学武器、监督和检查地下核试验等有关军备控制等问题达成协议。<br />
+	　　1991年1月发表的国情咨文中提出了建立“世界新秩序”的主张。亲自参与并指挥了代号为“沙漠风暴”的军事行动。<br />
+	　　1992年11月竞选连任总统，因国内经济问题败北。<br />
+	　　2018年11月30日去世，他是<a href="http://www.xixik.com/content/35040abf0e6c7bc6" title="老布什低调度过94岁生日 成为美国最长寿总统">美国历史上最长寿的总统</a>——他活了94岁171天。</p>
+<p style="TEXT-INDENT:2em;">
+	<a href="http://114.xixik.com/us-president/bill-clinton/" style="color:#000;" title="美国第四十二任总统：比尔·克林顿"><strong>美国第四十二任总统：比尔·克林顿</strong></a>（William Jefferson Clinton）</p>
+<p style="TEXT-INDENT:2em">
+	1946年8月19日生于阿肯色州霍普镇。原名：威廉·杰弗逊·克林顿（William Jeffrey Clinton），15岁后改名为比尔·克林顿。<br />
+	　　1964年高中毕业后考入乔治敦大学，主修外交专业；<br />
+	　　1968年大学毕业，获国际政治学学士学位，并考取罗兹奖学金赴英国牛津大学深造；<br />
+	　　1970年考入耶鲁大学法学院；<br />
+	　　1973年获耶鲁大学法学博士学位，同年到阿肯色州州立大学担任教授并开业当律师；<br />
+	　　1976年出任阿肯色州司法部长；<br />
+	　　1977年担任阿肯色州州检察长。<br />
+	　　1978年—1980年任阿肯色州州长；1980年竞选连败。<br />
+	　　1982年再度竞选阿肯色州州长成功，1982年—1992年连续5次连任州长；<br />
+	　　1990年被选为民主党最高委员会主席；<br />
+	　　1992年是美国对外关系委员会成员。<br />
+	　　1992年11月3日当选为美国第四十二任总统；<br />
+	　　1996年11月5日总统选举中克林顿再次获胜，1997年1月20日宣誓连任。</p>
+<p style="TEXT-INDENT:2em;">
+	<a href="http://114.xixik.com/us-president/george-walker-bush/" style="color:#000;" title="美国第四十三任总统：乔治·沃克·布什，小布什"><strong>美国第四十三任总统：乔治·沃克·布什</strong></a>（小布什，George Walker Bush）</p>
+<p style="TEXT-INDENT:2em">
+	1946年7月6日生于德克萨斯州米德兰。<br />
+	　　1964至1968年就读于耶鲁大学历史系。<br />
+	　　1968至1973年在国家空军警卫队服役。<br />
+	　　1975年获哈佛商学院MBA硕士学位。<br />
+	　　1975至1986年在德州米德兰创建了一家石油和天然气勘探公司，并在该公司工作至1986年。<br />
+	　　1978年首次参加国会议员竞选失利。<br />
+	　　1988年迁往华盛顿，帮助其父乔治·布什竞选<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>，出任高级顾问。<br />
+	　　1989年与合伙人购买了得克萨斯流浪者棒球队，任球队总经理至1994年11月8日。<br />
+	　　1994年11月当选为得克萨斯州州长，1995年1月1日就职。<br />
+	　　1998年11月再次当选得州州长，成为该州历史上第一位连任州长的人。<br />
+	　　1999年6月12日正式宣布参加2000年总统选举，2000年8月2日被提名为共和党总统候选人。<br />
+	　　2001年1月20日宣誓就任美国第四十三任总统。<br />
+	　　2004年11月总统选举中布什再次赢得大选，2005年1月宣誓连任。</p>
+<p style="TEXT-INDENT:2em;">
+	<a href="http://114.xixik.com/us-president/obama/" style="color:#000;" title="美国第四十四任总统：贝拉克·侯赛因·奥巴马"><strong>美国第四十四任总统：贝拉克·侯赛因·奥巴马</strong></a></p>
+<p style="TEXT-INDENT:2em">
+	1961年8月4日生于夏威夷州檀香山<br />
+	　　1983年获哥伦比亚大学文学学士学位；<br />
+	　　1991年获哈佛大学法学院法学博士学位；<br />
+	　　1992年结婚，育有二女；<br />
+	　　1993-2004在Miner Barnhill & Galland律师事务所任律师；<br />
+	　　1996年首次当选为伊利诺伊州参议员；<br />
+	　　2004年在首次当选为伊利诺伊州国会参议员。<br />
+	　　2007年2月正式宣布竞选总统。8月27日，获得民主党总统候选人提名。<br />
+	　　2008年当选美国第44任总统，为美国历史上第一位非洲裔总统。<br />
+	　　2009年10月9日，获得诺贝尔委员会颁发的诺贝尔和平奖。<br />
+	　　2012年11月6日，第57届<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>大选击败共和党候选人罗姆尼成功连任。</p>
+<p style="text-indent: 2em;">
+	<a href="http://114.xixik.com/us-president/trump/" style="color:#000;" title="美国第四十五任总统：唐纳德·特朗普"><strong>美国第四十五任总统：唐纳德·特朗普</strong></a></p>
+<p style="text-indent: 2em;">
+	1946年6月14日生于纽约市。<br />
+	　　1964年毕业于纽约军事学校。<br />
+	　　2012年赢得共和党的提名，挑战巴拉克·奥巴马失败。<br />
+	　　2015年6月17日在纽约市宣布参加<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>竞选。<br />
+	　　2016年7月21日正式接受美国共和党总统候选人提名。<br />
+	　　2016年11月9日当选美国第45任总统。<br />
+	　　2017年1月20日宣誓就职。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor7"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        美国总统上任时的年龄</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="text-align: center;">
+	<a href="http://img.xixik.net/custom/section/us-president/xixik-fb26fca8a4ea942c.jpg"><img src="http://img.xixik.net/custom/section/us-president/xixik-fb26fca8a4ea942c.jpg" style="width: 90%; max-width: 90%;text-align: center;" title="美国总统上任时年龄" /></a></p>
+<p style="text-align: center;">
+	图：<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>的年龄，其中有8位总统在任期内去世了。<a href="http://114.xixik.com/us-president/trump/" style="color:#000" title="特朗普">特朗普</a>就职时是美国年纪最大的总统。&#160;</p>
+<p style="text-indent: 2em; text-align: center;">
+	<strong><a href="http://www.xixik.com/content/32cace2124a1a836" style="color:#000;" title="美国总统上任时年龄">美国总统上任时年龄</a></strong>（按年龄大小排序）</p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style=" text-align: center; margin: auto; width: 90%;">
+	<tbody>
+		<tr>
+			<th>
+				任数</th>
+			<th>
+				总统名字</th>
+			<th>
+				年（岁）</th>
+			<th>
+				月</th>
+			<th>
+				天</th>
+			<th>
+				任期</th>
+			<th>
+				顺序</th>
+		</tr>
+		<tr>
+			<td>
+				45</td>
+			<td>
+				唐纳德·<a href="http://114.xixik.com/us-president/trump/" style="color:#000" title="特朗普">特朗普</a><br />
+				Donald Trump</td>
+			<td>
+				70</td>
+			<td>
+				7</td>
+			<td>
+				6</td>
+			<td>
+				2017年1月20日 -</td>
+			<td>
+				1</td>
+		</tr>
+		<tr>
+			<td>
+				40</td>
+			<td>
+				罗纳德·里根<br />
+				Ronald Reagan</td>
+			<td>
+				69</td>
+			<td>
+				11</td>
+			<td>
+				14</td>
+			<td>
+				1981年1月20日 - 1989年1月20日</td>
+			<td>
+				2</td>
+		</tr>
+		<tr>
+			<td>
+				9</td>
+			<td>
+				威廉·亨利·哈里森<br />
+				William Henry Harrison</td>
+			<td>
+				68</td>
+			<td>
+				0</td>
+			<td>
+				23</td>
+			<td>
+				1841年3月4日 - 1841年4月4日</td>
+			<td>
+				3</td>
+		</tr>
+		<tr>
+			<td>
+				15</td>
+			<td>
+				詹姆斯·布坎南<br />
+				James Buchanan</td>
+			<td>
+				65</td>
+			<td>
+				10</td>
+			<td>
+				9</td>
+			<td>
+				1857年3月4日 - 1861年3月4日</td>
+			<td>
+				4</td>
+		</tr>
+		<tr>
+			<td>
+				41</td>
+			<td>
+				乔治·布什<br />
+				George H. W. Bush</td>
+			<td>
+				64</td>
+			<td>
+				7</td>
+			<td>
+				8</td>
+			<td>
+				1989年1月20日 - 1993年1月20日</td>
+			<td>
+				5</td>
+		</tr>
+		<tr>
+			<td>
+				12</td>
+			<td>
+				扎卡里·泰勒<br />
+				Zachary Taylor</td>
+			<td>
+				64</td>
+			<td>
+				3</td>
+			<td>
+				8</td>
+			<td>
+				1849年3月4日 - 1850年7月9日</td>
+			<td>
+				6</td>
+		</tr>
+		<tr>
+			<td>
+				34</td>
+			<td>
+				德怀特·艾森豪威尔<br />
+				Dwight Eisenhower</td>
+			<td>
+				62</td>
+			<td>
+				3</td>
+			<td>
+				6</td>
+			<td>
+				1953年1月20日 - 1961年1月20日</td>
+			<td>
+				7</td>
+		</tr>
+		<tr>
+			<td>
+				2</td>
+			<td>
+				约翰·亚当斯<br />
+				John Adams</td>
+			<td>
+				61</td>
+			<td>
+				4</td>
+			<td>
+				4</td>
+			<td>
+				1797年3月4日 - 1801年3月4日</td>
+			<td>
+				9</td>
+		</tr>
+		<tr>
+			<td>
+				7</td>
+			<td>
+				安德鲁·杰克逊<br />
+				Andrew Jackson</td>
+			<td>
+				61</td>
+			<td>
+				11</td>
+			<td>
+				17</td>
+			<td>
+				1829年3月4日 - 1837年3月4日</td>
+			<td>
+				8</td>
+		</tr>
+		<tr>
+			<td>
+				38</td>
+			<td>
+				杰拉尔德·福特<br />
+				Gerald Ford</td>
+			<td>
+				61</td>
+			<td>
+				0</td>
+			<td>
+				26</td>
+			<td>
+				1974年8月9日 - 1977年1月20日</td>
+			<td>
+				10</td>
+		</tr>
+		<tr>
+			<td>
+				33</td>
+			<td>
+				哈利·S·杜鲁门<br />
+				Harry Truman</td>
+			<td>
+				60</td>
+			<td>
+				11</td>
+			<td>
+				4</td>
+			<td>
+				1945年4月12日 - 1953年1月20日</td>
+			<td>
+				11</td>
+		</tr>
+		<tr>
+			<td>
+				5</td>
+			<td>
+				詹姆斯·门罗<br />
+				James Monroe</td>
+			<td>
+				58</td>
+			<td>
+				10</td>
+			<td>
+				4</td>
+			<td>
+				1817年3月4日 - 1825年3月4日</td>
+			<td>
+				12</td>
+		</tr>
+		<tr>
+			<td>
+				1</td>
+			<td>
+				乔治·华盛顿<br />
+				George Washington</td>
+			<td>
+				57</td>
+			<td>
+				2</td>
+			<td>
+				8</td>
+			<td>
+				1789年4月30日 - 1797年3月4日</td>
+			<td>
+				16</td>
+		</tr>
+		<tr>
+			<td>
+				4</td>
+			<td>
+				詹姆斯·麦迪逊<br />
+				James Madison</td>
+			<td>
+				57</td>
+			<td>
+				11</td>
+			<td>
+				16</td>
+			<td>
+				1809年3月4日 - 1817年3月4日</td>
+			<td>
+				13</td>
+		</tr>
+		<tr>
+			<td>
+				3</td>
+			<td>
+				托马斯·杰斐逊<br />
+				Thomas Jefferson</td>
+			<td>
+				57</td>
+			<td>
+				10</td>
+			<td>
+				19</td>
+			<td>
+				1801年3月4日 - 1809年3月4日</td>
+			<td>
+				14</td>
+		</tr>
+		<tr>
+			<td>
+				6</td>
+			<td>
+				约翰·昆西·亚当斯<br />
+				John Quincy Adams</td>
+			<td>
+				57</td>
+			<td>
+				7</td>
+			<td>
+				21</td>
+			<td>
+				1825年3月4日 - 1829年3月4日</td>
+			<td>
+				15</td>
+		</tr>
+		<tr>
+			<td>
+				28</td>
+			<td>
+				伍德罗·威尔逊<br />
+				Woodrow Wilson</td>
+			<td>
+				56</td>
+			<td>
+				2</td>
+			<td>
+				4</td>
+			<td>
+				1913年3月4日 - 1921年3月4日</td>
+			<td>
+				18</td>
+		</tr>
+		<tr>
+			<td>
+				37</td>
+			<td>
+				理查德·尼克松<br />
+				Richard Nixon</td>
+			<td>
+				56</td>
+			<td>
+				0</td>
+			<td>
+				11</td>
+			<td>
+				1969年1月20日 - 1974年8月9日</td>
+			<td>
+				19</td>
+		</tr>
+		<tr>
+			<td>
+				17</td>
+			<td>
+				安德鲁·约翰逊<br />
+				Andrew Johnson</td>
+			<td>
+				56</td>
+			<td>
+				3</td>
+			<td>
+				17</td>
+			<td>
+				1865年4月15日 - 1869年3月4日</td>
+			<td>
+				17</td>
+		</tr>
+		<tr>
+			<td>
+				29</td>
+			<td>
+				沃伦·盖玛利尔·哈定<br />
+				Warren Gamaliel Harding</td>
+			<td>
+				55</td>
+			<td>
+				4</td>
+			<td>
+				2</td>
+			<td>
+				1921年3月4日 - 1923年8月2日</td>
+			<td>
+				22</td>
+		</tr>
+		<tr>
+			<td>
+				23</td>
+			<td>
+				本杰明·哈里森<br />
+				Benjamin Harrison</td>
+			<td>
+				55</td>
+			<td>
+				6</td>
+			<td>
+				12</td>
+			<td>
+				1889年3月4日 - 1893年3月4日</td>
+			<td>
+				21</td>
+		</tr>
+		<tr>
+			<td>
+				24</td>
+			<td>
+				格罗弗·克利夫兰<br />
+				Grover Cleveland*</td>
+			<td>
+				55</td>
+			<td>
+				11</td>
+			<td>
+				14</td>
+			<td>
+				1893年3月4日 - 1897年3月4日</td>
+			<td>
+				20</td>
+		</tr>
+		<tr>
+			<td>
+				36</td>
+			<td>
+				林登·约翰逊<br />
+				Lyndon Johnson</td>
+			<td>
+				55</td>
+			<td>
+				2</td>
+			<td>
+				26</td>
+			<td>
+				1963年11月22日 - 1969年1月20日</td>
+			<td>
+				23</td>
+		</tr>
+		<tr>
+			<td>
+				19</td>
+			<td>
+				拉瑟福德·伯查德·海斯<br />
+				Rutherford Birchard Hayes</td>
+			<td>
+				54</td>
+			<td>
+				5</td>
+			<td>
+				0</td>
+			<td>
+				1877年3月4日 - 1881年3月4日</td>
+			<td>
+				26</td>
+		</tr>
+		<tr>
+			<td>
+				25</td>
+			<td>
+				威廉·麦金莱<br />
+				William McKinley</td>
+			<td>
+				54</td>
+			<td>
+				1</td>
+			<td>
+				4</td>
+			<td>
+				1897年3月4日 - 1901年9月14日</td>
+			<td>
+				28</td>
+		</tr>
+		<tr>
+			<td>
+				43</td>
+			<td>
+				乔治·沃克·布什<br />
+				George W. Bush</td>
+			<td>
+				54</td>
+			<td>
+				6</td>
+			<td>
+				14</td>
+			<td>
+				2001年1月20日 - 2009年1月20日</td>
+			<td>
+				25</td>
+		</tr>
+		<tr>
+			<td>
+				31</td>
+			<td>
+				赫伯特·胡佛<br />
+				Herbert Hoover</td>
+			<td>
+				54</td>
+			<td>
+				6</td>
+			<td>
+				22</td>
+			<td>
+				1929年3月4日 - 1933年3月4日</td>
+			<td>
+				24</td>
+		</tr>
+		<tr>
+			<td>
+				8</td>
+			<td>
+				马丁·范布伦<br />
+				Martin Van Buren</td>
+			<td>
+				54</td>
+			<td>
+				2</td>
+			<td>
+				27</td>
+			<td>
+				1837年3月4日 - 1841年3月4日</td>
+			<td>
+				27</td>
+		</tr>
+		<tr>
+			<td>
+				39</td>
+			<td>
+				吉米·卡特<br />
+				Jimmy Carter</td>
+			<td>
+				52</td>
+			<td>
+				3</td>
+			<td>
+				19</td>
+			<td>
+				1977年1月20日 - 1981年1月20日</td>
+			<td>
+				29</td>
+		</tr>
+		<tr>
+			<td>
+				16</td>
+			<td>
+				亚伯拉罕·林肯<br />
+				Abraham Lincoln</td>
+			<td>
+				52</td>
+			<td>
+				0</td>
+			<td>
+				20</td>
+			<td>
+				1861年3月4日 - 1865年4月15日</td>
+			<td>
+				30</td>
+		</tr>
+		<tr>
+			<td>
+				32</td>
+			<td>
+				富兰克林·德拉诺·罗斯福<br />
+				Franklin Delano Roosevelt</td>
+			<td>
+				51</td>
+			<td>
+				1</td>
+			<td>
+				4</td>
+			<td>
+				1933年3月4日 - 1945年4月12日</td>
+			<td>
+				33</td>
+		</tr>
+		<tr>
+			<td>
+				10</td>
+			<td>
+				约翰·泰勒<br />
+				John Tyler</td>
+			<td>
+				51</td>
+			<td>
+				0</td>
+			<td>
+				6</td>
+			<td>
+				1841年4月4日 - 1845年3月4日</td>
+			<td>
+				35</td>
+		</tr>
+		<tr>
+			<td>
+				21</td>
+			<td>
+				切斯特·A·阿瑟<br />
+				Chester A. Arthur</td>
+			<td>
+				51</td>
+			<td>
+				11</td>
+			<td>
+				14</td>
+			<td>
+				1881年9月19日 - 1885年3月4日</td>
+			<td>
+				31</td>
+		</tr>
+		<tr>
+			<td>
+				27</td>
+			<td>
+				威廉·霍华德·塔夫脱<br />
+				William Howard Taft</td>
+			<td>
+				51</td>
+			<td>
+				5</td>
+			<td>
+				17</td>
+			<td>
+				1909年3月4日 - 1913年3月4日</td>
+			<td>
+				32</td>
+		</tr>
+		<tr>
+			<td>
+				30</td>
+			<td>
+				卡尔文·柯立芝<br />
+				Calvin Coolidge</td>
+			<td>
+				51</td>
+			<td>
+				0</td>
+			<td>
+				29</td>
+			<td>
+				1923年8月2日 - 1929年3月4日</td>
+			<td>
+				34</td>
+		</tr>
+		<tr>
+			<td>
+				13</td>
+			<td>
+				米勒德·菲尔莫尔<br />
+				Millard Fillmore</td>
+			<td>
+				50</td>
+			<td>
+				6</td>
+			<td>
+				2</td>
+			<td>
+				1850年7月9日 - 1853年3月4日</td>
+			<td>
+				36</td>
+		</tr>
+		<tr>
+			<td>
+				11</td>
+			<td>
+				詹姆斯·诺克斯·波尔克<br />
+				James Knox Polk</td>
+			<td>
+				49</td>
+			<td>
+				4</td>
+			<td>
+				2</td>
+			<td>
+				1845年3月4日 - 1849年3月4日</td>
+			<td>
+				37</td>
+		</tr>
+		<tr>
+			<td>
+				20</td>
+			<td>
+				詹姆斯·加菲尔德<br />
+				James Garfield</td>
+			<td>
+				49</td>
+			<td>
+				3</td>
+			<td>
+				13</td>
+			<td>
+				1881年3月4日 - 1881年9月19日</td>
+			<td>
+				38</td>
+		</tr>
+		<tr>
+			<td>
+				14</td>
+			<td>
+				福兰克林·皮尔斯<br />
+				Franklin Pierce</td>
+			<td>
+				48</td>
+			<td>
+				3</td>
+			<td>
+				9</td>
+			<td>
+				1853年3月4日 - 1857年3月4日</td>
+			<td>
+				39</td>
+		</tr>
+		<tr>
+			<td>
+				44</td>
+			<td>
+				贝拉克·<a href="http://114.xixik.com/us-president/obama/" style="color:#000" title="奥巴马">奥巴马</a><br />
+				Barak Obama</td>
+			<td>
+				48</td>
+			<td>
+				7</td>
+			<td>
+				15</td>
+			<td>
+				2009年1月20日 - 2017年1月20日</td>
+			<td>
+				40</td>
+		</tr>
+		<tr>
+			<td>
+				22</td>
+			<td>
+				格罗弗·克利夫兰<br />
+				Grover Cleveland*</td>
+			<td>
+				47</td>
+			<td>
+				11</td>
+			<td>
+				14</td>
+			<td>
+				1885年3月4日 - 1889年3月4日</td>
+			<td>
+				41</td>
+		</tr>
+		<tr>
+			<td>
+				42</td>
+			<td>
+				比尔·<a href="http://114.xixik.com/us-president/bill-clinton/" style="color:#000" title="克林顿">克林顿</a><br />
+				Bill Clinton</td>
+			<td>
+				46</td>
+			<td>
+				5</td>
+			<td>
+				1</td>
+			<td>
+				1993年1月20日 - 2001年1月20日</td>
+			<td>
+				43</td>
+		</tr>
+		<tr>
+			<td>
+				18</td>
+			<td>
+				尤里西斯·格兰特<br />
+				Ulysses Grant</td>
+			<td>
+				46</td>
+			<td>
+				10</td>
+			<td>
+				5</td>
+			<td>
+				1869年3月4日 - 1877年3月4日</td>
+			<td>
+				42</td>
+		</tr>
+		<tr>
+			<td>
+				35</td>
+			<td>
+				约翰·肯尼迪<br />
+				John F. Kennedy</td>
+			<td>
+				43</td>
+			<td>
+				7</td>
+			<td>
+				22</td>
+			<td>
+				1961年1月20日 - 1963年11月22日</td>
+			<td>
+				44</td>
+		</tr>
+		<tr>
+			<td>
+				26</td>
+			<td>
+				西奥多·罗斯福<br />
+				Theodore Roosevelt</td>
+			<td>
+				42</td>
+			<td>
+				10</td>
+			<td>
+				18</td>
+			<td>
+				1901年9月14日 - 1909年3月4日</td>
+			<td>
+				45</td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT:2em">
+	（ * ） 格罗弗·克利夫兰（Grover Cleveland）总统获得了两个不连续的任期，表中分别列出他两次上任时的年龄。根据统计，美国历史上44位总统上任时的平均年龄是55岁；<a href="http://www.xixik.com/content/ab2489d6b9b2caa3" title="美国最年轻的总统就任者是西奥多·罗斯福">美国最年轻的总统就任者是西奥多·罗斯福，不是约翰·肯尼迪</a>，在威廉·麦金利总统于1901年被暗杀后，就任时接近43岁。</p>
+<p style="text-indent: 2em; text-align: center;">
+	<strong>美国依然健在的前总统</strong>（根据年长程度排列）</p>
+<p style="text-indent: 2em;">
+	截至2019年10月，有四位美国前总统仍然在世。最近两位去世的前总统：乔治·赫伯特·沃克·布什（老布什）（任期为1989年至1993年），他于2018年12月10日去世，享年94岁171天。杰拉尔德·福特（任期为1974年至1977年），他于2006年12月26日去世，享年93岁165天。</p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="margin: auto; width: 90%">
+	<tbody>
+		<tr>
+			<th>
+				在世前总统</th>
+			<th>
+				任期</th>
+			<th>
+				出生日期</th>
+		</tr>
+		<tr>
+			<td>
+				吉米·卡特（Jimmy Carter）</td>
+			<td>
+				1977年–1981年</td>
+			<td>
+				1924年10月01日（94岁）</td>
+		</tr>
+		<tr>
+			<td>
+				乔治·沃克·布什（George W. Bush）</td>
+			<td>
+				2001年–2009年</td>
+			<td>
+				1946年07月06日（73岁）</td>
+		</tr>
+		<tr>
+			<td>
+				比尔·克林顿（Bill Clinton）</td>
+			<td>
+				1993年–2001年</td>
+			<td>
+				1946年08月19日（73岁）</td>
+		</tr>
+		<tr>
+			<td>
+				贝拉克·奥巴马（Barak Obama）</td>
+			<td>
+				2009年–2017年</td>
+			<td>
+				1961年08月04日（58岁）</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&#160;</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor8"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        美国总统宣誓就职仪式</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/c9fcecb0778afbc7">美国总统就职典礼见证了美国一代又一代政府更替</a>，已经成为了美国的重要文化传统。早年美国的总统就职典礼是非常简单的，基本就一个宣誓仪式就结束了。随着两百多年的发展，这套仪式已经发展成为包括游行、演讲和舞会的为期一天的活动，<a href="http://www.xixik.com/content/e6564055d5ca3e5a" title="美国总统就职典礼">成为一项美国“全民庆典”颇有门道</a>。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>【<a href="http://www.xixik.com/content/9d86fc927eeb6b53" title="美国总统就职典礼之最">就职典礼之最</a>】</strong></p>
+<p style="TEXT-INDENT:2em">
+	第一次就职典礼：1789年4月30日，乔治·华盛顿成为美国第一任总统，他在誓言中加入“上帝帮助我”，并在宣誓后亲吻圣经。从此宣誓时手按圣节便成为后世总统就职典礼时的惯例。</p>
+<p style="TEXT-INDENT:2em">
+	最短的就职演说：1793年3月4日，乔治·华盛顿再次当选美国总统，他在费城发表的总统就职演说仅有135个字。</p>
+<p style="TEXT-INDENT:2em">
+	最长的就职演说：1841年3月4日，威廉·哈理逊总统乘坐火车来到华盛顿。他发表了最长的就职演说，共有8445个字。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/e1b46055dff2c39c" target="_blank" title="回顾美国历任总统就职典礼 “最好”及“最差”的演说">回顾美国历任总统就职典礼 “最好”及“最差”的演说</a></p>
+<p style="TEXT-INDENT:2em">
+	第一次非裔参加就职游行。1865年3月4日，亚伯拉罕·林肯再次当选总统，非裔公民第一次参加总统就职典礼游行。</p>
+<p style="TEXT-INDENT:2em">
+	第一次女性参加就职典礼。1917年3月4日，伍德罗·威尔逊就任总统。第一夫人第一次陪伴总统出入国会。女性第一次参加就职典礼游行。</p>
+<p style="TEXT-INDENT:2em">
+	第一位天主教的总统：1961年1月20日，约翰·肯尼迪成为第一位天主教的美国总统。</p>
+<p style="TEXT-INDENT:2em">
+	第一次网上转播：1997年1月20日，比尔·克林顿总统就职仪式通过互联网同步转播。</p>
+<p style="TEXT-INDENT:2em">
+	主持总统宣誓最多的首席大法官：约翰·马歇尔共主持过9次总统宣誓仪式，他也是第一位主持总统宣誓的首席大法官，从1797年约翰·亚当斯总统，一直到1833年安德鲁·杰克逊总统，历时36年。</p>
+<p style="text-indent: 2em;">
+	<strong>这一天没有正式总统</strong></p>
+<p style="text-indent: 2em;">
+	第12任总统卡扎里·泰勒是个虔诚的圣公会教徒，他拒绝在1849年3月4日星期天宣誓就职。于是，美国在这一天便出现了在新老总统交接之间没有总统的怪事。根据法律规定，<a href="http://www.xixik.com/content/59a8ff35d499c0ee" title="总统交接不顺的奇葩事 美国历史上的“一日总统”">只好由参议院临时议长艾奇逊弥补空缺，当了一天的临时总统</a>。</p>
+<p style="text-indent: 2em;">
+	<strong>提前一天宣誓就职</strong></p>
+<p style="text-indent: 2em;">
+	1877年2月，两位总统候选人之间因一票之争难分胜负，后由国会一个特别委员会进行裁决，结果是海斯险胜对手蒂尔登，但还存在着争议。海斯担心蒂尔登夺取总统职位，便求得即将卸任总统格兰特的帮助，于3月3日星期天的晚上由大法官韦特仓促主持仪式，使海斯偷偷提前一天就职第19任总统。</p>
+<p style="text-indent: 2em;">
+	<strong>父亲主持宣誓就职</strong></p>
+<p style="text-indent: 2em;">
+	<a href="http://114.xixik.com/potus/" style="color:#000;">美国历届总统</a>就职均由大法官主持仪式，但1923年8月2日晚，总统哈定在旧金山皇宫饭店神秘死亡。由于情况紧急，3日凌晨，副总统卡尔文·柯立芝在佛蒙特州他父亲老柯立芝的卧室里，由父亲以公证人身份主持仪式，使柯立芝宣誓就职第30位总统。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>【就职时间——宪法规定】</strong></p>
+<p style="TEXT-INDENT:2em">
+	美国每一位当选总统的任期始于大选翌年1月20日正午，这一规定在1933年以修正案的形式写进<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>。在此之前，从首位总统华盛顿，到第32任总统富兰克林·罗斯福的第一任期，美国总统基本上都是在3月4日就职。</p>
+<p style="TEXT-INDENT:2em">
+	而事实上，1789年乔治·华盛顿首次就职仪式因为计票的缘故推迟了将近两个月，在当年的4月30日举行。当时就职地点还是曾经的首都纽约。实际上，华盛顿当时原定的就职时间是3月4日，但由于各州统计选票的时间长达近4个月，就职时间不得不延后。此后近150年的时间里，美国总统就职日一直固定在3月4日。美国总统就职日的改变还是1933年之后的事情。1933年通过的<a href="http://114.xixik.com/us-constitution/" style="color:#000;" title="美国宪法">美国宪法</a>修正案第20条规定，总统宣誓就职的日期和时间修改成华盛顿当地时间的1月20日中午。</p>
+<p style="TEXT-INDENT:2em">
+	修改主要是出于以下考虑：第一，新总统越早上任，越能尽快介入国家事务的处理。1933年大萧条期间，当选总统富兰克林·罗斯福与胡佛总统之间的权力交接太迟缓，影响了美国对危机的应对。第二，随着蒸汽机车等新科技的发明，国会可以确保在1月份就提前结束对选举人票的统计。1937年，富兰克林·罗斯福开启第二任期，成为美国首位在1月20日就职的总统。</p>
+<p style="TEXT-INDENT:2em">
+	此外，在正副总统的就职顺序上，虽然在职称上<a href="http://114.xixik.com/vice-president/" style="color:#000" title="美国副总统">美国副总统</a>略逊一筹，但<a href="http://114.xixik.com/vice-president/" style="color:#000" title="美国副总统">美国副总统</a>会在1月20日当天先于总统就职。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>【宣誓词——马虎不得】</strong></p>
+<p style="TEXT-INDENT:2em">
+	除了就职日期，<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>的第二章第一节第八条规定，新任总统在就职前，必须宣誓。在最高法院首席大法官主持下，总统进行如下宣誓：“我谨庄严宣誓（或郑重声明），我必须忠诚地执行合众国总统职务，竭尽全力，恪守、维护和捍卫合众国宪法。”（I do solemnly swear （or affirm） that I will faithfully execute the Office of President of the United States, and will to the best of my Ability, preserve, protect and defend the Constitution of the United States.）</p>
+<p style="TEXT-INDENT:2em">
+	宣誓的过程不得马虎，如果说错了词，还得重来。比如，2009年1月20日，<a href="http://114.xixik.com/us-president/obama/" style="color:#000" title="奥巴马">奥巴马</a>宣誓就任第44任美国总统时，由于首席大法官约翰·罗伯茨领读誓词没有将“忠诚的”一词按照宪法规定的顺序说出，<a href="http://114.xixik.com/us-president/obama/" style="color:#000;" title="奥巴马">奥巴马</a>只得于次日重新宣誓。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/e3a2b7b5598c625f">美国总统就职典礼经典片断回顾 当然尴尬事不少</a></p>
+<p style="TEXT-INDENT:2em">
+	<strong>【手按《圣经》——约定俗成】</strong></p>
+<p style="TEXT-INDENT:2em">
+	我们经常看到美国总统宣誓就职时手按圣经跟大法官宣誓的画面，<a href="http://www.xixik.com/content/832c9675c7667208" title="美国总统就职仪式上手按的圣经誓言调查">但是美国宪法并无明确要求总统宣誓一定要手按《圣经》</a>，这源于美国第一任总统华盛顿开启手按《圣经》宣誓的先河。也有些总统就没遵循这个约定俗成的惯例，第6任总统约翰·昆西·亚当斯在宣誓仪式中选择一本法律书，第26任总统西奥多·罗斯福就没按任何一本书，肯尼迪是天主教徒手按天主教圣经，林登 约翰逊虽然不是天主教徒，拿了一本肯尼迪的天主教圣经来宣誓。<a href="http://www.xixik.com/content/8c6f66dcfc8a3282" target="_blank" title="历任美国总统宣誓就职引用的《圣经》金句">历任美国总统宣誓就职引用的《圣经》金句</a></p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/mimg/004/xixik_73c6b083fd406fe6.jpeg" style="height: 365px; width: 650px;" /></p>
+<p style="TEXT-INDENT:2em">
+	1989年1月20日，老布什宣誓就任美国第41任总统，使用自家的圣经。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/us-president/xixik-0764fb65d910aca9.jpeg" style="height: 441px; width: 650px;" /></p>
+<p style="TEXT-INDENT:2em">
+	1993年1月20日，克林顿宣誓就任美国第42任总统，使用祖母送给他的圣经。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/cimg/022/xixik_f61fd94d5805c677.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/us-president/george-walker-bush/" style="color:#000;" title="小布什总统">小布什</a>2001年就职时本来想用华盛顿在1789年就职时使用的《圣经》，他的父亲老布什1989年就职时也用了这本《圣经》，但因为担心天气因素可能会对古书造成损坏，小布什最后用了一本自家使用的《圣经》。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/us-president/xixik-3c7f1e57bda937d8.jpg" style="height: 433px; width: 650px;" /></p>
+<p style="TEXT-INDENT:2em">
+	2009年1月20日，美国总统奥巴马在白宫蓝厅举行宣誓仪式，由最高法院首席法官约翰·罗伯茨主持，履行法定连任就职程序，开始第二任期。</p>
+<p style="TEXT-INDENT:2em">
+	按照美国宪法规定，奥巴马的第一任期于1月20日中午结束，他必须在当天履行连任就职程序。由于当天是一些宗教的礼拜日，按照传统，奥巴马的公众就职典礼于次日举行。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/024/xixik_f6ea90799658cf09.jpg" style="height: 434px; width: 650px;" /></p>
+<p style="text-indent: 2em;">
+	2009年1月20日，奥巴马再次宣誓，并发表就职演说。</p>
+<p style="text-indent: 2em;">
+	有时，美国总统就职仪式会用到不止一本《圣经》。2013年<a href="http://114.xixik.com/us-president/obama/" style="color:#000;" title="奥巴马">奥巴马</a>连任后用了两本《圣经》宣誓，一本是林肯总统生前使用过的，另一本则是民权领袖马丁·路德·金使用过的。<a href="http://www.xixik.com/content/af9de9b65de232bc" target="_blank" title="2008 VS 2017：奥巴马总统生涯的100个瞬间">2008 VS 2017：奥巴马总统生涯的100个瞬间</a></p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/us-president/xixik-c9f224d786ea860e.jpg" style="width: 650px;" title="2017年1月20日，特朗普宣誓成为美国第45任总统。" /></p>
+<p style="TEXT-INDENT:2em">
+	2017年，民粹总统特朗普在宣誓中使用的两本圣经对他的家庭以及对美国来说“别具意义”，其中一本是由特朗普的母亲在他9岁生日的两天前赠给他的；另一本圣经则是林肯在1861年使用过的，由委员会向国会图书馆借用。然而<a href="http://www.xixik.com/content/132a77191791390c" target="_blank" title="爷爷开妓院起家的德国移民 母亲是苏格兰女佣的特朗普却反移民">爷爷开妓院起家的德国移民 母亲是苏格兰女佣的特朗普却反移民</a>是怎么回事？特朗普在任职期间违反了总统职誓言和宪法所规定的义务。</p>
+<p style="TEXT-INDENT:2em">
+	而对于就职典礼的日期，1937年后固定为1月20日，这是美国的公共假日。按照惯例，总统就职典礼会有以下一些仪式：</p>
+<p style="TEXT-INDENT:2em">
+	<strong>【地点——主要在国会】</strong></p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/us-president/xixik-6da6591eadb55db5.jpg" style="height: 277px; width: 650px;" /></p>
+<p style="TEXT-INDENT:2em">
+	图为2013年1月20日奥巴马总统就职时的国会山</p>
+<p style="TEXT-INDENT:2em">
+	关于宣誓就职的地点，<a href="http://114.xixik.com/us-constitution/" style="color:#000" title="美国宪法">美国宪法</a>也没有做出规定。美国首都华盛顿哥伦比亚特区（Washington, D.C.）1800年建成后，总统就职仪式起初在国会大厦东面门廊举行。1981年里根就任总统时，地点改在国会大厦西侧阶梯。历史上，只有1909年和1985年两场就职典礼因天气原因在室内举行。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/022/xixik_a6c256b5eb66e631.jpeg" /></p>
+<p style="text-indent: 2em;">
+	时任副总统的约翰逊在空军一号上、在肯尼迪夫人的注视下宣誓就职。</p>
+<p style="TEXT-INDENT:2em">
+	值得一提的是，1963年11月22日，<a href="http://www.xixik.com/content/9f156a7ef876a40a">肯尼迪总统于达拉斯遇刺</a>后，时任副总统的林顿·约翰逊在“空军一号”上宣誓就职，接替肯尼迪，成为美国历史上第一位、也是迄今唯一一位在飞机上就职的总统。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>【就职演说——长短随意】</strong></p>
+<p style="TEXT-INDENT:2em">
+	宣誓就职后，军乐队奏响《鼓号齐鸣》，并由美国陆军第3炮兵团鸣21响礼炮。新任总统会首次以国家领导人的身份发表正式演说，演说内容常涉及对国家前景的展望、呼吁民众团结等。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/022/xixik_a9b922f37f3949d1.jpeg" /></p>
+<p style="text-indent: 2em;">
+	1997年1月20日，<a href="http://114.xixik.com/us-president/bill-clinton/" style="color:#000;" title="克林顿">克林顿</a>在国会大厦前发表他第二任期的就职演说。</p>
+<p style="TEXT-INDENT:2em">
+	演说的字数和时长没有定数，美国建国200多年来，多位总统在这一项上创造了纪录。比如在1793年3月4日，华盛顿第二次就任总统，他当时在费城发表的总统就职演说仅有135个字，创下“最短就职演说”纪录。</p>
+<p style="TEXT-INDENT:2em">
+	1841年，第9任总统威廉·哈里森在华盛顿发表了“史上最长”总统就职演说：洋洋洒洒8445个字。遗憾的是因为在就职仪式当天长时间暴露在严寒中，哈里森患上了肺炎，在就职仅一个月后就不幸病逝，成为美国当政时间最短的总统。</p>
+<p style="TEXT-INDENT:2em">
+	盘点<a href="http://www.xixik.com/content/9f51b7858733e110">几位美国总统精彩的就职演说词</a>，历数<a href="http://www.xixik.com/content/e1b46055dff2c39c">美国历任总统就职“最好”及“最差”就职演说</a>。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>【<a href="http://www.xixik.com/content/3d72ac9a3ed8638e" style="color:#000;" title="盘点美国总统就职游行经典瞬间">总统就职游行</a>】</strong></p>
+<p style="TEXT-INDENT:2em">
+	从1953年起，总统宣誓就职后，新任正副总统将出席国会举办的午餐会。午餐会后，庆祝总统就职游行开始，新总统和<a href="http://114.xixik.com/flotus/" style="color:#000;">第一夫人</a>在游行队伍护送下，沿宾夕法尼亚大街前往白宫赴任。庆祝总统就职游行的传统始于1805年杰斐逊连任就职时，为历任总统所沿用。1977年，卡特总统开始全程步行前往白宫。此后，出于安全考虑，几任总统仅在部分地段步行。为体现民众参与，总统就职委员会还在全国挑选表演团队加入游行队伍。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/us-president/xixik-d77e3d858db93f3a.jpg" style="height: 433px; width: 650px;" /></p>
+<p style="TEXT-INDENT:2em">
+	1981年1月20日，美国第40任总统罗纳德·里根和第一夫人南希·里根在正式就职后对着欢呼的人群挥手。大多数就职仪式都是在国会大厦的东侧进行，但是里根1981年打破传统，选择了西侧。在这里可以看到国家广场的壮观景象，包括其中的纪念堂和纪念碑。</p>
+<p style="TEXT-INDENT:2em">
+	<img border="1" src="http://img.xixik.net/cimg/022/xixik_c93420b98d41698b.jpg" /></p>
+<p style="TEXT-INDENT:2em">
+	2001年1月20日，首次当上总统的小布什和<a href="http://114.xixik.com/flotus/" style="color:#000;">第一夫人</a>劳拉在就职游行中向观众致意。</p>
+<p style="TEXT-INDENT:2em">
+	<img border="1" src="http://img.xixik.net/custom/section/us-president/xixik-ddf7fed24a73c556.jpg" /></p>
+<p style="TEXT-INDENT:2em">
+	2009年1月20日，同样是首次当上总统的奥巴马和<a href="http://114.xixik.com/flotus/" style="color:#000;">第一夫人</a>米歇尔在就职游行队伍中向观众致意。</p>
+<p style="TEXT-INDENT:2em">
+	就职日前后，有关总统就职的官方舞会、音乐会等活动往往会持续10天左右。就职日当天，为减少交通拥堵，首都所有联邦政府工作人员以及相邻的马里兰州和弗吉尼亚州部分地区放假一天。</p>
+<p style="TEXT-INDENT:2em">
+	1901年以来，总统就职仪式主要由国会两院就职仪式联合委员会负责。由于总统兼任武装部队总司令，从1953年艾森豪威尔就任总统起，武装部队总统就职委员会也参与组织这一活动。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>【<a href="http://114.xixik.com/flotus/" style="color:#000;">美国第一夫人</a>——就职典礼的靓丽风景】</strong></p>
+<p style="TEXT-INDENT:2em">
+	总统就职典礼的后半程由午餐会、庆祝游行和庆祝舞会组成。在热闹的庆典和优雅的舞会上，身着靓丽礼服的“<a href="http://114.xixik.com/flotus/" style="color:#000;">第一夫人</a>”风头往往会压过总统，成为一道靓丽的风景线。</p>
+<p style="TEXT-INDENT:2em">
+	<img border="0" src="http://img.xixik.net/custom/section/us-president/xixik-d348f7d4cc7e0ca7.jpg" /></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/8c5b804390e8da28">1961年1月20日，在肯尼迪总统的就职典礼上，</a>杰奎琳身穿Oleg Cassini皮草大衣。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/22d51c22b9035a2b">提到“衣着品味好”的第一夫人，很多美国人首先会想到杰奎琳·肯尼迪</a>。杰奎琳虽然不是一张标准的“美人脸”，但她高雅的气质和衣着品位，让她成为上世纪60年代众多女性仿效的对象，她独到的审美情趣，成功地倡导了美国的流行时尚。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/flotus/" style="color:#000;">第一夫人</a>华服虽美，但她们买衣服由谁买单，一直是让白宫头疼的问题。因为“<a href="http://114.xixik.com/flotus/" style="color:#000;">第一夫</a>人”这个身份并没有置装费或薪酬。有报道称，第一夫人们通常会自掏腰包买衣服，但也不是总是如此，以米歇尔为例，她的一些礼服是由设计师赠送的。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/e019b2541ff53db3">关于美国历届总统的就职典礼，可以点击这里查看更多内容</a>>></p>
+<p style="TEXT-INDENT:2em">
+	当新一届美国总统的就职典礼来临之时，整个世界都在关注华盛顿特区的一举一动。不管如何，当那天到来，历史新的一页即将翻开。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+    </div>
+    <script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        var value = '41';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script>
+    <div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/us-president/" target="_self" title="美国历任总统名单_美国总统简历生卒年份及所属党派">美国历任总统名单</a></div>
+    <ul style="width: 960px; margin: auto; overflow: hidden;">
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/lixi/"
+                title="人民币存款利率表，2019银行利息，银行存款利率，银行贷款利率">银行存款利息</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chaodai/zhou/"
+                title="周朝历史_西周历史_东周历史_周朝帝王列表">周朝历史</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证更换新政策_过期了该怎么办？">中国旅行证</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国历任总统名单_美国总统简历生卒年份及所属党派">美国历任总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/baijiaxing-qq/"
+                title="百家姓qq头像,百家姓qq头像闪图大全_百家姓中国心qq头像">百家姓QQ头像</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="美宝证件_美宝需要哪些证件（美国出生纸_中国旅行证_美国护照_社会安全号_出生纸三级认证）">美宝需要哪些证件？</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_去美国生孩子费用预算清单2019">赴美生子要多少钱</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/obama/"
+                title="奥巴马_美国总统奥巴马_贝拉克·奥巴马(Barack Hussein Obama)_第44任美国总统">奥巴马</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/trump/"
+                title="美国总统特朗普_唐纳德·约翰·特朗普_Donald John Trump_第45任美国总统川普">特朗普</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_去美国生孩子要多少钱？">赴美生子费用</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 中国护照免签证国家2019">中国护照免签证</a> </li>
+        
+    </ul>
+
+    <div class="lindBox">
+        <div class="btnGray">
+            <div class="btnText">
+                <a target="_self" title="美国历任总统名单_美国总统简历生卒年份及所属党派" href="http://news.xixik.com/word/41/">另存为<br />
+                    Word格式</a>
+            </div>
+        </div>
+    </div>
+    <div class="lindBox" style="text-align: center;">
+        <img src="http://news.xixik.com/qrcode/41/" alt="扫码手机上继续看" /><br />
+        <br />
+        <strong>用微信或者支付宝扫码在手机上继续观看<br />
+            可以保存收藏，也扫码后可以分享给好友
+        </strong>
+    </div>
+    <hr style="height: 1px; border: none; border-top: 1px dashed #999;" />
+    <script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script>
+<!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.-->
+
+</body></html>

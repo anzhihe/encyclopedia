@@ -1,0 +1,2546 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <title>时辰 - 时辰对照表,十二时辰查询</title>
+    <link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" />
+    <meta name="description" content="十二时辰对照表：子时：23点--凌晨1点。丑时：1点--凌晨3点。寅时：3点--凌晨5点。卯时：5点--早晨7点。辰时：7点--上午9点。 巳时：9点--中午11点。午时：11点--下午13点。未时：13点--下午15点。申时：15点--下午17点。酉时：17点--下午19点。戌时：19点--晚上21点。亥时：21点--晚上23点。你知道十二地支所对应的时辰吗？" />
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/shichen/">
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <base target="_blank" />
+    
+    <script>
+        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "shichen/";
+        }
+
+
+    </script>
+    <style>
+        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style>
+</head>
+<body>
+    <a name="top4"></a>
+    <div class="topBox" name="top">
+        <div class="topMain">
+            <div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div>
+            <div id="icoPhone"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div>
+            <div id="icoWechat"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a> </div>
+            <div id="icoSina"></div>
+            <div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a>  </div>
+            <div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div>
+            <div class="topRight">
+            </div>
+        </div>
+    </div>
+
+    <div id="showqrCode">
+        <div><span></span></div>
+        <img src="" /><div><span></span></div>
+    </div>
+    <script type="text/javascript">
+        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script>
+    <div class="body">
+        
+        <div class="lindBox" style="position: relative;">
+            <img src="http://img.xixik.net/custom/topic/001/shichen.jpg" alt="时辰 - 时辰对照表,十二时辰查询" />
+            <div class="title">
+                <h1>时辰 - 时辰对照表,十二时辰查询</h1>
+            </div>
+        </div>
+        
+
+        <div class=" custom_border lindBox">
+            <div class="special_content">
+                <div class="content_text">
+                    <div class="content_daodu">
+                    </div>
+                    <h2 style="border-bottom:1px dashed #999; displayinline;">十二时辰</h2>
+                    <p>
+	古代将一昼夜分为<strong><a href="http://114.xixik.com/shichen/" style="color:#000;" title="十二时辰对照表">十二时辰</a></strong>，即：子、丑、寅、卯、辰、巳、午、未、申、酉、戌、亥。每一时辰相当于现代的两个小时。古人根据中国<a href="http://114.xixik.com/12shengxiao/" style="color:#000;" title="十二生肖对照表">十二生肖</a>中的动物的出没时间来命名各个时辰。子时23～1点，丑时1～3点，寅时3～5点，卯时5～7点，辰时7～9点，巳时9～11点，午时11～13点，未时13～15点，申时15～17点，酉时17～19点，戌时19～21点，亥时21～23点。</p>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="lindBox" style="overflow: hidden;">
+            <div class="gg1">
+                <a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a>
+            </div>
+            <div class="guide">
+                <div class="guideBorder" id="guideBorder">
+                    <div class="guideTitle">导读（目录）</div>
+                    <ul id="guideDisplay">
+                        
+                                <li>·<a title="十二时辰对照表" href="#anchor1" target="_self"> 十二时辰对照表</a></li>
+                            
+                                <li>·<a title="十二时辰的读音" href="#anchor2" target="_self"> 十二时辰的读音</a></li>
+                            
+                                <li>·<a title="十二时辰详解" href="#anchor3" target="_self"> 十二时辰详解</a></li>
+                            
+                                <li>·<a title="二十四小时和十二时辰对照表" href="#anchor4" target="_self"> 二十四小时和十二时辰对照表</a></li>
+                            
+                                <li>·<a title="“更”和“鼓”的区分" href="#anchor5" target="_self"> “更”和“鼓”的区分</a></li>
+                            
+                                <li>·<a title="十二时辰养生法（黄帝内经时辰养生）" href="#anchor6" target="_self"> 十二时辰养生法（黄帝内经时辰养生）</a></li>
+                            
+                                <li>·<a title="比时辰更小的古代时间单位" href="#anchor7" target="_self"> 比时辰更小的古代时间单位</a></li>
+                            
+                                <li>·<a title="时辰历史" href="#anchor8" target="_self"> 时辰历史</a></li>
+                            
+                                <li>·<a title="十二时辰无病法" href="#anchor9" target="_self"> 十二时辰无病法</a></li>
+                            
+                                <li>·<a title="十二时辰对应的生肖" href="#anchor10" target="_self"> 十二时辰对应的生肖</a></li>
+                            
+                                <li>·<a title="十二时辰与五行对照表" href="#anchor11" target="_self"> 十二时辰与五行对照表</a></li>
+                            
+                                <li>·<a title="中国十二时辰的优雅味道" href="#anchor12" target="_self"> 中国十二时辰的优雅味道</a></li>
+                            
+                                <li>·<a title="《长安十二时辰》再现大唐风物" href="#anchor13" target="_self"> 《长安十二时辰》再现大唐风物</a></li>
+                            
+                    </ul>
+                    <div class="guideOpen">展开&darr;</div>
+                </div>
+            </div>
+
+            <div class="guideFllow">
+                <div class="guideFllowBorder">
+                    <div class="guideFllowTitle">导读（目录）</div>
+                    <ul id="guideFllowDisplay">
+                        
+                                <li>·<a title="十二时辰对照表" href="#anchor1" target="_self"> 十二时辰对照表</a></li>
+                            
+                                <li>·<a title="十二时辰的读音" href="#anchor2" target="_self"> 十二时辰的读音</a></li>
+                            
+                                <li>·<a title="十二时辰详解" href="#anchor3" target="_self"> 十二时辰详解</a></li>
+                            
+                                <li>·<a title="二十四小时和十二时辰对照表" href="#anchor4" target="_self"> 二十四小时和十二时辰对照表</a></li>
+                            
+                                <li>·<a title="“更”和“鼓”的区分" href="#anchor5" target="_self"> “更”和“鼓”的区分</a></li>
+                            
+                                <li>·<a title="十二时辰养生法（黄帝内经时辰养生）" href="#anchor6" target="_self"> 十二时辰养生法（黄帝内经时辰养生）</a></li>
+                            
+                                <li>·<a title="比时辰更小的古代时间单位" href="#anchor7" target="_self"> 比时辰更小的古代时间单位</a></li>
+                            
+                                <li>·<a title="时辰历史" href="#anchor8" target="_self"> 时辰历史</a></li>
+                            
+                                <li>·<a title="十二时辰无病法" href="#anchor9" target="_self"> 十二时辰无病法</a></li>
+                            
+                                <li>·<a title="十二时辰对应的生肖" href="#anchor10" target="_self"> 十二时辰对应的生肖</a></li>
+                            
+                                <li>·<a title="十二时辰与五行对照表" href="#anchor11" target="_self"> 十二时辰与五行对照表</a></li>
+                            
+                                <li>·<a title="中国十二时辰的优雅味道" href="#anchor12" target="_self"> 中国十二时辰的优雅味道</a></li>
+                            
+                                <li>·<a title="《长安十二时辰》再现大唐风物" href="#anchor13" target="_self"> 《长安十二时辰》再现大唐风物</a></li>
+                            
+                    </ul>
+                    <div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div>
+                </div>
+            </div>
+
+
+            <div class="gg2">
+                <a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a>
+            </div>
+        </div>
+        
+        <a name="anchor1"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        十二时辰对照表</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p>
+	<style type="text/css">
+table tr:hover{background-color: #f5f5f5;}	</style>
+</p>
+<table bgcolor="#FFF" border="1" bordercolor="#666" cellpadding="2" cellspacing="1" style="width:600px;text-align:center; margin:0 auto;">
+	<tbody>
+		<tr bgcolor="#efefef">
+			<th>
+				子时</th>
+			<th>
+				丑时</th>
+			<th>
+				寅时</th>
+			<th>
+				卯时</th>
+			<th>
+				辰时</th>
+			<th>
+				巳时</th>
+		</tr>
+		<tr>
+			<td>
+				23:00-00:59</td>
+			<td>
+				01:00-02:59</td>
+			<td>
+				03:00-04:59</td>
+			<td>
+				05:00-06:59</td>
+			<td>
+				07:00-08:59</td>
+			<td>
+				09:00-10:59</td>
+		</tr>
+		<tr bgcolor="#efefef">
+			<th>
+				午时</th>
+			<th>
+				未时</th>
+			<th>
+				申时</th>
+			<th>
+				酉时</th>
+			<th>
+				戊时</th>
+			<th>
+				亥时</th>
+		</tr>
+		<tr>
+			<td>
+				11:00-12:59</td>
+			<td>
+				13:00-14:59</td>
+			<td>
+				15:00-16:59</td>
+			<td>
+				17:00-18:59</td>
+			<td>
+				19:00-20:59</td>
+			<td>
+				21:00-22:59</td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT:2em">
+	在现代生活中，时间是通过&ldquo;时分秒&rdquo;来记录的，但是在中国古代的时间记录方法非常具有中国特色，那就是<strong><a href="http://114.xixik.com/tiangandizhi/" style="color:#000;">十二地支</a></strong>。根据十二生肖中的动物的出没时间来命名各个时辰：子（zǐ） 、丑（chǒu） 、寅（y&iacute;n） 、卯（mǎo） 、辰（ch&eacute;n） 、巳（s&igrave;） 、午（wǔ） 、未（w&egrave;i）、申（shēn） 、酉（yǒu） 、戌（xū） 、亥（h&agrave;i）。</p>
+<p style="TEXT-INDENT:2em">
+	中国古代劳动人民把一昼夜划分成十二个时段，每一个时段叫一个<a href="http://114.xixik.com/shichen/" style="color:#000;" title="时辰"><strong>时辰</strong></a>。每一时辰的前一小时为初，后一小时为正。比如7时叫辰初，8时叫辰正，9时叫巳初，10时叫巳正。<a href="http://114.xixik.com/12shichen/" style="color: rgb(0, 0, 0);" title="十二时辰">十二时辰</a>既可以指一天，也可以指任何一个时辰。<a href="http://114.xixik.com/12shichen/" style="color: rgb(0, 0, 0);" title="十二时辰">十二时辰</a>相当于24小时，每个时辰等于2小时。</p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://114.xixik.com/12shichen/" style="color:#000" title="十二时辰">十二时辰</a></strong>是古代中国劳动人民根据一日间太阳出没的自然规律、天色的变化以及自己日常的生产活动、生活习惯而归纳总结、独创于世的。生活之美，被古人融入点点滴滴。</p>
+<p style="TEXT-INDENT:2em">
+	金 董解元 《西厢记诸宫调》卷一：&ldquo;没一个时辰儿不挂念，没一个夜儿不梦见。&rdquo;《西游记》第四九回：&ldquo;这等干，只是忒费事，耽搁了时辰了。&rdquo; 魏巍 《东方》第四部第二三章：&ldquo;这就叫：不是不报，时辰不到。&rdquo;&nbsp;</p>
+<p style="TEXT-INDENT:2em">
+	宋 苏轼 《申三省起请开湖六条状》：&ldquo;今来所创置钤辖司前一闸，虽每遇潮上，闭得一两时辰&hellip;&hellip;而公私舟舡欲出入闸者，自须先期出入，必不肯端坐以待闭闸。&rdquo;</p>
+<p style="TEXT-INDENT:2em">
+	清 孔尚任 《桃花扇&middot;媚座》：&ldquo;昼短夜长，差了三个时辰了。&rdquo;</p>
+<p style="TEXT-INDENT:2em">
+	曹禺 《王昭君》第二幕：&ldquo;半个时辰前，他陪伴天子酣宴。&rdquo;</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor2"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        十二时辰的读音</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p>
+	<strong>十二时辰发音：</strong>zi（第三声）、chou（第三声）、寅 yin（第二声）、卯 mao&#160;mao （第三声）、辰&#160;chen（第二声）、巳&#160;si（第四声）、午&#160;wu（第三声）、未&#160;wei（第四声）、申&#160;shen（第一声）、酉you（第三声）、戌&#160;xu（第一声）、亥&#160;hai（第四声）。</p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="font-family:arial; text-align: center; margin: auto; width:600px;">
+	<tbody>
+		<tr bgcolor="#efefef">
+			<th>
+				子时</th>
+			<th>
+				丑时</th>
+			<th>
+				寅时</th>
+			<th>
+				卯时</th>
+			<th>
+				辰时</th>
+			<th>
+				巳时</th>
+		</tr>
+		<tr>
+			<td>
+				zǐ</td>
+			<td>
+				chǒu</td>
+			<td>
+				yín</td>
+			<td>
+				mǎo</td>
+			<td>
+				chén</td>
+			<td>
+				sì</td>
+		</tr>
+		<tr bgcolor="#efefef">
+			<th>
+				午时</th>
+			<th>
+				未时</th>
+			<th>
+				申时</th>
+			<th>
+				酉时</th>
+			<th>
+				戊时</th>
+			<th>
+				亥时</th>
+		</tr>
+		<tr>
+			<td>
+				wǔ</td>
+			<td>
+				weì</td>
+			<td>
+				shēn</td>
+			<td>
+				yǒu</td>
+			<td>
+				xū</td>
+			<td>
+				haì</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	<img src="http://img.xixik.net/custom/section/shichen/xixik-aa852d28fba465d6.jpg" style="margin: 10px; float: right; width: 400px;" title="日晷" /></p>
+<p>
+	<strong>十二时辰怎么读（</strong><strong style="text-indent: 28px;">读音</strong><strong>）？</strong></p>
+<p>
+	<span arial="" style="text-indent: 28px;">子（zǐ）、丑（chǒu）、寅（yín）、卯（mǎo）、辰（chén）、巳（sì）、午（wǔ）、未（wèi）、申（shēn）、酉（yǒu）、戌（xū）、亥（hài）。</span></p>
+<p>
+	子时：00-02点；<br />
+	丑时：02-04点；<br />
+	寅时：04-06点；（“银”的读音）<br />
+	卯时：06-08点；（“猫”的读音三声）<br />
+	辰时：08-10点；<br />
+	巳时：10-12点；（“四”的读音）<br />
+	午时：12-14点；<a href="http://www.xixik.com/content/82be41c1b52f6705" title="古代斩首为什么要选在午门跟午时 还要午时三刻？">为何斩首要在午时三刻？</a><br />
+	未时：14-16点；<br />
+	申时：16-18点；（“伸”的读音）<br />
+	酉时：18-20点；（“有”的读音）<br />
+	戌时：20-22点；（“需”的读音）<br />
+	亥时：22-24点。（“害”的读音）</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor3"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        十二时辰详解</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:50%">
+	<tbody>
+		<tr>
+			<th colspan="4" style="text-align: center;">
+				<strong>时辰时间对照表</strong></th>
+		</tr>
+		<tr>
+			<td>
+				早子时（zǐ）</td>
+			<td>
+				夜半</td>
+			<td>
+				24:00-01:00</td>
+			<td>
+				三更</td>
+		</tr>
+		<tr>
+			<td>
+				丑时（chǒu）</td>
+			<td>
+				鸡鸣</td>
+			<td>
+				01:00-03:00</td>
+			<td>
+				四更</td>
+		</tr>
+		<tr>
+			<td>
+				寅时（yín）</td>
+			<td>
+				平旦</td>
+			<td>
+				03:00-05:00</td>
+			<td>
+				五更</td>
+		</tr>
+		<tr>
+			<td>
+				卯时（mǎo）</td>
+			<td>
+				日出</td>
+			<td>
+				05:00-07:00</td>
+			<td>
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				辰时（chén）</td>
+			<td>
+				食时</td>
+			<td>
+				07:00-09:00</td>
+			<td>
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				巳时（sì）</td>
+			<td>
+				隅中</td>
+			<td>
+				09:00-11:00</td>
+			<td>
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				午时（wǔ）</td>
+			<td>
+				日中</td>
+			<td>
+				11:00-13:00</td>
+			<td>
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				未时（wèi）</td>
+			<td>
+				日映</td>
+			<td>
+				13:00-15;00</td>
+			<td>
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				申时（shēn）</td>
+			<td>
+				哺时</td>
+			<td>
+				15:00-17:00</td>
+			<td>
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				酉时（yǒu）</td>
+			<td>
+				日入</td>
+			<td>
+				17:00-19:00</td>
+			<td>
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				戌时（xū）</td>
+			<td>
+				黄昏</td>
+			<td>
+				19:00-21:00</td>
+			<td>
+				一更</td>
+		</tr>
+		<tr>
+			<td>
+				亥时（hài）</td>
+			<td>
+				人定</td>
+			<td>
+				21:00-23:00</td>
+			<td>
+				二更</td>
+		</tr>
+		<tr>
+			<td>
+				夜子时（zǐ）</td>
+			<td>
+				夜半</td>
+			<td>
+				23:00-24:00</td>
+			<td>
+				三更</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/shichen/xixik-ed09b2f9ae8ee394.jpg" /></p>
+<p style="TEXT-INDENT: 2em">
+	【子时】夜半，又名子夜、中夜：十二时辰的第一个时辰。（北京时间23时至01时）。</p>
+<p style="TEXT-INDENT: 2em">
+	【丑时】鸡鸣，又名荒鸡：十二时辰的第二个时辰。（北京时间01时至03时）。</p>
+<p style="TEXT-INDENT: 2em">
+	【寅时】平旦，又称黎明、早晨、日旦等：时是夜与日的交替之际。（北京时间03时至05时）。</p>
+<p style="TEXT-INDENT: 2em">
+	【卯时】日出，又名日始、破晓、旭日等：指太阳刚刚露脸，冉冉初升的那段时间。（北京时间05时至07时）。</p>
+<p style="TEXT-INDENT: 2em">
+	【辰时】食时，又名早食等：古人“朝食”之时也就是吃早饭时间，（北京时间07时至09时）。</p>
+<p style="TEXT-INDENT: 2em">
+	【巳时】隅中，又名日禺等：临近中午的时候称为隅中。（北京时间09 时至11时）。</p>
+<p style="TEXT-INDENT: 2em">
+	【午时】日中，又名日正、中午等：（北京时间11时至13时）。</p>
+<p style="TEXT-INDENT: 2em">
+	【未时】日昳，又名日跌、日央等：太阳偏西为日跌。（北京时间13时至15时）。</p>
+<p style="TEXT-INDENT: 2em">
+	【申时】哺时，又名日铺、夕食等：（北京时间15时至17时）。</p>
+<p style="TEXT-INDENT: 2em">
+	【酉时】日入，又名日落、日沉、傍晚：意为太阳落山的时候。（北京时间17时至19时）。</p>
+<p style="TEXT-INDENT: 2em">
+	【戌时】黄昏，又名日夕、日暮、日晚等：此时太阳已经落山，天将黑未黑。天地昏黄，万物朦胧，故称黄昏。（北京时间19时至21时）。</p>
+<p style="TEXT-INDENT: 2em">
+	【亥时】人定，又名定昏等：此时夜色已深，人们也已经停止活动，安歇睡眠了。人定也就是人静。（北京时间21时至23时）。</p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:80%">
+	<tbody>
+		<tr>
+			<th colspan="4" style="text-align: center;">
+				<strong style="text-indent: 28px;"><a href="http://114.xixik.com/12shichen/" style="color: rgb(0, 0, 0);" title="十二时辰">十二时辰</a></strong><strong style="text-indent: 28px;">的部分别称汇总</strong></th>
+		</tr>
+		<tr>
+			<th>
+				序号</th>
+			<th>
+				时辰</th>
+			<th>
+				发音</th>
+			<th>
+				别名</th>
+		</tr>
+		<tr>
+			<td>
+				1</td>
+			<td>
+				夜半</td>
+			<td>
+				【yè bàn】</td>
+			<td>
+				子夜　夜分　中夜　未旦　宵分</td>
+		</tr>
+		<tr>
+			<td>
+				2</td>
+			<td>
+				鸡鸣</td>
+			<td>
+				【jī míng】</td>
+			<td>
+				荒鸡</td>
+		</tr>
+		<tr>
+			<td>
+				3</td>
+			<td>
+				平旦</td>
+			<td>
+				【píng dàn】</td>
+			<td>
+				平明　旦明　黎明　早旦　日旦　昧旦　早晨　早夜　早朝　昧爽　旦日　旦时</td>
+		</tr>
+		<tr>
+			<td>
+				4</td>
+			<td>
+				日出</td>
+			<td>
+				【rì chū】</td>
+			<td>
+				日上　日生　日始　日晞　旭日　破晓</td>
+		</tr>
+		<tr>
+			<td>
+				5</td>
+			<td>
+				食时</td>
+			<td>
+				【shí shí】</td>
+			<td>
+				早食　宴食　蚤食</td>
+		</tr>
+		<tr>
+			<td>
+				6</td>
+			<td>
+				隅中</td>
+			<td>
+				【yú zhōng】</td>
+			<td>
+				日禺　禺中　日禺</td>
+		</tr>
+		<tr>
+			<td>
+				7</td>
+			<td>
+				日中</td>
+			<td>
+				【rì zhōng】</td>
+			<td>
+				日正　日午　日高　正午　亭午　日当午</td>
+		</tr>
+		<tr>
+			<td>
+				8</td>
+			<td>
+				日昳&#160;</td>
+			<td>
+				【rì dié】</td>
+			<td>
+				日昃　日仄　日侧　日跌　日斜</td>
+		</tr>
+		<tr>
+			<td>
+				9</td>
+			<td>
+				晡时&#160;</td>
+			<td>
+				【bū shí】</td>
+			<td>
+				馎时　日馎　日稷　夕食</td>
+		</tr>
+		<tr>
+			<td>
+				10</td>
+			<td>
+				日入</td>
+			<td>
+				【rì rù】</td>
+			<td>
+				日没　日沉　日西　日落　日逝　日晏　日旴　日晦　傍晚</td>
+		</tr>
+		<tr>
+			<td>
+				11</td>
+			<td>
+				黄昏</td>
+			<td>
+				【húang hūn】</td>
+			<td>
+				日夕　日末　日暮　日晚　日闇　日堕　日曛　曛黄</td>
+		</tr>
+		<tr>
+			<td>
+				12</td>
+			<td>
+				人定</td>
+			<td>
+				【rén dìng】</td>
+			<td>
+				定昏　夤夜</td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT: 2em; ">
+	图文：<a href="http://www.xixik.com/content/70bbb65a3a4aceac" target="_blank" title="古代十二时辰怎么换算的？读懂了中国人的一天">中国十二时辰优雅的味道 读懂了中国人的一天</a></p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor4"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        二十四小时和十二时辰对照表</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    我们现时每昼夜为24小时，而在古时则为12个时辰。当年西方机械钟表传入中国，人们将中西时点，分别称为“大时”和“小时”。随着钟表的普及人们将“大时”忘淡，而“小时”沿用至今。古时的时（大时）不以一二三四来算，而用子丑寅卯作标，又分别用鼠牛虎兔等动物作代，以为易记，具体划分如下： 
+
+                  <table bgcolor="#FFF" border="1" bordercolor="#666" cellpadding="2" cellspacing="1" style="width:800px;text-align:center; margin:0 auto;">
+                    <tr bgcolor="#EFEFEF"> 
+                      <td width="100"> 
+                        <strong>时辰</strong></td>
+                      <td width="200"><strong>北京时间</strong></td>
+                      <td width="50"><strong>属相</strong></td>
+                      <td width="270"><strong>别名和描述</strong></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF"> 
+                      <td> 
+                        <strong>子时</strong></td>
+                      <td>23:00-00:59</td>
+                      <td><strong>鼠</strong></td>
+                      <td>夜半，又名子夜、中夜，鼠在这时间最活跃。</td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF"> 
+                      <td> 
+                        <strong>丑时</strong></td>
+                      <td>01:00-02:59</td>
+                      <td><strong>牛</strong></td>
+                      <td>鸡鸣，又名荒鸡，牛在这时候咀嚼白天没消化的食物。</td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF"> 
+                      <td> 
+                        <strong>寅时</strong></td>
+                      <td>03:00-04:59</td>
+                      <td><strong>虎</strong></td>
+                      <td>平旦，又称黎明、早晨、日旦等：时是夜与日的交替之际。老虎在此时最猛。</td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF"> 
+                      <td> 
+                        <strong>卯时</strong></td>
+                      <td>05:00-06:59</td>
+                      <td><strong>兔</strong></td>
+                      <td>日出，又名日始、破晓、旭日等：指太阳刚刚露脸，冉冉初升的那段时间。</td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF"> 
+                      <td> 
+                        <strong>辰时</strong></td>
+                      <td>07:00-08:59</td>
+                      <td><strong>龙</strong></td>
+                      <td>食时，又名早食等：古人“朝食”之时也就是吃早饭时间。月亮又称玉兔，在这段时间还在天上。相传这是“群龙行雨”的时候。</td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF"> 
+                      <td> 
+                        <strong>巳时</strong></td>
+                      <td>09:00-10:59</td>
+                      <td><strong>蛇</strong></td>
+                      <td>隅中，又名日禺等：临近中午的时候称为隅中。蛇在这时候隐蔽在草丛中。</td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF"> 
+                      <td> 
+                        <strong>午时</strong></td>
+                      <td>11:00-12:59</td>
+                      <td><strong>马</strong></td>
+                      <td>日中，又名日正、中午等。这时候太阳最猛烈，阳气达到极限，阴气将会产生，而马是阴类动物。</td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF"> 
+                      <td> 
+                        <strong>未时</strong></td>
+                      <td>13:00-14:59</td>
+                      <td><strong>羊</strong></td>
+                      <td>日昳，又名日跌、日央等：太阳偏西为日跌。羊在这段时间吃草。</td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF"> 
+                      <td> 
+                        <strong>申时</strong></td>
+                      <td>15:00-16:59</td>
+                      <td><strong>猴</strong></td>
+                      <td>哺时，又名日铺、夕食等。猴子喜欢在这时候啼叫。</td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF"> 
+                      <td> 
+                        <strong>酉时</strong></td>
+                      <td>17:00-18:59</td>
+                      <td><strong>鸡</strong></td>
+                      <td>日入，又名日落、日沉、傍晚：意为太阳落山的时候。鸡於傍晚开始归巢。</td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF"> 
+                      <td> 
+                        <strong>戌时</strong></td>
+                      <td>19:00-20:59</td>
+                      <td><strong>狗</strong></td>
+                      <td>黄昏，又名日夕、日暮、日晚等：此时太阳已经落山，天将黑未黑。天地昏黄，万物朦胧，故称黄昏。狗开始守门口。</td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF"> 
+                      <td> 
+                        <strong>亥时</strong></td>
+                      <td>21:00-22:59<br>
+                        </td>
+                      <td><strong>猪</strong></td>
+                      <td>人定，又名定昏等定，又名定昏等：此时夜色已深，人们也已经停止活动，安歇睡眠了。夜深时分猪正在熟睡。</td>
+                    </tr>
+                  </table>
+<p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/shichen/xixik-1b1c5cbd9032938d.jpg" /></p>
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor5"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        “更”和“鼓”的区分</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="text-align: center;">
+	<a href="http://114.xixik.com/shichen/" title="十二时辰对照表"><img src="http://img.xixik.net/custom/topic/xixik_d7a2e3ea4bb23a95.jpg" style="width: 90%; max-width: 90%;" /></a></p>
+<p style="text-align: center;">
+	图：十二时辰与二十四小时对照表</p>
+<p style="TEXT-INDENT:2em">
+	我们现在民用的是北京时间，以晚上的12点（24：00）为界线划分今天和明天，但是我们算命方面的时间，不是按照北京时间来划分界线的，因为在古代是没有“北京时间”这个词汇和定义的。古代是以子时为一天的开始，就是说每一天新的开始就是子时。也就是说每天晚上的11点开始，就是属于第二天了。就像公历2003年8月6日23:20——对应的就是农历2003年7月9日23:20 那么这个时间出生的人按照古法正确的定义就是 农历2003年7月10日子时的生人。还没有过晚上的12点怎么可以说是第二天的呢？因为上面说到的古代不是以北京时间的晚上12点来分界的，而是以北京时间的晚上11点来作为分界，也就是说北京时间23:00那么就算是第二天。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/shichen/xixik-3821f50bf6bcbc12.jpg" style="margin: 10px; float: right; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	古人说时间，白天与黑夜各不相同，白天说“钟”，黑夜说“更”或“鼓”。又有“晨钟暮鼓”之说，古时城镇多设钟鼓楼，晨起（辰时，今之七点）撞钟报时，所以白天说“几点钟”；暮起（酉时，今之十九点）鼓报时，故夜晚又说是几鼓天。夜晚说时间又有用“更”的，这是由于巡夜人，边巡行边打击梆子，以点数报时。全夜分五个更（此处“更”在方言中读“jīng”，汉语规范化后读“gēng”），第三更是子时，所以又有“三更半夜”之说。出处：《宋史·赵昌言传》：“四人者（陈象舆、胡旦、董俨、梁灝）日夕会昌言第。京师为之语曰：‘陈三更，董半夜’。”</p>
+<p style="TEXT-INDENT:2em">
+	一日有十二时辰（一时辰合现代2小时），一时辰有八刻（一刻合现代15分钟），一刻有三盏茶（一盏茶合现代5分钟），一盏茶有两炷香（一炷香合现代2分30秒），一炷香有五分（一分合现代30秒），一分有六弹指（一弹指合现代5秒），一弹指有十刹那（一刹那合现代0.5秒）。<a href="http://www.xixik.com/content/6be82e3c8c373b36" target="_blank" title="中国古代的计时器：圭表、日晷、漏壶、浑天仪">中国古代的计时器：圭表、日晷、漏壶、浑天仪</a></p>
+<p style="text-align: center;">
+	<strong>古代“更”与现代时间对照表</strong></p>
+<table bgcolor="#FFF" border="1" bordercolor="#666" cellpadding="2" cellspacing="1" style="width:600px;text-align:center; margin:0 auto;">
+	<tbody>
+		<tr>
+			<td>
+				<strong>古代时间</strong></td>
+			<td>
+				<strong>现代时间</strong></td>
+		</tr>
+		<tr>
+			<td>
+				<strong>一更</strong></td>
+			<td>
+				17：00—21：00（晚上7点—晚上9点）</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>二更</strong></td>
+			<td>
+				21：00—23：00（晚上9点—晚上11点）</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>三更</strong></td>
+			<td>
+				23：00—01：00（晚上11点—凌晨1点）</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>四更</strong></td>
+			<td>
+				01：00—03：00（凌晨1点—凌晨3点）</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>五更</strong></td>
+			<td>
+				03：00—05：00（凌晨3点—凌晨5点）</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	来源：<a href="http://114.xixik.com/shichen/">时辰，十二时辰</a>：<a href="http://114.xixik.com/shichen/">http://114.xixik.com/shichen/</a></p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor6"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        十二时辰养生法（黄帝内经时辰养生）</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/topic/xixik_eed8870dc7b917ae.jpg" style="width: 90%; max-width: 90%;" /></p>
+<p style="text-align: center;">
+	图：<a href="http://114.xixik.com/12shichen/" style="color:#000" title="十二时辰">十二时辰</a>与12脏器对应表</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/12shichen/" style="color:#000" title="十二时辰">十二时辰</a>养生法，又名黄帝内经时辰养生，<a href="http://114.xixik.com/12shichen/" style="color:#000" title="十二时辰">十二时辰</a>养生对照表图，<a href="http://114.xixik.com/12shichen/" style="color:#000" title="十二时辰">十二时辰</a>对应五脏六腑图。人体的五脏六腑与十二条经络对于气血的运行起着重要作用，而每条经络又都有其兴衰的时辰。从古到今已被证明：在每条经最旺的时辰，运用针灸或口服相应的药物和食品，疗效可以高出其他时辰若干倍。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>子时 （23点至1点），胆经最旺。</strong> 胆汁需要新陈代谢，人在子时入眠，胆方能完成代谢。“胆有多清，脑有多清。”凡在子时前入睡者，晨醒后头脑清新、气色红润。反之，日久子时不入睡者面色青白，易生肝炎、胆囊炎、结石一类病症，其中一部分人还会因此“胆怯”。这个时辰养肝血（阴）最好。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>丑时 （1点至3点），肝经最旺。</strong> “肝藏血。”人的思维和行动要靠肝血的支持，废旧的血液需要淘汰，新鲜血液需要产生，这种代谢通常在肝经最旺的丑时完成。如果丑时不入睡，肝还在输出能量支持人的思维和行动，就无法完成新陈代谢。黄帝内经讲：“卧则血归于肝”。所以丑时未入睡者，面色青灰，情志倦怠而躁，易生肝病。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>寅时 （3点至5点），肺经最旺。</strong> “肺朝百脉。”肝在丑时把血液推陈出新之后，将新鲜血液提供给肺，通过肺送往全身。所以人在清晨面色红润，精神充沛。寅时，有肺病的人反映尤为强烈，剧咳或哮喘或发烧。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>卯时 （5点至7点），大肠经最旺。</strong> “肺与大肠相表里。”肺将充足的新鲜血液布满全身，紧接着促进大肠经进入兴奋状态，完成吸收食物中水份与营养、排出渣滓的过程。因此，大便不正常者在此时需要辨证调理。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>辰时 （7点至9点），胃经最旺。</strong> 所以，人在 7点吃早饭最容易消化。如果胃火过盛，嘴唇干，重则唇裂或生疮，可以在7点清胃火。胃寒者7点养胃健脾。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>已时 （9点至11点），脾经最旺。</strong> “脾主运化，脾统血。”脾是消化、吸收、排泄的总调度，又是人体血液的统领。“脾开窍于口，其华在唇。”脾的功能好，消化吸收好，血的质量好，所以嘴唇是红润的。否则唇白，或唇暗、唇紫。脾虚者 9点健脾；湿盛者9点利湿。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>午时 （11点至13点），心经最旺。</strong> “心主神明，开窍于舌，其华在面。”心推动血液运行，养神、养气、养筋。人在午时能睡片刻，对于养心大有好处，可使下午乃至晚上精力充沛。心率过缓者 11点补心阳；心率过速者滋心阴。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>未时 （13点至15点），小肠经最旺。</strong> 小肠分清浊，把水液归于膀胱，糟粕送人大肠，精华输送进脾。小肠经在未时对人一天的营养进行调整。饭后两肋胀痛者在此时降肝火、疏肝理气；</p>
+<p style="TEXT-INDENT:2em">
+	<strong>申时 （15点至17点），膀胱经最旺。</strong> 膀胱贮藏水液和津液，水液排出体外，津液循环在体内。若膀胱有热可致膀胱咳，即咳而遗尿。申时人体温较热，阴虚的人尤为突出，在这个时间滋肾阴可调此证。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>酉时 （17点至19点），肾经最旺。</strong> “肾藏生殖之精和五脏六腑之精。肾为先天之根。”经过申时的人体泻火排毒，肾在酉时进入贮藏精华的时辰。肾阳虚者酉时补肾阳最为有效。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>戌时 （19点至21点），心包经最旺。 </strong>“心包为心之外膜，附有脉络，气血通行之道。邪不能容，容之心伤。”心包是心的保护组织，又是气血通道。心包戌时兴旺可清除心脏周围外邪，使心脏处于完好状态。心发冷者戌时补肾阳；心闷热者戌时滋心阴。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>亥时 （21点至23点），三焦经最旺。</strong> 三焦是六腑中最大的腑，有主持诸气、疏通水道的作用。亥时三焦通百脉。人如果在亥时睡眠，百脉可休养生息，对身体十分有益。可惜现代人能做到的很少，亥时百脉皆通，所以可以用任何一种进行调理。</p>
+<p style="TEXT-INDENT:2em">
+	<span style="color: rgb（0, 0, 0）; font-family: 宋体; white-space: pre-wrap;">这样，12时辰养生就全部介绍完了。它的规律就是要按照经络和脏腑，还有阴阳气化来进行养生。嘻嘻网<a a="" href="http://114.xixik.com/12shichen/" style="color:#000" title="十二时辰">十二时辰</a>小编总结了一首歌诀帮你来养生：</span></p>
+<p style="TEXT-INDENT:2em">
+	<span style="color: rgb（0, 0, 0）; font-family: 宋体; white-space: pre-wrap;">寅时天亮便起身，喝杯开水楼下行；</span></p>
+<p style="TEXT-INDENT:2em">
+	<span style="color: rgb（0, 0, 0）; font-family: 宋体; white-space: pre-wrap;">定时如厕轻如许，卯时晨练最宜人；</span></p>
+<p style="TEXT-INDENT:2em">
+	<span style="color: rgb（0, 0, 0）; font-family: 宋体; white-space: pre-wrap;">辰时看书戏幼孙，巳时入厨当灶君；</span></p>
+<p style="TEXT-INDENT:2em">
+	<span style="color: rgb（0, 0, 0）; font-family: 宋体; white-space: pre-wrap;">午时进餐酒少饮，未时午休要抓紧；</span></p>
+<p style="TEXT-INDENT:2em">
+	<span style="color: rgb（0, 0, 0）; font-family: 宋体; white-space: pre-wrap;">申时读报写诗文，酉时户外看流云；</span></p>
+<p style="TEXT-INDENT:2em">
+	<span style="color: rgb（0, 0, 0）; font-family: 宋体; white-space: pre-wrap;">戌时央视新闻到，闭目聆听好养神；</span></p>
+<p style="TEXT-INDENT:2em">
+	<span style="color: rgb（0, 0, 0）; font-family: 宋体; white-space: pre-wrap;">亥时过半快洗漱，子时梦中入画屏；</span></p>
+<p style="TEXT-INDENT:2em">
+	<span style="color: rgb（0, 0, 0）; font-family: 宋体; white-space: pre-wrap;">丑时小解一时醒，轻摩“三丹”气血盈；</span></p>
+<p style="TEXT-INDENT:2em">
+	<span style="color: rgb（0, 0, 0）; font-family: 宋体; white-space: pre-wrap;">脉络通畅心如水，一觉睡到金鸡鸣。</span></p>
+<p style="TEXT-INDENT:2em">
+	一天中的12个时辰与人体的12条静脉息息相关，人是自然界的组成部分，人的生活习惯应该符合自然规律。人应该按照脏腑的兴衰来安排一天的作息时间。</p>
+<p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/topic/xixik_c392110d6a97f4f3.jpg" style="width: 90%; max-width: 90%;" /></p>
+<p style="text-align: center;">
+	<a href="http://114.xixik.com/12shichen/" style="color:#000" title="十二时辰">十二时辰</a>与中医经络养生时间对照表（<a a="" href="http://114.xixik.com/12shichen/" style="color:#000" title="十二时辰">十二时辰</a>经络养生）</p>
+<p style="text-indent: 2em;">
+	时间可以分为<a href="http://114.xixik.com/12shichen/" style="color:#000" title="十二时辰">十二时辰</a>，人体有十二经络，每条经络有各自运行的黄金时间，其实，每一个时辰都有对应的运行经络，<a href="http://114.xixik.com/12shichen/" style="color:#000" title="十二时辰">十二时辰</a>和十二经络对应起来，能起到很好的养生功效。</p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<th>
+				十二时辰</th>
+			<th>
+				别名</th>
+			<th>
+				解析</th>
+			<th>
+				对应<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="生肖">生肖</a></th>
+			<th>
+				当令器官</th>
+			<th>
+				循行经脉</th>
+			<th>
+				常见症状</th>
+			<th>
+				时辰宜忌</th>
+		</tr>
+		<tr>
+			<td>
+				子时 23:00-01:00</td>
+			<td>
+				夜半，又名子夜、中夜</td>
+			<td>
+				由天黑转为天亮这一时间段。</td>
+			<td>
+				鼠</td>
+			<td>
+				胆</td>
+			<td>
+				胆经</td>
+			<td>
+				头晕目眩、口苦、善太息。</td>
+			<td>
+				宜：睡觉。 忌：熬夜；吃夜宵。</td>
+		</tr>
+		<tr>
+			<td>
+				丑时 01:00-03:00</td>
+			<td>
+				鸡鸣，又名荒鸡。</td>
+			<td>
+				指深夜过后，鸡鸣之时。</td>
+			<td>
+				牛</td>
+			<td>
+				肝</td>
+			<td>
+				肝经</td>
+			<td>
+				胸闷、疲倦、黑眼圈、特别容易烦躁。</td>
+			<td>
+				宜：熟睡。 忌：熬夜；生闷气；久视。</td>
+		</tr>
+		<tr>
+			<td>
+				寅时 03:00-05:00</td>
+			<td>
+				平旦，又称黎明、早晨、日旦。</td>
+			<td>
+				天刚蒙蒙亮的时候。</td>
+			<td>
+				虎</td>
+			<td>
+				肺</td>
+			<td>
+				肺经</td>
+			<td>
+				肺部胀满、咳嗽气喘、缺盆部（包括喉咙）疼痛。</td>
+			<td>
+				宜：熟睡或导引吐纳，调理肺经。 忌：熬夜。</td>
+		</tr>
+		<tr>
+			<td>
+				卯时 0500:07:00</td>
+			<td>
+				日出，又名日始、破晓、旭日。</td>
+			<td>
+				指太阳刚露脸，冉冉初升的那段时间。</td>
+			<td>
+				兔</td>
+			<td>
+				大肠</td>
+			<td>
+				大肠经</td>
+			<td>
+				牙齿疼痛、颈部肿大。</td>
+			<td>
+				宜：起床喝温热的白开水；排便；调理大肠经。 忌：饮酒。</td>
+		</tr>
+		<tr>
+			<td>
+				辰时 07:00-09:00</td>
+			<td>
+				食时，又名早食。</td>
+			<td>
+				吃早饭的时间。</td>
+			<td>
+				龙</td>
+			<td>
+				胃</td>
+			<td>
+				胃经</td>
+			<td>
+				腹胀肠鸣、消化不良。</td>
+			<td>
+				宜：及时吃早餐，调理胃经。 忌：早餐质量不好</td>
+		</tr>
+		<tr>
+			<td>
+				巳时 09:00-11:00</td>
+			<td>
+				隅中，又名日禺。</td>
+			<td>
+				临近中午的时候。</td>
+			<td>
+				蛇</td>
+			<td>
+				脾</td>
+			<td>
+				脾经</td>
+			<td>
+				舌根强直、食则呕吐、胃脘疼痛、腹内发胀、时时嗳气。</td>
+			<td>
+				宜：适量饮水，调理脾经。 忌：思虚过度，久坐不动。</td>
+		</tr>
+		<tr>
+			<td>
+				午时 11:00-13:00</td>
+			<td>
+				日中，又名日正、中午。</td>
+			<td>
+				此时太阳最猛烈。</td>
+			<td>
+				马</td>
+			<td>
+				心</td>
+			<td>
+				心经</td>
+			<td>
+				喉咙干燥、头痛、口渴难忍。</td>
+			<td>
+				宜：吃午餐；小憩；静养阴血，调理心经。 忌：午餐过多；餐后马上运动。</td>
+		</tr>
+		<tr>
+			<td>
+				未时 13:00-15:00</td>
+			<td>
+				日昳，又名日跌、日央。</td>
+			<td>
+				指太阳偏西。</td>
+			<td>
+				羊</td>
+			<td>
+				小肠</td>
+			<td>
+				小肠经</td>
+			<td>
+				喉咙痛、颔部肿、肩痛如裂、臂痛如断。</td>
+			<td>
+				宜：调理小肠经。 忌：多吃食物。</td>
+		</tr>
+		<tr>
+			<td>
+				申时 15:00-17:00</td>
+			<td>
+				哺时，又名日哺、夕食。</td>
+			<td>
+				指傍晚。</td>
+			<td>
+				猴</td>
+			<td>
+				膀胱</td>
+			<td>
+				膀胱经</td>
+			<td>
+				头痛、眼睛痛、颈项痛。</td>
+			<td>
+				宜：适量饮水；运动；抓紧时间工作；调理膀胱经。 忌：憋小便。</td>
+		</tr>
+		<tr>
+			<td>
+				酉时 17:00-19:00</td>
+			<td>
+				日入，又名日落、日沉、傍晚。</td>
+			<td>
+				指太阳落山的时候。</td>
+			<td>
+				鸡</td>
+			<td>
+				肾</td>
+			<td>
+				肾经</td>
+			<td>
+				四肢冰冷、腰酸背痛、耳鸣。</td>
+			<td>
+				宜：休息；调理肾经。 忌：过劳。</td>
+		</tr>
+		<tr>
+			<td>
+				戌时 19:00-21:00</td>
+			<td>
+				黄昏，又名日夕、日暮、日晚。</td>
+			<td>
+				此时太阳己经落山，天将黑。</td>
+			<td>
+				狗</td>
+			<td>
+				心包</td>
+			<td>
+				心包经</td>
+			<td>
+				胸痛、心律不齐、手部灼热。</td>
+			<td>
+				宜：吃晚餐；心情快乐；散步，调理心包经。 忌：晚餐过于肥腻；生气。</td>
+		</tr>
+		<tr>
+			<td>
+				亥时 21:00-23:00</td>
+			<td>
+				人定，又名定昏。</td>
+			<td>
+				此时夜色己深，人们己经停止活动，并己经安歇。人定也就是人静。</td>
+			<td>
+				猪</td>
+			<td>
+				三焦</td>
+			<td>
+				三焦经</td>
+			<td>
+				耳聋、听声音模糊、咽喉肿痛、喉咙闭塞。</td>
+			<td>
+				宜：心平气和；入睡；调理三焦经。 忌：熬夜；生气；饮茶。</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-indent: 2em;">
+	<strong>凌晨三点至凌晨五点：肺经运行</strong></p>
+<p style="text-indent: 2em;">
+	呼吸系统会在此时进行修复，有呼吸道疾病者，特别是老人和孩童，常会在这段时间出现咳嗽的现象，那是因为肺经会于此时进行排痰。相对的，经常在此时无法好好休养者，往往也会产生呼吸道方面的疾病。</p>
+<p style="text-indent: 2em;">
+	<strong>凌晨五点至七点：大肠经运行</strong></p>
+<p style="text-indent: 2em;">
+	排泄系统在此时慢慢启动，随着日照初升，身体也逐渐苏醒，接着进行排便。通常此时休养不够，或是没有进行排便者，易有代谢方面的问题，身体也容易累积不净的体液或宿便，长期如此会造成肠道负担，导致诸多疾病。</p>
+<p style="text-indent: 2em;">
+	值得一提的是，凌晨三点至早晨七点是人体生命现象最为低下的一段时间。气血大量发散，人体需要大量用氧。若肺经和肠经虚弱，又疏于保养和保暖，严重者易于此时死亡。也因此，老人家猝死，往往多发生在此时。</p>
+<p style="text-indent: 2em;">
+	<strong>早晨七点至九点：胃经运行</strong></p>
+<p style="text-indent: 2em;">
+	此段时间是一天当中，补充气血的最佳时刻，因此早餐也是一天最重要的一餐。通常此段时间不吃早餐者，除了肠胃功能容易受损，也常见体型过胖或过瘦，原因就是肠胃吸收不佳，或是饿过头之后的暴饮暴食导致。</p>
+<p style="text-indent: 2em;">
+	<strong>早晨九点至十一点：脾经运行</strong></p>
+<p style="text-indent: 2em;">
+	<strong><img  src="http://img.xixik.net/custom/section/shichen/xixik-4919f7663dad92d6.jpg" style="margin: 10px; float: right; width: 400px;" /></strong></p>
+<p style="text-indent: 2em;">
+	人体气血运行在此时进入高峰，脑力和体力运行也最为旺盛。前一夜能够好好休养生息，早晨能够好好吃早餐的人，往往能在此时展现最佳活力，思绪和决断力都能在此时发挥极致。相反的，前一晚熬夜、失眠或是睡眠质量不佳者，身体带氧量不足，自然容易呵欠连连，思绪不清而且感觉疲累。若是加上不吃早餐，气血相形虚弱，更会像电力耗尽的电池，整个人显得倦怠无力，甚至因此而变得烦躁易怒。</p>
+<p style="text-indent: 2em;">
+	<strong>中午十一点至下午一点：心经运行</strong></p>
+<p style="text-indent: 2em;">
+	同时也是血液运行的高峰。此时心脏需要较多的能量来推动血液循环，加上午间阴阳气交接，因此人体会感觉些微倦怠，适合小憩以补充体力。特别有心脏疾病者，中午时应该好好用餐并稍作休息，千万不可一边捧着便当在计算机或办公桌前，一边工作一边进食，否则容易出现心神不宁或是心律不齐等毛病。</p>
+<p style="text-indent: 2em;">
+	<strong>下午一点至三点：小肠经运行</strong></p>
+<p style="text-indent: 2em;">
+	血液准备往全身运送，有利消化。此时不适合运动，适合休养，让小肠好好工作。有句俗语说“过午不食”，多数人都以为是中午以后不再吃东西，事实上，从经络循行角度来看，指的是中餐时间不宜超过下午一点，此时不要继续进食，加重胃部的负担，而让血液流注于小肠，好好消化来自胃部的食物。</p>
+<p style="text-indent: 2em;">
+	<strong>下午三点至五点：膀胱经运行</strong></p>
+<p style="text-indent: 2em;">
+	申时是人记忆力最好、思维非常活跃的一个时段，故古有「朝而授业，夕而习复」之说。此时犯困乃阳气不足之兆，生活中应注意养阳。申时也是拍打按摩膀胱经的最佳时机，可以找位同事一起互相从上往下拍打脊柱的两侧。腰部不能用力轻轻按揉就好。</p>
+<p style="text-indent: 2em;">
+	<strong>下午五点至七点：肾经运行</strong></p>
+<p style="text-indent: 2em;">
+	一般在下午三点左右，上班族都会有十分钟的休息或下午茶，因为由小肠经接过来的气，将由眼内开始循行人体背面部位，此时，身上的水分进行代谢，体内杂质准备有效排出，不少人容易在下午过后水肿，或是肢体膨胀，原因就是膀胱经和肾经循行不顺，体内水分代谢不佳。若在此时感到疲劳，也表示气血明显不足，健康状况已经亮起红灯。当膀胱经气往下走接上肾经时，身体也开始贮存能源，欲使肾气充足，因此，肾上腺素分泌最为旺盛，生命现象也最为旺盛，晚餐进食适合在此时进行，但不适合吃太多，俗话说：“晚餐要吃少。”因为接下去的心包经、三焦经可以进行较剧烈的运动。</p>
+<p style="text-indent: 2em;">
+	<strong>晚间七点至晚间九点：心包经运行</strong></p>
+<p style="text-indent: 2em;">
+	此时，身体已经补充够营养，多气多血，气血循行全身和身体末梢，是最适合运动的时候，运动的效率可达到最高。不过不建议进行激烈运动，而应以和缓的散步和简单的关节体操等来调和，以免过于亢进，影响接下来的气血收纳。</p>
+<p style="text-indent: 2em;">
+	注：心包经和心经不同。</p>
+<p style="text-indent: 2em;">
+	<strong>晚间九点至晚间十一点：三焦经运行</strong></p>
+<p style="text-indent: 2em;">
+	此时体内废物更有效排泄，气血也将开始收纳、贮存，以备明日所需。很多人常常纳闷，三焦到底是什么?因为人体当中根本找不到名为三焦的脏器。其实三焦泛指包在各种脏器外的“外膜”，功能即保护各大脏腑。三焦又分为上焦、中焦、下焦，指的就是上中下三处体腔的保护膜。此外，三焦主的是内分泌，对人体的生长与修复有极大影响。免疫力不好的人，在此时应该就寝;成长中的孩童，更应于此时好好睡觉，才不会错失生长的黄金时间。</p>
+<p style="text-indent: 2em;">
+	<strong>晚间十一点至凌晨一点：胆经运行</strong></p>
+<p style="text-indent: 2em;">
+	一天活动下来，身体开始疲劳，该是休息的最佳时刻。由上一段时辰的发散而开始收敛，身体应进入休息状态，特别是肝胆功能不佳的人，这段时间应该进入睡眠状态，以备身体进行下一个时辰的造血、滤血以及新陈代谢。</p>
+<p style="text-indent: 2em;">
+	<strong>凌晨一点至凌晨三点：肝经运行</strong></p>
+<p style="text-indent: 2em;">
+	肝进行藏血、存肝醣的动作，将血液、体液酸性降低，并促进内分泌正常代谢，许多人过度疲劳，就是在此段时间未能充分休息（熟睡），故造成血糖过高，肝功能耗损，健康也往往因此拉响警报。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor7"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        比时辰更小的古代时间单位</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/shichen/xixik-c194aa5062cef255.jpg" style="margin: 10px; float: right; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	看过武侠小说的人，肯定知道一炷香，一盏茶，一弹指，一刹那等说法，那么一炷香的时间是多久？一盏茶是多长时间？一弹指，一刹那究竟多么短暂？</p>
+<p style="TEXT-INDENT:2em">
+	一日有十二<a href="http://114.xixik.com/shichen/" style="color:#000" title="时辰">时辰</a>（一<a href="http://114.xixik.com/shichen/" style="color:#000" title="时辰">时辰</a>合现代2小时），一<a href="http://114.xixik.com/shichen/" style="color:#000" title="时辰">时辰</a>有八刻（一刻合现代15分钟），一刻有三盏茶（一盏茶合现代5分钟），一盏茶有两炷香（一炷香合现代2分30秒），一炷香有五分（一分合现代30秒），一分有六弹指（一弹指合现代5秒），一弹指有十刹那（一刹那合现代0.5秒）。</p>
+<p style="TEXT-INDENT:2em">
+	在中国古代，人们用“铜壶滴漏”的方法计时，把一昼夜分为十二<a href="http://114.xixik.com/shichen/" style="color:#000" title="时辰">时辰</a>，即子、丑、寅、卯、辰、巳、午、未、申、酉、戌、亥，对应于今天的二十四小时。半夜十一点到一点的时间为子时，一点到三点为丑时，三点到五点为寅时，其余的以此类推。古代的一个<a href="http://114.xixik.com/shichen/" style="color:#000" title="时辰">时辰</a>相当于今天的两个小时，所以，当钟表刚刚传入中国时，就有人把一个<a href="http://114.xixik.com/shichen/" style="color:#000" title="时辰">时辰</a>叫做“大时”，新时间的一个钟点叫做“小时”。以后，随着钟表的普及，“大时”一词也就消失了，而“小时”却沿用至今。</p>
+<p style="TEXT-INDENT:2em">
+	刻———古代用漏壶计时。漏壶分播水壶和受水壶两部。播水壶分二至四层，均有小孔，可滴水，最后流入受水壶，受水壶里有立箭，箭上刻分100刻，箭随蓄水逐渐上升，露出刻数，以显示时间。而一昼夜24小时为100刻，即相当于现在的1440分钟。可见每刻相当于现在的14.4分钟。所以“午时三刻”相当于现在的中午11时 43.2分</p>
+<p style="TEXT-INDENT:2em">
+	旧小说有“<a href="http://www.xixik.com/content/82be41c1b52f6705">午时三刻开斩</a>”之说，意即，在午时三刻钟（差十五分钟到正午）时开刀问斩，此时阳气最盛，阴气即时消散，此罪大恶极之犯，应该“连鬼都不得做”，以示严惩。阴阳家说的阳气最盛，与现代天文学的说法不同，并非是正午最盛，而是在午时三刻。古代行斩刑是分<a href="http://114.xixik.com/shichen/" style="color:#000" title="时辰">时辰</a>开斩的，亦即是斩刑有轻重。一般斩刑是正午开刀，让其有鬼做；重犯或十恶不赦之犯，必选午时三刻开刀，不让其做鬼。皇城的午门阳气也最盛，不计时间，所以<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>令推出午门斩首者，也无鬼做。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor8"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        时辰历史</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <table bgcolor="#FFF" border="1" bordercolor="#666" cellpadding="2" cellspacing="1" style="width:600px;text-align:center; margin:0 auto;">
+	<tbody>
+		<tr>
+			<th align="center">
+				<strong>时辰</strong></th>
+			<th align="center">
+				<strong>时间</strong></th>
+			<th align="center">
+				<strong>24时制</strong></th>
+		</tr>
+		<tr>
+			<td align="center">
+				子</td>
+			<td align="center">
+				深夜 11：00 - 凌晨 01：00</td>
+			<td align="center">
+				23：00 - 01 ：00</td>
+		</tr>
+		<tr>
+			<td align="center">
+				丑</td>
+			<td align="center">
+				上午 01：00 - 上午 03：00</td>
+			<td align="center">
+				01：00 - 03 ：00</td>
+		</tr>
+		<tr>
+			<td align="center">
+				寅</td>
+			<td align="center">
+				上午 03：00 - 上午 05：00</td>
+			<td align="center">
+				03：00 - 05 ：00</td>
+		</tr>
+		<tr>
+			<td align="center">
+				卯</td>
+			<td align="center">
+				上午 05：00 - 上午 07：00</td>
+			<td align="center">
+				05：00 - 07 ：00</td>
+		</tr>
+		<tr>
+			<td align="center">
+				辰</td>
+			<td align="center">
+				上午 07：00 - 上午 09：00</td>
+			<td align="center">
+				07：00 - 09 ：00</td>
+		</tr>
+		<tr>
+			<td align="center">
+				巳</td>
+			<td align="center">
+				上午 09：00 - 上午 11：00</td>
+			<td align="center">
+				09：00 - 11：00</td>
+		</tr>
+		<tr>
+			<td align="center">
+				午</td>
+			<td align="center">
+				上午 11：00 - 下午 01：00</td>
+			<td align="center">
+				11：00 - 13：00</td>
+		</tr>
+		<tr>
+			<td align="center">
+				未</td>
+			<td align="center">
+				下午 01：00 - 下午 03：00</td>
+			<td align="center">
+				13：00 - 15：00</td>
+		</tr>
+		<tr>
+			<td align="center">
+				申</td>
+			<td align="center">
+				下午 03：00 - 下午 05：00</td>
+			<td align="center">
+				15：00 - 17：00</td>
+		</tr>
+		<tr>
+			<td align="center">
+				酉</td>
+			<td align="center">
+				下午 05：00 - 下午 07：00</td>
+			<td align="center">
+				17：00 - 19：00</td>
+		</tr>
+		<tr>
+			<td align="center">
+				戌</td>
+			<td align="center">
+				下午 07：00 - 下午 09：00</td>
+			<td align="center">
+				19：00 - 21：00</td>
+		</tr>
+		<tr>
+			<td align="center">
+				亥</td>
+			<td align="center">
+				下午 09：00 - 下午 11：00</td>
+			<td align="center">
+				21：00 - 23：00</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-align: center;">
+	古今<a href="http://114.xixik.com/12shichen/" style="color:#000" title="十二时辰">十二时辰</a>对照表</p>
+<p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/shichen/xixik-53df97f1efabd362.jpeg" style="width: 90%; max-width: 90%;" /></p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://114.xixik.com/12shichen/" style="color:#000" title="十二时辰">十二时辰</a>制</strong></p>
+<p style="TEXT-INDENT:2em">
+	西周时就已使用。<a href="http://114.xixik.com/chaodai/han/" style="color:#000" title="汉代">汉代</a>命名为夜半、鸡鸣、平旦、日出、食时、隅中、日中、日昳、晡时、日入、黄昏、人定。又用<a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十二地支">十二地支</a>来表示，以夜半二十三点至一点为子时，一至三点为丑时，三至五点为寅时，依次递推。</p>
+<p style="TEXT-INDENT:2em">
+	【子时】夜半，又名子夜、中夜：<a href="http://114.xixik.com/12shichen/" style="color:#000" title="十二时辰">十二时辰</a>的第一个时辰。（23时至01时）。</p>
+<p style="TEXT-INDENT:2em">
+	【丑时】鸡鸣，又名荒鸡：<a href="http://114.xixik.com/12shichen/" style="color:#000" title="十二时辰">十二时辰</a>的第二个时辰。（01时至03时）。</p>
+<p style="TEXT-INDENT:2em">
+	【寅时】平旦，又称黎明、早晨、日旦等：时是夜与日的交替之际。（03时至05时）。</p>
+<p style="TEXT-INDENT:2em">
+	【卯时】日出，又名日始、破晓、旭日等：指太阳刚刚露脸，冉冉初升的那段时间。（05时至07时）。</p>
+<p style="TEXT-INDENT:2em">
+	【辰时】食时，又名早食等：古人“朝食”之时也就是吃早饭时间，（07时至09时）。</p>
+<p style="TEXT-INDENT:2em">
+	【巳时】隅中，又名日禺等：临近中午的时候称为隅中。（09 时至11时）。</p>
+<p style="TEXT-INDENT:2em">
+	【午时】日中，又名日正、中午等：（11时至13时）。</p>
+<p style="TEXT-INDENT:2em">
+	【未时】日昳，又名日跌、日央等：太阳偏西为日昳。（13时至15时）。</p>
+<p style="TEXT-INDENT:2em">
+	【申时】晡时，又名日铺、夕食等：（15时至17时）。</p>
+<p style="TEXT-INDENT:2em">
+	【酉时】日入，又名日落、日沉、傍晚：意为太阳落山的时候。（17时至19时）。</p>
+<p style="TEXT-INDENT:2em">
+	【戌时】黄昏，又名日夕、日暮、日晚等：此时太阳已落山，天将黑未黑。天地昏黄，万物朦胧，故称黄昏。（19时至21时）。</p>
+<p style="TEXT-INDENT:2em">
+	【亥时】人定，又名定昏等：此时夜色已深，人们已经停止活动，安歇睡眠了。人定也就是人静。（21时至23时）。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>二十四时辰制</strong></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="宋朝">宋朝</a>以后把<a href="http://114.xixik.com/12shichen/" style="color:#000" title="十二时辰">十二时辰</a>中每个时辰平分为初、正两部分，这样，子初、子正、丑初、丑正……依次下去，恰为二十四时辰，同现在一天二十四小时时间一致。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>十时辰制</strong></p>
+<p style="TEXT-INDENT:2em">
+	出现于先秦。昼夜各五分。据《隋书·天文志》，昼为朝、禺、中、晡、夕;夜为甲、乙、丙、丁、戊（后用五更来表示）。即更点———古代把晚上戌时作为一更，亥时作为二更，子时作为三，丑时为四，寅时为五更。把一夜分为五更，按更击鼓报时，又把每更分为五点。每更就是一个时辰，相当于现在的两个小时，即120分钟，所以每更里的每点只占24分钟。由此可见“四更造饭，五更开船”相当于现在的“后半夜1时至3时做饭，3时至5时开船”。“五更三点”相当于现在的早晨3时又72分钟，即4时12分，“三更四点”相当于现在的晚上11时又96分钟，即0时36分。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>十五时辰制</strong></p>
+<p style="TEXT-INDENT:2em">
+	其名称为晨明、朏明、旦明、蚤（早）食、宴（晚）食、隅中、正中、少还、铺时、大还、高舂、下舂、县（悬）东、黄昏、定昏。参阅《淮南子·天文训》。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>百刻制</strong></p>
+<p style="TEXT-INDENT:2em">
+	即把昼夜分成均衡的一百刻。其产生与漏刻的使用有关。可能起源于商代。汉时曾把它改造为百二十刻，南朝梁改为九十六刻、一百零八刻，几经反复，直至明末欧洲天文学知识传入才又提出九十六刻制的改革，<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>初定为正式的制度。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor9"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        十二时辰无病法</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	在中医理论中，不仅四季的变换是一个完整的循环，有一套相应的养生理论，一天24小时也是如此。由于古人将一天划分为十二个时辰，因此这套养生之法又被清代养生家尤乘称为“<a href="http://114.xixik.com/shichen/" title="十二时辰对照表">十二时辰</a>无病法”。</p>
+<p style="TEXT-INDENT:2em">
+	中医认为，人体内的经气就像潮水一样，会随着时间的流动，在各经脉间起伏流注，且每个时辰都会有不同的经脉“值班”。如果能够顺应这种经脉的变化，采用不同的方法，就可以达到良好的养生效果。</p>
+<p style="TEXT-INDENT:2em">
+	<img  src="http://img.xixik.net/custom/section/shichen/xixik-f2404ef384c8a171.jpg" style="margin: 10px; float: right; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	<strong>亥时</strong>（晚9—11时），为三焦经当令。“亥”字在古文中是生命重新孕育的意思，所以你要想让身体有一个好的起点，就要从此刻拥有好的睡眠开始。对老年人而言，可能存在睡眠困难问题，但不管采取什么方式，尽量在晚上11点半前进入睡眠状态。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>子时</strong>（子夜11—凌晨1时），胆经当令。这段时间正是中医养生中特别强调的“子觉”时间。《黄帝内经》里，“凡是十一藏取决于胆”讲的就是人体内有11个脏器都依赖胆经的功能支持，因此要有足够优质的睡眠以保胆经获得充足的能量。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>丑时</strong>（凌晨1时—3时）为肝经当令。静心养气是最好的保肝方法。要特别指出的是，某些年轻一族如在这个时间喝酒，将会对肝造成极大的损伤。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>寅时</strong>（凌晨3时—5时），肺经当令。按照中医理论，寅时是人体阳气的开始，也是人体气血从静变为动的开始，必须要有深度睡眠，最怕有人打扰。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>卯时</strong>（早晨5—7时），大肠经当令。早起不贪睡，晨起首先活动四肢筋骨，打太极拳，叩齿摩面或双手扣后脑，做“鸣天鼓”。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>辰时</strong>（上午7—9时），胃经当令。活动后喝一杯开水，用木梳梳发百遍，然后洗漱。早餐应该清淡，要吃饱。饭后可以百步走，但不宜做强度锻炼。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>巳时</strong>（上午9—11时），脾经当令。开窗通风后，可从事脑力活动，但要注意劳逸结合，让眼睛得到及时的休息。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>午时</strong>（上午11时—午后1时），心经当令。这是午餐时间，除要营养丰富，荤素搭配外，建议可以喝点汤，菜要少盐。酒可喝但不能醉。饭后宜睡半小时，不要过多。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>未时</strong>（午后1—3时），小肠经当令。午睡后可做少量和缓的运动，喝一杯茶。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>申时</strong>（午后3—5时），膀胱经当令。这是最好的学习时间，记忆力和判断力都很活跃。除用脑学习外，要注意多喝水。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>酉时</strong>（午后5—7时），肾经当令。这是肾虚者补肾的最好时机。晚饭宜吃少、清淡，可以喝点粥。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>戌时</strong>（晚7—9时），心包经当令。准备睡眠，睡前要静心养气，用冷水洗脸、温水刷牙、热水洗脚，睡宜采取右侧卧位。</p>
+<p style="TEXT-INDENT:2em">
+	总之，这种养生法的核心就是顺应日出而作，日落而息的规律，重点睡好子午觉，以此达到养生的目的。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>“十二时辰无病法”详解</strong></p>
+<p style="TEXT-INDENT:2em">
+	<strong>卯时</strong>（上午5～7点）：晨光初放即披衣起床，叩齿300次，转动两肩，活动筋骨；将两手搓热，擦鼻两旁，熨摩两目6、7遍；揉搓两耳5、6遍；再以两手抱后脑，手心掩耳，用食指放中指上，以中指叩击头枕部各24次，这叫“鸣天鼓”。然后去室外导引。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>辰时</strong>（上午7～9点）：导引结束后饮白开水或茶一杯；用手代梳，梳发百余遍，以醒脑明目，防止脱发；然后洗脸、漱口、刷牙；入厕排便。早餐宜吃饱吃好。饭后徐徐行走百步，边走边按摩腹部，以助脾健运。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>巳时</strong>（上午9～11点）：或读书，或理家，或种菜，或养花。疲倦时即静坐养神，或叩齿咽津（唾液）。老年人气弱，不宜高声与人长谈。因说话耗气，宜“寡言语以养气”。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>午时</strong>（11～1点）：午餐，只宜吃六七分饱。食后用茶叶水漱口，可去油腻，但刚饭后不宜饮茶。静坐或午休。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>未时</strong>（午后1～3点）：或午睡，或练气功，或邀友弈棋。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>申时</strong>（午后3～5点）：或读书，或写作，或练字作画，或抚琴吟诗，或浏览报刊，或去田间小劳。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>酉时</strong>（午后5～7点）：练一段导引；晚餐宜清淡、宜少吃，可饮酒一小杯。晚饭后可在庭院散步、观落霞、听鸟鸣。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>戌时</strong>（晚7～9点）：睡前漱口刷牙；用热水洗脚，以引血下行，防止老人上实下虚，上重下轻，坐床上练静功，然后安眠。睡时宜“卧如弓”，向右侧，以防压迫心脏，以利胆汁排泄。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>亥、子时</strong>（晚9至次日凌晨1点）：“睡不厌蹴，觉不厌舒”，即睡时宜屈膝卧，醒时则伸脚舒体，变换姿势，流通气血。环境宜静，安睡宁神以养元气。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>丑、寅时</strong>（凌晨1～5点）：此时精气发生，阴茎勃起。人以精气为宝，老年人宜节制房事，但又不宜强制。<a href="http://www.xixik.com/content/6892a311b752673a" title="令男女欢喜发狂的性爱体位">老人以二十日或一月行房一次为宜</a>。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor10"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        十二时辰对应的生肖</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p>
+	古代人最初给一天内的气象配了代表词。如早晨因太阳出来而植物启动了生长，所以这时辰别名为“木”。到了中午太阳最旺盛，空气中、土地里灼热，所以时辰别名为“火、金”和“火、土”。下午5-7点最干燥，果实糖份最充足，这时辰别名为“金”。到了深夜12点，环境一切冷静，这时辰别名为“水”。</p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="margin: auto; width: 90%;">
+	<tbody>
+		<tr>
+			<th>
+				<strong>古时</strong></th>
+			<th>
+				<strong>别名</strong></th>
+			<th>
+				<strong>今时</strong></th>
+			<th>
+				<strong>配上的动物及原因</strong></th>
+			<th>
+				生肖五行</th>
+		</tr>
+		<tr>
+			<td>
+				子时</td>
+			<td>
+				夜半，又名子夜、中夜</td>
+			<td>
+				23：00～01：00</td>
+			<td>
+				鼠，鼠在这时间最活跃。</td>
+			<td>
+				（鼠），五行为“水”。</td>
+		</tr>
+		<tr>
+			<td>
+				丑时</td>
+			<td>
+				鸡鸣，又名荒鸡</td>
+			<td>
+				01：00～03：00</td>
+			<td>
+				牛，牛在这时候咀嚼白天没消化的食。</td>
+			<td>
+				（牛），五行为“土、金、水”。</td>
+		</tr>
+		<tr>
+			<td>
+				寅时</td>
+			<td>
+				平旦，又称黎明、早晨、日旦</td>
+			<td>
+				03：00～05：00</td>
+			<td>
+				虎，老虎在此时最猛。</td>
+			<td>
+				（虎），五行为“木、火”。</td>
+		</tr>
+		<tr>
+			<td>
+				卯时</td>
+			<td>
+				日出，又名日始、破晓、旭日</td>
+			<td>
+				05：00～07：00</td>
+			<td>
+				兔，月亮又称玉兔，在这段时间还在天上。</td>
+			<td>
+				（兔），五行为“木”。</td>
+		</tr>
+		<tr>
+			<td>
+				辰时</td>
+			<td>
+				食时，又名早食等</td>
+			<td>
+				07：00～09：00</td>
+			<td>
+				龙，相传这是「群龙行雨」的时候。</td>
+			<td>
+				（龙），五行为“土、水、木”。</td>
+		</tr>
+		<tr>
+			<td>
+				巳时</td>
+			<td>
+				隅中，又名日禺等</td>
+			<td>
+				09：00～11：00</td>
+			<td>
+				蛇，在这时候隐蔽在草丛中。</td>
+			<td>
+				（蛇），五行为“火、金”。</td>
+		</tr>
+		<tr>
+			<td>
+				午时</td>
+			<td>
+				日中，又名日正、中午</td>
+			<td>
+				11：00～13：00</td>
+			<td>
+				马，这时候太阳最猛烈，相传这时阳气达到极限，<br />
+				阴气将会产生，而马是阴类动物。</td>
+			<td>
+				（马），五行为“火、土”。</td>
+		</tr>
+		<tr>
+			<td>
+				未时</td>
+			<td>
+				日昳，又名日跌、日央</td>
+			<td>
+				13：00～15：00</td>
+			<td>
+				羊，羊在这段时间吃草。</td>
+			<td>
+				（羊），五行为“土、火、木”。</td>
+		</tr>
+		<tr>
+			<td>
+				申时</td>
+			<td>
+				哺时，又名日铺、夕食</td>
+			<td>
+				15：00～17：00</td>
+			<td>
+				猴，猴子喜欢在这时候啼叫。</td>
+			<td>
+				（猴），五行为“金、水”。</td>
+		</tr>
+		<tr>
+			<td>
+				酉时</td>
+			<td>
+				日入，又名日落、日沉、傍晚</td>
+			<td>
+				17：00～19：00</td>
+			<td>
+				鸡 ，鸡於傍晚开始归巢。</td>
+			<td>
+				（鸡），五行为“金”。</td>
+		</tr>
+		<tr>
+			<td>
+				戌时</td>
+			<td>
+				黄昏，又名日夕、日暮、日晚</td>
+			<td>
+				19：00～21：00</td>
+			<td>
+				狗，狗开始守门口。</td>
+			<td>
+				（狗），五行为“土、金、火”。</td>
+		</tr>
+		<tr>
+			<td>
+				亥时</td>
+			<td>
+				人定，又名定昏等</td>
+			<td>
+				21：00～23：00</td>
+			<td>
+				猪，夜深时分猪正在熟睡。</td>
+			<td>
+				（猪），五行为“水、木”。</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/topic/xixik_a44a27b8e1c118c7.jpg" /></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/12shengxiao/">十二生肖</a>与十二时辰相对应的一种传闻，供参考：</p>
+<p style="TEXT-INDENT:2em">
+	子（鼠）（午夜23时至1时）：一天的最后时刻，也是一天的开始。在十二生肖中属于鼠。&#160;</p>
+<p style="TEXT-INDENT:2em">
+	丑（牛）（凌晨1时至3时）：黎明前的黑暗时刻。是牛开始耕田的时刻。在十二生肖中属于牛。&#160;</p>
+<p style="TEXT-INDENT:2em">
+	寅（虎）（凌晨3时至5时）：老虎开始活动，属于老虎。&#160;</p>
+<p style="TEXT-INDENT:2em">
+	卯（兔）（清晨5时至7时）：太阳东升。属于兔。&#160;</p>
+<p style="TEXT-INDENT:2em">
+	辰（龙）（清晨7时至9时）：群龙行西，属于龙。&#160;</p>
+<p style="TEXT-INDENT:2em">
+	巳（蛇）（上午9时至11时）：阳光热更强了，属于蛇。&#160;</p>
+<p style="TEXT-INDENT:2em">
+	午（马）（上午11时至下午13时）：阳光最为猛烈。属于马。&#160;</p>
+<p style="TEXT-INDENT:2em">
+	未（羊）（下午13时至15时）：暑气将消之时。属于羊。&#160;</p>
+<p style="TEXT-INDENT:2em">
+	申（猴）（下午15时至17时）：暑气快过去了。属于猴。&#160;</p>
+<p style="TEXT-INDENT:2em">
+	酉（鸡）（下午17时至晚上19时）：夜晚将来临。属于鸡。</p>
+<p style="TEXT-INDENT:2em">
+	戌（狗）（晚上19时至21时）：华灯初上。属于狗。</p>
+<p style="TEXT-INDENT:2em">
+	亥（猪）（晚上21时至午夜23时）：一日将尽，明日将到。属于猪。&#160;</p>
+<p style="TEXT-INDENT:2em">
+	<span style="color: rgb（51, 51, 51）; font-family: 宋体, 'Arial Narrow'; line-height: 21px;">更多<strong>十二生肖</strong>知识：</span><a href="http://114.xixik.com/12birthpet/">http://114.xixik.com/12birthpet/</a></p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor11"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        十二时辰与五行对照表</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p align="center">
+	<img src="http://img.xixik.net/custom/section/shichen/xixik-54f29584bd1fb363.jpg" /></p>
+<p align="center">
+	<a href="http://114.xixik.com/12shichen/" style="color:#000" title="十二时辰">十二时辰</a>五行对照表</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/12shichen/" style="color:#000" title="十二时辰">十二时辰</a>与五行对照表，古代每个时辰都是两个小时，用“子丑寅卯辰巳午未申酉戌亥”12个字代替，子时是凌晨23:00－1:00，以此推算，申时是15:00-17:00点。</p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<th>
+				子时</th>
+			<th>
+				丑时</th>
+			<th>
+				寅时</th>
+			<th>
+				卯时</th>
+			<th>
+				辰时</th>
+			<th>
+				巳时</th>
+			<th>
+				午时</th>
+			<th>
+				未时</th>
+			<th>
+				申时</th>
+			<th>
+				酉时</th>
+			<th>
+				戌时</th>
+			<th>
+				亥时</th>
+		</tr>
+		<tr>
+			<td>
+				水</td>
+			<td>
+				土</td>
+			<td>
+				木</td>
+			<td>
+				木</td>
+			<td>
+				土</td>
+			<td>
+				火</td>
+			<td>
+				火</td>
+			<td>
+				土</td>
+			<td>
+				金</td>
+			<td>
+				金</td>
+			<td>
+				土</td>
+			<td>
+				水</td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT:2em">
+	十二个时辰对应的五行如下：23-1时为子时属水，1-3时是丑时为太，3-5时为寅时属木，5-7时为卯时属木，7-9时为辰时属土，9-11时为巳时属火，11-13时为午时属火，13-15时为未时属土，15-17是为申时属金，17-19时为酉时属金，19-21时为戌时属土，21时-23时为亥时属水。<a href="http://114.xixik.com/12shichen/" style="color:#000" title="十二时辰">十二时辰</a>五行有阴阳之分，奇数为阳偶数为阴。</p>
+<p style="TEXT-INDENT:2em">
+	寅卯属木，寅为阳木，卯为阴木。</p>
+<p style="TEXT-INDENT:2em">
+	巳午属火，午为阳火，巳为阴火。</p>
+<p style="TEXT-INDENT:2em">
+	申酉属金，申为阳金，酉为阴金。</p>
+<p style="TEXT-INDENT:2em">
+	子亥属水，子为阳水，亥为阴水。</p>
+<p style="TEXT-INDENT:2em">
+	辰戌丑未属土，辰戌为阳土，丑未为阴土。</p>
+<p style="TEXT-INDENT:2em">
+	未戌为干土，丑辰为湿土。</p>
+<p style="TEXT-INDENT:2em">
+	干土者其中藏火，湿土者其中藏水。&#160; &#160;</p>
+<p style="TEXT-INDENT:2em">
+	寅卯东方木，已午南方火，申酉西方金，亥子北方水，辰戌丑未四季土。</p>
+<p style="TEXT-INDENT:2em">
+	少阳见于寅，壮于卯，衰于辰。寅卯辰属木，司春，为东方。</p>
+<p style="TEXT-INDENT:2em">
+	太阳见于巳，壮于午，衰于未。巳午未属火，司夏，为南方。</p>
+<p style="TEXT-INDENT:2em">
+	少阴见于申，壮于酉，衰于戌。申酉戌属金，司秋，为西方。</p>
+<p style="TEXT-INDENT:2em">
+	太阴见于亥，壮于子，衰于丑。亥子丑属水，司冬，为北方。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>五行</strong></p>
+<p style="TEXT-INDENT:2em">
+	相生：水生木 木生火 火生土 土生金 金生水<br />
+	　　相克：水克火 火克金 金克木 木克土 土克水</p>
+<p style="TEXT-INDENT:2em">
+	<strong>时辰的五行</strong></p>
+<p style="TEXT-INDENT:2em">
+	金行：申时 酉时 最旺&#160;<br />
+	　　木行：演时 卯时 最旺&#160;&#160;<br />
+	　　水行：子时 亥时 最旺&#160;<br />
+	　　火行：巳时 午时 最旺&#160;&#160;<br />
+	　　土行：丑时 辰时 未时 戌时 最旺</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor12"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        中国十二时辰的优雅味道</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/12shichen/" title="十二时辰">十二个时辰</a>制，中国西周时就已开始使用。汉朝时命名为夜半、鸡鸣、平旦、日出、食时、隅中、日中、日昳、晡时、日入、黄昏、人定。又用<a href="http://114.xixik.com/tiangandizhi/" title="天干地支">十二地支</a>来表示，以夜半二十三点至一点为子时，一至三点为丑时，三至五点为寅时，依次递推。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/cimg/019/xixik_ba3a9eb3ef653ce1.jpeg" style="text-indent: 2em;" /></p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://www.xixik.com/content/a514f1a8bd1437eb" target="_blank" title="对西湖一日游说不 杭州24小时十二时辰慢游指南">杭州十二时辰慢游指南</a></strong></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/83d3e7fce3136e51" target="_blank" title="大理十二时辰 如此美丽的大理你见过吗？">大理十二时辰 如此美丽的大理你见过吗？</a></p>
+<p style="TEXT-INDENT:2em">
+	子时 23：00～1：00</p>
+<p style="TEXT-INDENT:2em">
+	<strong>夜半</strong></p>
+<p style="TEXT-INDENT:2em">
+	“夜半”指23：00～1：00，这个时段用地支命名，称作「子时」。</p>
+<p style="TEXT-INDENT:2em">
+	鼠在这时间最活跃。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/cimg/019/xixik_a650ec4dd8debc0f.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	丑时 1：00～3：00</p>
+<p style="TEXT-INDENT:2em">
+	<strong>鸡鸣</strong></p>
+<p style="TEXT-INDENT:2em">
+	以地支来称其名则为「丑时」，1：00～3：00。</p>
+<p style="TEXT-INDENT:2em">
+	牛在这时候咀嚼白天没消化的食。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/cimg/019/xixik_d7f252af37d584e1.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	寅时 3：00～5：00</p>
+<p style="TEXT-INDENT:2em">
+	<strong>平旦</strong></p>
+<p style="TEXT-INDENT:2em">
+	太阳露出地平线之前，天刚蒙蒙亮的一段时候称“平旦”，即我们现今所说的黎明之时。</p>
+<p style="TEXT-INDENT:2em">
+	用地支表示这个时段则为「寅时」，即每天清晨的3：00～5：00。</p>
+<p style="TEXT-INDENT:2em">
+	老虎在此时最猛。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/cimg/019/xixik_1338582944ec3e3e.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	卯时 5：00～7：00</p>
+<p style="TEXT-INDENT:2em">
+	这个词最初见于《诗经·桧风·羔裘》：“日出有曜，羔裘如濡。”</p>
+<p style="TEXT-INDENT:2em">
+	“日出”是指太阳升出地平线之时。</p>
+<p style="TEXT-INDENT:2em">
+	用地支命名，为「卯时」。</p>
+<p style="TEXT-INDENT:2em">
+	这个时段指每天清早的5：00～7：00。</p>
+<p style="TEXT-INDENT:2em">
+	此时，旭日东升，光耀大地，给人以勃勃生机之感。</p>
+<p style="TEXT-INDENT:2em">
+	月亮又称玉兔，在这段时间还在天上。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/cimg/019/xixik_20b8846f3a0c3414.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	辰时 7：00～9：00</p>
+<p style="TEXT-INDENT:2em">
+	<strong>食时</strong></p>
+<p style="TEXT-INDENT:2em">
+	食时就是古代中国人民“朝食”（吃早饭）之时，</p>
+<p style="TEXT-INDENT:2em">
+	即每天的7：00～9：00。</p>
+<p style="TEXT-INDENT:2em">
+	以地支命名，称之为「辰时」。</p>
+<p style="TEXT-INDENT:2em">
+	相传这是“群龙行雨”的时候。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/cimg/019/xixik_7538bfb31a83413d.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	巳时 9：00～11：00</p>
+<p style="TEXT-INDENT:2em">
+	<strong>隅中</strong></p>
+<p style="TEXT-INDENT:2em">
+	临近中午的时候为隅中，即上午的9：00～11：00，</p>
+<p style="TEXT-INDENT:2em">
+	用地支表示为「巳时」。</p>
+<p style="TEXT-INDENT:2em">
+	蛇，在这时候隐蔽在草丛中。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/cimg/019/xixik_ed80d9f8dc12ab57.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	午时 11：00～13：00</p>
+<p style="TEXT-INDENT:2em">
+	<strong>日中</strong></p>
+<p style="TEXT-INDENT:2em">
+	太阳已经运行到中天，即为正午的时辰。</p>
+<p style="TEXT-INDENT:2em">
+	日中表示每天的11：00～13：00。</p>
+<p style="TEXT-INDENT:2em">
+	这一时段用地支命名，称作「午时」。</p>
+<p style="TEXT-INDENT:2em">
+	这时候太阳最猛烈，相传这时阳气达到极限，阴气将会产生，而马正好是阴类动物。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/cimg/019/xixik_e5dc3cd095f5293b.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	未时 13：00～15：00</p>
+<p style="TEXT-INDENT:2em">
+	<strong>日昳</strong></p>
+<p style="TEXT-INDENT:2em">
+	太阳过了中天偏斜向西边。以中天为界，这时的太阳与隅中之日相对。</p>
+<p style="TEXT-INDENT:2em">
+	这一时段用地支命名，称作「未时」，它指每天的13：00～15：00。</p>
+<p style="TEXT-INDENT:2em">
+	羊在这段时间吃草。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/cimg/019/xixik_c5346c28b0fdeffb.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	申时 15：00～17：00</p>
+<p style="TEXT-INDENT:2em">
+	<strong>晡时</strong></p>
+<p style="TEXT-INDENT:2em">
+	古代中国人民进餐习惯，吃第二顿饭是在晡时。</p>
+<p style="TEXT-INDENT:2em">
+	因此，“晡时”之义即“第二次进餐之时”。</p>
+<p style="TEXT-INDENT:2em">
+	这一时段以地支命名为「申时」，它指每天的15：00～17：00。</p>
+<p style="TEXT-INDENT:2em">
+	猴子喜欢在这时候啼叫。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/cimg/019/xixik_bf92d2766c63ff65.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	酉时 17：00～19：00</p>
+<p style="TEXT-INDENT:2em">
+	<strong>日入</strong></p>
+<p style="TEXT-INDENT:2em">
+	顾名思义，“日入”即为太阳落山，这是夕阳西下的时候。</p>
+<p style="TEXT-INDENT:2em">
+	古代中国人民用地支称这一时段为「酉时」。</p>
+<p style="TEXT-INDENT:2em">
+	它指每日的17：00～19：00。鸡在此时开始归巢。</p>
+<p style="TEXT-INDENT:2em">
+	古时，人们又将“日出”和“日入”分别作为白天和黑夜到来的标志。</p>
+<p style="TEXT-INDENT:2em">
+	《元史·日历志》云：“日出为昼，日入为夜。”</p>
+<p style="TEXT-INDENT:2em">
+	当时人们生产劳动、休养生息就是以“日出”、“日入”为基本的简易时间表的。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/cimg/019/xixik_06add515c80f2a79.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	戌时 19：00～21：00</p>
+<p style="TEXT-INDENT:2em">
+	<strong>黄昏</strong></p>
+<p style="TEXT-INDENT:2em">
+	“黄，地之色也。”“昏，日冥也。”</p>
+<p style="TEXT-INDENT:2em">
+	夕阳沉没，万物朦胧，天地昏黄，“黄昏”一词形象地反映出了这一时段典型的自然特色。</p>
+<p style="TEXT-INDENT:2em">
+	因此黄昏，指太阳落去，天色欲黑而未黑之时，即19：00～21：00。</p>
+<p style="TEXT-INDENT:2em">
+	用地支表示为「戌时」。</p>
+<p style="TEXT-INDENT:2em">
+	这段时间，狗开始守门口。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/cimg/019/xixik_948bcd81ea95c321.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	亥时 21：00～23：00</p>
+<p style="TEXT-INDENT:2em">
+	<strong>人定</strong></p>
+<p style="TEXT-INDENT:2em">
+	这是一昼夜中十二时的最末一个时辰，它指当夜的21：00～23：00，</p>
+<p style="TEXT-INDENT:2em">
+	地支命名是「亥时」。</p>
+<p style="TEXT-INDENT:2em">
+	“人定”的意思为：夜已很深，人们停止活动、安歇睡眠的时候。</p>
+<p style="TEXT-INDENT:2em">
+	而夜深时分，猪正在熟睡。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor13"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        《长安十二时辰》再现大唐风物</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="text-align: center;">
+	<img src="http://img.xixik.net/cimg/066/xixik_95f3291c5c466378.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	2019年这部《<a href="http://www.xixik.com/content/cc38bd6edd6e555b" title="长安十二时辰">长安十二时辰</a>》除了剧情水准在线，精美的画面更是给了我们意外之喜。考究的服装、道具，精致油画般的画面质感。</p>
+<p style="TEXT-INDENT:2em">
+	传统味十足的叉手礼，纵横交错的人物关系，总之，值得一看。突然大火的《长安十二时辰》大概是杂草丛生的暑期档最大的惊喜。宏大华美的画面和精良的拍摄制作，动不动就是长镜头，一部大唐版的反恐24小时，值得全方位打call！</p>
+<p style="text-align: center;">
+	<img src="http://img.xixik.net/cimg/066/xixik_1e5ce4b2c4639eb5.gif" /></p>
+<p style="text-align: center;">
+	&nbsp;</p>
+<p style="TEXT-INDENT:2em">
+	《长安十二时辰》改编自马伯庸的同名小说，这是一个特别简单的虚构故事：1275年大唐上元节前夕，长安城混入可疑人员，身陷囹圄的死囚张小敬临危受命，与少年名士李必携手在十二个时辰内破除隐患拯救长安。张小敬出身行伍，后受任为主管侦缉逮捕的官差&ldquo;不良人&rdquo;，长期协调维护地方安全工作，但却因违法被关押于狱中。负责长安城治安的靖安司发现了混入城内的可疑人员，由于张小敬对事发地点人事与地理的熟悉，靖安司特例委派张小敬戴罪立功、侦破此案。经过张小敬的一番调查，发现敌人的阴谋是为了在上元节晚上的集会中制造混乱。距离上元节花灯大会只剩下短短的几个时辰了，张小敬必须在上元节花灯大会前抓住搞破坏的刺客。在调查与追捕中张小敬还发现靖安司中竟然有敌人的内应，在一次次的斗智斗勇中，张小敬终于在最后关头揭穿了背后主谋，阻止了破坏的发生，解救了长安城里的黎民百姓。</p>
+<p style="TEXT-INDENT:2em">
+	全篇运用了创新的探案剧集结构与人物关系设定，把故事嵌套在当时的世界文化中心城市长安这样一个完美的切入点。在展现跌宕紧凑的故事架构、反脸谱化的英雄人物、脑洞大开的细节设计同时，也带给观众丰富的文化价值。和以往&ldquo;漫长&rdquo;的电视剧相比，《长安十二时辰》（以下简称《长安》）时间跨度只有短短24小时。&nbsp;在&ldquo;后宫频频领盒饭，前朝阴谋理不断&rdquo;的古装剧乱象中，《长安十二时辰》仿佛一股清流，让浮躁的人们静下心来重新审视：坐拥辉煌历史的我们，该怎样讲好中国故事。<a href="http://www.xixik.com/content/8b2b48c031bf406c" style="text-indent: 2em;" target="_blank" title="长安十二时辰背后:一座千年帝都如何丢掉了王气？">长安十二时辰背后:一座千年帝都如何丢掉了王气？</a></p>
+<p style="TEXT-INDENT:2em">
+	截至2019年8月21日，<a href="https://movie.douban.com/subject/26849758/" title="豆瓣网友给《长安十二时辰》打出8.4分">豆瓣网友给《长安十二时辰》打出8.4分</a>，这也是2019年以来国产剧集的最高评分。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>真的&ldquo;长安十二时辰&rdquo;，在&ldquo;陕西历史博物馆&rdquo;等你</strong></p>
+<p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/shichen/xixik-5afbff138d4d8b5f.jpg" /></p>
+<p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/shichen/xixik-74eec81264f29672.jpg" /></p>
+<p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/shichen/xixik-7a92afa080a9ec71.jpg" /></p>
+<p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/shichen/xixik-9b6a6fef9602f109.jpg" /></p>
+
+                </div>
+            </div>
+        </div>
+
+        
+    </div>
+    <script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        var value = '34';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script>
+    <div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/shichen/" target="_self" title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a></div>
+    <ul style="width: 960px; margin: auto; overflow: hidden;">
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/lixi/"
+                title="人民币存款利率表，2019银行利息，银行存款利率，银行贷款利率">银行存款利息</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chaodai/zhou/"
+                title="周朝历史_西周历史_东周历史_周朝帝王列表">周朝历史</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证_中国旅行证更换新政策_美宝中国旅行证过期了该怎么办？">中国旅行证</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国历任总统名单_美国历届总统任期_美国总统简历生卒年份及所属党派">美国历届总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/baijiaxing-qq/"
+                title="百家姓qq头像,百家姓qq头像闪图大全_百家姓中国心qq头像">百家姓QQ头像</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="赴美生子_美宝证件_中国旅行证_美国护照_社会安全号_美国出生纸_美宝上户口">美宝需要哪些证件？</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_赴美生子费用预算清单_赴美生子2019费用">赴美生子要多少钱</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/obama/"
+                title="奥巴马_美国总统奥巴马_贝拉克·奥巴马(Barack Hussein Obama)_第44任美国总统">奥巴马</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/trump/"
+                title="美国总统特朗普_唐纳德·约翰·特朗普_Donald John Trump_第45任美国总统川普">特朗普</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_赴美生子要多少钱？_赴美生子预算表">赴美生子费用</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 中国护照免签证国家2019">中国护照免签证</a> </li>
+        
+    </ul>
+
+    <div class="lindBox">
+        <div class="btnGray">
+            <div class="btnText">
+                <a target="_self" title="时辰 - 时辰对照表,十二时辰查询" href="http://news.xixik.com/word/34/">另存为<br />
+                    Word格式</a>
+            </div>
+        </div>
+    </div>
+    <div class="lindBox" style="text-align: center;">
+        <img src="http://news.xixik.com/qrcode/34/" alt="扫码手机上继续看" /><br />
+        <br />
+        <strong>用微信或者支付宝扫码在手机上继续观看<br />
+            可以保存收藏，也扫码后可以分享给好友
+        </strong>
+    </div>
+    <hr style="height: 1px; border: none; border-top: 1px dashed #999;" />
+    <script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script>
+<!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.-->
+
+</body></html>

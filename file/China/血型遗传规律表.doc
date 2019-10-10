@@ -1,0 +1,329 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>血型遗传规律表 - 如何根据父母血型判断孩子血型</title><link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" /><meta name="description" content="血型遗传规律表又称血型配对表。根据父母的血型，即可判断出以后出生的小宝宝可能出现的血型，是已知最科学的血型测试和血型配对方法。当然，血型判断法只能判断“孩子不是你亲生的”部分情况。最科学的检测血亲的方式是DNA检测。" /><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/xuexing/"><meta http-equiv="Cache-Control" content="no-transform" /><meta http-equiv="Cache-Control" content="no-siteapp" /><base target="_blank" /><script>        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "xuexing/";
+        }
+
+
+    </script><style>        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style></head><body><a name="top4"></a><div class="topBox" name="top"><div class="topMain"><div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div><div id="icoPhone"></div><div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div><div id="icoWechat"></div><div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a></div><div id="icoSina"></div><div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a></div><div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div><div class="topRight"></div></div></div><div id="showqrCode"><div><span></span></div><img src="" /><div><span></span></div></div><script type="text/javascript">        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script><div class="body"><div class="lindBox" style="position: relative;"><img src="http://img.xixik.net/custom/topic/001/xuexing.gif" alt="血型遗传规律表 - 如何根据父母血型判断孩子血型" /><div class="title"><h1>血型遗传规律表 - 如何根据父母血型判断孩子血型</h1></div></div><div class=" custom_border lindBox"><div class="special_content"><div class="content_text"><div class="content_daodu"></div><h2 style="border-bottom:1px dashed #999; displayinline;">血型遗传规律表</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.-->                    血型遗传规律表，最全的血型遗传规律。根据父母的血型，判断孩子可能出现的血型。
+                </div></div></div><div class="lindBox" style="overflow: hidden;"><div class="gg1"><a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a></div><div class="guide"><div class="guideBorder" id="guideBorder"><div class="guideTitle">导读（目录）</div><ul id="guideDisplay"><li>·<a title="人的血型分为哪几种？" href="#anchor1" target="_self"> 人的血型分为哪几种？</a></li><li>·<a title="血型遗传规律表" href="#anchor2" target="_self"> 血型遗传规律表</a></li><li>·<a title="什么是血型遗传" href="#anchor3" target="_self"> 什么是血型遗传</a></li><li>·<a title="Rh血型遗传规律表" href="#anchor4" target="_self"> Rh血型遗传规律表</a></li><li>·<a title="最全的血型遗传规律" href="#anchor5" target="_self"> 最全的血型遗传规律</a></li><li>·<a title="血型分布" href="#anchor6" target="_self"> 血型分布</a></li></ul><div class="guideOpen">展开&darr;</div></div></div><div class="guideFllow"><div class="guideFllowBorder"><div class="guideFllowTitle">导读（目录）</div><ul id="guideFllowDisplay"><li>·<a title="人的血型分为哪几种？" href="#anchor1" target="_self"> 人的血型分为哪几种？</a></li><li>·<a title="血型遗传规律表" href="#anchor2" target="_self"> 血型遗传规律表</a></li><li>·<a title="什么是血型遗传" href="#anchor3" target="_self"> 什么是血型遗传</a></li><li>·<a title="Rh血型遗传规律表" href="#anchor4" target="_self"> Rh血型遗传规律表</a></li><li>·<a title="最全的血型遗传规律" href="#anchor5" target="_self"> 最全的血型遗传规律</a></li><li>·<a title="血型分布" href="#anchor6" target="_self"> 血型分布</a></li></ul><div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div></div></div><div class="gg2"><a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a></div></div><a name="anchor1"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        人的血型分为哪几种？</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	人的血型：</p><p style="TEXT-INDENT:2em"><img  src="http://img.xixik.net/custom/section/xuexing/xixik-6cf01395e34fd76a.jpg" style="margin: 10px; float: right; width: 400px;" /></p><div class='right_gg'><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- 336x280-114-left --><ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-3849899595029685"
+     data-ad-slot="9973132210"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><p style="TEXT-INDENT:2em">	A型</p><p style="TEXT-INDENT:2em">	B型</p><p style="TEXT-INDENT:2em">	O型：最古老的血型</p><p style="TEXT-INDENT:2em">	AB型</p><p style="TEXT-INDENT:2em">	其他：还有存在不典型的，不属上述血型的血型。极其罕见。</p><p style="TEXT-INDENT:2em"><span style="text-indent: 2em;">其中有可以测定RH阴阳性，一般人都为阳性。有的是RH阴性，A、B、O、AB都可以测RH阴阳性。其中AB型RH阴性极少数，故被称为熊猫血。</span></p><p style="TEXT-INDENT:2em"><strong>通常所说的血型就是红细胞的血型</strong>，是根据红细胞表面的抗原特异性业确定的。已知人类的红细胞有15个主要血型系统，其中主要的是ABO血型系统，其次Rh血型系统。</p><p style="TEXT-INDENT:2em">	临床上最重要的是将人类血型分为A、B、AB、O四种（称为ABO血型系统）。在人类的血液里含有凝集原（又称抗原）A、B和凝集素（又称抗体）A、B。</p><p style="TEXT-INDENT:2em">	凝集原附着在红细胞表面。凝集素存在于血浆（或血清）中。同名的凝集原和凝集相遇（如凝集原A和凝集素B）会发生红细胞凝集现象（溶血反应）。所以在人体的血液中，所含的凝集原和凝集素的类型不同,可分为A、B、AB、O四种血型．</p><p style="TEXT-INDENT:2em">	血型是遗传决定的，亲代与子代的血型关系取决于遗传因素，如双亲都是O型，子代也是O型，子代也是O型，亲代是O型或AB型，则子代为A型或B型。子代为A型或B型。子代与母亲血型不合可引起新生儿溶血病。</p></div></div></div><a name="anchor2"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        血型遗传规律表</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	什么样的血型与什么样的血型结合在一起会生出一个什么样血型的孩子。关于这疑问问题，一不小心弄错了，还有可能会影响到家庭的幸福与和睦。其实想要判断两种血型的结合会有一个怎样血型的孩子是可以根据血型遗传规律来得出的。根据<strong>血型与血缘（遗传）规律一览表</strong>，对父母与孩子血型之间的关系一目了然。</p><p style="TEXT-INDENT:2em">	以常见血型ABO型为例，血型是以A、B、O等三种遗传因子的组合而决定的，大多根据父母的血型即可判断出宝宝可能出现的血型。</p><p style="text-indent: 2em; text-align: center;"><strong><a href="http://114.xixik.com/xuexing/" style="color: rgb（0, 0, 0）;" title="http://114.xixik.com/xuexing/">血型遗传规律表</a></strong></p><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%"><tbody><tr><th>				夫妻其中一方血型</th><th>				夫妻另一方血型</th><th>				宝宝可能的血型</th><th>				宝宝不可能的血型</th></tr><tr><td>				A</td><td>				A</td><td>				A,O</td><td>				B,AB</td></tr><tr><td>				A</td><td>				B</td><td>				A,B,AB,O</td><td>				&#160;</td></tr><tr><td>				A</td><td>				AB</td><td>				A,B,AB</td><td>				O</td></tr><tr><td>				A</td><td>				O</td><td>				A,O</td><td>				B,AB</td></tr><tr><td>				B</td><td>				B</td><td>				B,O</td><td>				A,AB</td></tr><tr><td>				B</td><td>				AB</td><td>				A,B,AB</td><td>				O</td></tr><tr><td>				B</td><td>				O</td><td>				B,O</td><td>				A,AB</td></tr><tr><td>				AB</td><td>				AB</td><td>				A,B,AB</td><td>				O</td></tr><tr><td>				AB</td><td>				O</td><td>				A,B</td><td>				AB,O</td></tr><tr><td>				O</td><td>				O</td><td>				O</td><td>				A,B,AB</td></tr></tbody></table><p style="text-align: center;"><img src="http://img.xixik.net/custom/section/xuexing/xixik-2663163854198794.png" /></p><p style="text-align: center;">	图：血型表遗传规律表</p><p style="TEXT-INDENT:2em"><strong>o型血和b型血生的孩子是什么血型</strong></p><p style="TEXT-INDENT:2em"><strong>血型的遗传规律</strong>：A+A→A、O;A+B→A、B、O、AB;A+O→A、O;A+AB→A、B、AB;B+B→B、O;B+O→B、O;B+AB→B、A、AB;O+O→O;O+AB →A、B;AB+AB→AB、AB。</p><p style="TEXT-INDENT:2em">	根据<strong><a href="http://114.xixik.com/xuexing/" style="color:#000" title="http://114.xixik.com/xuexing/">血型遗传规律表</a></strong>，若父母中一方血型为O型，另一方为B型，两者结合后代可能的血型为B型或O型，不可能是A型或AB型。</p></div></div></div><a name="anchor3"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        什么是血型遗传</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%"><tbody><tr><th>				父母血型</th><th>				可能的搭配</th><th>				可能的结果</th><th>				备注（即只能）</th><th>				结果</th><th colspan="1" rowspan="1">				比例</th></tr><tr><td>				O与O</td><td>				ii+ii</td><td>				ii</td><td>				O</td><td>				O</td><td colspan="1" rowspan="1">				&#160;</td></tr><tr><td rowspan="2">				A与O</td><td>				Ai+ii</td><td>				Ai、ii</td><td>				A、O</td><td rowspan="2">				A、O</td><td colspan="1" rowspan="2">				3：1</td></tr><tr><td>				AA+ii</td><td>				Ai</td><td>				A</td></tr><tr><td rowspan="4">				A与A</td><td>				Ai+Ai</td><td>				AA、Ai、ii</td><td>				A、O</td><td rowspan="4">				A、O</td><td colspan="1" rowspan="4">				15：1</td></tr><tr><td>				AA+Ai</td><td>				AA、Ai</td><td>				A</td></tr><tr><td>				AA+AA</td><td>				AA</td><td>				A</td></tr><tr><td>				Ai+AA</td><td>				AA、Ai</td><td>				A</td></tr><tr><td rowspan="4">				A与B</td><td>				AA+BB</td><td>				AB</td><td>				AB</td><td rowspan="4">				AB、A、B、O</td><td colspan="1" rowspan="4">				9：3：3：1</td></tr><tr><td>				Ai+Bi</td><td>				AB、Ai、Bi、ii</td><td>				AB、A、B、O</td></tr><tr><td>				AA+Bi</td><td>				AB、Ai</td><td>				AB、A</td></tr><tr><td>				Ai+BB</td><td>				AB、Bi</td><td>				AB、B</td></tr><tr><td rowspan="2">				A与AB</td><td>				Ai+AB</td><td>				AA、AB、Ai、Bi</td><td>				A、AB、B</td><td rowspan="2">				A、AB、B</td><td colspan="1" rowspan="2">				4：3：1</td></tr><tr><td>				AA+AB</td><td>				AA、AB</td><td>				A、AB</td></tr><tr><td rowspan="2">				B与O</td><td>				BB+ii</td><td>				Bi</td><td>				B</td><td rowspan="2">				B、O</td><td colspan="1" rowspan="2">				3：1</td></tr><tr><td>				Bi+ii</td><td>				Bi、ii</td><td>				B、O</td></tr><tr><td rowspan="4">				B与B</td><td>				Bi+Bi</td><td>				BB、Bi、ii</td><td>				B、O</td><td rowspan="4">				B、O</td><td colspan="1" rowspan="4">				15：1</td></tr><tr><td>				BB+Bi</td><td>				BB.Bi</td><td>				B</td></tr><tr><td>				BB+BB</td><td>				BB</td><td>				B</td></tr><tr><td>				Bi+BB</td><td>				BB、Bi</td><td>				B</td></tr><tr><td rowspan="2">				B与AB</td><td>				Bi+AB</td><td>				AB、Ai、Bi、BB</td><td>				A、B、AB</td><td rowspan="2">				A、AB、B</td><td colspan="1" rowspan="2">				1：3：4</td></tr><tr><td>				BB+AB</td><td>				AB、BB</td><td>				AB、B</td></tr><tr><td>				AB与O</td><td>				AB+ii</td><td>				Ai、Bi</td><td>				A、B</td><td>				A、B</td><td colspan="1" rowspan="1">				1：1</td></tr><tr><td>				AB与AB</td><td>				AB+AB</td><td>				AA、BB、AB</td><td>				A、B、AB</td><td>				A、AB、B</td><td colspan="1" rowspan="1">				1：2：1</td></tr></tbody></table><p style="TEXT-INDENT:2em"><span style="text-indent: 2em;">血型是根据人的红细胞表面同族抗原的差别而进行的一种分类。由于人类红细胞所含凝集原的不同，而将血液分成若干型，故称血型。</span></p><p><img src="http://img.xixik.net/custom/section/xuexing/xixik-e88273ac3348fb69.jpeg" style="text-indent: 28px; margin: 10px; float: right; width: 400px;" /></p><p style="TEXT-INDENT:2em">	据目前国内外临床检测，发现人类血型有30余种之多。人类的每一种血型系统都是由遗传因子决定的，并具有免疫学特性。最多而常见的血型系统为ABO血型，分为A、B、AB、O四型;其次为Rh血型系统，主要分为Rh阳性和Rh阴性;再次为MN及MNSs血型系统，但有这种血型的人极少。</p><p style="TEXT-INDENT:2em">	人类的血型具有遗传性、父母双方的血型基因在两性性细胞相结合时，可以在细胞核染色体中搭配成对，进而将血型遗传特性传给子代。</p><p style="TEXT-INDENT:2em">	不同的血型有不同的遗传基因：</p><p style="TEXT-INDENT:2em"><span style="text-indent: 2em;">A型血的遗传基因可以是两性的A与A结合成AA，也可能是一性的A基因与另一性的O结合成AO，但不管AA还是AO，所表现出来的血型，都是A型，而O为隐形遗传基因，不能表现出来。</span></p><p style="TEXT-INDENT:2em">	B型血的遗传基因与A型血相似，有的为BB、有的为BO，但是所表现出来的都是B型。</p><p style="TEXT-INDENT:2em">	AB型与O型血遗传基因都与所表现的血型一致，AB型的为AB，O型的为OO。</p><p style="TEXT-INDENT:2em">	由此可知，凡父、母是A或B型血者，其子女可能是A型或B型，但也可能是O型，因为A型或B型都含隐性遗传基因O，当父遗传基因中的O与母遗传基因中的O相结合成OO时，则表现为O型。</p></div></div></div><a name="anchor4"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        Rh血型遗传规律表</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em"><span style="text-indent: 2em;">Rh（D）血型只有正、负（阳性、阴性）两种，其遗传亦是如此。</span></p><p style="TEXT-INDENT:2em">	Rh（D）血型遗传规律：</p><p style="TEXT-INDENT:2em">	父母Rh（D）血型：正+正 子女Rh（D）血型：正/负</p><p style="TEXT-INDENT:2em">	父母Rh（D）血型：正+负 子女Rh（D）血型：正/负</p><p style="TEXT-INDENT:2em">	父母Rh（D）血型：负+负 子女Rh（D）血型：负</p><p style="TEXT-INDENT:2em">	注意：有一些罕见的例外，如病变、基因变异等情况可导致子女与父母的血型遗传规律不符，亲子鉴定惟一准确的办法就是进行DNA分析检测，直接检查遗传物质本身的遗传方式是否符合孟德尔遗传规律。</p></div></div></div><a name="anchor5"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        最全的血型遗传规律</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="text-indent: 2em;">	基因遗传是很神奇的，人可以从父母那里遗传外貌、血型等，根据父母的血型可以推算出孩子的血型，并可以预防和避免一些血型类的疾病。</p><p style="text-indent: 2em;"><strong>最全的血型遗传规律</strong></p><p style="text-indent: 2em;">	血型有哪几种？最多而常见的血型系统为ABO血型，分为A、B、AB、O四型；其次为Rh血型系统，主要分为Rh阳性和Rh阴性；再次为MN及MNSs血型系统，但有这种血型的人极少。</p><p style="text-indent: 2em;">	不同的血型有不同的遗传基因 A型血的遗传基因可以是两性的A与A结合成AA，也可能是一性的A基因与另一性的O结合成AO。</p><p style="text-indent: 2em;">	但不管AA还是AO，所表现出来的血型，都是A型，而O为隐形遗传基因，不能表现出来。</p><p style="text-indent: 2em;">	B型血的遗传基因与A型血是非常相似的，有的为BB、有的为BO，但是所表现出来的都是B型。 AB型与O型血遗传基因都与所表现的血型一致，AB型的为AB，O型的为OO。</p><p style="text-indent: 2em;">	由此可知，凡父、母是A或B型血者，其子女可能是A型或B型，但也可能是O型，因为A型或B型都含隐性遗传基因O。</p><p style="text-indent: 2em;">	当父遗传基因中的O与母遗传基因中的O相结合成OO时，则表现为O型。</p><p style="text-indent: 2em;"><a style="color:#000" title="http://114.xixik.com/xuexing/" href="http://114.xixik.com/xuexing/">血型遗传规律表</a>我们以常见血型ABO型为例来进行详细解读，血型是以A、B、O等三种遗传因子的组合而决定的，大多根据父母的血型即可判断出宝宝可能出现的血型。</p><p style="text-indent: 2em;"><strong>1、父母O*O血型</strong></p><p style="text-indent: 2em;">	父母的遗传因子：OO*OO；子女的遗传因子：OO；子女的血型：O</p><p style="text-indent: 2em;"><strong>2、父母O*A血型</strong></p><p style="text-indent: 2em;">	父母的遗传因子：OO*AO、OO*AA；子女的遗传因子：OO、AO；子女的血型：O、A</p><p style="text-indent: 2em;"><strong>3、父母O*B血型</strong></p><p style="text-indent: 2em;">	父母的遗传因子：OO*BO、OO*BB；子女的遗传因子：OO、BO；子女的血型：O、B</p><p style="text-indent: 2em;"><strong>4、父母O*AB血型</strong></p><p style="text-indent: 2em;">	父母的遗传因子：OO*AB；子女的遗传因子：AO、BO；子女的血型：A、B</p><p style="text-indent: 2em;"><strong>5、父母A*B血型</strong></p><p style="text-indent: 2em;">	父母的遗传因子：AO*BO、AO*BB、AA*BO、AA*BB；子女的遗传因子：OO、AO、BO、AB；子女的血型：A、B、O、AB</p><p style="text-indent: 2em;"><strong>6、父母A*A血型</strong></p><p style="text-indent: 2em;">	父母的遗传因子：AO*AO、AO*AA、AA*AA；子女的遗传因子：OO、AO、AA；子女的血型：A、O</p><p style="text-indent: 2em;"><strong>7、父母B*B血型</strong></p><p style="text-indent: 2em;">	父母的遗传因子：BO*BO、BO*BB、BB*BB；子女的遗传因子：OO、BO、BB；子女的血型：B、O</p><p style="text-indent: 2em;"><strong>8、父母A*AB血型</strong></p><p style="text-indent: 2em;">	父母的遗传因子：AO*AB、AA*AB；子女的遗传因子：AO、AA、BO、AB；子女的血型：A、B、AB</p><p style="text-indent: 2em;"><strong>9、父母B*AB血型</strong></p><p style="text-indent: 2em;">	父母的遗传因子：BO*AB、BB*AB；子女的遗传因子：AO、BB、BO、AB；子女的血型：A、B、AB</p><p style="text-indent: 2em;"><strong>10、父母AB*AB血型</strong></p><p style="text-indent: 2em;">	父母的遗传因子：AB*AB；子女的遗传因子：AA、BB、AB；子女的血型：A、B、AB</p><p style="text-indent: 2em;">	当母亲的血型为O型，胎儿血型为A型或B型时，母血中缺乏胎儿所具有的抗原，抗原会能刺激母体产生抗体。抗体与抗原发生凝结时，可引起ABO血型不合溶血。</p><p style="text-indent: 2em;"><strong>如何避免喜当爹？</strong></p><p style="text-indent: 2em;"><img img_height="219" img_width="282" max-width="600" src="http://img.xixik.net/custom/section/xuexing/xixik-abff458534d5aae6.jpeg" /></p><p style="text-indent: 2em;">	孩子的血型是来自于父母的遗传，是一种在出生时就已经决定了的人体特征。</p><p style="text-indent: 2em;"><img img_height="419" img_width="560" max-width="600" src="http://img.xixik.net/custom/section/xuexing/xixik-b8334a71d82f6650.jpeg" /></p><p style="text-indent: 2em;">	电视剧里很多时候男主角喜当爹了还不自知，白白帮其他男人养了10多年的子女。其实，判断孩子是否亲生的最简便的方法就是血型判断法。</p><p style="text-indent: 2em;">	当然，血型判断法只能判断“孩子不是你亲生的”部分情况。重申一次，血型判断法只能判断“孩子不是你亲生的”部分情况。</p><p style="text-indent: 2em;">	如果另一个男人的血型和你一样，和你妻子生下来的孩子是无法通过血型判断法鉴定的。如果是特殊血型，那又要另算，我们这里只是讨论ABO四大基本血型。当然，如果有必要的话，最好是到医院做DNA鉴定，那就绝对不会错了。</p><p style="text-indent: 2em;"><img img_height="300" img_width="399" max-width="600" src="http://img.xixik.net/custom/section/xuexing/xixik-a1bcbf05bb516ff6.jpeg" /></p><p style="text-indent: 2em;">	如果你是A型血，老婆是O型血，儿子是B型血，恭喜你，中大奖了，白白捡了个儿子。</p></div></div></div><a name="anchor6"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        血型分布</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	O型血在人类学上是一种非常古老的<a href="http://114.xixik.com/xuexing/" style="color:#000" title="血型">血型</a>，也叫做狩猎<a href="http://114.xixik.com/xuexing/" style="color:#000" title="血型">血型</a>；</p><p style="TEXT-INDENT:2em">	A型血是第二种最多见的<a href="http://114.xixik.com/xuexing/" style="color:#000" title="血型">血型</a>，其祖先是最先从事农耕作物的，也叫做农耕<a href="http://114.xixik.com/xuexing/" style="color:#000" title="血型">血型</a>；&nbsp;</p><p style="TEXT-INDENT:2em">	与O型和A型相比，B型却是人类学上较晚出现的<a href="http://114.xixik.com/xuexing/" style="color:#000" title="血型">血型</a>，这类人是最早习惯于气候和其他变迁的游牧<a a="" href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>，也叫做游牧<a href="http://114.xixik.com/xuexing/" style="color:#000" title="血型">血型</a>。</p><p style="TEXT-INDENT:2em">	AB型为最晚出现、最稀少的<a href="http://114.xixik.com/xuexing/" style="color:#000" title="血型">血型</a>，占总人口不到5%。这类人拥有部分A型血和部分B型血的特征。</p><p style="TEXT-INDENT:2em"><strong><a href="http://www.xixik.com/content/582d76526b7ad7fc" target="_blank" title="中国人群血型分布图 解说有图有真相 ">中国人群血型分布图</a></strong></p><p style="TEXT-INDENT:2em">	在中国北方长城的两边，匈奴、突厥、鲜卑、女真、契丹、西夏等等古老游牧<a a="" href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>，肉食为主，B型血占了大多数。现在蒙古、满族中B型血占40~60%；</p><p style="TEXT-INDENT:2em">	湖北湖南人、广东人、福建人、江浙人等等苗瑶壮侗语族各<a a="" href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>，素食为主，A型血数量呈上升趋势，估计30~60%；</p><p style="TEXT-INDENT:2em">	在长江流边，AB型血是比较常见的，但数量非常少，历史上是B型血人南下跟A型血人繁杂而成的。</p><p style="TEXT-INDENT:2em">	在中原地区，陕西人、山东人、山西河北南部、河南北部等，O型血占主要地位，估计40~55%。</p><p style="TEXT-INDENT:2em"><strong>在整个汉族中</strong></p><p style="TEXT-INDENT:2em">	B型血占20%，主要是由匈奴、突厥、鲜卑、女真、契丹、西夏融入于汉族的血液中造成的；</p><p style="TEXT-INDENT:2em">	A型血占40%，主要分布在南方，是由楚苗南蛮等古老<a a="" href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>融入华夏集团演变而来的；</p><p style="TEXT-INDENT:2em">	AB型是B型血人南下跟A型血人繁杂而成的。</p><p style="TEXT-INDENT:2em">	O型血是一种非常古老的最早<a href="http://114.xixik.com/xuexing/" style="color:#000" title="血型">血型</a>，主要分布在中原地区，血缘来源是黄帝集团和东夷集团。</p></div></div></div></div><script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script><script type="text/javascript">        var value = '218';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script><div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/xuexing/" target="_self" title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a></div><ul style="width: 960px; margin: auto; overflow: hidden;"><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/lixi/"
+                title="人民币存款利率表，2019银行利息，银行存款利率，银行贷款利率">银行存款利息</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chaodai/zhou/"
+                title="周朝历史_西周历史_东周历史_周朝帝王列表">周朝历史</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证_中国旅行证更换新政策_美宝中国旅行证过期了该怎么办？">中国旅行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国历任总统名单_美国历届总统任期_美国总统简历生卒年份及所属党派">美国历届总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/baijiaxing-qq/"
+                title="百家姓qq头像,百家姓qq头像闪图大全_百家姓中国心qq头像">百家姓QQ头像</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="赴美生子_美宝证件_中国旅行证_美国护照_社会安全号_美国出生纸_美宝上户口">美宝需要哪些证件？</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_赴美生子费用预算清单_赴美生子2019费用">赴美生子要多少钱</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/obama/"
+                title="奥巴马_美国总统奥巴马_贝拉克·奥巴马(Barack Hussein Obama)_第44任美国总统">奥巴马</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/trump/"
+                title="美国总统特朗普_唐纳德·约翰·特朗普_Donald John Trump_第45任美国总统川普">特朗普</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_赴美生子要多少钱？_赴美生子预算表">赴美生子费用</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 中国护照免签证国家2019">中国护照免签证</a></li></ul><div class="lindBox"><div class="btnGray"><div class="btnText"><a target="_self" title="血型遗传规律表 - 如何根据父母血型判断孩子血型" href="http://news.xixik.com/word/218/">另存为<br />                    Word格式</a></div></div></div><div class="lindBox" style="text-align: center;"><img src="http://news.xixik.com/qrcode/218/" alt="扫码手机上继续看" /><br /><br /><strong>用微信或者支付宝扫码在手机上继续观看<br />            可以保存收藏，也扫码后可以分享给好友
+        </strong></div><hr style="height: 1px; border: none; border-top: 1px dashed #999;" /><script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script><!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.--></body></html>

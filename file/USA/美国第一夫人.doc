@@ -1,0 +1,2011 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <title>美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady</title>
+    <link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" />
+    <meta name="description" content="美国白宫的女主人，美国总统的妻子俗称“美国第一夫人”（First Lady of the United States of America，缩写：FLOTUS）,本专题罗列迄今为止44位第一夫人名单及肖像。" />
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/flotus/">
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <base target="_blank" />
+    
+    <script>
+        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "flotus/";
+        }
+
+
+    </script>
+    <style>
+        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style>
+</head>
+<body>
+    <a name="top4"></a>
+    <div class="topBox" name="top">
+        <div class="topMain">
+            <div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div>
+            <div id="icoPhone"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div>
+            <div id="icoWechat"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a> </div>
+            <div id="icoSina"></div>
+            <div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a>  </div>
+            <div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div>
+            <div class="topRight">
+            </div>
+        </div>
+    </div>
+
+    <div id="showqrCode">
+        <div><span></span></div>
+        <img src="" /><div><span></span></div>
+    </div>
+    <script type="text/javascript">
+        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script>
+    <div class="body">
+        
+        <div class="lindBox" style="position: relative;">
+            <img src="http://img.xixik.net/custom/topic/001/flotus.jpg" alt="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady" />
+            <div class="title">
+                <h1>美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady</h1>
+            </div>
+        </div>
+        
+
+        <div class=" custom_border lindBox">
+            <div class="special_content">
+                <div class="content_text">
+                    <div class="content_daodu">
+                    </div>
+                    <h2 style="border-bottom:1px dashed #999; displayinline;">美国第一夫人</h2>
+                    <p>
+	<a a="" href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>的妻子俗称&ldquo;<strong><a href="http://114.xixik.com/flotus/" style="color:#000" title="美国第一夫人">美国第一夫人</a></strong>&rdquo;（First Lady of the United States of America，缩写：<strong>FLOTUS</strong>）。<a href="http://114.xixik.com/flotus/" style="color:#000" title="美国第一夫人">美国第一夫人</a>是<a a="" href="http://114.xixik.com/potus/" style="color:#000" title="美国总统">美国总统</a>的妻子在总统任职的期间，所拥有的头衔和职位，直到她们丈夫的任期结束。目前的美国第一夫人是梅拉尼娅&middot;特朗普（Melania Trump），她在2017年上任。</p>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="lindBox" style="overflow: hidden;">
+            <div class="gg1">
+                <a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a>
+            </div>
+            <div class="guide">
+                <div class="guideBorder" id="guideBorder">
+                    <div class="guideTitle">导读（目录）</div>
+                    <ul id="guideDisplay">
+                        
+                                <li>·<a title="美国第一夫人名单" href="#anchor1" target="_self"> 美国第一夫人名单</a></li>
+                            
+                                <li>·<a title="美国第一夫人肖像" href="#anchor2" target="_self"> 美国第一夫人肖像</a></li>
+                            
+                                <li>·<a title="仅仅是个花瓶：美国第一夫人梅拉尼娅" href="#anchor3" target="_self"> 仅仅是个花瓶：美国第一夫人梅拉尼娅</a></li>
+                            
+                                <li>·<a title="时尚达人：美国第一夫人杰奎琳" href="#anchor4" target="_self"> 时尚达人：美国第一夫人杰奎琳</a></li>
+                            
+                                <li>·<a title="盘点美国第一夫人之最" href="#anchor5" target="_self"> 盘点美国第一夫人之最</a></li>
+                            
+                                <li>·<a title="美国历任第一夫人都做过些什么？" href="#anchor6" target="_self"> 美国历任第一夫人都做过些什么？</a></li>
+                            
+                    </ul>
+                    <div class="guideOpen">展开&darr;</div>
+                </div>
+            </div>
+
+            <div class="guideFllow">
+                <div class="guideFllowBorder">
+                    <div class="guideFllowTitle">导读（目录）</div>
+                    <ul id="guideFllowDisplay">
+                        
+                                <li>·<a title="美国第一夫人名单" href="#anchor1" target="_self"> 美国第一夫人名单</a></li>
+                            
+                                <li>·<a title="美国第一夫人肖像" href="#anchor2" target="_self"> 美国第一夫人肖像</a></li>
+                            
+                                <li>·<a title="仅仅是个花瓶：美国第一夫人梅拉尼娅" href="#anchor3" target="_self"> 仅仅是个花瓶：美国第一夫人梅拉尼娅</a></li>
+                            
+                                <li>·<a title="时尚达人：美国第一夫人杰奎琳" href="#anchor4" target="_self"> 时尚达人：美国第一夫人杰奎琳</a></li>
+                            
+                                <li>·<a title="盘点美国第一夫人之最" href="#anchor5" target="_self"> 盘点美国第一夫人之最</a></li>
+                            
+                                <li>·<a title="美国历任第一夫人都做过些什么？" href="#anchor6" target="_self"> 美国历任第一夫人都做过些什么？</a></li>
+                            
+                    </ul>
+                    <div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div>
+                </div>
+            </div>
+
+
+            <div class="gg2">
+                <a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a>
+            </div>
+        </div>
+        
+        <a name="anchor1"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        美国第一夫人名单</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p>
+	<style type="text/css">
+table tr:hover{background-color: #f5f5f5;}	</style>
+</p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width:95%;">
+	<tbody>
+		<tr>
+			<th>
+				<a href="http://114.xixik.com/flotus/" style="color:#000" title="美国第一夫人">美国第一夫人</a>姓名</th>
+			<th width="120">
+				出生日期</th>
+			<th width="120">
+				结婚日期</th>
+			<th>
+				<strong>时任<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a></strong></th>
+			<th width="120">
+				任期开始日期</th>
+			<th width="120">
+				任期结束日期</th>
+			<th width="120">
+				逝世日期</th>
+		</tr>
+		<tr>
+			<td>
+				玛莎&middot;华盛顿</td>
+			<td>
+				1731年6月2日</td>
+			<td>
+				1759年1月6日</td>
+			<td>
+				乔治&middot;华盛顿</td>
+			<td>
+				1789年4月30日</td>
+			<td>
+				1797年03月04日</td>
+			<td>
+				1802年05月22日</td>
+		</tr>
+		<tr>
+			<td>
+				艾碧该&middot;亚当斯</td>
+			<td>
+				1744年11月11日</td>
+			<td>
+				1764年10月25日</td>
+			<td>
+				约翰&middot;亚当斯</td>
+			<td>
+				1797年03月04日</td>
+			<td>
+				1801年03月04日</td>
+			<td>
+				1818年10月28日</td>
+		</tr>
+		<tr>
+			<td>
+				玛莎&middot;杰斐逊&middot;兰道夫</td>
+			<td>
+				1772年9月27日</td>
+			<td>
+				　</td>
+			<td>
+				托马斯&middot;杰斐逊*<br />
+				　　（父亲）</td>
+			<td>
+				1801年03月04日</td>
+			<td>
+				1809年03月04日</td>
+			<td>
+				1836年10月10日</td>
+		</tr>
+		<tr>
+			<td>
+				多莉&middot;麦迪逊</td>
+			<td>
+				1768年5月20日</td>
+			<td>
+				1794年9月14日</td>
+			<td>
+				詹姆斯&middot;麦迪逊</td>
+			<td>
+				1809年03月04日</td>
+			<td>
+				1817年03月04日</td>
+			<td>
+				1849年07月12日</td>
+		</tr>
+		<tr>
+			<td>
+				伊丽莎白&middot;门罗</td>
+			<td>
+				1768年6月30日</td>
+			<td>
+				1786年2月16日</td>
+			<td>
+				詹姆斯&middot;门罗</td>
+			<td>
+				1817年03月04日</td>
+			<td>
+				1825年03月04日</td>
+			<td>
+				1830年09月23日</td>
+		</tr>
+		<tr>
+			<td>
+				路易莎&middot;亚当斯</td>
+			<td>
+				1775年2月12日</td>
+			<td>
+				1797年7月26日</td>
+			<td>
+				约翰&middot;昆西&middot;亚当斯</td>
+			<td>
+				1825年03月04日</td>
+			<td>
+				1829年03月04日</td>
+			<td>
+				1852年05月15日</td>
+		</tr>
+		<tr>
+			<td>
+				艾米丽&middot;多内尔森</td>
+			<td>
+				1807年6月1日</td>
+			<td>
+				　</td>
+			<td>
+				安德鲁&middot;杰克逊*<br />
+				　　（叔叔）</td>
+			<td>
+				1829年03月04日</td>
+			<td>
+				1836年12月19日</td>
+			<td>
+				1836年12月19日</td>
+		</tr>
+		<tr>
+			<td>
+				莎拉&middot;约克&middot;杰克逊</td>
+			<td>
+				1803年7月16日</td>
+			<td>
+				　</td>
+			<td>
+				安德鲁&middot;杰克逊*<br />
+				　　（公公）</td>
+			<td>
+				1834年11月26日</td>
+			<td>
+				1837年03月04日</td>
+			<td>
+				1887年8月23日</td>
+		</tr>
+		<tr>
+			<td>
+				安杰莉卡&middot;辛格顿&middot;范布伦</td>
+			<td>
+				1818年2月13日（本姓辛格顿）</td>
+			<td>
+				　</td>
+			<td>
+				马丁&middot;范布伦*<br />
+				　　（公公）</td>
+			<td>
+				1839年01月01日</td>
+			<td>
+				1841年03月04日</td>
+			<td>
+				1877年12月29日</td>
+		</tr>
+		<tr>
+			<td>
+				安娜&middot;哈里森</td>
+			<td>
+				1775年7月25日</td>
+			<td>
+				1795年11月22日</td>
+			<td>
+				威廉&middot;亨利&middot;哈里森</td>
+			<td>
+				1841年03月04日</td>
+			<td>
+				1841年04月04日</td>
+			<td>
+				1864年02月25日</td>
+		</tr>
+		<tr>
+			<td>
+				莱蒂茨亚&middot;克丽斯蒂恩&middot;泰勒</td>
+			<td>
+				1790年11月12日</td>
+			<td>
+				1813年3月29日</td>
+			<td>
+				约翰&middot;泰勒</td>
+			<td>
+				1841年04月04日</td>
+			<td>
+				1842年09月10日</td>
+			<td>
+				1842年09月10日</td>
+		</tr>
+		<tr>
+			<td>
+				普丽西拉&middot;库珀&middot;泰勒</td>
+			<td>
+				1816年6月14日</td>
+			<td>
+				　</td>
+			<td>
+				约翰&middot;泰勒*<br />
+				　　（公公）</td>
+			<td>
+				1842年09月10日</td>
+			<td>
+				1844年06月26日</td>
+			<td>
+				1889年12月29日</td>
+		</tr>
+		<tr>
+			<td>
+				朱丽娅&middot;加德纳&middot;泰勒</td>
+			<td>
+				1820年5月17日</td>
+			<td>
+				1844年6月26日</td>
+			<td>
+				约翰&middot;泰勒</td>
+			<td>
+				1844年06月26日</td>
+			<td>
+				1845年03月04日</td>
+			<td>
+				1889年07月10日</td>
+		</tr>
+		<tr>
+			<td>
+				莎拉&middot;查尔德瑞斯&middot;波尔克</td>
+			<td>
+				1803年9月4日</td>
+			<td>
+				1824年1月1日</td>
+			<td>
+				詹姆斯&middot;诺克斯&middot;波尔克</td>
+			<td>
+				1845年03月04日</td>
+			<td>
+				1849年03月04日</td>
+			<td>
+				1891年08月14日</td>
+		</tr>
+		<tr>
+			<td>
+				玛格丽特&middot;泰勒</td>
+			<td>
+				1788年9月21日</td>
+			<td>
+				1810年6月21日</td>
+			<td>
+				扎卡里&middot;泰勒</td>
+			<td>
+				1849年03月04日</td>
+			<td>
+				1850年07月09日</td>
+			<td>
+				1852年08月14日</td>
+		</tr>
+		<tr>
+			<td>
+				阿碧盖尔&middot;菲尔莫尔</td>
+			<td>
+				1798年3月13日</td>
+			<td>
+				1826年2月5日</td>
+			<td>
+				米勒德&middot;菲尔莫尔</td>
+			<td>
+				1850年07月09日</td>
+			<td>
+				1853年03月04日</td>
+			<td>
+				1853年03月30日</td>
+		</tr>
+		<tr>
+			<td>
+				简&middot;皮尔斯</td>
+			<td>
+				1806年3月12日</td>
+			<td>
+				1834年11月19日</td>
+			<td>
+				富兰克林&middot;皮尔斯</td>
+			<td>
+				1853年03月04日</td>
+			<td>
+				1857年03月04日</td>
+			<td>
+				1863年12月02日</td>
+		</tr>
+		<tr>
+			<td>
+				哈丽特&middot;莱恩</td>
+			<td>
+				1830年5月9日</td>
+			<td>
+				　</td>
+			<td>
+				詹姆斯&middot;布坎南*<br />
+				　　（叔叔）</td>
+			<td>
+				1857年03月04日</td>
+			<td>
+				1861年03月04日</td>
+			<td>
+				1903年07月03日</td>
+		</tr>
+		<tr>
+			<td>
+				玛丽&middot;林肯</td>
+			<td>
+				1818年12月13日</td>
+			<td>
+				1842年11月4日</td>
+			<td>
+				亚伯拉罕&middot;林肯</td>
+			<td>
+				1861年03月04日</td>
+			<td>
+				1865年04月15日</td>
+			<td>
+				1882年07月16日</td>
+		</tr>
+		<tr>
+			<td>
+				艾丽莎&middot;麦卡德&middot;约翰逊</td>
+			<td>
+				1810年10月4日</td>
+			<td>
+				1827年5月17日</td>
+			<td>
+				安德鲁&middot;约翰逊</td>
+			<td>
+				1865年04月15日</td>
+			<td>
+				1869年03月4日</td>
+			<td>
+				1876年01月15日</td>
+		</tr>
+		<tr>
+			<td>
+				朱丽娅&middot;格兰特</td>
+			<td>
+				1826年1月26日</td>
+			<td>
+				1848年8月22日</td>
+			<td>
+				尤利西斯&middot;辛普森&middot;格兰特</td>
+			<td>
+				1869年03月04日</td>
+			<td>
+				1877年03月4日</td>
+			<td>
+				1902年12月14日</td>
+		</tr>
+		<tr>
+			<td>
+				露西&middot;韦伯&middot;海斯</td>
+			<td>
+				1831年8月28日</td>
+			<td>
+				1852年12月30日</td>
+			<td>
+				拉瑟福德&middot;伯查德&middot;海斯</td>
+			<td>
+				1877年03月04日</td>
+			<td>
+				1881年03月4日</td>
+			<td>
+				1889年6月25日</td>
+		</tr>
+		<tr>
+			<td>
+				卢克丽霞&middot;加菲尔德</td>
+			<td>
+				1832年4月19日</td>
+			<td>
+				1858年11月11日</td>
+			<td>
+				詹姆斯&middot;艾布拉姆&middot;加菲尔德</td>
+			<td>
+				1881年03月04日</td>
+			<td>
+				1881年09月19日</td>
+			<td>
+				1918年3月14日</td>
+		</tr>
+		<tr>
+			<td>
+				玛丽&middot;亚瑟&middot;麦克罗伊</td>
+			<td>
+				1841年7月5日</td>
+			<td>
+				　</td>
+			<td>
+				切斯特&middot;艾伦&middot;阿瑟*<br />
+				　　（哥哥）</td>
+			<td>
+				1881年09月19日</td>
+			<td>
+				1885年03月04日</td>
+			<td>
+				1917年1月8日</td>
+		</tr>
+		<tr>
+			<td>
+				罗丝&middot;克利夫兰</td>
+			<td>
+				1846年6月13日</td>
+			<td>
+				　</td>
+			<td>
+				格罗弗&middot;克利夫兰*<br />
+				　　（哥哥）</td>
+			<td>
+				1885年03月04日</td>
+			<td>
+				1886年06月02日</td>
+			<td>
+				1918年11月22日</td>
+		</tr>
+		<tr>
+			<td>
+				弗朗西斯&middot;富尔森&middot;克利夫兰&middot;普莱斯顿</td>
+			<td>
+				1864年7月21日</td>
+			<td>
+				1886年6月2日</td>
+			<td>
+				格罗弗&middot;克利夫兰</td>
+			<td>
+				1886年06月02日</td>
+			<td>
+				1889年03月04日</td>
+			<td>
+				1947年10月29日</td>
+		</tr>
+		<tr>
+			<td>
+				卡罗琳&middot;哈里森</td>
+			<td>
+				1832年10月1日</td>
+			<td>
+				1853年10月20日</td>
+			<td>
+				本杰明&middot;哈里森</td>
+			<td>
+				1889年03月04日</td>
+			<td>
+				1892年10月25日</td>
+			<td>
+				1892年10月25日</td>
+		</tr>
+		<tr>
+			<td>
+				玛丽&middot;哈里森&middot;麦基</td>
+			<td>
+				1858年4月3日</td>
+			<td>
+				　</td>
+			<td>
+				本杰明&middot;哈里森*<br />
+				　　（父亲）</td>
+			<td>
+				1892年10月25日</td>
+			<td>
+				1893年03月04日</td>
+			<td>
+				1930年10月28日</td>
+		</tr>
+		<tr>
+			<td>
+				弗朗西斯&middot;福尔森&middot;克利夫兰&middot;普莱斯顿</td>
+			<td>
+				1864年7月21日</td>
+			<td>
+				1886年6月2日</td>
+			<td>
+				格罗弗&middot;克利夫兰</td>
+			<td>
+				1893年03月04日</td>
+			<td>
+				1897年03月04日</td>
+			<td>
+				1947年10月29日</td>
+		</tr>
+		<tr>
+			<td>
+				艾达&middot;萨克斯顿&middot;麦金利</td>
+			<td>
+				1847年6月8日</td>
+			<td>
+				1871年1月25日</td>
+			<td>
+				威廉&middot;麦金莱</td>
+			<td>
+				1897年03月04日</td>
+			<td>
+				1901年09月14日</td>
+			<td>
+				1907年05月26日</td>
+		</tr>
+		<tr>
+			<td>
+				伊迪斯&middot;罗斯福</td>
+			<td>
+				1861年8月6日</td>
+			<td>
+				1886年12月2日</td>
+			<td>
+				西奥多&middot;罗斯福</td>
+			<td>
+				1901年09月14日</td>
+			<td>
+				1909年03月4日</td>
+			<td>
+				1948年09月30日</td>
+		</tr>
+		<tr>
+			<td>
+				海伦&middot;赫伦&middot;塔夫脱</td>
+			<td>
+				1861年6月2日</td>
+			<td>
+				1886年6月19日</td>
+			<td>
+				威廉&middot;霍华德&middot;塔夫脱</td>
+			<td>
+				1909年03月04日</td>
+			<td>
+				1913年03月4日</td>
+			<td>
+				1943年05月22日</td>
+		</tr>
+		<tr>
+			<td>
+				爱伦&middot;艾克森&middot;威尔逊</td>
+			<td>
+				1860年5月15日</td>
+			<td>
+				1885年6月24日</td>
+			<td>
+				伍德罗&middot;威尔逊</td>
+			<td>
+				1913年03月04日</td>
+			<td>
+				1914年08月06日</td>
+			<td>
+				1914年08月06日</td>
+		</tr>
+		<tr>
+			<td>
+				玛格丽特&middot;伍德罗&middot;威尔逊</td>
+			<td>
+				1886年4月16日</td>
+			<td>
+				　</td>
+			<td>
+				伍德罗&middot;威尔逊*<br />
+				　　（父亲）</td>
+			<td>
+				1914年08月06日</td>
+			<td>
+				1915年12月18日</td>
+			<td>
+				1944年2月12日</td>
+		</tr>
+		<tr>
+			<td>
+				伊迪斯&middot;波琳&middot;嘉尔特&middot;威尔逊</td>
+			<td>
+				1872年10月15日</td>
+			<td>
+				1915年12月18日</td>
+			<td>
+				伍德罗&middot;威尔逊</td>
+			<td>
+				1915年12月18日</td>
+			<td>
+				1921年03月04日</td>
+			<td>
+				1961年12月28日</td>
+		</tr>
+		<tr>
+			<td>
+				弗洛伦斯&middot;哈定</td>
+			<td>
+				1860年8月15日</td>
+			<td>
+				1891年7月8日</td>
+			<td>
+				沃伦&middot;盖玛利尔&middot;哈定</td>
+			<td>
+				1921年03月4日</td>
+			<td>
+				1923年08月02日</td>
+			<td>
+				1924年11月21日</td>
+		</tr>
+		<tr>
+			<td>
+				格雷丝&middot;柯立芝</td>
+			<td>
+				1879年1月3日</td>
+			<td>
+				1905年10月4日</td>
+			<td>
+				卡尔文&middot;柯立芝</td>
+			<td>
+				1923年08月2日</td>
+			<td>
+				1929年03月04日</td>
+			<td>
+				1957年7月8日</td>
+		</tr>
+		<tr>
+			<td>
+				卢&middot;亨利&middot;胡佛</td>
+			<td>
+				1874年3月29日</td>
+			<td>
+				1899年2月10日</td>
+			<td>
+				赫伯特&middot;胡佛</td>
+			<td>
+				1929年03月4日</td>
+			<td>
+				1933年03月04日</td>
+			<td>
+				1944年01月07日</td>
+		</tr>
+		<tr>
+			<td>
+				埃莉诺&middot;罗斯福</td>
+			<td>
+				1884年10月11日</td>
+			<td>
+				1905年3月17日</td>
+			<td>
+				富兰克林&middot;德拉诺&middot;罗斯福</td>
+			<td>
+				1933年03月4日</td>
+			<td>
+				1945年04月12日</td>
+			<td>
+				1962年11月07日</td>
+		</tr>
+		<tr>
+			<td>
+				贝丝&middot;杜鲁门</td>
+			<td>
+				1885年2月13日</td>
+			<td>
+				1919年6月28日</td>
+			<td>
+				哈里&middot;S&middot;杜鲁门</td>
+			<td>
+				1945年04月12日</td>
+			<td>
+				1953年01月20日</td>
+			<td>
+				1982年10月18日</td>
+		</tr>
+		<tr>
+			<td>
+				玛米&middot;艾森豪威尔</td>
+			<td>
+				1896年11月14日</td>
+			<td>
+				1916年7月1日</td>
+			<td>
+				德怀特&middot;艾森豪威尔</td>
+			<td>
+				1953年01月20日</td>
+			<td>
+				1961年01月20日</td>
+			<td>
+				1979年11月01日</td>
+		</tr>
+		<tr>
+			<td>
+				杰奎琳&middot;肯尼迪</td>
+			<td>
+				1929年07月28日</td>
+			<td>
+				1953年9月12日</td>
+			<td>
+				约翰&middot;肯尼迪</td>
+			<td>
+				1961年01月20日</td>
+			<td>
+				1963年11月22日</td>
+			<td>
+				1994年05月19日</td>
+		</tr>
+		<tr>
+			<td>
+				小瓢虫&middot;约翰逊</td>
+			<td>
+				1912年12月22日</td>
+			<td>
+				1934年11月17日</td>
+			<td>
+				林登&middot;约翰逊</td>
+			<td>
+				1963年11月22日</td>
+			<td>
+				1969年01月20日</td>
+			<td>
+				2007年07月11日</td>
+		</tr>
+		<tr>
+			<td>
+				帕特&middot;尼克松</td>
+			<td>
+				1912年3月16日</td>
+			<td>
+				1940年6月21日</td>
+			<td>
+				理查德&middot;尼克松</td>
+			<td>
+				1969年01月20日</td>
+			<td>
+				1974年08月09日</td>
+			<td>
+				1993年06月22日</td>
+		</tr>
+		<tr>
+			<td>
+				贝蒂&middot;福特</td>
+			<td>
+				1918年4月8日</td>
+			<td>
+				1948年10月15日</td>
+			<td>
+				杰拉尔德&middot;福特</td>
+			<td>
+				1974年08月09日</td>
+			<td>
+				1977年01月20日</td>
+			<td>
+				2011年07月08日</td>
+		</tr>
+		<tr>
+			<td>
+				罗莎琳&middot;卡特</td>
+			<td>
+				1927年8月18日</td>
+			<td>
+				1946年7月7日</td>
+			<td>
+				吉米&middot;卡特</td>
+			<td>
+				1977年01月20日</td>
+			<td>
+				1981年01月20日</td>
+			<td>
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				南希&middot;里根</td>
+			<td>
+				1921年7月6日</td>
+			<td>
+				1952年3月4日</td>
+			<td>
+				罗纳德&middot;里根</td>
+			<td>
+				1981年01月20日</td>
+			<td>
+				1989年01月20日</td>
+			<td>
+				2016年03月06日</td>
+		</tr>
+		<tr>
+			<td>
+				芭芭拉&middot;<a href="http://114.xixik.com/us-president/george-walker-bush/" style="color:#000" title="布什总统">布什</a></td>
+			<td>
+				1925年6月8日</td>
+			<td>
+				1945年1月6日</td>
+			<td>
+				乔治&middot;赫伯特&middot;沃克&middot;<a href="http://114.xixik.com/us-president/george-walker-bush/" style="color:#000" title="布什总统">布什</a></td>
+			<td>
+				1989年01月20日</td>
+			<td>
+				1993年01月20日</td>
+			<td>
+				2018年04月17日</td>
+		</tr>
+		<tr>
+			<td>
+				希拉里&middot;黛安&middot;罗德姆&middot;<a href="http://114.xixik.com/us-president/bill-clinton/" style="color:#000" title="克林顿">克林顿</a></td>
+			<td>
+				1947年10月26日</td>
+			<td>
+				1975年10月11日</td>
+			<td>
+				比尔&middot;<a href="http://114.xixik.com/us-president/bill-clinton/" style="color:#000" title="克林顿">克林顿</a></td>
+			<td>
+				1993年01月20日</td>
+			<td>
+				2001年01月20日</td>
+			<td>
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				劳拉&middot;威尔士&middot;<a href="http://114.xixik.com/us-president/george-walker-bush/" style="color:#000" title="布什总统">布什</a></td>
+			<td>
+				1946年11月4日</td>
+			<td>
+				1977年11月5日</td>
+			<td>
+				乔治&middot;沃克&middot;<a href="http://114.xixik.com/us-president/george-walker-bush/" style="color:#000" title="布什总统">布什</a></td>
+			<td>
+				2001年01月20日</td>
+			<td>
+				2009年01月20日</td>
+			<td>
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				米歇尔&middot;<a href="http://114.xixik.com/us-president/obama/" style="color:#000" title="奥巴马">奥巴马</a></td>
+			<td>
+				1964年1月17日</td>
+			<td>
+				1992年10月3日</td>
+			<td>
+				贝拉克&middot;<a href="http://114.xixik.com/us-president/obama/" style="color:#000" title="奥巴马">奥巴马</a></td>
+			<td>
+				2009年01月20日</td>
+			<td>
+				2017年01月20日</td>
+			<td>
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				梅拉尼娅&middot;<a href="http://114.xixik.com/us-president/trump/" style="color:#000" title="特朗普">特朗普</a></td>
+			<td>
+				1970年4月26日</td>
+			<td>
+				2005年1月22日</td>
+			<td>
+				唐纳德&middot;<a href="http://114.xixik.com/us-president/trump/" style="color:#000" title="特朗普">特朗普</a></td>
+			<td>
+				2017年01月20日</td>
+			<td>
+				　现任</td>
+			<td>
+				　</td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/flotus/" style="color:#000" title="美国第一夫人">美国第一夫人</a>是白宫的女主人，虽然<a href="http://114.xixik.com/flotus/" style="color:#000" title="美国第一夫人">美国第一夫人</a>的角色从来没有被编纂或官方定义，但她们在国族的政治和社会生活中占据突出地位。第一夫人不需要经过选举，此身份无任何正式职责，亦无任何的薪酬或者津贴。惟她会与总统，或者代替总统出席正式仪式。从1790年代起，第一夫人的角色发生了很大的变化。它包括参与政治运动、白宫的管理、社会方面的锦标赛，以及在官方和礼仪场合代表总统。此外，多年来，<a href="http://114.xixik.com/flotus/" style="color:#000" title="美国第一夫人">美国第一夫人</a>在各个领域都有影响力，从时尚到公众舆论。</p>
+<p style="TEXT-INDENT:2em">
+	传统上，第一夫人不会保有其他工作，而且拥有下属协助工作，包括白宫社交秘书（White House Social Secretary）、幕僚长、新闻秘书、首席花艺设计师（White House Chief Floral Designer）以及白宫行政总厨（White House Executive Chef）。第一夫人办公室也负责白宫的所有的社交和礼仪活动，是<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>行政办公室的一部分。</p>
+<p style="TEXT-INDENT:2em">
+	虽然这个尊称直到很久以后才被普遍使用，但是美国第一任总统乔治&middot;华盛顿的妻子玛莎&middot;华盛顿被认为是<a href="http://114.xixik.com/flotus/" style="color:#000" title="美国第一夫人">美国第一夫人</a>。在她的一生中，她经常被称为&ldquo;华盛顿夫人&rdquo;。</p>
+<p style="TEXT-INDENT:2em">
+	从历史上来看，如果一个总统是未婚或是总统的妻子不能作为<a href="http://114.xixik.com/flotus/" style="color:#000" title="美国第一夫人">第一夫人</a>，总统通常会要求一个<a href="http://114.xixik.com/qinqi/" style="color:#000" title="亲戚">亲戚</a>或朋友作为白宫女主人，代替<a href="http://114.xixik.com/flotus/" style="color:#000" title="美国第一夫人">美国第一夫人</a>的职能。比如：美国第八任总统马丁&middot;范布伦的好帮手，从未下嫁给他的安洁丽卡&middot;范布伦；<a href="http://114.xixik.com/flotus/" style="color:#000" title="美国第一夫人">美国第一夫人</a>传统上属于<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>之妻，然而偶有例外，例如总统为单身或鳏夫，亦或总统夫人无法行使第一夫人的职责等。美国第十六任总统詹姆斯&middot;布坎南终生未婚，任内（1857-1861）其侄女哈丽雅特&middot;莱恩行使第一夫人职责。在白宫，哈丽特&middot;莱恩积极参与社交活动，包括改善儿童的生活；</p>
+<p style="TEXT-INDENT:2em">
+	根据白宫和国家第一夫人图书馆提供的信息，截止2018年5月，美国一共已经有过46位和47任<a href="http://114.xixik.com/flotus/" style="color:#000" title="美国第一夫人">第一夫人</a>，其中格罗弗&middot;克利夫兰由于分别当选第22和第24届<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>，因此他的夫人弗朗西丝&middot;福尔瑟姆&middot;克利夫兰也两次成为<a href="http://114.xixik.com/flotus/" style="color:#000" title="美国第一夫人">第一夫人</a>。2017年1月20日，唐纳德&middot;<a href="http://114.xixik.com/us-president/trump/" style="color:#000" title="特朗普">特朗普</a>宣誓就职，他的妻子梅拉妮亚&middot;<a href="http://114.xixik.com/us-president/trump/" style="color:#000" title="特朗普">特朗普</a>也取代贝拉克&middot;<a href="http://114.xixik.com/us-president/obama/" style="color:#000" title="奥巴马">奥巴马</a>的夫人米歇尔&middot;<a href="http://114.xixik.com/us-president/obama/" style="color:#000" title="奥巴马">奥巴马</a>成为第47任<a href="http://114.xixik.com/flotus/" style="color:#000" title="美国第一夫人">美国第一夫人</a>。</p>
+<p style="TEXT-INDENT:2em">
+	首任第一夫人是嫁给了乔治&middot;华盛顿的马莎&middot;华盛顿。约翰&middot;泰勒和伍德罗&middot;威尔逊两位总统在任期间都曾再娶，所以都有两任第一夫人。有四位总统的内人在她们的丈夫宣誓就职以前就已经去世，但她们仍然<strong>被白宫和国家第一夫人图书馆追认为第一夫人</strong>，她们分别是：</p>
+<p style="TEXT-INDENT:2em">
+	第3任<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>托马斯&middot;杰斐逊的妻子玛莎&middot;威尔斯&middot;斯凯尔顿&middot;杰斐逊</p>
+<p style="TEXT-INDENT:2em">
+	第7任<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>安德鲁&middot;杰克逊的妻子蕾切尔&middot;杰克逊</p>
+<p style="TEXT-INDENT:2em">
+	第8任<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>马丁&middot;范布伦的妻子汉娜&middot;范布伦</p>
+<p style="TEXT-INDENT:2em">
+	第21任<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>切斯特&middot;艾伦&middot;阿瑟的妻子爱伦&middot;刘易丝&middot;赫恩登&middot;亚瑟</p>
+<p style="TEXT-INDENT:2em">
+	2007年，美国铸币局开始发行半盎司重（合14.17克），价值10美元的金币，其反面会雕刻有<a href="http://114.xixik.com/flotus/" style="color:#000" title="美国第一夫人">第一夫人</a>的肖像。如果一位总统任内没有配偶，那么金币的正面会刻上自由女神像，这样既描绘了那个时代所流通的货币，又象征了总统生活的主题。托马斯&middot;杰斐逊、安德鲁&middot;杰克逊、马丁&middot;范布伦和詹姆斯&middot;布坎南的<a href="http://114.xixik.com/flotus/" style="color:#000" title="美国第一夫人">第一夫人</a>金币都是这样的，但切斯特&middot;艾伦&middot;阿瑟的的第一夫人金币则不是这样，其金币上刻的是妇女参政权论者艾丽斯&middot;保尔。</p>
+<p style="TEXT-INDENT:2em">
+	截止2018年05月01日，<strong>一共有四位前第一夫人仍然在世</strong>，她们分别是：</p>
+<p style="TEXT-INDENT:2em">
+	第39任<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>吉米&middot;卡特妻子罗莎琳&middot;卡特</p>
+<p style="TEXT-INDENT:2em">
+	第42任<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>比尔&middot;<a href="http://114.xixik.com/us-president/bill-clinton/" style="color:#000" title="克林顿">克林顿</a>妻子希拉里&middot;<a href="http://114.xixik.com/us-president/bill-clinton/" style="color:#000" title="克林顿">克林顿</a></p>
+<p style="TEXT-INDENT:2em">
+	第43任<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>乔治&middot;沃克&middot;<a href="http://114.xixik.com/us-president/george-walker-bush/" style="color:#000" title="布什总统">布什</a>妻子劳拉&middot;威尔士&middot;<a href="http://114.xixik.com/us-president/george-walker-bush/" style="color:#000" title="布什总统">布什</a></p>
+<p style="TEXT-INDENT:2em">
+	第44任<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>巴拉克&middot;<a href="http://114.xixik.com/us-president/obama/" style="color:#000" title="奥巴马">奥巴马</a>妻子米歇尔&middot;<a href="http://114.xixik.com/us-president/obama/" style="color:#000" title="奥巴马">奥巴马</a></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/vice-president/" style="color:#000" title="美国副总统">美国副总统</a>的妻子有时会被称为美国第二夫人（Second Lady of the United States of America，SLOTUS）。现任美国第二夫人为副总统麦克&middot;彭斯妻子凯伦&middot;彭斯。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor2"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        美国第一夫人肖像</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="text-indent: 2em;">
+	本专题罗列<a href="http://114.xixik.com/flotus/" title="美国历届总统夫人">美国历届总统夫人</a>——美国史上45位总统的第一夫人画像（照片），每位第一夫人都有自己独特的角色，只有自己才能分得清。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_a6b77d1b87c50e6e.jpg" /></p>
+<p style="text-indent: 2em;">
+	美国开国总统乔治·华盛顿的妻子玛莎·华盛顿（Martha Washington），25岁前还有过一段婚姻，抚养4个孩子。她通过婚姻向华盛顿带去很多财富。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_79f159e4f6771694.jpg" /></p>
+<p style="text-indent: 2em;">
+	美国第二任总统约翰·亚当斯（John Adams）的妻子阿比盖尔·亚当斯（Abigail Adams），美国革命战争时期曾通过许多信件向给丈夫提供了政府和政治方面的建议。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_6146ff8df51894df.jpg" style="text-indent: 2em;" />&#160; &#160;</p>
+<p style="text-indent: 2em;">
+	美国第三任总统托马斯·杰弗逊的夫人玛莎·斯格尔顿，33岁时，生完第七个孩子几个月之后就去世了。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_57c36a0d81072537.jpg" style="text-indent: 2em;" /></p>
+<p style="text-indent: 2em;">
+	美国第四位总统詹姆斯·麦迪逊的夫人多莉·麦迪逊，她有很出色的社交能力，帮助界定了“第一夫人”的角色。她的社交圈帮助麦迪逊总统更加受人们欢迎。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_544965c6ee97eb9b.jpg" style="text-indent: 2em;" /></p>
+<p style="text-indent: 2em;">
+	美国第五任总统詹姆斯·门罗的夫人伊丽莎白·科特赖特·门罗。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_19b15717450982f6.jpg" style="text-indent: 2em;" /></p>
+<p style="text-indent: 2em;">
+	美国第六任总统约翰·昆西·亚当斯的夫人露易莎·凯瑟琳·约翰逊，在特朗普的夫人之前，她是唯一出生在美国外（英国伦敦）的<a href="http://114.xixik.com/flotus/" style="color:#000" title="美国第一夫人">美国第一夫人</a>。</p>
+<p style="text-indent: 2em;">
+	<img border="1" src="http://img.xixik.net/cimg/021/xixik_926e9ad2f8dd9160.jpg" /></p>
+<p style="text-indent: 2em;">
+	美国第七任总统安德鲁杰克逊的夫人瑞秋·杰克逊。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_8f28f9f223d96142.jpg" style="text-indent: 2em;" /></p>
+<p style="text-indent: 2em;">
+	美国第八任总统马丁·范布伦的好帮手，从未下嫁给他的安洁丽卡·范布伦只是名义上的“第一夫人”。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_ef44c20e2456a025.jpg" style="text-indent: 2em;" /></p>
+<p style="text-indent: 2em;">
+	美国第九任总统威廉·亨利·哈里森的夫人安娜·哈里森。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_36a792e9136f2b9e.jpg" style="text-indent: 2em;" /></p>
+<p style="text-indent: 2em;">
+	美国第十任总统约翰·泰勒的夫人利蒂布亚·克里斯琴，她是第一个死在白宫的总统夫人。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_392b560ae932496e.jpg" style="text-indent: 2em;" /></p>
+<p style="text-indent: 2em;">
+	美国第十一任总统詹姆斯·波尔克的夫人萨拉·波尔克。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_42ecb2d71c8c3f96.jpg" style="text-indent: 2em;" /></p>
+<p style="text-indent: 2em;">
+	美国第十二任总统扎卡里·泰勒的夫人马特里特·泰勒。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_1e2b1cd0250d17fa.jpg" style="text-indent: 2em;" /></p>
+<p style="text-indent: 2em;">
+	美国第十三任总统米勒德·菲尔莫尔的夫人艾比盖尔·菲尔莫尔。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_fb24c0f287a996f5.jpg" style="text-indent: 2em;" /></p>
+<p style="text-indent: 2em;">
+	美国第十四任总统富兰克林·皮尔斯的夫人简·皮尔斯。</p>
+<p style="text-indent: 2em;">
+	&#160;</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_949c0f2f24f2d630.jpg" /></p>
+<p style="text-indent: 2em;">
+	美国第十五任总统亚伯拉罕·林肯的夫人玛丽·托德·林肯。</p>
+<p style="text-indent: 2em;">
+	&#160;</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_06905d7a8d7837af.jpg" /></p>
+<p style="text-indent: 2em;">
+	美国第十六任总统詹姆斯·布坎南终生未婚，其侄女哈丽雅特·莱恩行使第一夫人职责。</p>
+<p style="text-indent: 2em;">
+	&#160;</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_eb6acaeac0c43873.jpg" /></p>
+<p style="text-indent: 2em;">
+	美国第十七任总统安德鲁·约翰逊的夫人伊丽莎·约翰逊。</p>
+<p style="text-indent: 2em;">
+	&#160;</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_3cd053fbd5815567.jpg" /></p>
+<p style="text-indent: 2em;">
+	美国第十八任总统尤利塞斯·格兰特的夫人茱莉亚·格兰特。</p>
+<p style="text-indent: 2em;">
+	&#160;</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_acfe5addc8c3605e.jpg" /></p>
+<p style="text-indent: 2em;">
+	美国第十九任总统拉瑟福德·伯查德·海斯的夫人露西·海斯。</p>
+<p style="text-indent: 2em;">
+	&#160;</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_b03ec50bb252f1bc.jpg" /></p>
+<p style="text-indent: 2em;">
+	美国第二十任总统詹姆斯·A·加菲尔德的夫人卢克丽霞·加菲尔德。</p>
+<p style="text-indent: 2em;">
+	&#160;</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_513bcaf14f437aa3.jpg" /></p>
+<p style="text-indent: 2em;">
+	美国第二十一任总统切斯特·A·阿瑟的夫人艾伦·刘易斯·赫顿·阿瑟。</p>
+<p style="text-indent: 2em;">
+	&#160;</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_13a80b089d2c66c5.jpg" /></p>
+<p style="text-indent: 2em;">
+	美国第二十三任总统本杰明·哈里森的夫人凯瑟琳·哈里森。</p>
+<p style="text-indent: 2em;">
+	&#160;</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_a96cfce0bf74d996.jpg" /></p>
+<p style="text-indent: 2em;">
+	美国第二十二、二十四任总统格罗弗·克利夫兰的夫人弗朗西斯·福尔松·克利夫兰。</p>
+<p style="text-indent: 2em;">
+	&#160;</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_306539fb76bdb805.jpg" /></p>
+<p style="text-indent: 2em;">
+	美国第二十五任总统威廉·麦金莱的夫人艾达·萨克斯顿·麦金利。</p>
+<p style="text-indent: 2em;">
+	&#160;</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_ae7cdc2da4772372.jpg" /></p>
+<p style="text-indent: 2em;">
+	美国第二十六任总统罗斯福·西奥多·罗斯福的夫人伊迪丝·罗斯福。</p>
+<p style="text-indent: 2em;">
+	&#160;</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_f1c514ba6de56519.jpg" /></p>
+<p style="text-indent: 2em;">
+	<span style="font-family: Arial, Helvetica, 宋体;">美国第二十七任总统威廉</span>·<span style="font-family: Arial, Helvetica, 宋体;">霍华德</span>·<span style="font-family: Arial, Helvetica, 宋体;">塔夫脱的夫人海伦</span>·<span style="font-family: Arial, Helvetica, 宋体;">赫伦</span>·<span style="font-family: Arial, Helvetica, 宋体;">塔夫脱。</span></p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_454d35b4919eb012.jpg" /></p>
+<p style="text-indent: 2em;">
+	美国第二十八任总统伍德罗·威尔逊的夫人伊迪丝·宝琳·威尔逊。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_b3d321b0b11bcab1.jpg" /></p>
+<p style="text-indent: 2em;">
+	美国第二十九任总统沃伦·哈定的夫人佛罗伦斯·克林·哈丁。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_6d6cfe67e3d6fb69.jpg" /></p>
+<p style="text-indent: 2em;">
+	美国第三十任总统卡尔文·柯立芝的夫人格雷斯·柯立芝。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_b6783ca05616519e.jpg" /></p>
+<p style="text-indent: 2em;">
+	美国第三十一任总统赫伯特·克拉克·胡佛的夫人卢·亨利·胡佛。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_abc1f24f60605bbd.jpg" /></p>
+<p style="text-indent: 2em;">
+	美国第三十二任总统富兰克林·D·罗斯福的夫人埃莉诺·罗斯福。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_5001b7472323aacc.jpg" /></p>
+<p style="text-indent: 2em;">
+	美国第三十三任总统哈里·S·杜鲁门的夫人伊丽莎白·杜鲁门。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_6b7bf83f74b3aef9.jpg" /></p>
+<p style="text-indent: 2em;">
+	美国第三十四任总统德怀特·戴维·艾森豪威尔的夫人玛米·艾森豪威尔。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_c75458165901ef09.jpg" /></p>
+<p style="text-indent: 2em;">
+	<a href="http://www.xixik.com/content/22d51c22b9035a2b">美国第三十五任总统约翰·肯尼迪尔的夫人杰奎琳·肯尼迪</a>。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_b5913f038f485f5a.jpg" /></p>
+<p style="text-indent: 2em;">
+	美国第三十六任总统林登·贝恩斯·约翰逊的夫人克劳迪娅·德斯特·约翰逊。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_b9232cab3be0330a.jpg" /></p>
+<p style="text-indent: 2em;">
+	美国第三十七任总统理查德·米尔豪斯·尼克松的夫人塞尔玛·尼克松。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_77832f5ffa667361.jpg" /></p>
+<p style="text-indent: 2em;">
+	美国第三十八任总统杰拉德·福特的夫人伊丽莎白·福特。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_ff484941692a96c8.jpg" /></p>
+<p style="text-indent: 2em;">
+	美国第三十九任总统吉米·卡特的夫人埃莉诺·卡特。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_36d968fa1db56299.jpg" style="height: 423px; width: 470px;" /></p>
+<p style="text-indent: 2em;">
+	&#160;</p>
+<p style="text-indent: 2em;">
+	美国第四十任总统罗纳德·威尔逊·里根的夫人南希·里根。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_08f4076b202b796a.jpg" /></p>
+<p style="text-indent: 2em;">
+	<a href="http://www.xixik.com/content/4fbc2ca0136808be" title="美国前第一夫人、老布什夫人芭芭拉·布什去世 享年92岁">美国第四十一任总统乔治·H·W·布什的夫人芭芭拉·布什</a>。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_eb3756aa0f7d92ba.jpg" /></p>
+<p style="text-indent: 2em;">
+	<a href="http://www.xixik.com/content/5f88c6aa018e86da">美国第四十二任总统比尔·克林顿的夫人希拉里·克林顿</a>。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_267bb0511c125e58.jpg" /></p>
+<p style="text-indent: 2em;">
+	<a href="http://www.xixik.com/content/87aa441b88f22a6c">美国第四十三任总统乔治·W·布什的夫人劳拉·布什</a>。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_fab028b659dc2119.jpg" /></p>
+<p style="text-indent: 2em;">
+	<a href="http://www.xixik.com/content/3463d06de0ca9a15">美国第四十四任总统巴拉克·奥巴马的夫人米歇尔·奥巴马</a>。</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/021/xixik_86734f845fe096f9.jpg" style="width: 475px;" /></p>
+<p style="text-indent: 2em;">
+	<a href="http://www.xixik.com/content/115213ab187d31d4">美国第四十五任总统唐纳德·特朗普的夫人梅拉尼娅·特朗普</a>（梅兰妮亚,Melania Trump）。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor3"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        仅仅是个花瓶：美国第一夫人梅拉尼娅</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<strong><a href="http://news.xixik.com/zt/presidential-election-2016/" title="2016美国总统大选">2016年美国总统大选</a></strong>结果出炉，出人意料的是谁都不看好的<a href="http://114.xixik.com/us-president/trump/" style="color:#000" title="特朗普">特朗普</a>几经博弈，竟然大获全胜，这让多少经济学家，政治家都失算了，堪称政治上的黑天鹅事件。</p>
+<p style="text-indent: 2em; text-align: center;">
+	<img src="http://img.xixik.net/custom/section/flotus/xixik-9f6030ea75770a95.jpg" style="margin: 10px; float: right; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	由此特朗普的第三任妻子梅拉尼娅（梅兰妮亚，Melania Trump）成为了<a href="http://114.xixik.com/flotus/" style="color:#000" title="美国第一夫人">美国第一夫人</a>2005年<a href="http://114.xixik.com/us-president/trump/" style="color:#000" title="特朗普">特朗普</a>与梅拉尼娅结婚，婚后育有一子——巴伦。此前，伊万娜与特朗普在1977年结婚，婚后育有三个孩子——小特朗普、伊万卡和埃里克，1992年两人结束了15年的婚姻。1993年，<a href="http://114.xixik.com/us-president/trump/" style="color:#000" title="特朗普">特朗普</a>与第二任妻子玛拉结婚，婚后育有一个女儿蒂芙尼。<a href="http://www.xixik.com/content/8bce873ef365b45e" target="_blank" title="特朗普的三段婚姻，三任夫人各有特色个性鲜明">特朗普的三段婚姻，三任夫人各有特色个性鲜明</a>。</p>
+<p style="TEXT-INDENT:2em">
+	梅拉尼娅于1970年4月26日出生于东欧的斯洛文尼亚（当时属于南斯拉夫的加盟共和国）的普通家庭乡镇，父亲是车行经理人，母亲在纺织厂工作。移民美国，靠模特为生，傍大款嫁老头，2001年通过美国移民杰出人才类签证（EB-1A）获得美国绿卡，这得“多优秀”啊，她是当年斯洛文尼亚5个通过此项目进入美国的人之一，后归化为美国公民，<a href="http://www.xixik.com/content/c252a24d9449e829" style="text-indent: 2em;" title="从移民到名模到第一夫人 盘点梅拉尼娅白宫之路">从移民到公民，模特到白宫女主人，梅拉尼娅走过了漫漫长路</a>——15岁开始参与模特竞选，16岁开始自己的模特生涯，辗转于米兰巴黎时尚之都。19年前离开斯洛维尼亚，孤身一人来到美国打拼。1998年，在纽约时装周首次遇到<a href="http://114.xixik.com/us-president/trump/" style="color:#000;" title="特朗普">特朗普</a>，当时梅拉尼娅28岁，特朗普52岁。通过介入其婚姻成功小三上位，2005年，特朗普和梅拉尼娅高调结婚，当时参加他们婚礼的包括克林顿夫妇等美国政界和商界名流。</p>
+<p style="TEXT-INDENT:2em">
+	梅拉尼娅曾在简历里称自己在斯洛文尼亚卢布尔雅那大学获得了建筑学学位，但后来又被群众指出“说谎”，匆匆把这段从简历里删除。关于此特朗普给的回应是“她学过建筑”，不知道是不是跟唐骏一样把在加州理工机房待过当做学习经历了。事实上，梅拉尼娅在大学读了一年后就休学做职模去了，没有继续读完，属于肄业。和毕业于名校的上任第一夫人米歇尔比起来，梅拉尼娅在学历方面确实有些底气不足。毕竟好多人心目中的第一夫人一定得是“多读书多看报，少吃零食少睡觉”的优雅知性范儿，学历不够的话，梅拉尼娅确实吃了点儿亏。</p>
+<p style="TEXT-INDENT:2em">
+	她是继前总统约翰·亚当斯的妻子之后（1820年出任总统的约翰·亚当斯，夫人路易莎出生在英国），美国历史上第一个出生在外国的第一夫人（<a href="http://www.xixik.com/content/132a77191791390c">然而她的丈夫却反移民</a>），<a href="http://www.xixik.com/content/115213ab187d31d4" style="text-indent: 2em;">第一个拍过公开全裸照的第一夫人</a>，第一个以“第三任老婆”身份入主白宫的第一夫人，和第一个有一堆跟自己年龄差不多的继儿孙辈的第一夫人……</p>
+<p style="TEXT-INDENT:2em">
+	2016年7月18日，美国共和党全国党代会上，梅拉尼娅发表了演讲，支持自己的丈夫。表示如果她成为第一夫人，她将专注于妇女儿童福利事业，并关心教育。但在演讲之后，《<a href="http://www.latimes.com/nation/politics/trailguide/la-na-republican-convention-2016-live-melania-trump-s-rnc-speech-appears-to-1468901655-htmlstory.html">洛杉矶时报</a>》、<a href="http://www.cnn.com/2016/07/19/politics/melania-trump-michelle-obama-speech/index.html">CNN</a>、《<a href="http://www.nytimes.com/2016/07/20/us/politics/melania-trump-speech.html">纽约时报</a>》和《<a href="http://www.huffingtonpost.com/entry/melania-trump-speech-plagiarized_us_578da752e4b0a0ae97c33675">赫芬顿邮报</a>》等主流媒体却援引Twitter用户Jarrett Hill等人的发现报道说，梅兰尼娅的演讲内容与2008年8月25日奥巴马妻子米歇尔在民主党大会上的演讲内容至少在两个段落上存在雷同现象，只是删改了个别词。美国人历来对抄袭这种不诚信的行为都几乎是“零容忍”，因此这个话题瞬间占据了头条。不过没文化，老丢人是特朗普家的基因啊。</p>
+<p style="TEXT-INDENT:2em">
+	无独有偶，2018年5月，白宫发布梅拉尼娅指导小朋友上网的小册子，跟前第一夫人米歇尔2014年主导的联邦贸易委员会出版的小册子几乎是一模一样的：（<a href="https://www.consumer.ftc.gov/articles/pdf-0001-netcetera.pdf">米歇尔版本</a>，<a href="https://www.whitehouse.gov/wp-content/uploads/2018/05/Talking-with-kids-about-being-online-_2018.pdf">梅拉尼娅版本</a>）。梅拉尼娅真是米歇尔的真爱粉啊，不过也没错，她学历比她高，见识比她高，照着抄就对啦。但是对她来说，出一本指导如何防止家暴的小册子，谁与争锋？</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor4"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        时尚达人：美国第一夫人杰奎琳</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	杰奎琳·李·鲍维尔·肯尼迪·奥纳西斯（1929年7月28日－1994年5月19日），Jacqueline Lee Bouvier Kennedy Onassis，<a style="color:#000" title="美国第一夫人" href="http://114.xixik.com/flotus/">美国第一夫人</a>（任期1961年-1963年），1929年7月28日在纽约出生，美国第35任总统约翰·肯尼迪的夫人。</p>
+<p style="text-indent: 2em; text-align: center;">
+	<img src="http://img.xixik.net/custom/section/flotus/xixik-3164a36ae76aa8dc.jpg" style="height: 405px; width: 600px;" /></p>
+<p style="text-indent: 2em; text-align: center;">
+	<a href="http://www.xixik.com/content/22d51c22b9035a2b">杰奎琳曾经是20世纪60年代美国的时尚风尚标</a></p>
+<p style="TEXT-INDENT:2em">
+	杰奎琳·肯尼迪没有绝世的美貌，但她却是美国人心中最美的“第一夫人”；她不是皇室成员，但她却以高贵的气质、优雅的举止、独立的个性，赢得了世人的仰慕，其中包括法国总统戴高乐、原苏联领导人赫鲁晓夫等国家领导人。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor5"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        盘点美国第一夫人之最</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="text-indent: 2em;">
+	美国自建立总统制后首创第一夫人制度，协助总统处理妇女儿童事务，“美国第一夫人”是美国总统的支柱。由于身份和地位的特殊，“美国第一夫人”一直备受关注。截至2017年，美国历史上已经有45任“美国第一夫人”，她们大多以美国总统“贤内助”形象示人，很少直接干预政治。不过，由于她们的不同性格、不同经历，她们各自走过了不同的白宫岁月，品味了不同的后白宫生活，也留下了一段段不同风格、不同色彩的故事。</p>
+<p style="text-indent: 2em;">
+	美国历史上最大年纪担任第一夫人的是美国第九任总统威廉亨利哈里森的妻子安娜·哈里森，她65岁时候才成为第一夫人，她是有史以来扮演这个角色的最年长女性。</p>
+<p style="text-indent: 2em;">
+	安娜·哈里森还是唯一一个成为美国总统祖母的人，她的孙子本杰明哈里森成为美国第23任总统。</p>
+<p style="text-indent: 2em;">
+	美国第六任总统的妻子璐易丝·凯瑟林·约翰逊是第一位不是出生于美国本土的第一夫人，路易莎出生在英格兰。</p>
+<p style="text-indent: 2em;">
+	<strong>最受欢迎第一夫人：芭芭拉和希拉里</strong></p>
+<p style="text-indent: 2em;">
+	《华尔街日报》（WSJ）和美国全国广播公司（NBC）在2014年的一项联合民调显示（4月23至27日进行，通过对1,000位成人调查后得出相关数据），过去25年的时间里，芭芭拉（Barbara Bush）和希拉里（Hillary Clinton）当选最受美国人民敬佩的第一夫人。</p>
+<p style="text-indent: 2em;">
+	结果显示，美国前总统老布什（George H.W.Bush）的夫人芭芭拉和克林顿（Bill Clinton）的夫人希拉里，同样以27%的支持率当选为最受欢迎的第一夫人；奥巴马夫人米歇尔（Michelle Obama）的支持率为24%，小布什（George W.Bush）的夫人劳拉（Laura Bush）的支持率则为17%。此外，在民主党内，米歇尔获得了42%的支持率，希拉里的支持率为39%；8%的共和党人士视两位为最喜爱的第一夫人。劳拉在共和党内的支持率为52%，芭芭拉则为40%；14%的民主党人士称最喜爱劳拉和芭芭拉。</p>
+<p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/flotus/xixik-1a34c9bab28defc2.jpg" style="height: 494px; width: 800px;" /></p>
+<p style="text-align: center;">
+	1997年，时任<a href="http://114.xixik.com/flotus/" title="美国第一夫人">美国第一夫人</a>希拉里·克林顿（中）与前第一夫人伯德·约翰逊夫人，芭芭拉·布什，贝蒂·福特和南希·里根一起出席了乔治·布什总统图书馆落成典礼</p>
+<p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/flotus/xixik-ba8aa4fdcf54f8ad.jpg" style="width: 90%; max-width: 90%;" /></p>
+<p style="text-align: center;">
+	2013年4月25日，小布什图书馆开张，从左至右，时任第一夫人米歇尔·奥巴马，前第一夫人劳拉·布什，希拉里·克林顿，芭芭拉·布什和罗莎琳·卡特</p>
+<p style="text-indent: 2em;">
+	<strong>最好运率直：芭芭拉·布什</strong></p>
+<p style="text-indent: 2em; text-align: center;">
+	<img src="http://img.xixik.net/custom/section/flotus/xixik-3d4cd1c96c4542aa.jpg" style="height: 936px; width: 639px;" /></p>
+<p style="text-align: center;">
+	图：1989年1月20日，老布什总统宣誓就职后和芭芭拉走过宾夕法尼亚大街前往白宫任职</p>
+<p style="text-indent: 2em;">
+	有这样一个女人，丈夫称她“直率小姐”，美国人说她运气超好；她嫁给一位总统，又生下一位总统，这个女人不是别人，就是美国前总统小布什的母亲、前第一夫人芭芭拉·布什。芭芭拉和老布什已结婚73年，两人共有6个子女，他们也是美国历史上婚姻持续时间最长的总统夫妇。</p>
+<p style="text-indent: 2em;">
+	当然，和芭芭拉一样丈夫是总统、儿子也是总统的女人美国历史上还有一位（<a href="http://www.xixik.com/content/a05c74018291954f" target="_blank" title="美国历史上两对”父子总统“：亚当斯父子布什父子">美国历史上两对”父子总统“：亚当斯父子布什父子</a>），那就是第三任总统约翰·亚当斯的妻子阿比盖尔·亚当斯（她儿子是美国第六任总统约翰·Q·亚当斯）。</p>
+<p style="text-indent: 2em;">
+	不过，在美国历任第一夫人中，芭芭拉堪称最率直的一位，说话直来直去，曾毫不客气地批评过不少人。芭芭拉说，在公众场合发言时，自己总是准备好讲稿，“如果我不事先准备讲稿，我会告诉他们自己知道的所有一切”。</p>
+<p style="text-indent: 2em; text-align: center;">
+	<img src="http://img.xixik.net/custom/section/flotus/xixik-c5e17f4c9f1cd9b8.jpg" /></p>
+<p style="text-indent: 2em; text-align: center;">
+	图：芭芭拉·布什年轻照片（真的很美）与2015年左右的近照对比</p>
+<p style="text-indent: 2em;">
+	20世纪80年代，一个女强人辈出的时代，华尔街巨子的夫人们似乎个个都不比丈夫差。作为第一夫人的芭芭拉却不在意以家庭主妇的形象出现在公众面前。她总是说：“我一辈子所做的事也就是嫁得好，生得好。”关于学位，芭芭拉直言不讳：“我甚至没有大学毕业。”她的这句话一出，与她聊天的人会顿觉轻松。</p>
+<p style="text-indent: 2em;">
+	布什家族的朋友透露，直到现在，芭芭拉仍对老布什选择了她感到有些吃惊。所以，虽然老布什对她很好，有时候也会很过分地取笑她。如果换成别的女人，这些取笑的话肯定难以忍受，芭芭拉似乎并不介意。</p>
+<p style="text-indent: 2em;">
+	但是，芭芭拉对别人就没有这么好脾气了。小布什当选<a href="http://114.xixik.com/us-president/" style="color: rgb（0, 0, 0）;" title="美国总统">美国总统</a>后，曾在不少问题上遭到各种批评，特别是他发动的伊拉克战争等等。然而，芭芭拉不无霸道地说，她不允许别人对小布什执掌美国大权指指点点，只有她可以批评小布什，其他人则不行。所以，美国媒体曾把芭芭拉称为“狮子皇后”，说她平时很少露面，一旦儿子处于某种危机，她就挺身而出为儿子辩护。</p>
+<p style="text-indent: 2em;">
+	<strong style="text-indent: 2em;">最支持民权运动：埃莉诺·罗斯福</strong></p>
+<p style="text-indent: 2em;">
+	富兰克林·罗斯福是美国历史上知名度非常大的一位总统，他1933年入主白宫，在任期间，他带领美国人赢得了第二次世界大战的胜利。他的妻子埃莉诺虽然现在的年轻人不很熟悉，但她对民权运动的积极支持给当年的人留下了深刻的印象。</p>
+<p style="text-indent: 2em;">
+	黑人的民权运动在美国历史悠久，广大黑人也为此付出了艰辛的努力。埃莉诺对民权运动十分支持，认为种族歧视是不民主的行为。埃莉诺刚成为第一夫人，就宣布自己要聘用黑人来帮忙管理家务。</p>
+<p style="text-indent: 2em; text-align: center;">
+	<img src="http://img.xixik.net/custom/section/flotus/xixik-bb6f8cc9dfe1a2e9.jpg" /></p>
+<p style="text-indent: 2em; text-align: center;">
+	图：埃莉诺和时任中国第一夫人宋美龄女士</p>
+<p style="text-indent: 2em;">
+	1938年，埃莉诺出席在伯明翰召开的南方人类福利会议。由于种族歧视，当地法律规定，黑人与白人必须分别坐在走廊的两边。当时，埃莉诺愤然向工作人员要了把椅子，不顾四周白人的惊愕表情，毅然坐在走廊上以表示自己的不满。</p>
+<p style="text-indent: 2em;">
+	二战期间，埃莉诺多次强调民权问题的重要性，她曾经反复指出，如果没有非洲裔美国人的民主，那么美国就不可能有真正的民主。</p>
+<p style="text-indent: 2em;">
+	由于对民权运动的支持，埃莉诺一度遭到了不少很不友好的威胁，但她并没有因此被吓倒，反而还继续深入华盛顿的黑人聚居地进行调查。</p>
+<p style="text-indent: 2em;">
+	<strong style="text-indent: 2em;">最坚强隐忍：南希·里根</strong></p>
+<p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/flotus/xixik-42a53d1d68bd938e.jpg" /></p>
+<p style="text-align: center;">
+	1984年4月，罗纳德·里根总统和夫人南希·里根在长城。</p>
+<p style="text-indent: 2em;">
+	不管美国人如何评价前总统里根，有一点可以肯定的是，他与夫人南希半世纪的恩爱婚姻是美国人心中一道不可多得的风景。</p>
+<p style="text-indent: 2em;">
+	无论是在好莱坞还是在白宫，里根和妻子南希不离不弃，风雨同舟，携手走过了50多个春秋，他们这段爱情为很多美国人推崇。而里根在与阿尔茨海默氏症（俗称老年痴呆症）抗争的日子里，南希更是悉心照料、默默奉献。</p>
+<p style="text-indent: 2em;">
+	值得一提的是，在患老年性痴呆症的日子里，里根并没有少过一个生日和重大节日，因为南茜总是精心为他设计，代替他与公众见面，希望他能分享生日和节日的欢乐。</p>
+<p style="text-indent: 2em;">
+	2002年是里根夫妇金婚之年（结婚50周年），当被问及两人幸福婚姻的秘诀时，南希表示：“婚姻不可能实现真正平等，其中一方总要付出更多和学会妥协。这50年来，我们就一直在实践着这种付出和妥协。”</p>
+<p style="text-indent: 2em;">
+	此外，自里根患老年性痴呆症以来，南希一直在运用自己的影响促进胚胎干细胞研究，因为这些研究可能为早老性痴呆症提供治疗方案。虽然她也知道，里根本人来不及从研究成果中受益，但她始终积极地推动建立相关研究基金。</p>
+<p style="text-indent: 2em;">
+	<strong>最低调贤惠：劳拉·布什</strong></p>
+<p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/flotus/xixik-ecddad59bd595fca.jpg" /></p>
+<div style="text-align: center;">
+	2001年1月20日，首次当上美国总统的小布什和夫人劳拉在就职游行中向观众致意。</div>
+<p style="text-indent: 2em;">
+	相比起很多位第一夫人，美国总统小布什的妻子劳拉极为低调，也很贤惠。她不愿意过多干预政治，更不愿意成为大众瞩目的焦点，但是她又时刻令自己充满魅力。</p>
+<p style="text-indent: 2em;">
+	劳拉和小布什的性格差异非常大——<a href="http://www.xixik.com/content/9e294d1e8155be8a">劳拉喜欢读书</a>，喜欢小动物，也喜欢自己一个人安静地呆在某个固定的地方。而小布什是一个极爱言语的人，他可以滔滔不绝地对一个人专注地讲某件事情。</p>
+<p style="text-indent: 2em;">
+	但是，正如劳拉所说的一样，她与小布什是互补的一对。年轻的时候，她用她的耐心与真爱感化了这位曾流连于灯红酒绿的花花公子，以她的贤惠与温柔使丈夫戒掉了嗜酒的恶习。</p>
+<p style="text-indent: 2em;">
+	丈夫从政之后，劳拉始终保持着自己的低调，不愿过多参加公众活动，而将大部分精力投入家庭生活。结婚的时候，她曾亲口对布什说，不愿在公开场合代表他作政治性发言。</p>
+<p style="text-indent: 2em;">
+	但她更是一个尊重家庭、以丈夫为中心的妻子，当小布什决心竞选总统时，她开始在背后鼎力协助，并在恰当的时机亮相，凭借自己的魅力征服许多选民，帮助丈夫赢得总统大选。不过，在整个过程中，劳拉把握着得体的“度”，她不想成为聚焦的中心，她深深明白，要当总统的是她的丈夫而不是她。</p>
+<p style="text-indent: 2em;">
+	在白宫的日子里，劳拉继续着贤妻良母的角色，与此同时，她也在许多事情上坚持着自己的鲜明个性。虽然人们喜欢拿她和她的婆婆、前第一夫人芭芭拉相比，但有媒体评价说，劳拉就是劳拉，她是独一无二的。</p>
+<p style="text-indent: 2em;">
+	<strong>最善利用信息：伊迪丝·罗斯福</strong></p>
+<p style="text-indent: 2em;">
+	在西奥多·罗斯福总统时期，他的夫人伊迪丝是一位很擅长外交、也很善于抓住和利用各种信息的女士，她一直与政界和外交界人士保持亲密的朋友关系。而且，有评价甚至认为，正是她与英国外交官斯普林·里斯的友情，改变了美国的一段历史。</p>
+<p style="text-indent: 2em;">
+	西奥多·罗斯福当政时期，正值1904年日俄战争爆发之际，国力日趋强盛的美国正蠢蠢欲动：一方面，美国希望传统强国俄国的国力受到削弱，但另一方面，它又担心后起的日本会威胁自己在太平洋地区的利益。</p>
+<p style="text-indent: 2em;">
+	因此，西奥多·罗斯福总统急需了解有关俄国的情况，而此时里斯恰好被派到英国驻俄使馆任职。如果<a href="http://114.xixik.com/us-president/" style="color: rgb（0, 0, 0）;" title="美国总统">美国总统</a>与英国驻俄外交官直接联系，显然不合适也不合情理。</p>
+<p style="text-indent: 2em;">
+	但有意思的是，伊迪丝与里斯私交不错，他们一直保持通信联系。所以，通过这些私人通信，里斯不知不觉中给伊迪丝透露了很多有关俄国的内幕，而这些信息正是西奥多·罗斯福所求之不得的。</p>
+<p style="text-indent: 2em;">
+	<strong>最有政治抱负：希拉里·克林顿</strong></p>
+<p style="text-indent: 2em; text-align: center;">
+	<img src="http://img.xixik.net/custom/section/flotus/xixik-1a926f206a67ec0d.jpg" style="height: 465px; width: 600px;" /></p>
+<p style="text-indent: 2em; text-align: center;">
+	<a href="http://www.xixik.com/content/4cf7535158f66cfb">希拉里和克林顿</a></p>
+<p style="text-indent: 2em;">
+	在当第一夫人的时候，希拉里曾经遭遇了莫大的挫折和痛苦，因为克林顿沾花惹草，<a href="http://www.xixik.com/content/e0cd0ced286cb599">还闹出了沸沸扬扬的“性丑闻”</a>。但是，尽管如此，在处理<a href="http://www.xixik.com/content/18675a74e01c8a20">克林顿“性丑闻”事件</a>中，希拉里自始至终力保克林顿，为自己博得了不少同情分和政治分。有媒体评论，她的表现符合各个阶层的要求，充分显示了她个人的政治魅力。</p>
+<p style="text-indent: 2em;">
+	2000年，希拉里在纽约州联邦参议员选举中胜出，成为该州历史上第一位女性联邦参议员，更成为历史上第一位拥有公职的第一夫人，并在6年任期满后以大幅度的领先优势获得连任。希拉里工作非常努力。当时很多人早就预言，希拉里是个很有上进心、并孜孜追求政治抱负的女人，参议员的职位不是她的“终极目标”。</p>
+<p style="text-indent: 2em;">
+	希拉里于2008年美国总统选举中，首度参与美国民主党总统初选。虽然希拉里领先对手伊利诺伊州联邦参议员贝拉克·奥巴马27万张民选得票，但最终在超级代表制度票数败给对手。虽然她并非首位参与联邦总统大选的女候选人，但却被普遍认为是历史上第一位的确很有可能当选的。最后奥巴马成功当选后，提名她出任国务卿，并最终成为美国历史上的第3位女国务卿，成为2011年和2013年美国最受欢迎的政治人物。</p>
+<p style="text-indent: 2em;">
+	在<strong><a href="http://news.xixik.com/zt/presidential-election-2016/" title="2016美国总统大选">2016年美国总统选举</a></strong>中，希拉里卷土重来，并于美国民主党总统初选中胜出。2016年7月28日，希拉里正式获得民主党总统候选人提名，成为美国大选历史上首位获得主要政党提名的女性。在同年年底的美国总统大选中，<a href="http://www.xixik.com/content/97c205ff222de368" title="希拉里普选票超特朗普200万却输在选举人票">虽然她领先对手共和党总统候选人唐纳德·特朗普近三百万张民选得票</a>，但最终在选举人团制度票数败给对手，与“美国首位女总统”失之交臂。希拉里是美国历史上第五位赢得普选但输掉选举的总统候选人，也是迄今普选领先优势最大的败选总统候选人。</p>
+<p style="text-indent: 2em;">
+	<strong>最饱受争议：杰奎琳·肯尼迪</strong></p>
+<p style="text-indent: 2em; text-align: center;">
+	<strong><img src="http://img.xixik.net/custom/section/flotus/xixik-7af070820f8db3d4.jpg" /></strong></p>
+<p style="text-indent: 2em; text-align: center;">
+	约翰·肯尼迪和杰奎琳·肯尼迪</p>
+<p style="text-indent: 2em;">
+	在美国众多第一夫人中，<a href="http://www.xixik.com/content/e1ab0e4abf05a0fb">杰奎琳·肯尼迪或许是最饱受争议的一位</a>。她的漂亮和时尚曾经备受追捧，她在<a href="http://www.xixik.com/content/9f156a7ef876a40a">肯尼迪遇刺</a>后的表现也曾受到认可，但<a href="http://www.xixik.com/content/3ac42a05642a6679">她后来的经历也遭到美国人议论</a>。</p>
+<p style="text-indent: 2em;">
+	1953年，年轻的杰奎琳嫁给了美国一位雄心勃勃的年轻政治家，他的名字叫约翰·肯尼迪。婚后，两人过着甜蜜而浪漫的生活，是朋友们羡慕不已的一对。<a href="http://www.xixik.com/content/8c5b804390e8da28">肯尼迪曾偷偷地向妻子发誓：总有一天会让她当上美国的第一夫人</a>。</p>
+<p style="text-indent: 2em;">
+	后来，这个诺言真的实现了。但是，从小被母亲灌输“夫贵妻荣”思想的杰奎琳，虽已成了<a href="http://114.xixik.com/flotus/" style="color: rgb（0, 0, 0）;" title="美国第一夫人">美国第一夫人</a>，但对物质的追求却永远不满足。在她看来，生活就是占有，被爱就是得到，漂亮就是打扮。<a href="http://www.xixik.com/content/6c8eb8273b8464e8">她深谙穿衣之道，曾经是20世纪60年代美国的时尚风尚标</a>。</p>
+<p style="text-indent: 2em;">
+	1963年11月22日，<a href="http://www.xixik.com/content/e8859eb000eb6eca">肯尼迪总统在访问达拉斯时遇刺</a>，倒在了当时身穿粉红色衣裳的杰奎琳身上。这突如其来的打击并没有把杰奎琳击垮，她强忍着悲痛，在丈夫死后99分钟参加了在“空军一号”上举行的新总统约翰逊的宣誓就任仪式。</p>
+<p style="text-indent: 2em;">
+	一本有关肯尼迪家族的书透露说，在肯尼迪遇刺身亡后，杰奎琳曾一度陷入极度绝望之中，甚至还产生过轻生的念头。但是，这位思想现实的女人很快就忘却了一切烦恼，<a href="http://www.xixik.com/content/861f70cd15d83085" title="名人婚恋：肯尼迪遗孀杰奎琳与希腊船王的罗曼史">投入了另外一个有钱人的怀抱，他就是当时世界首富——希腊船王欧内西斯·阿里斯托特</a>。</p>
+<p style="text-indent: 2em;">
+	当时，整个世界都惊呆了。美国人普遍产生一种被欺骗、被愚弄的感觉。可是，国人的嘲弄，家族的反对，杰奎琳那时都已置之度外。</p>
+<p style="text-indent: 2em;">
+	晚年的杰奎琳患了淋巴癌，久治不愈，1994年5月去世。当人们打开她的遗嘱时，不禁再次大吃一惊，她竟拥有那么多的财富！其中许多都是阿里斯托特赠予的。但阿里斯托特生前曾公开承认，娶了挥霍无度的杰奎琳是他此生所犯的最大错误。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor6"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        美国历任第一夫人都做过些什么？</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/flotus/" style="color:#000" title="美国第一夫人">美国第一夫人</a>在某个领域发光发热已经是常态了，就比如参加<a href="http://news.xixik.com/zt/presidential-election-2016/">2016年美国总统大选</a>的希拉里，他就是<a href="http://114.xixik.com/us-president/bill-clinton/" style="color:#000" title="克林顿">克林顿</a>的夫人，在<a href="http://114.xixik.com/us-president/bill-clinton/" style="color:#000" title="克林顿">克林顿</a>执政时期，希拉里作为第一夫人活跃于推动美国的医疗改革，当然，还有那些不愿意抛头露面的第一夫人，她们也并非默默无闻，颇有业绩哦。</p>
+<p style="TEXT-INDENT:2em">
+	现任<a href="http://114.xixik.com/flotus/" style="color:#000" title="美国第一夫人">美国第一夫人</a>梅拉尼娅在其丈夫竞选期间的参与度并不高，毕竟文化比较低，也是图样。她曾表示自己将特别关注未成年人网络霸凌问题，然而主要任务是陪小儿子读书。<a href="http://114.xixik.com/us-president/trump/" style="color:#000" title="特朗普">特朗普</a>的女儿伊万卡先期扮演“第一夫人”的角色。伊万卡在<a href="http://114.xixik.com/us-president/trump/" style="color:#000" title="特朗普">特朗普</a>过渡团队中处于核心地位，曾公开表示自己将致力于推动与气候变化有关的政策。</p>
+<p style="TEXT-INDENT:2em">
+	美国前总统奥巴马的夫人米歇尔一贯倡导健身和健康饮食，为消除儿童肥胖现象创建了“让我们动起来”（Let’s Move）运动。<a href="http://www.xixik.com/content/b1b8e41d825d2471">她</a><a href="http://www.xixik.com/content/b1b8e41d825d2471">在白宫后花园中种菜，当然不是纯粹因为乐趣</a>。从开辟、下种、耕耘、收获，后花园的蔬菜种植从始至终都有孩子们参与其中。希望通过身体力行的公益方式，推动美国人的饮食健康。此外，米歇尔还致力于全球儿童的教育事业。</p>
+<p style="TEXT-INDENT:2em">
+	美国前总统老布什的夫人芭芭拉在作为第一夫人时致力于提高全国儿童的读写能力，她希望通过推广阅读和学习活动完善教师培训、支持教育创新，对低年级学生尤为重视。在阿富汗和伊拉克战争爆发后，芭芭拉还把对教育的支持扩展到了国际领域。</p>
+<p style="TEXT-INDENT:2em">
+	美国前总统罗纳德·里根的夫人南希·里根对非法使用毒品的问题发起了“只要说不”（Just Say No）行动。里根在任期间通过了南希大力推动的《全国反毒品改革法》，为吸毒和持有毒品设定了量刑标准。</p>
+<p style="TEXT-INDENT:2em">
+	美国前总统卡特的妻子罗莎琳·卡特的精力主要集中在心理健康领域，她利用自己第一夫人的身份致力于提高人们对心理疾病的重视。在她的努力下，多项推动改善心理健康治疗机构的法案得到了通过。</p>
+<p style="TEXT-INDENT:2em">
+	美国前总统福特的夫人贝蒂·福特作为第一夫人的“事业”包括公开捍卫性别平等、同性恋权益、流产自由和大麻消费等。不过，贝蒂也因沉湎于药品和酒精而“名声在外”。</p>
+<p style="TEXT-INDENT:2em">
+	美国前总统尼克松的夫人帕特·尼克松则把丈夫的事业放在一切的首位，她是尼克松的得力助手，并致力于最底层民众的社会救助工作。她还是国内外教育事业的极力拥护者。</p>
+<p style="TEXT-INDENT:2em">
+	美国前总统约翰逊的夫人克劳迪娅·阿尔塔·泰勒·约翰逊致力于环保事业，并推动通过了“高速公路美化工程”议案。作为环保主义的先驱人物，她将华盛顿打造成了一个自然花园，拆除了很多碍眼的广告板。</p>
+<p style="TEXT-INDENT:2em">
+	美国前总统肯尼迪的夫人杰奎琳·肯尼迪为维护白宫具有历史意义的家具筹集款项，另外还组织文化活动，表彰美国诗人、作家和经典音乐家。</p>
+<p style="TEXT-INDENT:2em">
+	美国前总统罗斯福第一夫人埃莉诺·罗斯福引导人们关心受大萧条（Great Depression）影响的美国人所处的经济困境。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+    </div>
+    <script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        var value = '174';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script>
+    <div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/flotus/" target="_self" title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a></div>
+    <ul style="width: 960px; margin: auto; overflow: hidden;">
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/lixi/"
+                title="人民币存款利率表，2019银行利息，银行存款利率，银行贷款利率">银行存款利息</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chaodai/zhou/"
+                title="周朝历史_西周历史_东周历史_周朝帝王列表">周朝历史</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证_中国旅行证更换新政策_美宝中国旅行证过期了该怎么办？">中国旅行证</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国历任总统名单_美国历届总统任期_美国总统简历生卒年份及所属党派">美国历届总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/baijiaxing-qq/"
+                title="百家姓qq头像,百家姓qq头像闪图大全_百家姓中国心qq头像">百家姓QQ头像</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="美宝证件_美宝需要哪些证件（美国出生纸_中国旅行证_美国护照_社会安全号_出生纸三级认证）">美宝需要哪些证件？</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_去美国生孩子费用预算清单2019">赴美生子要多少钱</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/obama/"
+                title="奥巴马_美国总统奥巴马_贝拉克·奥巴马(Barack Hussein Obama)_第44任美国总统">奥巴马</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/trump/"
+                title="美国总统特朗普_唐纳德·约翰·特朗普_Donald John Trump_第45任美国总统川普">特朗普</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_去美国生孩子要多少钱？">赴美生子费用</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 中国护照免签证国家2019">中国护照免签证</a> </li>
+        
+    </ul>
+
+    <div class="lindBox">
+        <div class="btnGray">
+            <div class="btnText">
+                <a target="_self" title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady" href="http://news.xixik.com/word/174/">另存为<br />
+                    Word格式</a>
+            </div>
+        </div>
+    </div>
+    <div class="lindBox" style="text-align: center;">
+        <img src="http://news.xixik.com/qrcode/174/" alt="扫码手机上继续看" /><br />
+        <br />
+        <strong>用微信或者支付宝扫码在手机上继续观看<br />
+            可以保存收藏，也扫码后可以分享给好友
+        </strong>
+    </div>
+    <hr style="height: 1px; border: none; border-top: 1px dashed #999;" />
+    <script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script>
+<!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.-->
+
+</body></html>

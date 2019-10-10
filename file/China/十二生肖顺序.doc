@@ -1,0 +1,325 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>十二生肖排序 - 12生肖排序,十二生肖纪年对照表</title><link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" /><meta name="description" content="十二生肖的故事,十二生肖排序来历,12生肖对照表,生肖计算器,十二生肖的算法,十二生肖分别是：子鼠、丑牛、寅虎、卯兔、辰龙、巳蛇、午马、未羊、申猴、酉鸡、戌狗、亥猪。" /><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/12birthpet/"><meta http-equiv="Cache-Control" content="no-transform" /><meta http-equiv="Cache-Control" content="no-siteapp" /><base target="_blank" /><script>        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "12birthpet/";
+        }
+
+
+    </script><style>        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style></head><body><a name="top4"></a><div class="topBox" name="top"><div class="topMain"><div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div><div id="icoPhone"></div><div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div><div id="icoWechat"></div><div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a></div><div id="icoSina"></div><div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a></div><div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div><div class="topRight"></div></div></div><div id="showqrCode"><div><span></span></div><img src="" /><div><span></span></div></div><script type="text/javascript">        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script><div class="body"><div class="lindBox" style="position: relative;"><img src="http://img.xixik.net/custom/topic/001/12birthpet.jpg" alt="十二生肖排序 - 12生肖排序,十二生肖纪年对照表" /><div class="title"><h1>十二生肖排序 - 12生肖排序,十二生肖纪年对照表</h1></div></div><div class=" custom_border lindBox"><div class="special_content"><div class="content_text"><div class="content_daodu"></div><h2 style="border-bottom:1px dashed #999; displayinline;">十二生肖顺序</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--><a href="http://114.xixik.com/12birthpet/" title="十二生肖"><strong>十二生肖</strong></a>是由十一种源于自然界的动物即鼠、牛、虎、兔、蛇、马、羊、猴、鸡、狗、猪以及传说中的龙所组成，用于纪年，顺序排列为子鼠、丑牛、寅虎、卯兔、辰龙、巳蛇、午马、未羊、申猴、酉鸡、戌狗、亥猪。
+                </div></div></div><div class="lindBox" style="overflow: hidden;"><div class="gg1"><a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a></div><div class="guide"><div class="guideBorder" id="guideBorder"><div class="guideTitle">导读（目录）</div><ul id="guideDisplay"><li>·<a title="十二生肖的起源" href="#anchor1" target="_self"> 十二生肖的起源</a></li><li>·<a title="十二生肖排序的传说" href="#anchor2" target="_self"> 十二生肖排序的传说</a></li><li>·<a title="十二生肖为什么老鼠排第一？" href="#anchor3" target="_self"> 十二生肖为什么老鼠排第一？</a></li><li>·<a title="十二生肖为什么没有猫？" href="#anchor4" target="_self"> 十二生肖为什么没有猫？</a></li><li>·<a title="二十四小时和十二时辰对照表" href="#anchor5" target="_self"> 二十四小时和十二时辰对照表</a></li><li>·<a title="十二生肖属相年份排序对照表" href="#anchor6" target="_self"> 十二生肖属相年份排序对照表</a></li><li>·<a title="生肖的农历年算法" href="#anchor7" target="_self"> 生肖的农历年算法</a></li><li>·<a title="中外的生肖信仰" href="#anchor8" target="_self"> 中外的生肖信仰</a></li><li>·<a title="十二生肖在英语中的喻义" href="#anchor9" target="_self"> 十二生肖在英语中的喻义</a></li></ul><div class="guideOpen">展开&darr;</div></div></div><div class="guideFllow"><div class="guideFllowBorder"><div class="guideFllowTitle">导读（目录）</div><ul id="guideFllowDisplay"><li>·<a title="十二生肖的起源" href="#anchor1" target="_self"> 十二生肖的起源</a></li><li>·<a title="十二生肖排序的传说" href="#anchor2" target="_self"> 十二生肖排序的传说</a></li><li>·<a title="十二生肖为什么老鼠排第一？" href="#anchor3" target="_self"> 十二生肖为什么老鼠排第一？</a></li><li>·<a title="十二生肖为什么没有猫？" href="#anchor4" target="_self"> 十二生肖为什么没有猫？</a></li><li>·<a title="二十四小时和十二时辰对照表" href="#anchor5" target="_self"> 二十四小时和十二时辰对照表</a></li><li>·<a title="十二生肖属相年份排序对照表" href="#anchor6" target="_self"> 十二生肖属相年份排序对照表</a></li><li>·<a title="生肖的农历年算法" href="#anchor7" target="_self"> 生肖的农历年算法</a></li><li>·<a title="中外的生肖信仰" href="#anchor8" target="_self"> 中外的生肖信仰</a></li><li>·<a title="十二生肖在英语中的喻义" href="#anchor9" target="_self"> 十二生肖在英语中的喻义</a></li></ul><div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div></div></div><div class="gg2"><a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a></div></div><a name="anchor1"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        十二生肖的起源</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	中国的<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>起源，众说纷纭。有认为史记中黄帝“建造甲子以命岁”以及“大挠作甲子”中的“甲子”，就是指<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>。</p><p style="TEXT-INDENT:2em">	清代学者赵翼则认为生肖源于中国北方的游牧民族，《陔余丛考》中载：“盖北俗初无所谓子丑寅之十二辰，但以鼠牛虎兔之类分纪岁时，浸寻流传于中国，遂相沿不废耳。”</p><p style="TEXT-INDENT:2em">	郭沫若则认为<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>来自西方。古代巴比伦及埃及，都有相近之<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>，郭沫若认为其为中国生肖之源。</p><p style="TEXT-INDENT:2em">	生肖，又称属相或十二年兽，是中国及东亚地区的一些民族用来代表年份的十二种动物，统称为<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>，即鼠、牛、虎、兔、龙、蛇、马、羊、猴、鸡、狗、猪。它们依次与<a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十二地支">十二地支</a>（子、丑、寅、卯、辰、巳、午、未、申、酉、戌、亥）相配，形成子鼠、丑牛、寅虎、卯兔、辰龙、巳蛇、午马、未羊、申猴、酉鸡、戌狗、亥猪。每个人都以其出生年的象征动物作为生肖，所以中国民间常以生肖计算<a href="http://114.xixik.com/nianling/" style="color:#000" title="年龄">年龄</a>。循环一次为一轮。</p><p style="TEXT-INDENT:2em">	中国除了用生肖纪年外，还用与之相应的十二支纪月、纪日、纪时（时辰）。<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>（兽历）也广泛流行于亚洲诸民族及东欧和北非的某些国家之中。</p><p style="TEXT-INDENT:2em">	在中国，在相当长的历史时期内，使用的是干支纪年法，即把<a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十天干">十天干</a>（甲、乙、丙、丁、戊、己、庚、辛、壬、癸）和<a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十二地支">十二地支</a>（子、丑、寅、卯、辰、巳、午、未、申、酉、戌、亥）分别组合起来，共配成六十组，用来表示年、月、日的次序，周而复始，循环使用。</p><p style="TEXT-INDENT:2em">	长期以来，不少人将<a style="color:#000" title="东汉" href="http://114.xixik.com/chaodai/han/">东汉</a>唯物主义思想家王充的名著《论衡》视为最早记载<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>的文献。《论衡·物势》载：“寅，木也，其禽，虎也。戌，土也，其禽，犬也。……午，马也。子，鼠也。酉，鸡也。卯，兔也。……亥，豕也。未，羊也。丑，牛也。……巳，蛇也。申，猴也。”以上引文，只有十一种生肖，所缺者为龙。该书《言毒篇》又说：“辰为龙，巳为蛇，辰、巳之位在东南。这样，<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>便齐全了。</p><p style="TEXT-INDENT:2em">	《周礼·春官·冯相氏》载：“掌十有二岁，十有二月，十有二辰，十日，二十八星之位，辨其叙事，以会天位。”时间的分割以十二累进，一纪十二年，一年十二个月，一日<a href="http://114.xixik.com/12shichen/" style="color:#000" title="十二时辰">十二时辰</a>。</p><p style="TEXT-INDENT:2em">	《国语·晋语四》载：“黄帝之子二十五宗，其得姓者十四人，为十二姓。”甚至天子妻妾也有“十二女”之说。</p><p style="TEXT-INDENT:2em">	《后汉书·荀爽传》：“故天子娶十二妇，天之数也；诸侯以下各有等差，事之降也。”</p><p style="TEXT-INDENT:2em">	近年，在神农架地区发现了汉族创世史诗《黑暗传》，其中有一个讲述干支来历的故事：“开天辟地之初，玄黄骑着混沌兽遨游，遇到女娲。女娲身边有两个肉包，大肉包里有十个男子，小肉包里有十二个女子。玄黄说：‘这是天干革命地支神，来治理乾坤的。’于是，为他们分别取名，配夫妻，成阴阳。男的统称天干，女的则为地支。”这一创世神话故事，讲干支，讲玄黄神、女娲神，讲乾坤阴阳，将干支的“身世”推溯得十分久远。</p><p style="TEXT-INDENT:2em">	古代历来以天为主、地为从。<a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十天干">十天干</a>又叫十母，对应的<a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十二地支">十二地支</a>则别称十二子。<a style="color:#000" title="汉代" href="http://114.xixik.com/chaodai/han/">汉代</a>蔡邕《月令章句》：“大桡采五行之情，占斗纲所建，于是始作甲乙以名日，谓之干；作子丑以名月，谓之支。干支相配，以成六旬。”大桡是黄帝时代的大臣，这里的配成六旬，即六十甲子，取了天干十和地支十二的最小公倍数。干与支按顺序相配合，由甲子乙丑……一直排至癸亥为第六十对，正好干、支均用最末一位，再排便是重由甲子开始，这一循环称为一个甲子。其中，每个天干出现六次，每个地支出现五次。</p><table align="center" border="0" cellpadding="2" cellspacing="1" style="width: 600px; text-align: center; margin: 0px auto;"><tbody><tr><td><img src="http://img.xixik.net/custom/topic/xixik_54a28a091870f05c.jpg" />鼠</td><td><img src="http://img.xixik.net/custom/topic/xixik_50c529a1d8b56186.jpg" />牛</td><td><img src="http://img.xixik.net/custom/topic/xixik_0a0d23e565e20e73.jpg" />虎</td></tr><tr><td><img src="http://img.xixik.net/custom/topic/xixik_f8eb23cd1090f4a7.jpg" />兔</td><td><img src="http://img.xixik.net/custom/topic/xixik_3b5ebe4748793963.jpg" />龙</td><td><img src="http://img.xixik.net/custom/topic/xixik_76e5d743beae69fe.jpg" />蛇</td></tr><tr><td><img src="http://img.xixik.net/custom/topic/xixik_6a39760af7814c56.jpg" />马</td><td><img src="http://img.xixik.net/custom/topic/xixik_11dfe348e244ceca.jpg" />羊</td><td><img src="http://img.xixik.net/custom/topic/xixik_307186b0571b162e.jpg" />猴</td></tr><tr><td><img src="http://img.xixik.net/custom/topic/xixik_e57191400a1fb5c6.jpg" />鸡</td><td><img src="http://img.xixik.net/custom/topic/xixik_88bccdbf34d80759.jpg" />狗</td><td><img src="http://img.xixik.net/custom/topic/xixik_e543824e42262e28.jpg" />猪</td></tr></tbody></table><p style="text-align: center;">	&#160;&#160;&#160;十二生肖之中国民间传统手工艺</p><p style="TEXT-INDENT:2em"><a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>的产生，有着天文学的背景。在原始时代，先民们体验着寒暑交替的循环往复。</p><p style="TEXT-INDENT:2em">	宋代洪皓《松漠纪闻》载：“女真旧绝小，正朔所不及，其民皆不知纪年，问则曰‘我见青草几度矣’，盖以草一青为一岁也。”</p><p style="TEXT-INDENT:2em">	宋代孟珙《蒙鞑备录》也记：“其俗每草青为一岁，有人问其岁，则曰几草矣。”</p><p style="TEXT-INDENT:2em">	后来，又有观天者发现月亮盈亏周期可以用来丈量岁的长短，发现十二次月圆为一岁，这一发现，是初期历法最精度的成果之一，“十二”便视为传达天意的“天之大数”。天干需地支为伴，日月相对，天地相对，就非“十二”莫属了。子鼠丑牛……戌狗亥猪。天下动物很多，古人为何选择了这十二种动物为属相？</p><p style="TEXT-INDENT:2em">	清代刘献《广阳杂记》引李长卿《松霞馆赘言》：</p><p style="TEXT-INDENT:2em">	“子何以属鼠也？曰：天开于子，不耗则其气不开。鼠，耗虫也。于是夜尚未央，正鼠得令之候，故子属鼠。</p><p style="TEXT-INDENT:2em">	地辟于丑，而牛则开地之物也，故丑属牛。</p><p style="TEXT-INDENT:2em">	人生于寅，有生则有杀。杀人者，虎也，又寅者，畏也。可畏莫若虎，故寅属虎。</p><p style="TEXT-INDENT:2em">	犯者，日出之候。日本离体，而中含太阴玉兔之精，故犯属兔。</p><p style="TEXT-INDENT:2em">	辰者，三月之卦，正群龙行雨之时，故辰属龙。</p><p style="TEXT-INDENT:2em">	巳者，四月之卦，于时草茂，而蛇得其所。又，巳时蛇不上道，故属蛇。</p><p style="TEXT-INDENT:2em">	午者，阳极而一阴甫生。马者，至健而不离地，阴类也，故午属马。</p><p style="TEXT-INDENT:2em">	羊啮未时之草而茁，故未属羊。</p><p style="TEXT-INDENT:2em">	申时，日落而猿啼，且伸臂也，譬之气数，将乱则狂作横行，故申属猴。</p><p style="TEXT-INDENT:2em">	月出之时，月本坎体，中含金鸡之精，故本属鸡。</p><p style="TEXT-INDENT:2em">	亥时，猪则饮食之外无一所知，故亥属猪。”</p><p style="TEXT-INDENT:2em">	另一种说法，<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>的选用与排列，是根据动物每天的活动时间确定的。</p><p style="TEXT-INDENT:2em">	中国至少从<a style="color:#000" title="汉代" href="http://114.xixik.com/chaodai/han/">汉代</a>开始，便已经根据太阳升起的时间，将一昼夜区分为十二个时辰并采用<a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十二地支">十二地支</a>计时法来记录这<a href="http://114.xixik.com/12shichen/" style="color:#000" title="十二时辰">十二时辰</a>（大时），每个时辰相当于两个小时，这样一昼夜便是现在所称的二十四小时。</p><p style="TEXT-INDENT:2em">	夜晚十一时到凌晨一时是子时，此时老鼠最为活跃。</p><p style="TEXT-INDENT:2em">	凌晨一时到三时，是丑时，牛正在反刍。据说也是牛开始耕田的时刻。</p><p style="TEXT-INDENT:2em">	三时到五时，是寅时，此时老虎到处游荡觅食，最为凶猛。</p><p style="TEXT-INDENT:2em">	五时到七时，为犯时，这时太阳尚未升起，月亮还挂在天上，此时玉兔捣药正忙。人间的兔子也开始出来觅食。</p><p style="TEXT-INDENT:2em">	上午七时到九时，为辰时，这正是神龙行雨的好时光。</p><p style="TEXT-INDENT:2em">	九时到十一时，为巳时，蛇开始活跃起来。</p><p style="TEXT-INDENT:2em">	上午十一时到下午一时，阳气正盛，为午时，正是天马行空的时候。</p><p style="TEXT-INDENT:2em">	下午一时到三时，是未时，羊在这时吃草，会长得更壮。</p><p style="TEXT-INDENT:2em">	下午三时到五时，为申时，这时猴子活跃起来。</p><p style="TEXT-INDENT:2em">	五时到七时，为酉时，夜幕降临，鸡开始归窝。</p><p style="TEXT-INDENT:2em">	晚上七时到九时，为戌时，狗开始守夜。</p><p style="TEXT-INDENT:2em">	晚上九时到十一时，为亥时，此时万籁俱寂，猪正在鼾睡。</p><p style="TEXT-INDENT:2em">	关于<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>的排列，还有各种传说，这类故事，或似开心解闷的笑谈，或似贬恶扬善的寓言，文学成分较浓。但是，生肖座次的排定，决非一朝一夕，也不是一代人所能完成的。最初未必就是一次提名十二种，也许只有四五个，也许曾有过超额的局面，后来优胜劣汰，定额定员并定位了，一直传至今日。</p><p style="TEXT-INDENT:2em">	如果要知道<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>的起源是非常难的，各种各样的说法都有，部分学者认为生肖起源于原始时代的动物崇拜，中国科技大学张秉伦先生便持这一观点。他认为在原始社会生产力低下、认识自然能力极其有限的情况下，对与自已生活息息相关的动物产生一种依赖感（如马、羊、牛、鸡、犬等），对危害自身安全的动物产生一种恐 惧感（如虎、蛇），对一些超过人类的动物器官功能产生崇敬感（如狗的嗅觉等），导致产生对动物的崇拜。十二种生肖动物便是人们在动物崇拜的原始信仰影响下产生的用来纪年、纪月的兽历。</p></div></div></div><a name="anchor2"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        十二生肖排序的传说</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	如何挑选十二种生肖动物，这是一个人们亘古流传的话题，传说中有一年，玉皇大帝过生日，下令让所有的动物在正月初九这天前来祝寿，并决定按前来祝贺生日的报到顺序选定十二种动物，作为通往上天之路的守卫，并按年轮流值班。</p><p style="TEXT-INDENT:2em">	于是他就派神仙下凡跟动物们说了这件事，又定了时间在卯年卯月卯日卯时到天宫来竞选，来的越早的排的越靠前，后面的排不上。而那个时候的猫和老鼠还是好朋友。猫爱睡觉但他也想被选上，所以就叫老鼠到时候叫他。可是老鼠一转头就忘记了。老鼠去找老牛，说他起得早跑得快，叫牛到时候带带他。老牛答应了。 那个时候的龙是没有犄角的，而鸡是有犄角的。龙就跟鸡说，鸡已经很漂亮了，用不着犄角，叫鸡借他。鸡一听龙的奉承，很高兴，就把犄角借给了龙，并叫龙竞选后记得按时还他。龙满口答应了。 到了卯年卯月卯日卯时，众动物纷纷赶向天宫，而猫还在睡觉 。 鼠坐在牛的背上。到达天庭后，老鼠“蹭”的一跳。玉皇大帝就说老鼠最早到达，让老鼠排第一；老牛排第二；老虎也随后到了，排第三；兔子也到了，排第四；龙来得很晚，但他个儿大，玉皇大帝一眼就看到了他，并看他这么漂亮，就让他排第五，还说让他的儿子排第六，可龙很失望，因为他儿子今天没来。这时后面的蛇跑来说：“他是我干爸我排第六！我排第六！”蛇就这么排了第六；马和羊也到了，他俩你让我我让你的：马兄你先，羊兄你先，他们推来推去的，玉皇大帝看他们这么有礼貌，就让他们排了第七第八；猴子本来排三十几的，可是他凭自己会跳，就拉着天上的云朵跳到了前面，排到了第九；接着鸡狗猪也纷纷被选上。 竞赛结束后猫才醒来，老鼠刚回家就被猫满世界的追…… 竞赛结束后龙来到大海边，看到有犄角的他比以前漂亮多了，就不准备还鸡了。为了躲鸡，他从此就消失在人间，而鸡很气愤于是他从此以后天天一大早的起来对着大海喊：快还我！快还我！母鸡就喊：快还他！快还他！小鸡也叫：还！还！</p><p><img  src="http://img.xixik.net/custom/topic/xixik_9ca9ccf39590496d.jpg" /><img  src="http://img.xixik.net/custom/topic/xixik_a96290843c6625c6.jpg" /><img  src="http://img.xixik.net/custom/topic/xixik_e4202ff4a5695278.jpg" /><br /><img  src="http://img.xixik.net/custom/topic/xixik_88bdafea1f8f3cb2.jpg" /><img  src="http://img.xixik.net/custom/topic/xixik_5cfe8e1eec3555c9.jpg" /><img  src="http://img.xixik.net/custom/topic/xixik_c77e16ced1a96d82.jpg" /><br /><img  src="http://img.xixik.net/custom/topic/xixik_f05a5bbe0104fe65.jpg" /><img  src="http://img.xixik.net/custom/topic/xixik_f22a842ed2405545.jpg" /><img  src="http://img.xixik.net/custom/topic/xixik_f1f3a3e483e5cfa7.jpg" /><br /><img  src="http://img.xixik.net/custom/topic/xixik_58c66334b0320421.jpg" /><img  src="http://img.xixik.net/custom/topic/xixik_590b8ad03cf5a80a.jpg" /><img  src="http://img.xixik.net/custom/topic/xixik_d7b2e167a4af5d86.jpg" /></p></div></div></div><a name="anchor3"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        十二生肖为什么老鼠排第一？</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	关于<strong><a href="http://114.xixik.com/12birthpet/" style="color:#000" title="十二生肖排序">十二生肖排序</a></strong>，为什么排在首位的偏偏是小小的鼠，而不是腾云驾雾的龙，也不是百兽之王的虎？为什么不看中强劲温顺的牛？为什么不选出灵巧异常的猴？众说纷纭，其中有“道教玉帝说”，有“佛祖如来说”，有“先祖黄帝说”，有“天象星宿说”，有“原始部落图腾说”等等。我认为，<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>的排列顺序，是古人依据十二种动物的生活习性和活动特点来安排的。</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/custom/section/12birthpet/xixik-2abb196d04be1f02.png" style="margin: 10px; float: right; width: 400px;" /></p><p style="TEXT-INDENT:2em">	天文学家将昼夜分为<a href="http://114.xixik.com/shichen/" style="color:#000" title="时辰">十二个时辰</a>，即：子、丑、寅、卯、辰、巳、午、未、申、酉、戌、亥。为什么以这几个字定<a href="http://114.xixik.com/shichen/" style="color:#000" title="时辰">时辰</a>呢？分析一下这十二个字的原形和本义，我们就会看得十分清楚。</p><p style="TEXT-INDENT:2em">	子：像孩子在襁褓之中。子的本义为：幼小的、卵。古代指儿女。二十三点至一点为子时，正是夜深人静的午夜时分，正是今明两天的临界，也可以说“明天”这个“产儿”就要诞生，或者已在襁褓之中。子时，是孕含着什么孵化着什么的时刻。</p><p style="TEXT-INDENT:2em">	丑：为“扭”的本字，像手指抓住一物而扭动。扭，也作转动讲。子时过后，一点至三点为丑时。夜正深，但“第二天”已经开始了。无形之中，似乎有一只大手在转动天体－－夜幕即将被转过去，白天即将被扭过来。</p><p style="TEXT-INDENT:2em">	寅：有说像黄泉欲出，又说像双手捧矢，即“引”的古字。引，可释为牵引、引导、引起、离开。黎明前的三点至五点为寅时，正是黑夜即将离开，熹微即被牵引而来的时刻。</p><p style="TEXT-INDENT:2em">	卯：有说为冒，像开门之形，又有 之体，又说像断物形，为刘的本字。黎明时分的五点至七点为卯时，天亮了，太阳冒出来了，人家的门该打开了。卯时，黑、白不再混淆，而是断然分开的。</p><p style="TEXT-INDENT:2em">	辰：有说像贝壳形。我以为它有托出云气之意。云气之上有日，为“晨”；无日，则云气弥漫。夏日的早晨，七点至九点，大雾茫茫。</p><p style="TEXT-INDENT:2em">	巳：有说像胎儿形突出头部和蜷曲的身体；又说为蛇的象形。上午九点至十一点，雾气消失，正是暖融融的时刻，蛇从洞穴中爬出来了。</p><p style="TEXT-INDENT:2em">	午：有说像木杵之形，“杵”的本字；又说为“牾”，抵牾为矛盾。将一木杵立在日光下，木杵没有影子，因为日光是从头顶之上照射下来的。古人依形造字，又依形取义，以形、义命物。由此，日中的时候，即十一点至十三点为午时。</p><p style="TEXT-INDENT:2em">	未：像树木枝叶重叠，物长成后才有滋味。“味”的本字。午后十三点至十五点未时，示意只有经过阳光的强烈照射，树木才会枝繁叶茂、果子才能成熟。成熟的果子，才会有滋有味。</p><p style="TEXT-INDENT:2em">	申：有说像闪电形，又说为“神”。十五点至十七点，风雨带着闪电和雷鸣来了。古人不知闪电和雷鸣为何物，以为神在天上为之。</p><p style="TEXT-INDENT:2em">	酉：像装酒的坛子，“酒”的本字。十七点至十九点，傍晚时分，劳作了一天，此时正是吃饭的时候，就简称“酒时”吧。</p><p style="TEXT-INDENT:2em">	戌：人、戈会意，指人持戈（武器）守护。十九点至二十一点，酒足饭饱以后，一家老小该入睡了。但是不能大意，还要预防外敌或野兽的侵害，所以要手持武器进行护卫。</p><p style="TEXT-INDENT:2em">	亥：有说像猪，“豕”字的变体。有草根－说。二十一点至二十三点，主人被猪拱槽的声音搅醒了－－要想猪肥，就得夜半起身给它添食。此外，草根与植物的块茎有关，那是猪的饲料。</p><p style="TEXT-INDENT:2em">	十二<a href="http://114.xixik.com/shichen/" style="color:#000" title="时辰">时辰</a>的十二个字，竟是记述并描绘了一幅夏日的古代农家生活作息图！就连自然景观也历历在目，可谓言简意赅。</p><p style="TEXT-INDENT:2em">	从出土文物来看，早在殷商时期就已经有了以天干、地支计纪岁的方法。干、支先用来纪日，后来发展为纪月、纪年。</p><p style="TEXT-INDENT:2em">	那么，<a href="http://114.xixik.com/12shichen/" style="color:#000" title="十二时辰">十二时辰</a>是怎么与<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>相结合的呢？</p><p style="TEXT-INDENT:2em">	观天象的最佳时机应是夜深人静、繁星满天的时候。子夜时分（二十三点至一点），人（天文学家或道家）仰望天空良久，忽然听得周围有细碎的声音，低头一看，原来是老鼠在活动。天长日久，古人发现鼠类出没频繁的时刻是子时。于是，子时便与鼠联系在一起，成了“子鼠”，并按一天的起始，排在属相的第一位。</p><p style="TEXT-INDENT:2em">	“马无夜草不肥”，牛当然也是如此。农家以牛耕田，喂好牛是农家的大事。丑时（一点至三点），农家自会起身喂牛。牛与丑时联系在一起，便成了“丑牛”。</p><p style="TEXT-INDENT:2em">	凌晨三点至五点，昼伏夜行的虎最凶猛，农家常常会在此时听到不远处传来虎啸声。于是，虎与寅时相联系，有了“寅虎”。</p><p style="TEXT-INDENT:2em">	五点至七点，天亮了，兔子跑出窝，去吃带着露水的青草。于是，兔子与卯时相联系，便有了“卯兔”。</p><p style="TEXT-INDENT:2em">	七点至九点，是容易起雾的时刻。据说龙能腾云驾雾，大雾之中才会“神龙见尾不见首”。不过龙是传说中的动物，或者说是人用几种动物的“零件”拼凑起来的“人造动物”，在现实中看不到，只有大雾蒙蒙之中，人们才会产生龙的幻象。如此，龙才会在辰时的雾中“出现”。龙和辰时相联系，便有了“辰龙”。</p><p style="TEXT-INDENT:2em">	九点至十一点，大雾散去，艳阳当空。体温不恒定的蛇从洞穴中爬出来晒太阳。无论有毒还是没有毒的蛇，都是可怕的，蛇最活跃的时刻，便是“巳时”。在造字时，“巳”被画成了一条蛇的象形。“巳蛇”，是天然地联系在一起的。</p><p style="TEXT-INDENT:2em">	十一点至十三点，烈日当头。这“烈”，使人想到了人类“得力助手之一”的马。红鬃烈马是良驹，但它的性子就像午时的太阳一样火烈。马与午时相联系，就有了“午马”。</p><p style="TEXT-INDENT:2em">	十三点至十五点，未时，骄阳已把草上的露珠晒乾，可别忘了这正是放羊的好时光。于是，“未羊”应运而生。</p><p style="TEXT-INDENT:2em">	十五点至十七点，申时，太阳偏西，或者雨过天晴，天气显得清爽起来。这时候，猴子最喜欢在树林里玩耍啼叫，人们听到了，记在心里，便把这一时刻与猴子联系在一起，于是有了“申猴”。</p><p style="TEXT-INDENT:2em">	十七点至十九点，酉时，太阳快落山了，家养的鸡该回窝了；再不回窝，天一黑就会找不见。农妇着急了，四处呼唤着，轰鸡入窝。这吃饭喝酒的时刻，也与家鸡入窝相连，于是就有了“酉鸡”。</p><p style="TEXT-INDENT:2em">	十九点至二十一点，戌时，人们在临睡之前要巡视一番；跟随他们的，是人类的另一个“助手”－－狗。巡视的时刻与狗联系起来成为“戌狗”，恰到好处。</p><p style="TEXT-INDENT:2em">	二十一点至二十三点，深夜可以听到肥猪拱槽的声音，主人很高兴。不过要想猪长得肥壮，还得起身为它添食。亥时，自然与猪相连，于是有了“亥猪”。</p><p style="TEXT-INDENT:2em">	表示<a href="http://114.xixik.com/12shichen/" style="color:#000" title="十二时辰">十二时辰</a>的十二个字与<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>相结合，便有了：子鼠、丑牛、寅虎、卯兔、辰龙、巳蛇、午马、未羊、申猴、酉鸡、戌狗、亥猪。</p><p style="TEXT-INDENT:2em">	【子时】（23时至01时）夜半，又名子夜、中夜：十二时辰的第一个时辰。<br />	　　【丑时】（01时至03时）鸡鸣，又名荒鸡：十二时辰的第二个时辰。<br />	　　【寅时】（03时至05时）平旦，又称黎明、早晨、时是夜与日的交替之际<br />	　　【卯时】（05时至07时）日出，又名破晓、旭日，指太阳刚露脸，初升的时间。<br />	　　【辰时】（07时至09时）食时，又名早食，也是吃早饭时间，<br />	　　【巳时】（09时至11时）隅中，又名日禺等：临近中午的时候称为隅中。<br />	　　【午时】（11时至13时）日中，又名日正、中午等<br />	　　【未时】（13时至15时）日昳，又名日跌、日央等：太阳偏西为日跌。<br />	　　【申时】（15食至17时）哺时，又名日铺、夕食等<br />	　　【酉时】（17是至19时）日入，又名日落、傍晚：意为太阳落山的时候。<br />	　　【戌时】（19时至21时）黄昏，又名日夕、日暮、日晚等：此时太阳已经落山，天将黑未黑。天地昏黄，万物朦胧，故称黄昏。<br />	　　【亥时】（21时至23时）人定，又名定昏等：此时夜色已深，人们也已经停止活动，安歇睡眠了。人定也就是人静。</p></div></div></div><a name="anchor4"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        十二生肖为什么没有猫？</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	中国风水协会主席陈帅佛认为自古以来，人们对<strong><a href="http://www.xixik.com/content/b584dfac7d569aac" title="十二生肖为什么没有猫">十二生肖为什么没有猫</a></strong>众说纷纭，包括以上故事以及“猫捉老鼠”的故事在内，不一而足，但皆不足深信。</p><p><img src="http://img.xixik.net/custom/section/12birthpet/xixik-6e9a6ac9612648d8.jpg" style="text-indent: 28px; margin: 10px; float: right; width: 400px;" /></p><p style="TEXT-INDENT:2em">	为什么猫不能上榜？其实真正的原因是中国古时无猫。猫原产于埃及，猫何时传入中国已不可考。民间传说则是系唐三藏从印度带回。现在一说到<a href="http://www.xixik.com/content/c74627eaadebcc0f" title="为什么十二生肖中没有猫">为什么十二属相没有猫</a>，就用民间故事来解释。其实在猫传入中国以前，中国就有了<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>。所以<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>没有猫，一点也不奇怪。依照动物学的分类，老虎属于哺乳动物、食肉类、猫科。虎和猫，其实是“本家”之亲。有了老虎代表，猫咪在<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>“大会”里，已不愁没有“发言权”，亦勉堪自慰了。</p><p style="TEXT-INDENT:2em">	从以上可以看出生肖动物的选择并不是随意的，而是有一定的涵义，人们所选择的动物都是出于不同的角度，并带有一定意义。</p><p style="TEXT-INDENT:2em">	那么这十二种动物又是按照什么顺序排列的呢？前面说到，生肖产生于远古动物崇拜，图腾崇拜的氛围之中，人们仅是用动物来借代序数符号与地支相配，为什么选择这十二种动物，谁先谁后，按照什么样的顺序排列并没有定论，由于生肖是产生于远古的古老文化，因时间的久远人们已将排列的初衷丢失了，今人的传说故事等只是对它的附会，只能依赖于传说和想象。关于生肖排列问题大致有以下三个方面的解释。</p><p style="TEXT-INDENT:2em">	一是民间传说故事中的生肖排列。</p><p style="TEXT-INDENT:2em">	汉族民间故事说：当年轩辕黄帝要选十二动物担任宫廷卫士，猫托老鼠报名，老鼠给忘了，结果猫没有选上，从此与鼠结下冤家。大象也来参赛，被老鼠钻进鼻子，给赶跑了，其余的动物，原本推牛为首，老鼠却窜到牛背上，猪也跟着起哄 ，于是老鼠排第一，猪排最后。虎和龙不服，被封为山中之王和海中之王，排在鼠和牛的后面。兔子又不服，和龙赛跑，结果排在了龙的前面。狗又不平，一气之下咬了兔子，为此被罚在了倒数第二。蛇、马、羊、猴、鸡也经过一番较量，一一排定了位置，最后形成了鼠、牛、虎、兔、龙、蛇、马、羊、猴、鸡、狗、猪的顺序。当然传说故事不是对问题的科学解释 ，但它却体现了人们希望对<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>的选择做出解释的愿望。</p><p style="TEXT-INDENT:2em">	二是中国古代学者从古代昼夜<a href="http://114.xixik.com/12shichen/" style="color:#000" title="十二时辰">十二时辰</a>的角度解说地支和肖兽的配属关系。</p><p><img src="http://img.xixik.net/custom/section/12birthpet/xixik-2364e596e300e0b0.jpg" style="text-indent: 28px; margin: 10px; float: right; width: 400px;" /></p><p style="TEXT-INDENT:2em">	黑天苟地，混沌一片，鼠，时近夜半之际出来活动，将天地间的混沌状态咬出缝隙，“鼠咬天开”，所以子属鼠。天开之后，接着要辟地，“地辟于丑”，牛耕田，该是辟地之物，所以以丑属牛。寅时是人出生之时，有生必有死，置人于死地莫过于猛虎，寅，又有敬畏之义，所以寅属虎。 卯时，为日出之象，太阳本应离卦，离卦象火，内中所含阴爻，为太阳即月亮之精玉 兔，这样，卯便属兔了。辰，三月的卦象，此时正值群龙行雨的时节。辰自然就属了龙。巳 ，四月的卦象，值此之时，春草茂盛，正是蛇的好日子，如鱼儿得水一般。另外，巳时为上午，这时候蛇正归洞，因此，巳属蛇。午，下午之时，阳气达到极端，阴气正在萌生。马这种动物，驰骋奔跑，四蹄腾空，但又不时踏地。腾空为阳，踏地为阴，马在阴阳之间跃进， 所以成了午的属相。羊，午后吃草为最佳<a href="http://114.xixik.com/shichen/" style="color:#000" title="时辰">时辰</a>，容易上膘，此时为未时，故未属羊。未之后申时，是日近西山猿猴啼的<a href="http://114.xixik.com/shichen/" style="color:#000" title="时辰">时辰</a>，并且猴子喜欢在此时伸臂跳跃，故而猴配申。酉为月亮出 现之时，月亮属水，应着坎卦。坎卦，其上下阴爻，而中间的阳爻代表太阳金乌之精。因 此，酉属鸡。夜幕降临，是为戌时。狗正是守夜的家畜，也就与之结为戌狗。接着亥时到， 天地间又浸入混沌一片的状态，如同果实包裹着果核那样，亥时夜里覆盖着世间万物。猪是只知道吃的混混沌沌的生物，故此猪成了亥的属相。宋代著名理学家朱熹持此观点。</p><p style="TEXT-INDENT:2em">	三是按中国人信阴阳的观念，将十二种动物分为阴阳两类，动物的阴与阳是按动物足趾的奇偶参差排定的。</p><p style="TEXT-INDENT:2em">	动物的前后左右足趾数一般是相同的，而鼠独是前足四，后足五，奇偶同体 ，物以稀为贵，当然排在第一，其后是牛，四趾（偶）；虎，五趾（奇）；兔，四趾（偶）；龙， 五趾（奇）；蛇，无趾（同偶）；马，一趾（奇）；羊，四趾（偶）；猴，五趾（奇）；鸡，四趾（偶） ；狗，五趾（奇）；猪，四趾（偶）。持这种说法的是宋人洪巽，明代学者郎瑛在其基础上进行 了归类，在其所著的《七修类稿·<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>》中提出“地支在下”，因此别阴阳当看足趾数目。鼠前是四爪，偶数为阴，后足五爪，奇数为阳。子时的前半部分为昨夜之阴，后半部 分为今日之阳，正好用鼠来象征子。牛、羊、猪蹄分，鸡四爪，再加上兔缺唇且四爪，蛇舌分，六者均应合偶数，属阴，占了六项地支。虎五爪，猴、狗也五爪，马蹄圆而不分，六者均为奇数，属阳，连同属阳的鼠，占了另外六项地支。郎瑛的归类法，是借洪巽的分类法， 二者大同小异。</p><p style="TEXT-INDENT:2em">	以上三种解释分别从不同角度来解释生肖的排列，民间有关生肖动物排列的传说故事非常丰富，这些传说故事的流传一方面丰富了生肖的内容，另一方面又促进了生肖文化的传承与发展。将十二种生肖动物分为阴阳两类，将其纳入中国人五行信仰的观念之中，目的是将属相与人生仪礼相关连，将阴阳、五行与生肖对应起来，从而解释其它有关的人生文化现象。</p></div></div></div><a name="anchor5"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        二十四小时和十二时辰对照表</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width:90%"><tbody><tr><th>				子时</th><th>				丑时</th><th>				寅时</th><th>				卯时</th><th>				辰时</th><th>				己时</th></tr><tr><td>				23:00-00:59</td><td>				01:00-02:59</td><td>				03:00-04:59</td><td>				05:00-06:59</td><td>				07:00-08:59</td><td>				09:00-10:59</td></tr><tr><th>				午时</th><th>				未时</th><th>				申时</th><th>				酉时</th><th>				戊时</th><th>				亥时</th></tr><tr><td>				11:00-12:59</td><td>				13:00-14:59</td><td>				15:00-16:59</td><td>				17:00-18:59</td><td>				19:00-20:59</td><td>				21:00-22:59</td></tr></tbody></table><p style="text-align: center;"><strong><a href="http://114.xixik.com/shichen/" style="color: rgb（0, 0, 0）;" title="时辰">十二时辰</a>对照表</strong></p><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width: 90%;"><tbody><tr><th>				子（鼠）时（23点~01点）</th><th>				丑（牛）时（01点~03点）</th></tr><tr><td>				寅（虎）时（03点~05点）</td><td>				卯（兔）时（05点~07点）</td></tr><tr><th>				辰（龙）时（07点~09点）</th><th>				巳（蛇）时（09点~11点）</th></tr><tr><td>				午（马）时（11点~13点）</td><td>				未（羊）时（13点~15点）</td></tr><tr><th>				申（猴）时（15点~17点）</th><th>				酉（鸡）时（17点~19点）</th></tr><tr><td>				戌（狗）时（19点~21点）</td><td>				亥（猪）时（21点~23点）</td></tr></tbody></table><p style="text-align: center;"><strong style="text-align: center;"><a href="http://114.xixik.com/12shengxiao/" style="color: rgb（0, 0, 0）;" title="生肖">十二生肖</a>与<a href="http://114.xixik.com/shichen/" style="color: rgb（0, 0, 0）;" title="时辰">十二时辰</a>对照表</strong></p><p><strong><a href="http://114.xixik.com/12birthpet/" title="十二生肖">十二生肖</a></strong>是由十一种源于自然界的动物即鼠、牛、虎、兔、蛇、马、羊、猴、鸡、狗、猪以及传说中的龙所组成，用于纪年。结合十二地支为：子鼠、丑牛、寅虎、卯兔、辰龙、巳蛇、午马、未羊、申猴、酉鸡、戌狗、亥猪。</p><p>	　　鼠：晚上11时到第二天1时（即“子时”）。这时候，老鼠胆量最壮，活动最频繁，所以，子时同鼠搭配。<br />	　　牛：凌晨1-3时（即“丑时”）。这时候牛吃足了草，“倒嚼”最细、最慢、最舒适，所以，丑时同牛搭配。<br />	　　虎：凌晨3-5时（即“寅时”）。这时候，老虎最活跃、最凶猛、伤人最多，因此，寅时同虎搭配。<br />	　　兔：清晨5-7（即“卯时”）。这时候，太阳还没露出，月亮的光辉还未隐退完全。玉兔是月亮代称，是月宫神话中惟一的动物，这样卯时就同兔搭配。<br />	　　龙：早晨7-9时（即“辰时”）。传说这是群龙行雨的时候，龙是神话中的动物，于是，辰时属龙。<br />	　　蛇：上午9-11时（即“巳时”）。据说这时候的蛇不会伤人，也不在人行走的路上游荡，多隐蔽在草丛中，这样，巳时就属于蛇的了。<br />	　　马：上午11时至下午1时（即“午时”）。依据道士的说法，中午太阳当顶，阳气达到达极点，阴气渐渐增加，在阴阳换柱之时，一般动物都躺着休息，只有马还习惯地站着，甚至睡觉也站着，从不躺着。这样，午时就属马了。<br />	　　羊：下午1-3时（即“未时”）。据说羊在这时候洒尿最勤，洒出的尿可治愈自身一种惊疯病，因此，未时属羊。<br />	　　猴：下午3-5时（即“申时”）。这时候，猴子最喜欢啼叫，声音拉得最长，最洪亮。所以，申时属猴。<br />	　　鸡：下午5-7时（即“酉时”）。这时候，日落山岗，鸡开始进笼归窝、夜宿，于是，酉时属鸡。<br />	　　狗：晚上7-9时（即“戌时”）。黑夜来临，狗看家，守夜的警惕性最高，并产生一种特殊的视力和听力，看得最远，听得最清楚。所以，戌时属狗。<br />	　　猪：晚上9-11时（即“亥时”）。这时候猪睡得最酣，发出的鼾声最洪亮，全身肌肉抖动得最厉害、长肉最快，于是亥时属猪。</p><p><strong>　　古代的更</strong></p><p>	　　更，是古代人夜间用来计时的单位。一夜分为五更，每更约等于一个<strong style="text-indent: 28px;"><a href="http://114.xixik.com/shichen/" style="color:#000;" title="时辰">时辰</a></strong>。<br />	　　古代的更是按时间算的。<br />	　　一更：19：00-21：00<br />	　　二更：21：00-23：00<br />	　　三更：23：00-01：00<br />	　　四更：01：00-03：00<br />	　　五更：03：00-05：00<br />	　　注：此处“更”在古汉语中读“jīng”，汉语规范化后读“gēng”。</p></div></div></div><a name="anchor6"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        十二生肖属相年份排序对照表</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width:90%"><tbody><tr><th><strong>顺序</strong></th><th><strong>属相</strong></th><th style="text-align: center;">				12生肖排序年龄<strong>（起止：1924～2139）</strong></th></tr><tr><td>				&#160;01.</td><td><strong>属鼠</strong></td><td>				1924┆1936┆1948┆1960┆1972┆1984┆1996┆2008┆2020┆2032┆2044┆2056┆2068┆2080┆2092┆2104┆2116┆2128</td></tr><tr bgcolor="#f5f5f5"><td>				&#160;02.</td><td><strong>属牛</strong></td><td>				1925┆1937┆1949┆1961┆1973┆1985┆1997┆2009┆2021┆2033┆2045┆2057┆2069┆2081┆2093┆2105┆2117┆2129</td></tr><tr><td>				&#160;03.</td><td><strong>属虎</strong></td><td>				1926┆1938┆1950┆1962┆1974┆1986┆1998┆2010┆2022┆2034┆2046┆2058┆2070┆2082┆2094┆2106┆2118┆2130</td></tr><tr bgcolor="#f5f5f5"><td>				&#160;04.</td><td><strong>属兔</strong></td><td>				1927┆1939┆1951┆1963┆1975┆1987┆1999┆2011┆2023┆2035┆2047┆2059┆2071┆2083┆2095┆2107┆2119┆2131</td></tr><tr><td>				&#160;05.</td><td><strong>属龙</strong></td><td>				1928┆1940┆1952┆1764┆1976┆1988┆2000┆2012┆2024┆2036┆2048┆2060┆2072┆2084┆2096┆2108┆2120┆2132</td></tr><tr bgcolor="#f5f5f5"><td>				&#160;06.</td><td><strong>属蛇</strong></td><td>				1929┆1941┆1953┆1965┆1977┆1989┆2001┆2013┆2025┆2037┆2049┆2061┆2073┆2085┆2097┆2109┆2121┆2133</td></tr><tr><td>				&#160;07.</td><td><strong>属马</strong></td><td>				1930┆1942┆1954┆1966┆1978┆1990┆2002┆2014┆2026┆2038┆2050┆2062┆2074┆2086┆2098┆2110┆2122┆2134</td></tr><tr bgcolor="#f5f5f5"><td>				&#160;08.</td><td><strong>属羊</strong></td><td>				1931┆1943┆1955┆1967┆1979┆1991┆2003┆2015┆2027┆2039┆2051┆2063┆2075┆2087┆2099┆2111┆2123┆2135</td></tr><tr><td>				&#160;09.</td><td><strong>属猴</strong></td><td>				1932┆1944┆1956┆1968┆1980┆1992┆2004┆2016┆2028┆2040┆2052┆2064┆2076┆2088┆2100┆2112┆2124┆2136</td></tr><tr bgcolor="#f5f5f5"><td>				&#160;10.</td><td><strong>属鸡</strong></td><td>				1933┆1945┆1957┆1969┆1981┆1993┆2005┆2017┆2029┆2041┆2053┆2065┆2077┆2089┆2101┆2113┆2125┆2137</td></tr><tr><td>				&#160;11.</td><td><strong>属狗</strong></td><td>				1934┆1946┆1958┆1970┆1982┆1994┆2006┆2018┆2030┆2042┆2054┆2066┆2078┆2090┆2102┆2114┆2126┆2138</td></tr><tr bgcolor="#f5f5f5"><td>				&#160;12.</td><td><strong>属猪</strong></td><td>				1935┆1947┆1989┆1971┆1983┆1995┆2007┆2019┆2031┆2043┆2055┆2067┆2079┆2091┆2103┆2115┆2127┆2139</td></tr></tbody></table><p style="TEXT-INDENT:2em"><strong>所在年份属相的计算方法</strong></p><p style="TEXT-INDENT:2em">	1、鼠年计算方法：公元年号除以12余数是4的年份，都是鼠年。列成公式为：公元年号÷12=某个商，同时余数是4。例如：2008÷12=商167，同时余数是4。那么，2008年就是鼠年。</p><p style="TEXT-INDENT:2em">	2、牛年计算方法：公元年号除以12余数是5的年份，都是牛年。列成公式为：公元年号÷12=某个商，同时余数是5。例如：1997÷12=商166，同时余数是5。那么，1997年即是牛年。</p><p style="TEXT-INDENT:2em">	3、虎年计算方法：公元年号除以12余数是6的年份，都是虎年。列成公式为：公元年号÷12=某个商，同时余数是6。例如：2010÷12=商167，同时余数是6。那么，2010年是虎年。</p><p style="TEXT-INDENT:2em">	4、兔年计算方法：公元年号除以12余数是7的年份，都是兔年。列成公式为：公元年号÷12=某个商，同时余数是7。例如：2011÷12=商167，同时余数是7，那么，2011年是兔年。</p><p style="TEXT-INDENT:2em">	5、龙年计算方法：公元年号除以12余数是8的年份，都是龙年。列成公式为：公元年号÷12=某个商，同时余数是8。例如：2012÷12=商167，同时余数是8，那么，2012年就是龙年。</p><p style="TEXT-INDENT:2em">	6、蛇年计算方法：公元年号除以12余数是9的年份，都是蛇年。列成公式为：公元年号÷12=某个商，同时余数是9。例如：2013÷12=商167，同时余数是9，那么，2013年就是蛇年。</p><p style="TEXT-INDENT:2em">	7、马年计算方法：公元年号除以12余数为10的年分，都是马年。列成公式为：公元年号÷12=某个商，同时余数为10。例如：2014÷12=商167，同时余数为10。那么，2014年就是马年。&#160;</p><p style="TEXT-INDENT:2em">	8、羊年计算方法：公元年号除以12余数是11的年份，都是羊年。列成公式为：公元年号÷12=某个商，同时余数是11。例如：2003÷12=商166，同时余数是11，那么，2003年就是羊年。</p><p style="TEXT-INDENT:2em">	9、猴年计算方法：公元年号判定猴年的方法是：公元年号÷12=某个商，同时无余数。例如：2016÷12=商168，所以2016年是猴年。</p><p style="TEXT-INDENT:2em">	10、鸡年计算方法：公元年号除以12余数是1的年份，都是鸡年。列成公式为：公元年号÷12=某个商，同时余数是1。例如：2017÷12=商168，同时余数是1。那么，2017年就是鸡年。</p><p style="TEXT-INDENT:2em">	11、狗年计算方法：公元年号除以12余数是2的年份，都是狗年。列成公式为：公元年号÷12=某个商，同时余数为2。例如：2018÷12=商168，同时余数为2。那么，2018年是狗年。</p><p style="TEXT-INDENT:2em">	12、猪年计算方法：公元年号除以12余数是3的年份，都是猪年。列成公式为：公元年号÷12=某个商，同时余数是3。例如：2007÷12=商167，同时余数是3。那么，2007年是猪年。</p><p style="TEXT-INDENT:2em">	注意以上只是大概的对应关系，因为世界通用的公历和中国的干支历是两种不同的历法。公历以1月1日为一年之始，而干支历以<a href="http://114.xixik.com/24jieqi/lichun/" style="color:#000" title="立春">立春</a>建寅月之日为一年之始，一般<a href="http://114.xixik.com/24-solar-terms/" style="color:#000" title="二十四节气，24节气">二十四节气</a>之<a href="http://114.xixik.com/24jieqi/lichun/" style="color:#000" title="立春">立春</a>当天相当于公历每年2月4号或5号。</p></div></div></div><a name="anchor7"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        生肖的农历年算法</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	中国黄历以<a href="http://114.xixik.com/24jieqi/lichun/" title="立春，二十四节气立春">立春</a>确定生肖。</p><p style="TEXT-INDENT:2em">	“农历”是汉代开始使用的“太阴历”，新年是以<a href="http://114.xixik.com/24jieqi/lichun/" title="立春，二十四节气立春">立春</a>为界的，立春是<a href="http://114.xixik.com/24jieqi/" title="24节气">二十四节气</a>之首，<a href="http://114.xixik.com/12shengxiao/" title="12生肖，十二生肖对照表">生肖</a>以立春为准。</p><p style="TEXT-INDENT:2em">	六甲记年中天干为：甲乙丙丁戊已庚辛壬癸10个，地支为：子丑寅卯辰巳午未申酉戌亥12个。从甲子、乙丑、丙寅、丁卯……排列，刚好60个排完一个周期。这样有点复杂又不好记，于是古人想到用动物来表达复杂的地支，这就是<a href="http://114.xixik.com/12shengxiao/" title="12生肖，十二生肖对照表">生肖</a>。子鼠、丑牛、寅虎、卯兔、辰龙、巳蛇、午马、未羊、申猴、酉鸡、戌狗、亥猪。生肖是我国六甲记年中特有，应该从立春的那天算起。</p><p style="TEXT-INDENT:2em">	传统的命理学、占卜学等民俗学，均以“<a href="http://114.xixik.com/24jieqi/lichun/" title="立春，二十四节气立春">立春</a>”作为生肖计算的依据！包括现在的民间占星卜卦先生也一直沿用传统的生肖定法。因为生肖本与地支同源，不能以当前的春节来定。</p><p style="TEXT-INDENT:2em">	传统春节是指立春，正月初一为元旦，民国一年（1911年）规定阳历1月1日为春节，由于民间反对，袁世凯采取折中的办法，将阳历1月1日定名为元旦，正月初一定名为<a href="http://114.xixik.com/jieri/" title="中国节日大全">春节</a>。</p><p style="TEXT-INDENT:2em"><strong>关于生肖算法的争议</strong></p><p style="TEXT-INDENT:2em">	也有人为方便，直接按春节定属相，所以传统渐渐被许多人遗忘，于是关于生肖的界定产生了不少争议，甚至有些民俗学者也声称<a href="http://114.xixik.com/12shengxiao/" title="12生肖，十二生肖对照表">生肖</a>应按春节来定，但是找不出依据，只是推测说“应该是按春节来定”，或者说“为方便确定”；而许多支持以立春定生肖的民俗学者却能找出传统依据来。</p><p style="TEXT-INDENT:2em">	问卷调查显示，以立春定生肖这一传统在民间沿用和遗忘的人数各半。</p><p style="TEXT-INDENT:2em">	当然了，若刚好出生在“争议”日期，亦可凭个人喜好去定。</p></div></div></div><a name="anchor8"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        中外的生肖信仰</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em"><strong>中国人的生肖信仰</strong></p><p style="TEXT-INDENT:2em">	生肖本是用于纪年的一套符号，是古代天文历法的一部分，后来成为了普遍被人们认同的生肖历法。中国古代哲学观是“天人合一”、“阴阳五行为宇宙之本”，认为阴阳五行决定了世间万物的生存与发展，他们认为，日月是阴阳之源，金、木、水、火、土五行是万物之本，合为七曜，日、月、星辰为曜，日、月、金、木、水、火、土五星合称七曜，旧时分别用来称一个星期的七天，日曜日是星期日，月曜日为星期一，其余依次类推。主宰一切，而十二生肖分置于天，以纪十二辰，以七曜统之，因此十二生肖便被阴阳五行观念所浸染，成为民间宗教信仰的一部分。</p><p style="TEXT-INDENT:2em">	自生肖观念在民间出现以后，它随着算命术的盛行在民间流传不衰，民间迷信认为，五行中的每一种要素都是相互制约的，对人的一生会产生重大影响。人们可以利用不同的五行要素来协调，使自己的生活及所从事的工作能顺心如意。民间把生肖动物列为阴阳两类，与五行相对应，从而生成一套生肖决定命运的算命术。同时民间还认为生肖属相与人的性格也有着某种关系，即使同一属相的人，由于出生的时辰不同，性格、命运也会各异。 生肖信仰中非常重要的一部分是中国人本命年的观念。汉民族的本命年是按照十二生肖循环往复推出来的，它与十二生肖紧密相连。一个人出生的那年是农历什么年，那么以后每到这一属相年便是此人的本命年，由于十二生肖的循环往复，每过12年，人们就要遇到自己的本命年，这样依次推出，人生本命年为12岁、24岁、36岁、48岁、60岁……。民间认为本命年为凶年，需要趋吉避凶，消灾免祸。汉族北方各地每到本命年时，不论大人小孩都要买红腰带系上，称为“扎红”，小孩还要穿红背心、红裤衩，认为这样才能趋吉避凶、消灾免祸。 这种习俗到今天仍在各地流行，每逢春节，市场上到处有出售“吉祥带”“吉祥结”的红黄绸带，本命年的人们将之系在腰间、手腕上，这样便可禳解灾祸、化凶为吉。我国许多民族都很重视老人的60岁生日，称为“花甲”，花甲为一生中第5个本命年，也是干支纪年的一个轮回，须好好庆祝，以此寄托人们企求长寿、健康、吉祥的愿望。</p><p style="TEXT-INDENT:2em">	道教是在我国土生土长的本土宗教，创始于东汉时期，流传至今已有1800多年的历史。道教以阴阳五行为其核心教义，在阴阳五行观念的作用下，道教与天干、地支、十二生肖等产生了天然的亲近关系。北京著名的道观白云观中有元辰殿，元辰殿又名“六十甲子殿”，为信徒向本命元辰之神祈福的殿堂。本人出生年称为本命元辰，旧时习俗礼拜本命元辰之星宿神 ，祈求吉祥如意，名为“顺星”。元辰殿即是礼拜本命元辰星宿神的地方，殿内现存有六十甲子神像，他们分别为：</p><p style="TEXT-INDENT:2em">	甲子太岁金辨大将军、乙丑太岁陈材大将军、丙寅太岁耿章大将军、丁卯太岁沈兴大将军、戊辰太岁赵达大将军、己巳太岁郭灿大将军、</p><p style="TEXT-INDENT:2em">	庚午太岁王济大将军、辛未太岁李素大将军、壬申太岁刘旺大将军、癸酉太岁康志大将军、甲戌太岁施广大将军、乙亥太岁任保大将军、</p><p style="TEXT-INDENT:2em">	丙子太岁郭嘉大将军、丁丑太岁汪文大将军、戊寅太岁鲁先大将军、己卯太岁龙仲大将军、庚辰太岁董德大将军、辛巳太岁郑但大将军、</p><p style="TEXT-INDENT:2em">	壬午太岁陆明大将军、癸未太岁魏仁大将军、甲申太岁方章大将军、乙酉太岁蒋崇大将军、丙戌太岁白敏大将军、丁亥太岁封济大将军、</p><p style="TEXT-INDENT:2em">	戊子太岁邹铛大将军、己丑太岁傅佑大将军、庚寅太岁邬桓大将军、辛卯太岁范宁大将军、壬辰太岁彭泰大将军、癸巳太岁徐单大将军、</p><p style="TEXT-INDENT:2em">	甲午太岁章词大将军、乙未太岁杨仙大将军、丙申太岁管仲大将军、丁酉太岁唐查大将军、戊戌太岁姜武大将军、己亥太岁谢太大将军、</p><p style="TEXT-INDENT:2em">	庚子太岁卢秘大将军、辛丑太岁杨信大将军、壬寅太岁贺谔大将军、癸卯太岁皮时大将军、甲辰太岁李诚大将军、乙巳太岁吴遂大将军、</p><p style="TEXT-INDENT:2em">	丙午太岁文哲大将军、丁未太岁缪丙大将军、戊申太岁徐浩大将军、己酉太岁程宝大将军、庚戌太岁儿秘大将军、辛亥太岁叶坚大将军、</p><p style="TEXT-INDENT:2em">	壬子太岁丘德大将军、癸丑太岁朱得大将军、甲寅太岁张朝大将军、己卯太岁万清大将军、丙辰太岁辛亚大将军、丁巳太岁杨彦大将军、</p><p style="TEXT-INDENT:2em">	戊午太岁黎卿大将军、己未太岁傅赏大将军、庚申太岁毛梓大将军、辛酉太岁石政大将军、壬戌太岁洪充大将军、癸亥太岁虞程大将军。</p><p style="TEXT-INDENT:2em">	以甲子年为首，六十年内不同年份出生的人都能找到属于自己的本命神 。</p><p style="TEXT-INDENT:2em">	按照道教教义，修真炼性须致力于本命元辰，除去杂念私心，方能长寿永生。礼拜本命之辰 ，成为一种习俗流传至今，每年正月初七、初八，北京人到白云观元辰殿“祭星”，向各自的本命星辰烧香礼拜，祈求一年平安，即“顺星”，意思是即使碰到不顺利的年份，通过祈祷得至本命神的保护也可转为顺利。其殿中供的以上六十位本命神，均为重彩泥塑，且都是座像，吸收了各自相关生肖的动物形象。六十神像的姓名有的为历史真有的人物，形象则带有明显的生肖标志，如：甲子太岁金岁金辨大将军，鼠相，持桃。</p><p style="TEXT-INDENT:2em">	从道教有关本命神、六十甲子的内容中我们可以看出生肖信仰与道教相互溶合的关系，道教信奉老子的“道”，认为“道”无所不在，是一切的开始，天地万物都是由它化生主宰的， 生命自然不例外，生肖与天干地支相配而形成六十甲子的观念是生肖与道教信仰相溶合的表现，人们祭拜本命元辰之神，是为了祈求神灵的保佑，平安如意。从这里可以看出生肖已成为主宰人生命的因素，成为生命信仰的一部分。</p><p style="TEXT-INDENT:2em"><strong>中国各族十二生肖对照表</strong></p><p style="TEXT-INDENT:2em">	在中国这个多民族国家里，生肖不是汉民族的专利，许多少数民族都使用十二生肖纪年。</p><p style="TEXT-INDENT:2em">	桂西彝族十二兽：龙、凤、马、蚁、人、鸡、狗、猪、雀、牛、虎、蛇。</p><p style="TEXT-INDENT:2em">	哀牢山彝族十二兽：虎、兔、穿山甲、蛇、马、羊、猴、鸡、狗、猪、鼠、牛。</p><p style="TEXT-INDENT:2em">	川滇黔彝族十二兽：鼠、牛、虎、兔、龙、蛇、马、羊、猴、鸡、狗、猪。</p><p style="TEXT-INDENT:2em">	海南黎族十二兽：鸡、狗、猪、鼠、牛、虫、兔、龙、蛇、马、羊、猴。</p><p style="TEXT-INDENT:2em">	云南傣族十二兽：鼠、黄牛、虎、兔、大蛇、蛇、马、山羊、猴、鸡、狗、象。</p><p style="TEXT-INDENT:2em">	广西壮族十二兽：鼠、牛、虎、兔、龙、蛇、马、羊、猴、鸡、狗、猪。</p><p style="TEXT-INDENT:2em">	蒙古族十二兽：虎、兔、龙、蛇、马、羊、猴、鸡、狗、猪、鼠、牛。</p><p style="TEXT-INDENT:2em">	新疆维吾尔族十二兽：鼠、牛、虎、兔、鱼、蛇、马、羊、猴、鸡、狗、猪。</p><p style="TEXT-INDENT:2em">	柯尔克孜族十二兽：鼠、牛、虎、兔、鱼、蛇、马、羊、狐狸、鸡、狗、猪。</p><p style="TEXT-INDENT:2em">	上表可以看出我国许多少数民族如蒙古、壮、部分彝族的十二生肖受汉族影响，与汉族基本一致。但有的民族在接收汉族生肖文化的同时又产生了一些变异，哀牢山彝族同胞在十二生肖系列中，以穿山甲占据了龙的位置；新疆柯尔克孜族十二生肖中以鱼代龙、又以狐狸代猴；海南黎族同胞以十二生肖纪日，其次序以鸡起首，猴煞尾；生活在西双版纳地区的傣族以黄牛代替牛，以山羊代羊，亥的属相不是猪而是象。从以上变化中大致可以看出，各民族在选择十二生肖动物时，由于生存环境的不同、物种的不同，选择了最亲近的动物作为生肖动物，从而给生肖文化带来了一定的差异。除了在生肖动物选择上的变异外，少数民族还形成各自不同的纪年、纪日方法，同时产生了许多与生肖有关的民俗。</p><p style="TEXT-INDENT:2em"><strong>外国生肖</strong></p><p style="TEXT-INDENT:2em"><strong>印度：</strong>鼠、牛、狮、兔、龙、马、羊、蛇、猴、鸟、狗、猪&#160;按年排列</p><p style="TEXT-INDENT:2em"><strong>法国：</strong>摩羯、水瓶、双鱼、白羊、金牛、双子、巨蟹、狮子、处女、天秤、天蝎、射手&#160;按月排列</p><p style="TEXT-INDENT:2em"><strong>缅甸：</strong>星期一属虎，星期二属狮，星期三上午属象，星期三下午属无牙象，星期四属鼠，星期五属天竺鼠，星期六属龙，星期天属妙翅鸟&#160;按星期排列</p><p style="TEXT-INDENT:2em"><strong>埃及：</strong>公牛、山羊、狮、驴、蟹、蛇、狗、猫、鳄、红鹤、猿、鹰&#160;按年排列</p><p style="TEXT-INDENT:2em"><strong>希腊：</strong>公牛、山羊、狮、驴、蟹、蛇、狗、猫、鳄、红鹤、猿、鹰&#160;按年排列</p><p style="TEXT-INDENT:2em"><strong>巴比仑：</strong>猫、狗、蛇、蜣螂、驴、狮、公羊、公牛、隼、猴、红鹤、鳄&#160;按年排列</p></div></div></div><a name="anchor9"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        十二生肖在英语中的喻义</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	“生肖”是代替<a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十二地支">十二地支</a>、用来表示人们出生的12种动物，即鼠、牛、虎、兔、龙、蛇、马、羊、猴、鸡、狗、猪。如寅年出生的人属虎，卯年出生的人属兔。“生肖”也就是俗话说的“属相”，是中国人特有的一种表示出生时间的方式，相当于西方的黄道<a style="color:#000" title="十二星座" href="http://114.xixik.com/12xingzuo/">十二星座</a>（双鱼座、白羊座、金牛座、双子座、巨蟹座、狮子座、室女座、天秤座、天蝎座、人马座、摩羯座、宝瓶座）。</p><p style="TEXT-INDENT:2em">	英语中，当谈个人出生的属相时，表达为</p><p style="TEXT-INDENT:2em">	“What animal sign were you born under?你属什么？</p><p style="TEXT-INDENT:2em">	I was born in the year of the Rat. / Mine is the Rat.我属鼠。”</p><p style="TEXT-INDENT:2em">	汉语中，人们往往以<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>中的动物来比喻人，即把不同（性格、特征、习性等）的人比作动物，如常以“毒如蛇蝎”，“笨猪”、“胆小如鼠”来比喻心毒手辣的人、笨人、胆小怯懦的人等。英语中同样可用<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>中的动物喻人，其所表达的意思不尽相同。从下面的<a href="http://www.xixik.com/content/ab925d72782e2222" title="十二生肖英文怎么说？">十二生肖英语翻译中就能看出各种属相在英语中表达的意义</a>。</p><p style="TEXT-INDENT:2em">	Rat charm, 子鼠</p><p style="TEXT-INDENT:2em">	Ox patient, 丑牛</p><p style="TEXT-INDENT:2em">	Tiger sensitive, 寅虎</p><p style="TEXT-INDENT:2em">	Rabbit articulate, 卯兔</p><p style="TEXT-INDENT:2em">	Dragon healthy, 辰龙</p><p style="TEXT-INDENT:2em">	Snake deep, 巳蛇</p><p style="TEXT-INDENT:2em">	Horse popular, 午马</p><p style="TEXT-INDENT:2em">	Goat elegant, 未羊</p><p style="TEXT-INDENT:2em">	Monkey clever, 申猴</p><p style="TEXT-INDENT:2em">	Rooster deep thinkers, 酉鸡</p><p style="TEXT-INDENT:2em">	Dog loyalty, 戌狗</p><p style="TEXT-INDENT:2em">	Pig chivalrous. 亥猪</p></div></div></div></div><script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script><script type="text/javascript">        var value = '54';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script><div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/12birthpet/" target="_self" title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a></div><ul style="width: 960px; margin: auto; overflow: hidden;"><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/lixi/"
+                title="人民币存款利率表，2019银行利息，银行存款利率，银行贷款利率">银行存款利息</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chaodai/zhou/"
+                title="周朝历史_西周历史_东周历史_周朝帝王列表">周朝历史</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证_中国旅行证更换新政策_美宝中国旅行证过期了该怎么办？">中国旅行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国历任总统名单_美国历届总统任期_美国总统简历生卒年份及所属党派">美国历届总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/baijiaxing-qq/"
+                title="百家姓qq头像,百家姓qq头像闪图大全_百家姓中国心qq头像">百家姓QQ头像</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="赴美生子_美宝证件_中国旅行证_美国护照_社会安全号_美国出生纸_美宝上户口">美宝需要哪些证件？</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_赴美生子费用预算清单_赴美生子2019费用">赴美生子要多少钱</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/obama/"
+                title="奥巴马_美国总统奥巴马_贝拉克·奥巴马(Barack Hussein Obama)_第44任美国总统">奥巴马</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/trump/"
+                title="美国总统特朗普_唐纳德·约翰·特朗普_Donald John Trump_第45任美国总统川普">特朗普</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_赴美生子要多少钱？_赴美生子预算表">赴美生子费用</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 中国护照免签证国家2019">中国护照免签证</a></li></ul><div class="lindBox"><div class="btnGray"><div class="btnText"><a target="_self" title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表" href="http://news.xixik.com/word/54/">另存为<br />                    Word格式</a></div></div></div><div class="lindBox" style="text-align: center;"><img src="http://news.xixik.com/qrcode/54/" alt="扫码手机上继续看" /><br /><br /><strong>用微信或者支付宝扫码在手机上继续观看<br />            可以保存收藏，也扫码后可以分享给好友
+        </strong></div><hr style="height: 1px; border: none; border-top: 1px dashed #999;" /><script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script><!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.--></body></html>
