@@ -65,7 +65,7 @@ encyclopedia
         ├── 毛泽东传.pdf
         ├── 毛泽东选集.exe
         ├── 邓小平文选.exe
-        ├── 邓小平时代（https://pan.baidu.com/s/1cEiEzMHjea4wwSdNfovIRQ）
+        ├── 邓小平时代.pdf（https://pan.baidu.com/s/1cEiEzMHjea4wwSdNfovIRQ）
         ├── 周恩来年谱1898-1976.pdf
         ├── 《周恩来传》_[英]迪克·威尔逊+著.pdf
         ├── 蒋介石日记揭秘（上）.pdf
