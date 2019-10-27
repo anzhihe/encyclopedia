@@ -89,9 +89,9 @@ encyclopedia
 
 > 资料/地图来源
 - [互动世界历史地图集](http://geacron.com/home-zh-hans/)
-- [太史古卷](http://hisgeomap.com/)
 - [Mapping History](https://mappinghistory.uoregon.edu/english/index.html)
 - [中国历史地图](https://www.ageeye.cn/china/)
+- [太史古卷](http://hisgeomap.com/)
 - http://114.xixik.com
 - https://www.zhihu.com/question/27845854
 - 网络
