@@ -36,6 +36,7 @@ encyclopedia
     ├── Map
     │   ├── 世界地图-放大.jpg
     │   ├── 世界地图-高清犀利版.xlsx
+    │   ├── 世界歷史地圖.zip
     │   ├── 中国地图11935x8554.jpg
     │   ├── 中国地图高清.jpg
     │   └── 超高清晰世界地图.jpg
@@ -72,7 +73,11 @@ encyclopedia
         └── 蒋介石日记揭秘（下）.pdf
 ```
 
-> 资料来源
-- https://www.ageeye.cn/china/
+> 资料/地图来源
+- [互动世界历史地图集](http://geacron.com/home-zh-hans/)
+- [太史古卷](http://hisgeomap.com/)
+- [Mapping History](https://mappinghistory.uoregon.edu/english/index.html)
+- [中国历史地图](https://www.ageeye.cn/china/)
 - http://114.xixik.com
+- https://www.zhihu.com/question/27845854
 - 网络
