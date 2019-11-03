@@ -3,7 +3,7 @@ encyclopedia
 ├── README.md
 └── file
     ├── China
-    │   ├── 朝代顺序表.doc
+    │   ├── 朝代顺序表.docx
     │   ├── 朝代歌.doc
     │   ├── 中国朝代顺序表.doc
     │   ├── 中国历代帝王世系与年号总表.xls
