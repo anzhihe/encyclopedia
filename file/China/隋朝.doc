@@ -1,0 +1,1710 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <title>隋朝_隋朝历史简介_隋朝皇帝列表_中国朝代顺序表</title>
+    <link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" />
+    <meta name="description" content="隋朝(公元581年—618年)是中国历史上最伟大的朝代之一,也是全世界公认的中国最强盛的时代之一。隋朝共存在了三十九年,隋朝的开国皇帝是谁？隋朝第二代皇帝？隋朝末代皇帝是谁？隋朝的短命究竟是什么呢？" />
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/chaodai/sui/">
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <base target="_blank" />
+    
+    <script>
+        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "chaodai/sui/";
+        }
+
+
+    </script>
+    <style>
+        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style>
+</head>
+<body>
+    <a name="top4"></a>
+    <div class="topBox" name="top">
+        <div class="topMain">
+            <div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div>
+            <div id="icoPhone"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div>
+            <div id="icoWechat"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a> </div>
+            <div id="icoSina"></div>
+            <div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a>  </div>
+            <div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div>
+            <div class="topRight">
+            </div>
+        </div>
+    </div>
+
+    <div id="showqrCode">
+        <div><span></span></div>
+        <img src="" /><div><span></span></div>
+    </div>
+    <script type="text/javascript">
+        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script>
+    <div class="body">
+        
+        <div class="lindBox" style="position: relative;">
+            <img src="http://img.xixik.net/custom/topic/001/chaodai-sui.jpg" alt="隋朝_隋朝历史简介_隋朝皇帝列表_中国朝代顺序表" />
+            <div class="title">
+                <h1>隋朝_隋朝历史简介_隋朝皇帝列表_中国朝代顺序表</h1>
+            </div>
+        </div>
+        
+
+        <div class=" custom_border lindBox">
+            <div class="special_content">
+                <div class="content_text">
+                    <div class="content_daodu">
+                    </div>
+                    <h2 style="border-bottom:1px dashed #999; displayinline;">隋朝</h2>
+                    <a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>（公元581年—618年）上承南北朝、下启唐朝的的大一统王朝。那隋朝是如何灭亡的，隋朝多少年？隋朝有几个皇帝？隋唐的说法从何而来？隋朝的民生、人均生活水平、人民生活质量恰恰是历代最好的、人均收入、购买力也是历史上最高的，事实上是在中国所有朝代中，隋朝国也最富民也最富，这得益于隋文帝的仁政爱民而推行的各项开明政策。
+                </div>
+            </div>
+        </div>
+
+        <div class="lindBox" style="overflow: hidden;">
+            <div class="gg1">
+                <a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a>
+            </div>
+            <div class="guide">
+                <div class="guideBorder" id="guideBorder">
+                    <div class="guideTitle">导读（目录）</div>
+                    <ul id="guideDisplay">
+                        
+                                <li>·<a title="隋朝历史简介" href="#anchor1" target="_self"> 隋朝历史简介</a></li>
+                            
+                                <li>·<a title="隋朝皇帝列表" href="#anchor2" target="_self"> 隋朝皇帝列表</a></li>
+                            
+                                <li>·<a title="隋朝的传说·故事·典故" href="#anchor3" target="_self"> 隋朝的传说·故事·典故</a></li>
+                            
+                                <li>·<a title="杨坚如何篡位建立隋朝" href="#anchor4" target="_self"> 杨坚如何篡位建立隋朝</a></li>
+                            
+                                <li>·<a title=" 隋朝平定江南的方略" href="#anchor5" target="_self">  隋朝平定江南的方略</a></li>
+                            
+                                <li>·<a title="隋朝战争" href="#anchor6" target="_self"> 隋朝战争</a></li>
+                            
+                    </ul>
+                    <div class="guideOpen">展开&darr;</div>
+                </div>
+            </div>
+
+            <div class="guideFllow">
+                <div class="guideFllowBorder">
+                    <div class="guideFllowTitle">导读（目录）</div>
+                    <ul id="guideFllowDisplay">
+                        
+                                <li>·<a title="隋朝历史简介" href="#anchor1" target="_self"> 隋朝历史简介</a></li>
+                            
+                                <li>·<a title="隋朝皇帝列表" href="#anchor2" target="_self"> 隋朝皇帝列表</a></li>
+                            
+                                <li>·<a title="隋朝的传说·故事·典故" href="#anchor3" target="_self"> 隋朝的传说·故事·典故</a></li>
+                            
+                                <li>·<a title="杨坚如何篡位建立隋朝" href="#anchor4" target="_self"> 杨坚如何篡位建立隋朝</a></li>
+                            
+                                <li>·<a title=" 隋朝平定江南的方略" href="#anchor5" target="_self">  隋朝平定江南的方略</a></li>
+                            
+                                <li>·<a title="隋朝战争" href="#anchor6" target="_self"> 隋朝战争</a></li>
+                            
+                    </ul>
+                    <div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div>
+                </div>
+            </div>
+
+
+            <div class="gg2">
+                <a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a>
+            </div>
+        </div>
+        
+        <a name="anchor1"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        隋朝历史简介</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<strong><a href="http://114.xixik.com/chaodai/sui/" style="font-size:35px; font-family:Yahei;color:#000" title="隋朝">隋朝</a></strong>（Sui Dynasty，581年－618年，一说619年或630年）是<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>上承南北朝下启<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>的大一统王朝，是<a href="http://114.xixik.com/chaodai/5hu16guo/" style="color:#000" title="五胡乱华">五胡乱华</a>之后汉族在北方重新建立的大一统王朝，结束了魏晋南北朝的三百年的大分裂，完成了<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>上第二次大统一。因<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>与<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>的文化、制度、社会特点一脉相承，故史学家常将两朝合称为隋唐。现在常说&ldquo;周秦汉唐&rdquo;，但忽略了隋，显然有失公允，唐的盛世实际上是<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>的接力。</p>
+<p style="TEXT-INDENT:2em">
+	大定元年（581年）二月，北周静帝禅让帝位于杨坚，北周覆亡。杨坚定国号为&ldquo;隋&rdquo;，定都大兴城（今西安）。因为隋文帝之父杨忠，曾被北周封为&ldquo;隨国公&rdquo;。杨坚袭此封爵，即位后立国号为&ldquo;隨&rdquo;，但其认为&ldquo;隨&rdquo;字的&ldquo;辶&rdquo;有忽走忽停不稳定的意思，恐不祥，于是他去掉&ldquo;辶&rdquo;，以&ldquo;隋&rdquo;这个新字作为王朝名。大业元年（605年），隋炀帝即位后，令宇文恺营建东都洛阳，并于大业二年（606年）颁布诏书迁都洛阳。589年南下灭陈朝，统一中国，结束了自<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="西晋">西晋</a>末年以来长达近300年的分裂局面。<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>之初，与突厥进行战争，击溃了突厥的军事威胁，还统一了青海地区。隋文帝在位年间社会民生富庶、人民安居乐业、政治安定，开创了&rdquo;开皇之治&ldquo;的繁荣局面。隋炀帝在位时期修建了贯通南北的大运河，是<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>上最大的两个人造工程之一（另一是长城），但因过度消耗国力，引发隋末民变和贵族叛变。大业十四年（618年）李渊迫使隋恭帝禅让，享国祚38年。619年，皇泰主被迫禅位王世充，<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>彻底亡。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://img.xixik.net/custom/section/chaodai/sui/xixik-7b970d04880023e7.jpeg"><img src="http://img.xixik.net/custom/section/chaodai/sui/xixik-7b970d04880023e7.jpeg" style="margin: 10px; float: right; width: 400px;" /></a></p>
+<p style="TEXT-INDENT:2em">
+	为了巩固统治，隋朝在政治、经济、文化及外交等领域进行了大刀阔斧的改革。政治上确立了三省六部制，巩固中央集权；正式推行科举制，选拔优秀人才，弱化世族垄断仕官的现象，对后世影响深远，考试选拔人才的方式至今仍被中国和世界诸多国家所运用。<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>做出了其他王朝无法比拟的巨大成就；另外建立政事堂议事制、监察制、考绩制，这些都强化了政府机制，根据南北朝的经验而改革政治，兴建了隋唐大运河以及驰道改善水陆交通线。在军事上继续推行和完善府兵制度，经济上一方面实行均田制并改定赋役，减轻农民生产压力，另一方面采取大索貌阅和输籍定样等清查户口措施，以增加财政收入。外交方面，<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>盛世也使得当时周边国家和境内的少数民族如高昌、倭国、高句丽、新罗、百济与臣服的东突厥等国皆深受<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>文化与典章制度的影响，外交以日本的遣隋使最为著名。</p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://114.xixik.com/chaodai/sui/" style="color:#000;" title="隋朝">隋朝</a></strong>尽管只存活了三十多年，和十几年的<a href="http://114.xixik.com/chaodai/qin/" style="color:#000;" title="秦朝">秦朝</a>一样，都很&ldquo;短命&rdquo;，<a href="http://www.xixik.com/content/3d04220d6f90db0e" title="短命王朝的接力">但恰恰是这两个&ldquo;短命&rdquo;王朝</a>，完成了<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000;" title="中国历史">中国历史</a>上两次大的统一。一个结束了&ldquo;春秋战国&rdquo;的大动荡，一个结束了魏晋南北朝的大分裂。而且两个<a href="http://114.xixik.com/chaodai/" style="color:#000;" title="历史朝代顺序表">朝代</a>在制度建设上也做出了其他王朝无法比拟的巨大成就。比如<a href="http://114.xixik.com/chaodai/qin/" style="color:#000;" title="秦朝">秦朝</a>建立的以<a href="http://114.xixik.com/chinese-emperors/" style="color:#000;" title="中国皇帝列表">皇帝</a>制度，三公九卿制度以及郡县制等为核心的中央集权制度，以及<a href="http://114.xixik.com/chaodai/sui/" style="color: rgb（0, 0, 0）;" title="隋朝">隋朝</a>建立的以三省六部制和科举制为核心的封建王朝的新型政治体制对后世产生深远的影响。</p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>户口流动表</strong></p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style=" text-align: center; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<th align="center" valign="middle" width="15%">
+				<div label-module="para">
+					年代</div>
+			</th>
+			<th align="center" valign="middle" width="10%">
+				<div label-module="para">
+					户数</div>
+			</th>
+			<th align="center" valign="middle" width="10%">
+				<div label-module="para">
+					口数</div>
+			</th>
+			<th align="center" valign="middle">
+				<div label-module="para">
+					备注</div>
+			</th>
+		</tr>
+		<tr>
+			<td align="center" colspan="1" rowspan="1" valign="center">
+				北齐隆化元年（577年）</td>
+			<td align="left" colspan="1" rowspan="1" valign="middle">
+				<div label-module="para">
+					①3302528</div>
+				<div label-module="para">
+					②3032528</div>
+			</td>
+			<td align="left" colspan="1" rowspan="1" valign="middle">
+				<div label-module="para">
+					①20006886</div>
+				<div label-module="para">
+					②20006880</div>
+			</td>
+			<td align="left" colspan="1" rowspan="1" valign="middle">
+				<div label-module="para">
+					①号数据出自《周书&middot;卷六》</div>
+				<div label-module="para">
+					②号数据出自《通典&middot;食货七》</div>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1" valign="middle">
+				南陈太建九年（577年）</td>
+			<td align="left" colspan="1" rowspan="1" valign="middle">
+				<div label-module="para">
+					①50万</div>
+				<div label-module="para">
+					②60万</div>
+			</td>
+			<td align="left" colspan="1" rowspan="1" valign="middle">
+				<div label-module="para">
+					①200万</div>
+				<div label-module="para">
+					②240万</div>
+			</td>
+			<td align="left" colspan="1" rowspan="1" valign="middle">
+				<div label-module="para">
+					①号数据出自《北史&middot;卷十一》</div>
+				<div label-module="para">
+					②号数据出自《隋书&middot;卷二十九》</div>
+				<div label-module="para">
+					根据学者考证实际人口达1500万</div>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" colspan="1" rowspan="1" valign="center">
+				北周大象二年（580年）</td>
+			<td align="left" colspan="1" rowspan="1" valign="middle">
+				<div label-module="para">
+					①3599604</div>
+				<div label-module="para">
+					②1599604&nbsp;</div>
+			</td>
+			<td align="left" colspan="1" rowspan="1" valign="middle">
+				9009604</td>
+			<td align="left" colspan="1" rowspan="1" valign="middle">
+				<div label-module="para">
+					①号数据出自《通典&middot;食货七》</div>
+				<div label-module="para">
+					注：统计范围仅包括北周旧地，学者考虑未纳入统计的人口而认为实际约为1250多万人。</div>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="center">
+				<div label-module="para">
+					北周大定元年（581年）灭齐后</div>
+			</td>
+			<td align="left" valign="middle">
+				<div label-module="para">
+					4622528</div>
+			</td>
+			<td align="left" valign="middle">
+				<div label-module="para">
+					29016484</div>
+			</td>
+			<td align="left" valign="middle">
+				<div label-module="para">
+					数据出自《十六国北朝人口考察》，学者路遇、腾泽之认为灭齐后实际人口约为3250万。</div>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="center">
+				<div label-module="para">
+					隋文帝开皇九年（589年）灭陈前</div>
+			</td>
+			<td align="left" valign="middle">
+				<div label-module="para">
+					650万</div>
+			</td>
+			<td align="left" valign="middle">
+				<div label-module="para">
+					33579000</div>
+			</td>
+			<td align="left" valign="middle">
+				<div label-module="para">
+					户数出自《隋书&middot;卷四十二》</div>
+				<div label-module="para">
+					口数出自王育民版《中国人口史》</div>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="center">
+				<div label-module="para">
+					隋文帝开皇九年（589年）灭陈后</div>
+			</td>
+			<td align="left" valign="middle">
+				<div label-module="para">
+					710万</div>
+			</td>
+			<td align="left" valign="middle">
+				<div label-module="para">
+					36678600&nbsp;</div>
+			</td>
+			<td align="left" valign="middle">
+				数据出自王育民版《中国人口史》</td>
+		</tr>
+		<tr>
+			<td align="center" colspan="1" rowspan="1" valign="center">
+				隋文帝开皇十八年（598年）</td>
+			<td align="left" colspan="1" rowspan="1" valign="middle">
+				870万</td>
+			<td align="left" colspan="1" rowspan="1" valign="middle">
+				44944200&nbsp;</td>
+			<td align="left" colspan="1" rowspan="1" valign="middle">
+				户数出自《唐会要&middot;卷八十四》</td>
+		</tr>
+		<tr>
+			<td align="center" valign="center">
+				<div label-module="para">
+					隋炀帝大业五年（609年）</div>
+			</td>
+			<td align="left" valign="middle">
+				<div label-module="para">
+					①8907546</div>
+				<div label-module="para">
+					②9070404&nbsp;</div>
+			</td>
+			<td align="left" valign="middle">
+				<div label-module="para">
+					①46019956</div>
+				<div label-module="para">
+					②46854540&nbsp;</div>
+			</td>
+			<td align="left" valign="middle">
+				<div label-module="para">
+					此为官方统计的户口峰值，因学者考虑到依附于门阀士族的浮客、部曲、奴婢、客女以及官户、匠户、乐户、佃农等大量未纳入户口统计的人群，故学者认为实际人口略高于官方统计数据，<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>人口峰值应约为5032万。</div>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="center">
+				<div label-module="para">
+					唐高祖武德七年（624年）</div>
+			</td>
+			<td align="left" valign="middle">
+				<div label-module="para">
+					200余万</div>
+			</td>
+			<td align="left" valign="middle">
+				<div label-module="para">
+					1500余万</div>
+			</td>
+			<td align="left" valign="middle">
+				<div label-module="para">
+					户数出自《册府元龟&middot;卷四百八十六》</div>
+				<div label-module="para">
+					口数出自路遇、腾泽之的《中国人口通史》</div>
+			</td>
+		</tr>
+		<tr>
+			<td align="left" colspan="4" valign="middle">
+				<div label-module="para">
+					注：本表数据参考《周书》、《北史》、《隋书》、《通典》、《唐会要》以及各版《中国人口史》。</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	但是仅仅依据上述表格数据，认为短命隋朝38年的富庶，<a href="http://www.xixik.com/content/47bc3bbfe9e76306" title="唐朝近三百年统治加两个盛世不如一个“开皇”？">让唐朝五代才让人口赶上</a>是有失公允的。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor2"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        隋朝皇帝列表</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>一共有几个<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>？<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>一共有五个<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>（不计追封），正统<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>只有三位：隋文帝、隋炀帝、隋恭帝。</p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<td>
+				<strong>年号</strong></td>
+			<td>
+				<strong>纪年</strong></td>
+			<td>
+				<strong>庙号</strong></td>
+			<td>
+				<strong>名字</strong></td>
+			<td>
+				<strong>即位<br />
+				时间</strong></td>
+			<td>
+				<strong>即位<br />
+				年龄</strong></td>
+			<td>
+				<strong>在位<br />
+				年数</strong></td>
+			<td>
+				<strong>死时<br />
+				年龄</strong></td>
+			<td>
+				<strong>世系</strong></td>
+			<td>
+				<strong>备注</strong></td>
+		</tr>
+		<tr>
+			<td>
+				开皇</td>
+			<td>
+				581</td>
+			<td rowspan="2">
+				高祖</td>
+			<td rowspan="2">
+				杨坚</td>
+			<td rowspan="2">
+				（581）</td>
+			<td rowspan="2">
+				41</td>
+			<td rowspan="2">
+				24</td>
+			<td rowspan="2">
+				64</td>
+			<td rowspan="2">
+				弘农华阴人，移居武川镇，父杨忠，西魏、北周开国功臣，位至上柱国、大司空、隋国公</td>
+			<td rowspan="2">
+				北周时，袭父爵隋国公，其女为宣帝皇后，故宣帝拜为上柱国、大四马，宣帝死，静帝八岁即位，坚以外祖总揽大权，封隋王，581年二月，废静帝自立，国号隋</td>
+		</tr>
+		<tr>
+			<td>
+				仁寿</td>
+			<td>
+				601</td>
+		</tr>
+		<tr>
+			<td>
+				大业</td>
+			<td>
+				605</td>
+			<td>
+				炀帝</td>
+			<td>
+				杨广</td>
+			<td>
+				（604）</td>
+			<td>
+				36</td>
+			<td>
+				15</td>
+			<td>
+				50</td>
+			<td>
+				文帝第二子</td>
+			<td>
+				开皇元年封为晋王，太子杨勇被废，立以为皇太子，604年七月杀其父即位，618年三月，被禁军将领宇文化及等缢死于江都</td>
+		</tr>
+		<tr>
+			<td>
+				义宁</td>
+			<td>
+				617</td>
+			<td>
+				恭<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></td>
+			<td>
+				杨侑</td>
+			<td>
+				（617）</td>
+			<td>
+				13</td>
+			<td>
+				2</td>
+			<td>
+				15</td>
+			<td>
+				炀帝孙，元德太子杨昭之子</td>
+			<td>
+				大业三年封陈王，后改封代王，617年李渊入长安，奉以为帝，改元义宁，遥尊炀帝为太上皇，次年五月，禅位于李渊，隋亡</td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT:2em">
+	史家用<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>来纪年，被史家用来纪年的<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a><a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>就是隋文帝、隋炀帝、隋恭帝这三个人。隋炀帝死，隋恭帝在长安被李渊拥立为帝，而且在位两年。对于从隋炀帝死到唐高祖即位之间的这个时间段史家就是以隋恭帝来纪年的，隋恭帝当然是<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>的第三位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>。而唐高祖李渊则是在隋恭帝在位两年后才称帝的。</p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://114.xixik.com/chinese-emperors/sui/" style="color:#000;" title="隋朝皇帝列表及简介">隋朝皇帝列表及简介</a></strong></p>
+<p style="TEXT-INDENT:2em">
+	1、隋文帝杨坚（西魏大统七年－仁寿四年，即541年～604年），<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>开国<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，谥号文帝，庙号高祖，在位24年，后为次子杨广所弑。 杨坚为华阴人，系西魏随国公、北周柱国、大司空杨忠之子。北周时曾为&ldquo;骠骑大将军&rdquo;，又封为&ldquo;大兴郡公&rdquo;，后袭父爵柱国，并将长女嫁北周武帝为后，地位显赫，北周武帝时任随州刺史。其妻即独孤皇后为北周时当朝柱国、大将军独孤信之女。公元581年，杨坚以&ldquo;受禅&rdquo;为名，废北周静帝而自立，改年号为&ldquo;开皇&rdquo;，建立了&ldquo;<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>&rdquo;。隋文帝杨坚以汉人政权取代了长期统治中国的北方少数民族政权。可以说，隋文帝在<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>发展中有着重要的作用。隋文帝非常俭朴，而且 他勤于政事，惜兵爱民，但他也有自己的缺点，他天性忌刻，不辨忠奸，废太子杨勇，最终被自己的亲生儿子杨广杀害。</p>
+<p style="TEXT-INDENT:2em">
+	2、隋炀帝杨广（569年 - 618年3月11日，在位604年～617年）。<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>的第二个<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，杨坚的次子，是个很有才华、头脑精明的人，却以残暴著称于世。在经过弑父、杀兄、 囚弟之后，于仁寿四年七月登上<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>的宝座，并改元大业。隋炀帝一即位，就开始了穷奢极欲、纵情声色的腐化生活。修东都、<a href="http://www.xixik.com/content/b9f266538ed001ea">开运河</a>、筑长城（<a href="http://www.xixik.com/content/99e74462f321c06c">唯独没有修建自己陵墓</a>）；或北巡、或西狩、 或东征、或南游，舟车驼马，日不暇给；徭役繁多，虽然在某些方面确实有着很好的作用，但是总的来说，他的这些做法严重地破坏了生产，而且使<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>的国力也一落千丈，并将<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>推向灭亡。</p>
+<p style="TEXT-INDENT:2em">
+	3、隋恭帝杨侑（605年－619年），隋炀帝之孙，617年11月李渊<span arial="" style="text-indent: 2em; color: rgb（0, 0, 0）; font-family: 宋体, ">以尊隋为名，打着</span><span arial="" style="color: rgb（0, 0, 0）; font-family: 宋体, ">&ldquo;废昏立明，拥立代王&rdquo;旗号</span>攻入长安后拥立他为帝，<span arial="" style="color: rgb（0, 0, 0）; font-family: 宋体, ">遥尊隋炀帝为太上皇，</span><span arial="" style="text-indent: 2em; color: rgb（0, 0, 0）; font-family: 宋体, ">改元&ldquo;义宁&rdquo;。李渊被</span><span arial="" style="text-indent: 2em; color: rgb（0, 0, 0）; font-family: 宋体, ">册封为唐王，大丞相，</span><span arial="" style="text-indent: 2em; color: rgb（0, 0, 0）; font-family: 宋体, ">把握了朝政，其实乃傀儡皇帝</span><span arial="" style="text-indent: 2em; color: rgb（0, 0, 0）; font-family: 宋体, ">。</span><span arial="" style="text-indent: 2em; color: rgb（0, 0, 0）; font-family: 宋体, ">义宁二年（618年），</span><span arial="" style="text-indent: 2em; color: rgb（0, 0, 0）; font-family: 宋体, ">隋恭帝杨侑&ldquo;禅让&rdquo;帝位与李渊。</span>武德二年去世，年仅15岁，葬于陕西省乾县阳洪乡乳台村南500米处。</p>
+<p style="TEXT-INDENT:2em">
+	4、隋秦王杨浩（605－618年）， 隋炀帝之侄，秦王杨俊之子，继承父亲的王位为秦王。618年3月，炀帝在江都被弑，杨浩被宇文化及立为<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，其实乃傀儡<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>。618年3月&mdash;&mdash;618年9月在位<span style="text-indent: 2em;">半年后的9月，宇文化及废黜杨浩，自立为</span><a href="http://114.xixik.com/chinese-emperors/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="中国皇帝列表">皇帝</a><span style="text-indent: 2em;">，并将杨浩毒死。</span></p>
+<p style="TEXT-INDENT:2em">
+	5、隋世宗杨昭（追封）（584―606），隋炀帝杨广长子，母皇后萧氏。大业元年（605年）被立为皇太子。美容仪，有武力，能开强弓。自奉俭朴。大业二年（606年）杨昭病故，时年二十三岁，谥&ldquo;元德&rdquo;。义宁元年（617年），其子隋恭帝杨侑即位后追谥他为孝成<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，庙号世宗。</p>
+<p style="TEXT-INDENT:2em">
+	6、隋越王杨侗（605年－619年7月），隋炀帝之孙，隋世宗杨昭之字子，从小聪明过人，宽厚仁爱，即位前为越王，公元618年5月，在东都洛阳群臣段达、王世充等人奉他为帝，改元皇泰，史称&ldquo;皇泰主&rdquo;。在位不到一年，被王世充所弑，葬处不明。有子：杨岐、杨白。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor3"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        隋朝的传说·故事·典故</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	《隋书 &middot; 高祖本纪》载：高祖以大统七年六月癸丑夜生于冯翊般若寺，紫气充庭神光满室。有尼来自河东，谓皇妣曰：&ldquo;此儿所从来甚异，不可于俗间处之。&rdquo;尼将高祖舍于别馆，躬自抚养。为人龙颔，额上有五柱入顶，目光外射，有文在手曰&ldquo;王&rdquo;。</p>
+<p style="TEXT-INDENT:2em">
+	周太祖见而叹曰：&ldquo;此儿风骨，不似代间人。&rdquo;明帝即位，授右小宫伯，进封大兴郡公。帝尝遣善相者赵昭视之，昭诡对曰：&ldquo;不过作柱国耳。&rdquo;既而阴谓高祖曰：&ldquo;公当为天下君，必大诛杀而后定。善记鄙言。&rdquo;武帝即位，迁左小宫伯。出隋州刺史，进位大将军。后征还，遇皇妣寝疾三年，昼夜不离左右，代称纯孝。宇文护执政，尤忌高祖，屡将害焉，大将军侯伏、侯寿等匡护得免。其后袭爵隋国公。武帝聘高祖长女为皇太子妃，益加礼重。齐王宪言于帝曰：&ldquo;普六茹坚相貌非常，臣每见之，不觉自失。恐非人下，请早除之。&rdquo;帝曰：&ldquo;此止可为将耳。&rdquo;内史王轨骤言于帝曰：&ldquo;皇太子非社稷主，普六茹坚貌有反相。&rdquo;帝不悦，曰：&ldquo;必天命有在，将若之何！&rdquo;高祖甚惧，深自晦匿。</p>
+<p style="TEXT-INDENT:2em">
+	建德中，率水军三万，破齐师于河桥。明年，从帝平齐，进位柱国。与宇文宪破齐任城王高湝于冀州，除定州总管。先是，定州城西门久闭不行，齐文宣帝时，或请开之，以便行路。帝不许，曰：&ldquo;当有圣人来启之。&rdquo;及高祖至而开焉，莫不惊异。寻转亳州总管。宣帝即位，以后父征拜上柱国、大司马。大象初，迁大后丞、右司武，俄转大前疑。每巡幸，恒委居守。时帝为《刑经圣制》，其法深刻。高祖以法令滋章，非兴化之道，切谏，不纳。高祖位望益隆，帝颇以为忌。帝有四幸姬，并为皇后，诸家争宠，数相毁谮。帝每忿怒，谓后曰：&ldquo;必族灭尔家！&rdquo;因召高祖，命左右曰：&ldquo;若色动，即杀之。&rdquo;高祖既至，容色自若，乃止。</p>
+<p style="TEXT-INDENT:2em">
+	《资治通鉴》载：陈后主遣散骑常侍周坟、通直散骑常侍袁彦聘于大隋。后主闻大隋高祖文<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>状貌异人，使彦画像而归。帝见，失态无状，惊狂仆地，大骇曰：&ldquo;吾不欲见此人！&rdquo;亟命屏之。&nbsp;<br />
+	　　《隋书》卷五十《庞晃传》云：&nbsp;时高祖出为随州刺史，路经襄阳，卫王令〔庞〕晃诣高祖。晃知高祖非常人，深自结纳。及高祖去官归京师，晃迎见高祖于襄邑。高祖甚欢。晃因白高祖曰：&ldquo;公相貌非常，名在图箓。九五之日，幸愿不忘。&rdquo;高祖笑曰：&ldquo;何妄言也！&rdquo;<br />
+	　　《隋书》卷七十八云：韦鼎之聘周也，尝与高祖相遇，鼎谓高祖曰：&ldquo;观公容貌，故非常人，而神监深远，亦非群贤所逮也。不久必大贵，贵则天下一家，岁一周天，老夫当委质。公相不可言，愿深自爱。&rdquo;<br />
+	　　道士张宾、焦子顺、雁门人董子华，此三人，当高祖龙潜时，并私谓高祖曰：&ldquo;公当为天子，善自爱。&rdquo;及践阼，以宾为华州刺史，子顺为开府，子华为上仪同。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>伟大的大隋高祖文<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></strong></p>
+<p style="TEXT-INDENT:2em">
+	东汉灭亡后中国经历了漫长而混乱的四分五裂的时期。汉民族陷入了长达三个半世纪的厮杀战乱之中。像仿于罗马帝国灭亡后的欧洲的黑暗时代。东晋时实际中国经过漫长的战乱的汉族已经消沉、疲惫、颓废、迷惘。中国已经接近死亡了，在中国占统治地位的已不是汉人。而是被汉人称之为蛮夷的民族。因为汉人已没有力气在作战了，强壮的青年大概大多战死，剩下的多是老弱病残妇。没有能力阻止异族的入侵。眼看着中原沃土被外人占据。据《晋书》记载，塞外内附有三十万人，入塞匈奴有数十万人，羯族和其它进入中原大地的十九种种族有一百多万人。而这些只是有记载的。南北朝时期，更是各种蛮族大批的进入中原，人数已经多于中原人。就是说北方少数民族已经占据统治地位，把中原瓜分了。内迁的北方少数民族在中原的土地上建立了自己的国家。</p>
+<p style="TEXT-INDENT:2em">
+	公元306年，巴氐族人李雄称帝，定都四川成都，建国号大成，史称成汉。<br />
+	　　公元315年，拓跋族人猗卢称王，建国号代，占有蒙古地区。<br />
+	　　公元319年，汉臣刘曜称帝，定都陕西西安，改汉为赵，史称前赵。前赵臣羯族人石勒称王。&nbsp;<br />
+	　　公元337年，东晋臣鲜卑人慕容晃建燕，史称前燕。<br />
+	　　公元351年，后赵臣氐族人符健称王，定都陕西西安，建国号大秦，史称前秦。<br />
+	　　公元384年，前秦臣鲜卑人慕容泓称王，建国号燕，史称西燕，占有陕西地区。前秦臣鲜卑人慕容垂称王，建国号燕，史称后燕，占有河北地区。<br />
+	　　公元386年，前秦臣羌族人姚苌称帝，定都陕西西安，建国号大秦，史称后秦。前秦臣拓跋圭称王，建国号魏，史称北魏。&nbsp;<br />
+	　　公元407年，匈奴人赫连勃勃称大单于，建国号大夏&hellip;&hellip;&nbsp;</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/5hu16guo/" style="color:#000" title="五胡乱华">五胡乱华</a>，十六国乱我中国。这时的中原人已不是汉时的中原人，汉朝的原有人口早已不足的一半。 中国开始蛮夷化，比起汉朝完全是一种经济文化的倒退。多年的战乱使中国的文化、建筑遭到严重破坏，多少百年的文明古城成为灰烬。多少文化宗卷遭焚毁。战国、秦汉时期的艺术基本是看不到了。外来的宗教文化逐渐统治中国，中原大地上到处兴建大大小小的庙宇，供奉着外来的神。外来的佛教已远远的压过汉人推崇的儒教。异族的音乐、舞蹈、佛教的雕塑、绘画完全统治了中国。三国、两晋、南北朝时期，除西晋有一较短时间的统一外，全国基本上处于分裂割据状态。这一时期，由于南北经济、文化的发展和民族的大融合，实现统一成为社会历史发展的必然趋势，也是全中国各阶层各族人民的迫切要求。</p>
+<p style="TEXT-INDENT:2em">
+	这时在中国黑暗的历史上出现了一个闪光的名字，一个伟大的<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>隋文帝杨坚。</p>
+<p style="text-indent: 2em;">
+	<strong>开皇之治</strong></p>
+<p style="text-indent: 2em;">
+	公元581年二月甲子日，周静帝以杨坚众望有归下诏宣布禅让。杨坚三让而受天命，自相府常服入宫，备礼即<a href="http://114.xixik.com/chinese-emperors/" style="color: rgb（0, 0, 0）;" title="中国皇帝列表">皇帝</a>位于临光殿，定国号为大隋，改元开皇，宣布大赦天下。杨坚登基当天，长安城出现了八百年一次的祥瑞天象----庆云，仿佛上天也在热烈庆祝大隋皇朝的成立。在中国历朝历代中，他被公认为是才智最高的<a href="http://114.xixik.com/chinese-emperors/" style="color: rgb（0, 0, 0）;" title="中国皇帝列表">皇帝</a>，也是最为仁慈的圣皇天子。公元589年，大隋灭了南方的陈，统一了全国，同年琉球群岛归降<a href="http://114.xixik.com/chaodai/sui/" style="color: rgb（0, 0, 0）;" title="隋朝">隋朝</a>，突厥可汗尊杨坚为圣人天可汗，表示愿为藩属永世归顺，千万世为圣朝典牛马。隋文帝结束了中国长期混乱的局面、征服各族蛮夷使中国又回到了和平年代。<a href="http://114.xixik.com/chaodai/sui/" style="color: rgb（0, 0, 0）;" title="隋朝">隋朝</a>的李德林《天命论》中说隋文帝，&ldquo;帝体貌多奇，其面有日月河海，赤龙自通，天角洪大，双上权骨，弯回抱目，口如四字，声若钏鼓，手内有王文，乃受九锡。昊天成命，于是乎在。顾盼闲雅，望之如神，气调精灵，括囊宇宙，威范也可敬，慈爱也可亲，早任公卿，声望自重。&rdquo; 初唐的李延寿在《北史》中赞美隋文帝， &ldquo;皇考美须髯，身长七尺八寸，状貌瑰伟，武艺绝伦；识量深重，有将率之略。&rdquo;大<a href="http://114.xixik.com/chaodai/sui/" style="color: rgb（0, 0, 0）;" title="隋朝">隋朝</a>建立以后，在政治、经济等制度方面进行了一系列的改革，史称开皇之治。在中央实行三省六部制，将地方的州、郡、县三级制改为州、县两级制，地方官吏概由中央任免，由此巩固了中央集权。大隋开皇盛世气象恢宏磅礴，隋文帝下令修建西京大兴城（即后来长安城）和东京洛阳城，大兴城的修建不仅是中国古代城市建设规划高超水平的标志，也是当时国家的经济实力和科技水平的综合体现。大兴城乃当时的&ldquo;世界第一城&rdquo;，它的设计和布局思想，对后世都市建设及日本、朝鲜都市建设都有深刻的影响&hellip;&hellip;隋文帝于公元584年命宇文恺率众开漕渠。自大兴城西北引渭水，略循汉代漕渠故道而东，至潼关入黄河，长150多公里，名广通渠。这是修建大运河的开始&hellip;&hellip;大运河对于中国来说远比长城对于中国更重要。大运河连接黄河流域长江流域，连接了两个文明。使黄河流域长江流域逐渐成为一体。&ldquo;鸿恩大德，前古未比。&rdquo;&ldquo;七德既敷，九歌已洽，要荒咸暨，尉候无警。于是躬节俭，平徭赋，仓廪实，法令行，君子咸乐其生，小人各安其业，强无凌弱，众不暴寡，人物殷阜，朝野欢娱。二十年间，天下无事，区宇之内晏如也。考之先王，足以参踪盛烈。&rdquo;这就是隋书里的&ldquo;开皇之治&rdquo;。程朱理学祖师爷激动地评价这位伟大的<a href="http://114.xixik.com/chinese-emperors/" style="color: rgb（0, 0, 0）;" title="中国皇帝列表">皇帝</a>：&ldquo;地凭宸极，天纵神武，开运握图，创业垂统，圣德也；拨乱反正，济国宁人，六合八纮，同文共轨，神功也；玄酒陶匏，云和孤竹，禋祀上帝，尊极配天，大孝也；偃伯戢戈，正礼裁乐，纳民寿域，驱俗福林，至政也。&rdquo;后世的魏征赞叹道：&ldquo;<a href="http://114.xixik.com/chinese-emperors/" style="color: rgb（0, 0, 0）;" title="中国皇帝列表">皇帝</a>载诞之初，神光满室，具兴王之表，韫大圣之能。或气或云，荫映于廊庙；如天如日，临照于轩冕。内明外顺，自险获安，岂非万福扶持，百禄攸集。&rdquo;可见大隋留给我们子孙后代的财富、对后世中国造成深远的影响却很多。如三省六部制、开皇律、州县两级制、均田制、大运河、科举制度、长安城、洛阳城、义仓的创立&hellip;&hellip;</p>
+<p style="TEXT-INDENT:2em">
+	<strong>文武大帝&mdash;&mdash;隋炀帝</strong></p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/chaodai/sui/xixik-cf4c46ac3fcc65fd.jpg" style="margin: 10px; float: right; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	隋炀帝杨广（569年&mdash;&mdash;618年3月11日）是隋文帝杨坚的第二个儿子。小名阿麽，又名杨英。上美姿仪，少敏慧，高祖及后于诸子中，特所钟爱。晋王（杨广）眉上双骨隆起，贵不可言。开皇元年（585年）只有十三岁被封为晋王，并做了并州（今山西太原市）的总管，拱卫京城。杨坚为了让儿子得到锻炼，日后能当大任。让很有才干的大臣王韶、李彻担任杨广的辅臣。上好学，善属文，沈深严重，朝野属望。炀帝年少好学，喜欢诗文，有文集55卷，可惜皆已失传。&nbsp;</p>
+<p style="TEXT-INDENT:2em">
+	杨广在位14年（604年&mdash;&mdash;618年），文武双全，才华横溢，战功卓著。&ldquo;统一江山&rdquo;、&ldquo;修通运河&rdquo;、&ldquo;修建东都&rdquo;、&ldquo;西巡张掖&rdquo;、&ldquo;改革创新&rdquo;、 &ldquo;三游江都&rdquo;、&ldquo;三驾辽东&rdquo;可以概括他一生所为。&nbsp;</p>
+<p style="TEXT-INDENT:2em">
+	<strong>隋炀帝的功业</strong></p>
+<p style="TEXT-INDENT:2em">
+	一、亲自指挥完成祖国统一（一统江山）</p>
+<p style="TEXT-INDENT:2em">
+	公元589年，年仅20岁的杨广被拜为<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>兵马都讨大元帅，统领51万大军南下向富裕、强盛的陈朝发动进攻，并完成统一。陈国绝对不是什么小国，也绝对不弱。南书谓北为&lsquo;索虏&rsquo;，北书指南为&lsquo;岛夷&rsquo;。当时人们认为&ldquo;长江天堑，古以为限隔为南北&hellip;&hellip;&rdquo;当年苻坚百万大军都没有突破长江天堑。可见这是非常难以完成的任务。可隋军在杨广的指挥下，纪律严明、英勇善战，一举突破长江天堑。所到之处，所向披靡。而对百姓则&ldquo;秋毫无犯&rdquo;，对于陈朝库府资财，&ldquo;一无所取&rdquo;。&ldquo;天下皆称广以为贤&rdquo;。在公元590年，奉命到江南任扬州总管，并平定了江南高智慧的叛乱。江苏，浙江，福建，安徽，江西的巨家大室全部叛变&ldquo;大者有众数万，小者数千，共相影响。&rdquo;杨广学江南方言，娶江南妻子，亲近江南学子，重用其中的学者来整理典籍。他亲自实地在江南花了十年来拢络人心，缓和了南方的怨恨和怀疑，在军事占领后推行合理的行政，打破阻碍南人成为忠于隋室臣民的许多政治和文化隔阂。自此南北朝之后和北方隔离多年的江南才始归顺中央，更使得之后唐朝在南方的统治得以顺利进行。公元600年，北上击败突厥进犯。这些功劳是其他皇子所没有的。《隋书》赞曰：杨广&ldquo;南平吴会，北却匈奴，昆弟之中，独著声绩。&rdquo;20岁的杨广完成了中国的统一大业，结束了上百年来中国分裂的局面。也结束了中国三、四百年的战乱时代。从此中国进入了和平、强盛的时代。这要比李世民指挥部队平定各路农民起义与割据的小军阀要战功卓著。隋炀帝杨广功劳盖世。</p>
+<p style="TEXT-INDENT:2em">
+	　二、修建畅通国家命脉（修通运河）、（修建东都洛阳）</p>
+<p style="TEXT-INDENT:2em">
+	隋文帝杨坚曾于公元584年命宇文恺率众开漕渠。自大兴城西北引渭水，略循汉代漕渠故道而东，至潼关入黄河，长150多公里，名广通渠。公元604年改名永通渠。但随着南北政治、经济和文化日益发展，修凿的局部运河，已经不能满足社会需要。沟通南北水道已经成为社会经济交流的迫切需要了。</p>
+<p style="TEXT-INDENT:2em">
+	大业元年（公元605年），隋炀帝即位第一年就征发百万士兵和夫役，修造通济渠。同年又改造邗沟。大业四年（公元608年），又征发河北民工百万开凿永济渠以供辽东之需。公元610年沟通长江河。至此，开凿大运河的工程基本完成。隋炀帝开凿大运河前后用了六年的时间。隋炀帝先后开凿疏浚了由黄河进入汴水，再由汴水进入淮河的通济渠；还有从淮河进入长江的邗沟；从京口（现在江苏的镇江）到达余杭（现在浙江杭州）的江南河；引沁水向南到达黄河，向北到达涿郡（现在的北京）的永济渠。这些渠南北连通，就是历史上有名的大运河。大运河从北方的涿郡到达南方的余杭，南北蜿蜒长达五千多里。大运河以余杭、洛阳、涿郡为三点，江南河、邗沟、通济渠、永济渠四段，将钱塘江、长江、淮河、黄河、海河五大水系连接起来。这是世界上最伟大的工程之一，是中国南北交通的大动脉。</p>
+<p style="TEXT-INDENT:2em">
+	隋炀帝在修运河同时，运河两岸筑起御道，种上杨柳树。从长安到江都，沿途建造离宫40多处，沿运河还建立了许多粮仓，作为转运或贮粮之所。大运河的开通，促进了运河两岸城市的发展，江都、余杭、涿郡等城市很快繁荣起来。当时运河上&ldquo;商船旅往返，船乘不绝&rdquo;。大运河对隋唐时期南北经济、文化交流，维护全国统一和中央集权制的加强，都起了促进作用。大运河不仅加强了隋王朝对南方的军事与政治统治，而且使南方的物资能够顺利地到达当时的洛阳和长安，在有利于军事和政治的同时，南北方的文化交流也得到了有力的加强。唐朝文学家皮日休说，运河&ldquo;北通涿郡之渔商，南运江都之转输，其为利也博哉！&rdquo;如此浩大的工程，利于千功万代。大运河对于中国来说远比长城对于中国更重要。大运河连接黄河流域长江流域，连接了两个文明。使黄河流域长江流域逐渐成为一体。修建大运河是凝聚中国之举。满足了将已成为全国经济中心的长江流域同仍是政治中心的北方连接起来的迫切需要。&ldquo;大运河&rdquo;的修建使中国水运畅通、发达，为中国后世的繁荣富强打下了牢固坚实的基础。自清末改漕运为海运，大运河才不再是国家经济的大动脉了。隋炀帝为中国后代子孙万代带来了巨大的好处。他对中国的功绩是不朽的、是很难有人比拟的&hellip;&hellip;只是为此付出的代价太大。劳民伤财导致灭国。如此浩大的工程谁修建都不讨好，谁建都会伤国体。有谁敢修建如此浩大的工程？还有谁敢做如此大的手笔？大概只有气魄同样浩大的千古一帝秦始皇了。文史专家顾一平先生说，大运河凝聚着决策人隋炀帝高瞻远瞩的战略眼光和敢办前人不敢办的大事的自信和决心。唐朝文学家皮日休在《汴河怀古》中说：&ldquo;尽道隋亡为此河，至今千里赖通波。若无水殿龙舟事，共禹论功不较多。&rdquo;唐人拿杨广和大禹来比，足以说明唐人对炀帝修运河的功绩是万分明了的。事过几百年到了宋朝时候发大水的时候这条千里隋堤还救了成千上万家人的性命。王安石在《白日不照物》诗中云：&ldquo;隋堤散万家，乱若春蚕箔。&rdquo;隋炀帝开创的南北大运河是功在当代利在千秋的丰功伟业这是不可辩驳的历史事实，是后代造史者想诋毁所掩盖不住的。因为它的存在就是铁证，不像其它原始史料被销毁了。</p>
+<p style="TEXT-INDENT:2em">
+	也是在大业元年（公元605年），隋炀帝派杨素等人负责修建洛阳城。当时，每月都有二百万人在工地上劳动，经过一年的努力，终于完成。新的洛阳城有宫城、皇城和外郭城。外郭城也就是大城，周围有七十里长。里面的皇城是文武衙门办公的地方。再往里，就是宫城，周围有三十里。在洛阳西郊建筑一座西苑，占地二百多亩，苑内有海，海中修造三个仙岛，高一百多尺，岛上建筑亭台楼阁，十分壮观。海的北面有龙鳞渠，渠水曲折流入海中，沿渠修建了16个别院。&ldquo;徙天下富商大贾数万家于东京。&rdquo;隋炀帝修建洛阳城，是有统治国家的战略考虑的。洛阳有皇宫，具备首都功能。当时首都大兴城（即长安）在西北面，往东的路不太畅通，影响了国家政令的畅达。洛阳则处在国家的中心地带，可以有效地治理江南，控制北方，巩固国家。&ldquo;五年春正月丙子，改东京为东都。&rdquo;隋炀帝按其地理位置把洛阳定为东都，长安定为西都，实行双都制。后来的唐朝也沿用隋炀帝开创的双都制。伟大的大业城是他伟大的父亲杨坚下令修建的，各地的粮食运往长安费时费力。洛阳可以很方便地取得粮食，减轻了百姓负担。这也为后来的唐朝繁荣昌盛打下了坚实的基础。洛阳城远比现在的北京城西安城大气豪迈华丽艺术得多，如果遗留到现在无疑是世界八大奇迹之一 。可惜杨广创造的辉煌奇迹大多被后代毁了。</p>
+<p style="TEXT-INDENT:2em">
+	美籍汉史学家费正清在《中国：传统与变迁》中感慨：&ldquo;在隋文帝和隋炀帝的统治下，中国又迎来了第二个辉煌的的帝国时期。大一统的政权在中国重新建立起来，长城重新得到修缮，政府开凿了大运河（这为后来几百年间的繁华提供了可能），建造了宏伟的宫殿，中华帝国终于得以重振雄风。&rdquo;</p>
+<p style="TEXT-INDENT:2em">
+	<strong>三、亲自开拓疆土畅通丝绸之路</strong>（西巡张掖）</p>
+<p style="TEXT-INDENT:2em">
+	大业五年（公元609年），炀帝亲征吐谷浑，吐谷浑故地皆空，大隋拓地数千里。吐谷浑东西四千里，南北二千里，范围东起青海湖东岸，西至塔里木盆地，北起库鲁克塔格山脉，南至昆仑山脉皆为隋有。炀帝在吐谷浑故地置西海（今青海湖西）、河源（今青海兴海东南）、鄯善（今新疆若羌）、且末（今新疆且末南）四郡，西海郡就设置在吐谷浑故都伏俟城。炀帝命令把<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>天下所有犯轻罪的人移居到吐谷浑故地居住戍边，并发西方诸郡运粮以供给之。命刘权率军镇守河源郡积石镇，大开屯田。大隋在吐谷浑故地置州、县、镇、戍，实行郡县制度管理，这是以往各朝从未设置过正式行政区的地方。《隋书食货志》：&ldquo;帝亲征吐谷浑，破之于赤水。慕容佛允委其家属，西奔青海。于是置河源郡、积石镇。又于西域之地置西海、鄯善、且末等郡。谪天下罪人，配为戍卒，大开屯田，发西方诸郡运粮以给之。&rdquo;</p>
+<p style="TEXT-INDENT:2em">
+	隋炀帝率大军从京都长安（今西安）浩浩荡荡的出发到甘肃陇西，西上青海横穿祁连山，经大斗拔谷北上，到达河西走廊的张掖郡。这次出行绝不是游山玩水，个人玩乐的。因为西部自古大漠边关、自然条件环境恶劣，隋炀帝还曾遭遇到暴风雪的袭击。此峡谷海拔三千多米，终年温度在零度以下。士兵冻死大半，随行官员也大都失散。隋炀帝也狼狈不堪，在路上吃近苦头。隋炀帝这次西巡历时半年之久，远涉到了青海和河西走廊。其意义重大。在封建时代，中国<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>抵达到西北这么远的地方，只有隋炀帝一人。隋炀帝西巡过程中置西海、河源、鄯善、且末四郡，进一步促成了甘肃、青海、新疆等大西北成为中国不可分割的一部分。《北史西域列传》：&ldquo;隋炀帝规摹宏侈，掩吞秦、汉，裴矩方进《西域图记》以荡其心，故万乘亲出玉门关，置伊吾、且末镇。&rdquo;（唐朝人写史难免有贬低言语）</p>
+<p style="TEXT-INDENT:2em">
+	隋炀帝到达张掖之后，西域二十七国君主与史臣纷纷前来朝见，表示臣服。各国商人也都云集张掖进行贸易。隋炀帝亲自打通了丝绸之路，加强中原与西方的各个方面的联系与交往。这是千古名君才能有的功绩。为炫耀中华盛世，隋炀帝杨广在古丝绸之路举行了万国博览会。游人及车马长达数十百里，这是举世创举。由于丝绸之路的畅通，不仅使张掖的国际贸易市场更加繁荣昌盛，还促进了中原一带贸易市场的兴起和发展，如关中的歧州（今陕西凤翔）、西京长安、东都洛阳等。从此，西域的高昌、焉香、龟兹、疏勒、于阗、康国、安国、米国、吐火罗等国家的商贾使者来往于长安、洛阳一带，络绎不绝。负责西域事物的裴世矩在《西域图记》中说：&rdquo;伊吾（今哈密）、高昌（今吐鲁番），鄯善（今若羌），亚西域之门户也。总溱敦煌，是其咽喉之地。&rdquo;隋炀帝派遣薛世雄在西域伊吾国内修建一座&ldquo;新伊吾城&rdquo;，罢州置郡，敦煌又为敦煌郡。隋代在莫高窟开凿了大批的石窟，敦煌地区甚至还出土了一些隋皇室成员的写经，可见隋王朝对西域的重视。隋炀帝还派司隶从事杜行满出使西域，从安国带回五色盐。又派云骑尉李昱出使波斯，回国时，波斯的使者、商人也随至中原。炀帝之前，中西交通的丝绸之路只有南北两道。隋炀帝时期不仅以前的道路更加畅通，而且新增一道，即新北道。这样，隋通西域的道路共有三条：北道（又叫新北道），出自敦煌至伊吾，经蒲类、铁勒部，度今楚河、锡尔河而达西海；中道（汉代的北道），出敦煌至高昌，经焉耆、龟兹、疏勒，越葱岭，再经费尔干纳、乌拉提尤别等地而至波斯；南道，出敦煌自鄯善，经于阗、朱俱波、渴盘陀，越葱岭，再经阿富汗、巴基斯坦而至印度各地。<br />
+	　　 &ldquo;肃肃秋风起，悠悠行万里。万里何所行，横漠筑长城。<br />
+	　　岂台小子智，先圣之所营。树兹万世策，安此亿兆生。&nbsp;<br />
+	　　讵敢惮焦思，高枕于上京。北河见武节，千里卷戎旌。<br />
+	　　山川互出没，原野穷超忽。撞金止行阵，鸣鼓兴士卒。<br />
+	　　千乘万旗动，饮马长城窟。秋昏塞外云，雾暗关山月。<br />
+	　　缘严驿马上，乘空烽火发。借问长城侯，单于入朝谒。<br />
+	　　浊气静天山，晨光照高阙。释兵仍振旅，要荒事万举。&nbsp;<br />
+	　　饮至告言旋，功归清庙前。&rdquo;</p>
+<p style="TEXT-INDENT:2em">
+	这是隋炀帝在这次西巡所做的《饮马长城窟行》，成为千古名篇。&ldquo;通首气体强大，颇有魏武之风。&rdquo;后代文人对他诗篇的评价极高。&ldquo;混一南北，炀帝之才，实高群下。&rdquo;，&ldquo;隋炀起敝，风骨凝然。隋炀从华得素，譬诸红艳丛中，清标自出。隋炀帝一洗颓风，力标本素。古道于此复存。&rdquo;</p>
+<p style="TEXT-INDENT:2em">
+	《剑桥中国隋唐史》：&ldquo;隋炀帝毕竟是一位美好事物的鉴赏家、一位有成就的诗人和独具风格的散文家，他可能有点像政治美学家，这种人的特点可用以下的语言来表达：的确，自欺欺人也许是一个规律，因为带有强烈的艺术成分的政治个性具有一种炫耀性的想象力，它能使其个人的历史具有戏剧性，并使一切现实服从野心勃勃的计划。&rdquo;</p>
+<p style="TEXT-INDENT:2em">
+	炀帝《野望》：&ldquo;寒鸦飞数点，流水绕孤村。斜阳欲落处，一望黯销魂。&rdquo;《春江花月夜》：&ldquo;暮江平不动，春花满正开。流波将月去，潮水带星来。&rdquo;，王夫之评曰：&ldquo;四句两联，特有贯珠之妙。&rdquo; 朱乾云：&ldquo;隋炀自负才高，今观此词，未见其必亡国。如&ldquo;暮江平不动&rdquo;，即唐人能手，无以过之。&rdquo;&ldquo;能作雅正语，比陈后主胜之。&rdquo;，&ldquo;隋炀诗文远宗潘、陆，一洗浮荡之言。惟录事研词，尚近南方之体。&rdquo;郑振铎对炀帝诗文创作才华揄扬不已：&ldquo;（杨）广虽不是一个很高明的政治家，却是一位绝好的诗人&rdquo;，&ldquo;他虽是北人，所作却可雄视南士。薛、卢之辈，自然更不易与他逐北。像他的《悲秋》，又像他的《春江花月夜》都是置之梁祖、简文诸集中而不能辨的。又有&lsquo;寒鸦飞数点，流水绕孤村&rsquo;的数语，曾为秦观取入词中，成为绝妙好词。&rdquo;隋炀帝的诗文在中国文学、诗歌史上占有重要地位。王夫之评隋炀帝《泛龙舟》曰：&ldquo;神采天成，此雷塘骨少年犹有英气。&rdquo;隋炀帝《江都宫乐歌》形式上已经十分接近七律，可谓七律之祖。隋炀帝的诗文在中国文学、诗歌史上占有重要地位。隋炀帝的诗歌地位不可小视，他起到承上启下的作用，能在百年陈梁诗音靡靡之中，恢复汉民族的诗歌的风骨与精神实属难得。可以说他开创了&ldquo;盛唐之音&rdquo;的辉煌大气的阳刚之美，&ldquo;济苍生&rdquo; &ldquo;安社稷&rdquo; 一直是盛唐诗歌的重要精神他可谓唐诗之祖。&nbsp;</p>
+<p style="TEXT-INDENT:2em">
+	隋炀帝此次西巡开拓疆土、安定西疆、大呈武威、威震各国、开展贸易、扬我国威、畅通丝路。乃一代有作为的国君所为。唐太宗也感慨的说：&ldquo;大业之初，隋主入突厥界，兵马之强，自古已来不过一两代耳。&rdquo;</p>
+<p style="TEXT-INDENT:2em">
+	大业六年（公元610年），隋政府又置伊吾（哈密）郡共五郡。隋炀帝除向西北开拓疆土外，<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>大军还向东南进行了一系列开疆拓土的战争，这些战争的胜利使大隋王朝东南的领土疆域扩大到印度支那的安南、占婆（今越南地区）、及台湾等地。在海南岛上分置儋耳、珠崖、临振三郡。北边有五原郡（内蒙后套一带）。此外隋文帝时期已经把强大的突厥分裂成东突厥与西突厥两部，并在和东突厥的战斗中取得胜利。《剑桥中国隋唐史》这样说：&ldquo;在炀帝全盛时期，西突厥人对他似乎是一个次要问题，一个以少量代价即能为中原帝国所用的累赘。&rdquo;这也为以后唐太宗取得一系列的胜利打下了坚实的基础。以有些现代人看唐朝疆域的看法，<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>的疆域竟比唐朝大。</p>
+<p style="TEXT-INDENT:2em">
+	即使<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>在灭亡前，周遍各国也是尊服大隋王朝的。《隋书》记载道：&ldquo;十一年春正月甲午朔，大宴百僚。突厥、新罗、?鞨、毕大辞、诃咄、传越、乌那曷、波腊、吐火罗、俱虑建、忽论、?鞨、诃多、沛汗、龟兹、疏勒、于阗、安国、曹国、何国、穆国、毕、衣密、失范延、伽折、契丹等国并遣使朝贡。&rdquo;</p>
+<p style="TEXT-INDENT:2em">
+	四、重视教育、寻求典籍、开创科举、修订法律（改革创新）</p>
+<p style="TEXT-INDENT:2em">
+	杨广即位第一年，就在诏书中写道：&ldquo;君民建国，教学为先，移风易俗，必自兹始。&rdquo;唐人封演在《封氏闻见记》中说：&ldquo;炀帝即位，复兴教诱。&rdquo;杨广恢复了被杨坚废除了的国子监、太学以及州县学。 &ldquo;教习生徒，具为课试之法，以尽砥砺之道。&rdquo; 奉命视察各州的专使除了其他任务外，还要发现有模范行为、文才出众和学有专长的人，经过考察，再把他们送往京师。&ldquo;炀帝即位，复开庠序，国子郡县之学，盛于开皇之初。征辟儒生，远近毕至，使相与讲论得失于东都之下，纳言定其差次，一以闻奏焉。于时旧儒多已凋亡，二刘拔萃出类，学通南北，博极今古，后生钻仰，莫之能测。&rdquo;《隋书》《北史》记载，远近儒生纷纷前来，并被组织起来互相辩论学术问题。一名高级官员给他们排列名次，上报隋帝。因此许多寒士得以重振门庭；典籍研究盛极一时，南北的传统兼容并包。古代的典籍都被注疏。</p>
+<p style="TEXT-INDENT:2em">
+	杨广在江南任扬州总管时就网罗学者来整理典籍，到他即帝位的近二十年间，共成书一百三十部，一万七千多卷。杨广还组织人编写了《长洲玉镜》四百卷，和《区宇图志》一千二百卷，这对于保存我国古代的典籍做出了贡献。</p>
+<p style="TEXT-INDENT:2em">
+	隋炀帝使隋时的中国已经具备了总括全国各地方的总结性地方志。隋炀帝诏命天下诸郡绘制各地风俗物产地图，编撰《诸郡物产土俗记》131卷、《区宇图志》129卷、《诸州图经集》100卷。隋炀帝下令编撰的上述地方志书，规模宏大，既是承前启后的总结性著作，也是编撰全国性方志图经的开端，影响深远。&ldquo;今于大隋圣世，图书屡出。&rdquo;</p>
+<p style="TEXT-INDENT:2em">
+	炀帝时的着名地理学家裴世矩，在奉敕去张掖，管理西域商人交市时，蒐集了有关西域的山川、风俗等资料，撰成《西域图记》三卷。书中有地图，有记述，还有穿着民族服装的各族人的彩绘图，是地理学名著。&ldquo;依其本国服饰仪形，王及庶人，各显容止，即丹青模写，为《西域图记》，共成三卷，合四十四国。仍别造地图，穷其要害。&rdquo;</p>
+<p style="TEXT-INDENT:2em">
+	杨广不仅兴办学校，还访求遗散的图书，并加以保护。《封氏闻见记》记载：&ldquo;炀帝限写五十副本，分为三品，于东都观文殿东西廊屋，列以贮之。&rdquo; 隋时的藏书量是中国历代最多的，大兴城和洛阳建有大藏书殿，而最终的成果则是规模宏大的秘书省，在洛阳藏有珍本，藏书总数达37万余卷。为了让两京的宫、省、官府使用，杨广下令建造藏有节录本的观文殿。<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>藏书最多时有37万卷，77，000多类的图书。可大部份图书毁于战火，唐玄宗时藏书最多时8万卷，唐学者自著28，467卷，唐以前图书只还剩28，469卷，可惜这些图书大部分也难逃战火&hellip;&hellip;如果杨广整理编辑收藏的这些书都留存到现在，那他无疑是世界上最伟大的帝王。</p>
+<p style="TEXT-INDENT:2em">
+	杨广崇敬儒教与孔子于大业五年下诏曰：&ldquo;先师尼父，圣德在躬，诞发天纵之姿，宪章文武之道；命世膺期，蕴兹素王。而颓山之叹，忽逾于千祀；盛德之美，不在于百代。永惟懿范，宜有优崇。可立孔子后为绍圣侯，有司求其苗裔，录以申上。&rdquo;</p>
+<p style="TEXT-INDENT:2em">
+	大业二年（公元606年）隋炀帝始建进士科，典定科举制度，这是中国历史上极其重大影响极其深远的大事。杨广创建了对后世影响深远的科举制，开设进士科，那时的进士科以考政论文章为主，选择&ldquo;文才秀美&rdquo;的人才。《通典》说杨广优先考虑的是个人的品质而不是文才。炀帝时还增加了科举录取人数。至607年，考试科目已经有了十科。这标志着科举制度的产生。大业三年（公元607年），炀帝诏令：&ldquo;文武有职事者，以孝悌有闻，德行敦厚，节义可称，操履清洁，强毅正直，执宪不挠，学业优敏，文才秀美，才堪将略，臀力骠壮十科举人。&rdquo; 大业五年（公元609年）炀帝又诏：&ldquo;诸郡学业该通，才艺优洽，臀力骠壮，超群等伦，在官勤奋，堪理政事，立性正直，不避强御，四科举人。&rdquo;隋炀帝杨广更注重个人品质的选拔人才的政策，为初唐培养了大批的强毅正直的人才 。科举制度的创建，重才学品质而不重门第，削弱了门阀大族世袭的特权。&ldquo;百官不得计考增级，必有德行功能，灼然显著者，擢之。&rdquo; &ldquo;魏、周官不得为荫。&rdquo;这种&ldquo;任人唯贤&rdquo;的改革，为选拔下层优秀知识分子提供了极好的机会。这无疑是异常高明的创举，对后世中国影响深远。但这也触动了门阀大族的利益，为日后门阀大族的反叛埋下了祸根，有时候过于超前开明的举措也不是什么好事&hellip;&hellip;..&nbsp;</p>
+<p style="TEXT-INDENT:2em">
+	大业三年（公元607年）隋炀帝颁《大业律》。改州为郡；改度量衡依古式；改官制，设五省、三台、五监、十六府等。杨广修订了法律，主要是对隋文帝末年比较严酷的法律进行了改革。&ldquo;炀帝即位，以高祖禁网深刻，又敕修律令，除十恶之条。凡五百条，为十八篇。五刑之内，降从轻典者，二百余条。诏施行之，谓之《大业律》。&rdquo;《大业律》，没有再修订，《唐律》就是依照着《开皇律》与《大业律》修订的。</p>
+<p style="TEXT-INDENT:2em">
+	陕西师范大学历史系胡戟教授说：&ldquo;秦始皇做过的事，他（隋炀帝）多半也做了，但是他没有焚书坑儒；我们还可以说，隋炀帝做过的事，唐太宗多半也做了，但是唐太宗贞观时代远不及他大业前期富庶，然而，秦始皇、唐太宗都有&ldquo;千古一帝&rdquo;的美誉，隋炀帝却落了个万世唾骂的恶名。&rdquo;</p>
+<p style="TEXT-INDENT:2em">
+	《剑桥中国隋唐史》这样评价隋炀帝：&ldquo;儒家修史者对炀帝道义上的评价的确是苛刻的，因为他们把他描写成令人生畏的典型的&ldquo;末代昏君&rdquo;。在民间传说、戏剧和故事中，他的形象被作者和观众的随心所欲的狂想大大地歪曲了&mdash;&mdash;人民生活在一个无节制地使用权力、有豪华宫殿和享有无限声色之乐的世界中，只能产生这种感情上的共鸣。在中国的帝王中，他决不是最坏的，从他当时的背景看，他并不比其他<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>更加暴虐。他很有才能，很适合巩固他父亲开创的伟业，而他在开始执政时也确有此雄心。&rdquo;&nbsp;</p>
+<p style="TEXT-INDENT:2em">
+	尽管Arthur Wright说：&ldquo;（杨广）既被视为典型的亡国昏君，在一大团歪曲的历史记载和传奇性道听途说之下，今人即想窥测此人的真实性格，至多也只能瞥见其一二。&rdquo;但是他所建立的功业是不朽的，大运河、科举制度无不影响深远，造福于中华。</p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>全盛时期的武功</strong></p>
+<p style="TEXT-INDENT:2em">
+	一、侵略林邑</p>
+<p style="TEXT-INDENT:2em">
+	林邑地处今越南中南部多珍奇宝物，大业元年炀帝委任刘方为罐州道行军总管，以尚书右丞李纲为司马负责侵略林邑。之前刘方将军已经把交趾（今越南河内）平了。</p>
+<p style="TEXT-INDENT:2em">
+	公元605年（大业元年）正月，刘方率舟师主力至海口（林邑入海处）。林邑王梵志派兵据险抵抗，被隋军击溃逃散。三月，刘方率军进至阇黎江，林邑人据南岸立栏栅，意图阻止隋军渡江。刘方命令兵士盛举旗帜，雄击金鼓而进。隋军旌旗招展鼓声震天，强大的阵势与军威完全把林邑人惊惧了从而溃逃。刘方随即指挥大军渡过阇黎江。行至三十里，林邑人乘坐着大象，从四面八方围聚而来。妄图与隋军决战，威震住隋军。刘方忙命令士兵们用强弩射击大象，大象被纷纷射中受伤而溃乱逃跑，林邑人的军阵被受伤的大象践踏冲乱。刘方乘势指挥精锐之兵发起进攻，林邑军溃散。隋大军全线发起猛攻，大获全胜，只是抓着的俘虏就以万计。此次战役波澜壮阔场面宏大，隋军英勇善战表现出无畏无惧的英雄气概。</p>
+<p style="TEXT-INDENT:2em">
+	刘方率大军一路向南追击，屡战屡胜，战无不胜。于是济区粟，度六里，前后逢贼，每战必擒。隋军进至大缘江，林邑人又据险为栅，又被击破之。并追过了马援铜柱以南。随后隋军又向南追击了八天，终于抵达林邑人的国都。夏季，四月，林邑王梵志被迫弃城奔逃到海上。刘方率隋军进入林邑都城，缴获林邑人都是用金子铸成的庙主牌位十八枚。&ldquo;获其庙主金人，污其宫室，刻石纪功而还。&rdquo;刘方命令刻石记录了这次征伐的功绩后班师还朝。</p>
+<p style="TEXT-INDENT:2em">
+	隋军此次过于深入南方，作战长达数月之久，从冬季打到夏季。班师回朝途中正处炎热的夏季，隋军士兵不适应南方闷热潮湿的气候，加上长途跋涉，士兵们很多染上疾病，有的士卒脚都肿了，死去十之四、五。刘方将军也染上了病不幸死在回军涂中。炀帝知道消息后非常痛心为之惋惜，下诏褒奖赞美刘方将军。诏曰：&ldquo;方肃承庙略，恭行天讨，饮冰湍迈，视险若夷。摧锋直指，出其不意，鲸鲵尽殪， 巢穴咸倾，役不再劳，肃清海外。致身王事，诚绩可嘉，可赠上柱国、卢国公。&rdquo;</p>
+<p style="TEXT-INDENT:2em">
+	刘方将军此次对林邑的征伐是历史上中国军队在最南方的征伐，不仅挫败雄壮的大象军阵的攻击，而且攻下了异国的首都，这是中国历史少有的地道的侵略行为。震服了南海百蛮，从此对<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>贡不断。这是中国的辉煌，为中国的古代史争光。《北史》、《隋书》赞曰：&ldquo;刘方号令无私，治军严肃，克剪林邑，遂清南海，徼外百蛮，无思不服。&rdquo;</p>
+<p style="TEXT-INDENT:2em">
+	二、驯服契丹</p>
+<p style="TEXT-INDENT:2em">
+	公元605年（大业元年），因契丹人侵扰营州。隋炀帝诏令通事谒者韦云起监领突厥兵去讨伐契丹。突厥启民可汗派二万骑兵，听命于韦云起指挥讨伐契丹。韦云起把两万突厥骑兵分为二十营，分四道一同进发。每营相距一里，不得交杂。闻鼓声而行，闻角声而止。韦云起命令没有公事派遣不得驰马，行军途中一个突厥纥干违犯了韦云起的军令，被韦云起斩杀并持其首以示众。从此突厥将帅拜见韦云起，皆膝行股栗，莫敢仰视。<br />
+	　　契丹本是依附突厥的，所以对突厥骑兵并没有多少猜忌防范之心。韦云起率军进入契丹境内后让突厥兵士诈称他们是借道去柳城（今辽宁朝阳南）与高丽人做交易，并严令有敢泄露营中有隋使者斩。契丹人不加防备，韦云起率领突厥军前进到距契丹营地一百里的地方又假装转向南方以蒙蔽契丹人。夜里又率军折了回来继续向契丹营地进发。离契丹营地只有五十里的地方韦云起命令部队结阵而宿。天刚刚微亮，契丹还处在梦乡之中。韦云起命令二万骑兵一起急驰突然向契丹大营发起进攻。结果可想而之，战果辉煌。&ldquo;尽获其男女四万口，女子及畜产以半赐突厥，余将入朝，男子皆杀之。&rdquo; 契丹人从此对<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>服服帖帖，朝贡不断。</p>
+<p style="TEXT-INDENT:2em">
+	韦云起把俘获的契丹女人和畜产的一半赏赐给突厥人，把其余&ldquo;胜利品&rdquo;都带回<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>。隋炀帝闻讯后大喜，招集百官高兴的说：&ldquo;云起用突厥而平契丹，行师奇谲，才兼文武，又立朝謇谔，朕今亲自（推）举之。&rdquo;韦云起被升任为治书侍御史。</p>
+<p style="TEXT-INDENT:2em">
+	韦云起孤身一人前往突厥借兵两万并运用计谋击溃契丹人，堪称有勇有谋。这样的将领与事迹在中国历史上&ldquo;前无古人，后无来者&rdquo;。古人云：&ldquo;以蛮夷伐蛮夷&rdquo;计之上者也。炀帝杨广只派一人，就取得俘获敌人四万人的辉煌战果。用突厥人打败契丹人，把中国&ldquo;以胡制胡&rdquo;的战略方针发展到极至。</p>
+<p style="TEXT-INDENT:2em">
+	三、欺辱流求</p>
+<p style="TEXT-INDENT:2em">
+	流求可能是今天日本的琉球群岛也可能是台湾岛。公元607年（大业三年），隋炀帝杨广曾令羽骑尉朱宽入海求访异俗，到达流求。因言语不相通，抓住一人，取其布甲而还。次年，炀帝又派朱宽到流求去招降，流求不从。于是派遣贲郎将陈稜与朝请大夫张镇周发东阳兵万余人自义安泛海击流求国。</p>
+<p style="TEXT-INDENT:2em">
+	隋军大海航行一个多月后才抵达流求国。流求人开始见着<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>船舰，以为是商旅，和他们做贸易的。陈?率大军顺利登岸。陈?曾经从南海诸国招募士兵，其中有昆仑人能懂流求语。于是陈?派其招抚。流求不从，拒逆官军。陈稜命张镇周为先锋进攻流求人。流求国王欢斯渴刺兜遣兵与隋军抗战，被张镇周频频击败。陈?率主力进至低没檀洞，流求小王欢斯老模率军出战，被陈?击败并斩了欢斯老模。</p>
+<p style="TEXT-INDENT:2em">
+	于是<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>大军分为五军一路攻至流求国都。流求国王欢斯渴刺兜被迫亲自将出战又被隋军击败。隋军随即攻入流求国国都，并乘胜追击至流求军栅，攻拔之。隋军斩杀了流求国国王欢斯渴刺兜，俘获其子岛槌，并摧毁流求的宫室。</p>
+<p style="TEXT-INDENT:2em">
+	&nbsp;&ldquo;二月乙巳，武贲郎将陈棱、朝请大夫张镇州击流求破之。献俘万七千口。&rdquo;陈棱把流求人带回<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>。隋炀帝大喜，把流求俘颁赐给百官，加赏陈棱为右光禄大夫，张镇周为金紫光禄大夫。</p>
+<p style="TEXT-INDENT:2em">
+	四、震服伊吾</p>
+<p style="TEXT-INDENT:2em">
+	大业四年（公元608年）冬季，隋炀帝授右翊卫将军薛世雄为王门道行军大将，命他在西域伊吾国内修建一座伊吾城，并派吏部侍郎裴世矩共同前往经略。薛世雄乃大隋名将，凡所行军破敌之处，秋毫无犯，深得炀帝喜爱。炀帝曾夸奖他：&ldquo;世雄廉正节概，有古人之风。&rdquo;</p>
+<p style="TEXT-INDENT:2em">
+	薛世雄与突厥的启民可汗约定联合集兵进攻伊吾国（今哈密地区）。薛世雄率军出玉门后，启民可汗因顾失约没有到。薛世雄将军并没有退缩而是毅然决定孤军穿越茫茫沙漠直捣伊吾国，此时正直冬季西北地区正处在天气恶劣风沙猖狂之时。薛世雄进兵神速，势如天降。伊吾人根本就没想到隋军能来，所以都没做防备。当听说薛世雄率军已越过沙漠，兵临城下之时。伊吾人惊恐万分，不得不请求投降。薛世雄震服伊吾后，就在汉代旧伊吾城东筑了一座新城号&ldquo;新伊吾&rdquo;， 裴世矩告谕西域诸国：&ldquo;天子为蕃人交易悬远，所以（筑）城耳。&rdquo;薛世雄命银青光禄大夫王威率领一千多名士兵戍守伊吾屯垦戍边。然后率军班师回朝。炀帝大悦，薛世雄因功进位为正议大夫，并赐物二千段。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>在伊吾国设立了伊吾郡和柔远镇，薛世雄兴建的&ldquo;新伊吾城&rdquo;成为<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>控制东西交通要道上的一个重要军事据点。</p>
+<p style="TEXT-INDENT:2em">
+	五、占领吐谷浑</p>
+<p style="TEXT-INDENT:2em">
+	吐谷浑比突厥人文明一些，处在半游牧半定居阶段。其首都在青海湖西四十五里的伏俟城。控制着丝绸南路河西走廊主干线青海道，此路是当时连结亚、非、欧三大洲的世界最长的陆路交通干线。吐谷浑人还占据着西秦故地。<br />
+	　　负责西域事物的裴世矩在《西域图记》中说：&ldquo;伊吾（今哈密）、高昌（今吐鲁番），鄯善（今若羌），亚西域之门户也。总溱敦煌，是其咽喉之地。&rdquo;隋炀帝要畅通丝绸之路深知占据吐谷浑之地的重要性。公元607年（大业三年）派遣吏部侍郎裴世矩引致高昌王麴伯雅及伊吾吐屯设等入朝，炀帝亲自与他们积极策划打击共同西域贸易的竞争者吐谷浑。<br />
+	　　公元608年（大业四年），隋炀帝再次运用&ldquo;以胡制胡&rdquo;之战略，派裴世矩游说铁勒诸部，使他们攻击吐谷浑，吐谷浑被突袭而大败。吐谷浑可汗伏允向东逃走，逃入西平境内，遣使向<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>请降求救。炀帝派遣安德王雄领兵出浇河，许国公大隋名将总领军事的宇文述率军出西平&ldquo;应降&rdquo;。宇文述率军浩浩荡荡的抵达临羌城，吐谷浑可汗伏允面对<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>大军心惊胆战不敢投降，率领残部向西逃窜，宇文述统领鹰扬郎将梁元礼、张峻、崔师等引兵追击，接连攻下曼头、赤水两座城，斩三千余级，俘获吐谷浑王公以下二百人，虏男女四千口而回师。</p>
+<p style="TEXT-INDENT:2em">
+	公元609年（大业五年），炀帝总领六军亲征吐谷浑，命银青光禄大夫刘权率军出伊吾道，与吐谷浑军相遇，吐谷浑人被痛击狼狈逃跑。隋军追至青海，虏获千余人，乘胜攻下吐谷浑国都伏俟城。炀帝命令刘权继续率军进攻占吐谷浑，曼头、赤水两座重要城池，并在赤水大破吐谷浑，击溃吐谷浑军主力。伏允率众保覆袁川。炀帝分命内史元寿南屯金山，兵部尚书段文振北屯雪山，太仆卿杨义臣东屯琵琶峡，将军张寿西屯泥岭，四面围之。吐谷浑可汗伏允仅仅率数十骑潜藏于泥岭之中而逃走，吐谷浑仙头王率男女十余万来归降，其中六畜有三十余万。吐谷浑故地皆空，大隋拓地数千里。吐谷浑东西四千里，南北二千里，范围东起青海湖东岸，西至塔里木盆地，北起库鲁克塔格山脉，南至昆仑山脉皆为隋有。炀帝在吐谷浑故地置西海（今青海湖西）、河源（今青海兴海东南）、鄯善（今新疆若羌）、且末（今新疆且末南）四郡，西海郡就设置在吐谷浑故都伏俟城。炀帝命令把<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>天下所有犯轻罪的人移居到吐谷浑故地居住戍边，并发西方诸郡运粮以供给之。命刘权率军镇守河源郡积石镇，大开屯田。大隋在吐谷浑故地置州、县、镇、戍，实行郡县制度管理，这是以往各朝从未设置过正式行政区的地方。</p>
+<p style="TEXT-INDENT:2em">
+	此时大隋在炀帝的统治下达到极盛。《资治通鉴》说：&ldquo;是时天下凡有郡一百九十，县一千二百五十五，户八百九十万有奇。东西九千三百里，南北一万四千八百一十五里。隋氏之盛，极于此矣。&rdquo;</p>
+<p style="TEXT-INDENT:2em">
+	隋炀帝的此次亲征，彻底的征服、占领了吐谷浑。彻底的打开丝绸之路，畅通了中国与西方的联系。震服了西域各国，从此西域各国对中国朝贡不断。隋书赞曰：&ldquo;竟破吐谷浑，拓地数千里，并遣兵戍之。每岁委输巨亿万计，诸蕃慑惧，朝贡相续。&rdquo;</p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>的衰落与灭亡</strong></p>
+<p style="TEXT-INDENT:2em">
+	隋末隋炀帝统治期间，劳役不息，天下死于役，导致隋末天下大乱，群雄并起，<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>也随之很快灭亡。但是，历史上有很多类似<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>的大一统王朝，如汉、唐、宋等，在王朝末期也经历了隋末的残酷腐朽统治，但是大都能够依靠惯性苟延残喘很长时间。<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>一度海内一统，繁荣昌盛，却&quot;其兴也忽焉，其亡也忽焉&quot;，原因何在？&nbsp;</p>
+<p style="TEXT-INDENT:2em">
+	回顾历史，隋末，天下地主武装纷纷起兵造反，而以李唐政权为根据地的关中地区最多，关中地区集中了大量的地主阶级上层人物，在地方上势力强大，在社会上声望卓著，在政治上能量很强。李渊在《授三秦豪杰等官教》一文写到，&quot;义旗济河，关中响应，辕门辐凑，赴者如归。五陵豪杰，三辅冠盖，公卿将相之绪馀，侠少良家之子弟，从吾投刺，咸畏后时，扼腕连镳，争求立效&quot;。说明了关中豪强的数量、质量很高，势力强大，在受到朝廷的压迫后，反心尤盛。所以，在统治集团变乱时期，这些豪强，借机起事，纷纷而起。&nbsp;</p>
+<p style="TEXT-INDENT:2em">
+	再看江淮到岭南地区，这些地方原来都是南朝的统治地区，有众多支持南朝的豪强地主，<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>建立之后，它们大都成为<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>的异己力量。所以，后来在南方地区爆发了大规模武装反抗<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>的叛乱，其时，陈之故境，大抵皆反。隋文帝虽然平定了这次大暴动，但是采取的是镇压和妥协结合的方式，很多叛乱头领后来成为了州郡的刺史、县令，所以这股强大的势力并没有被根除，一旦天下有变，这些潜在的力量立即起兵反隋。&nbsp;</p>
+<p style="TEXT-INDENT:2em">
+	还有黄河中下游地区，即今河南、山东一带地主起兵的数量也很多。中原矛盾素来复杂，妄起风波，旧号难治（三国时期，曹操为稳定河北曾经建都于邺）。隋征吐谷浑后，国家马驴死者十有八九，后征高丽，隋炀帝诏征马匹十余万，主要出自中原，中原富人因此破家者十家而九。统治阶级内部矛盾如此激化，隋政权的根基已经摇摇欲坠。&nbsp;</p>
+<p style="TEXT-INDENT:2em">
+	于是，统治阶级内部的三股势力，以李渊、杨玄感为代表的<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>高官显贵，以萧铣、沈法兴为代表的南朝残余势力，以梁师都、刘武周为代表的地方大族豪强群起反隋，锋镝鼎沸，星离棋布。史家有论，称割据叛乱为&quot;土崩&quot;，农民起义为&quot;瓦解&quot;，隋政权不仅失去了天下民心，而且失去了赖以生存的地主阶级的支持，顷刻间土崩瓦解，也就不足为奇了。&nbsp;</p>
+<p style="TEXT-INDENT:2em">
+	由此可见，隋炀帝实施苛暴的徭役、兵役，毫无限制地压迫劳动人民，甚至贵族地主，引起大规模的农民起义和地主反抗，固然是隋政权灭亡的直接原因。但是，<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>是在中国经历长期分裂之后建立的统一王朝，其情况颇似<a href="http://114.xixik.com/chaodai/qin/" style="color:#000" title="秦朝">秦朝</a>，外表强盛至极，在大一统的表面下却涌动着各种割据势力的暗流，统治阶级内部埋藏着深刻的不安定因素，统治基础很不稳固，这种隋政权本身固有的缺陷，才是<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>在强盛之际，转而迅速灭亡的根本原因。</p>
+<p style="TEXT-INDENT:2em">
+	灭亡原因简而言之：暴政，劳役太重，滥用民力，人民长治后不堪重负。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor4"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        杨坚如何篡位建立隋朝</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	后来杨坚的长女成了北周武帝太子的王妃。公元578年，周武帝病死，宣帝即位。杨坚的长女做了皇后，杨坚升任上柱国、大司马，掌握了朝政大权。加上年少的皇帝也比较昏庸荒淫，在群臣中没有威信，于是，杨坚便开始准备取而代之。杨坚的行动多少让小皇帝有所察觉，但没有真凭实据，他也没法处罚杨坚，何况他还是自己的岳父大人，更难下决心做事。杨坚为了避免皇帝的猜疑，就想到地方上去任职，也为将来有变时能利用实力争夺皇位。于是，他便把这种愿望告诉了自己的朋友、内史上大夫郑译。</p>
+<p style="TEXT-INDENT:2em">
+	因为周宣帝打击、压制皇族成员，所以让皇族势力变得衰弱了。在这种背景下，杨坚作为杨氏家族、独孤氏两大家族的代表人物，又是周宣的岳父。在北周帝国的影响自然是越来越大了。</p>
+<p style="TEXT-INDENT:2em">
+	后来，周宣帝五个皇后并立，从某种意义上，就是加强宫廷力量，并且分散军政大佬权力的一种举措。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>宠爱众多女人，这通常是源于情欲的原因。但是，<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>给予众多女人皇后的称号，通常都不是因为简单的情欲。因为，这里面通常总包含着太多的政治因素。</p>
+<p style="TEXT-INDENT:2em">
+	因为一个女人成了皇后，意味着她宫廷内的地位上升了；因为一个女人成了皇后，意味着她的家族地位上升了。如果后宫出现好几个皇后，意味着后宫的权势分散了；如果<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>有好几个皇后，也意味着外戚的权势分散了。</p>
+<p style="TEXT-INDENT:2em">
+	周宣帝满打满算，当了不到两年<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，就死了。而五后并立，也就一年多时间，周宣帝就死了。从某种意义上，五后并立只是一种未完的、也比较怪异的权力布局。如果周宣帝再活一段时间，会是什么结果，我们无从知道了。但是，有一点可以肯定，如果周宣帝再活一段时间，杨坚的权势肯定会受到削弱。</p>
+<p style="TEXT-INDENT:2em">
+	因为，后宫出现五个皇后，杨坚的女儿在后宫的地位，自然会下降的；而杨坚凭借外戚身份获得的权力，自然也会下降。</p>
+<p style="TEXT-INDENT:2em">
+	更主要的是，与此同时周宣帝还让自己儿子继承了皇位，自己到幕后当了太上皇了。而周静帝（周宣帝的儿子）是朱皇后的儿子，不是杨皇后的儿子。这显然意味着，杨皇后在后宫的地位再次下降了。因为，杨皇后不是小<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>的生母，后宫又有四个皇后与她并立，你说她的权势能有多大？</p>
+<p style="TEXT-INDENT:2em">
+	而且周宣帝死后，北周的权力中枢可以由郑译、刘昉等人操纵，从这里我们也可以看出，周宣帝也是想渐渐把权力移入宫廷之内的。</p>
+<p style="TEXT-INDENT:2em">
+	郑译、刘昉都不是什么太了不起的家族背景，在周宣帝死后，却可以左右帝国大局，主要是因为他们受到周宣帝的信任、重用。这种人成为帝国主要权力者，通常就意味着帝国的权力进入了宫廷之内。</p>
+<p style="TEXT-INDENT:2em">
+	但是，周宣帝当<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>后，满打满算不到两年就死了（公元578年6月继位，公元580年5月死），而他的儿子只有八岁。所以这个未完的、怪异的布局，就变得漏洞百出了。</p>
+<p style="TEXT-INDENT:2em">
+	如果周宣帝没有清除宇文皇族的强势亲王，估计也轮不着杨坚篡位。但是，皇族势力受到了打击，杨坚的地位自然突显出来了。</p>
+<p style="TEXT-INDENT:2em">
+	如果周宣帝没有早早死掉，杨坚可能也无法篡位了。因为，五后并立的格局，很大程度上就是针对杨坚的。而且，从当时情形去看，皇权正处于上升阶段，贵族势力正处于下降，所以杨坚能逃脱周宣打压的可能性并不大。</p>
+<p style="TEXT-INDENT:2em">
+	但是，周宣帝突然死亡，让杨坚终于抓住了机会。</p>
+<p style="TEXT-INDENT:2em">
+	当然了，周宣帝与杨坚之争，无论谁胜谁败，并不会真正改变历史的大方向。因为，北朝对南朝已拥有了压倒性的优势，而且豪门贵族的影响力正在渐渐削弱，所以周宣帝国只要巩固了皇权，自然也有机会统一天下。</p>
+<p style="TEXT-INDENT:2em">
+	当然了，对周宣帝最大的不利因素在于，他的父亲周武帝，曾全力打击佛教。在佛教势力根深蒂固的背景下，它产生的负面影响是惊人的。虽然这种内容，只是在正史之中隐隐约约的流露出来。但是，有一点可以肯定，佛教势力受到这种打击后，是绝不会善罢干休的。</p>
+<p style="TEXT-INDENT:2em">
+	不过这种负面影响，如果周宣帝处理得当，应该也有机会改善的。因为，从前拓跋焘也曾全力打击佛教，后来拓跋焘及其的继位者，不断调整宗教政策，让皇权仍然可以与佛教并存了。</p>
+<p style="TEXT-INDENT:2em">
+	换而言之，只要周宣帝不是僵硬的执行宗教政策，并不会因为这个原因走向失败。</p>
+<p style="TEXT-INDENT:2em">
+	总的来说，周武帝极端的宗教政策，是有利又有弊。因为，周武帝灭佛，让帝国可以控制的人口、物资明显增加了；甚至而言，这是周武帝征服北齐的一个重要原因。但是，他为帝国制造的潜在敌人，也是数不胜数的，甚至而言，这也是杨坚可以成功篡夺宇文家族的重要原因。</p>
+<p style="TEXT-INDENT:2em">
+	如果帝国的权力中枢，由几个德高望重的人控制着，估计也轮不到杨坚篡位。但是，因为郑译、刘昉缺乏足够的威望、实力，所以在周宣帝死时，他们虽然拥有左右帝国的影响力，却很快就沦为杨坚的附属了。</p>
+<p style="TEXT-INDENT:2em">
+	周宣帝临死前的北周帝国，实际上与秦始皇死时的秦帝国非常相似。第一、皇族势力衰弱；第二、他让帝国权力渐渐移入内廷，使军政大佬都很难接近帝国权力中枢。</p>
+<p style="TEXT-INDENT:2em">
+	在这种背景下，控制内廷的权力者，与权臣联手，很快就控制了帝国中央政府。</p>
+<p style="TEXT-INDENT:2em">
+	我们知道，秦始皇死后，秦始皇的亲信（赵高）与权臣李斯，拟定了一份有利于他们的遗诏，于是他们迅速的控制了帝国中央政府。</p>
+<p style="TEXT-INDENT:2em">
+	周宣帝死后，同样是周宣帝的亲信（郑译、刘昉）与权臣杨坚，拟定了一份有利于他们的遗诏，于是他们迅速的控制了帝国中央政府。</p>
+<p style="TEXT-INDENT:2em">
+	如果帝国的权力，没有移入内廷，<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>的亲信，就无法随意更改<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>的遗诏。更无法和某个权臣联手，就可以轻易的控制了帝国。</p>
+<p style="TEXT-INDENT:2em">
+	赵高、李斯处于有利的位置后，马上对秦始皇的子孙，进行了残酷的打击。</p>
+<p style="TEXT-INDENT:2em">
+	杨坚控制权力后，马上开始密谋削弱皇族势力。</p>
+<p style="TEXT-INDENT:2em">
+	如果<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>没有人为的削弱皇族势力，内廷与权臣联手后，也无法真正控制中央政府的。因为，如果他们密谋控制帝国中央政府，就会受到皇族势力的迎头痛击。但是，在皇族衰弱的背景下，皇族面对内廷与权臣的这种行为，不要说借机生事了，就是想自保都有些心有余而力不足。</p>
+<p style="TEXT-INDENT:2em">
+	赵高、李斯控制秦帝国后不久，整个关东地区，很快就处于失控制之中。</p>
+<p style="TEXT-INDENT:2em">
+	杨坚控制帝国后，整个关东地区，也是马上就处于失控的状态。</p>
+<p style="TEXT-INDENT:2em">
+	赵高、李斯沙丘之变后，因为陈胜吴广振臂一呼，于是整个关东地区，很快就被叛乱势力控制了。</p>
+<p style="TEXT-INDENT:2em">
+	杨坚取得执政地位后，因为尉迟迥振臂一呼，整个关东地区，也很快被叛乱势力控制了。</p>
+<p style="TEXT-INDENT:2em">
+	如果有什么不同，只是秦末的关东失控，是秦帝国体制之外的力量，打着反抗暴秦统治的旗号进行叛乱。</p>
+<p style="TEXT-INDENT:2em">
+	北周灭亡时的关东失控，是周帝国体制之内的力量，打着保卫皇权的旗号进行叛乱。</p>
+<p style="TEXT-INDENT:2em">
+	当然了，最大的不同是。赵高、李斯的联盟很快破裂，最后以赵高火并李斯结束。而且关东的叛乱愈演愈烈，最后秦帝国灭亡了。</p>
+<p style="TEXT-INDENT:2em">
+	郑译、刘昉与杨坚的联盟，因为从开始起，大家就认可了杨坚的主导地位，所以这个联盟一直保持着巩固。而且，他们很快就把关东的叛乱彻底平定了，当然了，结果也是周帝国灭亡了。</p>
+<p style="TEXT-INDENT:2em">
+	杨坚能迅速平定关东的叛乱，主要原因大约有两个。</p>
+<p style="TEXT-INDENT:2em">
+	第一、周武帝强有力的控制着帝国，周宣帝在帝国为所欲为，让人们感觉到，在当时的背景下，似乎无法建立一个帝位虚立，大家联合执政的格局了。西魏时代，<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>只是一个摆设，下面是宇文泰为代表的几大贵族联合执政。北周初期，也是宇文氏<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>当一个摆设，下面是宇文护为代表的几大贵族联合执政。这种格局，一共维持了39年（533年，宇文泰拥立元修为帝，572年周武帝杀死宇文护）。</p>
+<p style="TEXT-INDENT:2em">
+	周武帝夺权成功，马上开始乾纲独断；关键是周武帝死后，周宣帝继位，依然是乾纲独断。这似乎证明，贵族政治的辉煌时代已结束了。</p>
+<p style="TEXT-INDENT:2em">
+	以前，可以实现贵族政治，大约是因为贵族的权力比较集中，几个实力巨大的大佬在限制皇权时，相对容易实现联合。但是，后来众多大佬的去世，他们子孙虽然保存了他们的权力，但是显然意味着权力分散了。在这种背景下，他们想联合起来控制一个<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，似乎有些困难。</p>
+<p style="TEXT-INDENT:2em">
+	当然了，更往深究其原因，则是因为随着生产力的缓慢发展，渐渐实现了某种质变。换而言之，因为中央政府直接渗透的范围越来越广，渗透的程度越来越深，所以几大豪门贵族操纵帝国的格局，似乎已失去了存在的基础。</p>
+<p style="TEXT-INDENT:2em">
+	在这种背景下，周武帝遂可以夺回皇权，并且可以强有力的控制着帝国。当然了，也是在这种背景下，周宣帝继位后，依然是拥有实权的<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>。</p>
+<p style="TEXT-INDENT:2em">
+	当杨坚在郑译、刘昉的支持下，大权独揽时。人们自然觉得，为了限制杨坚篡位，而大动干戈，实际上有些不值得。因为，就算把杨坚压制住了，领衔打倒杨坚的人，未必就会比杨坚强到哪里去。</p>
+<p style="TEXT-INDENT:2em">
+	这实际上，就如刘裕、刘义隆，相继成为强势<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>后，南朝对乱臣贼子篡位，变得越来越无动于衷一样。因为，大家对利用尊崇<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，建立一个贵族联合执政的格局，变得越来越没信心了。在这种背景下，他们面对乱臣贼子篡位，通常都是报着管他狼吃狈，还是狈吃狼的态度。于是，乱臣贼子夺取皇位变得越来越容易，而且也很有人愿意用冠冕堂皇的大道理谴责他了。于是，整个南朝，乱臣贼子层出不穷，皇位的世袭制，几乎已是变相的废除了。</p>
+<p style="TEXT-INDENT:2em">
+	杨坚篡位时，大约也是如此的。所以，在杨坚之心路人皆知的背景下，在北周的核心地区（关中地区），竟然没有人公然反对杨坚。</p>
+<p style="TEXT-INDENT:2em">
+	第二、反对杨坚的力量，虽然一时风起云涌。但是，他们都集中在北周征服的地区（从前北齐、梁帝国的地盘）。事实上，从前北齐、梁帝国地盘的军政长官，似乎除了并州总管李穆、幽州总管于翼外，都加入了声讨杨坚的行列。</p>
+<p style="TEXT-INDENT:2em">
+	但是，这种反抗，似乎注定是缺乏力量的。</p>
+<p style="TEXT-INDENT:2em">
+	因为，关中之外的地区，都是北周征服的地区。尤其是北齐故地，三四年前，才被北周征服。你在这种地方，打着保卫北周<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>的旗号，反抗权臣篡位，本身就是缺乏号召力的。</p>
+<p style="TEXT-INDENT:2em">
+	举一个最简单的例子，你是北齐的臣民，你的国家三年前被敌国灭亡了。现在，敌国本土发生叛乱，你会积极保卫他们的<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>？这似乎是有些不可思议的。处于你的位置，你肯定会觉得，管他们是狼吃狈，还是狈吃狼呢！换而言之，谁当<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，关我们什么事？</p>
+<p style="TEXT-INDENT:2em">
+	当然了，从这里，我们大约也可以看出来，周武帝在灭掉北齐后，对北齐皇族进行灭绝性屠杀的原因。因为，从前符坚灭掉前燕，因为重用慕容家族，所以帝国出现危机时，整个前燕故地马上就脱离了帝国的控制。</p>
+<p style="TEXT-INDENT:2em">
+	如果周武帝用怀柔的政策对北齐皇族，当北周帝国出现混乱时，北齐故地恐怕也会随时脱离帝国控制的。但是，周武帝也许没有想到，他灭绝了北齐的皇族，只是使杨坚夺取北周权力时，变得更加容易了。</p>
+<p style="TEXT-INDENT:2em">
+	因为豪门贵族的衰弱，让关中地区（北周的故地），缺乏反对杨坚篡位的足够动力、实力，因为关中之外的地区，缺乏保卫北周皇权的足够动力、实力，也缺乏脱离北周统治的足够动力、实力，让反叛者难以从当地汲取到足够的力量。</p>
+<p style="TEXT-INDENT:2em">
+	所以，这场声势浩大的叛乱，杨坚只用了四个月时间就平定了。</p>
+<p style="TEXT-INDENT:2em">
+	在平定地方反对力量的同时，杨坚也开始铲除宇文诸王了。周宣帝刚死，杨坚就把宇文家族有影响力的王爷，都骗回了帝国都城。现在，据说这几个王爷，都阴谋杀害杨坚，所以全被杀掉了。</p>
+<p style="TEXT-INDENT:2em">
+	公元581年2月，杨坚称帝。</p>
+<p style="TEXT-INDENT:2em">
+	此时，据周宣帝死，不过9个月的时间！也难怪人们都说，自古得国之易，没有比杨坚更容易的了。</p>
+<p style="TEXT-INDENT:2em">
+	杨坚在周宣帝死后，才取得执政的地位。但是，9个月后，就简历了<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>登上了皇位。</p>
+<p style="TEXT-INDENT:2em">
+	甚至从周武帝死算起，杨坚也只用了三年时间，就当了<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>。</p>
+<p style="TEXT-INDENT:2em">
+	北周帝国的灭亡，是因为北周似乎也进入了南朝的权力格局。</p>
+<p style="TEXT-INDENT:2em">
+	换而言之，因为贵族势力渐渐分散，所以，军政大佬对建立一个皇权衰弱，众多军政大佬联合执政的格局，已丧失了信心。在这种背景下，他们似乎懒得把什么忠君思想，当回事了。换而言之，谁当<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>不是个当，忠于某个人、某个家，实在有点迂腐。更主要的是，老话早就说旧了，天下是天下人的天下，代表天下人利益的人，才配执掌天下。</p>
+<p style="TEXT-INDENT:2em">
+	在这种背景下，权臣篡位变得比较容易了，至于从法理上，他们受到的压力变小了。比如，曹操、司马懿从来都没有当过<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，更没有杀害过<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>；他们的后代虽然篡位了，也没有对从前的君主斩尽杀绝。但是，在后世就是一个乱臣贼子的代名词，就是一个欺负孤儿寡母的代名词。而东晋、南北朝时期篡位的乱臣贼子、杀害<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>全家的乱臣贼子，数也数不过来，但是，从来没有人真正谴责过他们。</p>
+<p style="TEXT-INDENT:2em">
+	比如，周宣帝刚死，杨坚就迫不及待的欺负孤儿寡母，更把<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>全家屠杀殆尽了。</p>
+<p style="TEXT-INDENT:2em">
+	人们在说起杨坚时，好像最多的印象就是开国<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，而很少把他们当成乱臣贼子的代名词。我无意强调隋文帝杨坚乱臣贼子的身份，我只是想说，人们当时对乱臣贼子篡位，已表现的非常坦然了。</p>
+<p style="TEXT-INDENT:2em">
+	杨坚的历史地位</p>
+<p style="TEXT-INDENT:2em">
+	在传统的中国史书上，杨坚并没有什么了不起的；至少在普通人的印象，如果中国帝王大排队，杨坚肯定无法进入前五名；甚至能不能进入前十名，也难说的很。</p>
+<p style="TEXT-INDENT:2em">
+	因为，关于杨坚的历史，多少有些平淡；而南北朝的历史也比较乱；所以，普通读者恐怕连杨坚的基本历史背景都搞不清楚。所以一说杨坚，普通读者大约只知道，他以篡位的方式开创了隋帝国，而隋帝国二世就亡了。</p>
+<p style="TEXT-INDENT:2em">
+	后来，隋文帝的历史地位突然提高，主要是因为外国人在研究中国历史时，认为隋文帝是结束中国三百年分裂、动荡的标志性人物。所以，就赋予了他非常高的历史地位。我看过好几个版本的世界百名伟人排行榜，而隋文帝通常都是榜上有名。</p>
+<p style="TEXT-INDENT:2em">
+	其实呢？这是因为外国人研究中国历史的视角，与中国人研究中国历史的视角，是非常不同造成的。</p>
+<p style="TEXT-INDENT:2em">
+	比如，如果没有外国人的历史观传到中国。你让中国人说影响中国历史的标志性人物。恐怕谁也不会想到蔡伦、毕昇。因为，这是哪跟哪的事啊？这两个人物，在现在的中国，恐怕是无人不知、无人不晓了，但是在鸦片战争前，知道这两个名字的中国人，实在可以称得上博学了。因为，这两个人实在太无名了。</p>
+<p style="TEXT-INDENT:2em">
+	杨坚的历史地位，传统的中国历史一直都低估着；当然了，外国的历史书似乎也太高估他了。</p>
+<p style="TEXT-INDENT:2em">
+	总的来说，每段历史都是众多主观、客观因素共同促成的。一个人想成为伟大人物，必须得出生于一个恰当的时间段里，而且还得生于一个恰当的环境里；否则他再有本事，也无法影响历史的。</p>
+<p style="TEXT-INDENT:2em">
+	比如，秦始皇如果出生于平民家庭里，兼并六国的人，肯定就不是他了。因为，在过去的百年历史里，所有的秦王（或秦国执政官）都领导着秦国，一直不间断的蚕食着六国。秦始皇不过是继承了这种传统，并在此基础上做了最后的一推。</p>
+<p style="TEXT-INDENT:2em">
+	如果刘邦早生上二十年，他肯定也没有机会统一天下了；因为他恐怕没有等到天下大乱，就在沛县以一个亭长的身份死了。</p>
+<p style="TEXT-INDENT:2em">
+	比如，曹操、刘备、孙权都非常英雄。但是，结果呢？三个人都是折腾了一辈子，也没有统一天下。最后统一天下的人，竟然是司马炎。</p>
+<p style="TEXT-INDENT:2em">
+	再比如，<a href="http://114.xixik.com/chaodai/5hu16guo/" style="color:#000" title="五胡乱华">五胡乱华</a>开始后，整个时代那是英雄辈出。但是，谁也无法实现中国的统一。而最后统一天下的人，竟然是杨坚。</p>
+<p style="TEXT-INDENT:2em">
+	司马炎与杨坚，那都是是在前人的基础上，对整个历史大局，进行了最后的一推。</p>
+<p style="TEXT-INDENT:2em">
+	其实，秦始皇也是如此的。只是从秦始皇继位时的天下形势去看，似乎并没有到了瓜熟蒂落的时刻。因为，虽然在秦国一百多年不间断的蚕食下，秦国作为唯一的超级大国，已没有人能抗衡了。但是，六国的综合实力依然不可小视。但是总的来说，秦国统一天下，那是秦国几代人不间断扩张的结果。</p>
+<p style="TEXT-INDENT:2em">
+	而司马炎、杨坚当<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>时，整个天下的统一，似乎就差那最后的一推了。因为，当时的天下，只有东南一隅之地还未纳入帝国版图。司马炎当<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>时，就等他去征服东吴了；杨坚当<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>时，就等他去征服陈帝国了。</p>
+<p style="TEXT-INDENT:2em">
+	只要我们翻开历史地图册就会发现，东吴与晋帝国；陈帝国与隋帝国，那根本就不是一个重量级的选手；就是翻开历史书看两国的兵力、人口，那也根本不是一个重量级的选手。在这种实力对比下，征服敌人并没有什么了不起的。</p>
+<p style="TEXT-INDENT:2em">
+	但是，不论怎么说，杨坚都是一个历史时代的标志性人物。因为，中国历史经历了三百年的分裂，是在他的手里再次实现了统一。更重要的是影响中国上千年科举制度，也是在他手里开始出现推广的。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor5"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                         隋朝平定江南的方略</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	自西晋末年以来，中国四分五裂，多民族政权并存。经过二百七十年的民族融合，很多少数民族都已汉化。隋文帝推翻北周鲜卑族统治，在北方建立起汉族政权。南方的两个政权都是汉族政权，一是建都于建康（今江苏省南京市）的陈朝，统辖着三十州地盘二百万人口；二是割据在江陵（今湖北省江陵市）的后梁，只有一郡之地。南北对峙不再带有民族对立的色彩，经济的发展和交流迫切要求结束分裂局面，国家统一的时机成熟了。</p>
+<p style="TEXT-INDENT:2em">
+	隋文帝即位之初，即把统一中国的问题提到了议事日程上来。他向宰相尚书省左仆射（yè）高熲（jiǒng）征求将帅人选，高熲推荐贺若弼和韩擒虎。开皇元年（581）三月，隋文帝任命贺若弼为吴州总管，镇守广陵（今江苏省扬州市），韩擒虎为庐州总管，镇守庐江（今安徽省合肥市），责成他们经略陈朝。九月，隋文帝又任命长孙览和元景山为行军元帅，率军伐陈，而由高熲节度各支部队。第二年正月，陈宣帝去世，后主陈叔宝继位。元景山派邓孝儒带领四千隋军，在今湖北省武汉市一带打仗，当地的陈朝守将皆弃城逃跑，于是陈朝派遣使者请和。<a style="color:#000" title="隋朝" href="http://114.xixik.com/chaodai/sui/">隋朝</a>这时还没有力量立即灭掉陈朝，再加上北方有突厥族的威胁，于是高熲就以"礼不伐丧"（《资治通鉴》卷175）为冠冕堂皇的理由奏请班师。二月，隋文帝便诏令高熲等撤回。开皇七年（587），隋文帝征召后梁主萧琮（cóng）入朝。后梁地小力弱，不敢违抗，萧琮于是率领群臣二百余人从江陵来长安。隋文帝趁机派兵进驻江陵，废掉后梁政权，把萧琮留在长安以上柱国名义予以安置。这样，<a style="color:#000" title="隋朝" href="http://114.xixik.com/chaodai/sui/">隋朝</a>把持了长江中游地区，为向下游的陈朝首都建康进军提供了方便。</p>
+<p style="TEXT-INDENT:2em">
+	从此，<a style="color:#000" title="隋朝" href="http://114.xixik.com/chaodai/sui/">隋朝</a>君臣统一中国的行动进入紧锣密鼓的阶段。隋文帝宣称："我为百姓父母，岂可限一衣带水不拯之乎！"（《南史》卷10《陈本纪下》）他征求平陈方略，高熲提出一整套方案，说："江北地寒，田收差晚；江南水田早熟。量彼收获之际，微征士马，声言掩袭（偷袭），彼必屯兵守御，足得废其农时。彼既聚兵，我便解甲。再三若此，彼以为常，后更集兵，彼必不信。犹豫之顷，我乃济师（大军横渡长江），登陆而战，兵气益倍。又，江南土薄，舍多茅竹，所有储积，皆非地窖。若密遣行人，因风纵火，待彼修立，复更烧之，不出数年，自可财力俱尽。"（《资治通鉴》卷176）隋文帝采用这套方案，使陈朝物资大受损失，警觉变得麻痹。上柱国杨素以及贺若弼、州刺史高劢、崔仲方等人，纷纷献计献策。崔仲方上书建议在今安徽、江苏增派陆军，在今四川、湖北制作战船。长江和汉江的水陆冲要地带，双方必然极力争夺。陈朝沿长江遍置战船，但最终要集中到汉江入长江口和西陵峡口进行决战。陈朝如果派出精兵增援长江上游，处在下游的我方陆军即可乘机渡江作战；陈朝如果按兵不动，固守建康，处在上游的我方军队即可大举征伐。"彼虽恃九江、五湖之险，非德无以为固；徒有三吴、百越之兵，非恩不能自立矣。"（《资治通鉴》卷176）隋文帝于是把崔仲方的刺史任职地从虢州（治今河南省卢氏县）更换到汉江下游的基州（即竟陵郡，治今湖北省钟祥县），这里是他建议督造战船的地方之一。有人建议造船注意保密，隋文帝说："吾将显行天诛（公开地替天行道，吊民伐罪），何密之有！"（《资治通鉴》卷176）于是隋方故意把造船的刨花、木片投入江中，漂到陈朝境内，让他们嗅到战争的气息，对他们造成心理攻势。杨素在永安（今重庆市奉节县）大规模制造战舰。最大的战舰叫"五牙"，能容纳官兵八百人，起楼五层，通高一百余尺，前后左右装置六个拍竿，各长五十尺，用以拍击敌船。次一等的叫"黄龙"，容纳官兵百人。再次有平乘、舴艋等等。</p>
+<p style="TEXT-INDENT:2em">
+	次年三月，隋文帝下诏揭露陈后主罪恶二十条，抄写三十万份散发江南。十月，隋文帝设置淮南行台省，治所设在寿春（今安徽省寿县），以次子晋王杨广（后来的隋炀帝）为行台尚书令，总管灭陈事宜。隋文帝旋即出兵，亲自送行。他任命杨广、三子秦王杨俊以及杨素为行军元帅。于是杨广从六合（今江苏省六合县）出兵，杨俊从襄阳（今湖北省襄樊市襄阳）出兵，杨素从永安出兵，同时荆州（治今湖北省江陵市）刺史刘仁恩、蕲（qí）州（治今湖北省蕲春县）刺史王世积、庐州总管韩擒虎、吴州总管贺若弼、青州（治今山东省青州市）总管燕荣分别由自己治所出兵，总共五十一万八千人，由杨广节度。左仆射高熲、右仆射王韶分别担任晋王府元帅长史、司马，具体处理军务。</p>
+<p style="TEXT-INDENT:2em">
+	杨俊督率水陆大军，屯驻汉口（今湖北省武汉市汉口）。杨素带领水军顺长江三峡而下，起初所向披靡。陈朝沿江镇戍接连上报情况，但执政大臣施文庆、沈客卿扣押情报，不向陈后主反映。<a style="color:#000" title="隋朝" href="http://114.xixik.com/chaodai/sui/">隋朝</a>重兵隔江布防，陈朝在建康的军队只有十多万，君臣们极度迷信长江天堑，以为国家坚如磐石，万无一失。陈后主说："王气在此，齐兵三来，周师再来，无不摧败，彼何为者邪！"都官尚书孔范说："长江天堑，古以为限隔南北，今日虏军岂能飞渡邪！边将欲作功劳，妄言事急。"他甚至认为隋军来犯，不过给自己提供了立功升迁的好机会，竟大言不惭地对陈后主说："臣每患官卑，虏若渡江，臣定作太尉公矣。"当有人误传隋军的战马死掉，他说了句俏皮话："此是我马，何为而死！"意思是打败隋军，隋马皆是陈朝的战利品。陈后主哈哈大笑，似乎已经胜券在握，于是我行我素，"奏伎纵酒，赋诗不辍"。（《资治通鉴》卷176）</p>
+<p style="TEXT-INDENT:2em">
+	贺若弼在广陵故意买了五六十艘破船，摆在显眼的地方，陈朝人以为<a style="color:#000" title="隋朝" href="http://114.xixik.com/chaodai/sui/">隋朝</a>缺船，无法渡江。他部署沿江军人值勤换班，都集中到广陵，于是旌旗蔽野，人头攒动；陈朝人以为隋军聚集，肯定要出动打仗，便急忙发兵防备，后来确知隋军仅仅是换班集合，习以为常，不复防备。贺若弼又命令士兵不断沿江打猎，人马喧腾，尘土飞扬，以麻痹陈朝官兵，使他们把尔后隋方的真正出兵判断为打猎嬉戏。于是在开皇九年（589）正月初一，趁着戍守长江的陈朝官兵为欢度春节而堕入醉乡，贺若弼从广陵渡江，韩擒虎从采石（今安徽省马鞍山市）渡江，向陈朝政治中心地带压过来。陈人立即密启告急，陈后主喝得酩酊大醉，对密启不予理睬。江南人民对于<a style="color:#000" title="隋朝" href="http://114.xixik.com/chaodai/sui/">隋朝</a>攻打自己的腐败政府没有抵触情绪，甚至对于汉族内部结束分裂的军事行动带有好感。当韩擒虎在陈朝的国土上安营扎寨后，"江南父老素闻其威信，来谒军门，昼夜不绝。"贺若弼渡江二十多天以后，陈朝大将任忠前来投降，引隋军由朱雀门进入建康城。城内守兵欲战，任忠挥手制止，说："老夫尚降，诸君何事！"（《隋书》卷52《韩擒虎传》）于是陈军一哄而散。陈后主见大事不好，连忙和宠妃张丽华、孔贵嫔躲进景阳宫的枯井内。隋军扬言要投石，他和二妃捆在一起，被隋军拉出，投降了隋军，陈朝灭亡。高熲进入皇宫，"犹见启在床下，未开封"。（《资治通鉴》卷178）长江中上游的陈军不知道石头城上旗帜变色，还在奋力抵抗杨俊和杨素。杨俊统领十多万水陆军队，滞留在汉口。陈军在三峡横缀三条铁索，杨素战舰长时间受阻不得下。双方交战，死伤惨重。杨素后来终于战败陈军，开赴汉口。陈后主投降的消息传开，境内各地逐渐投降隋军。淮南行台省的任务已经完成，<a style="color:#000" title="隋朝" href="http://114.xixik.com/chaodai/sui/">隋朝</a>于二月份予以撤销。陈后主被押至长安，加以安置。</p>
+<p style="TEXT-INDENT:2em">
+	陈朝灭亡后，岭南各郡无所适从。高凉郡（治今广东省阳江县）太夫人冼氏是原萧梁政权高凉太守冯宝的妻子，这时被各郡推举为主，号称"圣母"，保据一方，统率部落十多万家。<a style="color:#000" title="隋朝" href="http://114.xixik.com/chaodai/sui/">隋朝</a>派使者安抚岭南，把陈后主写给冼夫人的劝降书交给她。冼夫人集合当地首领数千人，痛哭流涕。她派孙子冯魂率众迎接<a style="color:#000" title="隋朝" href="http://114.xixik.com/chaodai/sui/">隋朝</a>使者入广州，愿意归附<a style="color:#000" title="隋朝" href="http://114.xixik.com/chaodai/sui/">隋朝</a>，并协助隋使说服岭南各郡归附。<a style="color:#000" title="隋朝" href="http://114.xixik.com/chaodai/sui/">隋朝</a>册封她为宋康郡夫人。至此，分裂局面告终。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor6"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        隋朝战争</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<a style="color:#000" title="隋朝" href="http://114.xixik.com/chaodai/sui/">隋朝</a>源自581年隋文帝杨坚受禅建立<a style="color:#000" title="隋朝" href="http://114.xixik.com/chaodai/sui/">隋朝</a>，至619年隋恭帝杨侗禅让王世充，<a style="color:#000" title="隋朝" href="http://114.xixik.com/chaodai/sui/">隋朝</a>灭亡为止，国祚38年。</p>
+<p style="TEXT-INDENT:2em">
+	以下是<a style="color:#000" title="隋朝" href="http://114.xixik.com/chaodai/sui/">隋朝</a>时期的战争年表：</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇元年（581年）九月至十一年春隋统一的战争</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇元年（581年）八月丰利山之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇元年（581年）九月至次年正月高颎攻陈之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇元年（581年）十二月至二年十二月突厥攻隋之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇二年（陈太建十四年，582年）正月陈平始兴王陈叔陵叛乱</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇二年（582年）正月甑山、涢口之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇二年（582年）六月可洛赅山之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇二年（582年）十二月周槃之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇三年（583年）四月至五月隋反击突厥之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇三年（583年）四月白道之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇三年（583年）四月隋灭高宝宁之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇三年（583年）五月高越原之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇三年（583年）沙钵略与阿波之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇三年（583年）六月砂城之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇三年（583年）六月隋梁远击吐谷浑之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇四年（584年）四月隋贺娄子干击吐谷浑之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇五年（陈至德三年，585年）三月陈平章大宝叛乱</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇五年（陈至德三年，585年）梁戚昕袭陈公安之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇五年（585年）隋助沙钵略可汗击阿波可汗之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇七年（587年）莫何可汗击阿波可汗之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇八年（588年）十二月至次年二月隋灭陈的战争</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇八年（588年）十二月狼尾滩之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇九年（589年）正月歧亭、延州之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇九年（589年）正月白土岗之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇九年（589年）二月湘州之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇九年（589年）南康之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇九年（589年）二月隋定三吴之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇九年（589年）十二月南定州之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇十年（590年）十一月至次年春隋平江南之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇十五年、十六年（595—596年）隋击降党项之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇十七年（597年）隋平定爨翫昆州之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇十七年（597年）隋平李光仕叛乱</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇十七年（597年）隋平李世贤叛乱</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇十八年（598年）、大业八年（612年）、九年、十年隋与高丽战争</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇十八年（598年）隋文帝攻高丽之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇十九年（599年）隋击突厥之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇十九年（599年）隋与突厥达头可汗之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇二十年（600年）隋击达头可汗之战</p>
+<p style="TEXT-INDENT:2em">
+	隋开皇二十年（600年）二月至三月隋平李英林叛乱</p>
+<p style="TEXT-INDENT:2em">
+	隋仁寿元年（601年）隋卫文升平僚人叛乱</p>
+<p style="TEXT-INDENT:2em">
+	隋仁寿元年（601年）隋冯盎平僚人叛乱</p>
+<p style="TEXT-INDENT:2em">
+	隋仁寿二年（602年）杨素击突厥之战</p>
+<p style="TEXT-INDENT:2em">
+	隋仁寿二年（602年）隋平李子佛之战</p>
+<p style="TEXT-INDENT:2em">
+	隋仁寿四年（604年）隋平杨谅之战</p>
+<p style="TEXT-INDENT:2em">
+	隋大业元年（605年）正月至四月隋攻林邑之战</p>
+<p style="TEXT-INDENT:2em">
+	隋大业元年（605年）隋击契丹之战</p>
+<p style="TEXT-INDENT:2em">
+	隋大业三年（607年）隋击铁勒之战</p>
+<p style="TEXT-INDENT:2em">
+	隋大业四年（608）年隋灭伊吾之战</p>
+<p style="TEXT-INDENT:2em">
+	隋大业四年至五年（608—609年）隋击吐谷浑之战</p>
+<p style="TEXT-INDENT:2em">
+	隋大业六年（610年）隋平建国门事变</p>
+<p style="TEXT-INDENT:2em">
+	隋大业六年（610年）隋击流求之战</p>
+<p style="TEXT-INDENT:2em">
+	隋大业六年（610年）西突厥射匮击处罗可汗之战</p>
+<p style="TEXT-INDENT:2em">
+	隋大业六年（610年）至隋亡（618年）隋末农民起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业六年（610年）六月尉文通起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业六年（610年）十二月王万昌起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业六年（610年）至隋亡（618年）瓦岗农民起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业六年至十三年（610年—617年）翟让起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业七年（611年）王薄起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业七年（611年）刘霸道起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业七年（611年）孙安祖起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业七年（611年）高土达起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业七年（611年）至唐武德四年（621年）窦建德起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业七年十二月至十二年（611—615年）张金称起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业八年（612年）正月隋炀帝第一次攻高丽之战</p>
+<p style="TEXT-INDENT:2em">
+	隋大业九年（613年）七月刘元进起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业九年（613年）至唐武德七年（625年）杜伏威起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业九年（613年）三月孟海公起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业九年（613年）韩相国起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业九年（613年）九月彭孝才起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业九年（613年）宋子贤起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业九年（613年）杜彦冰起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业九年（613年）正月李德逸起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业九年（613年）二月韩进洛、甄宝车起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业九年（613年）白瑜娑起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业九年（613年）三月郭方预起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业九年（613年）三月孟让起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业九年（613年）三月郝孝德起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业九年（613年）三月至十二年格谦起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业九年（613年）隋炀帝第二次攻高丽之战</p>
+<p style="TEXT-INDENT:2em">
+	隋大业九年（613年）六月至八月隋平杨玄感之战</p>
+<p style="TEXT-INDENT:2em">
+	隋大业九年（613年）八月陈填、梁慧尚、李三儿起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业九年（613年）八月朱燮起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业九年（613年）八月管崇起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业九年（613年）十月吕明星起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业九年（613年）十二月向海明起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业九年（613年）杜伏威灭宋颢之战</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十年（614年）二月唐弼起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十年（614年）四月张大彪、宗世模起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十年（614年）五月刘迦论起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十年（614年）六月郑文雅、林宝护起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十年（614年）七月隋炀帝第三次攻高丽之战</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十年（614年）八月杨公卿起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十年（614年）十一月司马长安起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十年（614年）十一月刘苗王起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十年（614年）十一月王德仁起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十年（614年）十一月左孝友起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十年（614年）十二月卢明月起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十一年（615年）正月颜宣政起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十一年（615年）二月王须拔、魏刀儿起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十一年（615年）二月杨仲绪起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十一年（615年）四月龙门之战</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十一年（615年）七月张起绪起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十一年（615年）八月雁门之战</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十一年（615年）十月李子通起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十一年（615年）十月魏骐驎起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十一年（615年）十二月敬盘陀、柴保昌起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十一年（615年）十二月李渊剿抚汾晋起义军</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十一年（615年）十二月至义宁元年（617年）朱粲起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十二年（616年）正月翟松柏起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十二年（616年）二月卢公暹起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十二年（616年）四月甄翟儿攻太原之战</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十二年（616年）七月孙华起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十二年（616年）八月赵万海起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十二年（616年）操师乞、林士弘起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十二年（616年）九月荔非世雄起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十二年（616年）九月杜扬州、沈觅敌起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十二年（616年）十月大海寺之战</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十二年（616年）十二月雀鼠谷之战</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十二年（616年）李渊击突厥之战</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十二年（616年）隋王仁恭击突厥之战</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十二年（616年）罗艺起事</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十三年（617年）正月杜伏威击陈稜之战</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十三年（617年）正月徐圆朗起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十三年（617年）二月洛口仓之战</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十三年（617年）二月石子河之战</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十三年（617年）二月王子英起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十三年（617年）二月梁师都起事</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十三年（617年）二月刘武周起事</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十三年（617年）三月张子路起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十三年（617年）三月李通德起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十三年（617年）三月郭子和起义</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十三年（617年）四月薛举起事</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十三年（617年）五月突厥攻扰晋阳之战</p>
+<p style="TEXT-INDENT:2em">
+	隋大业十三年（617年）七月河间之战</p>
+<p style="TEXT-INDENT:2em">
+	隋义宁元年（617年）十月杨世洛起义</p>
+<p style="TEXT-INDENT:2em">
+	隋义宁元年（617年）十月黑石之战</p>
+<p style="TEXT-INDENT:2em">
+	隋义宁元年（617年）十月萧铣起事</p>
+<p style="TEXT-INDENT:2em">
+	隋义宁元年（617年）十一月窦建德兼并魏刀儿之战</p>
+<p style="TEXT-INDENT:2em">
+	隋义宁元年（617年）綦公顺起义</p>
+<p style="TEXT-INDENT:2em">
+	隋义宁元年（617年）十二月张善安起义</p>
+<p style="TEXT-INDENT:2em">
+	隋义宁元年（617年）李轨起事</p>
+<p style="TEXT-INDENT:2em">
+	隋义宁二年（618年）正月洛南之战</p>
+<p style="TEXT-INDENT:2em">
+	隋义宁二年（618年）三月宇文化及江都之乱</p>
+<p style="TEXT-INDENT:2em">
+	隋义宁二年（618年）三月显福宫之战</p>
+<p style="TEXT-INDENT:2em">
+	隋义宁二年（618年）三月沈法兴起事</p>
+<p style="TEXT-INDENT:2em">
+	隋义宁二年（618年）五月徐世勣讨王德仁之战</p>
+<p style="TEXT-INDENT:2em">
+	唐武德元年（618年）六月黎阳之战</p>
+<p style="TEXT-INDENT:2em">
+	唐高祖武德元年（618年）九月邙山之战</p>
+<p style="TEXT-INDENT:2em">
+	唐武德元年（618年）十一月窦建德攻占冀州之战</p>
+<p style="TEXT-INDENT:2em">
+	唐武德元年（618年）十二月窦建德攻幽州之战</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+    </div>
+    <script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        var value = '182';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script>
+    <div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/chaodai/sui/" target="_self" title="隋朝_隋朝历史简介_隋朝皇帝列表_中国朝代顺序表">隋朝</a></div>
+    <ul style="width: 960px; margin: auto; overflow: hidden;">
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/lixi/"
+                title="人民币存款利率表，2019银行利息，银行存款利率，银行贷款利率">银行存款利息</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chaodai/zhou/"
+                title="周朝历史_西周历史_东周历史_周朝帝王列表">周朝历史</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证更换新政策_过期了该怎么办？">中国旅行证</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国历任总统名单_美国总统简历生卒年份及所属党派">美国历任总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/baijiaxing-qq/"
+                title="百家姓qq头像,百家姓qq头像闪图大全_百家姓中国心qq头像">百家姓QQ头像</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="美宝证件_美宝需要哪些证件（美国出生纸_中国旅行证_美国护照_社会安全号_出生纸三级认证）">美宝需要哪些证件？</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_去美国生孩子费用预算清单2019">赴美生子要多少钱</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/obama/"
+                title="奥巴马_美国总统奥巴马_贝拉克·奥巴马(Barack Hussein Obama)_第44任美国总统">奥巴马</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/trump/"
+                title="美国总统特朗普_唐纳德·约翰·特朗普_Donald John Trump_第45任美国总统川普">特朗普</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_去美国生孩子要多少钱？">赴美生子费用</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 中国护照免签证国家2019">中国护照免签证</a> </li>
+        
+    </ul>
+
+    <div class="lindBox">
+        <div class="btnGray">
+            <div class="btnText">
+                <a target="_self" title="隋朝_隋朝历史简介_隋朝皇帝列表_中国朝代顺序表" href="http://news.xixik.com/word/182/">另存为<br />
+                    Word格式</a>
+            </div>
+        </div>
+    </div>
+    <div class="lindBox" style="text-align: center;">
+        <img src="http://news.xixik.com/qrcode/182/" alt="扫码手机上继续看" /><br />
+        <br />
+        <strong>用微信或者支付宝扫码在手机上继续观看<br />
+            可以保存收藏，也扫码后可以分享给好友
+        </strong>
+    </div>
+    <hr style="height: 1px; border: none; border-top: 1px dashed #999;" />
+    <script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script>
+<!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.-->
+
+</body></html>

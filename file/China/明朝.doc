@@ -1,0 +1,328 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>明朝历史_明朝皇帝列表_明朝地图_明朝历史简介_明朝那些事儿</title><link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" /><meta name="description" content="明朝（1368－1644年）是中国历史上最后一个由汉族建立的大一统王朝，共传十二世，历经十六帝，享国276年。1368年明太祖朱元璋在应天称帝,改元洪武,建立明朝。1421年明成祖朱棣迁都顺天府。史学界又把明朝历史延续到1683年，包含南明和明郑时期的历史。" /><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/chaodai/ming/"><meta http-equiv="Cache-Control" content="no-transform" /><meta http-equiv="Cache-Control" content="no-siteapp" /><base target="_blank" /><script>        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "chaodai/ming/";
+        }
+
+
+    </script><style>        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style></head><body><a name="top4"></a><div class="topBox" name="top"><div class="topMain"><div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div><div id="icoPhone"></div><div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div><div id="icoWechat"></div><div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a></div><div id="icoSina"></div><div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a></div><div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div><div class="topRight"></div></div></div><div id="showqrCode"><div><span></span></div><img src="" /><div><span></span></div></div><script type="text/javascript">        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script><div class="body"><div class="lindBox" style="position: relative;"><img src="http://img.xixik.net/custom/topic/001/chaodai-ming.jpg" alt="明朝历史_明朝皇帝列表_明朝地图_明朝历史简介_明朝那些事儿" /><div class="title"><h1>明朝历史_明朝皇帝列表_明朝地图_明朝历史简介_明朝那些事儿</h1></div></div><div class=" custom_border lindBox"><div class="special_content"><div class="content_text"><div class="content_daodu"></div><h2 style="border-bottom:1px dashed #999; displayinline;">明朝历史</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--><p style="TEXT-INDENT:2em"><strong>明朝</strong>（Ming Dynasty，1368年―1644年 ），是中国历史上最后一个由汉族建立的封建君主制王朝，明太祖朱元璋初期建都南京，明成祖时期定都北京。传十二世，历十六帝，共享国祚276年。<span style="text-indent: 2em;">1644年李自成率农民军攻入北京，崇祯帝自缢，明朝灭亡。明朝宗室在南方建立了多个政权，史称南明。清兵入关入主中原取代明朝的统治，开始了中国历史黑暗的一页。</span></p></div></div></div><div class="lindBox" style="overflow: hidden;"><div class="gg1"><a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a></div><div class="guide"><div class="guideBorder" id="guideBorder"><div class="guideTitle">导读（目录）</div><ul id="guideDisplay"><li>·<a title="明朝历史简介" href="#anchor1" target="_self"> 明朝历史简介</a></li><li>·<a title="明朝皇帝列表" href="#anchor2" target="_self"> 明朝皇帝列表</a></li><li>·<a title="明朝皇帝奇葩多" href="#anchor3" target="_self"> 明朝皇帝奇葩多</a></li><li>·<a title="明朝年号概述" href="#anchor4" target="_self"> 明朝年号概述</a></li><li>·<a title="明朝疆域究竟为多少？" href="#anchor5" target="_self"> 明朝疆域究竟为多少？</a></li><li>·<a title="明朝是“极辉煌”与“最黑暗”并存的朝代" href="#anchor6" target="_self"> 明朝是“极辉煌”与“最黑暗”并存的朝代</a></li></ul><div class="guideOpen">展开&darr;</div></div></div><div class="guideFllow"><div class="guideFllowBorder"><div class="guideFllowTitle">导读（目录）</div><ul id="guideFllowDisplay"><li>·<a title="明朝历史简介" href="#anchor1" target="_self"> 明朝历史简介</a></li><li>·<a title="明朝皇帝列表" href="#anchor2" target="_self"> 明朝皇帝列表</a></li><li>·<a title="明朝皇帝奇葩多" href="#anchor3" target="_self"> 明朝皇帝奇葩多</a></li><li>·<a title="明朝年号概述" href="#anchor4" target="_self"> 明朝年号概述</a></li><li>·<a title="明朝疆域究竟为多少？" href="#anchor5" target="_self"> 明朝疆域究竟为多少？</a></li><li>·<a title="明朝是“极辉煌”与“最黑暗”并存的朝代" href="#anchor6" target="_self"> 明朝是“极辉煌”与“最黑暗”并存的朝代</a></li></ul><div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div></div></div><div class="gg2"><a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a></div></div><a name="anchor1"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        明朝历史简介</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em"><strong>明朝</strong>（Ming Dynasty，1368 －1644年）是<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>上最后一个由汉族建立的大一统王朝，共传十二世，<a href="http://114.xixik.com/chinese-emperors/ming/" title="明朝皇帝列表">历经十六帝</a>，享国祚276年。</p><p style="TEXT-INDENT:2em">	元末民不聊生，爆发红巾起义，乞丐放牛娃出身的朱元璋加入郭子兴队伍，1364年朱元璋称吴王，建立西吴。1368年朱元璋称帝，定都于应天府（今南京），国号为大明，同年攻克大都（今北京）推翻元朝，因皇室姓朱，又称“朱明”。明朝建立以后，明太祖朱元璋采取一系列措施加强君主专政制度，从而使明朝中央集权专制空前强化。1420年朱棣迁都至顺天府（今北京），以应天府为陪都。明初历经洪武之治、永乐盛世、仁宣之治等治世，政治清明、国力强盛。中期经土木之变由盛转衰，后经弘治中兴、嘉靖中兴、万历中兴国势复振，晚明因东林党争和天灾外患导致国力衰退，爆发明末农民起义。崇祯十七年（1644年）李自成攻入北京，<a href="http://www.xixik.com/content/7e44214882c61e37" style="text-indent: 2em;">崇祯帝煤山自缢殉国</a>。<a href="http://www.xixik.com/content/135e92ed8bf3a594">明朝宗室在江南建立南明政权</a>，随后清朝趁乱入关，击败大顺、大西、南明弘光、隆武、绍武等诸政权；<a href="http://www.xixik.com/content/acb258365cc69cda" style="text-indent: 2em;">1662年永历帝被杀，南明灭亡</a>。1683年清军攻占台湾，奉明正朔的明郑告终。</p><div class='right_gg'><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- 336x280-114-left --><ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-3849899595029685"
+     data-ad-slot="9973132210"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><p style="TEXT-INDENT:2em">	国号来历：<a href="http://www.xixik.com/content/6623306db59b6aef">朱元璋初定天下</a>，建国号意在大中，既而祈天，乃得大明，表示承袭自韩山童、韩林儿父子的“大小明王”之号，又称皇明， 史称明朝、明代，清朝时称之为前明。&#160;大明国号来源有多种说法，一般认为与宗教有关，吴晗等人认为，大明国号的源头是明教，此说后来被金庸等作家采用，而胡阿祥等认为此<a href="http://www.xixik.com/content/c16b8a013b4779b8">国号出自白莲教</a>，而源头则是佛教。朱元璋手下有一部分明教徒，用“明”作国号以示正统地位，也同时应和明教中的“明王出世”预言。 其次，以明喻火，根据五德终始说，表示明朝取代元朝是以火克金。 1644年北京陷落后，南方各地先后拥立明朝宗室建立朝廷，沿用大明国号，别称南明或后明，清人称之为伪明，奉大明正朔的郑芝龙在东南沿海建立了明郑势力，后其子郑成功及其孙郑经在台湾建立的政权又称为明郑时期。</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/custom/section/chaodai/ming/xixik-94d08c4ac564eb34.jpeg" style="margin: 10px; float: right; width: 400px;" /></p><p style="TEXT-INDENT:2em">	明朝疆域囊括汉地，东北抵日本海、外兴安岭，后缩为辽河流域；北达戈壁沙漠一带，后撤至明长城；西北至新疆哈密，后退守嘉峪关；西南临孟加拉湾，后折回约今云南境；并在青藏地区设有羁縻卫所，还曾收复安南，明代极盛国土面积约达一千万平方公里。</p><p style="TEXT-INDENT:2em">	明朝社会经济发达，农产品丰富，手工业生产具备很高水平，陶瓷业、丝棉纺业、冶炼、建筑等闻名世界。明代手工业和商品经济繁荣，出现商业集镇和资本主义萌芽，文化艺术呈现世俗化趋势。据《明实录》所载人口峰值为7185万，但大部分学者认为实际逾亿，也有学者指出晚明人口接近两亿。</p><p style="TEXT-INDENT:2em">	明朝是继汉唐之后的黄金时期。明代，无汉之外戚、唐之藩镇、宋之岁币，天子守国门，君王死社稷。清朝官方评价明朝为“治隆唐宋”、“远迈汉唐”。<a href="http://www.xixik.com/content/20e9cb176ab3b4e3" style="text-indent: 2em;">“治隆唐宋”</a>是清朝康熙皇帝南下金陵时，在耳闻目睹南京城的盛况后对明太祖朱元璋建立的明朝由衷的赞叹之词，康熙皇帝此举，也包含有笼络汉族地主阶级和知识分子人心的目的，这样做有利于少数民族对汉族的统治的巩固和加强。</p><p style="TEXT-INDENT:2em">	由于后续鞑子满清的修史，明朝给人留下很不好的印象，似乎除了皇帝荒诞，太监专权，东厂西厂外就没别的可取之处了。然而对比历史，<a href="http://www.xixik.com/content/b029134123f1f1a3">明朝或是最有骨气的王朝：不和亲、不纳贡、不称臣、不割地</a>。从明英宗到崇祯帝的几次北京保卫战中，明朝更是坚定，兵临城下仍然宁死不迁都——“天子守国门，君王死社稷亡”，这在中国历史上是罕见的。</p><p style="TEXT-INDENT:2em">	明朝鼎盛之时，郑和七次下西洋，远达非洲，大小国家皆来朝拜，中国历史上任何朝代都没有过这样的壮举。然而在满清御用文人的笔下，这样的壮举却被大肆丑化，说成是纯粹为了面子的无用之举。事实上在郑和七下西洋之后，中国人的视野得到了从所未有的开阔，海上的贸易线路也被前所未有的大规模开通，这为后来明末海上贸易的发达打下了坚实的基础，明朝的中国人也大规模的移民到海外。而且中国和外国之间文化技术上交流也因此终明朝一世也没有断绝过，外国发明的火器，往往没有多久，就迅速传入中国，被大规模的仿制和装备部队，并且还在此基础上进行创新改进，到明朝末年，中国人在火器的装备和使用上丝毫不逊色于当时世界上其他最先进的国家。</p></div></div></div><a name="anchor2"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        明朝皇帝列表</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="margin: auto; width: 90%;"><tbody><tr><td><p><strong>年号</strong></p></td><td><p><strong>庙号</strong></p></td><td><p><strong>名字</strong></p></td><td><p><strong>出生</strong></p></td><td><p><strong>在位时间</strong></p></td><td><p><strong>即位年龄</strong></p></td><td><p><strong>死亡</strong></p></td><td><p><strong>在位年数</strong></p></td><td><p><strong>死时年龄</strong></p></td><td><p><strong>世系</strong></p></td><td><p><strong>陵寝</strong></p></td></tr><tr><td><p>					洪武</p></td><td><p>					太祖</p></td><td><p>					朱元璋</p></td><td><p>					1328</p></td><td><p>					1368-1398</p></td><td><p>					41</p></td><td><p>					1398</p></td><td><p>					31</p></td><td><p>					71</p></td><td><p>					朱世珍之第三子</p></td><td><p>					明孝陵</p></td></tr><tr><td rowspan="2"><p>					建文</p></td><td rowspan="2"><p>					惠帝</p></td><td rowspan="2"><p>					朱允炆</p></td><td rowspan="2"><p>					1377</p></td><td rowspan="2"><p>					1399-1402</p></td><td rowspan="2"><p>					22</p></td><td rowspan="2"><p>					不详</p></td><td rowspan="2"><p>					4</p></td><td rowspan="2"><p>					不详</p></td><td><p>					太祖之孙</p></td><td rowspan="2"><p>					不详</p></td></tr><tr><td><p>					太子朱标次子</p></td></tr><tr><td><p>					永乐</p></td><td><p>					成祖</p></td><td><p>					朱棣</p></td><td><p>					1360</p></td><td><p>					1403-1424</p></td><td><p>					43</p></td><td><p>					1424</p></td><td><p>					22</p></td><td><p>					65</p></td><td><p>					朱元璋之第四子</p></td><td><p>					长陵</p></td></tr><tr><td><p>					洪熙<wbr /></p></td><td><p>					仁宗</p></td><td><p>					朱高炽</p></td><td><p>					1378</p></td><td><p>					1425</p></td><td><p>					47</p></td><td><p>					1425</p></td><td><p>					1</p></td><td><p>					48</p></td><td><p>					朱棣之长子</p></td><td><p>					献陵</p></td></tr><tr><td><p>					宣德</p></td><td><p>					宣宗</p></td><td><p>					朱瞻基</p></td><td><p>					1398</p></td><td><p>					1426-1435</p></td><td><p>					28</p></td><td><p>					1435</p></td><td><p>					10</p></td><td><p>					38</p></td><td><p>					朱高炽之长子</p></td><td><p>					景陵</p></td></tr><tr><td><p>					正统</p></td><td><p>					英宗</p></td><td><p>					朱祁镇</p></td><td><p>					1427</p></td><td><p>					1436-1449</p></td><td><p>					9</p></td><td><p>					1464</p></td><td><p>					13</p></td><td><p>					38</p></td><td><p>					朱瞻基之长子</p></td><td><p>					裕陵</p></td></tr><tr><td><p>					天顺</p></td><td><p>					&#160;</p></td><td><p>					&#160;</p></td><td><p>					&#160;</p></td><td><p>					1457-1464</p></td><td><p>					&#160;</p></td><td><p>					&#160;</p></td><td><p>					7</p></td><td><p>					&#160;</p></td><td><p>					&#160;</p></td><td><p>					&#160;</p></td></tr><tr><td><p>					景泰&#160;<wbr /></p></td><td><p>					代宗</p></td><td><p>					朱祁钰</p></td><td><p>					1428</p></td><td><p>					1450-1457</p></td><td><p>					22</p></td><td><p>					1457</p></td><td><p>					8</p></td><td><p>					30</p></td><td><p>					朱瞻基之次子</p></td><td><p>					景泰陵</p></td></tr><tr><td><p>					成化</p></td><td><p>					宪宗</p></td><td><p>					朱见深</p></td><td><p>					1447</p></td><td><p>					1465-1487</p></td><td><p>					18</p></td><td><p>					1487</p></td><td><p>					23</p></td><td><p>					41</p></td><td><p>					朱祁镇之长子</p></td><td><p>					茂陵</p></td></tr><tr><td><p>					弘治</p></td><td><p>					孝宗</p></td><td><p>					&#160;<wbr />朱祐樘</p></td><td><p>					1470</p></td><td><p>					1488-1505</p></td><td><p>					18</p></td><td><p>					1505</p></td><td><p>					18</p></td><td><p>					36</p></td><td><p>					见深之第三子</p></td><td><p>					泰陵</p></td></tr><tr><td><p>					正德</p></td><td><p>					武宗</p></td><td><p>					朱厚燳</p></td><td><p>					1491</p></td><td><p>					1506-1521</p></td><td><p>					15</p></td><td><p>					1521</p></td><td><p>					16</p></td><td><p>					31</p></td><td><p>					朱右樘之长子</p></td><td><p>					康陵</p></td></tr><tr><td rowspan="2"><p>					嘉靖</p></td><td rowspan="2"><p>					世宗</p></td><td rowspan="2"><p>					朱厚熜</p></td><td rowspan="2"><p>					1507</p></td><td rowspan="2"><p>					1522-1566</p></td><td rowspan="2"><p>					15</p></td><td rowspan="2"><p>					1566</p></td><td rowspan="2"><p>					45</p></td><td rowspan="2"><p>					60</p></td><td><p>					朱右樘之侄</p></td><td rowspan="2"><p>					永陵</p></td></tr><tr><td><p>					兴献王朱祐杬次子&#160;<wbr /></p></td></tr><tr><td><p>					隆庆</p></td><td><p>					穆宗</p></td><td><p>					朱载垕</p></td><td><p>					1537</p></td><td><p>					1567-1572</p></td><td><p>					30</p></td><td><p>					1572</p></td><td><p>					6</p></td><td><p>					36</p></td><td><p>					朱厚熜之第三子</p></td><td><p>					昭陵</p></td></tr><tr><td><p>					万历</p></td><td><p>					神宗</p></td><td><p>					朱翊钧</p></td><td><p>					1563</p></td><td><p>					1573-1620</p></td><td><p>					10</p></td><td><p>					1620</p></td><td><p>					48</p></td><td><p>					58</p></td><td><p>					朱载后之第三子</p></td><td><p>					定陵</p></td></tr><tr><td><p>					泰昌</p></td><td><p>					光宗</p></td><td><p>					朱常洛&#160;<wbr /></p></td><td><p>					1582</p></td><td><p>					1620</p></td><td><p>					39</p></td><td><p>					1620</p></td><td><p>					1月</p></td><td><p>					39</p></td><td><p>					朱翊钧之长子</p></td><td><p>					庆陵</p></td></tr><tr><td><p>					天启</p></td><td><p>					熹宗</p></td><td><p>					朱由校</p></td><td><p>					1605</p></td><td><p>					1621-1627</p></td><td><p>					16</p></td><td><p>					1627</p></td><td><p>					7</p></td><td><p>					23</p></td><td><p>					朱常洛之长子</p></td><td><p>					德陵</p></td></tr><tr><td><p>					崇祯</p></td><td><p>					思宗</p></td><td><p>					朱由检</p></td><td><p>					1610</p></td><td><p>					1628-1644</p></td><td><p>					18</p></td><td><p>					1644</p></td><td><p>					17</p></td><td><p>					35</p></td><td><p>					朱常洛之第五子</p></td><td><p>					思陵</p></td></tr></tbody></table><p style="text-indent: 2em;">	【<a href="http://114.xixik.com/chinese-emperors/ming/" title="明朝皇帝列表">明朝皇帝列表</a>顺口溜：洪建永洪宣，天景成弘正、嘉隆万泰天，崇弘隆绍永。】</p><p style="text-indent: 2em;">	第一个时期就是“洪建永洪宣”，是明朝的立国与鼎盛时期。主要标志是推翻蒙元，建立明朝，迁都北京，多民族统一，奠定中华版图，郑和七下西洋，兴建故宫，编撰《永乐大典》等等，出现治隆唐宋、远迈汉唐的“永宣盛世”。</p><p style="text-indent: 2em;">	第二个时期，“天景成弘正”是明朝的治世时期，主要标志是土木堡之变，南宫复辟，成化登极，励精图治，弘治中兴，正德帝南巡等等。</p><p style="text-indent: 2em;">	第三个时期，“嘉隆万泰天”是明朝的中兴与转衰时期，主要标志就是嘉靖平倭，隆庆开海，蒙古互市，万历援朝击败日本，对外贸易发达，中国的白银资本，西学东渐，思想开放，出现资本主义萌芽。</p><p style="text-indent: 2em;">	第四个时期，“崇弘隆绍永”是明朝的危亡时期，主要标志是连年天灾，农民起义和北方的后金兴起，李自成攻入北京，崇祯帝殉国，南明抗清，最后明朝灭亡。</p><p style="text-indent: 2em;">	所以明朝历史这300年，大体上可以分作这么四个段落，“洪建永洪宣”是明朝的建立与鼎盛时期，“正景成弘正”是明朝的治世时期，“嘉隆万泰天”是明朝的中兴和转衰时期，“崇弘隆绍永”是明朝的危亡时期。</p><p style="text-indent: 2em;">	“太祖开天行道”；“惠宗嗣天章道”；“成祖启天弘道”；“仁宗敬天体道”；“宣宗宪天崇道”；“英宗法天立道”；“代宗符天建道”；“宪宗继天凝道”；“孝宗达天明道”；“武宗承天达道”；</p><p style="text-indent: 2em;">	“世宗钦天履道”；“穆宗契天隆道”；“神宗范天合道”；“光宗崇天契道”；“熹宗达天阐道”；“毅宗绍天绎道”；“安宗处天承道”；“绍宗配天至道”；“文宗贞天应道”；“昭宗应天推道”</p></div></div></div><a name="anchor3"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        明朝皇帝奇葩多</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	为什么那么多色彩鲜明的皇帝（<a href="http://114.xixik.com/chinese-emperors/ming/" title="明朝皇帝列表">明朝皇帝列表</a>）都出现在明朝？什么木匠帝刷钱帝嗑药帝调戏淫乐帝等等，为什么这些皇帝扎堆出现在明朝呢？是明朝大环境所致还是清人史书篡改所致？</p><p style="TEXT-INDENT:2em">	其实大家所说的这些奇葩皇帝，历史上很多，在东汉，南北朝时期尤其众多，只不过明朝离我们更近，历史记录更加完整，业界也更喜欢研究大一统王朝，于是明清两朝称为大家关注的焦点。</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/custom/section/chaodai/ming/xixik-32c1d9be9f8abe77.jpg" style="margin: 10px; float: right; width: 400px;" /></p><p style="TEXT-INDENT:2em">	回到皇帝本身来看，封建皇室普遍是早起创业艰难知道守江山的难处，到了中后期，社会稳定，再加上统治阶级与身俱来的优越感，很多皇帝以享乐为主。变着法的玩。这些既有皇帝本身的因素，也有周边佞臣宦官的唆使。</p><p style="TEXT-INDENT:2em">	首先一个原因，就是民间野史文艺的夸张演绎。</p><p style="TEXT-INDENT:2em">	明朝之后的清朝，是中国民间戏曲的红火期，我们今天喜闻乐见的好些地方戏，比如晋剧京剧，都是在清朝成型，相声艺术同样在清代成熟。这类民间艺术要想火，八卦皇帝就是好话题，清朝皇帝八卦了是找死，那八卦前朝皇帝，自然特安全。</p><p style="TEXT-INDENT:2em">	比如万历皇帝，为啥会变得色彩鲜明?最早流传的，就是清代一个单口相声《皇上二大爷》，凭空给隆庆帝在民间找了个二哥，成天充大辈教育万历帝，好些关于万历的段子，都是这相声流传下来的。</p><p style="TEXT-INDENT:2em">	朱元璋当然也没幸免，为啥大家都觉得他残忍好杀?民间文艺功劳最大!像“炮打庆功楼”“给徐达吃蒸鹅”这类段子，全出自晋剧，连朱元璋的亲外甥李文忠，都被朱元璋设计用妃子差点骗上床。像大明开国前就去世的胡大海，更是在戏曲里多活了三十多年，专为讨伐朱元璋。</p><p style="TEXT-INDENT:2em">	至于正德皇帝，那更是八卦的厉害，这位皇帝一辈子也干了好些不靠谱的事，全被民间艺人拿来当爱情素材，比如《游龙戏凤》的戏曲常年流行，粤剧里还有正德皇帝大战武当派的故事，还被香港人改成武侠小说。</p><p style="TEXT-INDENT:2em">	成化皇帝最雷，他本人倒还没啥段子，但他宠爱年长十九岁的万贵妃，也闹出不少风波，于是万贵妃也没幸免，在清朝的一些小说，甚至徽州地方戏曲里，万贵妃都变成了妖女，还是女狗熊精变的，差点吸了成化皇帝的阳气，情节相当曲折。</p><p style="TEXT-INDENT:2em">	之所以会有这么多改编，一是清朝以后，民间戏曲很繁荣，更重要原因是，在清朝八卦明朝皇帝，特别是怎么荒唐怎么演，在清朝是默许的，典型凤阳花鼓，所有的考据结果都说明，明朝从没有过凤阳花鼓，倒是清朝有最早的演出版本，听听唱词就知道为啥：自从出了朱皇帝，十年倒有九年荒。</p><p style="TEXT-INDENT:2em">	这类戏曲流行，对于清朝来说，是黑明朝的最好宣传工具，于是在这类宣传下，明朝皇帝的形象，也就丰富多彩。</p><p style="TEXT-INDENT:2em">	同样的例子放清朝身上也一样，清朝结束后，民国相声文化火热，乾隆也就没幸免了。刘宝瑞的好些相声，包括鸳鸯蝴蝶派的好些小说，都逮着乾隆使劲扒，连他亲爹是谁，野史里都有十来个版本。</p><p style="TEXT-INDENT:2em">	但实事求是说，比起清朝皇帝来，明朝皇帝确实色彩鲜明，个性各个独特，具体原因也是不一样的。</p><p style="TEXT-INDENT:2em">	朱元璋，这个属于几百年难遇的顶级政治军事天才，不可复制。</p><p style="TEXT-INDENT:2em">	而其他人，更多则是得从教育和政治文化环境上找原因。</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/custom/section/chaodai/ming/xixik-0d0d3e3105bfd501.jpg" style="margin: 10px; float: left; width: 400px;" /></p><p style="TEXT-INDENT:2em">	明朝的宫廷教育，虽说严格，但跟清朝相比，执行上却比较轻松。清朝是几十年如一日的严格培养，明朝对于接班人的培养，却是重在性情情商方面。因为明朝自从宣德年间起，双轨制确立，内阁越发成熟，做皇帝的基本是垂拱而治，不必亲力亲为。所以判断和情商，比读死书要重要。</p><p style="TEXT-INDENT:2em">	所以也正是这成熟的运转体制，造就了这些色彩鲜明的皇帝，但必须说的是，大多数的明朝皇帝，脾气各种古怪，爱好各种各异，但大事绝不糊涂。比如正德，玩的再凶每天也要批完奏折才睡，市舶司改革和提督制度，全是他首创的，前者催生资本主义萌芽，后者打的鞑靼十年不敢南下。又比如万历，三十年不上朝，但最初的时候，办事效率也很高，抗倭援朝虐日本，基本都是他操纵，反观后世某位老太后，倒是勤快的天天忙活，却被日本逼着签了马关条约，可谓高下立判。</p><p style="TEXT-INDENT:2em">	所以我们看明朝皇帝，看着他们各个不务正业，但具体到工作上，基本啥不耽误，比如明宪宗，除了炼丹修道，就是拜佛看书，基本不上朝，那些年的明朝，照历史书的说法，是“灾异无有酷于此二十三年者”，也就是比崇祯年间都惨。可就是这么个工作方式，还是平安熬过来，国家非但没乱，哪怕清朝人编历史书也承认，老百姓生活“幸斯小康”。</p></div></div></div><a name="anchor4"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        明朝年号概述</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	1、洪武，太祖高皇帝朱元璋之年号，凡三十一年。洪武，即洪大的武功，意在彰显武事之威。朱元璋扫灭群雄，将中原、江南悉数占领，建元洪武，豪杰之气于兹可见。“洪”字也是第一次用于年号，意“盛大”。</p><p style="TEXT-INDENT:2em">	2、建文，惠宗让皇帝朱允炆之年号，凡四年。建文，即建立文治，与洪武朝严肃的政治氛围相对应。建文四年成祖即位后废除建文年号，称洪武三十五年。明人称建文朝的统治为“革除朝”。万历二十三年神宗从礼科给事中杨天民议，恢复建文年号。</p><p style="TEXT-INDENT:2em">	3、永乐，成祖文皇帝朱棣之年号，凡二十二年。永乐，寓意国家永远太平，百姓永享安乐。原为永清，后改为永乐。</p><p style="TEXT-INDENT:2em">	4、洪熙，仁宗昭皇帝朱高炽之年号，凡一年。洪熙，寓意国家日益强大兴盛。</p><p style="TEXT-INDENT:2em">	5、宣德，宣宗章皇帝朱瞻基之年号，凡十年。宣德，寓意德才兼备，以德为先。宣德二字在之前虽然未被当作年号使用，但在历史上却多次出现过。如梁武帝起兵，用齐宣德太后命令；隋官有宣德郎四十人；五代钱氏，曾号湖州为宣德军；宋正朝为宣德门，宋元丰官制有宣德郎；洪武年间有宣德侯，金朝兴元有宣德府 [1] 。</p><p style="TEXT-INDENT:2em">	6、正统，英宗睿皇帝朱祁镇之年号，凡十四年。正统，此处应为大明朝系符合华夏礼仪，贯彻春秋大义，一统中国的华夏王朝，朱氏皇族代代相承，永为中华统绪，朱祁镇还有一个年号-天顺，凡八年，天顺，奉天顺意。</p><p style="TEXT-INDENT:2em">	7、景泰，代宗景皇帝朱祁钰之年号，凡八年。景泰，寓意国泰民安。景泰八年正月，帝不豫。正月十七日，英宗复位。二十一日，诏改景泰八年为天顺元年。二月初一，废景泰帝仍为郕王，迁之西内。二月十九日，帝崩。时礼部右侍郎汤序请革除景泰年号，未允。</p><p style="TEXT-INDENT:2em">	8、成化，宪宗纯皇帝朱见深之年号，凡二十三年。成化，即成果理化。语出《文子·道原》：天常之道，生物而不有，成化而不宰。</p><p style="TEXT-INDENT:2em">	9、弘治，孝宗敬皇帝朱祐樘之年号，凡十八年。“弘”者，有辉煌、光大之意，“治”者，指大治之世。大明朝经过成化朝后已是朝政紊乱，国力凋敝。建元弘治，表明当时君臣的治国愿望。孝宗即位后任用贤能，驱逐奸佞，创造了明朝历史上又一次盛世，史称“弘治中兴”。</p><p style="TEXT-INDENT:2em">	10、正德，武宗毅皇帝朱厚照之年号，凡十六年。正德，寓意德坚意正。语出《尚书.大禹谟》：“禹曰：於！帝念哉！德惟善政，政在养民。水、火、金、木、土、谷惟修，正德、利用、厚生惟和”。孔颖达：“正德者，自正其德，居上位者正己以治民。”西夏崇宗李乾顺也用过正德年号。</p><p style="TEXT-INDENT:2em">	11、嘉靖，世宗肃皇帝朱厚熜之年号，凡四十五年。嘉靖，即嘉嘉靖靖，语出《书·无逸》：“周公曰：“呜呼！我闻曰：昔在殷王中宗，严恭寅畏，天命自度，治民祗惧，不敢荒宁,肆中宗之享国七十有五年。 其在高宗，时旧劳于外，爰暨小人。作其即位，乃或亮阴，三年不言。其惟不言，言乃雍。不敢荒宁，嘉靖殷邦。至于小大，无时或怨。肆高宗之享国五十年有九年。”据《列朝年号辨误》记载，朱厚熜继位后，内阁拟定了三个年号：绍治、明良、嘉靖。绍治，绍弘治之政，即希望朱厚熜能继承弘治中兴，清除正德朝的所有弊政。但朱厚熜最终选择了嘉靖作为年号而不是群臣普遍看好的绍治，意在表明自己继承帝位只不过是继统不继嗣而已，可以说大礼议之争在此时已在朱厚熜心中酝酿。</p><p style="TEXT-INDENT:2em">	12、隆庆，穆宗庄皇帝朱载垕之年号，凡六年。隆庆，有吉祥喜庆之意。隆庆虽未曾作为年号，但之前多次作为徽号和地名出现过。如英宗第七女号隆庆公主，四川剑州在宋代升为隆庆府。</p><p style="TEXT-INDENT:2em">	13、万历，神宗显皇帝朱翊钧之年号，凡四十八年。万历，寓意大明朝与世长存，也有皇帝历世长久、万寿无疆之意。万历乃明朝使用的最久的年号。万历四十八年七月神宗崩，八月光宗继位，一月亦崩。九月天启帝继位后，以万历四十八年八月至十二月为泰昌元年，明年为天启元年。</p><p style="TEXT-INDENT:2em">	14、泰昌，光宗贞皇帝朱常洛之年号，凡一月。泰昌，即国泰安昌。万历四十八年七月，神宗崩，八月光宗继位，一月亦崩。</p><p style="TEXT-INDENT:2em">	15、天启，熹宗悊皇帝朱由校之年号，凡七年。天启，即奉天启示。天启七年八月，思宗继位沿用。</p><p style="TEXT-INDENT:2em">	16、崇祯，思宗烈皇帝朱由检之年号，凡十七年。崇祯，即崇尚祯祥。《思陵典礼记》记载朱由检继位时内阁拟定了乾圣、兴福、咸嘉、崇贞四个年号。《烈皇小识》则记载内阁拟定的年号为永昌、绍庆、咸嘉、崇贞。朱由检说：“乾者为天，圣则安敢当？”因弃乾圣。又不能以中兴之主自居，遂舍兴福。咸嘉之咸为“戈”，今欲止干戈，不可。因崇贞谐音为重振而采用，并改“贞”为“祯”。</p><p style="TEXT-INDENT:2em"><a href="http://www.xixik.com/content/135e92ed8bf3a594" target="_blank" title="同样是中原王朝南迁 为什么南明不如南宋旺盛？">同样是中原王朝南迁 为什么南明不如南宋旺盛？</a></p><p style="TEXT-INDENT:2em">	18、安宗弘光朝（南明）：</p><p style="TEXT-INDENT:2em"><a href="http://www.xixik.com/content/c50dd25f5a45fca7">崇祯十七年五月福王朱由崧在南京继位</a>，次年改为弘光元年。弘光元年五月为清军所俘。《明史 神宗诸子传》记载：（崇祯十六年）秋七月，由崧袭封，帝亲择宫中宝玉带赐之。明年三月，京师失守，由崧与潞王常淓俱避贼至淮安。四月凤阳总督马士英等迎崧入南京。五月庚寅，称监国。壬寅自立于南京，号弘光。</p><p style="TEXT-INDENT:2em">	19、绍宗隆武朝（南明）：</p><p style="TEXT-INDENT:2em">	弘光元年闰六月二十七日，南阳王朱聿键于福州称帝，宣布从改弘光元年为隆武元年。改福建布政司称福京，改福州行在为天兴府。隆武二年八月，大明重臣郑芝龙拒不发兵，以致清军长驱直入福京，不久帝于汀州被俘，旋即绝食殉国（一说战死）。《明史 太祖诸子传》记载：（弘光元年五月）南安伯郑芝龙、巡抚都御使张肯堂与礼部尚书黄道周等定议，奉王监国。闰六月丁未，遂立于福州，年号隆武，改福州为天兴府 。</p><p style="TEXT-INDENT:2em">	20、绍武王朝（南明）：</p><p style="TEXT-INDENT:2em">	隆武帝殉国后，时为唐王的朱聿&#166785;和隆武朝的宫员逃到广州，而其他大明官员则在广东肇庆推举明神宗之孙、明思宗堂弟桂王朱由榔为监国。同年十月十六日，江西赣州失守后，朱由榔大惊，于十月二十一仓皇从肇庆逃往广西梧州，置广东全省于不顾。</p><p style="TEXT-INDENT:2em">	从建立到覆亡不过一个多月，它的“业绩”就是打了一场争夺帝位的内战和导致广东一省的陷没。其后果是十分严重的，因为南明残山剩水本已不多，广东又是财赋充溢、人才密集的地方，一旦易手，南明朝廷回旋余地大为缩小，财源和人力更加捉襟见肘。绍武政权的建立，在历史上没有任何积极意义。它只能说明朱聿鐭、苏观生在日暮途穷之时，急于过一下皇帝瘾······</p></div></div></div><a name="anchor5"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        明朝疆域究竟为多少？</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="text-indent: 2em;"><a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>是最后一个汉族<a href="http://114.xixik.com/chaodai/" style="color:#000" title="历史朝代顺序表">朝代</a>。<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>在今天呈现一个两极化的表现，喜欢他的人认为这个<a href="http://114.xixik.com/chaodai/" style="color:#000" title="历史朝代顺序表">朝代</a>是天子守国门君王死社稷；讨厌他的人，认为这个<a href="http://114.xixik.com/chaodai/" style="color:#000" title="历史朝代顺序表">朝代</a>一文不值。就以疆域来说，很多人认为<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>疆域太小，没有进取心，不知道开疆拓土，那么这到底是怎么回事呢？</p><p style="text-indent: 2em;"><a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>其实并非是无心开疆拓土，而是开国初期的太祖和成祖两人辛辛苦苦开疆拓土，后代子孙在快速败家，所以疆域来得快，缩水的更快。</p><p style="text-indent: 2em;">	在大众印象里面<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>的疆域也就是三四百万，而<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>的疆域是1300万，甚至经常有人以此来对比。这种对比其实很是断章取义，首先每个王朝都有巅峰和衰落时期，以<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>衰落疆域对比<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>巅峰疆域是田忌赛马之术，虽然<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>疆域不比<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>大，但也不差。<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>的巅峰疆域为1100万（当然这个有争议，一说为1000万左右，还有一说为1200万）。可以肯定的是<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>最起码拥有上千万的疆域的。</p><p style="text-indent: 2em; text-align: center;"><img src="http://img.xixik.net/custom/section/chaodai/ming/xixik-5d9028991ba08165.jpeg" /></p><p style="text-indent: 2em; text-align: center;">	《<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>地图集》中描绘的<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>最大疆域（永乐时期1402-1424年）</p><p style="text-indent: 2em; text-align: center;"><img src="http://img.xixik.net/custom/section/chaodai/ming/xixik-7eaa138b5270bd90.gif" style="width: 90%; max-width: 90%;" /></p><p style="text-indent: 2em; text-align: center;">	明朝1433年疆域</p><p style="text-indent: 2em;"><a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>的成祖极盛时期疆域包括：东北奴儿干都司、西藏的乌思藏都司、新疆东部哈密卫、今天印度尼西亚的旧港缅甸宣慰司、西南地区与中南半岛的三宣六慰，这些疆域加起来怎么说也有上千万疆域。这些疆域很多人认为有争议，其实并非如此。<a href="http://www.xixik.com/content/fa71c19dc602bf2a" target="_blank" title="明朝的疆域版图，各版本相差巨大到底孰是孰非">明朝的疆域版图，各版本相差巨大到底孰是孰非</a></p><p style="text-indent: 2em;">	以西藏来说，一、<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>在西藏设立宣慰使司，并且设立大量卫所，进行军事化管理，由朝廷直接控制，这是区别藩属国最大的地方，以藩属国朝鲜来说，你见过<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>在朝鲜设立过军事管理机构吗？二、<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>在西藏拥有收取赋税的权力，因为西藏地区盛产马匹，于是<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>因地制宜的将西藏缴纳的赋税转化为纳马。三、跟<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>康熙帝在西藏被尊称为文殊<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="皇帝">皇帝</a>一般，<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>时明太祖和马皇后被西藏视为文殊菩萨和度母的化身，到了明末崇祯<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="皇帝">皇帝</a>被西藏认为是文殊室利的化身。可见西藏民众对<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a><a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="皇帝">皇帝</a>还是拥有认同感的。</p><p style="text-indent: 2em;">	关于东北，不说努尔哈赤曾是<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>的二品龙虎将军，<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>对于东北比<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>时期控制的还要深化，像<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>就曾派遣军队上过库页岛，之前的<a href="http://114.xixik.com/chaodai/yuan/" style="color:#000" title="元朝">元朝</a>还有之后的<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>，就没有派人上去过。以<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>来说，竟然对于沙俄和日本上岛开发一无所知。此说法出处可见1969年10月9日“人民日报”。所以像西藏和东北在<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>时期属于中国是毋庸置疑的，并非是某些所谓专业人士口中的不属于。只不过<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>有一个巨大缺点在于，就是太祖成祖以后的<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="皇帝">皇帝</a>不重视疆域的巩固，自明仁宗起就放弃了长城以外的一些疆域。以新疆东部的哈密卫来说，一直是断断续续的统治，到了明世宗嘉靖帝时期竟然是彻底放弃，从此<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>西去疆域只能到达了嘉峪关。正因为这种快速的大幅度疆域缩水，所以现在很多人认为<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>的疆域也就是三四百万，其实巅峰时期的<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>疆域还是有上千万的。当然如果非要以统治时间短等于没统治过等于不是其疆域就过了。所以说<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>并非无心开疆拓土，这上千万疆域也算不错了。像旧港缅甸宣慰司和三宣六慰都不算是接替了之前<a href="http://114.xixik.com/chaodai/" style="color:#000" title="历史朝代顺序表">朝代</a>的疆域，算是真正的开疆拓土，只不过疆域缩水太快了，加上今天的政治因素，不利于宣扬这些曾经的疆域现在他国的疆域，给后世人的印象大多是无心开疆拓土。</p></div></div></div><a name="anchor6"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        明朝是“极辉煌”与“最黑暗”并存的朝代</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	翻开<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>历史，不难发现一个很有趣的现象：<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>竟然是一个“极辉煌”与“最黑暗”并存的<a href="http://114.xixik.com/chaodai/" style="color:#000" title="历史朝代顺序表">朝代</a>。笔者之所以提出这个命题，是基于以下考虑：</p><p style="TEXT-INDENT:2em">	我们说<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>“极辉煌”主要是说它的成就斐然。一般认为，<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>是中国继周朝、<a href="http://114.xixik.com/chaodai/han/" style="color:#000" title="汉朝">汉朝</a>和<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>之后的盛世（黄金时代），史称“治隆唐宋”、“远迈汉唐”。大明，无汉唐之和亲，无两宋之岁币，天子御国门，君主死社稷。可谓是难得的辉煌时期。</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/custom/section/chaodai/ming/xixik-adc46eae0c2b9080.jpg" style="margin: 10px; float: right; width: 400px;" /></p><p style="TEXT-INDENT:2em">	主要表现在：政治上，<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>初年国力强盛，经洪武、建文、永乐三朝励精图治，至明宣宗的近百年间，<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>北进蒙古高原，南征安南，伐锡兰，羁縻马来诸岛族。明初天下大治，洪武之治、永乐盛世、仁宣之治一个接一个，一派盛世景象。即便是后来还有“弘治中兴”、“万历中兴”等等。军事上，疆土辽阔，台湾也被统一。且有资料表明，<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>曾经一个时期，军事能力达到世界一流水平。经济上，<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>经济在<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>上属于发达阶段，后世计当时朝廷税收，<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>的经济规模世界第一。<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>无论是铸铁、造船、建筑等重工业，还是丝绸、纺织、瓷器、印刷等轻工业，在世界都享有盛誉。商业也实现了空前繁荣。文化上，从<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>晚期开始，西方伴随着文艺复兴、地理大发现和宗教改革，科技发展很快。与此同时，中国也涌现了徐光启、宋应星、徐霞客、冯梦龙、汤显祖、文征明、唐寅等一大批科学家，地理学家和文学家、戏曲家、艺术家等等。西学也随着一批传教士来到中国，为东西文化的交流开辟了窗口与机会，中国传统科学技术进入了总结阶段。一个修筑了南京城、北京城、紫禁城、天坛、长城，推动了郑和下西洋、编纂了《永乐大典》的时代，难道还不够称之为极辉煌？</p><p style="TEXT-INDENT:2em">	但我们同时也看到，<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>时期也是“最黑暗”的年代。</p><p style="TEXT-INDENT:2em">	主要体现在：一是特务林立。<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>皇帝嫌“三法司”不能自由控制，遂大兴诏狱，从洪武时设立的锦衣卫，加上永乐时设立的东厂，成化时设立的西厂，可不经三法司，直接奉诏受理词状，逮捕吏民。这是造成滥杀无辜、牵连民众的罪魁祸首之一。二是宦官乱政。明代的宦官虽然没有东汉之末和晚唐时期那些宦官的气焰凶、势力大，也不像汉唐的宦官把皇帝的立、废、生、死都操于自己手中，但是，明代的宦官用事最久、权力极大，在中国宦官史上力拔头筹。尤其是那么多本应很有气节的文官武将却争着给太监当“干儿子”，甚至立生祠，其影响人物之众、时间之长、规模之大这一点不仅在历朝历代，在世界历史上也是绝无仅有的。三是大兴八股。<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>皇帝将宋朝时“格物”出来的新儒学“理学”奉为独尊。就连科举“考试大纲”也规定，必须从朱熹所编定的“四书”中出题，对其理解和运用必须严格遵循程朱的注疏。它通过指挥和规范着儒生们的脑子，进而控制社会思想和观念。加上后来实行的“文字狱”是对文化的极大破坏与损害。四是<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>不仅耗费巨大银两养了多达200万军户，还耗费巨大财力物力共修建了约6300公里长城，在经济不发达的古代，这可以说是个天文数字，无形加重了国家与民众的负担。</p><p style="TEXT-INDENT:2em">	在列举了<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>“辉煌”与“黑暗”的两种截然不同的现象后，我们需要认真思考和研究的是，为何同为一个<a href="http://114.xixik.com/chaodai/" style="color:#000" title="历史朝代顺序表">朝代</a>竟会使两种现象并存？其实，我们只要对历史全面分析、完整看待，就不难理解其中的奥秘。毕竟，任何一段历史，都是各种现象交织在一起的复杂和多样组合体，任何单纯单独的某种历史类型不可能存在。</p><p style="TEXT-INDENT:2em">	《百家讲坛&#8226;大明嘉靖往事》主讲人、中国明史学会副会长、江西历史学会会长方志远教授在一次开放讲课中，曾经对如何看待<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>历史，说到：“对于中国的历史，要用历史和现实的双重眼光去看待。”即用历史的眼光去看，要对每一段历史有一定的理解，了解犯错的原因；用现实的眼光去看，要了解过去历史给我们一个什么经验教训，怎么继续努力。笔者很是赞同。</p><p style="TEXT-INDENT:2em">	我们今天综合分析<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>历史，就是为了提倡大家在看待<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>历史时，需要一分为二，需要实事求是，既不能仅看待辉煌的一面，也不能被黑暗的一面遮住了眼睛，只有全面的历史的科学的分析探讨，才能弘扬历史文化、汲取历史教训，为我们今天的事业与工作提供有效帮助或借鉴。</p></div></div></div></div><script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script><script type="text/javascript">        var value = '131';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script><div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/chaodai/ming/" target="_self" title="明朝历史_明朝皇帝列表_明朝地图_明朝历史简介_明朝那些事儿">明朝历史</a></div><ul style="width: 960px; margin: auto; overflow: hidden;"><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/lixi/"
+                title="人民币存款利率表，2019银行利息，银行存款利率，银行贷款利率">银行存款利息</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chaodai/zhou/"
+                title="周朝历史_西周历史_东周历史_周朝帝王列表">周朝历史</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证更换新政策_过期了该怎么办？">中国旅行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国历任总统名单_美国总统简历生卒年份及所属党派">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/baijiaxing-qq/"
+                title="百家姓qq头像,百家姓qq头像闪图大全_百家姓中国心qq头像">百家姓QQ头像</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="美宝证件_美宝需要哪些证件（美国出生纸_中国旅行证_美国护照_社会安全号_出生纸三级认证）">美宝需要哪些证件？</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_去美国生孩子费用预算清单2019">赴美生子要多少钱</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/obama/"
+                title="奥巴马_美国总统奥巴马_贝拉克·奥巴马(Barack Hussein Obama)_第44任美国总统">奥巴马</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/trump/"
+                title="美国总统特朗普_唐纳德·约翰·特朗普_Donald John Trump_第45任美国总统川普">特朗普</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_去美国生孩子要多少钱？">赴美生子费用</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 中国护照免签证国家2019">中国护照免签证</a></li></ul><div class="lindBox"><div class="btnGray"><div class="btnText"><a target="_self" title="明朝历史_明朝皇帝列表_明朝地图_明朝历史简介_明朝那些事儿" href="http://news.xixik.com/word/131/">另存为<br />                    Word格式</a></div></div></div><div class="lindBox" style="text-align: center;"><img src="http://news.xixik.com/qrcode/131/" alt="扫码手机上继续看" /><br /><br /><strong>用微信或者支付宝扫码在手机上继续观看<br />            可以保存收藏，也扫码后可以分享给好友
+        </strong></div><hr style="height: 1px; border: none; border-top: 1px dashed #999;" /><script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script><!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.--></body></html>

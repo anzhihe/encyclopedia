@@ -1,0 +1,328 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>三国（魏蜀吴）历史_三国皇帝列表_魏国历史_蜀国历史_吴国历史</title><link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" /><meta name="description" content="三国（魏蜀吴）历史,三国皇帝列表,魏国历史,蜀国历史,吴国历史" /><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/chaodai/sanguo/"><meta http-equiv="Cache-Control" content="no-transform" /><meta http-equiv="Cache-Control" content="no-siteapp" /><base target="_blank" /><script>        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "chaodai/sanguo/";
+        }
+
+
+    </script><style>        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style></head><body><a name="top4"></a><div class="topBox" name="top"><div class="topMain"><div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div><div id="icoPhone"></div><div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div><div id="icoWechat"></div><div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a></div><div id="icoSina"></div><div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a></div><div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div><div class="topRight"></div></div></div><div id="showqrCode"><div><span></span></div><img src="" /><div><span></span></div></div><script type="text/javascript">        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script><div class="body"><div class="lindBox" style="position: relative;"><img src="http://img.xixik.net/custom/topic/001/chaodai-sanguo.jpg" alt="三国（魏蜀吴）历史_三国皇帝列表_魏国历史_蜀国历史_吴国历史" /><div class="title"><h1>三国（魏蜀吴）历史_三国皇帝列表_魏国历史_蜀国历史_吴国历史</h1></div></div><div class=" custom_border lindBox"><div class="special_content"><div class="content_text"><div class="content_daodu"></div><h2 style="border-bottom:1px dashed #999; displayinline;">三国（魏蜀吴）</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--><p>	三国（220年－280年）是上承东汉下启西晋的一段历史时期，分为曹魏、蜀汉、东吴三个政权。赤壁之战时，曹操被孙刘联军击败，奠定了三国鼎立的雏型。</p></div></div></div><div class="lindBox" style="overflow: hidden;"><div class="gg1"><a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a></div><div class="guide"><div class="guideBorder" id="guideBorder"><div class="guideTitle">导读（目录）</div><ul id="guideDisplay"><li>·<a title="三国历史" href="#anchor1" target="_self"> 三国历史</a></li><li>·<a title="三国疆域" href="#anchor2" target="_self"> 三国疆域</a></li><li>·<a title="三国战役" href="#anchor3" target="_self"> 三国战役</a></li><li>·<a title="三国为何那么出名？" href="#anchor4" target="_self"> 三国为何那么出名？</a></li></ul><div class="guideOpen">展开&darr;</div></div></div><div class="guideFllow"><div class="guideFllowBorder"><div class="guideFllowTitle">导读（目录）</div><ul id="guideFllowDisplay"><li>·<a title="三国历史" href="#anchor1" target="_self"> 三国历史</a></li><li>·<a title="三国疆域" href="#anchor2" target="_self"> 三国疆域</a></li><li>·<a title="三国战役" href="#anchor3" target="_self"> 三国战役</a></li><li>·<a title="三国为何那么出名？" href="#anchor4" target="_self"> 三国为何那么出名？</a></li></ul><div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div></div></div><div class="gg2"><a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a></div></div><a name="anchor1"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        三国历史</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em"><a href="http://114.xixik.com/chaodai/sanguo/" style="color:#000" title="三国">三国</a>（220年－280年）是上承东汉下启<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="西晋">西晋</a>的一段历史时期，当时天下由魏、蜀（汉）、吴，三个势力分别建立曹魏、蜀汉、东吴三个政权。赤壁之战时，曹操被孙刘联军击败，奠定了<a href="http://114.xixik.com/chaodai/sanguo/" style="color:#000" title="三国">三国</a>鼎立的雏型。</p><p style="TEXT-INDENT:2em">	延康元年（220年），曹丕逼汉献帝禅让（篡汉称帝），国号“魏”，定都洛阳，史称曹魏，<a href="http://114.xixik.com/chaodai/sanguo/" style="color:#000" title="三国">三国</a>历史正式开始。曹魏主要控制北方九个州（长江以北），势力最为强大。享国46年。</p><div class='right_gg'><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- 336x280-114-left --><ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-3849899595029685"
+     data-ad-slot="9973132210"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><p style="TEXT-INDENT:2em">	章武元年（221年），刘备在成都称帝，为延续<a href="http://114.xixik.com/chaodai/han/" style="color:#000" title="汉朝">汉朝</a>，以及自己政权合法性国号仍沿用“汉”，因其控制范围在益州一州（蜀地），故后世称之为蜀汉、季汉、简称蜀，蜀汉势力最为弱小，炎兴元年（263）刘禅投降曹魏邓艾，享国43年。</p><p style="TEXT-INDENT:2em">	建兴元年（229年），孙权正式称帝，建立孙氏政权，国号为“吴”，因其姓孙，故称孙吴，又因其控制扬州、交州、荆州等江东地区，又称为东吴。至此<a href="http://114.xixik.com/chaodai/sanguo/" style="color:#000" title="三国">三国</a>正式成立。</p><p style="TEXT-INDENT:2em">	此后的数十年内，蜀汉诸葛亮、姜维多次率军北伐曹魏，但始终未能改变三足鼎立的格局。曹魏后期的实权渐渐被司马懿掌控。</p><p style="TEXT-INDENT:2em">	263年，曹魏的司马昭发动魏灭蜀之战，蜀汉灭亡。咸熙二年（265年）曹奂禅位于司马炎，建国号为“晋”，史称<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="西晋">西晋</a>。公元280年，<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="西晋">西晋</a>灭东吴，统一中国，至此<a href="http://114.xixik.com/chaodai/sanguo/" style="color:#000" title="三国">三国</a>时期结束，进入<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="晋朝">晋朝</a>时期。</p><p style="TEXT-INDENT:2em"><a href="http://114.xixik.com/chaodai/sanguo/" style="color:#000" title="三国">三国</a>时期开始的时间学者各有不同见解，一般分成狭义及广义。狭义是220年曹丕，建国曹魏，使东汉灭亡开始，广义是184年黄巾之乱开始。历史学家多注重<a href="http://114.xixik.com/chaodai/sanguo/" style="color:#000" title="三国">三国</a>鼎立的形成与过程，自184年东汉开始失去政权实体及群雄割据，形成了<a href="http://114.xixik.com/chaodai/sanguo/" style="color:#000" title="三国">三国</a>雏型至曹魏代汉为止，所以往往将184年到220年的时间纳入<a href="http://114.xixik.com/chaodai/sanguo/" style="color:#000" title="三国">三国</a>时期加以讨论。</p></div></div></div><a name="anchor2"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        三国疆域</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em"><strong>曹魏的疆域</strong></p><p style="TEXT-INDENT:2em">	曹魏的疆域在曹操时即大幅发展，曹丕称帝建国后定型，约占有整个华北地区。大致上北至山西、河北及辽东，与南匈奴、鲜卑及高句丽相邻[；东至黄海。东南与孙吴对峙于长江淮河一带及汉江长江一带，以寿春、襄阳为重镇；西至甘肃，与河西鲜卑、羌及氐相邻。西南与蜀汉对峙于秦岭、河西一带，以长安为重镇。在立国后原有87郡及十二州，有：司隶、徐州、青州、豫州、冀州、并州、幽州、兖州、凉州、雍州、荆州、扬州。</p><p style="TEXT-INDENT:2em">	曹魏于西域设置管辖海头的西域长史和管辖高昌的戊己校尉。221年孙权称藩后，曹魏让孙权领有荆州牧，将荆扬等孙权势力则定为荆州，曹魏原直辖的荆州北部改称为郢州。双方决裂后曹魏复改郢州为荆州。220年至226年，分陇右置秦州，最后并入雍州。灭蜀汉后分益州置梁州，共增加两州。</p><p style="TEXT-INDENT:2em"><strong>蜀汉的疆域</strong></p><p style="TEXT-INDENT:2em">	刘备所建，他直到赤壁之战后才在诸葛亮协助下，由荆州南部开始发展。其势力一度涵盖荆州、益州及汉中。立国前后与孙吴发生多次战争并损失荆州，于诸葛亮南定南中后获得云南一带疆域[，至此渐渐稳定。疆域范围：北方与曹魏对峙于秦岭，汉中为重镇；东与孙吴相邻于三峡，巴西为重镇；西南至岷江、南中，与羌、氐及南蛮相邻。蜀汉共有22郡、仅益州一州。于益州下设庲降都督，治味县，专辖益州南部。</p><p style="TEXT-INDENT:2em"><strong>东吴的疆域</strong></p><p style="TEXT-INDENT:2em">	东吴的疆域拥有大部分的扬州。孙权在赤壁之战后陆续获得荆州西部、交州，并在击败关羽后获得整个荆州南部。至孙权称帝后疆域方稳定下来。孙吴北与曹魏对峙在长江淮河一带及汉江长江一带，以建业、江陵为重镇；西与蜀汉相邻于三峡，西陵为重镇；东及南至东海南海，其中南达越南的中部。孙吴原有32郡及三州：荆州、扬州、交州。于226年设置广州，后并入交州。至264年复设，共增加一州。</p><p style="text-align: center;"><strong>魏蜀吴<a style="color:#000" title="三国" href="http://114.xixik.com/chaodai/sanguo/">三国</a>行政区</strong></p><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%"><tbody><tr><th width="50">				州名</th><th>				范围</th></tr><tr><td><div label-module="para">					豫州</div></td><td><div label-module="para">					治所谯（qiáo，安徽亳州），所辖今豫南部、东部、皖北部、苏西北角及山东西南角</div></td></tr><tr><td><div label-module="para">					兖州</div></td><td><div label-module="para">					治所昌邑（今鲁金乡县西北），所辖今山东西南部，豫东部和苏西北角</div></td></tr><tr><td><div label-module="para">					徐州</div></td><td><div label-module="para">					治所郯（tán，郯城县西南，后迁下邳），所辖今鲁东南部，江苏北部及皖东北角</div></td></tr><tr><td><div label-module="para">					凉州</div></td><td><div label-module="para">					治所陇（甘肃清水县北），所辖今甘东东部</div></td></tr><tr><td><div label-module="para">					雍州</div></td><td><div label-module="para">					原为光武帝刘秀所置，后取消。公元194年，李傕把凉州分为凉州和雍州。公元213年，曹操将司州三分一，司州之一便分到雍州</div></td></tr><tr><td><div label-module="para">					冀州</div></td><td><div label-module="para">					治所鄗（hào）（河北柏乡县北，后迁邺城），所辖今冀西南部，后被曹操以冀、青、并、幽四州合为冀州</div></td></tr><tr><td><div label-module="para">					扬州</div></td><td><div label-module="para">					治所历阳（皖和县，后迁寿春），所辖今苏南部、皖中南部，浙、闽、赣三省</div></td></tr><tr><td><div label-module="para">					荆州</div></td><td><div label-module="para">					治所汉寿（湘常德市东，后迁襄阳），所辖今豫西南部，鄂、湘二省及黔、桂、粤三省边缘</div></td></tr><tr><td><div label-module="para">					益州</div></td><td><div label-module="para">					治所雒（luò，川广汉市，后绵竹，再成都），所辖今川、黔、滇三省大部，陕及鄂、甘各一隅</div></td></tr><tr><td><div label-module="para">					交州</div></td><td><div label-module="para">					包括今天越南北、中部和中国广西的一部分。东汉交州治番禺，即今广州，辖今两广及越南北部。吴分交州为交州和广州，广州治番禺，交州治龙编（在今越南河内东），交州辖今越南北部和两广的雷州半岛和钦州地区。</div></td></tr></tbody></table><p>	&#160;</p></div></div></div><a name="anchor3"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        三国战役</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style=" text-align: center; margin: auto; width:90%"><tbody><tr><th colspan="4"><div label-module="para">				三国战役</div></th></tr><tr><td valign="center"><div label-module="para">				战争名称</div></td><td align="left" valign="center"><div label-module="para">				时间/年</div></td><td align="left" valign="center"><div label-module="para">				双方统帅</div></td><td align="left" valign="center"><div label-module="para">				结果</div></td></tr><tr><td align="left" valign="center"><div label-module="para">				黄巾起义</div></td><td align="left" valign="center"><div label-module="para">				184-186</div></td><td align="left" valign="center"><div label-module="para">				何进、张角</div></td><td align="left" valign="center"><div label-module="para">				何进依靠众多地方军阀击败张角</div></td></tr><tr><td align="left" valign="center"><div label-module="para">				讨伐董卓</div></td><td align="left" valign="center"><div label-module="para">				189-191</div></td><td align="left" valign="center"><div label-module="para">				董卓、袁绍</div></td><td align="left" valign="center"><div label-module="para">				董卓迁都长安，盟军决裂，形成军阀割据局面</div></td></tr><tr><td align="left" valign="center"><div label-module="para">				江夏之战</div></td><td align="left" valign="center"><div label-module="para">				190</div></td><td align="left" valign="center"><div label-module="para">				刘表、孙坚</div></td><td align="left" valign="center"><div label-module="para">				刘表杀孙坚，孙策接任</div></td></tr><tr><td align="left" valign="center"><div label-module="para">				兖州之战</div></td><td align="left" valign="center"><div label-module="para">				192</div></td><td align="left" valign="center"><div label-module="para">				曹操、青州黄巾军</div></td><td align="left" valign="center"><div label-module="para">				曹操击败黄巾军，取得兖州</div></td></tr><tr><td align="left" valign="center"><div label-module="para">				宛城之战</div></td><td align="left" valign="center"><div label-module="para">				197-199</div></td><td align="left" valign="center"><div label-module="para">				曹操、张绣</div></td><td align="left" valign="center"><div label-module="para">				第一次战斗曹操损失爱子曹昂与爱将典韦，第二次战斗取胜</div></td></tr><tr><td align="left" valign="center"><div label-module="para">				易京之战</div></td><td align="left" valign="center"><div label-module="para">				199</div></td><td align="left" valign="center"><div label-module="para">				袁绍、公孙瓒</div></td><td align="left" valign="center"><div label-module="para">				袁绍消灭公孙瓒</div></td></tr><tr><td align="left" valign="center"><div label-module="para">				官渡之战</div></td><td align="left" valign="center"><div label-module="para">				200-201</div></td><td align="left" valign="center"><div label-module="para">				袁绍、曹操</div></td><td align="left" valign="center"><div label-module="para">				曹操连连用计，以少胜多，大败袁绍</div></td></tr><tr><td align="left" colspan="1" rowspan="1" valign="center">			平阳之战</td><td align="left" colspan="1" rowspan="1" valign="center">			202</td><td align="left" colspan="1" rowspan="1" valign="center">			钟繇&马超、呼厨泉&高干</td><td align="left" colspan="1" rowspan="1" valign="center">			匈奴呼厨泉联合高干攻略河东，钟繇联合马超大败高干等。</td></tr><tr><td align="left" valign="center">			南皮之战</td><td align="left" valign="center">			205</td><td align="left" valign="center">			曹操、袁谭</td><td align="left" valign="center">			曹操在华北平原的控制再无人能撼动，袁氏余部则在追击下北逃</td></tr><tr><td align="left" valign="center"><div label-module="para">				赤壁之战</div></td><td align="left" valign="center"><div label-module="para">				208</div></td><td align="left" valign="center"><div label-module="para">				曹操、孙权&刘备</div></td><td align="left" valign="center"><div label-module="para">				孙刘联军利用风向火攻打败曹操，奠定三国雏形</div></td></tr><tr><td align="left" valign="center"><div label-module="para">				合肥之战</div></td><td align="left" valign="center"><div label-module="para">				209</div></td><td align="left" valign="center"><div label-module="para">				曹操、孙权</div></td><td align="left" valign="center"><div label-module="para">				双方各有胜负</div></td></tr><tr><td align="left" valign="center"><div label-module="para">				潼关之战</div></td><td align="left" valign="center"><div label-module="para">				211</div></td><td align="left" valign="center"><div label-module="para">				曹操、韩遂&马超</div></td><td align="left" valign="center"><div label-module="para">				曹操利用反间计打败马超</div></td></tr><tr><td align="left" valign="center"><div label-module="para">				汉巴之战</div></td><td align="left" valign="center"><div label-module="para">				211-214</div></td><td align="left" valign="center"><div label-module="para">				刘备、张鲁&刘璋</div></td><td align="left" valign="center"><div label-module="para">				刘备击败敌军，收马超，取得益州</div></td></tr><tr><td align="left" valign="center"><div label-module="para">				汉中之战</div></td><td align="left" valign="center"><div label-module="para">				219</div></td><td align="left" valign="center"><div label-module="para">				刘备、夏侯渊</div></td><td align="left" valign="center"><div label-module="para">				黄忠力斩夏侯渊，取得汉中</div></td></tr><tr><td align="left" valign="center"><div label-module="para">				荆州之战</div></td><td align="left" valign="center"><div label-module="para">				219</div></td><td align="left" valign="center"><div label-module="para">				孙权&曹操、关羽</div></td><td align="left" valign="center"><div label-module="para">				孙权与曹操联手击杀关羽，孙权取得荆州大部</div></td></tr><tr><td align="left" valign="center"><div label-module="para">				夷陵之战</div></td><td align="left" valign="center"><div label-module="para">				221-222</div></td><td align="left" valign="center"><div label-module="para">				刘备、陆逊</div></td><td align="left" valign="center"><div label-module="para">				陆逊用火计击败刘备，刘备不久病死</div></td></tr><tr><td align="left" valign="center">			曹丕伐吴</td><td align="left" valign="center">			222-223</td><td align="left" valign="center">			曹丕、孙权</td><td align="left" valign="center">			三次入侵皆未果，吴和魏脱离臣属关系</td></tr><tr><td align="left" valign="center"><div label-module="para">				南中平定战</div></td><td align="left" valign="center"><div label-module="para">				225</div></td><td align="left" valign="center"><div label-module="para">				诸葛亮、孟获</div></td><td align="left" valign="center"><div label-module="para">				诸葛亮采取攻心，使南蛮心服口服</div></td></tr><tr><td align="left" valign="center"><div label-module="para">				诸葛亮北伐</div></td><td align="left" valign="center"><div label-module="para">				227-234</div></td><td align="left" valign="center"><div label-module="para">				诸葛亮、曹真&司马懿</div></td><td align="left" valign="center"><div label-module="para">				共5次，互有胜负，诸葛亮病逝。</div></td></tr><tr><td align="left" valign="center">			石亭之战</td><td align="left" valign="center">			228</td><td align="left" valign="center">			陆逊、曹休</td><td align="left" valign="center">			大败曹休</td></tr><tr><td align="left" valign="center">			魏灭燕之战</td><td align="left" valign="center">			238</td><td align="left" valign="center">			司马懿、公孙渊</td><td align="left" valign="center">			辽东地区归于魏国统治</td></tr><tr><td align="left" valign="center">			兴势之战</td><td align="left" valign="center">			244</td><td align="left" valign="center">			曹爽、费祎</td><td align="left" valign="center">			攻克汉中失败</td></tr><tr><td align="left" valign="center"><div label-module="para">				姜维北伐</div></td><td align="left" valign="center"><div label-module="para">				249-263</div></td><td align="left" valign="center"><div label-module="para">				姜维、钟会&邓艾&诸葛绪</div></td><td align="left" valign="center"><div label-module="para">				互有胜负</div></td></tr><tr><td align="left" valign="center">			淮南三叛</td><td align="left" valign="center">			251-258</td><td align="left" valign="center">			王凌&毌丘俭&诸葛诞、司马氏</td><td align="left" valign="center">			后两次有吴军参与，司马氏彻底铲除魏帝势力</td></tr><tr><td align="left" valign="center">			东兴之战</td><td align="left" valign="center">			252</td><td align="left" valign="center">			诸葛恪、司马昭</td><td align="left" valign="center">			魏军战败，诸葛恪声望达到顶峰</td></tr><tr><td align="left" valign="center">			魏灭蜀之战</td><td align="left" valign="center">			263</td><td align="left" valign="center">			钟会&邓艾、刘禅</td><td align="left" valign="center">			邓艾钟会灭蜀</td></tr><tr><td align="left" valign="center">			交州之战</td><td align="left" valign="center">			270</td><td align="left" valign="center">			陶璜、董元</td><td align="left" valign="center">			吴军收复交趾地区，打破西晋三面包围之势</td></tr><tr><td align="left" valign="center">			西陵之战</td><td align="left" valign="center">			272-274</td><td align="left" valign="center">			陆抗、羊祜</td><td align="left" valign="center">			陆抗以3万士兵击溃晋国8万士兵</td></tr><tr><td align="left" valign="center"><div label-module="para">				晋灭吴之战</div></td><td align="left" valign="center"><div label-module="para">				279-280</div></td><td align="left" valign="center"><div label-module="para">				司马炎、孙皓</div></td><td align="left" valign="center"><div label-module="para">				西晋统一中国</div></td></tr></tbody></table></div></div></div><a name="anchor4"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        三国为何那么出名？</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	因为三国时期是一个特殊的时期，三国时期的人才的数量是任何一个时代都无法相比的，后再加上罗贯中加了很多的虚构内容，把三国神话了。依照我们现在来看三国，整个历史过程就是一部兵书，三个国家的相对立的激战情况用到了现实社会的各个方面的计谋</p><p style="TEXT-INDENT:2em">	1、勤王图霸计，即挟天子以令诸侯，此计属于典型的政治计谋。提出此计的有荀彧、沮授，成功的是荀彧。汉献帝即位后，接连遭受董卓、李榷、郭汜乱政。在政局不稳、战事不断的年代，汉献帝过着颠沛流离、东躲西藏的苦难生活。尽管汉献帝如此狼狈，可皇帝毕竟是一面颇有号召力的旗帜。对于这点，荀彧看得很清楚，听说汉献帝移驾洛阳，马上向曹操进言。举晋文公纳周襄王、汉高祖为义帝发丧的例子，说明勤王的重要性。还提醒曹操，若不早图，别人将先我为之。曹操何等人物，岂肯错过这样的好事，立即兴师勤王。可以说曹操之所以能够扫平群雄、称霸中原，与此计的成功有密切的关系。</p><p style="TEXT-INDENT:2em">	2、扼喉待变计，此计属于军事计谋。官渡之战，曹袁兵戈相向。很快曹军粮草用尽，曹操意欲退兵。荀彧闻之，献此计。先挑明官渡之战的重要性，胜则消灭袁绍、一统北方，乃天下之机。又举楚汉相争的例子，说明兵少粮尽并不可怕，只要画地而守、扼喉待变，一定能以少胜多取得这场关键战役的胜利。试想如果曹操官渡失败，不仅很难统一北方，而且曹操统一大业将受到严重的打击。所以此计对于官渡之战的胜利，以及最后统一北方，发挥了重要的作用。&#160;</p><p style="TEXT-INDENT:2em">	3、仗义招才计，此计属于政治计谋。刘备被吕布打败后，只好投奔曹操。对于刘备去留，曹操内部意见不一。荀彧、程昱认为刘备乃英雄，不杀终为后患。而郭嘉却认为杀一人而阻天下志士之望，谁肯共谋天下呢。曹操也觉得杀刘备不利于招揽人才，故不杀，并表刘备领豫州牧。观曹操此举乃真英雄也！是故英雄对决，不应施以小人招数，而应正大光明地分出高下。相反，纵然杀掉刘备，势必会招来更多的敌人，况且刘备当时并没有显露出英雄本色。因此留着刘备未尝不是好事，后来无数智谋之士投奔曹操，足以证明郭嘉有相当远见。&#160;</p><p style="TEXT-INDENT:2em">	4、借刀杀人计，此计属于军事计谋。曹操平定北方四州，袁尚兄弟被迫逃亡辽东。表面上看若袁氏与公孙康联合会对曹操构成很大威胁，所以曹操大部分手下主张趁胜一举歼灭袁氏与公孙康。他们没想到还有一个对曹军更为有利的隐藏条件，即是让袁氏与公孙康火并，而曹操能坐收渔翁之利。此时郭嘉尽管已留易州养病，远离战场，但局势的发展尽在他的掌握之中。他劝曹操不可出兵追击。若出兵，二者必并力抵抗，急不可下；若缓之，使公孙康、袁氏相拼，其势然也。曹操从其计，果然袁氏兄弟被公孙康杀死。可以说曹操能最终消灭袁绍势力，进而统一北方，与此计有着重要的关联。&#160;</p><p style="TEXT-INDENT:2em">	5、声东击西计，属于军事计谋。曹操兴兵讨伐张绣，久攻南阳城不下。于是曹操命士兵做好继续攻城准备，自己却骑马绕城三日（见东南角砖土新旧不等，多半毁坏，容易攻城），然后假装从西北角入城。这一切贾诩在城上看得清楚，便欲将计就计，为张绣献此计。先说明曹操去西北角积草，看上去想从西北入城，不过是虚张声势，实则想从东南角攻城。然后劝张绣把百姓假扮士兵守西北角，令主力埋伏在东南角。果然不出贾诩所料，曹操被杀得大败而归，从而南阳之困得以解除。&#160;</p><p style="TEXT-INDENT:2em">	6、离间计，属于军事计谋。曹操与韩遂、马超对峙，双方互有胜负，相持不下。然而双方实力毕竟悬殊，韩遂很快支撑不住，于是想与曹操讲和。怎样才能毫不费力、一食二鸟呢？既然韩遂有讲和之意，贾诩马上想到了离间计。先让曹操次日与韩遂交谈良久，使马超心疑。然后让曹操亲作一信与韩遂，故意将信中关键处涂抹不清，让韩遂、马超互相猜疑，进而发生火并，使其两败俱伤。事情果然不出贾诩所料。&#160;</p><p style="TEXT-INDENT:2em">	7、翁中捉鳖计，此计属于政治计谋。赤壁之战后，曹操一直在寻找机会消灭孙刘，只是怕马腾偷袭许都。于是荀攸献计，要曹操用汉献帝名义加马腾为征南将军，使其讨伐孙权，诱其入京师，然后除掉他。此计为计中计，是远攻近交计中的子计。&#160;</p><p style="TEXT-INDENT:2em">	8、以逸待劳计，此计属于军事计谋。蜀军攻打定军山不下，法正及时提出此计。他仔细观察地形，发现定军山以西有座宝剑峰，比定军山还高。就劝黄忠抢先夺此山，这样定军山之虚实一目了然，将给魏军带来很大威胁。然后根据当时的敌情我情，让黄忠守在半山，自己居山顶。待夏侯渊兵至，举白旗，黄忠按兵不动；待到敌人倦怠无备，举红旗，黄忠立刻下山击之，必当全胜。后来形势果然如法正所料，黄忠不仅夺了定军山，还杀了曹操大将夏侯渊。此计为蜀国的全盛局面打下了坚实的基矗&#160;</p><p style="TEXT-INDENT:2em">	9、趁火打劫计，属于政治计谋。东汉末年，外戚与宦官争斗，引起宫廷内乱。这时，远在西凉的董卓收到何进命其进京救驾的密令，犹豫不决。谋士李儒对当时的局面看得很明白，于是力劝董卓以“奉诏救驾”为名，趁机进京夺取政权。董卓听从李儒的计谋，率领西凉大军迅速进入京城，在李儒、吕布的帮助下，先铲除了丁原等异己，接着废少帝立献帝，从而把持了朝政大权。&#160;</p><p style="TEXT-INDENT:2em">	10、顺手牵羊计，属于军事计谋。关羽死后，蜀吴之间的矛盾达到白热化，按理说魏国处于十分有利的位置。曹丕完全可以联合蜀国灭掉吴国。可是刚刚称帝的曹丕只顾铲除异己巩固政权，却失去了这样的好机会。当时，谋士刘晔曾提出此计：蜀吴交兵，天亡也。若遣一上将提兵数万，渡江袭之，魏蜀联合，吴国不出半月可亡矣！或者让蜀吴争斗，魏国也可坐收渔翁之利。当然曹丕并没有听从，等到吴国大胜蜀国后，他却错误地出师伐吴，结果一战败北。&#160;</p><p style="TEXT-INDENT:2em">	11、调虎离山计，属于军事计谋。曹操打败张绣后，矛头指向徐州吕布。如果正面与吕布交手即使取胜也会损失惨重。这时早已投降曹操的陈登成功运用此计，达到兵不血刃的目的。一是诱吕布将妻小与钱粮移屯下祁，从而为后来占领徐州清除障碍。二是骗吕布说泰山孙观等谋反，结果让吕布与陈宫夜间厮杀起来，杀到天明，方知中计。吕布急忙赶回徐州，陈登父亲早已占领此城。三是伪传将令，对高顺、张辽说吕布被围，让高、张率兵营救。在陈登策应下，曹操很快拿下小沛。此计使得吕布短时间内丢了大部分领地，只剩下下祁一块不大的地方了。&#160;</p><p style="TEXT-INDENT:2em">	12、攻心计，属于政治计谋。三国后期，诸葛亮为伐魏，想先解决南蛮以解除后患。马谡及时献此计。大意是南蛮地处偏僻，即使武力攻下，也很难真正征服。不如以军事为辅、政治为主，以攻心达到武力不能解决的目的。后来诸葛亮成功的运用了此计，七擒孟获，使得南蛮纳入蜀国版图，也为后来的伐魏解除了后患。&#160;</p><p style="TEXT-INDENT:2em">	13、笑里藏刀计，属于政治计谋。讨伐董卓失败后，袁绍回到渤海，军中缺粮，冀州韩馥遣人送粮。谋士逢纪献计。先与公孙瓒相约夹攻冀州，事后平分其地。同时派人密报韩馥，韩馥必然请袁绍共同御敌。然后从中取利。果然韩馥请袁绍营救冀州，并让出冀州给袁绍。等到袁绍夺了冀州，马上与公孙瓒撕破面皮，自己独占冀州，为袁绍统一北方四州打下基矗&#160;</p><p style="TEXT-INDENT:2em">	14、美人计，属于政治计谋。董卓把持朝政以后，弄得上下怨声载道，各地盗贼猖獗。司徒王允看到董卓、吕布皆是好色之徒，于是巧使美人计，让貂蝉离间董卓吕布，从而让其父子两人火并。最后王允、吕布联手杀死董卓，使汉朝天下得以暂时的安宁。&#160;</p><p style="TEXT-INDENT:2em">	15、苦肉计，属于军事计谋。蒋干到东吴说周瑜，被周瑜将计就计，使曹操杀死蔡瑁张允水军两都督，为自己除去了后患，但曹操水军实力乃就很强大。周瑜于是与老将黄盖演出一场苦肉计来。这事几乎瞒了东吴所有人（包括孙权都以为周瑜是真的想杀黄盖），只有黄盖的老友阚泽与孔明清楚。结果曹操中了计，苦肉计的成功为后来的火烧曹船立下汗马功劳。&#160;</p><p style="TEXT-INDENT:2em">	16、连环计，属于军事计谋。赤壁之战的胜利与诸多计谋密切相关。如草船借箭、借东风、连环计、离间计、苦肉计、火攻等等。其中连环计是其中最关键的一计。当时蒋干在东吴遇上庞统，并极力推荐庞统去见曹操。庞统有心让东吴与刘备取胜，于是献此计。看上去，联环能让船上的曹兵如屡平地，很管用。其实一旦联环，与到紧急事情（如火攻等）后就变成大患了。曹操及其谋士都没有想到这点，因此遭到火攻是必然的。</p><p style="TEXT-INDENT:2em">	一.随机应变——曹操应急佯献刀&#160;</p><p style="TEXT-INDENT:2em">	二.金蝉脱壳——孙坚换帻脱险境&#160;</p><p style="TEXT-INDENT:2em">	三.乘火打劫——袁绍诈取冀州城&#160;</p><p style="TEXT-INDENT:2em">	四.连环计——王允巧使连环计&#160;</p><p style="TEXT-INDENT:2em">	五.欲擒故纵——刘备三让徐州城&#160;</p><p style="TEXT-INDENT:2em">	六.嫁祸于人——曹操借头息众怨&#160;</p><p style="TEXT-INDENT:2em">	七.韬光养晦——刘备借雷巧掩饰&#160;</p><p style="TEXT-INDENT:2em">	八.兵不厌诈——张飞诈醉擒刘岱&#160;</p><p style="TEXT-INDENT:2em">	九.借刀杀人——曹操借刀杀祢衡&#160;</p><p style="TEXT-INDENT:2em">	十.釜底抽薪——曹操乌巢烧粮草&#160;</p><p style="TEXT-INDENT:2em">	十一.隔岸观火——曹操袖手除二袁&#160;</p><p style="TEXT-INDENT:2em">	十二.无中生有——程昱用计诳徐庶&#160;</p><p style="TEXT-INDENT:2em">	十三.上楼抽梯——刘琦上楼抽梯问计&#160;</p><p style="TEXT-INDENT:2em">	十四.虚虚实实——张飞沉着退敌兵&#160;</p><p style="TEXT-INDENT:2em">	十五.激将法——诸葛亮计激周瑜&#160;</p><p style="TEXT-INDENT:2em">	十六.反间计——周瑜假书赚蒋干&#160;</p><p style="TEXT-INDENT:2em">	十七.草船借箭——诸葛亮草船借箭&#160;</p><p style="TEXT-INDENT:2em">	十八.苦肉计——周瑜导演苦肉计&#160;</p><p style="TEXT-INDENT:2em">	十九.美人计——周瑜赔了夫人又折兵&#160;</p><p style="TEXT-INDENT:2em">	二十.利而诱之——丁斐牛马救曹操&#160;</p><p style="TEXT-INDENT:2em">	二一.围魏救赵——孔明一纸救江东&#160;</p><p style="TEXT-INDENT:2em">	二二.混水摸鱼——庞德设计下长安&#160;</p><p style="TEXT-INDENT:2em">	二三.十面埋伏——孔明设伏擒张任&#160;</p><p style="TEXT-INDENT:2em">	二四.出其不意——甘宁百骑劫魏营&#160;</p><p style="TEXT-INDENT:2em">	二五.以逸待劳——黄忠疲敌定军山&#160;</p><p style="TEXT-INDENT:2em">	二六.疑兵之计——孔明设疑胜曹操&#160;</p><p style="TEXT-INDENT:2em">	二七.攻心为上——吕蒙攻心胜关羽&#160;</p><p style="TEXT-INDENT:2em">	二八.将计就计——曹操盛葬关羽头&#160;</p><p style="TEXT-INDENT:2em">	二九.火战计——陆逊火烧蜀连营&#160;</p><p style="TEXT-INDENT:2em">	三十.各个击破——孔明安居平五路&#160;</p><p style="TEXT-INDENT:2em">	三一.先发制人——司马懿出兵破孟达&#160;</p><p style="TEXT-INDENT:2em">	三二.空城计——孔明智设空城计&#160;</p><p style="TEXT-INDENT:2em">	三三.诱敌深入——木门道张郃中计&#160;</p><p style="TEXT-INDENT:2em">	三四.忍辱负重——司马懿忍辱取胜&#160;</p><p style="TEXT-INDENT:2em">	三五.缓兵之计——司马懿缓战破辽东&#160;</p><p style="TEXT-INDENT:2em">	三六.假痴不癫——司马懿诈病赚曹爽&#160;</p><p style="TEXT-INDENT:2em">	三七.背水一战——姜维背水破王经&#160;</p><p style="TEXT-INDENT:2em">	三八.走为上——姜维求计避祸&#160;</p><p style="TEXT-INDENT:2em">	三九.暗渡陈仓——邓艾奇兵度阴&#160;</p><p style="TEXT-INDENT:2em">	四十.一箭双雕——司马昭一石三鸟&#160;</p><p style="TEXT-INDENT:2em">	四一.以柔克刚——羊祜怀柔服陆抗&#160;</p></div></div></div></div><script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script><script type="text/javascript">        var value = '192';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script><div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/chaodai/sanguo/" target="_self" title="三国（魏蜀吴）历史_三国皇帝列表_魏国历史_蜀国历史_吴国历史">三国（魏蜀吴）</a></div><ul style="width: 960px; margin: auto; overflow: hidden;"><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/lixi/"
+                title="人民币存款利率表，2019银行利息，银行存款利率，银行贷款利率">银行存款利息</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chaodai/zhou/"
+                title="周朝历史_西周历史_东周历史_周朝帝王列表">周朝历史</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证_中国旅行证更换新政策_美宝中国旅行证过期了该怎么办？">中国旅行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国历任总统名单_美国历届总统任期_美国总统简历生卒年份及所属党派">美国历届总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/baijiaxing-qq/"
+                title="百家姓qq头像,百家姓qq头像闪图大全_百家姓中国心qq头像">百家姓QQ头像</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="赴美生子_美宝证件_中国旅行证_美国护照_社会安全号_美国出生纸_美宝上户口">美宝需要哪些证件？</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_赴美生子费用预算清单_赴美生子2019费用">赴美生子要多少钱</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/obama/"
+                title="奥巴马_美国总统奥巴马_贝拉克·奥巴马(Barack Hussein Obama)_第44任美国总统">奥巴马</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/trump/"
+                title="美国总统特朗普_唐纳德·约翰·特朗普_Donald John Trump_第45任美国总统川普">特朗普</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_赴美生子要多少钱？_赴美生子预算表">赴美生子费用</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 中国护照免签证国家2019">中国护照免签证</a></li></ul><div class="lindBox"><div class="btnGray"><div class="btnText"><a target="_self" title="三国（魏蜀吴）历史_三国皇帝列表_魏国历史_蜀国历史_吴国历史" href="http://news.xixik.com/word/192/">另存为<br />                    Word格式</a></div></div></div><div class="lindBox" style="text-align: center;"><img src="http://news.xixik.com/qrcode/192/" alt="扫码手机上继续看" /><br /><br /><strong>用微信或者支付宝扫码在手机上继续观看<br />            可以保存收藏，也扫码后可以分享给好友
+        </strong></div><hr style="height: 1px; border: none; border-top: 1px dashed #999;" /><script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script><!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.--></body></html>

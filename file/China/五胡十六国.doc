@@ -1,0 +1,3527 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <title>五胡十六国_五胡乱华_中国朝代顺序表_中国历史</title>
+    <link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" />
+    <meta name="description" content="五胡十六国（304年-439年），简称十六国，匈奴、鲜卑、羯、氐、羌合称为“五胡”，他们所建立的十六个政权合称为“十六国”。其实不止十六国，共有成汉、前赵、后赵、前凉、前燕、前秦、后燕、后秦、西秦、后凉、南凉、西凉、北凉、南燕、北燕及夏国等国。" />
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/chaodai/5hu16guo/">
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <base target="_blank" />
+    
+    <script>
+        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "chaodai/5hu16guo/";
+        }
+
+
+    </script>
+    <style>
+        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style>
+</head>
+<body>
+    <a name="top4"></a>
+    <div class="topBox" name="top">
+        <div class="topMain">
+            <div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div>
+            <div id="icoPhone"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div>
+            <div id="icoWechat"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a> </div>
+            <div id="icoSina"></div>
+            <div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a>  </div>
+            <div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div>
+            <div class="topRight">
+            </div>
+        </div>
+    </div>
+
+    <div id="showqrCode">
+        <div><span></span></div>
+        <img src="" /><div><span></span></div>
+    </div>
+    <script type="text/javascript">
+        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script>
+    <div class="body">
+        
+        <div class="lindBox" style="position: relative;">
+            <img src="http://img.xixik.net/custom/topic/001/chaodai-5hu16guo.jpg" alt="五胡十六国_五胡乱华_中国朝代顺序表_中国历史" />
+            <div class="title">
+                <h1>五胡十六国_五胡乱华_中国朝代顺序表_中国历史</h1>
+            </div>
+        </div>
+        
+
+        <div class=" custom_border lindBox">
+            <div class="special_content">
+                <div class="content_text">
+                    <div class="content_daodu">
+                    </div>
+                    <h2 style="border-bottom:1px dashed #999; displayinline;">五胡十六国</h2>
+                    <p>
+	<a href="http://114.xixik.com/chaodai/5hu16guo/" style="color:#000;" title="五胡十六国">五胡十六国</a>是中国历史上最混乱的一个朝代。&ldquo;五胡十六国&rdquo;则是源自北魏末年的史官崔鸿私下撰写的《十六国春秋》而得名。他自北方所有大大小小的七十八个政权中选出国祚较长、影响力大、较具代表性的十六国。这十六国主要分布在华北地区和四川地区，共有成汉、前赵、后赵、前凉、前燕、前秦、后燕、后秦、西秦、后凉、南凉、西凉、北凉、南燕、北燕及夏国等国。实际不止十六国。</p>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="lindBox" style="overflow: hidden;">
+            <div class="gg1">
+                <a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a>
+            </div>
+            <div class="guide">
+                <div class="guideBorder" id="guideBorder">
+                    <div class="guideTitle">导读（目录）</div>
+                    <ul id="guideDisplay">
+                        
+                                <li>·<a title="五胡十六国简介" href="#anchor1" target="_self"> 五胡十六国简介</a></li>
+                            
+                                <li>·<a title="五胡十六国简表" href="#anchor2" target="_self"> 五胡十六国简表</a></li>
+                            
+                                <li>·<a title="五胡十六国简史" href="#anchor3" target="_self"> 五胡十六国简史</a></li>
+                            
+                                <li>·<a title="细说五胡十六国" href="#anchor4" target="_self"> 细说五胡十六国</a></li>
+                            
+                                <li>·<a title="五胡十六国简要脉络" href="#anchor5" target="_self"> 五胡十六国简要脉络</a></li>
+                            
+                                <li>·<a title="五胡十六国文化" href="#anchor6" target="_self"> 五胡十六国文化</a></li>
+                            
+                                <li>·<a title="五胡最终归向何方？" href="#anchor7" target="_self"> 五胡最终归向何方？</a></li>
+                            
+                    </ul>
+                    <div class="guideOpen">展开&darr;</div>
+                </div>
+            </div>
+
+            <div class="guideFllow">
+                <div class="guideFllowBorder">
+                    <div class="guideFllowTitle">导读（目录）</div>
+                    <ul id="guideFllowDisplay">
+                        
+                                <li>·<a title="五胡十六国简介" href="#anchor1" target="_self"> 五胡十六国简介</a></li>
+                            
+                                <li>·<a title="五胡十六国简表" href="#anchor2" target="_self"> 五胡十六国简表</a></li>
+                            
+                                <li>·<a title="五胡十六国简史" href="#anchor3" target="_self"> 五胡十六国简史</a></li>
+                            
+                                <li>·<a title="细说五胡十六国" href="#anchor4" target="_self"> 细说五胡十六国</a></li>
+                            
+                                <li>·<a title="五胡十六国简要脉络" href="#anchor5" target="_self"> 五胡十六国简要脉络</a></li>
+                            
+                                <li>·<a title="五胡十六国文化" href="#anchor6" target="_self"> 五胡十六国文化</a></li>
+                            
+                                <li>·<a title="五胡最终归向何方？" href="#anchor7" target="_self"> 五胡最终归向何方？</a></li>
+                            
+                    </ul>
+                    <div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div>
+                </div>
+            </div>
+
+
+            <div class="gg2">
+                <a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a>
+            </div>
+        </div>
+        
+        <a name="anchor1"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        五胡十六国简介</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	&ldquo;<strong><a href="http://114.xixik.com/chaodai/5hu16guo/" style="color:#000;" title="五胡十六国">五胡十六国</a></strong>&rdquo;（304年-439年）是指自西晋末年到北魏统一北方期间，塞外众多游牧民族趁西晋&ldquo;八王之乱&rdquo;，国力衰弱之际，曾在中国北部境内建立的政权，以匈奴、鲜卑、羯、羌、氐五个胡人建立的十六个政权为主，因此称之为&ldquo;五胡十六国&rdquo;，简称&ldquo;十六国&rdquo;。但事实上入侵的少数民族不仅仅只有五个，政权数目也远非十六个。该时期自304年刘渊及李雄分别建立汉赵（后称前赵）及成汉起至439年北魏拓跋焘灭北凉为止。范围大致上涵盖华北、蜀地、辽东，最远可达漠北及西域。北魏帝国统一华北，135年的五胡乱华时代结束。北魏太武帝拓跋焘，南朝宋文帝刘义隆，南北对峙，正式进入南北朝时代。</p><p style="TEXT-INDENT:2em">
+	&ldquo;<strong><a href="http://114.xixik.com/chaodai/5hu16guo/" style="color:#000;" title="五胡十六国">五胡十六国</a></strong>&rdquo;是<a href="http://www.xixik.com/content/a738548df743a186">中国古代史上最混乱的一个朝代</a>。每个国家之间的征战让百姓中日惶恐，衣不蔽体食不果腹。五胡十六国是中国文明史的耻辱。</p><div class='right_gg'><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 336x280-114-left -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-3849899595029685"
+     data-ad-slot="9973132210"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/chaodai/5hu16guo/xixik-0cb431b840c6781c.jpg" style="margin: 10px; float: right; width: 400px;" /></p><p style="TEXT-INDENT:2em">
+	在入侵的众多游牧民族中，有羯、白匈奴、丁零、铁弗、卢水胡、鲜卑、九大石胡等部落主体，其中以匈奴、鲜卑、羯、氐、羌合称为&ldquo;五胡&rdquo;，他们在这个范围内相继建立许多国家，而<a href="http://www.xixik.com/content/df57ba4f067380ea" title="崔鸿：第一个敢于为少数民族政权写历史的人">北魏史学家崔鸿私下撰写的《十六国春秋》而得名</a>，他自北方所有大大小小的七十八个政权中选出国祚较长、影响力大、较具代表性的十六国：&ldquo;五凉、四燕、三秦、二赵，并成、夏为十六&rdquo;。这十六国主要分布在华北地区和四川地区，共有成汉、前赵、后赵、前凉、前燕、前秦、后燕、后秦、西秦、后凉、南凉、西凉、北凉、南燕、北燕及夏国等国。</p><p style="TEXT-INDENT:2em">
+	五凉：前凉、南凉、北凉、西凉、后凉</p><p style="TEXT-INDENT:2em">
+	四燕：前燕、南燕、后燕、北燕</p><p style="TEXT-INDENT:2em">
+	三秦：前秦、后秦、西秦</p><p style="TEXT-INDENT:2em">
+	二赵：汉赵、后赵</p><p style="TEXT-INDENT:2em">
+	一成：成汉</p><p style="TEXT-INDENT:2em">
+	一夏：胡夏</p><p style="TEXT-INDENT:2em">
+	自从公元304年匈奴人刘渊建立汉国（后改名赵，史称前赵）开始，在长达135年的时间里，匈奴、羯、鲜卑、氐、羌等少数名族先后入主中原，这五个民族后来被称为五胡，他们先后建立的国家和几个汉人建立的政权按照先后顺序及民族为：前赵（匈奴）、后赵（羯）、前燕（鲜卑）、前凉（汉）、前秦（氐）、后秦（羌）、后燕（鲜卑）、西秦（鲜卑）、后凉（氐）、南凉（鲜卑）、西凉（汉）、北凉（卢水胡）、南燕（鲜卑）、北燕（汉）、夏（匈奴）、成汉（巴氐）等政权，总称十六国。于是后世史学家称这时期为&ldquo;<a href="http://114.xixik.com/chaodai/5hu16guo/" title="五胡十六国">五胡十六国</a>&rdquo;。此外影响较大的还有仇池、代国、高句丽、冉魏、西燕、吐谷浑、西蜀和翟魏等，实际远不止十六国。</p><p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/5hu16guo/" title="五胡十六国">五胡十六国</a>时期，北方（有时包括蜀地）在西晋灭亡为匈奴、鲜卑、羯（匈奴别支）、羌和氐（包括大月氐、小月氐、巴氐、仇池氐），代表建立北方诸国的主要民族。但实际上建立者还有汉族（前凉、西凉、北燕等）、丁零族（翟魏）、北马兰羌、巴、卢水胡、杂胡、铁弗、乌桓、九大石胡、姜、扶余、坚昆等族。</p><p style="TEXT-INDENT:2em">
+	晋在曹魏统一北方，进而晋武帝灭孙吴统一中国之后，本可以继续秦汉统一之格局，但是司马王朝走的是门阀政体（指政权主要由少数几个高门显族的人物掌握）之局。这样一来，社会各个阶级的矛盾和对立，动摇了晋王室的基础。晋惠帝末年的八王之乱，和其它的外患导致中原沦陷，边陲不保，群雄混战，生灵涂炭。东汉时胡人偶有内附，魏晋时期则将胡人大量内迁。由于晋廷的虚弱腐败和胡汉矛盾，五胡在八王之乱后纷纷举兵，这个时期政权更迭、战乱纷飞，对中国社会、经济、民族、文化、政治等带来严重影响，人民生活在水深火热之中，痛苦不堪，这个时期也被称为&ldquo;五胡乱华&rdquo;。</p><p style="TEXT-INDENT:2em">
+	华北地区战火纷飞，掠夺与屠杀不断，经济受到严重摧毁，影响了中国的社会、经济、民族、文化、政治、军事等发展走向。永嘉之祸奏响了五胡乱华的序曲，使中原陷入胡人分裂混战近130年，此后南北分裂270余年，南北对立因分裂日久而加深。民众大多逃难到凉州、辽东以及江南地区，使这些地区的经济文化渐渐繁荣。</p><p style="text-indent: 2em;">
+	以公元383年淝水之战为界，这百来年的历史大体可分为两个阶段，第一阶段既人们常说的&ldquo;胡亡氐乱&rdquo;。永嘉（307-313）之乱后&ldquo;五胡&rdquo;所建立的多个政权一度为氐族前秦政权所统一，但淝水一战失败后顷刻之间便土崩瓦解（历史的遗憾，如果让对各民族平等思想的苻坚一统天下， 或许中国历史为止改变）。第二阶段更是祸乱不息，前秦灭亡后北方重又分裂，关中、关东、陇右政局纷乱，民族之间的斗争又出现一个高潮，社会动荡比以前更厉害。直到北魏统一北方，才结束&ldquo;<a href="http://114.xixik.com/chaodai/5hu16guo/" style="color: rgb（0, 0, 0）;" title="五胡乱华">五胡乱华</a>&rdquo;。后来，北魏分裂，出现四个王朝（分别是西魏、东魏，西魏被北周取代、东魏被北齐取代）。</p><p style="text-indent: 2em;">
+	北魏立国后，经过拓跋圭、拓跋嗣及拓跋焘的经营，最终于439年9月灭北凉统一北方，&ldquo;五胡十六国&rdquo;时代终于结束了，中国进入南北朝时期。<a href="http://www.xixik.com/content/c4f7b849d6f013ba" target="_blank" title="为何不觉得鲜卑族是入侵 而觉得蒙元满清是入侵？">为何不觉得鲜卑族是入侵 而觉得蒙元满清是入侵？</a></p><p style="text-indent: 2em;">
+	而今中国大陆的史学界，<a href="http://www.xixik.com/content/87ba7e5c61905abd">不会提到&ldquo;五胡乱华&rdquo;</a>，一般以&ldquo;少数民族南下&rdquo;称之，因为觉得五胡已经成为了自己的祖先，还以五胡的叫法实在难以接受。&nbsp;</p><p style="text-indent: 2em;">
+	这是一个常被忽视的时代，它夹在三国和隋唐两个著名的历史时期之间，历史教科书上几乎一笔带过。</p><p style="text-indent: 2em;">
+	这也是一个值得重视的时代，可以说，没有五胡十六国，<a href="http://www.xixik.com/content/5d7027454a783c84" title="盛唐皇室的胡人血统 李世民是民族大融合的产物">就没有北朝，就没有后来强盛的隋唐</a>。</p><p style="text-indent: 2em;">
+	这是一个炼狱般的时代，混乱值爆表，战乱频仍，生灵涂炭。</p><p style="text-indent: 2em;">
+	这也是一个梦幻般的时代，精彩度冲天，风云迭起，英雄辈出。</p><p style="text-indent: 2em;">
+	有中土豪杰，有胡人干才。</p><p style="text-indent: 2em;">
+	有铁血战神，有名士风流。</p><p style="text-indent: 2em;">
+	有草根逆袭，有贵族复国。</p><p style="text-indent: 2em;">
+	<a href="http://www.xixik.com/content/02f5f6b9169e67d1">千载留名却充满争议的，冉闵</a>。</p><p style="text-indent: 2em;">
+	<a href="http://www.xixik.com/content/02fe5b1c2496fe17">出身奴隶却成为皇帝的，石勒</a>。</p><p style="text-indent: 2em;">
+	<a href="http://www.xixik.com/content/c208372a8facfe46">宽容大度却屡遭背叛的，苻坚</a>。</p><p style="text-indent: 2em;">
+	扪虱而谈却谋比诸葛的，王猛。</p><p style="text-indent: 2em;">
+	深沉厚道却战无不胜的，慕容恪。</p><p style="text-indent: 2em;">
+	叛逃敌国却复兴祖国的，慕容垂。</p><p style="text-indent: 2em;">
+	<a href="http://www.xixik.com/content/c008e727785cb81b">坎坷半生却应时而起的，刘渊</a>。</p><p style="text-indent: 2em;">
+	砥柱中流却回天乏力的，刘琨。</p><p style="text-indent: 2em;">
+	<a href="http://www.xixik.com/content/88f68a68c84e9509">意气慷慨却难挽危局的，祖逖</a>。</p><p style="text-indent: 2em;">
+	暴桀雄武却终结十六国的，拓拔焘。</p><p style="text-indent: 2em;">
+	遗腹子复国的，拓跋珪。</p><p style="text-indent: 2em;">
+	孤儿建国的，赫连勃勃。</p><p style="text-indent: 2em;">
+	<a href="http://www.xixik.com/content/8b3e9753913f4d43">气吞万里如虎的，刘裕</a>&hellip;&hellip;</p>
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor2"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        五胡十六国简表</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1">
+	<tbody>
+		<tr bgcolor="#e1e1e1">
+			<th width="15%">
+				<strong>年号</strong></th>
+			<th width="5%">
+				<strong>庙号</strong></th>
+			<th width="5%">
+				<strong>开国<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></strong></th>
+			<th width="5%">
+				<strong>即位时间</strong></th>
+			<th width="5%">
+				<strong>即位年龄</strong></th>
+			<th width="5%">
+				<strong>在位年数</strong></th>
+			<th width="5%">
+				<strong>死时年龄</strong></th>
+			<th width="10%">
+				<strong>世系</strong></th>
+			<th>
+				<strong>备注</strong></th>
+		</tr>
+		<tr>
+			<td colspan="9">
+				<strong>汉（前赵）世系</strong></td>
+		</tr>
+		<tr>
+			<td>
+				永凤</td>
+			<td>
+				高祖</td>
+			<td>
+				刘渊</td>
+			<td>
+				304</td>
+			<td>
+				&#160;</td>
+			<td>
+				7</td>
+			<td>
+				&#160;</td>
+			<td>
+				新兴县凶奴人，呼韩邪单之后，曹魏时改姓刘，祖父为南凶奴单于，父刘豹为凶奴左部帅</td>
+			<td>
+				西晋太康末为北部都尉，后为建威将军，五部大都督，受晋封为汉光乡侯，后起兵反晋，304年称汉王，308年十月称帝，迁都平阳</td>
+		</tr>
+		<tr>
+			<td>
+				光兴、嘉平、建元、麟嘉</td>
+			<td>
+				烈宗</td>
+			<td>
+				刘聪</td>
+			<td>
+				310</td>
+			<td>
+				&#160;</td>
+			<td>
+				9</td>
+			<td>
+				&#160;</td>
+			<td>
+				刘渊第四子</td>
+			<td>
+				刘渊死，太子刘和即位，刘聪杀兄夺位，311年，派刘曜攻破洛阳，俘晋怀帝，316年，派刘曜破长安，俘晋愍帝，灭西晋</td>
+		</tr>
+		<tr>
+			<td>
+				汉昌</td>
+			<td>
+				隐<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></td>
+			<td>
+				刘粲</td>
+			<td>
+				318</td>
+			<td>
+				&#160;</td>
+			<td>
+				1</td>
+			<td>
+				&#160;</td>
+			<td>
+				刘聪子</td>
+			<td>
+				以皇太子总摄朝政，318年七月即帝位，九月，为大将军，录尚书事靳准所杀。</td>
+		</tr>
+		<tr>
+			<td>
+				光初</td>
+			<td>
+				&#160;</td>
+			<td>
+				刘曜</td>
+			<td>
+				318</td>
+			<td>
+				&#160;</td>
+			<td>
+				12</td>
+			<td>
+				&#160;</td>
+			<td>
+				刘渊侄，少孤，由刘渊收养</td>
+			<td>
+				靳准杀刘粲夺帝位，曜率兵攻准，被太保呼延晏等拥立为帝，进军平阳，尽杀靳氏，迁都长安，改汉为赵，史称前赵，后被石靳所杀</td>
+		</tr>
+		<tr>
+			<td colspan="9">
+				<strong>成汉世系</strong></td>
+		</tr>
+		<tr>
+			<td>
+				建兴、晏平、王衡</td>
+			<td>
+				太宗</td>
+			<td>
+				李雄</td>
+			<td>
+				304</td>
+			<td>
+				31</td>
+			<td>
+				31</td>
+			<td>
+				61</td>
+			<td>
+				氏族人，李特子，巴西容渠人</td>
+			<td>
+				301年，其父李特在绵竹率流民起义反晋，李特战死，李雄继为帅，304年取成都，城成都王，306年称帝，国号成，成汉，或称前蜀</td>
+		</tr>
+		<tr>
+			<td>
+				玉衡</td>
+			<td>
+				戾太子</td>
+			<td>
+				李班</td>
+			<td>
+				334</td>
+			<td>
+				47</td>
+			<td>
+				1</td>
+			<td>
+				47</td>
+			<td>
+				李雄之兄，李荡子</td>
+			<td>
+				被李雄立为太子，334年六月即位，十月被李雄之子李越所杀，在位不及半年</td>
+		</tr>
+		<tr>
+			<td>
+				玉衡、玉恒</td>
+			<td>
+				幽公哀<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></td>
+			<td>
+				李期</td>
+			<td>
+				335</td>
+			<td>
+				22</td>
+			<td>
+				4</td>
+			<td>
+				25</td>
+			<td>
+				李雄第四子</td>
+			<td>
+				李越杀李班后，被拥立为帝，帝暴戾骄虐，大臣多不自安，338年四月，汉王李寿拥兵矫太后令，废李期为邛都县公，自立为帝</td>
+		</tr>
+		<tr>
+			<td>
+				汉兴</td>
+			<td>
+				中宗</td>
+			<td>
+				李寿</td>
+			<td>
+				338</td>
+			<td>
+				39</td>
+			<td>
+				6</td>
+			<td>
+				44</td>
+			<td>
+				李特弟李骧</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr>
+			<td>
+				汉兴、太和、嘉宁</td>
+			<td>
+				&#160;</td>
+			<td>
+				李势</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				5</td>
+			<td>
+				&#160;</td>
+			<td>
+				李寿长子</td>
+			<td>
+				347年三月晋征西将军恒温攻成都，李势降，361年死于建康</td>
+		</tr>
+		<tr>
+			<td colspan="9">
+				<strong>前凉世系</strong></td>
+		</tr>
+		<tr>
+			<td>
+				建兴</td>
+			<td>
+				高祖</td>
+			<td>
+				张实</td>
+			<td>
+				314</td>
+			<td>
+				44</td>
+			<td>
+				7</td>
+			<td>
+				50</td>
+			<td>
+				张轨长子</td>
+			<td>
+				301年，西晋任张轨为凉州刺史，轨保据一方，314年轨病死，其子张实继之，317年西晋灭亡，张氏以姑臧为中心世守凉州</td>
+		</tr>
+		<tr>
+			<td>
+				建兴</td>
+			<td>
+				太宗</td>
+			<td>
+				张茂</td>
+			<td>
+				320</td>
+			<td>
+				44</td>
+			<td>
+				5</td>
+			<td>
+				48</td>
+			<td>
+				张轨子</td>
+			<td>
+				320年六月，张实被部下杀害，实子骏年幼，茂袭平西将军行都督凉州诸军事，护羌校尉，凉州牧，西平公</td>
+		</tr>
+		<tr>
+			<td>
+				建兴</td>
+			<td>
+				世祖文王</td>
+			<td>
+				张骏</td>
+			<td>
+				324</td>
+			<td>
+				18</td>
+			<td>
+				23</td>
+			<td>
+				40</td>
+			<td>
+				张实子</td>
+			<td>
+				张茂摄位，立骏为抚军将军，武威太守，西平公世子，茂死，无子，张骏立，于345年称假凉王</td>
+		</tr>
+		<tr>
+			<td>
+				建兴，又作永乐</td>
+			<td>
+				世祖桓</td>
+			<td>
+				张重华</td>
+			<td>
+				346</td>
+			<td>
+				20</td>
+			<td>
+				8</td>
+			<td>
+				27</td>
+			<td>
+				张骏第二子</td>
+			<td>
+				以世子即位</td>
+		</tr>
+		<tr>
+			<td>
+				和平</td>
+			<td>
+				威王</td>
+			<td>
+				张祚</td>
+			<td>
+				354</td>
+			<td>
+				&#160;</td>
+			<td>
+				2</td>
+			<td>
+				&#160;</td>
+			<td>
+				张骏之长庶子，张重华之兄</td>
+			<td>
+				张重华死，其幼子灵曜嗣立，张祚以其年幼，废以为宁凉侯，自立为大将军、凉州牧、凉公，后为其臣下所杀</td>
+		</tr>
+		<tr>
+			<td>
+				建兴、升平</td>
+			<td>
+				冲王</td>
+			<td>
+				张玄靓</td>
+			<td>
+				355</td>
+			<td>
+				6</td>
+			<td>
+				9</td>
+			<td>
+				14</td>
+			<td>
+				张骏少子</td>
+			<td>
+				363年杀张玄靓，自立为凉州牧，西平公，376年降于前秦，前凉亡</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				张玄锡</td>
+			<td>
+				363</td>
+			<td>
+				&#160;</td>
+			<td>
+				14</td>
+			<td>
+				&#160;</td>
+			<td>
+				张骏少子，重华弟</td>
+			<td>
+				363年杀张玄靓，自立为凉州牧，西平公，376年降于前秦，前凉亡</td>
+		</tr>
+		<tr>
+			<td colspan="9">
+				<strong>后赵世系</strong></td>
+		</tr>
+		<tr>
+			<td>
+				太和、建平</td>
+			<td>
+				高祖</td>
+			<td>
+				石勒</td>
+			<td>
+				319</td>
+			<td>
+				46</td>
+			<td>
+				15</td>
+			<td>
+				60</td>
+			<td>
+				上党武乡人，羯族，父周曷米，一名乞翼加，部落小帅</td>
+			<td>
+				起兵后投奔前赵，为刘渊大将，319年自称大单王，定都襄国，330年改称大赵天王，同年改称<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></td>
+		</tr>
+		<tr>
+			<td>
+				建平、延熙</td>
+			<td>
+				&#160;</td>
+			<td>
+				石弘</td>
+			<td>
+				333</td>
+			<td>
+				20</td>
+			<td>
+				2</td>
+			<td>
+				22</td>
+			<td>
+				石勒第二子</td>
+			<td>
+				石勒称帝后立为太子，即位后，石虎自为丞相、魏王、大单于，总摄朝政，334年十一月，石虎废弘为海阳王，寻杀之</td>
+		</tr>
+		<tr>
+			<td>
+				延熙、建武、太宁</td>
+			<td>
+				太祖</td>
+			<td>
+				石虎</td>
+			<td>
+				334</td>
+			<td>
+				40</td>
+			<td>
+				16</td>
+			<td>
+				55</td>
+			<td>
+				石勒之侄</td>
+			<td>
+				334年废石弘，自立为帝，称大赵天王，349年改称<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，335年九月迁都于邺</td>
+		</tr>
+		<tr>
+			<td>
+				青龙</td>
+			<td>
+				&#160;</td>
+			<td>
+				石鉴</td>
+			<td>
+				349</td>
+			<td>
+				&#160;</td>
+			<td>
+				1</td>
+			<td>
+				&#160;</td>
+			<td>
+				石虎子</td>
+			<td>
+				349年十一月，石闵（石虎养孙，汉人）废杀石遵，立石鉴，闵改国号为卫，易姓李，杀石鉴及石虎子孙二十余人，石氏几尽，闵自立为帝，又改国号为魏，复其原姓冉，史称其国为“冉魏”，石鉴在位，实一百零三日</td>
+		</tr>
+		<tr>
+			<td>
+				永宁</td>
+			<td>
+				&#160;</td>
+			<td>
+				石祗</td>
+			<td>
+				350</td>
+			<td>
+				&#160;</td>
+			<td>
+				2</td>
+			<td>
+				&#160;</td>
+			<td>
+				石虎子</td>
+			<td>
+				石鉴被杀，石祗于350年三月自立为帝，起兵讨冉闵，战败，于四月为部将刘显所杀，后赵亡</td>
+		</tr>
+		<tr>
+			<td colspan="9">
+				<strong>前燕世系</strong></td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				太祖</td>
+			<td>
+				慕容皝</td>
+			<td>
+				337</td>
+			<td>
+				41</td>
+			<td>
+				12</td>
+			<td>
+				52</td>
+			<td>
+				昌黎棘城人，鲜卑族，慕容廆第三子</td>
+			<td>
+				西晋灭亡后，慕容廆自称大单于，在辽河流域建立政权，其子慕容皝嗣位于333年，337年自称燕王，于342年迁都龙城</td>
+		</tr>
+		<tr>
+			<td>
+				元玺、光寿</td>
+			<td>
+				烈祖</td>
+			<td>
+				慕容（亻隽）</td>
+			<td>
+				348</td>
+			<td>
+				30</td>
+			<td>
+				13</td>
+			<td>
+				43</td>
+			<td>
+				慕容皝第二子</td>
+			<td>
+				慕容皝立以为世子，皝死，嗣位，受东晋穆帝册封，为使持节中外大都督，大将军，大单于，燕王，350年攻克蓟城而迁都于蓟，352年灭冉闵，同年称帝，后迁都于邺</td>
+		</tr>
+		<tr>
+			<td>
+				建熙</td>
+			<td>
+				幽<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></td>
+			<td>
+				慕容（日韦）</td>
+			<td>
+				360</td>
+			<td>
+				34</td>
+			<td>
+				11</td>
+			<td>
+				45</td>
+			<td>
+				慕容俊第三子</td>
+			<td>
+				慕容俊立以为皇太子，后嗣位，370年十一月，符坚攻入邺城，（日韦）外逃被俘，前燕亡，后被符坚所杀。</td>
+		</tr>
+		<tr>
+			<td colspan="9">
+				<strong>前秦世系</strong></td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				太祖</td>
+			<td>
+				符洪</td>
+			<td>
+				350</td>
+			<td>
+				66</td>
+			<td>
+				1</td>
+			<td>
+				66</td>
+			<td>
+				略阳临渭人，后改姓符，先世为捕落小帅，父怀归</td>
+			<td>
+				西晋末，被氏族各部落推为盟主，后被前赵刘曜封为氏王，，后又受后赵封号，以石遵削其职而降晋，350年，符洪自称大都督，大将军，大单于，但秦王，改姓符，同年三月，被其军帅将军麻秋毒死</td>
+		</tr>
+		<tr>
+			<td>
+				皇始</td>
+			<td>
+				世宗</td>
+			<td>
+				符健</td>
+			<td>
+				350</td>
+			<td>
+				34</td>
+			<td>
+				6</td>
+			<td>
+				39</td>
+			<td>
+				符洪第三子</td>
+			<td>
+				即位前斩麻秋，旋即位，翌年，占关中，据长安，称天王，大单于，国号大秦，改元皇始，翌年称帝，都长安</td>
+		</tr>
+		<tr>
+			<td>
+				寿光</td>
+			<td>
+				厉王</td>
+			<td>
+				符生</td>
+			<td>
+				355</td>
+			<td>
+				22</td>
+			<td>
+				3</td>
+			<td>
+				24</td>
+			<td>
+				符健第三子</td>
+			<td>
+				即位后嗜酒残暴，肆行杀戮，357年六月，被符健侄东海王符坚废以为越王，旋被杀</td>
+		</tr>
+		<tr>
+			<td>
+				永兴、甘露、建元</td>
+			<td>
+				世祖</td>
+			<td>
+				符坚</td>
+			<td>
+				357</td>
+			<td>
+				20</td>
+			<td>
+				29</td>
+			<td>
+				48</td>
+			<td>
+				父符雄，福符洪</td>
+			<td>
+				杀符生后嗣位，370年灭前燕，370年灭前凉，统一中国北部，383年八月，亲率大军攻东晋，败于淝水，北方各族纷纷自立，中国北部再度分裂，385年，慕容冲围攻长安，符坚出逃，被姚俘获后缢死</td>
+		</tr>
+		<tr>
+			<td>
+				太安</td>
+			<td>
+				哀平<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></td>
+			<td>
+				符丕</td>
+			<td>
+				385</td>
+			<td>
+				&#160;</td>
+			<td>
+				2</td>
+			<td>
+				&#160;</td>
+			<td>
+				符坚长子</td>
+			<td>
+				385年七月符坚败死，八月丕在晋阳称帝，次年，与鲜卑人慕容永激战于襄陵，惨败，后又败于晋将冯该，被杀</td>
+		</tr>
+		<tr>
+			<td>
+				太初</td>
+			<td>
+				太宗</td>
+			<td>
+				符登</td>
+			<td>
+				386</td>
+			<td>
+				44</td>
+			<td>
+				9</td>
+			<td>
+				52</td>
+			<td>
+				符坚之族孙父符敞</td>
+			<td>
+				符丕败死，诸将拥立符登，394年为姚兴所败，旋被杀，其子符崇奔逃于湟中嗣位，当年被西秦乞伏乾归逐杀，前秦亡</td>
+		</tr>
+		<tr>
+			<td colspan="9">
+				<strong>后秦世系</strong></td>
+		</tr>
+		<tr>
+			<td>
+				白雀、建初</td>
+			<td>
+				太祖</td>
+			<td>
+				姚苌</td>
+			<td>
+				384</td>
+			<td>
+				55</td>
+			<td>
+				11</td>
+			<td>
+				64</td>
+			<td>
+				南安赤亭人，羌族，父姚弋仲</td>
+			<td>
+				其兄为符坚所杀，姚苌率诸弟降于符坚，符坚伐晋，以姚苌为龙骧将军，苌自称大将军，大单于，万年秦王，386年称帝，都长安，国号秦</td>
+		</tr>
+		<tr>
+			<td>
+				皇初、弘始</td>
+			<td>
+				高祖</td>
+			<td>
+				姚兴</td>
+			<td>
+				394</td>
+			<td>
+				29</td>
+			<td>
+				23</td>
+			<td>
+				51</td>
+			<td>
+				姚苌长子</td>
+			<td>
+				以皇太子嗣位</td>
+		</tr>
+		<tr>
+			<td>
+				永和</td>
+			<td>
+				&#160;</td>
+			<td>
+				姚泓</td>
+			<td>
+				416</td>
+			<td>
+				29</td>
+			<td>
+				2</td>
+			<td>
+				30</td>
+			<td>
+				姚兴长子</td>
+			<td>
+				416年，东晋太尉刘裕乘姚兴新丧而举兵北伐，攻克洛阳，次年攻占长安，生俘姚泓至建康而杀之。后秦亡</td>
+		</tr>
+		<tr>
+			<td colspan="9">
+				<strong>后燕世系</strong></td>
+		</tr>
+		<tr>
+			<td>
+				燕元</td>
+			<td>
+				世祖</td>
+			<td>
+				慕容垂</td>
+			<td>
+				384</td>
+			<td>
+				59</td>
+			<td>
+				13</td>
+			<td>
+				71</td>
+			<td>
+				昌黎棘城人，鲜卑族，前燕慕容皝第五子</td>
+			<td>
+				原为前秦大将，符坚惨败于淝水之战后，慕容垂即图恢复燕国，于384年称燕王，两年后称帝，定都于中山</td>
+		</tr>
+		<tr>
+			<td>
+				永康</td>
+			<td>
+				烈宗</td>
+			<td>
+				慕容宝</td>
+			<td>
+				396</td>
+			<td>
+				42</td>
+			<td>
+				3</td>
+			<td>
+				44</td>
+			<td>
+				慕容垂第四子</td>
+			<td>
+				以太子嗣位，398年四月，为部下鲜卑族兰汗所杀</td>
+		</tr>
+		<tr>
+			<td>
+				建平、长乐</td>
+			<td>
+				中宗</td>
+			<td>
+				慕容盛</td>
+			<td>
+				398</td>
+			<td>
+				26</td>
+			<td>
+				4</td>
+			<td>
+				29</td>
+			<td>
+				慕容宝庶长子</td>
+			<td>
+				398年四月即位，杀兰汗，称长乐王，同年十月称帝，400年，去帝号，改称庶民天王，401年被部下射伤，寻死</td>
+		</tr>
+		<tr>
+			<td>
+				光始、建始</td>
+			<td>
+				昭文<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></td>
+			<td>
+				慕容熙</td>
+			<td>
+				401</td>
+			<td>
+				17</td>
+			<td>
+				7</td>
+			<td>
+				23</td>
+			<td>
+				慕容垂少子</td>
+			<td>
+				慕容盛死，太后废太子，立熙嗣位，407年七月，冯跋杀慕容熙自立，后燕亡</td>
+		</tr>
+		<tr>
+			<td colspan="9">
+				<strong>西秦世系</strong></td>
+		</tr>
+		<tr>
+			<td>
+				建义</td>
+			<td>
+				烈祖</td>
+			<td>
+				乞伏国仁</td>
+			<td>
+				385</td>
+			<td>
+				&#160;</td>
+			<td>
+				4</td>
+			<td>
+				&#160;</td>
+			<td>
+				略阳氐族人，先世世为豪酋，父吕婆楼，佐命符坚，官至太尉</td>
+			<td>
+				其父为前秦符坚之镇西将军，385年司繁卒，国仁即位，自称大都督，大将军，大单于，领秦河二州牧</td>
+		</tr>
+		<tr>
+			<td>
+				太初、更始</td>
+			<td>
+				高祖</td>
+			<td>
+				乞伏乾归</td>
+			<td>
+				388</td>
+			<td>
+				&#160;</td>
+			<td>
+				25</td>
+			<td>
+				&#160;</td>
+			<td>
+				乞伏国仁之弟</td>
+			<td>
+				乞伏国仁死后，群臣以其子年幼，乃推国仁弟乾归为大都督，大将军，大单于，河南王，394年改称秦王，迁都金城，再迁都苑川，412年为兄子乞伏公府所杀</td>
+		</tr>
+		<tr>
+			<td>
+				永康、建弘</td>
+			<td>
+				太祖</td>
+			<td>
+				乞伏炽盘</td>
+			<td>
+				412</td>
+			<td>
+				&#160;</td>
+			<td>
+				17</td>
+			<td>
+				&#160;</td>
+			<td>
+				乞伏乾归</td>
+			<td>
+				乞伏公府杀乾归，炽盘追杀公府而继位，414年灭南凉，428年五月病死</td>
+		</tr>
+		<tr>
+			<td>
+				永弘</td>
+			<td>
+				&#160;</td>
+			<td>
+				乞伏慕末</td>
+			<td>
+				428</td>
+			<td>
+				&#160;</td>
+			<td>
+				4</td>
+			<td>
+				&#160;</td>
+			<td>
+				炽盘第二子</td>
+			<td>
+				431年降于夏王赫连定，被杀，西秦王</td>
+		</tr>
+		<tr>
+			<td colspan="9">
+				<strong>后凉世系</strong></td>
+		</tr>
+		<tr>
+			<td>
+				太安、麟嘉、龙飞</td>
+			<td>
+				太祖</td>
+			<td>
+				吕光</td>
+			<td>
+				386</td>
+			<td>
+				49</td>
+			<td>
+				14</td>
+			<td>
+				62</td>
+			<td>
+				略阳氏族人，先世世为豪酋</td>
+			<td>
+				受符坚命，以太尉领兵攻略西域，降服三十余国，后闻符坚为姚苌所杀，于386年十月自称使持节，侍中，中外大都督，凉州牧，酒泉公，建元太安，后改称三河王，天王</td>
+		</tr>
+		<tr>
+			<td>
+				咸宁</td>
+			<td>
+				灵<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></td>
+			<td>
+				吕纂</td>
+			<td>
+				399</td>
+			<td>
+				&#160;</td>
+			<td>
+				3</td>
+			<td>
+				&#160;</td>
+			<td>
+				吕光庶长子</td>
+			<td>
+				399年，吕光立太子吕绍为天王，自号太上皇，吕光死，吕纂攻绍，绍自杀，纂即位</td>
+		</tr>
+		<tr>
+			<td>
+				神鼎</td>
+			<td>
+				&#160;</td>
+			<td>
+				吕隆</td>
+			<td>
+				401</td>
+			<td>
+				&#160;</td>
+			<td>
+				3</td>
+			<td>
+				&#160;</td>
+			<td>
+				吕光弟，吕宝之子</td>
+			<td>
+				401年，吕超杀吕纂，让位于吕隆，隆即位，改元神鼎，为沮渠蒙逊与秃发傉擅所侵逼，于403年降于后秦，后凉亡</td>
+		</tr>
+		<tr>
+			<td colspan="9">
+				<strong>南凉世系</strong></td>
+		</tr>
+		<tr>
+			<td>
+				太初</td>
+			<td>
+				烈祖</td>
+			<td>
+				秃发乌孤</td>
+			<td>
+				397</td>
+			<td>
+				&#160;</td>
+			<td>
+				3</td>
+			<td>
+				&#160;</td>
+			<td>
+				河西鲜卑族人，秃发氏为鲜卑族拓跋部之一支</td>
+			<td>
+				传说秃发氏先人寿阗生于被中，鲜卑语谓被为“秃发”，遂以为氏，传至乌孤，始强大，于397年自称大都督，大将军，大单于，平西王，建元太初，都于廉川堡，后坠马死</td>
+		</tr>
+		<tr>
+			<td>
+				建和</td>
+			<td>
+				康王</td>
+			<td>
+				秃发利鹿孤</td>
+			<td>
+				400</td>
+			<td>
+				&#160;</td>
+			<td>
+				3</td>
+			<td>
+				&#160;</td>
+			<td>
+				乌孤之弟</td>
+			<td>
+				乌孤死，利鹿孤即位，改称河西王</td>
+		</tr>
+		<tr>
+			<td>
+				弘昌、嘉定</td>
+			<td>
+				景王</td>
+			<td>
+				秃发傉</td>
+			<td>
+				402</td>
+			<td>
+				38</td>
+			<td>
+				13</td>
+			<td>
+				51</td>
+			<td>
+				利鹿孤之弟</td>
+			<td>
+				利鹿孤死，嗣位，迁都于乐都，改称凉王，414年七月，西秦乞伏炽盘攻陷离都，傉檀降，西凉亡</td>
+		</tr>
+		<tr>
+			<td colspan="9">
+				<strong>南燕世系</strong></td>
+		</tr>
+		<tr>
+			<td>
+				燕平、建平</td>
+			<td>
+				世宗</td>
+			<td>
+				慕容德</td>
+			<td>
+				398</td>
+			<td>
+				63</td>
+			<td>
+				8</td>
+			<td>
+				70</td>
+			<td>
+				昌黎棘城人，鲜卑族，前燕主慕容皝之少子，后燕主慕容垂之弟</td>
+			<td>
+				前燕时被封为梁公，范阳王，后燕时封范阳王，北魏陷后燕都城中山后，慕容德率众至邺，又迁滑台，398年称王，400年迁广固，称帝，405年病死</td>
+		</tr>
+		<tr>
+			<td>
+				太上</td>
+			<td>
+				&#160;</td>
+			<td>
+				慕容超</td>
+			<td>
+				405</td>
+			<td>
+				21</td>
+			<td>
+				6</td>
+			<td>
+				26</td>
+			<td>
+				慕容德之兄，北海王慕容纳之子</td>
+			<td>
+				慕容德立为太子，德死，嗣位，410年为东晋刘裕所败，俘送于建康而杀之，南燕亡</td>
+		</tr>
+		<tr>
+			<td colspan="9">
+				<strong>西凉世系</strong></td>
+		</tr>
+		<tr>
+			<td>
+				庚子、建初</td>
+			<td>
+				太祖</td>
+			<td>
+				李暠</td>
+			<td>
+				407</td>
+			<td>
+				27</td>
+			<td>
+				19</td>
+			<td>
+				45</td>
+			<td>
+				匈奴人，匈奴右贤王去卑之后，父卫辰</td>
+			<td>
+				后凉末，李暠任敦煌太守，400年自称凉公，年号庚子</td>
+		</tr>
+		<tr>
+			<td>
+				嘉兴</td>
+			<td>
+				&#160;</td>
+			<td>
+				李歆</td>
+			<td>
+				417</td>
+			<td>
+				&#160;</td>
+			<td>
+				4</td>
+			<td>
+				&#160;</td>
+			<td>
+				李暠第二子</td>
+			<td>
+				暠死，即位，420年七月与北凉沮渠蒙逊战于箩泉，兵败被杀</td>
+		</tr>
+		<tr>
+			<td>
+				永建</td>
+			<td>
+				&#160;</td>
+			<td>
+				李恂</td>
+			<td>
+				420</td>
+			<td>
+				&#160;</td>
+			<td>
+				2</td>
+			<td>
+				&#160;</td>
+			<td>
+				李暠第六子</td>
+			<td>
+				李歆死，恂自立，称凉州刺史，改元永建，次年春，沮渠蒙围敦煌，恂自杀，西凉亡</td>
+		</tr>
+		<tr>
+			<td colspan="9">
+				<strong>夏世系</strong></td>
+		</tr>
+		<tr>
+			<td>
+				龙升、凤翔、昌武、真兴</td>
+			<td>
+				世祖</td>
+			<td>
+				赫连勃勃</td>
+			<td>
+				407</td>
+			<td>
+				27</td>
+			<td>
+				19</td>
+			<td>
+				45</td>
+			<td>
+				匈奴人，匈奴右贤王去卑之后，父卫辰</td>
+			<td>
+				其父卫辰入居塞内，被符坚封为西单于，督摄河内西诸部，后为北魏拓跋圭所杀，赫连勃勃投奔后秦姚兴，407年拥兵自立，称天王，大单于，建元龙升</td>
+		</tr>
+		<tr>
+			<td>
+				承光</td>
+			<td>
+				&#160;</td>
+			<td>
+				赫连昌</td>
+			<td>
+				425</td>
+			<td>
+				&#160;</td>
+			<td>
+				4</td>
+			<td>
+				&#160;</td>
+			<td>
+				勃勃第二子</td>
+			<td>
+				以太子即位，428年被北魏生俘，封秦王，旋杀之</td>
+		</tr>
+		<tr>
+			<td>
+				胜光</td>
+			<td>
+				&#160;</td>
+			<td>
+				赫连定</td>
+			<td>
+				428</td>
+			<td>
+				&#160;</td>
+			<td>
+				4</td>
+			<td>
+				&#160;</td>
+			<td>
+				勃勃第五子</td>
+			<td>
+				昌被俘，定占据平原，称帝，431年被吐谷浑击败生俘，夏亡</td>
+		</tr>
+		<tr>
+			<td colspan="9">
+				<strong>北燕世系</strong></td>
+		</tr>
+		<tr>
+			<td>
+				正始</td>
+			<td>
+				&#160;</td>
+			<td>
+				高云</td>
+			<td>
+				407</td>
+			<td>
+				&#160;</td>
+			<td>
+				3</td>
+			<td>
+				&#160;</td>
+			<td>
+				高句丽王族，慕容宝收以为养子，赐姓慕容</td>
+			<td>
+				407年，后燕禁卫军将领冯跋杀燕帝慕容熙，立慕容云（高云）为主，为其宠臣离班所杀</td>
+		</tr>
+		<tr>
+			<td>
+				太平</td>
+			<td>
+				太祖</td>
+			<td>
+				冯跋</td>
+			<td>
+				409</td>
+			<td>
+				&#160;</td>
+			<td>
+				22</td>
+			<td>
+				&#160;</td>
+			<td>
+				长乐信都人，汉族</td>
+			<td>
+				高云被杀，冯跋平定变乱，称天王</td>
+		</tr>
+		<tr>
+			<td>
+				太平、太兴</td>
+			<td>
+				昭成<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></td>
+			<td>
+				冯宏</td>
+			<td>
+				430</td>
+			<td>
+				&#160;</td>
+			<td>
+				7</td>
+			<td>
+				&#160;</td>
+			<td>
+				冯跋弟</td>
+			<td>
+				冯跋病死，宏尽杀跋诸子，乃自立，436年为北魏所杀，宏走死高丽</td>
+		</tr>
+		<tr>
+			<td colspan="9">
+				<strong>北凉世系</strong></td>
+		</tr>
+		<tr>
+			<td>
+				永安、玄始、承玄、义和</td>
+			<td>
+				太祖</td>
+			<td>
+				沮渠蒙逊</td>
+			<td>
+				401</td>
+			<td>
+				34</td>
+			<td>
+				33</td>
+			<td>
+				66</td>
+			<td>
+				临松卢水人，匈奴族沮渠部，先世世为沮渠部酋豪</td>
+			<td>
+				397年起兵反后凉吕光，拥后凉建慷康太守段业为凉州牧，建康公，401年杀段业而自立，称张掖公，都张掖，412年占姑臧，称河西王，421年灭西凉，据有凉州全境</td>
+		</tr>
+		<tr>
+			<td>
+				永和</td>
+			<td>
+				哀王</td>
+			<td>
+				沮渠牧健</td>
+			<td>
+				433</td>
+			<td>
+				&#160;</td>
+			<td>
+				7</td>
+			<td>
+				&#160;</td>
+			<td>
+				蒙逊第三子</td>
+			<td>
+				蒙逊死，牧健以皇太子即位，439年，魏师来伐，势穷请降，被杀，北凉亡</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	<strong>前燕王朝的帝王世系</strong></p>
+<p>
+	追尊——两晋之际奠基的一代</p>
+<p>
+	慕容廆 高祖 弈洛瑰</p>
+<p>
+	1.武宣王∣皝追 襄公 辽东襄公 269-285-333.6.20<br />
+	2.武宣帝∣儁追 前燕武宣帝<br />
+	&#160;<wbr />&#160;<wbr />&#160;<wbr />&#160;附注：晋元帝太兴四年十二月，以慕容廆为持节、都督幽平二州东夷诸军事、平州牧，封辽东郡公。<br />
+	前燕势力：337·十一～370·十一&#160;</p>
+<p>
+	慕容皝 太祖</p>
+<p>
+	1.文明王 297-333-348·九 奉晋正朔 咸和八年￤333~十一年 ￤336 辽东公<br />
+	咸和十二年￤337~十九年￤334 称燕王到称帝前，名义上是臣属于东晋的诸侯国，但僭越称王类似春秋战国故事。故仍以337年为立国之始<br />
+	2.文明帝 咸康335~342 建元343~344 燕王纪年 燕王十二年￤345~十五年￤348</p>
+<p>
+	慕容〈亻隽〉 烈祖</p>
+<p>
+	景昭帝 319-349-360·正 燕王元年[22] ￤349~四年￤352<br />
+	自建年号 元玺352·十一~357 光寿357·二~360</p>
+<p>
+	慕容〈日韦〉 隐宗</p>
+<p>
+	幽帝 350-360-370-384·十二[23]&#160;<wbr />&#160;建熙360~370·十一<br />
+	&#160;<wbr />&#160;<wbr />&#160;<wbr />&#160;说明：1、因〈亻隽〉这个字打不出，故慕容〈亻隽〉的常用写作”儁“或“俊”字表示。慕容〈日韦〉的〈日韦〉字打不出，姑且用“暐”字表示。2、农历的某某年可能进入阳历的下一年，因此未必精准，但本表是比较准确的。如：建熙十一年（元始321岁年）十一月从370年12月5日到371年1月2日。</p>
+<p>
+	<strong>五胡十六国公主列表</strong></p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%">
+	<tbody>
+		<tr>
+		</tr>
+		<tr>
+			<td>
+				<strong>所在国</strong></td>
+			<td>
+				<strong>封号</strong></td>
+			<td>
+				<strong>名讳</strong></td>
+			<td>
+				<strong>父亲</strong></td>
+			<td>
+				<strong>母亲</strong></td>
+			<td>
+				<strong>丈夫</strong></td>
+		</tr>
+		<tr>
+			<td>
+				前燕</td>
+			<td>
+				清河公主</td>
+			<td>
+				慕容氏</td>
+			<td>
+				慕容儁</td>
+			<td>
+				&#160;</td>
+			<td>
+				苻坚</td>
+		</tr>
+		<tr>
+			<td>
+				南燕</td>
+			<td>
+				平原公主</td>
+			<td>
+				慕容氏</td>
+			<td>
+				慕容德</td>
+			<td>
+				&#160;</td>
+			<td>
+				段丰</td>
+		</tr>
+		<tr>
+			<td>
+				后燕</td>
+			<td>
+				昭成皇后</td>
+			<td>
+				慕容氏</td>
+			<td>
+				慕容皝</td>
+			<td>
+				&#160;</td>
+			<td>
+				拓跋什翼犍</td>
+		</tr>
+		<tr>
+			<td>
+				北燕</td>
+			<td>
+				乐浪公主</td>
+			<td>
+				冯氏</td>
+			<td>
+				冯跋</td>
+			<td>
+				&#160;</td>
+			<td>
+				郁久闾斛律</td>
+		</tr>
+		<tr>
+			<td rowspan="5">
+				前秦</td>
+			<td>
+				顺阳公主</td>
+			<td rowspan="2">
+				苻氏</td>
+			<td rowspan="4">
+				苻坚</td>
+			<td>
+				&#160;</td>
+			<td>
+				杨壁</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				公主</td>
+			<td colspan="1" rowspan="1">
+				&#160;</td>
+			<td colspan="1" rowspan="1">
+				杨定</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				公主</td>
+			<td colspan="1" rowspan="1">
+				苻锦</td>
+			<td colspan="1" rowspan="1">
+				&#160;</td>
+			<td colspan="1" rowspan="1">
+				&#160;</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				公主</td>
+			<td colspan="1" rowspan="1">
+				苻宝</td>
+			<td colspan="1" rowspan="1">
+				&#160;</td>
+			<td colspan="1" rowspan="1">
+				&#160;</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				东平公主</td>
+			<td colspan="1" rowspan="1">
+				苻氏</td>
+			<td colspan="1" rowspan="1">
+				苻敞</td>
+			<td colspan="1" rowspan="1">
+				&#160;</td>
+			<td colspan="1" rowspan="1">
+				乞伏乾归</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="2">
+				后秦</td>
+			<td colspan="1" rowspan="1">
+				南安长公主</td>
+			<td colspan="1" rowspan="2">
+				姚氏</td>
+			<td colspan="1" rowspan="1">
+				姚苌</td>
+			<td colspan="1" rowspan="1">
+				&#160;</td>
+			<td colspan="1" rowspan="1">
+				&#160;</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				西平公主</td>
+			<td colspan="1" rowspan="1">
+				姚兴</td>
+			<td colspan="1" rowspan="1">
+				&#160;</td>
+			<td colspan="1" rowspan="1">
+				拓跋嗣</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="3">
+				西秦</td>
+			<td colspan="1" rowspan="1">
+				兴平公主</td>
+			<td colspan="1" rowspan="3">
+				乞伏氏</td>
+			<td colspan="1" rowspan="3">
+				乞伏炽磐</td>
+			<td colspan="1" rowspan="1">
+				&#160;</td>
+			<td colspan="1" rowspan="1">
+				沮渠蒙逊</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				平昌公主</td>
+			<td colspan="1" rowspan="1">
+				&#160;</td>
+			<td colspan="1" rowspan="1">
+				沮渠兴国</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				公主</td>
+			<td colspan="1" rowspan="1">
+				&#160;</td>
+			<td colspan="1" rowspan="1">
+				源贺</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				汉赵</td>
+			<td colspan="1" rowspan="1">
+				安定公主</td>
+			<td colspan="1" rowspan="1">
+				刘氏</td>
+			<td colspan="1" rowspan="1">
+				&#160;</td>
+			<td colspan="1" rowspan="1">
+				&#160;</td>
+			<td colspan="1" rowspan="1">
+				石虎</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				成汉</td>
+			<td colspan="1" rowspan="1">
+				&#160;</td>
+			<td colspan="1" rowspan="1">
+				李氏</td>
+			<td colspan="1" rowspan="1">
+				李势</td>
+			<td colspan="1" rowspan="1">
+				&#160;</td>
+			<td colspan="1" rowspan="1">
+				桓温</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="4">
+				胡夏</td>
+			<td colspan="1" rowspan="1">
+				太武皇后</td>
+			<td colspan="1" rowspan="4">
+				赫连氏</td>
+			<td colspan="1" rowspan="4">
+				赫连勃勃</td>
+			<td colspan="1" rowspan="1">
+				&#160;</td>
+			<td colspan="1" rowspan="3">
+				拓跋焘</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				&#160;</td>
+			<td colspan="1" rowspan="1">
+				&#160;</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				&#160;</td>
+			<td colspan="1" rowspan="1">
+				&#160;</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				&#160;</td>
+			<td colspan="1" rowspan="1">
+				&#160;</td>
+			<td colspan="1" rowspan="1">
+				拓跋素</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="3">
+				北凉</td>
+			<td colspan="1" rowspan="1">
+				兴平公主</td>
+			<td colspan="1" rowspan="3">
+				沮渠氏</td>
+			<td colspan="1" rowspan="1">
+				沮渠蒙逊</td>
+			<td colspan="1" rowspan="1">
+				&#160;</td>
+			<td colspan="1" rowspan="1">
+				拓跋焘</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				武威公主</td>
+			<td colspan="1" rowspan="2">
+				沮渠牧犍</td>
+			<td colspan="1" rowspan="1">
+				武威公主</td>
+			<td colspan="1" rowspan="1">
+				司马金龙</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				&#160;</td>
+			<td colspan="1" rowspan="1">
+				&#160;</td>
+			<td colspan="1" rowspan="1">
+				拓跋濬</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="2">
+				南凉</td>
+			<td colspan="1" rowspan="1">
+				秃发皇后</td>
+			<td colspan="1" rowspan="2">
+				秃发氏</td>
+			<td colspan="1" rowspan="2">
+				秃发傉檀</td>
+			<td colspan="1" rowspan="1">
+				折掘皇后</td>
+			<td colspan="1" rowspan="2">
+				乞伏炽磐</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				左夫人秃发氏</td>
+			<td colspan="1" rowspan="1">
+				&#160;</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				不详</td>
+			<td colspan="1" rowspan="1">
+				钜鹿公主</td>
+			<td align="center" colspan="1" rowspan="1" style="margin: 0px; padding: 2px 10px; line-height: 22px; height: 22px; border-style: solid; border-color: rgb（230, 230, 230）;" valign="middle">
+				&#160;</td>
+			<td align="center" colspan="1" rowspan="1" style="margin: 0px; padding: 2px 10px; line-height: 22px; height: 22px; border-style: solid; border-color: rgb（230, 230, 230）;" valign="middle">
+				&#160;</td>
+			<td align="center" colspan="1" rowspan="1" style="margin: 0px; padding: 2px 10px; line-height: 22px; height: 22px; border-style: solid; border-color: rgb（230, 230, 230）;" valign="middle">
+				&#160;</td>
+			<td>
+				&#160;</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&#160;</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor3"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        五胡十六国简史</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="text-indent: 2em; text-align: center;">
+	<a href="http://img.xixik.net/custom/topic/xixik_7a995145fffabca0.png" title="五胡十六国"><img src="http://img.xixik.net/custom/topic/xixik_7a995145fffabca0.png" style="height: 763px; width: 690px;" /></a></p>
+<p style="text-indent: 2em; text-align: center;">
+	五胡十六国时间轴</p>
+<p style="TEXT-INDENT:2em">
+	自西晋惠帝永兴元年（公元304年）匈奴刘渊称王建汉起，到南宋文帝元嘉十六年（公元439年）北魏统一中国北部为止，共一百三十六年，这一段时期史称“十六国时期”。十六国这要由匈奴、鲜卑、羯、氐、羌五个少数民族上层分子所建，所以又称为“五胡十六国”。“十六国”之称乃是因为北魏崔鸿等所撰写的《十六国春秋》而得名。除了十六国外，另有冉魏、西燕、代等政权存在。自公元439年起，中国进入南朝政权和北朝政权对峙的南北朝时期，十六国时期结束。</p>
+<p style="TEXT-INDENT:2em">
+	具体说，十六国指以下这些朝代：</p>
+<p style="TEXT-INDENT:2em">
+	一、前赵，304年刘渊建国，329年灭亡。历二十六年，传四主，定都平阳（今山西临汾西北），后迁长安，统治区有今陕西渭水流域及山西、河南、甘肃各一部分。</p>
+<p style="TEXT-INDENT:2em">
+	二、成汉，304年李雄建国，347年被东晋桓温所灭。历四十四年，定都成都。</p>
+<p style="TEXT-INDENT:2em">
+	三、前凉，314年张寔[shí]建国，316年被前秦所灭。历六十三年，传七主。定都姑臧（今武威市凉州区），统治区域有今甘肃西部、新疆东部、宁夏西部。</p>
+<p style="TEXT-INDENT:2em">
+	四、后赵，319年石勒建国，351年灭亡。历三十三年，传五主。定都襄国。统治地区主要有今河北、山西、山东、河南、陕西和江苏、安徽、甘肃、辽宁一部。</p>
+<p style="TEXT-INDENT:2em">
+	五、前燕，337年慕容氏建国，370年被前秦灭亡。历三十四年，传三主。定都龙城（今辽宁朝阳），后迁都蓟（今河北蓟县），后又迁都邺（今河北临漳西南），统治区域有今河北、山东、山西、河南、安徽、江苏、辽宁之大部。</p>
+<p style="TEXT-INDENT:2em">
+	六、前秦，350年符洪建国，394年被后秦所灭。历四十四年，传六主。都长安。统治地区有河北、山西、山东、陕西、甘肃、河南、四川、贵州、江苏、安徽、湖北、辽宁之大部。</p>
+<p style="TEXT-INDENT:2em">
+	七、后秦，384年姚苌建国，417年灭亡。历三十四年，传三主。都长安，是羌族建立的政权。统治地区有今陕西、甘肃、宁夏及山西一部分。</p>
+<p style="TEXT-INDENT:2em">
+	八、后燕，384年慕容垂建国，407年被北燕所灭。历二十四年，传四主。定都中山（今河北定县），统治区有河北、山东、山西诸省及河南、辽宁一部。</p>
+<p style="TEXT-INDENT:2em">
+	九、西秦，385年乞伏国仁建国，431年灭亡。历四十七年，传四主，都勇士川（今甘肃榆中东北）,后迁都金城（今甘肃兰州市西），又迁都苑川（今甘肃榆中西北），鲜卑人建立的政权。统治地区主要是今甘肃西南部。</p>
+<p style="TEXT-INDENT:2em">
+	十、后凉，386年吕光建国。403年被灭亡。历十八年，传三主。都姑臧（今甘肃武威），统治地区有甘肃西部，宁夏西部，新疆东部。</p>
+<p style="TEXT-INDENT:2em">
+	十一、南凉，397年秃发乌孤建国，414年灭亡。历十八年，传三主。都廉川堡（今青海乐都东），后迁都乐都（今青海乐都）、西平（今青海西宁市），统治地区有今甘肃西部和青海省一部分。</p>
+<p style="TEXT-INDENT:2em">
+	十二、南燕，398年慕容德建国，410年灭亡。历十三年，传二主。定都广固（今山东益都西北），统治地区东至海，南滨泗水，西至巨野，北临黄河。</p>
+<p style="TEXT-INDENT:2em">
+	十三、前凉，400年李暠建国，421年灭亡。历二十二年，传二主，都敦煌（今甘肃敦煌），汉人政权。统治今甘肃西部。</p>
+<p style="TEXT-INDENT:2em">
+	十四、胡夏，407年建国，431年被吐谷浑所灭。历二十五年，传三主。都统万城（今陕西横山西北），后迁安定（今甘肃镇原东南）、平原（今甘肃平凉西北）。统治陕西省和内蒙一部分。中国古代以“夏”为国号的政权颇多，因此史家又称十六国时期的夏政权为赫连夏，又称为胡夏国。</p>
+<p style="TEXT-INDENT:2em">
+	十五、北燕，407年高云建国。436年被北魏所灭。历十年，传三主。都龙城（今辽宁朝阳）。统治今辽宁西南部和河北西北部。</p>
+<p style="TEXT-INDENT:2em">
+	十六、北凉，401年沮渠蒙逊建国，439年被北魏灭亡。历四十三年，传三主。统治区在今甘肃西部。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>“五胡十六国”其实远远不止十六国</strong></p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<td>
+				<strong>国名</strong></td>
+			<td>
+				<strong>首都</strong></td>
+			<td>
+				<strong>年代</strong></td>
+			<td>
+				<strong>开国者</strong></td>
+			<td>
+				<strong>末任君主</strong></td>
+			<td>
+				<strong>灭亡者</strong></td>
+		</tr>
+		<tr>
+			<td>
+				前仇池王国<br />
+				后仇池王国</td>
+			<td>
+				仇池<br />
+				陇右</td>
+			<td>
+				296~371<br />
+				385~443</td>
+			<td>
+				杨茂搜<br />
+				杨定</td>
+			<td>
+				杨纂<br />
+				杨保炽</td>
+			<td>
+				前秦帝国<br />
+				北魏帝国</td>
+		</tr>
+		<tr>
+			<td>
+				丘汉帝国</td>
+			<td>
+				江夏</td>
+			<td>
+				303~304</td>
+			<td>
+				丘沈</td>
+			<td>
+				丘沈</td>
+			<td>
+				晋帝国</td>
+		</tr>
+		<tr>
+			<td>
+				成汉帝国</td>
+			<td>
+				成都</td>
+			<td>
+				304~347</td>
+			<td>
+				武帝李雄</td>
+			<td>
+				李势</td>
+			<td>
+				晋帝国</td>
+		</tr>
+		<tr>
+			<td>
+				汉赵帝国</td>
+			<td>
+				离石-黎亭-蒲子-平阳-长安-上邽</td>
+			<td>
+				304~329</td>
+			<td>
+				光文帝刘渊</td>
+			<td>
+				摄政太子刘熙</td>
+			<td>
+				后赵帝国</td>
+		</tr>
+		<tr>
+			<td>
+				前燕帝国</td>
+			<td>
+				昌黎-棘城-龙城-蓟城-邺城</td>
+			<td>
+				308~370</td>
+			<td>
+				武宣帝慕容嵬</td>
+			<td>
+				幽帝慕容暐</td>
+			<td>
+				前秦帝国</td>
+		</tr>
+		<tr>
+			<td>
+				芒荡汉帝国</td>
+			<td>
+				马兰山</td>
+			<td>
+				309~309</td>
+			<td>
+				刘芒荡</td>
+			<td>
+				刘芒荡</td>
+			<td>
+				晋帝国</td>
+		</tr>
+		<tr>
+			<td>
+				略阳公国</td>
+			<td>
+				略阳</td>
+			<td>
+				310~319</td>
+			<td>
+				蒲洪</td>
+			<td>
+				蒲洪</td>
+			<td>
+				晋帝国</td>
+		</tr>
+		<tr>
+			<td>
+				胡楚公国</td>
+			<td>
+				竟陵</td>
+			<td>
+				312~319</td>
+			<td>
+				胡亢</td>
+			<td>
+				杜曾</td>
+			<td>
+				晋帝国</td>
+		</tr>
+		<tr>
+			<td>
+				虚除秦王国</td>
+			<td>
+				陇右</td>
+			<td>
+				316~320</td>
+			<td>
+				虚除权渠</td>
+			<td>
+				虚除权渠</td>
+			<td>
+				汉赵帝国</td>
+		</tr>
+		<tr>
+			<td>
+				辽西公国</td>
+			<td>
+				令支</td>
+			<td>
+				318~338</td>
+			<td>
+				段末秠</td>
+			<td>
+				段辽</td>
+			<td>
+				前燕帝国</td>
+		</tr>
+		<tr>
+			<td>
+				后赵帝国</td>
+			<td>
+				襄国-邺城</td>
+			<td>
+				319~351</td>
+			<td>
+				明帝石勒</td>
+			<td>
+				石祇</td>
+			<td>
+				冉魏帝国</td>
+		</tr>
+		<tr>
+			<td>
+				前凉王国</td>
+			<td>
+				姑臧</td>
+			<td>
+				320~376</td>
+			<td>
+				成王张茂</td>
+			<td>
+				张天锡</td>
+			<td>
+				前秦帝国</td>
+		</tr>
+		<tr>
+			<td>
+				句渠秦王国</td>
+			<td>
+				阴密</td>
+			<td>
+				320~320</td>
+			<td>
+				句渠知</td>
+			<td>
+				句渠知</td>
+			<td>
+				汉赵帝国</td>
+		</tr>
+		<tr>
+			<td>
+				陈凉王国</td>
+			<td>
+				上邽</td>
+			<td>
+				322~323</td>
+			<td>
+				陈安</td>
+			<td>
+				陈安</td>
+			<td>
+				汉赵帝国</td>
+		</tr>
+		<tr>
+			<td>
+				后辽东公国</td>
+			<td>
+				平郭</td>
+			<td>
+				333~336</td>
+			<td>
+				慕容仁</td>
+			<td>
+				慕容仁</td>
+			<td>
+				前燕帝国</td>
+		</tr>
+		<tr>
+			<td>
+				侯子光帝国</td>
+			<td>
+				杜南山</td>
+			<td>
+				337~337</td>
+			<td>
+				侯子光</td>
+			<td>
+				侯子光</td>
+			<td>
+				后赵帝国</td>
+		</tr>
+		<tr>
+			<td>
+				范贲帝国</td>
+			<td>
+				成都</td>
+			<td>
+				347~349</td>
+			<td>
+				范贲</td>
+			<td>
+				范贲</td>
+			<td>
+				晋帝国</td>
+		</tr>
+		<tr>
+			<td>
+				黄韬帝国</td>
+			<td>
+				豫章</td>
+			<td>
+				348~348</td>
+			<td>
+				黄韬</td>
+			<td>
+				黄韬</td>
+			<td>
+				晋帝国</td>
+		</tr>
+		<tr>
+			<td>
+				冉魏帝国</td>
+			<td>
+				邺城</td>
+			<td>
+				350~352</td>
+			<td>
+				平帝冉闵</td>
+			<td>
+				惠帝冉智</td>
+			<td>
+				前燕帝国</td>
+		</tr>
+		<tr>
+			<td>
+				段齐王国</td>
+			<td>
+				广固</td>
+			<td>
+				350~356</td>
+			<td>
+				段龛</td>
+			<td>
+				段龛</td>
+			<td>
+				前燕帝国</td>
+		</tr>
+		<tr>
+			<td>
+				前秦帝国</td>
+			<td>
+				枋头-长安-晋阳-南安-湟中</td>
+			<td>
+				350~394</td>
+			<td>
+				惠武帝苻洪</td>
+			<td>
+				末主苻崇</td>
+			<td>
+				西秦王国</td>
+		</tr>
+		<tr>
+			<td>
+				刘显帝国</td>
+			<td>
+				襄国</td>
+			<td>
+				351~352</td>
+			<td>
+				刘显</td>
+			<td>
+				刘显</td>
+			<td>
+				冉魏帝国</td>
+		</tr>
+		<tr>
+			<td>
+				张秦王国</td>
+			<td>
+				宜秋</td>
+			<td>
+				352~352</td>
+			<td>
+				张琚</td>
+			<td>
+				张琚</td>
+			<td>
+				前秦帝国</td>
+		</tr>
+		<tr>
+			<td>
+				段勤帝国</td>
+			<td>
+				绎幕</td>
+			<td>
+				352~352</td>
+			<td>
+				段勤</td>
+			<td>
+				段勤</td>
+			<td>
+				前燕帝国</td>
+		</tr>
+		<tr>
+			<td>
+				安国王国</td>
+			<td>
+				鲁口</td>
+			<td>
+				352~354</td>
+			<td>
+				王午</td>
+			<td>
+				吕护</td>
+			<td>
+				前燕帝国</td>
+		</tr>
+		<tr>
+			<td>
+				苏林帝国</td>
+			<td>
+				无极</td>
+			<td>
+				352~352</td>
+			<td>
+				苏林</td>
+			<td>
+				苏林</td>
+			<td>
+				前燕帝国</td>
+		</tr>
+		<tr>
+			<td>
+				刘晋王国</td>
+			<td>
+				平阳</td>
+			<td>
+				353~353</td>
+			<td>
+				刘康</td>
+			<td>
+				刘康</td>
+			<td>
+				前秦帝国</td>
+		</tr>
+		<tr>
+			<td>
+				北成都王国</td>
+			<td>
+				南郑</td>
+			<td>
+				365~366</td>
+			<td>
+				司马勋</td>
+			<td>
+				司马勋</td>
+			<td>
+				晋帝国</td>
+		</tr>
+		<tr>
+			<td>
+				弘汉王国</td>
+			<td>
+				广汉</td>
+			<td>
+				370~370</td>
+			<td>
+				李弘</td>
+			<td>
+				李弘</td>
+			<td>
+				晋帝国</td>
+		</tr>
+		<tr>
+			<td>
+				张蜀王国</td>
+			<td>
+				绵竹</td>
+			<td>
+				374~374</td>
+			<td>
+				张育</td>
+			<td>
+				张育</td>
+			<td>
+				晋帝国</td>
+		</tr>
+		<tr>
+			<td>
+				后燕帝国</td>
+			<td>
+				中山</td>
+			<td>
+				384~409</td>
+			<td>
+				成武帝慕容垂</td>
+			<td>
+				昭武帝慕容盛</td>
+			<td>
+				北燕帝国</td>
+		</tr>
+		<tr>
+			<td>
+				北燕帝国</td>
+			<td>
+				龙城</td>
+			<td>
+				409-431</td>
+			<td>
+				文成帝冯跋</td>
+			<td>
+				昭成帝冯宏</td>
+			<td>
+				北魏帝国</td>
+		</tr>
+		<tr>
+			<td>
+				西燕帝国</td>
+			<td>
+				华阴-阿房-长安-闻喜-长子</td>
+			<td>
+				384~394</td>
+			<td>
+				慕容泓</td>
+			<td>
+				慕容永</td>
+			<td>
+				后燕帝国</td>
+		</tr>
+		<tr>
+			<td>
+				后秦帝国</td>
+			<td>
+				北地-长安</td>
+			<td>
+				384~417</td>
+			<td>
+				武昭帝姚苌</td>
+			<td>
+				末主姚泓</td>
+			<td>
+				晋帝国</td>
+		</tr>
+		<tr>
+			<td>
+				鲜于赵王国</td>
+			<td>
+				行唐</td>
+			<td>
+				385~385</td>
+			<td>
+				鲜于乞</td>
+			<td>
+				翟成</td>
+			<td>
+				后燕帝国</td>
+		</tr>
+		<tr>
+			<td>
+				西秦王国</td>
+			<td>
+				勇士堡-金城-西城-苑川</td>
+			<td>
+				385~400</td>
+			<td>
+				宣烈王乞伏国仁</td>
+			<td>
+				武元王乞伏乾归</td>
+			<td>
+				后秦帝国</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				度支山-枹罕-南安</td>
+			<td>
+				409~431</td>
+			<td>
+				武元王乞伏乾归</td>
+			<td>
+				后主乞伏暮末</td>
+			<td>
+				胡夏帝国</td>
+		</tr>
+		<tr>
+			<td>
+				后凉帝国</td>
+			<td>
+				姑臧</td>
+			<td>
+				386~403</td>
+			<td>
+				懿武帝吕光</td>
+			<td>
+				吕隆</td>
+			<td>
+				后秦帝国</td>
+		</tr>
+		<tr>
+			<td>
+				后匈奴王国</td>
+			<td>
+				西平</td>
+			<td>
+				387~？</td>
+			<td>
+				康宁</td>
+			<td>
+				？</td>
+			<td>
+				？</td>
+		</tr>
+		<tr>
+			<td>
+				翟魏帝国</td>
+			<td>
+				黎阳-滑台</td>
+			<td>
+				388~392</td>
+			<td>
+				翟辽</td>
+			<td>
+				翟钊</td>
+			<td>
+				后燕帝国</td>
+		</tr>
+		<tr>
+			<td>
+				刘黎帝国</td>
+			<td>
+				皇丘</td>
+			<td>
+				389~389</td>
+			<td>
+				刘黎</td>
+			<td>
+				刘黎</td>
+			<td>
+				晋帝国</td>
+		</tr>
+		<tr>
+			<td>
+				魏揭飞王国</td>
+			<td>
+				杏城郊</td>
+			<td>
+				389~389</td>
+			<td>
+				冲天王魏揭飞</td>
+			<td>
+				冲天王魏揭飞</td>
+			<td>
+				后秦帝国</td>
+		</tr>
+		<tr>
+			<td>
+				法长帝国</td>
+			<td>
+				白狼城</td>
+			<td>
+				390~390</td>
+			<td>
+				法长</td>
+			<td>
+				法长</td>
+			<td>
+				后燕帝国</td>
+		</tr>
+		<tr>
+			<td>
+				窦秦王国</td>
+			<td>
+				野人堡</td>
+			<td>
+				393~393</td>
+			<td>
+				窦冲</td>
+			<td>
+				窦冲</td>
+			<td>
+				后秦帝国</td>
+		</tr>
+		<tr>
+			<td>
+				南凉王国</td>
+			<td>
+				廉川-金城-乐都-西平-姑臧</td>
+			<td>
+				397~414</td>
+			<td>
+				武王秃发乌孤</td>
+			<td>
+				景王秃发褥襢</td>
+			<td>
+				西秦王国</td>
+		</tr>
+		<tr>
+			<td>
+				北凉王国</td>
+			<td>
+				张掖-姑臧</td>
+			<td>
+				397~439</td>
+			<td>
+				段业</td>
+			<td>
+				沮渠牧犍</td>
+			<td>
+				北魏帝国</td>
+		</tr>
+		<tr>
+			<td>
+				南燕帝国</td>
+			<td>
+				滑台-广固</td>
+			<td>
+				398~410</td>
+			<td>
+				献武帝慕容德</td>
+			<td>
+				慕容超</td>
+			<td>
+				晋帝国</td>
+		</tr>
+		<tr>
+			<td>
+				南乌桓王国</td>
+			<td>
+				南皮</td>
+			<td>
+				398~399</td>
+			<td>
+				张超</td>
+			<td>
+				张超</td>
+			<td>
+				北魏帝国</td>
+		</tr>
+		<tr>
+			<td>
+				广秦王国</td>
+			<td>
+				乞活堡</td>
+			<td>
+				399~399</td>
+			<td>
+				苻广</td>
+			<td>
+				苻广</td>
+			<td>
+				南燕帝国</td>
+		</tr>
+		<tr>
+			<td>
+				西凉王国</td>
+			<td>
+				酒泉-敦煌</td>
+			<td>
+				400~421</td>
+			<td>
+				武宣王李暠</td>
+			<td>
+				李恂</td>
+			<td>
+				北凉王国</td>
+		</tr>
+		<tr>
+			<td>
+				张翘王国</td>
+			<td>
+				行唐</td>
+			<td>
+				402~402</td>
+			<td>
+				张翘</td>
+			<td>
+				张翘</td>
+			<td>
+				北魏帝国</td>
+		</tr>
+		<tr>
+			<td>
+				王始帝国</td>
+			<td>
+				泰山</td>
+			<td>
+				403~403</td>
+			<td>
+				王始</td>
+			<td>
+				王始</td>
+			<td>
+				南燕帝国</td>
+		</tr>
+		<tr>
+			<td>
+				桓楚帝国</td>
+			<td>
+				建康-江陵-涢县</td>
+			<td>
+				403~405</td>
+			<td>
+				武悼帝桓玄</td>
+			<td>
+				桓振</td>
+			<td>
+				晋帝国</td>
+		</tr>
+		<tr>
+			<td>
+				谯蜀王国</td>
+			<td>
+				成都</td>
+			<td>
+				405~413</td>
+			<td>
+				谯纵</td>
+			<td>
+				谯纵</td>
+			<td>
+				晋帝国</td>
+		</tr>
+		<tr>
+			<td>
+				胡夏帝国</td>
+			<td>
+				统万-上邽-平凉</td>
+			<td>
+				407~431</td>
+			<td>
+				烈武帝赫连勃勃</td>
+			<td>
+				赫连定</td>
+			<td>
+				吐谷浑汗国</td>
+		</tr>
+		<tr>
+			<td>
+				曹龙汗国</td>
+			<td>
+				蒲子</td>
+			<td>
+				413~413</td>
+			<td>
+				曹龙</td>
+			<td>
+				曹龙</td>
+			<td>
+				北魏帝国</td>
+		</tr>
+		<tr>
+			<td>
+				北晋王国</td>
+			<td>
+				河西</td>
+			<td>
+				414~414</td>
+			<td>
+				司马顺宰</td>
+			<td>
+				司马顺宰</td>
+			<td>
+				北魏帝国</td>
+		</tr>
+		<tr>
+			<td>
+				率善王国</td>
+			<td>
+				上党-河内</td>
+			<td>
+				415~416</td>
+			<td>
+				白亚栗斯</td>
+			<td>
+				刘虎</td>
+			<td>
+				北魏帝国</td>
+		</tr>
+		<tr>
+			<td>
+				曹弘汗国</td>
+			<td>
+				平阳</td>
+			<td>
+				416~416</td>
+			<td>
+				曹弘</td>
+			<td>
+				曹弘</td>
+			<td>
+				后秦帝国</td>
+		</tr>
+		<tr>
+			<td>
+				洮阳公国</td>
+			<td>
+				洮阳</td>
+			<td>
+				417~419</td>
+			<td>
+				彭利和</td>
+			<td>
+				彭利和</td>
+			<td>
+				北凉王国</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&#160;</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor4"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        细说五胡十六国</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<strong style="text-indent: 2em;">五胡内迁与独立</strong></p>
+<p style="text-indent: 2em; text-align: center;">
+	<img src="http://img.xixik.net/custom/section/chaodai/5hu16guo/xixik-fbeef98539186c92.jpg" style="width: 90%; max-width: 90%;" /></p>
+<p style="text-indent: 2em; text-align: center;">
+	<a href="http://114.xixik.com/chaodai/5hu16guo/" style="color:#000" title="五胡乱华">五胡乱华</a>前北方各族分布图</p>
+<p style="text-indent: 2em;">
+	自<a href="http://114.xixik.com/chaodai/han/" style="color:#000" title="东汉">东汉</a>中叶之后，朝廷常以招引或强制的方式，将边疆的北方各族内迁，以便监控各族或是增加兵源和劳动力。到了<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="西晋">西晋</a>时，中国北部、东部和西部，尤其是并州和关中一带，大量胡族与汉族杂住。史书记载“西北诸郡皆为戎居”，关中百万余口“戎狄居半”，对晋帝国呈现半包围形势。除了辽河流域的鲜卑和青海、甘肃的氐、羌外，大都由原住地迁来。</p>
+<p style="text-indent: 2em;">
+	这些胡族逐渐成为汉人管辖下的编户，由于他们需要纳税，且时时受汉官欺压或受汉人歧视，因此心生不满，时有举兵之事。270年晋武帝时，河西鲜卑秃发树机能与匈奴刘猛率众内侵，直至九年后始平。294年晋惠帝时，匈奴郝散叛，不久平定。两年后其弟刘度元以齐万年为首，联合西北马兰羌、卢水胡举兵，晋将周处阵亡，此事至299年方平。而后郭钦与江统相继建议强制迁离胡族，江统更著有《徙戎论》，但晋室不为采纳。由于胡汉摩擦的状况没有改善，当朝廷元气大伤后，周边胡族便趁机举兵。</p>
+<p style="text-indent: 2em;">
+	八王之乱的爆发，使晋廷失去在地方的影响力，胡族陆续叛变。晋惠帝时期，益州内乱，巴氐势力扩大。之后益州刺史罗尚击杀巴氐领袖李特。其子李雄继立后击败罗尚并称王，于306年称帝，国号“成”，史称成汉。匈奴刘渊统领五部匈奴，成都王司马颖结其为外援。304年司马颖遭王浚围攻，遣刘渊回并州发兵支援。他乘机宣布独立，称汉王，自称继承<a href="http://114.xixik.com/chaodai/han/" style="color:#000" title="汉朝">汉朝</a>正统。308年刘渊称帝并迁都至平阳，国号“汉”，后称前赵。304年成汉与汉赵的建立，开启了“<a href="http://114.xixik.com/chaodai/5hu16guo/" style="color:#000" title="五胡十六国">五胡十六国</a>时期”。</p>
+<p style="text-indent: 2em;">
+	八王之乱结束后，刘渊为了扩充版图，遣子刘聪掠夺洛阳，大将石勒及王弥掠夺关东各州。310年刘渊去世，刘聪杀新帝刘和自立为帝。同年，石勒经宛城、襄阳，掠夺江汉一带，隔年北返。当时关东发生蝗灾，洛阳缺粮，司马越弃晋怀帝于洛阳，率朝中重臣及诸将东行。而后怀帝动员诸将讨伐，司马越病逝，王衍率军归葬封国（在东海）。石勒趁王衍东行至苦县（今河南鹿邑县）时率军袭击，晋军精锐受屠尽亡，重臣降后被杀。刘聪、王弥及石勒趁洛阳空虚之际和兵攻破，杀害官员百姓三万余人，掳走晋怀帝，史称“永嘉之祸”。313年晋怀帝被杀，晋愍帝于长安继立帝位，刘聪派刘曜持续攻打。316年晋愍帝投降，最后受辱被杀，至此<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="西晋">西晋</a>亡，北方诸国纷纷成立。313年张轨控制凉州，封西平公，史称前凉。315年拓跋猗卢建立代国。334年慕容鲜卑据辽东立国。</p>
+<p style="text-indent: 2em;">
+	<strong>后赵内哄与前燕崛起</strong></p>
+<p style="text-indent: 2em;">
+	刘聪灭<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="西晋">西晋</a>后安逸豪奢，疏忽政事，当时曹嶷、石勒等将领分别占据山东及关东。实际范围只有山西和刘曜镇守的关中。318年刘粲继立，但遭靳准杀害夺权。刘曜与石勒得知后共同平乱，期间刘曜称帝，改国号为“赵”，史称前赵。石勒得知后也于襄国称赵王，史称后赵，双方决裂。刘曜平定上郡羌、仇池氐等关陇羌氐，威服前凉，雄踞关中。石勒则派石虎击败晋将段匹磾夺幽州，击败曹嶷夺青州。石勒雄踞关东后，于328年西征攻灭刘曜，前赵亡。两年后石勒称帝，国号亦为“赵”。前凉方面，由于战乱较少，难民纷纷前往安居，保存了晋代典章制度，久之形成“河西文化”。</p>
+<p style="text-indent: 2em;">
+	石勒为一时雄才，他得汉人张宾相助，安抚世族，重建经济。当时胡汉关系欠佳，石勒采胡汉分治，于<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>外另设大单于。称胡人为国人，汉人为赵人。但这样未能缓和双方关系，仍然有冲突发生。石虎于石勒去世后杀石弘自立为天王。他奢侈极淫，任意滥杀，又听信谗言，奴役非国人的汉人及“六夷”，后赵国势渐衰。因帝位等因素，石虎与其子石邃（太子）、石宣、石韬发生骨肉相残，宗室关系降至冰点。349年石虎称帝后，旧太子党人梁犊于关中叛变，石虎遣羌将姚弋仲及氐将苻洪平定，羌氐二族坐大。石虎去世后，诸子争位，残杀甚烈，后为养子冉闵夺得，于350年建国冉魏。他重用汉人，并鼓励诛杀羯人，造成大屠杀。冉闵欲联合<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>驱除胡族，但东<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="晋朝">晋朝</a>廷因为他称帝而将其视为敌人，反而支持向<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>称臣的鲜卑慕容俊。之后石祇于襄国称王，号招鲜卑、氐、羌等族抵抗冉闵，直至隔年后赵方亡。另外，346年<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>将领桓温攻击成汉（成汉于338年为李寿篡位，改国号为“汉”），次年讨灭，成汉亡。</p>
+<p style="text-indent: 2em;">
+	慕容鲜卑于晋室南渡后占据辽东。337年慕容皝称燕王，他击溃来犯的石虎，攻灭辽西段氏鲜卑，继而重创高句丽，其势壮盛。慕容俊继位后，乘后赵内哄之际发兵南侵。352年攻灭冉魏，冉闵兵败被杀，慕容俊称帝，建国前燕。先前前燕向<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>称臣，等冉魏灭后，慕容俊对<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>使者言道：“汝还白汝天子，我承人之乏，为中国所推，已为帝矣”。此时前燕据有关东，关中则为前秦据之。之后慕容俊又派慕容垂、慕容虔与平熙等北伐大破丁零（敕勒）。356年桓温北伐前燕，攻陷洛阳以及司、兖、青、豫四州，之后桓温返国，前燕复夺回四州。358年慕容俊下令全国州郡整顿户口，准备组织150万大军以灭<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>，但于隔年阅军时逝世。慕容暐继立后，以名将慕容恪辅政，期间慕容恪将<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>收复的洛阳攻下。但慕容暐穷奢极欲，国库逐渐掏空。慕容恪去世后由慕容评执政，他贪墨昏庸，国政更乱。369年<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>桓温率军北伐，进驻枋头（今河南浚县附近）。慕容垂率军严防，最后追击晋军，晋军大溃。战后慕容垂声名日盛，但遭慕容评排挤而投奔前秦。</p>
+<p style="text-indent: 2em;">
+	<strong>前秦的雄心</strong></p>
+<p style="text-indent: 2em;">
+	氐将苻洪在石虎去世后投降<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>，在后赵内哄时意图夺下关中，但遭人毒死。350年其子苻健成功夺下关中，建国前秦，与<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>断绝。之后<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>履次派褚裒、殷浩、桓温等率军伐之，苻健皆成功抵御，国势渐固。之后苻生继立，他淫杀无度，苻坚杀而代之。苻坚崇尚儒学，奖励文教。他得王猛辅政，得以集权中央，经济提升，国势大盛，史称“关陇清晏，百姓丰乐”。前秦强盛后，苻坚有意一统天下。当时前燕混乱，369年慕容垂投奔前秦。苻坚趁势派王猛、慕容垂率军于隔年成功灭燕，取得关东地区。随后于373年灭前仇池，376年灭代国（拓拔鲜卑）及前凉，前秦统一北方。</p>
+<p style="text-indent: 2em;">
+	在统一北方前，苻坚也开始入侵<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>，于373年攻下<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>梁益二州。五年后派苻丕攻下襄阳，俘虏朱序；派彭超围攻彭城，但被谢玄击败。383年派吕光西定西域，这是自<a href="http://114.xixik.com/chaodai/han/" style="color:#000" title="东汉">东汉</a>之后再度占据西域。前秦统一北方后，四周诸国遣使通好，此时只剩<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>，苻坚有意伐之。鲜卑慕容垂与羌将姚苌皆尽力支持苻坚，但王猛与苻融等氐族大臣则强烈反对。这是因为苻坚将诸胡迁入关中以便控制，又将氐族势力置于国内要冲，以巩固势力，此法却使京师空虚。而且他为人宽弘，亡国君臣皆授官位，但任其率领旧部，造成隐忧。</p>
+<p style="text-indent: 2em;">
+	王猛去世前告诫苻坚应该先整合好国内异族再南征，但苻坚仍一意孤行。383年5月桓冲率10万兵攻击襄阳，苻坚派苻睿、慕容垂等人防御。苻坚认为时机已到，于8月率举国之师南征<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>，兵分三路，声势浩大。他亲率步兵60万抵达项城，派苻融为先锋率27万兵攻打寿阳，梁成等人屯洛涧以控淮河。<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>谢安则命谢石、谢玄等人率8万北府兵北上救援。10月秦军前锋攻陷寿阳后，苻坚赶往指挥，并派朱序向谢石诸降劝降，但朱序尽泄秦军虚实。11月晋将谢玄派刘牢之率五千精兵攻破洛涧并率军西行，与秦军对峙淝水”。12月谢玄向苻坚建议后退决战。诸秦将认为阻敌淝水畔比较安全，但苻坚认为半渡而击可主动对决。当秦军后移时，晋军渡水突击，朱序于后军大喊秦军已败。此时秦军大乱，谢玄等人乘胜追击，秦军全面崩溃，苻融战死，苻坚中箭，孤身北返，后由慕容垂护送，史称淝水之战。</p>
+<p style="text-indent: 2em;">
+	<strong>诸国混战</strong></p>
+<p style="text-indent: 2em;">
+	北方<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>战争图，右上角的重骑兵是五胡的主要战力。由于前秦的主力在前方，京师兵力不足，关中的鲜卑、羌、羯等族在得知前秦大败后纷纷独立。隔年<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>发动北伐，攻下山东河南一带。至此前秦崩溃，北方再度回到诸雄混战的局面。淝水之战隔年（384年），各胡族纷纷独立。鲜卑慕容垂于河北复国，史称后燕；前燕皇族慕容泓与慕容冲于关中建国西燕；前秦羌将姚苌自立，建国后秦。第二年（385年）西燕军攻陷长安，苻坚最后被姚苌所杀。由于前秦邺城被后燕攻下，苻丕于晋阳继立。苻坚被杀后，镇守前秦勇士川（今甘肃榆中）的鲜卑将乞伏国仁自立，建国西秦。仇池氐杨定也宣布复国，并称藩于<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>，史称后仇池。</p>
+<p style="text-indent: 2em;">
+	第三年（386年）鲜卑拓跋圭于代地复国，国号“魏”，臣服于后燕，史称北魏。西定西域的前秦氐将吕光返国并占据凉州，在得知苻坚被杀后于姑臧（今甘肃武威）建国后凉。西燕的人民（鲜卑族）欲东归故乡而发生内乱，最后由慕容永率众东征占据并州（今山西省范围），建都长子。而前秦苻丕欲西行关中但被西燕帝慕容永所阻，南下东桓被<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>守将冯该杀死。前秦苻登于南安继立，据有陇西。三年内，北方八国并立，关陇地区有前秦、后秦、西秦、后凉、后仇池，关东地区则有后燕、西燕及北魏，维持了九年。</p>
+<p style="text-indent: 2em;">
+	关中方面，394年后秦帝姚兴及西秦帝乞伏干归灭前秦。400年后秦灭西秦，乞伏干归投降，受姚兴重用。在后凉投降后秦之后，关中暂时为后秦盘据。由于匈奴铁弗部刘卫辰因攻北魏战败而亡，其子刘勃勃（后改姓赫连）投奔后秦姚苌。407年赫连勃勃叛秦，于统万建国胡夏，并屡次攻击后秦，后秦国势大衰。乞伏干归趁机光复西秦，之后其子乞伏炽磐灭南凉，西秦占据陇西。416年12月后秦幼主姚泓初立，<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>刘裕发动第二次北伐，率王镇恶等将伐后秦。晋军连克许昌、洛阳。隔年攻破长安，后秦亡。之后刘裕因故返国，留守将领内哄，夏帝赫连勃勃趁机率军攻下长安，据有关中。另外，于405年建国谯蜀的谯纵，在刘裕第一次北伐后刘裕派朱龄石攻陷成都，谯蜀亡。</p>
+<p style="text-indent: 2em;">
+	河西方面，后凉分裂出南凉及北凉，由于四周强敌渐渐威胁，最后向后秦投降。397年秃发乌孤脱离后凉，建国南凉，最后南凉败于北凉和夏，为西秦所灭。同年匈奴别部卢水胡沮渠蒙逊拥汉人段业于张掖独立，401年沮渠蒙逊杀段业取代，史称北凉。405年后敦煌太守李皓（汉族）叛北凉，建国西凉，后亡于北凉。此时关陇地区有胡夏、西秦、北凉及后仇池四国。</p>
+<p style="text-indent: 2em;">
+	<strong>北魏崛起</strong></p>
+<p style="text-indent: 2em;">
+	北魏与南朝宋对峙图。关东方面，西燕在并州（今山西省范围）建国后，于394年被后燕帝慕容垂所灭。由于北魏帝拓跋圭派兵帮助西燕，所以隔年慕容垂派太子慕容宝北伐北魏。慕容宝于参合陂之战惨败给拓跋圭后，请求其父慕容垂为他雪耻。于是慕容垂于隔年亲率大军伐魏，攻陷平城，拓跋圭则率众北遁以回避之。但慕容垂于返途中去世，之后后燕逐渐衰弱。396年拓跋圭攻下并州，隔年慕容宝企图反击并州，最后被拓跋圭击败。而后拓跋圭大举入侵，围陷后燕首都中山，并迁都到平城。慕容宝则撤至根本之地龙城，后燕分裂为两地。此时慕容德不愿撤往北方，南下滑台，建国南燕，之后迁都至广固。后燕在慕容熙称帝后，君主昏庸，百姓劳苦，国家衰败。409年冯跋举兵杀慕容熙，拥高云为帝，建都龙城 ，之后冯跋继立，史称北燕。而南燕在慕容超继任后屡次攻伐<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>，最后于隔年被<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>的刘裕讨伐而亡。此时关东仅北魏、北燕两国。</p>
+<p style="text-indent: 2em;">
+	北魏拓跋嗣继立后，时常攻掠南朝宋（刘裕篡<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>后所建之国）的河南地。423年北魏拓跋焘继立，他励精图治，国力大盛。拓跋焘在解除北方柔然的威胁后，开始统一华北。北魏对各<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>的文化与制度采取包容态度，这减少北魏进军的阻碍，但也使北方民户复杂化。三年后拓跋焘大举伐夏，攻下关中，胡夏迁至平凉。430年西秦为北凉所逼，意图投降北魏，但隔年为夏帝赫连定所灭。赫连定意图再灭北凉以维持胡夏，但却被吐谷浑君主慕容慕璝袭击而俘虏，最后斩于北魏，胡夏亡。436年拓跋焘率军远征北燕，冯弘逃至高句丽，北燕亡，冯弘最后被杀。439年北魏大军围攻姑臧，沮渠牧犍出降，北凉亡。至此，北魏统一华北，进入“<a href="http://114.xixik.com/chaodai/nanbeichao/" style="color:#000" title="南北朝">南北朝</a>时期”。然而，还有后仇池未灭，直至443年方亡于北魏。</p>
+<p style="text-indent: 2em;">
+	<strong>疆域与<a href="http://114.xixik.com/xingzhengquhua/" style="color:#000" title="中国行政区划">行政区划</a></strong></p>
+<p style="text-indent: 2em;">
+	<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="西晋">西晋</a>末年，全国共有21州。十六国时期，北方诸国的范围大约是华北地区及四川地区。疆域的变更可分成五期，分别是：前赵、后赵、成汉及<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>时期；前燕、前秦及<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>时期；前秦<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>对峙时期；诸国混战与<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>时期，此时北方以后燕及后秦最盛；北魏、胡夏、北凉及<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>时期。</p>
+<p style="text-indent: 2em;">
+	虽然各国占地不大，但往往分置许多州，以致州境缩小。由于一些国家采胡汉分治的制度，所以设置各种族专属的行政区。例如前赵刘聪置左、右司隶及内史，用来统治汉人。单于左、右辅及都尉，则用来统治胡人。为求虚名，以表示境域广大，常将境外邻境的州增设于本国内。例如后燕设置雍州于长子（原属并州），成汉设置荆州于巴郡（原属梁州），南燕置并州于阴平（今江苏沭阳北）。所以往往多个国家同时拥有同名异地的州。北魏统一华北后即整合政区。由于州境缩小，郡失去意义而逐渐废除。</p>
+<p style="text-indent: 2em;">
+	此外，北方诸国会成立侨州郡县以安置流民，通常会依据流民原籍来定新州郡名。如前燕慕容廆立国于辽东时，他将投奔来的冀州人设冀阳郡、豫州人设成周郡、青州人设营丘郡、并州人设唐国郡。河西在<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="西晋">西晋</a>末已有为流民设置的郡县，在张轨为凉州刺史时，就为秦、雍流民设置武兴郡。405年，西凉李皓即为南人置会稽郡、中州人置广夏郡。这些郡县略同于<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>南朝的侨州郡县，只是使用大略的地名而非流民原籍。</p>
+<p style="text-indent: 2em;">
+	<strong>政治体制</strong><br />
+	　　十六国时代的统治的一个特色是胡汉分治，将汉人与胡人以不同的制度作统治。以汉赵（即前赵）为例，刘聪同时居<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>（汉人的君主）和单于（胡人的首领），汉人以户为单位设官统治，而胡人以落（指以帐篷营生的单位）为单位，设不同系统的官员来统治。另一个统治特色是，以种族、部族为中心的政军结构。</p>
+<p style="text-indent: 2em;">
+	许多国家延续原本游牧社会中，以部族和血缘为中心的体制，国家仅是各部族之间的联盟，因此各部族领袖在军政上有较高的权力，<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>的君权较不能如其他<a href="http://114.xixik.com/chaodai/" style="color:#000" title="历史朝代顺序表">朝代</a>那样直接透过官僚机构达成，也容易造成因宗室、部族领袖之间发生内讧而造成内战。前秦的苻坚和王猛即希望针对加以改革但尚未完全成功，后来北魏的拓跋圭将部落解散，设立新的统治机构，才逐渐减弱这种统治特色。<br />
+	许多五胡的君主如刘渊、苻坚等等皆深染中国文化，所以皆采用其文化如提倡儒术、禁止烝妻报嫂等等。九品中正制也继续使用，用来拔选世族（亦作士族）人才，使为己用。当时世族之所以和胡族君主合作，主要为了苟全性命，许多世族轻视胡族君主文化低落。甚至有些世族，告诫子孙不可将出仕胡族的经过写在墓碑上。</p>
+<p style="text-indent: 2em;">
+	石勒曾典定士族九法、慕容宝定士族旧籍、苻坚复魏晋士籍，皆用来承认世族权利。石勒每破一州，必集中世族于“君子城”或“君子营”，下令不可欺辱之。华北动乱时，众多人民逃往辽东，慕容皝设侨郡收留，并辨别世族清浊，后来这些世族成为前燕的基石。直到后燕、西燕及南燕仍然继续执行。前秦苻坚受谋士王猛影响，十分热爱汉文化。他在攻灭前燕后，即听王猛建议，重用关东世族。后来在王猛与众士大夫经营之下，前秦国力提升。苻坚也接受“大一统”的思想，发兵南征，但大败。北魏拓跋鲜卑自开国之初即重用清河崔氏，大约亦采用九品中正制，至拓跋焘时期已出现了“中正官”的记载。这些都助长北方世族的发展。&#160;</p>
+<p style="text-indent: 2em;">
+	<strong>军事制度</strong></p>
+<p style="text-indent: 2em;">
+	十六国时期的北方诸国多实行异族分治制度，或称为胡汉分治制度，在一国之中，实行两种不同的军政体制。对汉族人民，仍按汉族的传统方式进行统治。对少数<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>，则按各自的部落传统进行统治。在军队形式上大致同<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="西晋">西晋</a>兵制，具有中军、外军组织及都督、将领等职务。中军直属中央，编为军、营，主要保卫京师；外军为中央直辖的各州都督所统率的军队。</p>
+<p style="text-indent: 2em;">
+	在兵役制度方面，则是实行本族全民皆兵制度，并兼有魏晋世兵制的特点。只要是凡识于战斗的本族人民，皆作为军队基本兵力。其他人民方面皆实行征兵制，征发各郡、县的各族人民补充军队。其中汉族兵的来源，还包括来自投降的坞堡和招募的农民，一般都是终身为兵。&#160;</p>
+<p style="text-indent: 2em;">
+	<strong>社会</strong></p>
+<p style="text-indent: 2em;">
+	<a href="http://114.xixik.com/chaodai/5hu16guo/" style="color:#000" title="五胡乱华">五胡乱华</a>后，中原残破不堪，人民四处逃难，形成流民潮。诸国君主亦掠夺人口，以充实国力，深深破坏北方的社会结构。残留在北方的世族，在面对险恶的环境下，有些聚集乡民和自家的附属人口，建立坞堡以便自守。而流民也纷纷投靠，形成人数众多的部曲。有些则与诸国君主合作，以保本族安全。五胡君主在建国后，为了能够统治中原地区，也需要熟悉典章制度的士大夫（世族）的协助。由于处境艰困，北方世族对同族常存抱恤的温情，家族组织趋向大家庭制，有远来相投的<a href="http://114.xixik.com/qinqi/" style="color:#000" title="亲戚">亲戚</a>，莫不极力相助。在团结力量及参与政事后，北方世族并没有因战乱而衰落，反而经过长期相处，使胡人融入汉人文化中。<br />
+	坞堡是一个自给自足的社会组织，投奔的流民可以受坞堡保护。人民必须服从坞主命令，平时接受军事训练及农业生产，战时成为保卫坞堡的战士。人民的生产所得也须课税给坞主。坞主除负责生产与作战外，也要提倡教育及制定法律。由于坞堡众多又难攻破，往往会左右战局，使得五胡君主十分忌讳。例如祖逖在北伐时，由于与当地坞堡合作，最后成功收复黄河以南领土，与石勒隔河相持。五胡君主为了解决坞堡问题，往往会与其妥协以笼络之。到北魏宗主督护出现，坞堡的时代渐渐过去。&#160;</p>
+<p style="text-indent: 2em;">
+	<strong>人口</strong></p>
+<p style="text-indent: 2em;">
+	<a href="http://114.xixik.com/chaodai/5hu16guo/" style="color:#000" title="五胡乱华">五胡乱华</a>前北方各族分布图。在<a href="http://114.xixik.com/chaodai/han/" style="color:#000" title="东汉">东汉</a>至魏晋时期，北方各族陆续内迁至中原，与汉族一同居住，但是时常受到受汉官欺压或受汉人歧视。当时北方各族即受汉文化影响。如匈奴、氐族改用汉姓并学汉语及经书。中原也流行胡族文化，对于北方<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>的生活用具、服装及音乐均感兴趣，并普遍食用牛羊酪浆。</p>
+<p style="text-indent: 2em;">
+	<a href="http://114.xixik.com/chaodai/5hu16guo/" style="color:#000" title="五胡十六国">五胡十六国</a>时期北方各族更深入中原，当时在中原活跃的<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>有鲜卑、乌桓、高句丽、丁零、羯、南匈奴、匈奴别支铁弗及卢水胡、以及西部的羌、氐、巴人。这些<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>所建立国家属于渗透王朝。这些迁入的<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>与滞留北方的汉人产生“文化采借”，双方逐渐进行文化交流与<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>的融合，其中北方诸国的典章制度与礼仪法律几乎交由汉人制定。然而在交流中，因为思想冲突、种族纠纷及政治斗争等因素，时常发生破坏、屠杀等冲突。</p>
+<p style="text-indent: 2em;">
+	在游牧<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>入主中原的同时，连年的战乱使百姓向相对安定的地区迁移。成汉的益州（四川）、前凉的河西走廊、前燕的辽河流域吸引了大量难民，成为立国的基石。河西姑臧还成为丝绸之路上的经贸外来重镇。至于留在中原地区的人民则庇护在坞堡或是部落贵族。坞堡大多由世族豪强建立，主要作为军事防卫。世族豪强所拥有荫户不承担国家赋役，仅对坞主负有义务。为了保证国库收入和劳役来源，各族君主往往进行户口检查，将荫户复归于编户。</p>
+<p style="text-indent: 2em;">
+	当北方诸国一一灭亡之后，由于草原故乡被柔然等新兴<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>占据，而且已经适应中原文化与生活。所以这些<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>绝大部分没有退返草原，而是留在中原与汉族合为一体。<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>的融合直到北周、<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>方完成。在<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>南朝方面，中原汉人在衣冠南渡后，也和当地汉人、山越等百越诸族、及南方其他各<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>发生冲突及融合。在<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>统一中国后，南北汉人的界线逐渐模糊，融为一体。&#160;</p>
+<p style="text-indent: 2em;">
+	<strong>经济</strong></p>
+<p style="text-indent: 2em;">
+	鲜卑族的皮带扣，约3至4世纪之间。当时黄河南北与关中地区是遭受战祸最剧，经济破坏最为严重。当时人民不是依附坞堡，成为坞主的部曲。就是迁移至各国首都附近，提供生产或兵役用。各国也会互相掠夺人民、财富以充实国力或是补给军队。由于人民频繁的迁移，使得在初期难有经济发展。</p>
+<p style="text-indent: 2em;">
+	有些国家在稳定之后，开始发展经济。例如后赵石勒在崛起过程中，大厮杀掠。但在立国后开始发展经济，劝课农桑，颁布的税收却比<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="西晋">西晋</a>还轻，经济逐渐复苏。但在石虎统治之后，劳役汉人，挥霍无度，经济下滑。另外，有些国家早在开创时期就已经打下基础，做好内政，吸引不少流民投靠。早在成汉成立之前，已有大批流民投靠巴氐李氏。李雄建立成汉后，在他统治之下“事少役稀﹐百姓富实”，成为最安定的地区。前燕慕容皝在统治辽东时即仿照曹魏，开放荒地让流民种植。前凉统治的河西地区，由于相对中原较少战乱，大量流民投奔。农业、畜牧业都有所发展。丝路也能保持畅通，使得首都姑臧成为商旅往来的枢纽，渐渐发展出“河西文化”。</p>
+<p style="text-indent: 2em;">
+	前秦苻坚崇尚儒学，奖励文教。他任汉人王猛辅政，王猛发展经济，关中的农业、手工业和商业获得恢复和发展。使得前秦国势大盛，史称“关陇清晏，百姓丰乐”，打下统一华北的基础。前秦崩溃之后，后秦姚兴注重刑罚，惩治贪污，关中经济稍微恢复。之后西凉李皓在玉门关、阳关开垦荒地，史籍记载“年谷频登，百姓乐业”。北燕冯跋减轻赋役，南凉秃发乌孤注重农业，皆重视根据地的经济发展。</p>
+<p style="text-indent: 2em;">
+	<strong>文化</strong></p>
+<p style="text-indent: 2em;">
+	边疆各族在华北地区立国后，互相混战。在这些国家中，以前秦（氐族）和后秦（羌族）的文化最为兴盛，其次则是鲜卑慕容氏建立的前燕及后燕。此外，汉族张轨、李皓所建立的前凉和西凉，更是当时的文化中心，史称“河西文化”。各国的统治者为了维护政权的稳定也发展教育。前赵刘曜设置太学、小学，选拔人才。前燕慕容皝设置官学，并著教材《太上章》和《典诫》。后秦、南凉设置律学，召集地方散吏入学。这促使北方各族接受汉文化，对于<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>融合具有积极意义。&#160;</p>
+<p style="text-indent: 2em;">
+	<strong>宗教</strong></p>
+<p style="text-indent: 2em;">
+	麦积山石窟的大佛像佛教早就在<a href="http://114.xixik.com/chaodai/han/" style="color:#000" title="东汉">东汉</a>时期传入中国，当时由于儒教兴盛，所以没有广泛发展。等到十六国时期，北方动荡不安，以致人人厌苦、家家思乱。时而感到人生无常，精神缺乏寄托。此时五胡君主希望利用佛教教理的戒恶修善、六道轮回来安抚各族百姓，并借由属于外来宗教的佛教来支持其政权。最后佛教得以在北方流行，并与南方佛教互相交流。至于道教，虽然在<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="西晋">西晋</a>就有五斗米道（天师道）的出现，但在十六国时期衰弱下来。一直到十六国末期北魏的寇谦之改革道教，才有能力与佛教抗衡。</p>
+<p style="text-indent: 2em;">
+	&#160;当时从西域进入中土的僧侣，为数众多，或译经论，或弘教理。在佛图澄、道安及鸠摩罗什的推广下，为佛教奠定发扬的基石。五胡君主中，石勒、石虎、苻坚与姚兴等极力支持佛教发展。苻坚的从兄之子苻朗著有佛学论书《苻子》。佛图澄为西域僧人，他精通经文并擅长幻术。后赵的石勒、石虎奉他为“大和尚”，让他参与军政机要。并支持佛教发展，甚至下令不论华夷贵贱，都可以出家，开启汉人出家之端。道安为佛图澄的弟子，在晚年备受前秦苻坚的崇敬。他致力整理和翻译佛经，将长安经营成北方佛教的译经中心。他于襄阳编定《综理众经目录》，还为僧团制定法规，为寺院制度奠定基础。中国出家僧人改姓“释”，即是从道安开始。道安的弟子后来分布各地，成为传教的主要力量。</p>
+<p style="text-indent: 2em;">
+	鸠摩罗什为西域龟兹人。382年，前秦苻坚听从道安之建议，命大将吕光西征龟兹、迎接鸠摩罗什到长安。但后来前秦大乱，吕光随即割据凉州，鸠摩罗什留居凉州共十七年。直到401年，后秦姚兴得以迎至长安。鸠摩罗什备受姚兴尊敬，待以国师之礼。当时僧人群聚长安，在鸠摩罗什主持下共译出《般若经》和大乘中观学派的论书《中论》、《十二门论》、《百论》及《大智度论》、《法华经》等三十五部两百多卷经典。这些皆成为后来佛学教派和宗派所依据的主要法典。&#160;</p>
+<p style="text-indent: 2em;">
+	<strong>文学</strong></p>
+<p style="text-indent: 2em;">
+	《李柏文书》当时流传下来的诗及赋不多，可能因为艺术价值不高，所以流传不广。至于章奏符檄，《周书?王褒庾信传论》认为有可观之作，文风上接近<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="西晋">西晋</a>末年的风格。民歌方面，著名的大抵保存于《乐府诗集》的《梁鼓角横吹曲》。其中有出于氐族的《企喻歌》、出于羌族的《琅琊王歌辞》、出于鲜卑族的《慕容垂歌辞》。《晋书》的“载记”还保存一些当时的谚语，如流传于前秦的“长鞘马鞭击左股，太岁南行当复虏”、“河水清复清，苻诏死新城”等。</p>
+<p style="text-indent: 2em;">
+	该时期的作品以前凉和前秦的文人居多。前凉张骏著有乐府诗《薤露》、《东门行》两首，收录于《乐府诗集》。前凉大臣谢艾的奏疏曾被《文心雕龙》提到，他的文集可在《隋书?经籍志》看到。西凉李皓所著的《述志赋》载于《晋书》本传，这篇赋表现出他建功立业的志趣和对西凉局势的懮虑，内容颇有文采。前秦赵整著有两首五言四句诗，用比兴的手法讽谏苻坚。他还有一首琴歌《阿得脂》是杂言体，有些字句难解，大约杂用氐语。苻坚的侄子苻朗为散文家，作有《苻子》，其中有不少片断颇具文学意味。女诗人苏蕙的《织锦回文诗》虽然有文字游戏的意味，但仍表现出遣词用语的功力，成为流传不绝的佳话。另外，后秦宗敞为王尚申辩的奏章，被吕超认为可与曹魏的陈琳、徐干，以及<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="西晋">西晋</a>的潘岳、陆机相比。后秦胡义周为赫连勃勃作《统万城铭》，获《周书?王褒庾信传论》赞扬为典雅庄重。&#160;</p>
+<p style="text-indent: 2em;">
+	<strong>艺术</strong></p>
+<p style="text-indent: 2em; text-align: center;">
+	<img  src="http://img.xixik.net/custom/section/chaodai/5hu16guo/xixik-7ab233aafaabfe2e.jpg" /></p>
+<p style="text-indent: 2em; text-align: center;">
+	第275窟壁画</p>
+<p style="text-indent: 2em;">
+	<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>的大融合带来艺术文化的交流与整合，由于多元<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>文化的渊源，不仅增补了固有文化停滞的不足，更可以强化文化新生发展的生机。由于佛教的兴盛，带动石窟雕像的发展。这个时期最突出的建筑类型是佛寺、佛塔和石窟。</p>
+<p style="text-indent: 2em;">
+	佛教的兴盛带来高层佛塔的建筑以及印度、中亚一带的雕刻、绘画艺术。使当时的石窟、佛像、壁画等有了巨大发展，将汉代比较朴直的风格，变得更为成熟、圆淳。位居中国四大石窟的敦煌莫高窟和麦积山石窟，都是在十六国时期建造。</p>
+<p style="text-indent: 2em;">
+	麦积山石窟始建于后秦时期（约384年前后），素有“东方雕塑陈列馆”美誉。敦煌莫高窟则建于前秦时期，是世界上现存规模最大、内容最丰富的佛教艺术地，以精美的壁画和塑像闻名于世。由于当时敦煌与西域各国交流频繁，使得早期的莫高窟包含河西文化及西域艺术的风格。其中属于十六国时期的275窟，绘有本生、佛传等故事画。这些绘画以圈圈晕染的方式凸显出人体特征，并以细线勾勒，画风豪放生动，是当时壁画的典型风格。</p>
+<p style="text-indent: 2em;">
+	书法方面，著名的作品有前凉的《李柏文书》、前秦的《譬喻经》、西凉的《十诵比丘戒本经》和《妙法莲华经》等。其中《李柏文书》与<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>王羲之的《姨母帖》皆保存行、楷书变迁过程，对书写考究与风格变化有很高的参考价值。其他作品则介于书、楷之间。至于碑刻方面，著名作品有前秦的《广武将军碑》及《郑太尉祠碑》、北凉的《沮渠安周造像碑》等。其字体大多在隶、楷之间，风格墣茂古拙。《沮渠安固造像碑》为沮渠安固在高昌所立，原石在新疆吐鲁番高昌故城出土。《广武将军碑》则于前秦建元四年（368）刻。笔划浑朴，结构拙厚，天趣浑成。书法家于右任曾作《广武将军歌》以推崇之。由于前秦碑文稀少，所以此碑与《邓太尉祠碑》皆备受珍惜。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor5"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        五胡十六国简要脉络</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<span style="text-indent: 2em;">1、引火者汉国（304-329年）。<a style="color:#000" title="西晋" href="http://114.xixik.com/chaodai/jin/">西晋</a>末年八王之乱，匈奴人刘渊第一个起兵建国，打破<a style="color:#000" title="西晋" href="http://114.xixik.com/chaodai/jin/">西晋</a>首都，先后俘虏了两个<a style="color:#000" title="西晋" href="http://114.xixik.com/chaodai/jin/">西晋</a><a style="color:#000" title="皇帝" href="http://114.xixik.com/chinese-emperors/">皇帝</a>，建立了汉国。其族侄刘曜后来改汉为赵，后世为了与后赵区别，称其为前赵。前赵与汉都是匈奴刘氏所建，故而实际上是一个国家。</span></p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/chaodai/5hu16guo/xixik-4796c8ff91641301.jpeg" style="margin: 10px; float: right; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	2、奴隶翻身把歌唱的后赵（319-352年）。羯族人石勒出身贫贱，一度被卖为奴隶。他于困苦中奋斗，从低级军官做起，逐步崛起为刘渊手下的大将，后来脱离汉国的控制，遂建国于河北，称赵国<a style="color:#000" title="皇帝" href="http://114.xixik.com/chinese-emperors/">皇帝</a>。前后二赵为争夺北中国的控制权爆发大战，刘曜敌不过精明强干的石勒，酒后出战被生擒，其国遂亡。石氏后赵遂统一了北方。石勒虽是胡人，但心向汉化，恢复了太学，实行<a style="color:#000" title="西晋" href="http://114.xixik.com/chaodai/jin/">西晋</a>选官的故制，国力一时很是兴旺。后来石勒病死，暴君石虎上台，国内连续暴发内乱。石虎的义子冉闵恢复汉姓，颁布杀胡令，灭亡了后赵。</p>
+<p style="TEXT-INDENT:2em">
+	3、杀不绝的慕容氏前燕（337-370年）。后赵崩溃后，慕容氏趁机杀进河北，灭亡有霸王再世之称的猛男冉凉，建立了前燕政权。前燕的人才配置是<a style="color:#000" title="五胡十六国" href="http://114.xixik.com/chaodai/5hu16guo/">五胡十六国</a>最劲爆的，太原王慕容恪德行、才略北朝威服域外，其弟慕容垂号称北朝第一名将，另一弟弟慕容德亦一时之才俊。只可惜人才太多，引起族内互掐，慕容恪死后，慕容垂受<a style="color:#000" title="皇帝" href="http://114.xixik.com/chinese-emperors/">皇帝</a>猜忌而雪藏起来，国家被弄的乌烟瘴气，西边的强敌前秦正逢苻坚、王猛这对无敌组合当政，秦兵东侵，前燕灭亡。</p>
+<p style="TEXT-INDENT:2em">
+	4、空前庞大的帝国前秦（350-394年）。前秦与慕容氏差不多同时崛起，其开国首领苻洪、苻生等都是中人之才，到了苻坚时突然爆发。苻坚用人号称人尽其才，又一改苻生残暴统治之道，任用汉人名士王猛推行汉制改革，苻坚又以汉人天子自许，立志要统一天下。他在位期间先灭前燕，又灭后凉、代国（北魏的前身），势力空前强盛。只是苻坚屡胜而骄，不顾内部隐患，强行发动九十多万大军南征<a style="color:#000" title="东晋" href="http://114.xixik.com/chaodai/jin/">东晋</a>，结果淝水一战大败，国内<a style="color:#000" title="民族" href="http://114.xixik.com/minority/">民族</a>矛盾激化，前秦迅速崩溃。</p>
+<p style="TEXT-INDENT:2em">
+	5、贼眉鼠眼的后秦（384-417年）。后秦系羌人姚苌所建，地盘大致包括今山西、陕西、甘肃一部、宁夏、河南一部。羌族入中原虽然很早，但实力一直不强，在<a style="color:#000" title="东晋" href="http://114.xixik.com/chaodai/jin/">东晋</a>和诸胡的夹缝中生存。姚苌做噩梦被苻坚鬼魂吓病，死后又经姚兴一代，人才匮乏，又没什么实力，第三代<a style="color:#000" title="皇帝" href="http://114.xixik.com/chinese-emperors/">皇帝</a>姚泓即位时爆发内乱，<a style="color:#000" title="东晋" href="http://114.xixik.com/chaodai/jin/">东晋</a>遂发兵北伐，消灭后秦。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/chaodai/5hu16guo/xixik-46e86022fee03d33.jpeg" style="margin: 10px; float: right; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	6、第一次复活的慕容氏国家后燕（384-409年）。前燕遗老慕容垂与姚苌同时造了前秦的反，不过他没有对苻坚恩将仇报。慕容垂年近花甲才恢复了前燕疆土，建立后燕。然而此时新兴的鲜卑国家北魏崛起于北方草原，慕容垂死后其子慕容宝才能低下，被北魏灭亡。</p>
+<p style="TEXT-INDENT:2em">
+	7、第二次复活的慕容氏国家南燕（398-410年）。后燕灭亡，慕容德无力挽回败局，于是带兵跑到山东，又建立一个燕国，史称南燕。南燕地域狭小，到了后主慕容超时，不自量力地招惹<a style="color:#000" title="东晋" href="http://114.xixik.com/chaodai/jin/">东晋</a>，结果被气吞万里如虎的刘裕派兵灭掉，慕容超被斩于建康。</p>
+<p style="TEXT-INDENT:2em">
+	8、改名换姓的北燕（409-436年）。后燕崩溃后，慕容云（末帝慕容宝的养子）逃到龙城，延续燕国的名号。慕容云本姓高，称王后恢复本姓。这个小国承后燕大乱之余绪，君弱臣强，高云后来被近侍所杀，权臣冯跋平定叛乱自立为王。后来其国被北魏所灭。</p>
+<p style="TEXT-INDENT:2em">
+	9、被陕西克死的西秦（385-431年）。乞伏国仁是陇西的鲜卑族人，起初隶于前秦，前秦崩溃后，乞伏国仁遂据今甘肃南部和青海东部建立秦国，史称西秦。西秦中间被刚刚崛起的后秦灭亡过一次，复国后称雄于西北，灭亡了秃发傉檀。立国四十六年后，被新兴于陕北的大夏灭亡。</p>
+<p style="TEXT-INDENT:2em">
+	10、游击战国家大夏（407-431年）。开国君王赫连勃勃系匈奴人，其部族起初隶属于后秦，但赫连勃勃人如其名，野心勃勃地要反客为主消灭后秦。他采用游击战术频频消耗后秦实力，后秦无可奈何。后来<a style="color:#000" title="东晋" href="http://114.xixik.com/chaodai/jin/">东晋</a>北伐消灭后秦，赫连勃勃又乘虚进占关中，一举成为关中陇西最强国家。勃勃死后诸子争位，其国亡于北魏。</p>
+<p style="TEXT-INDENT:2em">
+	11、北方硕果仅存的汉人国家前凉（301-376年）。<a style="color:#000" title="五胡乱华" href="http://114.xixik.com/chaodai/5hu16guo/">五胡乱华</a>时，<a style="color:#000" title="西晋" href="http://114.xixik.com/chaodai/jin/">西晋</a>原凉州刺史张轨保境自守，趁着南渡的<a style="color:#000" title="东晋" href="http://114.xixik.com/chaodai/jin/">东晋</a>和中原诸胡无暇顾及，实质上自为一国。张氏前凉持续了七十六年，先后击退了前赵和后赵的进攻，后来抵挡不住胡人的连番进攻，又加上内政紊乱，终于被前秦灭亡。</p>
+<p style="TEXT-INDENT:2em">
+	12、老母鸡孵小鸡的后凉（386-403年）。前秦大将吕光奉命西征，消灭了前凉张氏王朝，恰逢前秦崩溃，吕光便据凉州自立为王，是为后凉。后凉与秃发傉檀和沮渠蒙逊两个凉互相攻伐，国力日衰，立国十三年后，<a style="color:#000" title="皇帝" href="http://114.xixik.com/chinese-emperors/">皇帝</a>吕隆招架不住两个凉的围攻，自废其国，东奔长安投靠后秦，其国遂亡。后凉统治凉州期间，由于国势日衰，一大批大臣叛离其国，建立了北凉、西凉、南凉，故而称吕氏后凉为孵小鸡的老母鸡。</p>
+<p style="TEXT-INDENT:2em">
+	13、军事政权南凉（397-414年）。南凉是河西鲜卑人所建，吕光灭前凉时，秃发乌孤趁势崛起于今甘肃西部和宁夏一带，这个小国处于后凉、西秦、北凉等国之间，无日不征，被西秦打了一次偷袭遂告灭亡。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/chaodai/5hu16guo/xixik-373a266a1b7ee986.jpeg" style="margin: 10px; float: right; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	14、特别好战的北凉（397-439年）。北凉开始由后凉的大臣段业所建，后来大权为匈奴人沮渠蒙逊所建，沮渠蒙逊是诸凉国主中最有雄才的一位，他在位期间连年与南凉死磕，拿下了南凉的首都。又使声东击西之计，消灭了李氏西凉。其国大致在新疆南部、甘肃西北部一带，位置偏北，与南凉南北南对，对而称北凉。后来被强盛的北魏所灭。</p>
+<p style="TEXT-INDENT:2em">
+	15、李唐的祖先西凉（400-421年）。号称是<a style="color:#000" title="汉朝" href="http://114.xixik.com/chaodai/han/">汉朝</a>飞将军之后的李暠，出身于后凉，在凉州西部建立凉国，史称西凉，其国地域西广而东狭。西凉与北凉地盘相接，连年互殴，最后被北凉所灭。<a style="color:#000" title="唐朝" href="http://114.xixik.com/chaodai/tang/">唐朝</a>建立后，追凉武昭王李暠为始祖。</p>
+<p style="TEXT-INDENT:2em">
+	16、南方唯一的小国成汉（304-347年）。成汉是氐人李氏所建，晋惠帝时四川大乱，李特李流兄弟率胡汉流民造反，杀晋益州刺史而自立。成汉势力局限在四川一隅，自知无法与<a style="color:#000" title="东晋" href="http://114.xixik.com/chaodai/jin/">东晋</a>和北方诸国抗衡，因而闭门自守，过了四十六年太平日子，民生赖以安定繁荣，后来被<a style="color:#000" title="东晋" href="http://114.xixik.com/chaodai/jin/">东晋</a>权臣桓温率军消灭。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor6"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        五胡十六国文化</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<strong><a style="color:#000" title="五胡十六国" href="http://114.xixik.com/chaodai/5hu16guo/">五胡十六国</a></strong>时期最典型的就是文化冲突。当时北方胡人数量猛增，关中百万人口中“戎狄居半”（《晋书》），十分昌盛。游牧民族由于生存环境和发展滞后等因素，有着自己独特的风俗文化。比如匈奴习俗“父死，妻其后母;兄弟死，皆取其妻妻之”（《史记》），鲜卑也是“俗妻后母，报寡嫂，死则归其故夫”（《后汉书》）。况且对于他们，生存是第一位的，女人没有躲在后方的资本，也一样要抛头露面，所以男女之间禁忌就少。</p>
+<p style="TEXT-INDENT:2em">
+	文化总是相互影响的，胡人在不断吸收汉族先进文化的同时，也势必给中原带来不同的异域风情，同样影响着中原的汉文化。胡人风俗本是中原汉人所不齿的，然而见得多了，耳濡目染，也就见怪不怪，况且胡汉也多通婚，就让这些习俗文化不断融合。比如汉人过去穿衣是上衣下裳，胡人因为要骑马，是上衣下裤，要利索得多，于是汉人也就效仿。又比如，晋武帝时，“中国相尚用胡床貊盘，及为羌煮貊炙，贵人富室，必畜其器”（《晋书》），胡人的玩意儿受到贵族追捧，不能不说是受到胡风的影响。有一阵子，北方汉人还以说胡语为荣，既说胡语，未必就不会不办胡事。</p>
+<p style="TEXT-INDENT:2em">
+	这个时期男女关系开放的一个最主要的原因，是人口的大量减少。自汉末以来，战争一直持续，到<a style="color:#000" title="五胡十六国" href="http://114.xixik.com/chaodai/5hu16guo/">五胡十六国</a>时达到顶峰，据《通典》记载，三国时，全国总共有“户百四十七万三千四百三十三，口七百六十七万二千八百八十一”，人口已是少得可怜。到晋末乱世，人口更是降至秦汉以来的最低点。也就巧了，你说那时候人祸多吧，天灾也跟着凑热闹，瘟疫、洪水、地震屡屡发生，那才叫水深火热，好多地方赤地千里，绝无人烟，人们的生存环境受到严重挑战。有人的地方粮食也不够吃，以至于出现“人相食”（《通鉴》）的惨剧。“仓廪实而知礼节，衣食足而知荣辱”，衣不蔽体、食不果腹，连饭都没的吃，谁还有心思去顾忌劳什子的寡义廉耻。</p>
+<p style="TEXT-INDENT:2em">
+	在这种情况之下，各国之间的征战，除了占地盘，就是抢人口，什么叫政权，光有地盘没人，你给谁当<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>?就像有个大宅子住着，连个保姆女佣都没有，优越感何来?<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>不光是给大臣当的，他还需要老百姓的顶礼膜拜，还需要劳动力给他们创造财富，需要有人服兵役，去打仗，没有人口是不行的。所以，增加人口成为这一时期的一个主要问题，生育自然就被摆在了第一位（这很容易理解，我们现在人口多了，不是把计划生育摆到第一位吗?一样）。官方为增加人口，采取了很多措施，比如晋武帝泰始九年（亦即公元273年），颁诏“制女年十七父母不嫁者，使长吏配之”（《晋书》），到17岁还不嫁政府就给你安排了。所以那时候没有晚婚的，更不会有剩女，啥歪瓜裂枣的都是宝贝，缺人啊。以生育为主，男女之间的禁忌就要撇到一边。而且战争造成男子大量死亡，女人不得不抛头露面，顶替男子做些事情，男女之间的接触就多了，好多不该发生的故事也就开始发生了。</p>
+<p style="TEXT-INDENT:2em">
+	思想风向标的偏移，也是这个时期不可忽视的一个现实问题。战争灾祸让人感到迷惑，生命的无常让人精神空虚。于是人们不再信奉儒法，开始崇尚黄老，大兴玄学之风。体现在生活上，则追求奢靡，讲究享受，今朝有酒今朝醉。并探寻养生之法，追求房中之术。男人放开了，就需要女人配合，于是“放纵情性，及其终极”，晋惠帝元康年间，“贵游子弟相与为散发倮身之饮，对弄婢妾”（《晋书》），如此开放，令人咋舌。大家熟知的“韩寿偷香”的故事也发生在这个时期，思想的开放，也让男女关系愈加开放。</p>
+<p style="TEXT-INDENT:2em">
+	这个时期还有两个不容忽视的社会问题：一是同性恋盛行。如“咸宁、太康之后，男宠大兴，甚于女色，士大夫莫不尚之，天下相仿效”（《晋书》），思想解放的程度着实不低。二是流民的增多。流民必是男女混杂，居无定所。什么事情你越禁止，就越觉得神秘，不禁反而也没什么大不了的。男女同吃，甚至一同露宿野外，加上衣不蔽体，让男女之间不但不避讳，甚至也不再有什么羞怯可言，毕竟生存是第一位的。</p>
+<p style="TEXT-INDENT:2em">
+	其实，只要看看这个时期的诗歌作品，其男女开放的程度，便也略窥一二。孙绰的《情人碧玉歌》中写到：“碧玉破瓜时，相为情颠倒。感郎不羞赧，回身就郎抱”，已是火辣辣的情与爱了;杨方的《合欢诗》，有“居愿接膝坐，行愿携手趋。子静我不动，子游我无留”，也够腻乎的;鲍照《代淮南王》中，“愿逐明月入君怀”、“怨君恨君恃君爱”，爱情的表达则更为炽烈奔放。甚至后来还有艳情文学问世，阳俊之“多作六言歌辞，淫荡而拙，世俗流传，名为《阳五伴侣》”，自己搞印刷出版，“写而卖之，在市不绝”（《北史》），属于畅销书之列，当时若有福布斯作家排行榜，其销量定然高居榜首无疑。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor7"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        五胡最终归向何方？</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	五胡乱华并不是从其字面上的五个民族，而是匈奴、鲜卑、羯、氐、羌为代表的上百个民族。只是这五族恰好站在舞台的正中央罢了。五胡也迎来的他们殊途同归的结局，融进了中华民族的大家庭中。</p>
+<p style="TEXT-INDENT:2em">
+	匈奴：汉朝南北匈奴分裂时，北匈奴可能迁往了欧洲，建立了匈奴汗国，从而导致了日耳曼民族的大迁移，间接的灭亡了西罗马帝国。南匈奴在十六国时期，建立前赵、北凉政权。衰落后，逐渐融入各民族之中。隋唐以后，不再有记载。</p>
+<p style="text-indent: 2em; text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/chaodai/5hu16guo/xixik-7ff14f2e92ea0974.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	羯：后赵被冉魏灭亡后，羯族作为俘虏几乎屠杀殆尽，仅剩下万人左右投靠了鲜卑人，后来鲜卑内乱时候攻击鲜卑人，被鲜卑人报复，于是投降南梁，但没多久就爆发侯景之乱，最终被陈霸先率兵伐灭。</p>
+<p style="text-indent: 2em; text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/chaodai/5hu16guo/xixik-7dac4d5278e0e129.jpeg" style="text-align: center;" /></p>
+<p style="TEXT-INDENT:2em">
+	鲜卑：鲜卑族建立前燕、后燕、南燕、西秦等政权后，部落大都解体，人民多转向定居农业生产，随着封建化进程的加深，同各民族的融合加快。到了隋唐时期，鲜卑作为民族实体融入到其他民族中，逐渐消亡。</p>
+<p style="text-indent: 2em; text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/chaodai/5hu16guo/xixik-8b53d078695b1c03.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	 </p>
+<p style="TEXT-INDENT:2em">
+	氐族，源自巴蜀，定居农耕的少数民。曾在符坚领导下统一了北方，建立前秦，但很快与东晋战于淝水，惨败之后，群胡内乱，苻坚身死国灭。氐族建立的政权对汉文化接受程度较深，加上人数较少，受杀胡令影响较少，后来基本融于汉族。</p>
+<p style="text-indent: 2em; text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/chaodai/5hu16guo/xixik-f7e60374fd4794c8.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	羌族，历史最悠久的少数民族，传说姜子牙都有羌族血统。五胡乱华中主要是羌族的一支南安姚氏。他们后来建立的后秦，最终被鲜卑所灭。总体来说羌族汉化程度很高，一部分同化于汉族和藏族，另一部分形成了今天的羌族。</p>
+<p style="TEXT-INDENT:2em">
+	羌、氐：氐建军立成汉、前秦、后凉等政权，羌建立后秦。政权灭亡后，原本生活在青藏高原的几支，在唐初年间被松赞干布统一建立了吐蕃王国，消失在历史中；另外南迁的一部分在云贵高原形成六诏，最终统一为南诏。南诏灭亡后分裂为各个民族。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+    </div>
+    <script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        var value = '67';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script>
+    <div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/chaodai/5hu16guo/" target="_self" title="五胡十六国_五胡乱华_中国朝代顺序表_中国历史">五胡十六国</a></div>
+    <ul style="width: 960px; margin: auto; overflow: hidden;">
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/lixi/"
+                title="人民币存款利率表，2019银行利息，银行存款利率，银行贷款利率">银行存款利息</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chaodai/zhou/"
+                title="周朝历史_西周历史_东周历史_周朝帝王列表">周朝历史</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证更换新政策_过期了该怎么办？">中国旅行证</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国历任总统名单_美国总统简历生卒年份及所属党派">美国历任总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/baijiaxing-qq/"
+                title="百家姓qq头像,百家姓qq头像闪图大全_百家姓中国心qq头像">百家姓QQ头像</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="美宝证件_美宝需要哪些证件（美国出生纸_中国旅行证_美国护照_社会安全号_出生纸三级认证）">美宝需要哪些证件？</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_去美国生孩子费用预算清单2019">赴美生子要多少钱</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/obama/"
+                title="奥巴马_美国总统奥巴马_贝拉克·奥巴马(Barack Hussein Obama)_第44任美国总统">奥巴马</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/trump/"
+                title="美国总统特朗普_唐纳德·约翰·特朗普_Donald John Trump_第45任美国总统川普">特朗普</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_去美国生孩子要多少钱？">赴美生子费用</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 中国护照免签证国家2019">中国护照免签证</a> </li>
+        
+    </ul>
+
+    <div class="lindBox">
+        <div class="btnGray">
+            <div class="btnText">
+                <a target="_self" title="五胡十六国_五胡乱华_中国朝代顺序表_中国历史" href="http://news.xixik.com/word/67/">另存为<br />
+                    Word格式</a>
+            </div>
+        </div>
+    </div>
+    <div class="lindBox" style="text-align: center;">
+        <img src="http://news.xixik.com/qrcode/67/" alt="扫码手机上继续看" /><br />
+        <br />
+        <strong>用微信或者支付宝扫码在手机上继续观看<br />
+            可以保存收藏，也扫码后可以分享给好友
+        </strong>
+    </div>
+    <hr style="height: 1px; border: none; border-top: 1px dashed #999;" />
+    <script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script>
+<!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.-->
+
+</body></html>

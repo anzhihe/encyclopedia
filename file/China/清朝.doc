@@ -1,0 +1,1097 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <title>清朝历史_清朝皇帝列表_清朝历代皇帝简介_中国历史朝代</title>
+    <link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" />
+    <meta name="description" content="清朝历史(1616年—1912年),清朝历年268年,那清朝有几个皇帝?清朝第一个皇帝名字是?清朝历代皇帝皇后有几位?清朝皇帝在位时间及排序如何?清朝皇帝列表,清朝历代皇帝简介,中国历史朝代." />
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/chaodai/qing/">
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <base target="_blank" />
+    
+    <script>
+        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "chaodai/qing/";
+        }
+
+
+    </script>
+    <style>
+        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style>
+</head>
+<body>
+    <a name="top4"></a>
+    <div class="topBox" name="top">
+        <div class="topMain">
+            <div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div>
+            <div id="icoPhone"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div>
+            <div id="icoWechat"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a> </div>
+            <div id="icoSina"></div>
+            <div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a>  </div>
+            <div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div>
+            <div class="topRight">
+            </div>
+        </div>
+    </div>
+
+    <div id="showqrCode">
+        <div><span></span></div>
+        <img src="" /><div><span></span></div>
+    </div>
+    <script type="text/javascript">
+        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script>
+    <div class="body">
+        
+        <div class="lindBox" style="position: relative;">
+            <img src="http://img.xixik.net/custom/topic/001/chaodai-qing.jpg" alt="清朝历史_清朝皇帝列表_清朝历代皇帝简介_中国历史朝代" />
+            <div class="title">
+                <h1>清朝历史_清朝皇帝列表_清朝历代皇帝简介_中国历史朝代</h1>
+            </div>
+        </div>
+        
+
+        <div class=" custom_border lindBox">
+            <div class="special_content">
+                <div class="content_text">
+                    <div class="content_daodu">
+                    </div>
+                    <h2 style="border-bottom:1px dashed #999; displayinline;">清朝</h2>
+                    <p>
+	<strong>清朝</strong>是中国最后一个封建朝代。从1636年皇太极称帝开始，到<a href="http://www.xixik.com/content/6fd3be3f2189c843" title="清帝退位">1912年2月12日，袁世凯迫使宣统帝溥仪颁布退位诏书</a>，<a href="http://114.xixik.com/chinese-emperors/qing/" title="清朝皇帝列表">清朝历十二帝</a>，享国祚二百六十八年。清朝政治上专制的极端化，对内思想的禁锢文字狱，对外闭关锁国的政策，中止了明末的西学东渐。清朝对中国的祸害是罪深重的，是中国社会发展的绊脚石，导致近代中国落后于西方，是最不值得称颂的朝代。清朝之后从此中国不再有皇帝了，但是无形的帝王思想却存在民众心中。</p>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="lindBox" style="overflow: hidden;">
+            <div class="gg1">
+                <a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a>
+            </div>
+            <div class="guide">
+                <div class="guideBorder" id="guideBorder">
+                    <div class="guideTitle">导读（目录）</div>
+                    <ul id="guideDisplay">
+                        
+                                <li>·<a title="清朝历史" href="#anchor1" target="_self"> 清朝历史</a></li>
+                            
+                                <li>·<a title="清朝皇帝列表及简介" href="#anchor2" target="_self"> 清朝皇帝列表及简介</a></li>
+                            
+                                <li>·<a title="百姓无不怀念我大清" href="#anchor3" target="_self"> 百姓无不怀念我大清</a></li>
+                            
+                                <li>·<a title="清朝历史大事记" href="#anchor4" target="_self"> 清朝历史大事记</a></li>
+                            
+                                <li>·<a title="权臣难以造反，太监无法干政的清朝" href="#anchor5" target="_self"> 权臣难以造反，太监无法干政的清朝</a></li>
+                            
+                    </ul>
+                    <div class="guideOpen">展开&darr;</div>
+                </div>
+            </div>
+
+            <div class="guideFllow">
+                <div class="guideFllowBorder">
+                    <div class="guideFllowTitle">导读（目录）</div>
+                    <ul id="guideFllowDisplay">
+                        
+                                <li>·<a title="清朝历史" href="#anchor1" target="_self"> 清朝历史</a></li>
+                            
+                                <li>·<a title="清朝皇帝列表及简介" href="#anchor2" target="_self"> 清朝皇帝列表及简介</a></li>
+                            
+                                <li>·<a title="百姓无不怀念我大清" href="#anchor3" target="_self"> 百姓无不怀念我大清</a></li>
+                            
+                                <li>·<a title="清朝历史大事记" href="#anchor4" target="_self"> 清朝历史大事记</a></li>
+                            
+                                <li>·<a title="权臣难以造反，太监无法干政的清朝" href="#anchor5" target="_self"> 权臣难以造反，太监无法干政的清朝</a></li>
+                            
+                    </ul>
+                    <div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div>
+                </div>
+            </div>
+
+
+            <div class="gg2">
+                <a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a>
+            </div>
+        </div>
+        
+        <a name="anchor1"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        清朝历史</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="text-indent: 2em;">
+	<strong><a href="http://114.xixik.com/chaodai/qing/" style="font-size:40px; font-family:Yahei; color:#000" title="清朝">清朝</a></strong>（Qing Dynasty，公元1636年～1912年），又称大清（鞑清，满清），简称清，是<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>上最后一个封建王朝，也是<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>上第二个由少数民族（建州女真，后改为&ldquo;满族&rdquo;）建立并统治全国的封建王朝。<a href="http://114.xixik.com/chinese-emperors/qing/" style="color:#000;" title="清朝皇帝列表">清朝共传十二帝</a> ，享国祚二百六十八年。<a href="http://www.xixik.com/content/4ff2f09a4722e165" title="清朝皇帝显其尊奴才化">清朝政治显尊奴才化</a>，对内文化的禁锢文字狱，对外实行闭关锁国的政策，中止了明末的西学东渐。<a href="http://114.xixik.com/chaodai/qing/" style="color:#000;" title="清朝">清朝</a>对中国的祸害是罪深重的，严重阻碍了中国社会的发展，导致近代中国落后于西方，是最不值得称颂的<a href="http://114.xixik.com/chaodai/" style="text-indent: 2em; color: rgb（0, 0, 0）;" title="历史朝代顺序表">朝代</a>。</p><p style="text-indent: 2em;">
+	明万历四十四年（1616年），建州女真部首领努尔哈赤在赫图阿拉（今辽宁新宾）称&ldquo;覆育列国英明汗&rdquo;，国号&ldquo;大金&rdquo;（史称后金）。1620年10月20日，在赫图阿拉建立大金国，即大汗位，改年号为天聪，成为金大汗。天聪十年四月十一日（1636年5月15日），皇太极在盛京改国号为&ldquo;大清&rdquo;，建立大清帝国。1644年李自成率大顺军攻占<a href="http://114.xixik.com/chaodai/ming/" style="color:#000;" title="明朝">明朝</a>国都北京。一片石之战后，<a href="http://www.xixik.com/content/0eae9770a232641d">多尔衮率清军趁势入关</a>，政治上推行剃发易服，军事上打击农民军和南明诸政权，逐步掌握全国。从北京开始，在整个中原大地屠杀了三十八年，<a href="http://www.xixik.com/content/cb67dcd4d033940e" title="满清大屠杀 中国人口锐减三分之二">汉族人口减少了三分之二</a>，从近亿杀到只有三千多万，扬州十日，嘉定三屠&hellip;&hellip;造成十室九空，最典型的是，当时整个四川的人口几乎被清兵杀绝了。</p><div class='right_gg'><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 336x280-114-left -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-3849899595029685"
+     data-ad-slot="9973132210"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><p style="text-indent: 2em;">
+	<a href="http://img.xixik.net/custom/section/chaodai/qing/xixik-bbc6efe5e2a64ec3.jpg"><img src="http://img.xixik.net/custom/section/chaodai/qing/xixik-7717167f024b9f8d.jpg" style="margin: 10px; float: left; width: 400px;" /></a></p><p style="text-indent: 2em;">
+	<a href="http://114.xixik.com/chinese-emperors/qing/" style="color:#000;" title="清朝皇帝列表">清朝入关后的十位皇帝</a>分别为顺治、康熙、雍正、乾隆、嘉庆、道光、咸丰、同治、光绪、宣统。康熙二十年（1681年）平定三藩之后，由于高产作物番薯的广泛种植，人口得以增长，国家财富有所累积，<a href="http://www.xixik.com/content/ecfa518db7c1e617" title="揭秘“康乾盛世”的历史真相 这是哪门子的盛世？">康熙雍正乾隆三代所谓的&ldquo;康乾盛世&rdquo;</a>（康雍乾盛世）仅是清朝最鼎盛的时期。这一切主要归因于美洲作物番薯，被戏称为&ldquo;番薯盛世&rdquo;。<a href="http://www.xixik.com/content/3fc7eb4df8e7b4cf" title="《尼布楚条约》是平等条约 但却是彻底失土条约">康熙时期《尼布楚条约》开启了胜利却割地的先河</a>。<a href="http://114.xixik.com/chaodai/qing/" style="color:#000;" title="清朝">清朝</a>中后期政治僵化、文化专制、闭关锁国、内部矛盾激化、逐步落后于世界。清朝统治者为防止和镇压知识分子的反抗，禁锢思想，对文学作品控制极严，大兴文字狱，<a href="http://www.xixik.com/content/3ff7def873076ec1" title="文字狱的巅峰：清朝通过禁锢思想达到统治目的">清朝的文字狱案件多样</a>，可以说贯串整个清朝一代，尤以清初顺治、乾隆时期最甚。其中顺治帝施文字狱7次，康熙帝施文字狱20多次，雍正帝施文字狱20多次，乾隆帝施文字狱130多次。除了极少数事出有因外，绝大多数是捕风捉影，纯属冤杀。</p><p style="text-indent: 2em;">
+	1840年爆发了中英鸦片战争，多遭列强入侵，主权和领土严重丧失。自从1845年英国《上海租界章程规定》中取得第一块租界，各个国家也不断向中国签订条约规定自己的租界，至1902年奥匈帝国设立天津租界，前后共有27块租界。第二次鸦片战争之后，开始了近代化的探索，地主阶级进行了洋务运动。甲午战争之后民族危机进一步加深，以康梁为首的维新派开始进行戊戌变法，但是变法失败。1900年的夏天，八国联军为了镇压义和团运动维护在华利益侵略中国。<a href="http://114.xixik.com/chaodai/qing/" style="color:#000;" title="清朝">清朝</a>沦为半殖民地半封建社会。1911年，辛亥革命爆发，清朝统治瓦解，1912年2月12日，清帝被迫退位。从此结束了中国两千多年来的封建帝制转入了民主革命时期。满清是中国历史的耻辱，封建制度的落后性和封闭性，闭关自守，不思进取，让中华民族落后于世界民族之林。所以在其末期，<a href="http://www.xixik.com/content/adab992d274c2945" title="反清复明？中华民国成立当天孙文去祭祀明孝陵">孙中山的中国同盟会曾以&ldquo;驱逐鞑虏、恢复中华&rdquo;为政治纲领号召人民推翻满清政府</a>。</p>
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor2"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        清朝皇帝列表及简介</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<td>
+				<strong>庙号</strong></td>
+			<td>
+				<strong>谥号</strong></td>
+			<td>
+				<strong>姓名</strong></td>
+			<td>
+				<strong>年号</strong></td>
+			<td>
+				<strong>统治时间</strong></td>
+			<td>
+				<strong>陵墓</strong></td>
+		</tr>
+		<tr>
+			<td>
+				始祖</td>
+			<td>
+				&#160;</td>
+			<td>
+				布库里雍顺</td>
+			<td>
+				&#160;</td>
+			<td>
+				未在位</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr>
+			<td>
+				肇祖</td>
+			<td>
+				原皇帝</td>
+			<td>
+				孟特穆</td>
+			<td>
+				&#160;</td>
+			<td>
+				未在位</td>
+			<td>
+				清永陵</td>
+		</tr>
+		<tr>
+			<td>
+				兴祖</td>
+			<td>
+				直皇帝</td>
+			<td>
+				福满</td>
+			<td>
+				&#160;</td>
+			<td>
+				未在位</td>
+			<td>
+				清永陵</td>
+		</tr>
+		<tr>
+			<td>
+				景祖</td>
+			<td>
+				翼皇帝</td>
+			<td>
+				觉昌安</td>
+			<td>
+				&#160;</td>
+			<td>
+				未在位</td>
+			<td>
+				清永陵</td>
+		</tr>
+		<tr>
+			<td>
+				显祖</td>
+			<td>
+				宣皇帝（以上为追尊）</td>
+			<td>
+				塔克世</td>
+			<td>
+				&#160;</td>
+			<td>
+				未在位</td>
+			<td>
+				清永陵</td>
+		</tr>
+		<tr>
+			<td>
+				清太祖</td>
+			<td>
+				承天广运圣德神功肇纪立极仁孝睿武端毅钦安弘文定业高皇帝</td>
+			<td>
+				努尔哈赤</td>
+			<td>
+				天命</td>
+			<td>
+				1616年-1626年</td>
+			<td>
+				清福陵</td>
+		</tr>
+		<tr>
+			<td>
+				清太宗</td>
+			<td>
+				应天兴国弘德彰武宽温仁圣睿孝敬敏昭定隆道显功文皇帝</td>
+			<td>
+				<a href="http://www.xixik.com/content/550b715cece0b26f" title="皇太极如何抢皇位 多尔衮母亲被假传遗诏殉葬">皇太极</a></td>
+			<td>
+				天聪,崇德</td>
+			<td>
+				1626年-1643年</td>
+			<td>
+				清昭陵</td>
+		</tr>
+		<tr>
+			<td>
+				清成宗</td>
+			<td>
+				懋德修道广业定功安民立政诚敬义皇帝</td>
+			<td>
+				<a href="http://www.xixik.com/content/753aa6d375ef9679" title="摄政王多尔衮太悲催 两次皇位不得死后挫骨扬灰">多尔衮</a></td>
+			<td>
+				—</td>
+			<td>
+				世祖追尊</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr>
+			<td>
+				清世祖</td>
+			<td>
+				体天隆运定统建极英睿钦文显武大德弘功至仁纯孝章皇帝</td>
+			<td>
+				<a href="http://www.xixik.com/content/6b194f37b938d340" title="多尔衮为何拥立6岁的顺治登基：多尔衮不称帝之谜">福临</a></td>
+			<td>
+				顺治</td>
+			<td>
+				1643年-1661年</td>
+			<td>
+				清孝陵</td>
+		</tr>
+		<tr>
+			<td>
+				清圣祖</td>
+			<td>
+				合天弘运文武睿哲恭俭宽裕孝敬诚信中和功德大成仁皇帝</td>
+			<td>
+				玄烨</td>
+			<td>
+				康熙</td>
+			<td>
+				1661年-1722年</td>
+			<td>
+				清景陵</td>
+		</tr>
+		<tr>
+			<td>
+				清世宗</td>
+			<td>
+				敬天昌运建中表正文武英明宽仁信毅睿圣大孝至诚宪皇帝</td>
+			<td>
+				胤禛</td>
+			<td>
+				雍正</td>
+			<td>
+				1722年-1735年</td>
+			<td>
+				清泰陵</td>
+		</tr>
+		<tr>
+			<td>
+				清高宗</td>
+			<td>
+				法天隆运至诚先觉体元立极敷文奋武钦明孝慈神圣纯皇帝</td>
+			<td>
+				弘历</td>
+			<td>
+				乾隆</td>
+			<td>
+				1735年-1795年</td>
+			<td>
+				清裕陵</td>
+		</tr>
+		<tr>
+			<td>
+				清仁宗</td>
+			<td>
+				受天兴运敷化绥猷崇文经武光裕孝恭勤俭端敏英哲睿皇帝</td>
+			<td>
+				颙琰</td>
+			<td>
+				嘉庆</td>
+			<td>
+				1795年-1820年</td>
+			<td>
+				清昌陵</td>
+		</tr>
+		<tr>
+			<td>
+				清宣宗</td>
+			<td>
+				效天符运立中体正至文圣武智勇仁慈俭勤孝敏宽定成皇帝</td>
+			<td>
+				旻宁</td>
+			<td>
+				道光</td>
+			<td>
+				1820年-1850年</td>
+			<td>
+				清慕陵</td>
+		</tr>
+		<tr>
+			<td>
+				清文宗</td>
+			<td>
+				协天翊运执中垂谟懋德振武圣孝渊恭端仁宽敏庄俭显皇帝</td>
+			<td>
+				奕詝</td>
+			<td>
+				咸丰</td>
+			<td>
+				1850年-1861年</td>
+			<td>
+				清定陵</td>
+		</tr>
+		<tr>
+			<td>
+				清穆宗</td>
+			<td>
+				继天开运受中居正保大定功圣智诚孝信敏恭宽明肃毅皇帝</td>
+			<td>
+				载淳</td>
+			<td>
+				祺祥,同治</td>
+			<td>
+				1861年-1875年</td>
+			<td>
+				清惠陵</td>
+		</tr>
+		<tr>
+			<td>
+				清德宗</td>
+			<td>
+				同天崇运大中至正经文纬武仁孝睿智端俭宽勤景皇帝</td>
+			<td>
+				载湉</td>
+			<td>
+				光绪</td>
+			<td>
+				1875年-1908年</td>
+			<td>
+				清崇陵</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				逊帝</td>
+			<td>
+				溥仪</td>
+			<td>
+				宣统</td>
+			<td>
+				1908年-1912年</td>
+			<td>
+				华龙皇家陵园</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-align: center;">
+	<img  src="http://img.xixik.net/custom/section/chaodai/qing/xixik-ce29711ec7344bb2.jpg" /></p>
+<p style="text-align: center;">
+	清朝皇帝像</p>
+<p style="TEXT-INDENT:2em">
+	<strong>清朝十二位皇帝</strong>是指（爱新觉罗氏）：努尔哈赤、皇太极、顺治皇帝、康熙皇帝、雍正皇帝、乾隆皇帝、嘉庆皇帝、道光皇帝、咸丰皇帝、同治皇帝、光绪皇帝、宣统皇帝；</p>
+<p style="TEXT-INDENT:2em">
+	1、努尔哈赤 天命 汗爱新觉罗·努尔哈赤（1559—1626年），女真族，后金政权创立者。明万历四十四年（1616年）正月，在赫图阿拉称“覆育列国英明汗”，年号天命。在位11年。努尔哈赤顺应历史发展趋势，完成了统一女真各部大业，对后来满族共同体的形成，对加强各民族间经济文化的交流，促进辽东经济的发展，起了积极作用。</p>
+<p style="TEXT-INDENT:2em">
+	2、皇太极 天聪 汗爱新觉罗·皇太极（1592—1643年），努尔哈赤第八子，满族。天命十一年（1626年）九月，继后金汗位，以次年为天聪元年。天聪十年（1636年）四月，皇太极在沈阳称帝，建国号大清，改年号为崇德，并以是年为崇德元年。前后在位17年。在位期间，注意发展生产，增强兵力，不断对明作战，确定满族族名，建立清国，为清王朝的确立和后来统一中国打下了坚实基础。</p>
+<p style="TEXT-INDENT:2em">
+	3、顺治皇帝 清世祖 爱新觉罗·福临（1638年--1661年），皇太极第九子，清入关后第一位皇帝。6岁继帝位，由叔父睿亲王多尔衮摄政，14岁亲政。清初满汉民族矛盾与阶级矛盾极为激烈，而至顺治朝结束时，清廷击败了各种抗清势力，完成了全国的统一。</p>
+<p style="TEXT-INDENT:2em">
+	4、康熙皇帝 清圣祖 爱新觉罗·玄烨（1654--1722年），顺治皇帝第三子，清入关后第二位皇帝。他平定了三藩叛乱，收复了台湾，驱逐了沙俄势力，又平息蒙藏地区动乱，加强了多民族国家的稳定和统一。在经济和文化建设上，康熙也创下对后世产生积极影响的重大业绩，开创了中国封建社会最后一个盛世——康乾盛世。</p>
+<p style="TEXT-INDENT:2em">
+	5、雍正皇帝 清世宗 爱新觉罗·胤禛（1678—1735年），康熙皇帝第四子，清入关后的第三位皇帝。在位13年。他对有碍于皇权的反对势力大加挞伐，有效地改善了吏治，增加了国库收入，为乾隆朝社会的繁荣奠定了雄厚的基础。</p>
+<p style="TEXT-INDENT:2em">
+	6、乾隆皇帝 清高宗 爱新觉罗·弘历（1711—1799年），雍正皇帝第四子,清朝入关后第四位皇帝。他在将清朝的康乾盛世推向顶峰的同时，也亲手将它带向低谷，他是影响中国18世纪以后历史进程的重要皇帝。</p>
+<p style="TEXT-INDENT:2em">
+	7、嘉庆皇帝 清仁宗 爱新觉罗·顒琰 （1760—1820年），清朝入关后第五位皇帝，乾隆皇帝第十五子。乾隆六十年（1795年）九月公开立为皇太子，次年元旦，受弘历内禅即位，以是年为嘉庆元年，时年27岁。嘉庆四年（1799年）正月，弘历死，始亲政。在位25年。顒琰亲政后，立即铲除贪赃枉法蠹国肥私的权臣和珅，使人心大快，复多方采取措施，力图保持康乾之盛世，但内忧外患重重，积重难返。由于腐败势力甚强，又缺乏新生机制，终难摆脱江河日下的命运。</p>
+<p style="TEXT-INDENT:2em">
+	8、道光皇帝 清宣宗 爱新觉罗·旻宁（1782—1850年），清朝入关后第六位皇帝，嘉庆皇帝第二子。嘉庆二十五年（1820年）七月即位，以次年为道光元年，时年29岁。在位30年。在位期间，由于国力开始衰落，故极力提倡节俭，改革盐政，部分弛禁开矿，并整顿吏治。但由于腐败成风，阻力过大，奏效甚微。对鸦片之害，他最初力主抵抗，但因他本人对时势无知，主要大臣懦弱无能，战略动摇无定，反而迫害禁烟主力，不能抵抗列强的侵略，酿成百年遗憾。</p>
+<p style="TEXT-INDENT:2em">
+	9、咸丰皇帝 清文宗 爱新觉罗·奕詝（1831—1861年），清朝入关后第七位皇帝，道光皇帝第四子。道光三十年（1850年）正月即位，以次年为咸丰元年，时年20岁。在位11年。在位期间，正逢清朝乱世，国库空虚，危机四伏。即位不到一年，太平天国即在金田起义，且三年左右就危及北京，咸丰帝屡派兵将镇压太平天国及各地农民起义。战火未息，英法联合侵略军又迅速攻占天津、北京，奕詝从圆明园逃往避暑山庄。只命奕欣留北京与英法讲和。侵略军竟野蛮地焚掠了圆明等园。不得已奕詝与英法等国签订了数宗不平等条约。奕詝纵有重整江山之心，已无回天之力。</p>
+<p style="TEXT-INDENT:2em">
+	10、同治皇帝 清穆宗 爱新觉罗·载淳（1856—1874年），清朝入关后第八位皇帝。咸丰帝长子，生母为孝钦显皇后叶赫那拉氏。咸丰十一年（1861年）即位。同治帝在位期间（1861年至1875年），清政府依靠曾国藩、李鸿章、左宗棠等一批重臣镇压了太平天国起义。先后平定陕甘回变，同时兴办洋务新政，清朝后期出现了一个政治稳定的时期，史称“同治中兴”。<a href="http://www.xixik.com/content/6ccbdea0ca2d796e" title="没称帝却像皇帝的中国最后女强人慈禧太后轶事">终身成为其生母慈禧皇太后垂帘听政的傀儡</a>。</p>
+<p style="TEXT-INDENT:2em">
+	11、光绪皇帝 清德宗 爱新觉罗·载湉（1871—1908年），清朝入关后第九位皇帝。醇亲王奕譞之子，因其冲龄践祚，导致慈禧太后第二次垂帘听政。在其亲政期间，甲午之战中他力主反击，大力支持维新变法,但因变法失败而遭幽禁，直至去世。</p>
+<p style="TEXT-INDENT:2em">
+	12、宣统皇帝 爱新觉罗·溥仪（1906—1967年），清朝末代皇帝。醇亲王载沣之子，光绪三十四年（1908年）即皇帝位。道光帝旻宁的曾孙、醇贤亲王奕譞之孙、摄政王载沣长子。1909年到1912年、1917年7月1日到1917年7月12日两次在位。1912年2月12日，在辛亥革命的浪潮中被迫退位，清朝统治结束。此后，以逊帝身份居住在皇宫。1924年11月5日，被冯玉祥驱逐出宫。九·一八事变之后在日本人控制下做了满洲国的傀儡皇帝，年号康德（1934年—1945年），所以又称“康德皇帝”。后日本投降被苏联俘获转交给中共改造，成为全国政协委员。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor3"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        百姓无不怀念我大清</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	大清立国三百年，无汉唐之和亲；</p>
+<p style="TEXT-INDENT:2em">
+	无后晋之割地，无两宋之岁币；</p>
+<p style="TEXT-INDENT:2em">
+	<img  src="http://img.xixik.net/custom/section/chaodai/qing/xixik-183d2ef7a7ca0bb3.jpg" style="width: 580px; height: 435px; margin: 10px; float: right;" /></p>
+<p style="TEXT-INDENT:2em">
+	孝庄慈禧，亲王摄政。叔嫂协力，皇族同心。</p>
+<p style="TEXT-INDENT:2em">
+	政治昌明，对外开放。三年知府，十万雪银。</p>
+<p style="TEXT-INDENT:2em">
+	满汉一家，扬州十日。五族亲善，嘉定三屠。</p>
+<p style="TEXT-INDENT:2em">
+	续辫断发，大国威仪。四库全书，保留古籍。</p>
+<p style="TEXT-INDENT:2em">
+	天工开物，通行民间。圣祖武功，捕兔三百。</p>
+<p style="TEXT-INDENT:2em">
+	高宗文才，作诗四万。嘉庆白莲，道光补丁。</p>
+<p style="TEXT-INDENT:2em">
+	与民为善，六下江南。内整吏治，外争国权。</p>
+<p style="TEXT-INDENT:2em">
+	炮惊外夷，马尔嘎尼。咸丰北狩，太后西宁。</p>
+<p style="TEXT-INDENT:2em">
+	谋臣良将，琦善奕山。铁骑冲锋，僧格林沁。</p>
+<p style="TEXT-INDENT:2em">
+	八旗健儿，骁勇无敌。血战英仑，牛津条约。</p>
+<p style="TEXT-INDENT:2em">
+	圆明园中，围歼英法。北洋水师，雄霸东亚。</p>
+<p style="TEXT-INDENT:2em">
+	黄海之滨，荡平倭寇。庚子年间，剿灭八国。</p>
+<p style="TEXT-INDENT:2em">
+	凡尔赛宫，扫穴犁庭！欧亚大地，仰慕天朝。</p>
+<p style="TEXT-INDENT:2em">
+	西洋诸国，纳贡称臣。日俄英法，德美奥意。</p>
+<p style="TEXT-INDENT:2em">
+	万里来朝，肯求内附。同光盛世，立宪新政。</p>
+<p style="TEXT-INDENT:2em">
+	保全民命，甘心退位。张勋复辟，人心所向。</p>
+<p style="TEXT-INDENT:2em">
+	中华内外，莫不希冀。不废一卒，收复满洲。</p>
+<p style="TEXT-INDENT:2em">
+	移宫奉天，威震寰宇。东洋匍匐，献女请降。</p>
+<p style="TEXT-INDENT:2em">
+	御驾亲征，西伯利亚。回师中原，君临华夏。</p>
+<p style="TEXT-INDENT:2em">
+	宣统圣主，千古一帝。天照大神，佑我大清！</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor4"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        清朝历史大事记</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>历史，若从1616年清太祖努尔哈赤称汗并建立后金开始，到1912年宣统帝退位结束，则历经十二帝，有296年的历史;若从皇太极1636年称帝并建立大清开始，有276年的历史，相当于<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>;若从1644年清军入关，统一全国开始，有268年的历史。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>末期，建州女真首领爱新觉罗·努尔哈赤统一了女真诸部，在东北赫图阿拉建国称汗，国号大金。1626年，努尔哈赤之子皇太极继承汗位，1636年皇太极在盛京称帝，改国号为大清。从此大清成为与大明并立的政权，并将入关作为战略目标。</p>
+<p style="TEXT-INDENT:2em">
+	1644年清军入关，顺治帝定都北京，从此<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>成为全国的统治者并迅速统一了中国。1662年，康熙帝玄烨登基。康熙于1682年平定了"三藩之乱"。 1683年收复了被郑氏盘踞已久的台湾。后来打败了入侵黑龙江流域的沙俄军队，1689年与沙俄签订《尼布楚条约》从此确立了中国与沙俄在东北的疆界，奠定了中国版图。然后三征噶尔丹并且创立了多伦会盟巩固了蒙古的稳定，使蒙古成为中国北方的长城。并且协助西藏的达赖七世入藏，加强了对藏区的管理。经济方面，鼓励开荒，减少农民赋税，实行“永不加赋”，促进了农业的发展。雍正帝在位时期，平定了青海罗卜藏丹津叛乱并设立了军机处。1727年设置驻藏大臣以管辖西藏事务。并推行改土归流，废除土司;将喀尔喀蒙古并入<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>;1727年与沙俄签订《恰克图条约》。乾隆帝时期，平定了大小和卓叛乱，1771年蒙古土尔扈特部回归祖国，统一多<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>国家得到巩固。康雍乾时期，经济迅速发展，国力强盛;并且满蒙、满回联系得到加强，稳固了<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>统治。大清帝国达到了全盛时期，也是封建经济的全盛时期，史称"康乾盛世"。</p>
+<p style="TEXT-INDENT:2em">
+	1796年，嘉庆帝即位，他执政的二十五年间，统治上较无作为，并爆发了大规模的白莲教、天理教起义，<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>出现了统治危机。1821年，道光帝即位。英国向<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>大量输出鸦片，使<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>的白银大量外流，<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>社会各阶层深受鸦片毒害。1839年，道光帝决心禁烟，任命林则徐为钦差大臣赴广东主持禁烟。6月林则徐在虎门海滩当众销烟，即震惊中外的“虎门销烟”。虎门销烟之后，1840年英国对<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>宣战，第一次鸦片战争爆发。至1841年<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>战败求和，1842年与英国签定了近代第一个不平等条约《南京条约》。开启了中国的近代历史。</p>
+<p>
+	<img src="http://img.xixik.net/custom/section/chaodai/qing/xixik-f2d1016c6ccf5e9e.png" style="text-indent: 28px; margin: 10px; float: right; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	1851年，咸丰帝即位，同年在广西发生了太平天国运动。1864年曾国藩的湘军攻陷天京，太平天国运动失败。英法联军于1856年至1860年在美国、俄国的帮助下对<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>宣战，即"第二次鸦片战争"。1860年英法联军直逼北京，咸丰帝仓皇逃往热河。英法联军攻占并焚毁了圆明园。后<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>被迫于各侵略国签定了《天津条约》、《北京条约》。中国半殖民地半封建社会的程度加深了。</p>
+<p style="TEXT-INDENT:2em">
+	1861年同治帝即位，慈禧太后在奕䜣的帮助下"垂帘听政"。洋务派官员曾国藩，李鸿章，左宗棠，张之洞等认识<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>的新变局，主张“自强、求富”，兴起了旨在推动王朝中兴的洋务运动。1868年<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>平定了多年的捻乱。左宗棠收复了新疆。1894年<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>与日本爆发了甲午中日战争，<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>战败，与日本签订《马关条约》 。</p>
+<p style="TEXT-INDENT:2em">
+	由于甲午一战<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>战败的震撼，1898年光绪帝接受康有为、梁启超的主张，宣布进行变法维新。但这次变法只持续一百零三天，后世称之为“百日维新”。戊戌变法失败后，<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>北方爆发了义和团运动，1900年以英、美、法、俄、日、德、意、奥组成的八国联军进军<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>，史称“八国联军侵华战争”。攻占北京，慈禧太后与光绪帝逃亡西安。1901年，<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>战败签定了《辛丑条约》。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>统治日益腐败，致使资产阶级革命派在各地组织反清团体，主张暴力推翻<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>。其中，孙中山早在1894年就在檀香山成立"兴中会"，开始了"驱除鞑虏、恢复中华、建立民国、平均地权"的革命。1905年，孙团结世界各地的革命力量，成立了中国同盟会。1911年，武昌起义爆发，仅仅两个月，全国就有十八个省宣布独立并支持革命，<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>的统治土崩瓦解。1912年1月1日，中华民国临时政府在南京宣告成立。2月12日，宣统帝被迫退位，<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>灭亡结束了我国两千多年的封建统治。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor5"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        权臣难以造反，太监无法干政的清朝</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	过去的中国朝堂上，太监跟权臣并不是罕见的人。一个是权势极重的大臣，一个是<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>身边的私人家奴。对于<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>而言，这两种人都是可以用的。权臣势力太大了，可以用太监对付。太监势力太大了，可以调权臣打压。当然，要是操作失误，就可能把<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>自己搭进去。在<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>上，被权臣、太监扶持成傀儡，或者被直接杀死的<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>并不在少数。权臣造反，太监干政，这两种情况，很长时间内，一直都有存在。</p>
+<p style="TEXT-INDENT:2em">
+	直到<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>的时候，这种情况才被彻底杜绝了。纵观<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>两百多年的历史，有过太后垂帘听政，却没有权臣造反，更没有太监干政。虽然有鳌拜、明珠这些人，但他们难以直接威胁到<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>的地位。至于李莲英、安德海这些太监，充其量只能算是得到恩宠的家奴，翻不了天。<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>会出现这种情况，除了因为<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>基本较为勤政，能把权力牢牢抓在自己手中外，更多的还是因为<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>有整套极为严密的制度。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/chaodai/qing/xixik-ac11b32a3a8b0f9f.jpg" style="margin: 10px; float: right; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	自<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>废除丞相以后，<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>一个人身兼相权、君权，权力便真的是大过天了。虽然后来产生了内阁首辅，但他们只能给<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>提供建议，帮助<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>处理政务。没有办法再向过去唐宋时期的宰相那样，可以直接封驳<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>的命令。所以，再大的权臣，再飞扬跋扈的太监，也抵不过<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>的一道旨意。</p>
+<p style="TEXT-INDENT:2em">
+	而到了<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>时，雍正<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>设立军机处以后，<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>的权力更是无人能够挑战。</p>
+<p style="TEXT-INDENT:2em">
+	在<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>，上层一共有三套制度。一套是议政王大臣会议，这是满族宗室贵族议政的机构。一套是继承<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>的内阁制度，平常处理日常事务。一套是军机处，处理重要事务。不管是军机大臣，或者是内阁大学士，都是<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>身边的办事人员。特别是军机大臣，虽然能够参与重要大事，但也只是<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>的秘书，品级不高。通过军机大臣，<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>可以把全国的军政权力牢牢抓在自己手中。其他人大臣手中根本没有可以跟给<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>抗衡的资本。</p>
+<p style="TEXT-INDENT:2em">
+	这是朝廷中枢的情况，在地方，这些封疆大吏同样没有办法跟<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>抗衡。名义上，地方最高长官总督手上掌握着军政大权，掌管一大片地区。但这些总督又要受到巡抚、御史，以及地方检察官的监督，他们手上掌管的，更多是军队的武将，以及少量军队。如果想要调动大量军队，需要有朝廷的调令。军队并不直接归他们管辖。没有枪杆子，他们怎么可能跟<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>对抗。</p>
+<p style="TEXT-INDENT:2em">
+	至于那些太监们，他们的权力来自<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>。<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>的时候，<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>的勤政，让他们很少有干政插手的机会。再加上，<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>有非常严格的制度，<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>的太监不仅不能结交外官，甚至连走出皇宫也不被允许。他们的官职品级也被限定，不能超过四品。种种做法，就是为了禁止太监干政。乾隆<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>就认为，<a href="http://114.xixik.com/chaodai/ming/" style="color:#000" title="明朝">明朝</a>的灭亡，并不是因为流民，而是因为太监。</p>
+<p style="TEXT-INDENT:2em">
+	正是在这些严密制度下，<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a><a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>才将权力牢牢的抓在自己手中，不给其他人夺去的机会。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+    </div>
+    <script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        var value = '193';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script>
+    <div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/chaodai/qing/" target="_self" title="清朝历史_清朝皇帝列表_清朝历代皇帝简介_中国历史朝代">清朝</a></div>
+    <ul style="width: 960px; margin: auto; overflow: hidden;">
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/lixi/"
+                title="人民币存款利率表，2019银行利息，银行存款利率，银行贷款利率">银行存款利息</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chaodai/zhou/"
+                title="周朝历史_西周历史_东周历史_周朝帝王列表">周朝历史</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证_中国旅行证更换新政策_美宝中国旅行证过期了该怎么办？">中国旅行证</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国历任总统名单_美国历届总统任期_美国总统简历生卒年份及所属党派">美国历届总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/baijiaxing-qq/"
+                title="百家姓qq头像,百家姓qq头像闪图大全_百家姓中国心qq头像">百家姓QQ头像</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="赴美生子_美宝证件_中国旅行证_美国护照_社会安全号_美国出生纸_美宝上户口">美宝需要哪些证件？</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_赴美生子费用预算清单_赴美生子2019费用">赴美生子要多少钱</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/obama/"
+                title="奥巴马_美国总统奥巴马_贝拉克·奥巴马(Barack Hussein Obama)_第44任美国总统">奥巴马</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/trump/"
+                title="美国总统特朗普_唐纳德·约翰·特朗普_Donald John Trump_第45任美国总统川普">特朗普</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_赴美生子要多少钱？_赴美生子预算表">赴美生子费用</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 中国护照免签证国家2019">中国护照免签证</a> </li>
+        
+    </ul>
+
+    <div class="lindBox">
+        <div class="btnGray">
+            <div class="btnText">
+                <a target="_self" title="清朝历史_清朝皇帝列表_清朝历代皇帝简介_中国历史朝代" href="http://news.xixik.com/word/193/">另存为<br />
+                    Word格式</a>
+            </div>
+        </div>
+    </div>
+    <div class="lindBox" style="text-align: center;">
+        <img src="http://news.xixik.com/qrcode/193/" alt="扫码手机上继续看" /><br />
+        <br />
+        <strong>用微信或者支付宝扫码在手机上继续观看<br />
+            可以保存收藏，也扫码后可以分享给好友
+        </strong>
+    </div>
+    <hr style="height: 1px; border: none; border-top: 1px dashed #999;" />
+    <script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script>
+<!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.-->
+
+</body></html>

@@ -1,0 +1,329 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>南北朝历史_南北朝皇帝列表及简介_南北朝疆域</title><link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" /><meta name="description" content="南北朝是中国历史上政权更迭最频繁的时期，南北朝不是朝代，南朝（420年—589年）共有四个朝代：宋、齐、梁、陈四朝。北朝（439年 —581年）共有五个朝代：北魏、东魏、西魏、北齐、北周五朝。" /><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/chaodai/nanbeichao/"><meta http-equiv="Cache-Control" content="no-transform" /><meta http-equiv="Cache-Control" content="no-siteapp" /><base target="_blank" /><script>        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "chaodai/nanbeichao/";
+        }
+
+
+    </script><style>        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style></head><body><a name="top4"></a><div class="topBox" name="top"><div class="topMain"><div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div><div id="icoPhone"></div><div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div><div id="icoWechat"></div><div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a></div><div id="icoSina"></div><div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a></div><div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div><div class="topRight"></div></div></div><div id="showqrCode"><div><span></span></div><img src="" /><div><span></span></div></div><script type="text/javascript">        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script><div class="body"><div class="lindBox" style="position: relative;"><img src="http://img.xixik.net/custom/topic/001/chaodai-nanbeichao.jpg" alt="南北朝历史_南北朝皇帝列表及简介_南北朝疆域" /><div class="title"><h1>南北朝历史_南北朝皇帝列表及简介_南北朝疆域</h1></div></div><div class=" custom_border lindBox"><div class="special_content"><div class="content_text"><div class="content_daodu"></div><h2 style="border-bottom:1px dashed #999; displayinline;">南北朝历史</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--><strong>南北朝</strong>（420年—589年）是南朝和北朝的合称。南北朝时期是中国历史上的一段大分裂时期，也是中国历史上的一段民族大融合时期，上承东晋十六国下接隋朝，由420年刘裕代东晋建立刘宋始，至公元589年隋灭陈而终。南朝（420年—589年）共有四个朝代：宋、齐、梁、陈四朝。北朝（439年 —581年）共有五个朝代：北魏、东魏、西魏、北齐和北周等五朝。
+                </div></div></div><div class="lindBox" style="overflow: hidden;"><div class="gg1"><a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a></div><div class="guide"><div class="guideBorder" id="guideBorder"><div class="guideTitle">导读（目录）</div><ul id="guideDisplay"><li>·<a title="南北朝历史" href="#anchor1" target="_self"> 南北朝历史</a></li><li>·<a title="南北朝皇帝列表" href="#anchor2" target="_self"> 南北朝皇帝列表</a></li><li>·<a title="南北朝为何是北方统一了天下？" href="#anchor3" target="_self"> 南北朝为何是北方统一了天下？</a></li><li>·<a title="漫画说南北朝" href="#anchor4" target="_self"> 漫画说南北朝</a></li></ul><div class="guideOpen">展开&darr;</div></div></div><div class="guideFllow"><div class="guideFllowBorder"><div class="guideFllowTitle">导读（目录）</div><ul id="guideFllowDisplay"><li>·<a title="南北朝历史" href="#anchor1" target="_self"> 南北朝历史</a></li><li>·<a title="南北朝皇帝列表" href="#anchor2" target="_self"> 南北朝皇帝列表</a></li><li>·<a title="南北朝为何是北方统一了天下？" href="#anchor3" target="_self"> 南北朝为何是北方统一了天下？</a></li><li>·<a title="漫画说南北朝" href="#anchor4" target="_self"> 漫画说南北朝</a></li></ul><div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div></div></div><div class="gg2"><a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a></div></div><a name="anchor1"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        南北朝历史</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	南北朝（420年&mdash;589年）<a href="http://www.xixik.com/content/eadedf3652d678cd" title="南北朝不是朝代">是南朝和北朝的合称，不是历史朝代</a>，是<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>上的一段大分裂和民族大融合时期，上承<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>十六国下接<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>，由420年刘裕代<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>建立刘宋始，至公元589年隋灭陈而终。</p><p style="TEXT-INDENT:2em">	南朝（420年&mdash;589年）包含刘宋、南齐、南梁、南陈四朝；北朝（386年&mdash;581年）则包含北魏、东魏、西魏、北齐和北周五朝。南北两方虽各有<a href="http://114.xixik.com/chaodai/" style="color:#000" title="历史朝代顺序表">朝代</a>更迭，但长期维持对峙形势，故称为南北朝。出身于北周八柱国之一的李唐宗室修《晋书》奉南北朝共为正统。司马光的《资治通鉴》奉南朝为正统。</p><div class='right_gg'><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- 336x280-114-left --><ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-3849899595029685"
+     data-ad-slot="9973132210"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><p style="TEXT-INDENT:2em">	南北朝是<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>上政权更迭最频繁的时期。由于长期的封建割据和连绵不断的战争，使这一时期中国文化的发展受到特别的影响。其突出表现则是玄学的兴起、佛教的输入、道教的勃兴及波斯、希腊文化的羼入。在从魏至隋的三百六十余年间，以及在三十余个大小王朝交替兴灭过程中，上述诸多新的文化因素互相影响，交相渗透的结果，使这一时期儒学的发展及孔子的形象和历史地位等问题也趋于复杂化。</p><p style="TEXT-INDENT:2em">	南北朝前期仍是士族政治，社会阶层分为士族、齐民编户、依附户及奴婢，对外交流也很兴旺，东到日本和朝鲜半岛，西到西域、中亚、西亚，南到东南亚与南亚。</p><p style="TEXT-INDENT:2em">	此时也出现民族大融合的趋势，比如北魏孝文帝改革，进一步加速少数民族封建化（汉化）的步伐。</p><p style="TEXT-INDENT:2em">	南朝作为汉族政权和东晋的延续，其各朝皇族主要是士族或次级士族，因为在东晋末期之后，军职大多由士族或次级士族等担任。由于执政者的努力，出现元嘉之治与永明之治等治世，使得国力富盛。皇帝受获声誉深重的主流士族拥护，然而士族只想保有本身政治地位，并非全然支持皇室，皇帝也扶持寒门担任军职或次要官职以平衡政治势力。由于皇室内部也因为争夺皇位的斗争，时常发生宗室血腥事件。</p><p style="TEXT-INDENT:2em">	由于战略运用错误与北朝的兴起，使得南弱北强，疆域渐渐南移。到南朝梁时为梁武帝改善，和北魏六镇之乱，使南朝国力逐渐追上北朝。但在他晚年时，过度崇信佛教，国家承平日久，民众不习战事，侯景发动侯景之乱后，梁武帝死在台城，部分萧氏皇族为争夺皇位而各自为战，使南朝实力大减并四分五裂，最后到南朝陈的陈文帝完全统一南朝，但南朝国力已衰，只能依长江抵御北朝。</p><p style="TEXT-INDENT:2em">	北朝承继五胡十六国，为胡汉融合的朝代。北魏皇室多为鲜卑族。而鲜卑皇室也逐渐受到汉文化的熏陶，其中以北魏孝文帝的汉化运动最盛。由于北部的柔然牵制北魏，使得北魏难以用全力攻入南朝，直到较亲北魏的突厥取代柔然后才较安定。北魏后期政治逐渐败坏，六镇民变后国力大衰。</p><p style="TEXT-INDENT:2em">	北朝分裂成东魏及西魏，并分别由北齐及北周取代。北齐的核心主要为六镇流民及关东世族，其军力比较强盛。由于其源头六镇流民偏向鲜卑化以及统治者为鲜卑化汉人的原因，使得北齐主要提倡鲜卑文化。北周在立国时鲜卑军不如北齐多，政治地位也不如北齐及南朝梁，所以建立关中本位政策，融合鲜卑及汉人尽量消除胡汉隔阂。</p><p style="TEXT-INDENT:2em">	最后北周形成团结的贵族关陇集团，得以攻灭因政治混乱而衰退的北齐，而汉族也逐渐成为北周军队的主力，逐渐占据统治地位及主体，取代鲜卑贵族，也为后来的杨坚建隋打好了基础。北周武帝去世后，刘昉、郑译矫诏以杨坚总知中外兵马事，入朝辅政。</p><p style="TEXT-INDENT:2em">	大定元年（581年）二月，<a href="http://www.xixik.com/content/832607a918f0a767">北周静帝禅让帝位于杨坚</a>，即隋文帝，建立隋朝。隋文帝于开皇九年下诏灭陈，自西晋末南北分裂300余年的中国再度统一，南北朝正式退出历史舞台。</p><p style="TEXT-INDENT:2em"><strong>南北朝怎么演变到隋唐？</strong></p><p style="TEXT-INDENT:2em"><strong><img src="http://img.xixik.net/custom/section/chaodai/nanbeichao/xixik-d7d0b0c7a508ca24.gif" style="margin: 10px; float: right; width: 528px; height: 568px;" /></strong></p><p style="TEXT-INDENT:2em">	从<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="西晋">西晋</a>到<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>的建立，中间大概有三百多年的时间，这一时期各少数民族逐鹿中原，中国呈现出了大分裂再到大一统，最终完成了民族融合。</p><p style="TEXT-INDENT:2em"><a href="http://114.xixik.com/chaodai/sanguo/" style="color:#000" title="三国">三国</a>的历史大家都比较熟，<a href="http://114.xixik.com/chaodai/sanguo/" style="color:#000" title="三国">三国</a>最终由司马家一统天下，司马炎开创了<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="晋朝">晋朝</a>，实现了大一统，但是这个王朝却很短命，原因就是司马炎吸取曹魏灭国的教训，大肆分封宗族子弟以拱卫中央，防止大权旁落。而在&ldquo;白痴<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>&rdquo;司马衷之后由于继承人不明朗，因此这些王各个都起了野心，中国陷入了巨大的内耗混战当中，这就是历史上有名的八王之乱。</p><p style="TEXT-INDENT:2em">	八个司马家的王轮番攻入京城，在执政一两年之后又被另一个王所推翻，就这样中国陷入了常年的混战中，结果<a href="http://www.xixik.com/content/c008e727785cb81b">匈奴人刘渊振臂一呼，在山西起兵，正式建立汉国</a>（后改名为前赵），<a href="http://114.xixik.com/chaodai/5hu16guo/" style="color:#000" title="五胡乱华">五胡乱华</a>的大旗便逐渐拉开了。</p><p style="TEXT-INDENT:2em">	汉国在和<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="晋朝">晋朝</a>不断作战中逐渐强大，公元316年，刘曜攻入长安，晋愍帝降汉，<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="西晋">西晋</a>亡。次年三月，琅琊王司马睿在建康（今南京）建立<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>。南北中国从此隔河而治。前赵由于内部政变，刘曜称帝，其手下石勒宣布独立反刘，建国后赵，前赵与后赵开始了几十年的对峙与战争。</p><p style="TEXT-INDENT:2em">	与此同时，中华大地还陆陆续续建立了很多割据势力，都纷纷立国。<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="西晋">西晋</a>旧臣张轨张茂父子雄踞西北，始终经略着西域，疆域最盛时达到了120多万平方公里，公元320年，张茂宣布独立，前凉政权正式建立。</p><p style="TEXT-INDENT:2em">	在四川境内，变民首领李特李雄父子为了反抗<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="西晋">西晋</a>而起兵，最终攻占整个四川，公元304年，李雄在四川建国，国号为&ldquo;成&rdquo;。</p><p style="TEXT-INDENT:2em">	而在中国东北境内，鲜卑族的各个大姓段氏、慕容氏、拓跋氏也纷纷起兵割据，互相竞争着地盘。</p><p style="TEXT-INDENT:2em">	公元311年，石勒军全歼<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="西晋">西晋</a>主力，并会同刘曜、王弥之众攻破洛阳。石勒以襄国为基地，发展成为今河北、山东地区的割据势力。后来汉赵执政靳准弑君自立，他率军攻破汉都平阳。319年，刘曜自立为帝，迁都长安。十一月，石勒脱离汉赵，自称大将军、大单于、领冀州牧、赵王，于襄国即赵王位，史称后赵。后赵最强大的时候统一了中国大部，北方除辽东慕容氏、吉林高氏和河西张氏外，皆为石勒所统一。以淮水与<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>为界，初步形成南北对峙局面。</p><p style="TEXT-INDENT:2em">	石勒死后，部将石虎功高震主，随即杀死石勒的儿子，篡夺了后赵的最高权力，石虎在位十分残暴，死后后赵政权又迅速分裂。公元349年，石虎病死，后赵内乱，诸子争立，互相残杀。石虎养孙冉闵乘政局混乱杀死石虎指定的继承人石鉴，政权落入冉闵之手。冉闵下达杀胡令，放纵部下大肆捕杀胡人几十万，最终用血腥手段建立了冉魏政权。而东北世代竞争之后的胜利者慕容家族的前燕和拓跋家族的代国并立于世。慕容家族各个雄才大略，有意向中原发展，后赵大乱之后前燕顺势占据幽州，前燕大将慕容恪在经过数十次血战之后，最终俘虏冉闵，冉魏灭亡。前燕领导人慕容儁随即抛弃<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>旗号，自称燕<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，357年迁都邺城，野心勃勃的慕容儁打算征召全国士兵150万以统一天下，但是在邺城检阅军队时逝世。</p><p style="TEXT-INDENT:2em">	石虎逝世后还有一个重要的人物的动向影响了整个<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>，那就是石虎帐下大将苻洪。苻洪在石虎执政时期极其有威望，曾经被任命为流民都督，盘踞在枋头一带。石虎死后苻洪自称三秦王、大都督，不久就被石虎部将毒死，其子苻健统御其部众自枋头向西进入关中，关中氐人纷起响应，苻健率军进入长安，据有关陇。351年，苻健自称大秦天王、大单于。352年，改称<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，国号秦，史称前秦。</p><p style="TEXT-INDENT:2em">	与此同时<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>权臣桓温与公元347荡平&ldquo;成&rdquo;家势力，将蜀地收复，<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>的实力到达顶点。此时中华大地五国并立，五大势力在后赵覆灭后兴起，又开始了新的竞争与兼并。</p><p style="TEXT-INDENT:2em">	首先是<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>与前秦的战争。<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>恒温在吞并蜀地之后，信心暴增，有北伐之志，之后屡次派兵进攻前秦，苻健皆成功抵御，国势渐固，之后苻生继立，淫杀无度，他的兄弟苻坚杀而代之。<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>上的传奇组合，雄才大略的苻坚和有宰相之才的王猛登上历史舞台。苻坚崇尚儒学，奖励文教。他得王猛辅政，得以集权中央，经济提升，国势大盛，因此产生了统一中国的念头。当时前燕混乱，369年慕容垂投奔前秦。苻坚趁势派王猛、慕容垂率军于隔年成功灭燕，取得关东地区。公元 370年，前秦灭前燕，擒慕容暐；公元376年，灭前凉张氏政权，派大将吕光镇守西北；同年，进兵灭代。四大敌对势力相继被前秦灭掉三个，前秦统一北方，北方实现了第二次统一。不久前秦政权又吞并了<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>的蜀地，志得意满的苻坚此时考虑的是消灭<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>政权完成统一的事情了。</p><p style="TEXT-INDENT:2em">	丞相王猛生前曾反复叮嘱苻坚不要伐晋，因为晋国虽然偏安一隅，但仍是中华正统。王猛死后苻坚不顾群臣反对，于公元383年下诏进攻<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>，该年8月以苻融为前锋都督，率步骑二十五万先行，9月苻坚亲统步兵六十余万、骑兵二十七万为后继，共起兵112万杀进<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>边境，战场选在淝水之上，八公山之下。<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>政权以谢安谢玄谢石为核心起兵八万迎敌。<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>上最有名的以少胜多之战就在此时爆发，最终统领百万大军的苻坚被<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>八万军队击败，前秦帝国已经无法维系，北方中国再次重新进入大分裂的局面。</p><p style="TEXT-INDENT:2em">	淝水之战由于起了全国之兵，兵败后各地防守皆很薄弱。苻坚部将姚苌趁着关中空虚，与渭北叛秦，并与公元385年亲自擒杀苻坚。一代伟人在即将统一中国之际就这么死于部将之手，次年姚苌称帝于长安，国号秦，史称后秦。</p><p style="TEXT-INDENT:2em">	在西北，前秦旧将吕光听闻旧主苻坚死讯，随即建立凉国，割据一方。</p><p style="TEXT-INDENT:2em">	在苻坚时期被任命的西单于刘卫辰之子刘勃勃（后改名为赫连勃勃），继承其父部众，在统万城建国，国号&ldquo;夏&rdquo;。</p><p style="TEXT-INDENT:2em">	公元386年，也就是苻坚死后的第二年，鲜卑贵族拓跋珪趁前秦四分五裂之时在牛川自称&ldquo;代王&rdquo;，重建代国。当年四月，拓跋珪迁都盛乐（今内蒙古呼和浩特市和林格尔县），改国号为&ldquo;魏&rdquo;，史称&ldquo;北魏&rdquo;。北燕和南燕为慕容氏贵族为复国所立，在当时都是小势力，已经不复当年前燕的荣光。中国北方又分裂为众多的小国家。</p><p style="TEXT-INDENT:2em">	在北方六国的不断混战中，又出现了一对黄金组合，雄才大略的拓跋焘加上崔浩这对组合，在漫长的兼并战争中又逐渐剪灭其余小国，统一了北方。</p><p style="text-indent: 2em; text-align: center;"><img src="http://img.xixik.net/custom/section/chaodai/nanbeichao/xixik-39d4896839c0fd8a.jpg" style="width: 90%; max-width: 90%;" /></p><p style="text-indent: 2em; text-align: center;">	公元443年南北朝疆域</p><p style="TEXT-INDENT:2em">	而南方也没闲着，先是刘裕北伐有功，篡了<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>，成立了<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="宋朝">宋朝</a>，史称刘宋。后来这个南方国家又不断的经历了政变，南方先后经历了&ldquo;宋、齐、梁、陈&rdquo;四个<a href="http://114.xixik.com/chaodai/" style="color:#000" title="历史朝代顺序表">朝代</a>。北魏和宋齐梁陈并立于世，中国正式进入一段比较稳定的南北朝时期。这个时期南北多次发生战争，南朝在战争中领土不断缩小。</p><p style="TEXT-INDENT:2em">	北魏末年，朝政黑暗，民族矛盾严重激化，各地纷纷起义。北中国逐渐分裂为以宇文泰为首的西魏和以高欢为首的东魏。宇文家族最终在西魏的基础上建立北周，而高欢家族在东魏基础上建立北齐，北周最终以弱胜强，吞并掉北齐，再次统一北方。宇文泰统一北方依靠着他亲手提拔起来的关陇军事贵族&ldquo;八柱国十二将军&rdquo;。在这个军事贵族中有一个人，就是后来的&ldquo;天可汗&rdquo;杨坚，后来经过篡周自立，建立<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>，并消灭南方政权陈朝，在位期间解除了北方突厥的威胁，成功将突厥分裂为多部，天下复归一统，几百年的大分裂时期终于结束了。</p></div></div></div><a name="anchor2"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        南北朝皇帝列表</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%"><tbody><tr><td nowrap="nowrap" style="text-align: center;"><strong>南北朝</strong></td><td nowrap="nowrap"><strong>　朝代</strong></td><td nowrap="nowrap"><strong>在位时间</strong></td><td nowrap="nowrap"><strong>谥号庙号</strong></td><td nowrap="nowrap"><strong>姓名</strong></td><td nowrap="nowrap"><strong>年号</strong></td></tr><tr><td rowspan="65"><strong>南朝</strong></td><td rowspan="14">				刘宋<br />				420-479</td><td nowrap="nowrap">				420年-422年</td><td nowrap="nowrap">				武帝</td><td>				刘裕</td><td>				永初</td></tr><tr><td>				423年</td><td>				少帝</td><td>				刘义符</td><td>				景平</td></tr><tr><td></td><td>				文帝</td><td></td><td></td></tr><tr><td>				453年</td><td>				—</td><td>				刘劭</td><td>				—</td></tr><tr><td>				453年—456年</td><td rowspan="2">				孝武皇帝</td><td rowspan="2">				刘骏</td><td>				孝建</td></tr><tr><td>				457年—464年</td><td>				大明</td></tr><tr><td>				454年</td><td>				—</td><td>				刘义宣</td><td>				—</td></tr><tr><td>				465年</td><td rowspan="2">				前废帝</td><td rowspan="2">				刘子业</td><td>				永光</td></tr><tr><td>				465年</td><td>				景和</td></tr><tr><td>				465年—471年</td><td rowspan="2">				明帝</td><td rowspan="2">				刘彧</td><td>				泰始</td></tr><tr><td>				472年</td><td>				泰豫</td></tr><tr><td rowspan="2">				473年—476年</td><td rowspan="2">				后废帝</td><td>				刘昱</td><td rowspan="2">				元徽</td></tr><tr><td>				（废为苍梧王）</td></tr><tr><td>				477年—479年</td><td>				顺帝</td><td>				刘准</td><td>				升明</td></tr><tr><td rowspan="12">				萧齐<br />				479-502</td><td>				479年—482年</td><td>				高帝</td><td>				萧道成</td><td>				建元</td></tr><tr><td>				482年—493年</td><td>				武帝</td><td>				萧赜</td><td>				永明</td></tr><tr><td>				—</td><td>				文帝</td><td>				萧长懋</td><td>				—</td></tr><tr><td rowspan="2">				494年</td><td rowspan="2">				前废帝</td><td>				萧昭业</td><td rowspan="2">				隆昌</td></tr><tr><td>				（废为：郁林王）</td></tr><tr><td rowspan="2">				494年</td><td rowspan="2">				后废帝</td><td>				萧昭文</td><td rowspan="2">				延兴</td></tr><tr><td>				（废为：海陵恭王）</td></tr><tr><td>				494年—497年</td><td rowspan="2">				明帝</td><td rowspan="2">				萧鸾</td><td>				建武</td></tr><tr><td>				498年</td><td>				永泰</td></tr><tr><td rowspan="2">				499年—500年</td><td rowspan="2">				炀帝</td><td>				萧宝卷</td><td rowspan="2">				永元</td></tr><tr><td>				（废为：东昏侯）</td></tr><tr><td>				501年—502年</td><td>				和帝</td><td>				萧宝融</td><td>				中兴</td></tr><tr><td rowspan="31">				萧梁<br />				502-557</td><td>				502年—519年</td><td rowspan="7">				武帝</td><td rowspan="7">				&#160;</td><td>				天监</td></tr><tr><td>				520年—526年</td><td>				普通</td></tr><tr><td>				527年—528年</td><td>				大通</td></tr><tr><td>				529年—534年</td><td>				中大通</td></tr><tr><td>				535年—545年</td><td>				大同</td></tr><tr><td>				546年</td><td>				中大同</td></tr><tr><td>				547年—549年</td><td>				太清</td></tr><tr><td rowspan="2">				549年</td><td rowspan="2">				岷帝</td><td>				萧正德</td><td rowspan="2">				—</td></tr><tr><td>				（本为临贺王）</td></tr><tr><td>				549年—550年</td><td>				简文皇帝</td><td rowspan="2">				萧纲</td><td>				在位时间</td></tr><tr><td>				550年</td><td>				（初谥明帝）</td><td>				大宝</td></tr><tr><td rowspan="2">				551年</td><td rowspan="2">				兴文皇帝</td><td>				萧栋</td><td rowspan="2">				天正</td></tr><tr><td>				（本为豫章王）</td></tr><tr><td rowspan="2">				552年</td><td rowspan="2">				仁帝</td><td>				萧纪</td><td rowspan="2">				天正</td></tr><tr><td>				（本为武陵王）</td></tr><tr><td rowspan="2">				552年</td><td rowspan="8">				元帝</td><td rowspan="8">				萧绎</td><td>				承圣</td></tr><tr><td>				（承圣元年）</td></tr><tr><td rowspan="2">				553年</td><td>				天正</td></tr><tr><td>				（天正二年）</td></tr><tr><td rowspan="2">				553年</td><td>				承圣</td></tr><tr><td>				（承圣二年）</td></tr><tr><td rowspan="2">				554年</td><td>				承圣</td></tr><tr><td>				（承圣三年）</td></tr><tr><td>				555年</td><td>				闵帝</td><td>				萧渊明</td><td>				天成</td></tr><tr><td>				555年</td><td>				敬帝</td><td>				萧方智</td><td>				绍泰</td></tr><tr><td>				556年—557年</td><td>				—</td><td>				—</td><td>				太平</td></tr><tr><td>				557年</td><td>				兴正皇帝</td><td>				萧庄</td><td>				—</td></tr><tr><td>				在位时间</td><td>				谥号</td><td>				姓名</td><td nowrap="nowrap">				&#160;</td></tr><tr><td>				555年—562年</td><td>				宣帝</td><td>				萧察</td><td nowrap="nowrap">				&#160;</td></tr><tr><td>				562年—585年</td><td>				孝明帝</td><td>				萧岿</td><td nowrap="nowrap">				&#160;</td></tr><tr><td>				585年—587年</td><td>				孝靖皇帝</td><td>				萧琮[4]</td><td nowrap="nowrap">				&#160;</td></tr><tr><td rowspan="7">				南陈<br />				557-589</td><td>				557年—559年</td><td>				武帝</td><td>				陈霸先</td><td nowrap="nowrap">				&#160;</td></tr><tr><td>				559年—566年</td><td>				文帝</td><td>				陈蒨</td><td nowrap="nowrap">				&#160;</td></tr><tr><td rowspan="2">				566年—568年</td><td rowspan="2">				废帝</td><td>				陈伯宗</td><td nowrap="nowrap">				&#160;</td></tr><tr><td>				（废为临海王）</td><td nowrap="nowrap">				&#160;</td></tr><tr><td>				568年—582年</td><td>				宣帝</td><td>				陈顼</td><td nowrap="nowrap">				&#160;</td></tr><tr><td rowspan="2">				582年—589年</td><td rowspan="2">				末帝</td><td>				陈叔宝</td><td nowrap="nowrap">				&#160;</td></tr><tr><td>				（废为长城炀公）</td><td nowrap="nowrap">				&#160;</td></tr><tr><td nowrap="nowrap"></td><td nowrap="nowrap"></td><td colspan="3" nowrap="nowrap">				&#160;</td></tr><tr><td rowspan="85"><strong>北朝</strong></td><td rowspan="50">				北魏<br />				386-534</td><td></td><td>				道武皇帝</td><td rowspan="5">				拓跋圭</td><td></td></tr><tr><td>				386年—396年</td><td>				（初谥宣武皇帝）</td><td>				登国</td></tr><tr><td>				396年—398年</td><td></td><td>				皇始</td></tr><tr><td>				398年—404年</td><td></td><td>				天兴</td></tr><tr><td>				404年—409年</td><td></td><td>				天赐</td></tr><tr><td>				409年—413年</td><td rowspan="3"></td><td rowspan="3"></td><td>				永兴</td></tr><tr><td>				414年—416年</td><td>				神瑞</td></tr><tr><td>				416年—423年</td><td>				泰常</td></tr><tr><td>				424年—428年</td><td rowspan="6"></td><td rowspan="6">				&#160;</td><td>				始光</td></tr><tr><td>				428年—431年</td><td>				神麚</td></tr><tr><td>				432年—434年</td><td>				延和</td></tr><tr><td>				435年—440年</td><td>				太延</td></tr><tr><td>				440年—451年</td><td>				太平真君</td></tr><tr><td>				451年—452年</td><td>				正平</td></tr><tr><td rowspan="2">				452年</td><td rowspan="2">				敬寿皇帝</td><td>				拓跋余</td><td rowspan="2">				承平或永平</td></tr><tr><td>				（本为南安王）</td></tr><tr><td>				452年—454年</td><td rowspan="4"></td><td rowspan="4"></td><td>				兴安</td></tr><tr><td>				454年—455年</td><td>				兴光</td></tr><tr><td>				455年—459年</td><td>				太安</td></tr><tr><td>				460年—465年</td><td>				和平</td></tr><tr><td>				466年—467年</td><td rowspan="2"></td><td rowspan="2"></td><td>				天安</td></tr><tr><td>				467年—471年</td><td>				皇兴</td></tr><tr><td>				&#160;</td><td rowspan="4">				孝文皇帝</td><td>				元宏[1]</td><td>				&#160;</td></tr><tr><td>				471年—476年</td><td>				（拓跋宏）</td><td>				延兴</td></tr><tr><td>				476年</td><td></td><td>				承明</td></tr><tr><td>				477年—499年</td><td></td><td>				太和</td></tr><tr><td>				500年—503年</td><td rowspan="4"></td><td rowspan="4"></td><td>				景明</td></tr><tr><td>				504年—508年</td><td>				正始</td></tr><tr><td>				508年—512年</td><td>				永平</td></tr><tr><td>				512年—515年</td><td>				延昌</td></tr><tr><td>				516年—518年</td><td rowspan="5"></td><td rowspan="5"></td><td>				熙平</td></tr><tr><td>				518年—520年</td><td>				神龟</td></tr><tr><td>				520年—525年</td><td>				正光</td></tr><tr><td>				525年—527年</td><td>				孝昌</td></tr><tr><td>				528年</td><td>				武泰</td></tr><tr><td>				528年</td><td>				少恭皇帝</td><td>				元钊</td><td>				建义[2]</td></tr><tr><td rowspan="2">				528年-530年</td><td>				孝庄皇帝</td><td rowspan="2">				元子攸</td><td rowspan="2">				永安</td></tr><tr><td>				（初谥武怀皇帝）</td></tr><tr><td>				529年</td><td rowspan="2"></td><td rowspan="2"></td><td>				孝基</td></tr><tr><td>				529年</td><td>				建武</td></tr><tr><td rowspan="2">				530年-531年</td><td rowspan="2">				敬帝</td><td>				元晔</td><td rowspan="2">				建明</td></tr><tr><td>				（本为长广王）</td></tr><tr><td>				530年</td><td>				顺帝</td><td>				元悦</td><td>				更兴</td></tr><tr><td>				531年-532年</td><td>				节闵皇帝</td><td>				元恭[3]</td><td>				普泰</td></tr><tr><td rowspan="2">				531年-532年</td><td rowspan="2">				顺文皇帝</td><td>				元朗[4]</td><td rowspan="2">				中兴</td></tr><tr><td>				（本为安定王）</td></tr><tr><td></td><td>				孝武皇帝</td><td rowspan="4">				元脩[5]</td><td>				&#160;</td></tr><tr><td>				532年</td><td>				（出皇帝）</td><td>				太昌</td></tr><tr><td>				532年</td><td></td><td>				永兴</td></tr><tr><td>				532年-534年</td><td></td><td>				永熙</td></tr><tr><td>				东魏<br />				534-550</td><td nowrap="nowrap"></td><td nowrap="nowrap"></td><td nowrap="nowrap"></td><td nowrap="nowrap"></td></tr><tr><td rowspan="19">				北齐<br />				550-577</td><td rowspan="2">				550年⑸-559年⑽</td><td>				文宣帝</td><td>				高洋</td><td>				在位时间</td></tr><tr><td>				（曾改谥景烈皇帝）</td><td>				（高欢次子）</td><td>				（天保）</td></tr><tr><td rowspan="3">				559年⑽-560年⑻</td><td rowspan="3">				废帝</td><td>				高殷</td><td>				在位时间</td></tr><tr><td>				（高洋长子）</td><td>				（干明）</td></tr><tr><td>				（废为济南闵悼王）</td><td></td></tr><tr><td rowspan="2">				560年⑻-561年⑾</td><td rowspan="2">				孝昭帝</td><td>				高演</td><td>				在位时间</td></tr><tr><td>				（高洋之弟、高欢六子）</td><td>				（皇建）</td></tr><tr><td>				561年⑾-565年⑷</td><td rowspan="4">				武成帝</td><td>				高湛</td><td>				在位时间</td></tr><tr><td rowspan="2">				561年⑾-562年⑷</td><td>				（高洋之弟、高欢九子）</td><td>				大宁</td></tr><tr><td></td><td>				（或太宁）</td></tr><tr><td>				562年⑷-565年⑷</td><td></td><td>				河清</td></tr><tr><td>				565年⑷-577年⑿</td><td rowspan="4">				安帝</td><td>				高纬</td><td>				在位时间</td></tr><tr><td>				565年⑷-569年⑿</td><td>				（高湛长子）</td><td>				天统</td></tr><tr><td>				570年⑴-576年⑿</td><td></td><td>				武平</td></tr><tr><td>				577年⑴-577年⑴</td><td></td><td>				隆化</td></tr><tr><td rowspan="2">				577年⑴-?</td><td rowspan="2">				顺帝</td><td>				高恒</td><td rowspan="2">				承光</td></tr><tr><td>				（高纬长子）</td></tr><tr><td rowspan="2">				577年-580年</td><td rowspan="2">				忠帝</td><td>				高绍义</td><td rowspan="2">				—</td></tr><tr><td>				（本为范阳王）</td></tr><tr><td>				西魏<br />				535-556</td><td nowrap="nowrap"></td><td nowrap="nowrap"></td><td nowrap="nowrap"></td><td nowrap="nowrap"></td></tr><tr><td rowspan="14">				北周<br />				557-581</td><td>				557年</td><td>				孝闵帝</td><td>				宇文觉</td><td>				在位时间</td></tr><tr><td>				557年⑼-560年⑷</td><td rowspan="3">				明帝</td><td rowspan="3">				宇文毓</td><td>				在位时间</td></tr><tr><td>				557年⑼-559年⑻</td><td>				—</td></tr><tr><td>				559年⑼-560年</td><td>				武成</td></tr><tr><td>				560年⑷-578年⑹</td><td rowspan="5">				武帝</td><td rowspan="5">				宇文邕</td><td>				在位时间</td></tr><tr><td>				561年-565年</td><td>				保定</td></tr><tr><td>				566年-571年</td><td>				天和</td></tr><tr><td>				572年⑶-577年</td><td>				建德</td></tr><tr><td>				578年⑴-578年⑹</td><td>				宣政</td></tr><tr><td rowspan="2">				578年⑹-579年⑵</td><td rowspan="2">				宣帝</td><td rowspan="2">				宇文赟</td><td>				在位时间</td></tr><tr><td>				（大成）</td></tr><tr><td>				579年⑵-581年⑵</td><td rowspan="3">				静帝</td><td rowspan="3">				宇文衍</td><td>				在位时间</td></tr><tr><td>				579年⑵-580年</td><td>				大象</td></tr><tr><td>				581年⑴-581年⑵</td><td>				大定</td></tr></tbody></table><p>	&#160;</p></div></div></div><a name="anchor3"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        南北朝为何是北方统一了天下？</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	关于<a href="http://114.xixik.com/chaodai/nanbeichao/" style="color:#000" title="南北朝">南北朝</a>的历史，很多人都有一个第一印象，那就是北朝虽然大部分是游牧<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>建立的，但是他们的<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>往往都比较有作为，治理国家也都很有一手，自然下意识的就认为北朝的各方面都强过腐朽懦弱的南朝。</p><p style="TEXT-INDENT:2em"><a href="http://www.xixik.com/content/250a3b28b490109c" target="_blank" title="南北朝南朝强于北朝 怎么到后来强弱逐渐逆转了？">南北朝南朝强于北朝 怎么到后来强弱逐渐逆转了？</a></p><p style="TEXT-INDENT:2em">	但是真实情况并不是这样的，先不说北朝出了多个像高洋、石虎这样的暴君，无能之辈也特别多，经济上也远远不如南朝发达，文化教育就更不用多说，除了文学家、诗人之外，甚至连炼丹的术士（葛洪等人），南方都比北方强得多。毫不客气的说，南方在各个时期在我们常说的各个发展方面，都对北方形成了碾压。可是话又说回来了，为什么这样的南朝到最后，却被北方给被灭掉了呢，国家也在北方统治者手里完成了统一呢？这个我们从头说起。</p><p style="TEXT-INDENT:2em"><a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="西晋">西晋</a>的灭亡，起于诸王的叛乱，本来就盘踞在边境的少数<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>趁机进入了中原地区，北方的稍微有点实力的士大夫都逃到南方去了，这也从侧面导致了南方文化的繁荣，同时也使得南方很多原本人烟稀少的地区变得富裕起来。自此，南方进入了比较长时间的安定时期，别看游牧<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>在北方打的热火朝天，但是相当长的一段时间里，他们都没能打过淮河，甚至山东地区有段时间也在南朝的统治之下。这样一来，北方军队的战斗力得到了持续不断的提升，南方虽然没有多少实战经历，但是处于对北方政权的防备策略，平时的训练也没有落下，南北方之间的军队战力倒是也没有形成明显的差距。</p><p style="TEXT-INDENT:2em">	北朝无论是短暂统一的前秦还是长时间安稳统治的北魏都没能跨越长江深入南朝的腹地，南朝历经多次军事强盛时期，施行多次北伐也没能占到多少便宜。当我们感觉南北方将持续出去拉锯状态的时候，北魏的分裂又使得北朝陷入混战之中，这次与<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="西晋">西晋</a>灭亡之初的情形大为不同。首先，留在北方的大家族开始形成一股新的势力，并逐渐变得异常强大，大到能够左右国家的大政方针的地步，后世有个统一的称呼&mdash;家族门阀，于此同时，游牧<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>经过多年的发展，大部分都已经鲜卑化或者汉化，势力逐渐稳定下来。这两股势力的融合，导致北朝虽然并不统一，但是军事实力得到了延续，名臣名将辈出。反观南朝，前期还有谢安、刘裕等名将，到梁武帝末期，虽然军队尚有战力，却面临无将可用的窘境，致使在北方呆不下去的侯景随便一闹就全国大乱，<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>死于非命不说，巴蜀地区和长江以北地区也被北朝趁机占领。大片领土的缺失导致南朝终于开始全面走下坡路，陈霸先建立的陈朝虽然有多个<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>算得上是有德之君，但是却挽回不了已经形成的颓势。最终，南朝最后一个<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>陈叔宝投降，国家又回归大一统。</p></div></div></div><a name="anchor4"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        漫画说南北朝</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	乱世之所以被称为历史书杀手，就是因为一个“乱”字，而在盛唐建立之前，存在了一个名为“南北朝”的乱世，让无数文科生摸不着头脑。</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/030/xixik_a536112e9bb66865.jpg" /></p><p style="TEXT-INDENT:2em">	首先，南北朝分为南朝和北朝，而这两朝是同时存在的，大概以地理位置来命名区分，南朝有宋、齐、梁、陈，北朝有北魏、东魏、西魏、北齐和北周。</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/030/xixik_7e1f9e974fffbed2.jpg" /></p><p style="TEXT-INDENT:2em">	要说南北朝的历史有什么特点，南朝是长江后浪推前浪，前浪被拍死在沙滩上，北朝就是姐妹撕逼双双把家还，而这九个<a href="http://114.xixik.com/chaodai/" style="color:#000" title="历史朝代顺序表">朝代</a>的<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>关系……</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/030/xixik_bf62ed01368170d3.jpg" /></p><p style="TEXT-INDENT:2em">	（南北朝一共65位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>）</p><p style="TEXT-INDENT:2em">	一、刘宋和北魏</p><p style="TEXT-INDENT:2em">	先从南朝的第一个<a href="http://114.xixik.com/chaodai/" style="color:#000" title="历史朝代顺序表">朝代</a>刘宋说起，自从<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>惨遭北方胡人吊打后，就选择了龟缩在南方，而最终灭掉<a href="http://114.xixik.com/chaodai/jin/" style="color:#000" title="东晋">东晋</a>的人就是刘裕（刘宋之所以不能叫<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="南宋">南宋</a>，都怪老赵家），与此同时，在北方的<a href="http://114.xixik.com/chaodai/5hu16guo/" style="color:#000" title="五胡乱华">五胡十六国</a>大乱斗中，由拓跋焘选手带领的北魏赢下了比赛，一统北方，顺利C位出道（拓跋焘是北魏的第三任<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>），从这里开始，南北朝对立的局面正式形成 。</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/030/xixik_34852dc852e1b34a.jpg" /></p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/030/xixik_551d33ec5df5b3ae.jpg" /></p><p style="TEXT-INDENT:2em">	对立局面有了，互怼的CP也有了，那下一步该干嘛？</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/030/xixik_6fd70d63b410b775.jpg" /></p><p style="TEXT-INDENT:2em">	刘裕从一开始就特别能打，人送外号“帝国的绝凶虎”，毕生的Flag是干掉北魏统一中原，果不其然他就病死了，于是拓跋焘的对手就变成了刘裕的三儿子，——刘义隆。</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/030/xixik_a949ce4d13404ce9.jpg" /></p><p style="TEXT-INDENT:2em">	刘义隆算是南北朝中为数不多的，不赌不嫖早上朝型皇二代，还继承了老父亲的遗志，一直对住在隔壁的北魏耿耿于怀，但没想到因为亲子感情联络不够，被处于叛逆期的儿子一刀捅死。</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/030/xixik_9949161e58495ddd.jpg" /></p><p style="TEXT-INDENT:2em">	而与此同时，在北边的拓跋焘结局也差不多，惨遭自家后方背刺，被一个太监发起政变捅死了。</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/030/xixik_2e662730a3c681f4.jpg" /></p><p style="TEXT-INDENT:2em">	从这里开始，刘宋和北魏就双双把车开向了排水沟。</p><p style="TEXT-INDENT:2em">	二、南齐和北魏</p><p style="TEXT-INDENT:2em">	自从刘义隆被捅死后，刘宋王朝的<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>就彻底换了个画风，不是手足相残，就是疯狂走肾家族乱伦，好不容易出了个稍微过得去的猪王，结果却是内斗一把手，对外软脚虾。</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/030/xixik_d5f516f2fc4f62f3.jpg" /></p><p style="TEXT-INDENT:2em">	刘宋的暴政惹得天怒人怨，这时，终于有个潜伏多年的反骨仔出手了，直接政变弄死了狗<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，建立南齐，这个男人的名字叫做萧道成。</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/030/xixik_34004fdc40ebdcac.jpg" /></p><p style="TEXT-INDENT:2em">	&#160;</p><p style="TEXT-INDENT:2em">	萧道成曾经是刘宋的一名大将，手中还掌有禁军，在刘宋群里潜伏了三十多年后，终于坐上了群主的宝座。</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/030/xixik_81fc4b4b4a5072e2.jpg" /></p><p style="TEXT-INDENT:2em">	可惜南齐的运气并不怎么好，先是萧道成当上<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>没几年就病死了，然后继任者也没几个靠谱的，疯狂作妖，结果仅仅过了二十多年，南齐就在欢声笑语之间打出了GG，顺利宣布倒闭。</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/030/xixik_7a583e0174ff77f9.jpg" /></p><p style="TEXT-INDENT:2em">	那这时候的北魏在干啥呢？北魏的运气就好了太多，不仅在太监手里夺回了朝政大权，后来还实施汉化改革政策，慢慢走回了强盛的道路。</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/030/xixik_b8fdb625690cf3b5.jpg" /></p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/030/xixik_d05688a23a80a4d3.jpg" style="text-indent: 2em;" /></p><p style="TEXT-INDENT:2em">	眼看着北魏好不容易才续了一秒，结果等到孝文帝一死，后面的<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>就变成了败家子，天天瞎瘠薄浪。但这次，北魏<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>却惹到了两个不能惹的兄贵——高欢和宇文泰（两人都是北魏重臣）</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/030/xixik_c8634291fab0f994.jpg" /></p><p style="TEXT-INDENT:2em">	三、北魏的陨落和分裂</p><p style="TEXT-INDENT:2em">	被惹毛了的高欢迅速黑化，直接杀掉了当时的北魏<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，还绑了一个皇室继承人作为傀儡，独立出来，自称东魏。同僚宇文泰一看情况不对，也赶紧绑了另一个皇室继承人作为傀儡，独立出来，自称西魏，从此北魏一分为二，名存实亡。</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/030/xixik_0fe79642e98522ed.jpg" /></p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/030/xixik_edf4489803be2090.jpg" /></p><p style="TEXT-INDENT:2em">	等到高欢和宇文泰去世后，他们的儿子立马就扒下了虚假的面孔，一脚把傀儡<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>踢开，先后各自称帝，史称北齐和北周。</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/030/xixik_95ce5a6871893d8e.jpg" /></p><p style="TEXT-INDENT:2em">	四、南梁和南陈</p><p style="TEXT-INDENT:2em">	既然北方已经打得红红火火，南方自然也不能落后，前面说到南齐因为运气太差倒闭了，可南方这么大一块蛋糕，说什么都会有老实人来接盘的，而这个人就是萧衍。</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/030/xixik_10ea1cc84c0fa3ff.jpg" /></p><p style="TEXT-INDENT:2em">	萧衍是南齐皇室的远房<a href="http://114.xixik.com/qinqi/" style="color:#000" title="亲戚">亲戚</a>之一，在知道南齐快不行了后，就用武力强迫当时的南齐<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>禅位，自己上台，建立了南梁。</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/030/xixik_89933b9631a272da.jpg" /></p><p style="TEXT-INDENT:2em">	年轻时的萧衍也算英明神武，但等到中年发福后，他却染上了一种恶习——佛系养生。</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/030/xixik_ecb9fb1af7d24be9.jpg" /></p><p style="TEXT-INDENT:2em">	如果是一般的修佛当然没问题，但萧衍曾经三次偷跑去出家当和尚，无心国事还大兴寺庙，这直接导致了南梁内外同时发生战乱，最后萧衍自己也被敌将抓住，落得活活饿死在建康台城的下场，眼看着南梁下一步就要翻船，落入敌人手中，南边一个广东蛊惑仔当仁不让站了出来，他就是山鸡陈霸先。</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/030/xixik_1fa687e554cc6ea4.jpg" /></p><p style="TEXT-INDENT:2em">	陈霸先作为南梁的头号古惑仔，在萧衍沉迷养生时，不仅要负责抵御对面的北朝，还要解决当时南梁国内的“侯景之乱”，以一己之力硬是挡住了两方。</p><p style="TEXT-INDENT:2em">	然而再溜的大神也比不上猪队友，等到萧衍死后，陈霸先自觉萧家后人已经无药可救，直接废掉了萧家人的皇位，自己翻身当上揸fit人，建立南陈（揸fit人：老大）。</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/030/xixik_575e85929e1ab7d0.jpg" /></p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/030/xixik_47f35b5a4bcafbe4.jpg" /></p><p style="TEXT-INDENT:2em">	到了这里，南北朝就进入了南陈、北齐和北周，长时间<a href="http://114.xixik.com/chaodai/sanguo/" style="color:#000" title="三国">三国</a>鼎立的局面。</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/030/xixik_3a6b7dc2e87e2718.jpg" /></p><p style="TEXT-INDENT:2em">	二十多年后，北齐因为一连串的傻逼<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>败家，最终被北周击败，北方也再次合为一体，后来北周的末代<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>因为肾透支，年纪轻轻也死在了床上，被自己岳父趁虚而入拿下了朝政大权，而这个岳父，名叫杨坚。</p><p style="TEXT-INDENT:2em">	再后来的事大家应该也知道了，杨坚称帝建立了<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>，在干倒南陈后一统中原，中国也开始进入了最牛逼的时代——隋唐。<a href="http://www.xixik.com/content/962a671eafd2e888" target="_blank" title="中国人误解最深、被扭曲历史最多的朝代：隋朝">中国人误解最深、被扭曲历史最多的朝代：隋朝</a></p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/030/xixik_5b19337d9a39b44a.jpg" /></p></div></div></div></div><script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script><script type="text/javascript">        var value = '204';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script><div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/chaodai/nanbeichao/" target="_self" title="南北朝历史_南北朝皇帝列表及简介_南北朝疆域">南北朝历史</a></div><ul style="width: 960px; margin: auto; overflow: hidden;"><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/lixi/"
+                title="人民币存款利率表，2019银行利息，银行存款利率，银行贷款利率">银行存款利息</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chaodai/zhou/"
+                title="周朝历史_西周历史_东周历史_周朝帝王列表">周朝历史</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证_中国旅行证更换新政策_美宝中国旅行证过期了该怎么办？">中国旅行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国历任总统名单_美国历届总统任期_美国总统简历生卒年份及所属党派">美国历届总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/baijiaxing-qq/"
+                title="百家姓qq头像,百家姓qq头像闪图大全_百家姓中国心qq头像">百家姓QQ头像</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="赴美生子_美宝证件_中国旅行证_美国护照_社会安全号_美国出生纸_美宝上户口">美宝需要哪些证件？</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_赴美生子费用预算清单_赴美生子2019费用">赴美生子要多少钱</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/obama/"
+                title="奥巴马_美国总统奥巴马_贝拉克·奥巴马(Barack Hussein Obama)_第44任美国总统">奥巴马</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/trump/"
+                title="美国总统特朗普_唐纳德·约翰·特朗普_Donald John Trump_第45任美国总统川普">特朗普</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_赴美生子要多少钱？_赴美生子预算表">赴美生子费用</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 中国护照免签证国家2019">中国护照免签证</a></li></ul><div class="lindBox"><div class="btnGray"><div class="btnText"><a target="_self" title="南北朝历史_南北朝皇帝列表及简介_南北朝疆域" href="http://news.xixik.com/word/204/">另存为<br />                    Word格式</a></div></div></div><div class="lindBox" style="text-align: center;"><img src="http://news.xixik.com/qrcode/204/" alt="扫码手机上继续看" /><br /><br /><strong>用微信或者支付宝扫码在手机上继续观看<br />            可以保存收藏，也扫码后可以分享给好友
+        </strong></div><hr style="height: 1px; border: none; border-top: 1px dashed #999;" /><script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script><!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.--></body></html>

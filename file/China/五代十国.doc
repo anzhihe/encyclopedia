@@ -1,0 +1,2443 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <title>五代十国_五代十国历史简介_五代十国皇帝列表_中国历史朝代</title>
+    <link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" />
+    <meta name="description" content="五代十国历史,五代十国包括那些国家和政权?五代十国皇帝列表,五代十国皇帝大全,五代十国疆域.五代:后梁,后唐,后晋,后汉,后周.十国:吴唐吴越前后蜀，南北两汉闽平楚,合称五代十国." />
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/chaodai/5dai10guo/">
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <base target="_blank" />
+    
+    <script>
+        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "chaodai/5dai10guo/";
+        }
+
+
+    </script>
+    <style>
+        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style>
+</head>
+<body>
+    <a name="top4"></a>
+    <div class="topBox" name="top">
+        <div class="topMain">
+            <div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div>
+            <div id="icoPhone"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div>
+            <div id="icoWechat"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a> </div>
+            <div id="icoSina"></div>
+            <div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a>  </div>
+            <div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div>
+            <div class="topRight">
+            </div>
+        </div>
+    </div>
+
+    <div id="showqrCode">
+        <div><span></span></div>
+        <img src="" /><div><span></span></div>
+    </div>
+    <script type="text/javascript">
+        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script>
+    <div class="body">
+        
+        <div class="lindBox" style="position: relative;">
+            <img src="http://img.xixik.net/custom/topic/001/chaodai-5dai10guo.png" alt="五代十国_五代十国历史简介_五代十国皇帝列表_中国历史朝代" />
+            <div class="title">
+                <h1>五代十国_五代十国历史简介_五代十国皇帝列表_中国历史朝代</h1>
+            </div>
+        </div>
+        
+
+        <div class=" custom_border lindBox">
+            <div class="special_content">
+                <div class="content_text">
+                    <div class="content_daodu">
+                    </div>
+                    <h2 style="border-bottom:1px dashed #999; displayinline;">五代十国</h2>
+                    <p>
+	<a href="http://114.xixik.com/chaodai/5dai10guo/" style="color:#000" title="五代十国"><strong>五代十国</strong></a>（907年－979年），一般又简称&ldquo;五代&rdquo;，五代并不是一个指朝代，而是指介于唐宋之间的一个特殊的历史时期。自<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>灭亡开始，至宋朝统一中国本土为止。五代十国本质上是唐末藩镇割据和唐朝后期政治的延续。五代十国年包含的政权：后梁、后唐、后晋、后汉、后周、吴、南唐、吴越、楚、北汉、南汉、前蜀、后蜀、南平、闽。</p>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="lindBox" style="overflow: hidden;">
+            <div class="gg1">
+                <a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a>
+            </div>
+            <div class="guide">
+                <div class="guideBorder" id="guideBorder">
+                    <div class="guideTitle">导读（目录）</div>
+                    <ul id="guideDisplay">
+                        
+                                <li>·<a title="五代十国指什么时代？" href="#anchor1" target="_self"> 五代十国指什么时代？</a></li>
+                            
+                                <li>·<a title="五代十国政权起止时间" href="#anchor2" target="_self"> 五代十国政权起止时间</a></li>
+                            
+                                <li>·<a title="五代十国皇帝列表" href="#anchor3" target="_self"> 五代十国皇帝列表</a></li>
+                            
+                                <li>·<a title="后周世宗柴荣：五代第一明君" href="#anchor4" target="_self"> 后周世宗柴荣：五代第一明君</a></li>
+                            
+                                <li>·<a title="地图上的五代十国变迁" href="#anchor5" target="_self"> 地图上的五代十国变迁</a></li>
+                            
+                    </ul>
+                    <div class="guideOpen">展开&darr;</div>
+                </div>
+            </div>
+
+            <div class="guideFllow">
+                <div class="guideFllowBorder">
+                    <div class="guideFllowTitle">导读（目录）</div>
+                    <ul id="guideFllowDisplay">
+                        
+                                <li>·<a title="五代十国指什么时代？" href="#anchor1" target="_self"> 五代十国指什么时代？</a></li>
+                            
+                                <li>·<a title="五代十国政权起止时间" href="#anchor2" target="_self"> 五代十国政权起止时间</a></li>
+                            
+                                <li>·<a title="五代十国皇帝列表" href="#anchor3" target="_self"> 五代十国皇帝列表</a></li>
+                            
+                                <li>·<a title="后周世宗柴荣：五代第一明君" href="#anchor4" target="_self"> 后周世宗柴荣：五代第一明君</a></li>
+                            
+                                <li>·<a title="地图上的五代十国变迁" href="#anchor5" target="_self"> 地图上的五代十国变迁</a></li>
+                            
+                    </ul>
+                    <div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div>
+                </div>
+            </div>
+
+
+            <div class="gg2">
+                <a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a>
+            </div>
+        </div>
+        
+        <a name="anchor1"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        五代十国指什么时代？</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<strong><a href="http://114.xixik.com/chaodai/5dai10guo/" style="color:#000" title="五代十国">五代十国</a></strong>（Five Dynasties and Ten Kingdoms，907年－979年），一般又简称五代。五代并不是一个指朝代，而是指介于唐宋之间的一个特殊的历史时期。一般认为从公元907年朱温灭唐到960年北宋建立，共五十三年。实际上十国当中有六个在960年之后灭亡，北汉在最后，被灭时已是979年。<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>灭亡之后，在中原地区相继出现了定都于开封和洛阳的，中原地区依次出现梁、唐、晋、汉与周五个<a href="http://114.xixik.com/chaodai/" style="text-indent: 2em; color: rgb（0, 0, 0）;" title="历史朝代顺序表">朝代</a>，史称后梁、后唐、后晋、后汉、后周。以及割据于西蜀、江南、岭南和河东等地的十几个政权，抽取有代表性的十个<span arial="" style="text-indent: 2em; color: rgb（0, 0, 0）; font-family: 宋体, ">史称“十国”，</span>合称“<strong style="text-indent: 2em;"><a href="http://114.xixik.com/chaodai/5dai10guo/" style="color:#000" title="五代十国">五代十国</a></strong>”（<a href="http://www.xixik.com/content/2c25763a55cc6424" target="_blank" title="五十年短暂光阴 五代十国中每个朝代的国名来历">五代十国中朝代的国名来历</a>）。“五代”更偏向于这五个位于中原的王朝，正统史学家们一般称五代为中央王朝，十国为割据政权。</p><p style="TEXT-INDENT:2em">
+	<strong><a href="http://114.xixik.com/chaodai/5dai10guo/" style="color:#000" title="五代十国">五代十国</a></strong>本质上是唐末藩镇割据和<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>后期政治的延续。<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>灭亡后，各地藩镇纷纷自立为国，其中位在华北地区，军力强盛的藩镇国家即五代，有些还是沙陀族所建立。五代虽然实力强大，但无力控制整个中国本土，只是藩镇型的朝廷。而其他割据一方的藩镇，有些自立为帝，有些奉中原王朝为正朔，其中十个国龄较长、国力较强的统称为十国。本时期时常发生地方实力派叛变夺位的情况，使得战乱不止，统治者多重武轻文。中国的内乱，也带给契丹国南侵的机会，辽朝得以建立。<a href="http://114.xixik.com/chaodai/5dai10guo/" style="color:#000" title="五代十国">五代十国</a>是<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>的重要时期，其间河西和交趾地区逐渐离心，交趾（越南）最终脱离中国独立。</p><div class='right_gg'><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 336x280-114-left -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-3849899595029685"
+     data-ad-slot="9973132210"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/chaodai/5dai10guo/xixik-7fe09da5353f98fb.png" style="margin: 10px; float: left; width: 400px;" /></p><p style="TEXT-INDENT:2em">
+	从<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>灭亡至北宋建立半个多世纪期间，<a href="http://www.xixik.com/content/81b956d7cf98e467">907年梁王朱温篡唐建立后梁</a>，这是<a href="http://114.xixik.com/chaodai/5dai10guo/" style="color:#000" title="五代十国">五代十国</a>的开始。晋王李克用之子李存勗灭后梁，建国后唐。后唐之后五代君王均出自李克用的子孙与部属。后唐历经后唐明宗的扩张与整顿，国力强盛，但发生内乱后，<a href="http://www.xixik.com/content/1b2ff0a14d96affa" title="中国历史上最无耻的儿皇帝 为称帝承受千古骂名">被河东节度使石敬瑭引契丹军攻灭</a>，后晋建立。不久契晋关系恶化，契丹军南下灭后晋，建立辽朝。同时后晋河东节度使刘知远在太原府称帝建立后汉，收复中原。后汉枢密使郭威篡后汉建后周，<a href="http://www.xixik.com/content/48562e3c9934f45c" title="http://www.xixik.com/content/48562e3c9934f45c">后周世宗柴荣苦心经营，使后周隐隐有一统天下的希望</a>，但柴荣在北伐燕云十六州时不幸病亡。<a href="http://www.xixik.com/content/be734db545ec958e" title="陈桥兵变不是黄袍被迫加身 是一场有预谋的政变">后周随后被殿前司都点检赵匡胤所篡建立宋</a>，五代结束。</p><p style="TEXT-INDENT:2em">
+	十国方面，江南以吴国最强，而后被齐王李昪篡位，建国南唐，其次有吴越与闽国等。湖广则被荆南、楚国与南汉等占据。南唐国力最强，先后攻灭闽国、楚国，但多次用兵使得国力衰退，曾被后周所败。蜀地有前蜀、后蜀，国家富强，是仅次于南唐的强国。北汉是惟一在北方的十国，是后汉高祖刘知远的弟弟刘祟所建。赵匡胤建立<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="宋朝">宋朝</a>（史称北宋）后，与其弟宋太宗相继扫荡其他中原诸国及地区，最后于979年统一中国本土地区，十国结束。</p><p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/5dai10guo/" style="color:#000" title="五代十国">五代十国</a>大体上延续<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>后期的政治体制，但是以“使”名官者很多。其中五代的变化很多，官职废置不常，主要设有主管行政的三省六部、主管财政的三司与主管军事的枢密院，这个制度后由<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="宋朝">宋朝</a>继承。十国虽然其中一些政权臣服于五代，但是其政治架构大致上与五代等同。由于地方节度使不受管制，时常背叛中央，所以朝廷纷纷加强禁军军力以压制地方实力派。为了抵制五代以来的武人干政现象，<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="宋朝">宋朝</a>采取强干弱枝政策。外交方面，<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>时胡汉融合，外族陆续入住中国四周。<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>崩溃进入<a href="http://114.xixik.com/chaodai/5dai10guo/" style="color:#000" title="五代十国">五代十国</a>后，出现一些外族国家，如沙陀建立五代后唐、后晋与后汉等。契丹先建立契丹国，南下灭后晋后建立辽朝。其他还有党项的定难军，于北宋时建国西夏。这些都对<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="宋朝">宋朝</a>的国际局势造成深远影响。</p><p style="TEXT-INDENT:2em">
+	由于北方战乱、外族入侵与天灾不断，南方十国在人口、经济、文化与科技方面皆胜于北方五代。这也是华南经济再度胜过华北的时刻，此后这一局面再也没有逆转。十国为扩展经济，重视兴修水利与经济作物，发展贸易业、茶叶、纺织，钱塘江海塘也是在这个时期兴建。由于关中经济崩溃，五代大多定都于隋唐大运河的枢纽开封，都城的因素与燕云十六州被外族统治影响<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="宋朝">宋朝</a>的军事与经济。文化方面，本时期是词发展的关键时期，禅宗也在本时期进入全兴期。五代推行雕版印刷《九经》，保存许多儒学经典。绘画方面，不论南方北方都有独到之处。</p><p style="text-indent: 2em;">
+	<strong><a href="http://114.xixik.com/chaodai/5dai10guo/" style="color:#000" title="五代十国">五代十国</a></strong>是个大混乱大破坏时期，上有暴君，下有酷吏，大小统治者激烈角逐，兵燹不断，社会经济、文化受到颇大影响。但这时期又是走向统一安定的时期，<a href="http://www.xixik.com/content/48562e3c9934f45c" title="柴荣堪称史上最完美最好的皇帝 后世知道却不多">在后周世宗柴荣时，采取了许多改革措施</a>，发动了北伐战争，为北宋的统一奠定了基础。其他方面，如火药、印刷术的发展，词的出现，也是有所成就的。</p><p style="TEXT-INDENT:2em">
+	<strong>五代&#160;</strong></p><p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/chaodai/5dai10guo/xixik-4b84bc939af22672.jpg" style="margin: 10px; float: right; width: 400px;" /></p><p style="TEXT-INDENT:2em">
+	<strong>五代</strong>指的是中原地区前后更替的<strong>后梁 （907-923）、后唐（923-936）、后晋（936-946）、后汉（947-950）、后周（951-960）</strong>。&#160;</p><p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>灭亡之后，藩镇割据势力进一步发展，<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>再一次进入了大割据时代。在北方广大地区，军阀混战的结果是先后出现了后梁、后唐、后晋、后汉和后周五个较强大的王朝。五代存在了53年，共更换了八姓十四君。</p><p style="TEXT-INDENT:2em">
+	唐末农民起义军叛徒、唐宣武节度使朱全忠（原名朱温），消灭了许多割据势力，初步统一了黄河流域以后，于907年废唐哀帝自立，国号梁，定都开封，史称“<strong>后梁</strong>“。后梁建立后，梁太祖朱全忠与河东军阀、沙陀贵族李克用继续争夺霸权，交战不已，各地藩镇的骄横局面也没有多大改变。912年，朱全忠被其子杀死后，政局更为混乱，后梁统治共17年。&#160;</p><p style="TEXT-INDENT:2em">
+	923年，沙陀族人李克用之子李存勖（庄宗）灭梁，改国号为唐，建都洛阳，史称“<strong>后唐</strong>”，926年发生魏州（河北大名东南）兵变，庄宗毙于流矢，李克用养子李嗣源入洛阳称帝（明宗）。唐明宗改革了庄宗时的一些弊政，在位七年，战事减少，农业屡有丰收，人民获得了短期的喘息。明宗死后，由于最高统治集团内部互相攻杀，不久被后晋所灭。后唐统治14年。&#160;</p><p style="TEXT-INDENT:2em">
+	936年，河东节度使石敬瑭借契丹兵推翻了后唐，建立了政权，国号晋，迁都开封，史称“<strong>后晋</strong>”。在五代中，以后晋之国力最弱，为报答契丹借兵灭唐，<a href="http://www.xixik.com/content/1b2ff0a14d96affa">石敬瑭竟事契丹国主以父礼，自称“儿皇帝”</a>，并割<a href="http://www.xixik.com/content/5f5efe85f0fc4020" title="幽云十六州漂泊400年才回归故土">燕云十六州</a>以酬。传至出帝时，因不愿再对契丹称臣，结果被契丹出兵所灭。947年初，辽兵攻入开封，后晋亡。后晋凡十二年。&#160;</p><p style="TEXT-INDENT:2em">
+	当辽兵攻入开封后，后晋河东节度使刘知远（沙陀人）在晋阳（太原）称帝（高祖），仍用后晋天福年号，争取后晋旧臣归附。当辽兵北退后，他很快进入洛阳和开封，并在开封建都，国号汉，史称“<strong>后汉</strong>”。后汉高祖做了11个月<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>就死了，<a href="http://www.xixik.com/content/d3016ca20e5fc949" title="后汉隐帝刘承祐：你要抢我的江山，我杀你全家">其侄刘承佑（隐帝）继位后，忌杀大臣</a>，天雄节度使郭威被迫起兵反汉，隐帝被杀。后汉仅统治四年就灭亡了。&#160;</p><p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/chaodai/5dai10guo/xixik-d6b882b3f64338eb.jpg" style="margin: 10px; float: right; width: 400px;" /></p><p style="TEXT-INDENT:2em">
+	郭威于951年建国，仍都于开封，国号周，史称“<strong style="text-indent: 2em;">后周</strong>”。他在位三年而死，养子柴荣继位，是为世宗，其国势在五代中最强。世宗注重发展生产，又整顿军队、南征北伐，希图统一全国，惜未能完成而病逝于军中。其子恭帝即位，年方七岁，由太后临朝。这种孤儿寡妇的局面自不能维持多久，<a href="http://www.xixik.com/content/be734db545ec958e" title="陈桥兵变不是黄袍被迫加身 是一场有预谋的政变">归德节度使赵匡胤发动陈桥兵变</a>，灭亡后周而建立<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb（0, 0, 0）;" title="宋朝">宋朝</a>，五代至此终结。&#160;</p><p style="TEXT-INDENT:2em">
+	<strong>十国&#160;</strong></p><p style="TEXT-INDENT:2em">
+	五代时，在南方秦岭淮河以南和北方的山西（河东）先后存在过十个割据政权，史称“十国“。按照先后：前蜀、后蜀、吴越、南唐、南汉、楚、吴越、闽、荆南、北汉等十个政权。</p><p style="TEXT-INDENT:2em">
+	<strong>十国</strong>（南方9个+北方1个）：吴、南唐、吴越、楚、北汉、南汉、前蜀、后蜀、<span arial="" style="color: rgb（0, 0, 0）; font-family: 宋体, ">荆南（南平）</span>、闽，<span arial="" style="color: rgb（0, 0, 0）; font-family: 宋体, ">即“吴唐吴越前后蜀，南北两汉闽平楚”分别割据于</span>西蜀、江南、岭南和河东等<span arial="" style="text-indent: 2em; color: rgb（0, 0, 0）; font-family: 宋体, ">，</span><span arial="" style="text-indent: 2em; color: rgb（0, 0, 0）; font-family: 宋体, ">江南地区有南吴、南唐、吴越国、闽国等。湖广则被荆南（南平）、南楚、南汉等占据。南唐国力最强，先后攻灭闽国、楚国，但多次用兵使得国力衰退，最后败于后周。两川地区有前蜀、后蜀，国家富强，是仅次于南唐的强国，然而耽于安乐，最后亡于中原。北汉是十国中惟一在北方的一国，是后汉高祖刘知远的弟弟刘祟所建。但实际的国却不止十个，其他中华王国：吐蕃、西域各国、渤海国、高句丽、琉球王国、窝阔台汗国、察合台汗国、回鹘、古代越南王国、吐谷浑等等。“五代”和“十国”合称“</span><strong><a arial="" href="http://114.xixik.com/chaodai/5dai10guo/" style="text-indent: 2em; color: rgb（0, 0, 0）; text-decoration-line: none; font-family: 宋体, " title="五代十国">五代十国</a></strong><span arial="" style="text-indent: 2em; color: rgb（0, 0, 0）; font-family: 宋体, ">”。</span></p><p style="TEXT-INDENT:2em">
+	吴的开创者杨行密，在镇压农民起义和军阀混战中被<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>提升为淮南节度使。902年，唐昭宗封他为吴王，建都扬州。到杨溥在位时，丞相徐温等立杨溥为天子，国号吴。&#160;</p><p style="TEXT-INDENT:2em">
+	但此时，杨氏大权早已旁落。937年，徐温的养子徐知诰废杨溥自立，国号唐，建都金陵，改姓名为李昪，史称“南唐“。到后主李煜时，为北宋所灭。&#160;</p><p style="TEXT-INDENT:2em">
+	唐壁州（四川导江）刺史王建，从894年开始，先后兼并西川、东川和汉中之地。后梁建立，他在成都称帝，国号蜀，史称“前蜀“。子王衍继位，以奢侈荒淫、刻剥百姓著称。925年，后唐庄宗派兵灭前蜀，用孟知祥（李克用侄女婿）为剑南西川节度副大使。&#160;</p><p style="TEXT-INDENT:2em">
+	926年，孟知祥入成都，整顿吏治，减少苛税，攻占东川。934年，他在成都称帝，国号蜀，史称“后蜀“。当年孟知祥死，子孟昶继位，又攻取凤州，疆域与前蜀相同。但孟昶和王衍一样，刻剥惨毒，奢侈成性。965年为北宋所灭。&#160;</p><p style="TEXT-INDENT:2em">
+	吴越的创建者钱镠，在893年被唐昭宗任命为镇海节度使。不久，因讨越州军阀董昌有功，升任镇海、镇东两军节度使。907年，后梁封他为吴越王，都于杭州，拥有两浙之地。这一地区战争很少，生产发达，经济繁荣。钱氏政权五传至钱俶，于978年降北宋。&#160;</p><p style="TEXT-INDENT:2em">
+	唐末，马殷割据湖南。907年，后梁封他为楚王，都于潭州（长沙）。927年，后唐又封其为楚国王。马殷死，诸子争立，政局混乱，951年被南唐攻灭。但南唐灭楚不久，楚将刘言又起兵击败了南唐军，继续据有湖南。以后刘言被其部下杀死，周行逢及其子周保权又先后统治湖南。963年为北宋所灭。&#160;</p><p style="TEXT-INDENT:2em">
+	893年，王审知随其兄王潮据福州，897年，继王潮为威武军节度使。909年，后梁封他为闽王，据有泉、汀等地。王审知死后，继位的都是暴君，内乱不休，945年被南唐攻灭。&#160;</p><p style="TEXT-INDENT:2em">
+	905年，刘隐为唐静海军节度使。907年，后梁封他为大彭郡王。隐弟刘龑继位后，扩大了势力范围，于917年称帝，国号越，建都广州，次年改国号为汉，史“南汉“。南汉君主都极其奢侈，<a href="http://www.xixik.com/content/367bd153033e41bc" title="中国史上最“风流”开国皇帝 要想做官必须先阉割">统治十分残暴</a>，境内阶级矛盾非常尖锐，971年为北宋所灭。&#160;</p><p style="TEXT-INDENT:2em">
+	907年，后梁任命高季兴为荆南节度使。924年，后唐庄宗封他为南平王，都于江陵，仅有荆州一地，至唐明宗时才得归、峡二州，是十国中最弱小的一国。963年亡于北宋。&#160;</p><p style="TEXT-INDENT:2em">
+	北汉为后汉高祖弟刘崇所建。951年，郭威代汉。刘崇据河东之地，在太原称帝，仍以汉为国号，史称“北汉“。北汉“土瘠民贫，内供军国，外奉契丹，赋繁役重，民不聊生“，社会矛盾十分尖锐。979年亡于北宋。</p><p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/f08a479ca29e81fe" target="_blank" title="地图上的五代十国：一分钟了解五代十国的历史">地图上的五代十国：一分钟了解五代十国的历史</a></p><p style="TEXT-INDENT:2em">
+	<strong>天下自唐季以来，帝王凡易八姓</strong></p><p style="TEXT-INDENT:2em">
+	赵匡胤曾对赵普说：“天下自唐季以来，帝王凡易八姓（十四君）”，唐季是什么意思？八姓都是什么？具体是哪十四君？</p><p style="TEXT-INDENT:2em">
+	唐季的意思的确就是唐朝灭亡，历代8个国姓是：朱、朱耶、李、石、刘、郭、柴、赵。</p><p style="TEXT-INDENT:2em">
+	十四君是：朱温、朱友圭、朱友贞、李存勖、李但、李从厚、李从珂、石敬瑭、石重贵、刘知远、刘承佑、郭威、柴荣、柴宗训</p><p style="TEXT-INDENT:2em">
+	唐庄宗李存勖的父亲李克用本西北沙陀人，姓朱耶，后对唐朝有大功，被赐姓国姓李。李存勖被其李克用的养子所杀，所以说后唐皇帝有朱耶，李两个姓。后周开国皇帝郭威无子，死后传位其妻的侄子柴荣，也是两个姓氏。</p>
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor2"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        五代十国政权起止时间</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="font-family:arial; text-align: center; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<th bgcolor="#efefef" colspan="6">
+				<a style="color:#000" title="五代十国" href="http://114.xixik.com/chaodai/5dai10guo/">五代十国</a></th>
+		</tr>
+		<tr>
+			<th>
+				时期</th>
+			<td bgcolor="#efefef" colspan="5">
+				<strong>五代</strong></td>
+		</tr>
+		<tr>
+			<th>
+				国家</th>
+			<td>
+				后梁</td>
+			<td>
+				后唐</td>
+			<td>
+				后晋</td>
+			<td>
+				后汉</td>
+			<td>
+				后周</td>
+		</tr>
+		<tr>
+			<th>
+				首都</th>
+			<td>
+				开封府</td>
+			<td>
+				洛阳</td>
+			<td>
+				开封府</td>
+			<td>
+				开封府</td>
+			<td>
+				开封府</td>
+		</tr>
+		<tr>
+			<th>
+				君主<br />
+				*开国君主<br />
+				*灭亡君主</th>
+			<td>
+				3帝<br />
+				朱晃<br />
+				朱友贞</td>
+			<td>
+				4帝<br />
+				李存勗<br />
+				李从珂</td>
+			<td>
+				2帝<br />
+				石敬瑭<br />
+				石重贵</td>
+			<td>
+				2帝<br />
+				刘知远<br />
+				刘承祐</td>
+			<td>
+				3帝<br />
+				郭威<br />
+				柴宗训</td>
+		</tr>
+		<tr>
+			<th>
+				成立</th>
+			<td>
+				907年</td>
+			<td>
+				923年</td>
+			<td>
+				936年</td>
+			<td>
+				947年</td>
+			<td>
+				951年</td>
+		</tr>
+		<tr>
+			<th>
+				灭亡</th>
+			<td>
+				923年</td>
+			<td>
+				937年</td>
+			<td>
+				947年</td>
+			<td>
+				951年</td>
+			<td>
+				960年</td>
+		</tr>
+		<tr>
+			<th>
+				开始</th>
+			<td colspan="5">
+				907年朱温篡<a style="color:#000" title="唐朝" href="http://114.xixik.com/chaodai/tang/">唐朝</a></td>
+		</tr>
+		<tr>
+			<th>
+				结束</th>
+			<td colspan="5">
+				960年赵匡胤篡后周</td>
+		</tr>
+		<tr>
+			<th>
+				时期</th>
+			<td bgcolor="#efefef" colspan="5">
+				<strong>十国</strong></td>
+		</tr>
+		<tr>
+			<th>
+				国家</th>
+			<td>
+				吴国</td>
+			<td>
+				南唐</td>
+			<td>
+				吴越</td>
+			<td>
+				闽</td>
+			<td>
+				北汉</td>
+		</tr>
+		<tr>
+			<th>
+				首都</th>
+			<td>
+				江都府</td>
+			<td>
+				江宁府</td>
+			<td>
+				西府</td>
+			<td>
+				长乐府</td>
+			<td>
+				太原府</td>
+		</tr>
+		<tr>
+			<th>
+				君主<br />
+				*开国君主<br />
+				*灭亡君主</th>
+			<td>
+				4主<br />
+				杨行密<br />
+				杨溥</td>
+			<td>
+				3帝<br />
+				李昪<br />
+				李煜</td>
+			<td>
+				5王<br />
+				钱镠<br />
+				钱俶</td>
+			<td>
+				6主<br />
+				王审知<br />
+				王延政</td>
+			<td>
+				4帝<br />
+				刘旻<br />
+				刘继元</td>
+		</tr>
+		<tr>
+			<th>
+				成立</th>
+			<td>
+				902年</td>
+			<td>
+				937年</td>
+			<td>
+				907年</td>
+			<td>
+				909年</td>
+			<td>
+				951年</td>
+		</tr>
+		<tr>
+			<th>
+				灭亡</th>
+			<td>
+				937年</td>
+			<td>
+				975年</td>
+			<td>
+				978年</td>
+			<td>
+				945年</td>
+			<td>
+				979年</td>
+		</tr>
+		<tr>
+			<th>
+				国家</th>
+			<td>
+				前蜀</td>
+			<td>
+				后蜀</td>
+			<td>
+				荆南</td>
+			<td>
+				楚</td>
+			<td>
+				南汉</td>
+		</tr>
+		<tr>
+			<th>
+				首都</th>
+			<td>
+				成都府</td>
+			<td>
+				成都府</td>
+			<td>
+				江陵府</td>
+			<td>
+				潭州</td>
+			<td>
+				兴王府</td>
+		</tr>
+		<tr>
+			<th>
+				君主<br />
+				*开国君主<br />
+				*灭亡君主</th>
+			<td>
+				2帝<br />
+				王建<br />
+				王衍</td>
+			<td>
+				2帝<br />
+				孟知祥<br />
+				孟昶</td>
+			<td>
+				5主<br />
+				高季兴<br />
+				高继冲</td>
+			<td>
+				6王<br />
+				马殷<br />
+				马希崇</td>
+			<td>
+				4帝<br />
+				刘?<br />
+				刘鋹</td>
+		</tr>
+		<tr>
+			<th>
+				成立</th>
+			<td>
+				903年</td>
+			<td>
+				934年</td>
+			<td>
+				924年</td>
+			<td>
+				927年</td>
+			<td>
+				917年</td>
+		</tr>
+		<tr>
+			<th>
+				灭亡</th>
+			<td>
+				925年</td>
+			<td>
+				965年</td>
+			<td>
+				963年</td>
+			<td>
+				951年</td>
+			<td>
+				971年</td>
+		</tr>
+		<tr>
+			<th>
+				开始</th>
+			<td colspan="5">
+				907年朱温篡<a style="color:#000" title="唐朝" href="http://114.xixik.com/chaodai/tang/">唐朝</a>,建后梁</td>
+		</tr>
+		<tr>
+			<th>
+				结束</th>
+			<td colspan="5">
+				979年<a style="color:#000" title="宋朝" href="http://114.xixik.com/chaodai/song/">宋朝</a>灭北汉</td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT:2em">
+	<strong><a style="color:#000" title="五代十国" href="http://114.xixik.com/chaodai/5dai10guo/">五代十国</a>兴旺交替历史</strong></p>
+<p style="TEXT-INDENT:2em">
+	<strong>一、五代更替</strong></p>
+<p style="TEXT-INDENT:2em">
+	<a style="color:#000" title="唐朝" href="http://114.xixik.com/chaodai/tang/">唐朝</a>后期，藩镇的力量已然坐大，到唐末，不仅&ldquo;藩侯废置，不自朝廷&rdquo;，而且唐的小朝延，反要受制于藩镇了。在唐末的诸藩镇中，割据河南的朱全忠，力量较大，他在同其它藩镇的斗争中，逐渐取得了优势。唐昭宗末年，朱温打败了以关中为根据地的凤翔节度使李茂贞，又得到朝中大官僚崔胤的内援，遂得进入长安。进京后他反手又杀死崔胤，自己一手控制了朝廷。公元907年，唐哀帝&ldquo;禅位&rdquo;于朱温，唐亡。自此以后，各地的节镇也纷纷建帝称号，形成了<a style="color:#000" title="五代十国" href="http://114.xixik.com/chaodai/5dai10guo/">五代十国</a>。</p>
+<p style="TEXT-INDENT:2em">
+	五代是指在北方地区依次建立的五个<a style="color:#000" title="历史朝代顺序表" href="http://114.xixik.com/chaodai/">朝代</a>，即梁、唐、晋、汉、周。由于这些称号，在前此的历史上均曾存在过，史学家便在其国号之前加一&ldquo;后&rdquo;字，以资区别。今将五代的更替简述如下：</p>
+<p style="TEXT-INDENT:2em">
+	(一)后梁</p>
+<p style="TEXT-INDENT:2em">
+	朱温建后梁，都开封。后梁建立后，以山西为根据地的沙陀人李克用和李存勖父子始终与之为敌。公元912年，朱温被其子友珪所杀，友珪又被其弟友贞所杀，统治非常混乱。915年，魏博节度使又叛梁投晋(指李存勖，时封为晋王)，使后粱实力消弱。加之内政不修，引起了农民的反抗，923年，终被李存勖打败，后梁亡。</p>
+<p style="TEXT-INDENT:2em">
+	(二)后唐</p>
+<p style="TEXT-INDENT:2em">
+	李存勖建立的后唐，都洛阳。他在灭梁之后，又灭掉了四川的前蜀，实力较强。但李存勖本人喜好声色，修宫室、集美女，宠用宦官、伶人，自已不恤政事，却使伶人弄权，忠良退位，政治日益腐败。奸佞孔谦主财政，&ldquo;峻法以剥下，厚敛以奉上&rdquo;，间得民怨沸腾。后来，李克用的养子李时源夺得帝位，在他统治的八年中，废苛敛之政，夺宦官之权，杀孔谦，放宫女，平均民间田税，政治比较清明。只是由于后继无人，到后唐闵帝时，统治阶级内部互相攻杀。公元936年，被石敬瑭所灭，后唐亡。</p>
+<p style="TEXT-INDENT:2em">
+	(三)后警</p>
+<p style="TEXT-INDENT:2em">
+	石敬瑭，沙陀人，原为后唐的河东节度使。他是以割让燕云十六州之地、岁贡绢帛30万匹和对辽自称儿<a style="color:#000" title="皇帝" href="http://114.xixik.com/chinese-emperors/">皇帝</a>的代价取得了契丹的支持，才得以灭唐建晋的。后晋迁都开封，实际上是契丹的附庸。石敬的侄儿石重贵继位后，因在向帝的上书中称孙而不称臣，惹得耶律德光大怒，公元947年率兵攻入开封，后晋亡。</p>
+<p style="TEXT-INDENT:2em">
+	(四)后汉</p>
+<p style="TEXT-INDENT:2em">
+	后汉的开国者刘知远，也是沙陀人，仕晋为河东度使。当契丹兵攻入开封时，他分兵守境，保住了山西。公元947年二月，他于晋阳(太原)称帝。契丹北还后，他便进入开封，改国号为汉。刘知远死后，其侄承祐继位。他因受制于父辈的元老大臣，如芒刺之在背，遂与外戚李业相谋，诛杀了大臣数人，并企图谋杀枢密使郭威。郭听部下之劝公元950年起兵，攻进开封，后汉亡。</p>
+<p style="TEXT-INDENT:2em">
+	(五)后周</p>
+<p style="TEXT-INDENT:2em">
+	郭威于灭汉的第二年(951年)称帝，国号周，都开封960年，后周殿前都点检赵匡胤发动陈桥兵变，取后周而代之，建立了宋。至此，五代结束，共历时54年。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>二、十国兴亡</strong></p>
+<p style="TEXT-INDENT:2em">
+	十国是差不多与五代並存的十个割据政权。其中，九个建立在南方，只有北汉建都在北方的晋阳(太原)。十国的兴亡大势概述如下:</p>
+<p style="TEXT-INDENT:2em">
+	(一)吴</p>
+<p style="TEXT-INDENT:2em">
+	&nbsp;</p>
+<p style="TEXT-INDENT:2em">
+	公元902年，唐淮南节度使杨行密，受封为吴王，都扬州。919年，吴丞相徐温奉杨行密的后代杨溥为帝，徐乘机控制了吴国的政权，这就为其子的篡权创造了条件。937年，吴终被徐氏所代，改称唐(南唐)。</p>
+<p style="TEXT-INDENT:2em">
+	(二)南唐</p>
+<p style="TEXT-INDENT:2em">
+	南唐的创业主徐知诰，原名李昪，是吴国丞相徐温的养子，他在废掉杨溥自立为帝后，恢复了原姓名。李氏的南唐建。都金陵(南京)，一直到公元975年，那个风流才子<a style="color:#000" title="皇帝" href="http://114.xixik.com/chinese-emperors/">皇帝</a>、著名的词家南唐李后主李煜，被宋所灭，才结束了南唐的历史。南唐历3主，39年，在<a style="color:#000" title="五代十国" href="http://114.xixik.com/chaodai/5dai10guo/">五代十国</a>中，是时间较长的一个政权。</p>
+<p style="TEXT-INDENT:2em">
+	(三)前蜀</p>
+<p style="TEXT-INDENT:2em">
+	公元903年，唐壁州(四川导江)刺史王建，被唐封为被后唐庄宗李存勖所派的孟知祥所死.史称前。925年，蜀王。907年，王建在成都称帝，国号蜀。</p>
+<p style="TEXT-INDENT:2em">
+	(四)后蜀</p>
+<p style="TEXT-INDENT:2em">
+	孟知祥为李克用的侄女婿，他在率兵灭前蜀后，被任为后唐的剑南西川节度副使。934年在成都称帝，国号蜀，是为后蜀。965年，为宋所灭。</p>
+<p style="TEXT-INDENT:2em">
+	(五)吴越</p>
+<p style="TEXT-INDENT:2em">
+	公元902年，唐镇海军节度使钱镠被封为越王，都杭州，907年，后梁封其为昊越王。978年，吴越亡于宋。<a href="http://www.xixik.com/content/33f5431798586002" title="吴越国有多大？">吴越是<a style="color:#000" title="五代十国" href="http://114.xixik.com/chaodai/5dai10guo/">五代十国</a>中存在最长的一个政权</a>。</p>
+<p style="TEXT-INDENT:2em">
+	(六)南平(荆南)</p>
+<p style="TEXT-INDENT:2em">
+	公元925年，后梁荆南节度使高季兴被封为南平王，都荆州(湖北江陵)。963年亡于宋。</p>
+<p style="TEXT-INDENT:2em">
+	(七)楚</p>
+<p style="TEXT-INDENT:2em">
+	公元907年，原唐武安节度使马殷，被后梁封为楚王927年，马殷称帝，都潭州(长沙)。951年，为南唐所灭。</p>
+<p style="TEXT-INDENT:2em">
+	(八)闽</p>
+<p style="TEXT-INDENT:2em">
+	公元909年，唐威武军节度使王审知被后梁封为闽王。939年，其子延钧称帝，都长乐(福州)。945年，为南唐所灭。</p>
+<p style="TEXT-INDENT:2em">
+	(九)南汉</p>
+<p style="TEXT-INDENT:2em">
+	公元907年，唐清海军节度使刘隐被后梁封为大彭郡王，917年，其弟刘称帝，原号大越，后称汉，史称南汉，都州。971年被宋所灭。</p>
+<p style="TEXT-INDENT:2em">
+	(十)北汉</p>
+<p style="TEXT-INDENT:2em">
+	951年，后汉为后周取代后，刘知远之弟刘崇(旻)于晋阳称帝，仍名为汉，史称北汉。北汉受契丹的支持，直到979年，才为宋所灭。为<a style="color:#000" title="五代十国" href="http://114.xixik.com/chaodai/5dai10guo/">五代十国</a>中之最后灭亡者。</p>
+<p style="TEXT-INDENT:2em">
+	<a style="color:#000" title="五代十国" href="http://114.xixik.com/chaodai/5dai10guo/">五代十国</a>时期，总的说来是北方比较混乱，南方比较安定，所以南方的破坏也较轻。加之南方的割据政权，基本上是各霸一方、独自为政的，许多统治者也比较注意生产，所以这一时期，南方的经济仍有一定的发展。北方则一直到后周时期才稳定下来。后周的国君郭威和柴荣，是比较有政治眼光的人，在他们的统治期间，曾推行了一些有利于社会安定、国家统一和生产发展的措施。特别是周世宗柴荣，还曾亲率大军北伐契丹，以解除契丹长期对北方的威胁和恢复燕云十六州，只是由于他不久便病死，才未能实现这一宏愿。由于后周政权的作法比较符合民心，所以它的威望增高，开始形成为统一全国的中心力量。公元960年，赵匡胤代周而立后，能够迅速地统一全国，就是在后周所开创的有利条件下实现的。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor3"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        五代十国皇帝列表</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:70%">
+	<tbody>
+		<tr>
+			<td colspan="5" style="text-align: center;">
+				<strong>五代皇帝列表</strong></td>
+		</tr>
+		<tr>
+			<th>
+				庙号</th>
+			<th>
+				谥号</th>
+			<th>
+				姓名</th>
+			<th>
+				统治时间</th>
+			<th>
+				年号</th>
+		</tr>
+		<tr>
+			<td colspan="5">
+				五代 907年－960年</td>
+		</tr>
+		<tr>
+			<td colspan="5">
+				后梁&#160;907年－923年</td>
+		</tr>
+		<tr>
+			<td>
+				太祖</td>
+			<td>
+				神武元圣孝皇帝</td>
+			<td>
+				朱温<br />
+				又名朱全忠、朱晃</td>
+			<td>
+				907年—912年</td>
+			<td>
+				开平&#160;907年—911年<br />
+				<p>
+					乾化&#160;911年—912年</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				郢王</td>
+			<td>
+				朱友珪</td>
+			<td>
+				912年—913年</td>
+			<td>
+				凤历&#160;913年—913年</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				末皇帝</td>
+			<td>
+				朱友贞<br />
+				又名朱鎤、朱瑱</td>
+			<td>
+				913年—923年</td>
+			<td>
+				乾化&#160;913年—915年<br />
+				<p>
+					贞明&#160;915年—921年<br />
+					龙德&#160;921年—923年</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="5">
+				后唐&#160;923年—937年</td>
+		</tr>
+		<tr>
+			<td>
+				庄宗</td>
+			<td>
+				光圣神闵孝皇帝</td>
+			<td>
+				李存勗</td>
+			<td>
+				923年—926年</td>
+			<td>
+				同光&#160;923年—926年</td>
+		</tr>
+		<tr>
+			<td>
+				明宗</td>
+			<td>
+				圣德和武钦孝皇帝</td>
+			<td>
+				李嗣源</td>
+			<td>
+				926年—933年</td>
+			<td>
+				天成&#160;926年—930年<br />
+				<p>
+					长兴&#160;930年—933年</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				闵皇帝</td>
+			<td>
+				李从厚</td>
+			<td>
+				933年—934年</td>
+			<td>
+				应顺&#160;933年—934年</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				末皇帝</td>
+			<td>
+				李从珂</td>
+			<td>
+				934年—937年</td>
+			<td>
+				清泰&#160;934年—937年</td>
+		</tr>
+		<tr>
+			<td colspan="5">
+				后晋&#160;936年—947年</td>
+		</tr>
+		<tr>
+			<td>
+				高祖</td>
+			<td>
+				圣文章武明德孝皇帝</td>
+			<td>
+				石敬瑭</td>
+			<td>
+				936年—942年</td>
+			<td>
+				天福&#160;936年—942年</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				出皇帝</td>
+			<td>
+				石重贵</td>
+			<td>
+				942年—947年</td>
+			<td>
+				天福&#160;942年—944年<br />
+				<p>
+					开运&#160;944年—947年</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="5">
+				后汉&#160;947年—951年</td>
+		</tr>
+		<tr>
+			<td>
+				高祖</td>
+			<td>
+				睿文圣武昭肃孝皇帝</td>
+			<td>
+				刘知远</td>
+			<td>
+				947年—948年</td>
+			<td>
+				天福&#160;947年<br />
+				<p>
+					乾祐&#160;948年</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				隐皇帝</td>
+			<td>
+				刘承祐</td>
+			<td>
+				948年—950年</td>
+			<td>
+				乾祐&#160;948年—950年</td>
+		</tr>
+		<tr>
+			<td colspan="5">
+				后周&#160;951年—960年</td>
+		</tr>
+		<tr>
+			<td>
+				太祖</td>
+			<td>
+				圣神恭肃文武孝皇帝</td>
+			<td>
+				郭威</td>
+			<td>
+				951年—954年</td>
+			<td>
+				广顺&#160;951年—954年<br />
+				<p>
+					显德&#160;954年</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				世宗</td>
+			<td>
+				睿武孝文皇帝</td>
+			<td>
+				柴荣</td>
+			<td>
+				954年—959年</td>
+			<td>
+				显德&#160;954年—959年</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				恭皇帝</td>
+			<td>
+				柴宗训</td>
+			<td>
+				959年—960年</td>
+			<td>
+				显德&#160;959年—960年</td>
+		</tr>
+		<tr>
+			<td colspan="5" style="text-align: center;">
+				<strong>十国皇帝列表</strong></td>
+		</tr>
+		<tr>
+			<th>
+				庙号</th>
+			<th>
+				谥号</th>
+			<th>
+				姓名</th>
+			<th>
+				统治时间</th>
+			<th>
+				年号</th>
+		</tr>
+		<tr>
+			<td colspan="5">
+				十国 907年－960年</td>
+		</tr>
+		<tr>
+			<td colspan="5">
+				吴越&#160;907年－978年</td>
+		</tr>
+		<tr>
+			<td>
+				太祖</td>
+			<td>
+				武肃王</td>
+			<td>
+				钱镠</td>
+			<td>
+				907年—932年</td>
+			<td>
+				天宝&#160;908年—913年<br />
+				<p>
+					使用五代年号913年—923年<br />
+					宝大&#160;923年—925年<br />
+					宝正&#160;925年—932年</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				世宗</td>
+			<td>
+				文穆王</td>
+			<td>
+				钱元瓘</td>
+			<td>
+				932年—941年</td>
+			<td rowspan="4">
+				使用五代与北宋年号。</td>
+		</tr>
+		<tr>
+			<td>
+				成宗</td>
+			<td>
+				忠献王</td>
+			<td>
+				钱佐</td>
+			<td>
+				941年—947年</td>
+		</tr>
+		<tr>
+			<td>
+				无</td>
+			<td>
+				忠逊王</td>
+			<td>
+				钱倧</td>
+			<td>
+				947年</td>
+		</tr>
+		<tr>
+			<td>
+				无</td>
+			<td>
+				忠懿王</td>
+			<td>
+				钱俶</td>
+			<td>
+				947年—978年</td>
+		</tr>
+		<tr>
+			<td colspan="5">
+				闽&#160;909年—945年（含殷943年—945年）</td>
+		</tr>
+		<tr>
+			<td>
+				太祖</td>
+			<td>
+				昭武孝皇帝</td>
+			<td>
+				王审知</td>
+			<td>
+				909年—925年</td>
+			<td rowspan="2">
+				使用五代年号。</td>
+		</tr>
+		<tr>
+			<td>
+				无</td>
+			<td>
+				&#160;</td>
+			<td>
+				王延翰</td>
+			<td>
+				925年—926年</td>
+		</tr>
+		<tr>
+			<td>
+				惠宗</td>
+			<td>
+				齐肃明孝皇帝</td>
+			<td>
+				王延钧</td>
+			<td>
+				926年—935年</td>
+			<td>
+				龙启&#160;933年—935年<br />
+				<p>
+					永和&#160;935年</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				康宗</td>
+			<td>
+				圣神英睿文明广武应道大弘孝皇帝</td>
+			<td>
+				王继鹏</td>
+			<td>
+				935年—939年</td>
+			<td>
+				通文&#160;936年—939年</td>
+		</tr>
+		<tr>
+			<td>
+				景宗</td>
+			<td>
+				睿文广武明圣元德隆道大孝皇帝</td>
+			<td>
+				王延羲</td>
+			<td>
+				939年—943年</td>
+			<td>
+				永隆&#160;939年—943年</td>
+		</tr>
+		<tr>
+			<td>
+				无</td>
+			<td>
+				&#160;</td>
+			<td>
+				朱文进</td>
+			<td>
+				944年—945年</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr>
+			<td>
+				无</td>
+			<td>
+				&#160;</td>
+			<td>
+				王延政</td>
+			<td>
+				943年—945年</td>
+			<td>
+				天德&#160;943年—945年</td>
+		</tr>
+		<tr>
+			<td>
+				无</td>
+			<td>
+				&#160;</td>
+			<td>
+				卓俨明</td>
+			<td>
+				945年</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr>
+			<td colspan="5">
+				荆南&#160;924年—963年</td>
+		</tr>
+		<tr>
+			<td>
+				无</td>
+			<td>
+				武信王</td>
+			<td>
+				高季兴</td>
+			<td>
+				924年—929年</td>
+			<td rowspan="5">
+				使用五代与北宋年号。</td>
+		</tr>
+		<tr>
+			<td>
+				无</td>
+			<td>
+				文献王</td>
+			<td>
+				高从诲</td>
+			<td>
+				929年—948年</td>
+		</tr>
+		<tr>
+			<td>
+				无</td>
+			<td>
+				贞懿王</td>
+			<td>
+				高保融</td>
+			<td>
+				948年—960年</td>
+		</tr>
+		<tr>
+			<td>
+				无</td>
+			<td>
+				&#160;</td>
+			<td>
+				高保勗</td>
+			<td>
+				960年—962年</td>
+		</tr>
+		<tr>
+			<td>
+				无</td>
+			<td>
+				&#160;</td>
+			<td>
+				高继冲</td>
+			<td>
+				962年—963年</td>
+		</tr>
+		<tr>
+			<td colspan="5">
+				楚&#160;897年—951年</td>
+		</tr>
+		<tr>
+			<td>
+				无</td>
+			<td>
+				武穆王</td>
+			<td>
+				马殷</td>
+			<td>
+				897年—930年</td>
+			<td rowspan="6">
+				使用五代与北宋年号。</td>
+		</tr>
+		<tr>
+			<td>
+				无</td>
+			<td>
+				衡阳王</td>
+			<td>
+				马希声</td>
+			<td>
+				930年—932年</td>
+		</tr>
+		<tr>
+			<td>
+				无</td>
+			<td>
+				文昭王</td>
+			<td>
+				马希范</td>
+			<td>
+				932年—947年</td>
+		</tr>
+		<tr>
+			<td>
+				无</td>
+			<td>
+				&#160;</td>
+			<td>
+				马希广</td>
+			<td>
+				947年—950年</td>
+		</tr>
+		<tr>
+			<td>
+				无</td>
+			<td>
+				恭孝王</td>
+			<td>
+				马希萼</td>
+			<td>
+				950年</td>
+		</tr>
+		<tr>
+			<td>
+				无</td>
+			<td>
+				&#160;</td>
+			<td>
+				马希崇</td>
+			<td>
+				950年—951年</td>
+		</tr>
+		<tr>
+			<td colspan="5">
+				吴&#160;904年—919年—937年</td>
+		</tr>
+		<tr>
+			<td>
+				太祖<br />
+				（吴睿帝追谥）</td>
+			<td>
+				孝武皇帝<br />
+				（吴睿帝追尊）</td>
+			<td>
+				杨行密</td>
+			<td>
+				904年—905年</td>
+			<td>
+				天佑 904年—905年</td>
+		</tr>
+		<tr>
+			<td>
+				烈宗<br />
+				（吴睿帝追谥）</td>
+			<td>
+				景皇帝<br />
+				（吴睿帝追尊）</td>
+			<td>
+				杨渥</td>
+			<td>
+				905年—908年</td>
+			<td>
+				天佑 905年—908年</td>
+		</tr>
+		<tr>
+			<td>
+				高祖</td>
+			<td>
+				宣皇帝</td>
+			<td>
+				杨隆演</td>
+			<td>
+				908年—921年</td>
+			<td>
+				天佑 908年—919年<br />
+				<p>
+					武义 919年—921年</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				无</td>
+			<td>
+				睿皇帝</td>
+			<td>
+				杨溥</td>
+			<td>
+				921年—937年</td>
+			<td>
+				顺义&#160;921年—927年<br />
+				<p>
+					乾贞&#160;927年—929年<br />
+					大和&#160;929年—935年<br />
+					天祚&#160;935年—937年</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="5">
+				南唐&#160;937年—975年</td>
+		</tr>
+		<tr>
+			<td>
+				烈祖</td>
+			<td>
+				光文肃武孝高皇帝</td>
+			<td>
+				李昪</td>
+			<td>
+				937年—943年</td>
+			<td>
+				升元&#160;937年—943年</td>
+		</tr>
+		<tr>
+			<td>
+				元宗</td>
+			<td>
+				明道崇德文宣孝皇帝</td>
+			<td>
+				李璟</td>
+			<td>
+				943年—961年</td>
+			<td>
+				保大&#160;943年—958年<br />
+				<p>
+					交泰&#160;958年<br />
+					958年后使用五代与北宋年号。</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				无</td>
+			<td>
+				后主</td>
+			<td>
+				李煜</td>
+			<td>
+				961年—975年</td>
+			<td>
+				使用五代与北宋年号。</td>
+		</tr>
+		<tr>
+			<td colspan="5">
+				南汉&#160;917年—971年</td>
+		</tr>
+		<tr>
+			<td>
+				高祖</td>
+			<td>
+				天皇大帝</td>
+			<td>
+				刘?</td>
+			<td>
+				917年—942年</td>
+			<td>
+				乾亨&#160;917年—925年<br />
+				<p>
+					白龙&#160;925年—928年<br />
+					大有&#160;928年—942年</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				无</td>
+			<td>
+				殇皇帝</td>
+			<td>
+				刘玢</td>
+			<td>
+				942年—943年</td>
+			<td>
+				光天&#160;942年—943年</td>
+		</tr>
+		<tr>
+			<td>
+				中宗</td>
+			<td>
+				文武光圣明孝皇帝</td>
+			<td>
+				刘晟</td>
+			<td>
+				943年—958年</td>
+			<td>
+				应干&#160;943年<br />
+				<p>
+					乾和&#160;943年—958年</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				无</td>
+			<td>
+				后主</td>
+			<td>
+				刘鋹</td>
+			<td>
+				958年—971年</td>
+			<td>
+				大宝&#160;958年—971年</td>
+		</tr>
+		<tr>
+			<td colspan="5">
+				北汉&#160;951年—979年</td>
+		</tr>
+		<tr>
+			<td>
+				世祖</td>
+			<td>
+				神武皇帝</td>
+			<td>
+				刘旻</td>
+			<td>
+				951年—954年</td>
+			<td>
+				乾祐 951年—954年</td>
+		</tr>
+		<tr>
+			<td>
+				睿宗</td>
+			<td>
+				孝和皇帝</td>
+			<td>
+				刘承钧</td>
+			<td>
+				954年—970年</td>
+			<td>
+				乾祐 954年—957年<br />
+				<p>
+					天会&#160;957年—968年</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				无</td>
+			<td>
+				少主</td>
+			<td>
+				刘继恩</td>
+			<td>
+				970年</td>
+			<td>
+				天会 968年</td>
+		</tr>
+		<tr>
+			<td>
+				无</td>
+			<td>
+				英武皇帝</td>
+			<td>
+				刘继元</td>
+			<td>
+				970年—979年</td>
+			<td>
+				天会&#160;968年—974年<br />
+				<p>
+					广运&#160;974年—979年</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="5">
+				前蜀&#160;907年—925年</td>
+		</tr>
+		<tr>
+			<td>
+				高祖</td>
+			<td>
+				神武圣文孝德明惠皇帝</td>
+			<td>
+				王建</td>
+			<td>
+				907年—918年</td>
+			<td>
+				天复&#160;907年<br />
+				<p>
+					武成&#160;908年—910年<br />
+					永平&#160;911年—915年<br />
+					通正&#160;916年<br />
+					天汉&#160;917年<br />
+					光天&#160;918年</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				无</td>
+			<td>
+				圣德明孝皇帝</td>
+			<td>
+				王衍</td>
+			<td>
+				918年—925年</td>
+			<td>
+				乾德&#160;918年—925年<br />
+				<p>
+					咸康&#160;925年</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="5">
+				后蜀&#160;934年—965年</td>
+		</tr>
+		<tr>
+			<td>
+				高祖</td>
+			<td>
+				文武圣德英烈明孝皇帝</td>
+			<td>
+				孟知祥</td>
+			<td>
+				934年</td>
+			<td>
+				明德&#160;934年</td>
+		</tr>
+		<tr>
+			<td>
+				无</td>
+			<td>
+				楚恭孝王</td>
+			<td>
+				孟昶</td>
+			<td>
+				934年—965年</td>
+			<td>
+				明德&#160;934年—938年<br />
+				<p>
+					广政&#160;938年—965年</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:70%">
+	<tbody>
+		<tr>
+			<td colspan="4" style="text-align: center;">
+				<strong>其他藩镇势力</strong></td>
+		</tr>
+		<tr>
+			<th>
+				称号</th>
+			<th>
+				姓名</th>
+			<th>
+				统治时间</th>
+			<th>
+				年号</th>
+		</tr>
+		<tr>
+			<td colspan="4">
+				卢龙节度使 / 燕&#160;897年—913年</td>
+		</tr>
+		<tr>
+			<td>
+				卢龙节度使</td>
+			<td>
+				刘仁恭</td>
+			<td>
+				897年—907年</td>
+			<td>
+				使用唐朝年号。</td>
+		</tr>
+		<tr>
+			<td>
+				燕王、大燕皇帝</td>
+			<td>
+				刘守光</td>
+			<td>
+				907年—911年称帝—913年</td>
+			<td>
+				使用唐朝与五代年号。<br />
+				应天&#160;911年—913年</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				凤翔节度使 / 岐&#160;887年—924年</td>
+		</tr>
+		<tr>
+			<td>
+				凤翔节度使、岐王</td>
+			<td>
+				李茂贞</td>
+			<td>
+				887年—907年开府—924年</td>
+			<td>
+				使用唐朝年号。<br />
+				天祐 907年—924年</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				成德节度使 / 赵&#160;883年—921年</td>
+		</tr>
+		<tr>
+			<td>
+				成德节度使、赵王</td>
+			<td>
+				王镕</td>
+			<td>
+				883年—921年</td>
+			<td rowspan="3">
+				使用唐朝与五代年号。</td>
+		</tr>
+		<tr>
+			<td rowspan="2">
+				成德节度使留后</td>
+			<td>
+				张文礼</td>
+			<td>
+				921年</td>
+		</tr>
+		<tr>
+			<td>
+				张处瑾</td>
+			<td>
+				921年—922年</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				义武节度使 / 北平&#160;900年—929年</td>
+		</tr>
+		<tr>
+			<td rowspan="2">
+				义武节度使、北平王</td>
+			<td>
+				王处直</td>
+			<td>
+				900年—921年</td>
+			<td rowspan="2">
+				使用唐朝与五代年号。</td>
+		</tr>
+		<tr>
+			<td>
+				王都</td>
+			<td>
+				921年—929年</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				定难节度使 / 夏州 881年—982年</td>
+		</tr>
+		<tr>
+			<td rowspan="9">
+				定难节度使、夏国公</td>
+			<td>
+				拓跋思恭</td>
+			<td>
+				881年—895年</td>
+			<td rowspan="9">
+				使用唐朝、五代与北宋年号。</td>
+		</tr>
+		<tr>
+			<td>
+				拓跋思谏</td>
+			<td>
+				895年—908年</td>
+		</tr>
+		<tr>
+			<td>
+				李彝昌</td>
+			<td>
+				908年—909年</td>
+		</tr>
+		<tr>
+			<td>
+				李仁福</td>
+			<td>
+				909年—933年</td>
+		</tr>
+		<tr>
+			<td>
+				李彝超</td>
+			<td>
+				933年—935年</td>
+		</tr>
+		<tr>
+			<td>
+				李彝殷（李彝兴）</td>
+			<td>
+				935年—967年</td>
+		</tr>
+		<tr>
+			<td>
+				李光叡（李克叡）</td>
+			<td>
+				967年—978年</td>
+		</tr>
+		<tr>
+			<td>
+				李继筠</td>
+			<td>
+				978年—980年</td>
+		</tr>
+		<tr>
+			<td>
+				李继捧</td>
+			<td>
+				980年—982年</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				归义节度使 / 金山国 851年—1037年</td>
+		</tr>
+		<tr>
+			<td rowspan="3">
+				归义节度使</td>
+			<td>
+				张议潮</td>
+			<td>
+				851年－867年</td>
+			<td rowspan="12">
+				使用唐朝、五代与北宋年号。</td>
+		</tr>
+		<tr>
+			<td>
+				张淮深</td>
+			<td>
+				867年－890年</td>
+		</tr>
+		<tr>
+			<td>
+				索勋</td>
+			<td>
+				890年－896年</td>
+		</tr>
+		<tr>
+			<td>
+				西汉金山国<br />
+				金山白衣天子</td>
+			<td>
+				张承奉</td>
+			<td>
+				896年－914年</td>
+		</tr>
+		<tr>
+			<td rowspan="8">
+				归义节度使</td>
+			<td>
+				曹仁贵（曹议金）</td>
+			<td>
+				914年－935年</td>
+		</tr>
+		<tr>
+			<td>
+				曹元德</td>
+			<td>
+				935年－940年</td>
+		</tr>
+		<tr>
+			<td>
+				曹元深</td>
+			<td>
+				940年－945年</td>
+		</tr>
+		<tr>
+			<td>
+				曹元忠</td>
+			<td>
+				945年－974年</td>
+		</tr>
+		<tr>
+			<td>
+				曹延恭</td>
+			<td>
+				974年－976年</td>
+		</tr>
+		<tr>
+			<td>
+				曹延禄</td>
+			<td>
+				976年－1002年</td>
+		</tr>
+		<tr>
+			<td>
+				曹宗寿</td>
+			<td>
+				1002年－1014年</td>
+		</tr>
+		<tr>
+			<td>
+				曹贤顺</td>
+			<td>
+				1014年－？</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				武平节度使 / 湖南 950年—963年</td>
+		</tr>
+		<tr>
+			<td rowspan="4">
+				武平节度使</td>
+			<td>
+				刘言</td>
+			<td>
+				951年—953年</td>
+			<td rowspan="4">
+				使用五代与北宋年号。</td>
+		</tr>
+		<tr>
+			<td>
+				王逵（王进逵）</td>
+			<td>
+				953年—956年</td>
+		</tr>
+		<tr>
+			<td>
+				周行逢</td>
+			<td>
+				956年—962年</td>
+		</tr>
+		<tr>
+			<td>
+				周保权</td>
+			<td>
+				962年—963年</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				清源节度使（平海节度使） / 闽南 946年—978年</td>
+		</tr>
+		<tr>
+			<td rowspan="3">
+				清源节度使</td>
+			<td>
+				留从效</td>
+			<td>
+				946年—962年</td>
+			<td rowspan="5">
+				使用五代与北宋年号。</td>
+		</tr>
+		<tr>
+			<td>
+				留绍镃</td>
+			<td>
+				962年</td>
+		</tr>
+		<tr>
+			<td>
+				张汉思</td>
+			<td>
+				962年—963年</td>
+		</tr>
+		<tr>
+			<td>
+				清源节度使</td>
+			<td rowspan="2">
+				陈洪进</td>
+			<td rowspan="2">
+				963年—978年</td>
+		</tr>
+		<tr>
+			<td>
+				964年后为平海节度使</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				静海节度使／交趾（曲家） 906年—938年</td>
+		</tr>
+		<tr>
+			<td rowspan="5">
+				静海节度使</td>
+			<td>
+				曲承裕</td>
+			<td>
+				906年—907年</td>
+			<td rowspan="10">
+				使用唐朝、五代与北宋年号。</td>
+		</tr>
+		<tr>
+			<td>
+				曲颢（曲承颢）</td>
+			<td>
+				907年—917年</td>
+		</tr>
+		<tr>
+			<td>
+				曲承美</td>
+			<td>
+				917年—923年</td>
+		</tr>
+		<tr>
+			<td>
+				杨廷艺（杨延艺）</td>
+			<td>
+				931年—938年</td>
+		</tr>
+		<tr>
+			<td>
+				矫公羡</td>
+			<td>
+				938年</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&#160;</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor4"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        后周世宗柴荣：五代第一明君</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	中国几千年历史，<a href="http://114.xixik.com/chinese-emperors/" title="中国皇帝列表">光皇帝就有几百位</a>，其中不乏雄才大略的千古一帝，如秦始皇，汉武帝，唐太宗等等。他们虽然做出了巨大的贡献，有伟大的历史功绩，但是身上都还有或大或小的缺陷。如秦始皇残暴，不体恤民力；<a href="http://www.xixik.com/content/017a5476afb7eeb3" title="汉武帝：犯强汉者虽远必诛 治下百姓死亡上千万">汉武帝连年征战，民众有苦</a>；<a href="http://www.xixik.com/content/927d466d6ec9a21b" title="玄武门之变实乃李渊和李世民父子的殊死搏杀">唐太宗弑兄杀弟，逼父篡位</a>。但是，历史上唯有这位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，堪称史上最完美，最好的<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，千百年来，百姓不断祭奠，无一人敢于批评指责，只是他的知名度太低，存在感太低&hellip;&hellip;</p>
+<p style="TEXT-INDENT:2em">
+	他就是五代<strong><a href="http://www.xixik.com/content/48562e3c9934f45c" title="后周世宗柴荣：五代第一明君">周世宗柴荣</a></strong>（921年10月27日－959年7月27日），当然说起柴荣很多人觉得很陌生，但是要说起小旋风柴进，很多人就知道了。按照《水浒传》的描述柴进就是柴荣的后世子孙，因为陈桥兵变，祖上禅让帝位给赵匡胤，所以赵宋保他们家荣华富贵，并赐予丹书铁券，当然柴进是纯属虚构的一人。柴荣作为五代时期的一个<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，在历史上留下来最牛的盛名。柴荣年轻时曾随商人颉跌氏在江陵贩茶，对社会积弊有所体验。史载其&ldquo;器貌英奇，善骑射，略通书史黄老，性沉重寡言&rdquo;。后来他的姑父，也就是当时的后汉大将郭威看他聪明伶俐，而且善于理财。收他为义子，让他全面掌管自己家族的生意和财政开支。</p>
+<p style="TEXT-INDENT:2em">
+	而柴荣却利用这个机会，读书习武，骑马射箭，而且对古代兵法，典籍都有涉猎。这些都为其后来治国理政打下了坚实的基础。柴荣后来跟随郭威南征北战，立下了汗马功劳，深受郭威的信任。而且在<a href="http://www.xixik.com/content/d3016ca20e5fc949" title="后汉隐帝刘承祐：你要抢我的江山，我杀你全家">后汉皇帝将郭威家人后代杀绝后</a>，柴荣更是成为郭威唯一的继承人（改姓为郭）。郭威举兵进攻汴京时，他奉命留守邺城。在公元951年，<a href="http://www.xixik.com/content/6597a4f81eed4f59" title="郭威：中国历史上真正的黄袍加身第一人">郭威正式称帝</a>，建立周王朝（史称&ldquo;后周&rdquo;），同时任命柴荣为澶州节度使，晋王。柴荣在澶州大力发展经济，体恤百姓，整治贪腐，使得澶州很快变成乐土。为此，柴荣很快升迁为殿前都检点，成为后周军队最高统帅。郭威于公元954年正月病死，他于同月丙申日继位，沿用太祖年号&ldquo;显德&rdquo;，继位后复本姓&mdash;&mdash;柴。</p>
+<p style="TEXT-INDENT:2em">
+	郭威驾崩时，柴荣曾向左谏大夫王朴发问：&ldquo;朕当得几年？&rdquo;精究术数的王朴答曰：&ldquo;臣固陋，辄以所学推之，三十年后非所知也。&rdquo;柴荣听后十分欣喜地说：&ldquo;若如卿所言，寡人当以十年开拓天下，十年养百姓，十年致太平足矣！&rdquo;</p>
+<p style="TEXT-INDENT:2em">
+	柴荣在位六年（954&mdash;959年），均定田赋，整顿禁军，限制佛教，奖励农耕，整军练卒、裁汰冗弱、招抚流亡、减少赋税，政治上开始选贤任能，革除无能贪官，同时肃清吏治，官场为之一振，使后周政治<a href="http://114.xixik.com/24jieqi/qingming/" style="color:#000" title="清明">清明</a>、百姓富庶，中原开始复苏，为后世赢得无数人的赞许。在军事方面，积极训练新军，练就了一支精兵强将，这只军队最后被赵匡胤掌握，成为其一统天下的基础，当然这是后话。农业方面，兴修水利，鼓励开垦，降低赋税，使得国家快速膨胀，国力大增。同时，其广开言路，要求文武官员都要积极的指出自己的缺失，以便改正。为了完成统一大业又南征北战，西败后蜀，夺取秦、凤、成、阶四州；956年亲自征讨南摧南唐，尽得江北、淮南14州60县；北破契丹，连克二州三关。这些成就为日后北宋的统一奠定了基础。柴荣每次出征都是身先士卒，跑到最前方督战，因此将士每次都能看到自己的<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>冲在最前方，能不卖命么？所以每战必胜。</p>
+<p style="text-indent: 2em;">
+	公元前959年，柴荣御驾亲征辽国，辽国接连失败，不断后撤，而且直接攻入幽云十六州，大有完全收复之势。他途中得了病，只得率领部分军队返回汴京。但是，其却突然患病，不得不撤兵回国，因此甚为可惜，直到400多年后幽云十六州才被徐达收回来，被称为历史憾事。他知道自己时日不久便抓紧布置后事，让魏仁甫以枢密使兼任宰相，宰相王溥、范质兼知枢密院事，任侍卫亲军副都指挥使韩通兼宰相。他使这些文武大臣同掌国政，目的是想保证他死后后周政权的稳定。柴荣前在北征辽国时，听得汴京城内有&ldquo;点检作天子&rdquo;的谣传。当时的殿前都点检是柴荣的女婿张永德，立有军功，统率最精锐的禁军。柴荣猜疑这谣言与张永德有关，便免除了他的军职，改任他为宰相，而将赵匡胤从低级军官提升为殿前都点检。柴荣以为赵匡胤一则会感恩图报，二则资望浅，不象张永德那样可能夺取帝位。没有料到日后夺取帝王灭掉后周的，正是赵匡胤。柴荣临终前，命令7岁的四子柴宗训继位。癸巳日，病死于汴京宫中的滋德殿，年仅39岁，庙号世宗，谥号睿武孝文<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，葬于庆陵（今河南省新郑县北）。这也使得赵匡胤欺负孤儿寡妇，<a href="http://www.xixik.com/content/be734db545ec958e" title="陈桥兵变不是黄袍被迫加身 是一场有预谋的政变">最后在陈桥驿发动兵变</a>，直接灭掉后周，建立了大宋，当然这是后话。</p>
+<p style="TEXT-INDENT:2em">
+	在<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="宋朝">宋朝</a>最牛的文学家、史学家司马光的评价中，竟然毫不考虑<a href="http://114.xixik.com/chinese-emperors/song/" style="color:#000;" title="宋朝皇帝">宋朝皇帝</a>的感受，对周世宗柴荣大加赞赏，评价其为古今最完美<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，而且是其唯一推崇的<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>。后世对于柴荣的评价，大概是五个词，勤政，爱民，仁厚，勇武，善战。如果其多活几年，恐怕辽国要被灭亡，全国统一也会加速，历史将彻底改写。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor5"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        地图上的五代十国变迁</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="text-indent: 2em;">
+	<a href="http://114.xixik.com/chaodai/5dai10guo/" style="color:#000" title="五代十国">五代十国</a>是<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>上的一段大分裂时期，它起自唐末的藩镇割据，并通过相互之间的吞并到了晚唐时期，也就逐步形成相对较固定的割据，用地图为大家理清一下五代（907年-960年 ）和十国（902年-979年）的历史。</p>
+<p style="text-indent: 2em;">
+	<img max-width="600" src="http://img.xixik.net/cimg/071/xixik_42dc894d323b43b8.jpeg" /></p>
+<p style="text-indent: 2em;">
+	1.902年，<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>封杨行密为吴王，吴国建立（十国建国一），史称&ldquo;杨吴、南吴、弘农、淮南&rdquo;。</p>
+<p style="text-indent: 2em;">
+	<img max-width="600" src="http://img.xixik.net/cimg/071/xixik_fbbaceccd2caa122.jpeg" /></p>
+<p style="text-indent: 2em;">
+	2.907年，朱温篡唐建立梁朝，史称后梁（五代建国一）。并封武安军节度使马殷为楚王（史称南楚，十国建国二）、两浙节度使钱镠为吴越王（史称吴越国，十国建国三）、高季兴任荆南节度使（南平国前身）、义武军节度使王处直为北平王、成德节度使王镕为赵王、清海节度使刘隐为大彭郡王（南汉前身）。</p>
+<p style="text-indent: 2em;">
+	此时天下形成拥梁和念唐两派势力，与后梁对立的政权主要是晋王李克用、南吴国；此年李茂贞自开岐王府；蜀王王建自立为帝，建立蜀国（史称前蜀，十国建国四）；耶律阿保机统一契丹各部称汗，国号&ldquo;契丹&rdquo;。</p>
+<p style="text-indent: 2em;">
+	<img max-width="600" src="http://img.xixik.net/cimg/071/xixik_bfee3060ec07ffa4.jpeg" /></p>
+<p style="text-indent: 2em;">
+	3.909年，王审知受后梁封，成为闽王（史称闽国，十国建国五）；刘守光被朱温封为燕王。</p>
+<p style="text-indent: 2em;">
+	<img max-width="600" src="http://img.xixik.net/cimg/071/xixik_115b19b6c75a4e0d.jpeg" /></p>
+<p style="text-indent: 2em;">
+	4.911年，燕王刘守光在幽州（今北京）称帝，国号大燕（史称桀燕）。</p>
+<p style="text-indent: 2em;">
+	<img max-width="600" src="http://img.xixik.net/cimg/071/xixik_4a52683a71189e41.jpeg" /></p>
+<p style="text-indent: 2em;">
+	5.913年，晋王李存勖灭桀燕国（存国2年）。</p>
+<p style="text-indent: 2em;">
+	<img max-width="600" src="http://img.xixik.net/cimg/071/xixik_406a0a147a8483d0.jpeg" /></p>
+<p style="text-indent: 2em;">
+	6.917年，南海王刘?在番禺（今广州）称帝，国号&ldquo;大越&rdquo;，次年十一月改国号汉（史称南汉，十国建国六）。</p>
+<p style="text-indent: 2em;">
+	<img max-width="600" src="http://img.xixik.net/cimg/071/xixik_c9fcdbf2de2686e9.jpeg" /></p>
+<p style="text-indent: 2em;">
+	7.921年赵国发生内乱，晋王李存勖趁机灭赵国（存国14年）。923年李存勖在魏州称帝，以&ldquo;唐&rdquo;为国号（史称后唐，五代建国二），年底灭后梁（享国17年），定都洛京。</p>
+<p style="text-indent: 2em;">
+	<img max-width="600" src="http://img.xixik.net/cimg/071/xixik_714dffc914eb289b.jpeg" /></p>
+<p style="text-indent: 2em;">
+	8.924年，荆南节度使高季兴受后唐封为南平王（史称南平国，十国建国七）。</p>
+<p style="text-indent: 2em;">
+	<img max-width="600" src="http://img.xixik.net/cimg/071/xixik_b5cf8f360df89dfa.jpeg" /></p>
+<p style="text-indent: 2em;">
+	9.925年，后唐庄宗李存勖发兵攻打前蜀，王衍投降，前蜀灭亡（十国亡国一，享国十八年）。</p>
+<p style="text-indent: 2em;">
+	<img max-width="600" src="http://img.xixik.net/cimg/071/xixik_2a78c338ef563489.jpeg" /></p>
+<p style="text-indent: 2em;">
+	10.926年四月，后唐庄宗李存勖死于兴教门之变，时年四十二岁，以李存勖的势力本可以一统天下的，可惜崇信怜人以至于身死国灭。</p>
+<p style="text-indent: 2em;">
+	<img max-width="600" src="http://img.xixik.net/cimg/071/xixik_d32b7278158e556f.jpeg" /></p>
+<p style="text-indent: 2em;">
+	11.929年，北平王王都企图脱离后唐，北平国被后唐所灭（存国22年）。</p>
+<p style="text-indent: 2em;">
+	<img max-width="600" src="http://img.xixik.net/cimg/071/xixik_12abac7efb2efd19.jpeg" /></p>
+<p style="text-indent: 2em;">
+	12.934年，剑南两川节度使、蜀王孟知祥于成都称帝，国号蜀（史称后蜀，十国建国八）。</p>
+<p style="text-indent: 2em;">
+	<img max-width="600" src="http://img.xixik.net/cimg/071/xixik_68fa04ba15b0205e.jpeg" /></p>
+<p style="text-indent: 2em;">
+	13.936年，契丹王耶律德光册原后唐河东节度使石敬瑭为大晋儿<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="皇帝">皇帝</a>（史称后晋，五代建国三），同年攻入洛阳，后唐亡国（享国14年）。</p>
+<p style="text-indent: 2em;">
+	<img max-width="600" src="http://img.xixik.net/cimg/071/xixik_4a40ae305e99c35f.jpeg" /></p>
+<p style="text-indent: 2em;">
+	14.937年，徐知诰篡南吴政权建立齐国，南吴灭亡（十国亡国二，享国35年）。939年改名为李昪，并改国号为&ldquo;唐&rdquo;（史称南唐，十国建国九）。</p>
+<p style="text-indent: 2em;">
+	15.938年，交州节度使部将吴权占据交州自立为静海军节度使（史称越南吴朝）。</p>
+<p style="text-indent: 2em;">
+	<img max-width="600" src="http://img.xixik.net/cimg/071/xixik_6da5fc81a6a25313.jpeg" /></p>
+<p style="text-indent: 2em;">
+	16.945年，南唐趁闽国内乱时出兵灭闽国（十国亡国三，享国36年）。后留从效割据泉、漳二州，南唐迫不得已任命其为清源军节度使。</p>
+<p style="text-indent: 2em;">
+	<img max-width="600" src="http://img.xixik.net/cimg/071/xixik_17c5131d7ee4099c.jpeg" /></p>
+<p style="text-indent: 2em;">
+	17.947年，契丹灭后晋（享国12年），正是&ldquo;成也契丹，败也契丹&rdquo;。耶律德光占据中原称帝，改国号为&ldquo;辽&rdquo;，后因失民心又北撤回草原。</p>
+<p style="text-indent: 2em;">
+	<img max-width="600" src="http://img.xixik.net/cimg/071/xixik_4fe8647a1415f3df.jpeg" /></p>
+<p style="text-indent: 2em;">
+	18.947年刘知远在太原称帝，国号汉（史称后汉，五代建国四），后攻克并定都于东京开封。</p>
+<p style="text-indent: 2em;">
+	<img max-width="600" src="http://img.xixik.net/cimg/071/xixik_5062c03da1befb1d.jpeg" /></p>
+<p style="text-indent: 2em;">
+	19.951年正月，郭威篡汉自立，立国号为&ldquo;周&rdquo;（史称后周，五代建国五）；同年后汉河东节度使刘崇在太原即<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="皇帝">皇帝</a>位，仍用后汉年号，史称&ldquo;北汉&rdquo;（十国建国十）。</p>
+<p style="text-indent: 2em;">
+	20.951年11月，南唐乘南楚内乱灭楚（十国亡国四，享国44年），马殷旧将刘言击败了南唐军，继续据有湖南，为武平节度使。</p>
+<p style="text-indent: 2em;">
+	<img max-width="600" src="http://img.xixik.net/cimg/071/xixik_31df687d44d7fa75.jpeg" /></p>
+<p style="text-indent: 2em;">
+	21.955年到958年后周世宗柴荣三次亲征南唐，958年南唐中主李璟迫于后周的军事力量，取消帝号，尽献江北之地于后周，称臣于后周。</p>
+<p style="text-indent: 2em;">
+	<img max-width="600" src="http://img.xixik.net/cimg/071/xixik_71272865fe622f31.jpeg" /></p>
+<p style="text-indent: 2em;">
+	22.959年六月十九日，本来可以一统天下的雄主周世宗柴荣病卒，年仅六岁的柴宗训即<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="皇帝">皇帝</a>位。960年正月，后周都点检赵匡胤发动政变，建立<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="宋朝">宋朝</a>（后周灭亡，享国10年）。</p>
+<p style="text-indent: 2em;">
+	<img max-width="600" src="http://img.xixik.net/cimg/071/xixik_9bbd8a484db49ed3.jpeg" /></p>
+<p style="text-indent: 2em;">
+	23.963年，南平王高继冲纳地归降，南平国灭亡（十国亡国五，享国39年）；同年武平节度使周保权投降<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="北宋">北宋</a>，结束割据湖南地区12年的刘（言）、王（逵）、周（行逢、保权）三姓武平节度使。</p>
+<p style="text-indent: 2em;">
+	<img max-width="600" src="http://img.xixik.net/cimg/071/xixik_866c781ee35023aa.jpeg" /></p>
+<p style="text-indent: 2em;">
+	24.965年，<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="北宋">北宋</a>东、西两路军直逼成都，孟昶举城投降，后蜀灭亡（十国亡国六，享国33年）。</p>
+<p style="text-indent: 2em;">
+	<img max-width="600" src="http://img.xixik.net/cimg/071/xixik_91ffc64566874d0f.jpeg" /></p>
+<p style="text-indent: 2em;">
+	25.968年，越南丁部领结束&ldquo;十二使君之乱&rdquo;，统一越南北部，建立丁朝，国号大瞿越，标志着越南从中国独立。</p>
+<p style="text-indent: 2em;">
+	<img max-width="600" src="http://img.xixik.net/cimg/071/xixik_ee328023ebc7457c.jpeg" /></p>
+<p style="text-indent: 2em;">
+	26.971年，南汉末主刘鋹投降<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="北宋">北宋</a>，南汉灭亡（十国亡国七，享国39年）。</p>
+<p style="text-indent: 2em;">
+	<img max-width="600" src="http://img.xixik.net/cimg/071/xixik_0dfb3e5ca4638068.jpeg" /></p>
+<p style="text-indent: 2em;">
+	27.975年十一月，<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="北宋">北宋</a>攻占南京，灭亡南唐（十国亡国八，享国39年），将南唐皇室迁往汴州。</p>
+<p style="text-indent: 2em;">
+	<img max-width="600" src="http://img.xixik.net/cimg/071/xixik_07eb32b6cfc8a8ee.jpeg" /></p>
+<p style="text-indent: 2em;">
+	28.978年清源军（平海军）节度使陈洪进将其所辖漳、泉二州14县献给宋廷，结束29年的留（从效、绍镃）、张（汉思）、陈（洪进）三姓割据。</p>
+<p style="text-indent: 2em;">
+	29.同年，<a href="http://www.xixik.com/content/6345932b82b70414" title="同为亡国之君，南唐李煜和吴越钱俶命运大不同">吴越王钱弘俶献其地十三州与宋（纳土归宋）</a>，举家迁汴京，吴越政权结束（十国亡国九，立国72年）。</p>
+<p style="text-indent: 2em;">
+	<img max-width="600" src="http://img.xixik.net/cimg/071/xixik_4e9ddd12e158194d.jpeg" /></p>
+<p style="text-indent: 2em;">
+	30.979年，宋太宗赵匡义率军亲征北汉（十国亡国十，立国28年），大部分趋于一统，形成辽、宋、<a href="http://114.xixik.com/chaodai/xixia/" style="color:#000" title="西夏">西夏</a>（此时仍为定难军节度使，定难军绝对是打不死的小强，从881年拓跋思恭起一直为党项李氏所据）<a href="http://114.xixik.com/chaodai/sanguo/" style="color:#000" title="三国">三国</a>鼎立状态，<a href="http://114.xixik.com/chaodai/5dai10guo/" style="color:#000" title="五代十国">五代十国</a>结束。</p>
+<p style="text-indent: 2em;">
+	31.对于<a href="http://114.xixik.com/chaodai/5dai10guo/" style="color:#000" title="五代十国">五代十国</a>时期，中原王朝是五个国家的兴替，比较特殊的是后晋是亡于契丹国；另外其实十国的概念不是很准确，期间还存在过北平国、赵国、桀燕、殷等小国还有其他节度使的割据政权；十国的存在也不是同一时期的，前蜀在后唐时就被灭了，南唐则是权臣徐知诰（李昪）篡位所建立，另外南唐还曾灭亡闽国和南楚，<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="北宋">北宋</a>则是平定南平、后蜀、南汉、南唐、吴越、北汉6国。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+    </div>
+    <script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        var value = '202';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script>
+    <div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/chaodai/5dai10guo/" target="_self" title="五代十国_五代十国历史简介_五代十国皇帝列表_中国历史朝代">五代十国</a></div>
+    <ul style="width: 960px; margin: auto; overflow: hidden;">
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/lixi/"
+                title="人民币存款利率表，2019银行利息，银行存款利率，银行贷款利率">银行存款利息</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chaodai/zhou/"
+                title="周朝历史_西周历史_东周历史_周朝帝王列表">周朝历史</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证_中国旅行证更换新政策_美宝中国旅行证过期了该怎么办？">中国旅行证</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国历任总统名单_美国历届总统任期_美国总统简历生卒年份及所属党派">美国历届总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/baijiaxing-qq/"
+                title="百家姓qq头像,百家姓qq头像闪图大全_百家姓中国心qq头像">百家姓QQ头像</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="赴美生子_美宝证件_中国旅行证_美国护照_社会安全号_美国出生纸_美宝上户口">美宝需要哪些证件？</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_赴美生子费用预算清单_赴美生子2019费用">赴美生子要多少钱</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/obama/"
+                title="奥巴马_美国总统奥巴马_贝拉克·奥巴马(Barack Hussein Obama)_第44任美国总统">奥巴马</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/trump/"
+                title="美国总统特朗普_唐纳德·约翰·特朗普_Donald John Trump_第45任美国总统川普">特朗普</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_赴美生子要多少钱？_赴美生子预算表">赴美生子费用</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 中国护照免签证国家2019">中国护照免签证</a> </li>
+        
+    </ul>
+
+    <div class="lindBox">
+        <div class="btnGray">
+            <div class="btnText">
+                <a target="_self" title="五代十国_五代十国历史简介_五代十国皇帝列表_中国历史朝代" href="http://news.xixik.com/word/202/">另存为<br />
+                    Word格式</a>
+            </div>
+        </div>
+    </div>
+    <div class="lindBox" style="text-align: center;">
+        <img src="http://news.xixik.com/qrcode/202/" alt="扫码手机上继续看" /><br />
+        <br />
+        <strong>用微信或者支付宝扫码在手机上继续观看<br />
+            可以保存收藏，也扫码后可以分享给好友
+        </strong>
+    </div>
+    <hr style="height: 1px; border: none; border-top: 1px dashed #999;" />
+    <script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script>
+<!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.-->
+
+</body></html>

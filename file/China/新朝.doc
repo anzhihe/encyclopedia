@@ -1,0 +1,332 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>新朝历史 - 新朝皇帝列表</title><link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" /><meta name="description" content="新朝历史,新朝皇帝列表" /><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/chaodai/xin/"><meta http-equiv="Cache-Control" content="no-transform" /><meta http-equiv="Cache-Control" content="no-siteapp" /><base target="_blank" /><script>        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "chaodai/xin/";
+        }
+
+
+    </script><style>        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style></head><body><a name="top4"></a><div class="topBox" name="top"><div class="topMain"><div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div><div id="icoPhone"></div><div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div><div id="icoWechat"></div><div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a></div><div id="icoSina"></div><div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a></div><div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div><div class="topRight"></div></div></div><div id="showqrCode"><div><span></span></div><img src="" /><div><span></span></div></div><script type="text/javascript">        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script><div class="body"><div class="lindBox" style="position: relative;"><img src="http://img.xixik.net/custom/topic/001/chaodai-xin.jpg" alt="新朝历史 - 新朝皇帝列表" /><div class="title"><h1>新朝历史 - 新朝皇帝列表</h1></div></div><div class=" custom_border lindBox"><div class="special_content"><div class="content_text"><div class="content_daodu"></div><h2 style="border-bottom:1px dashed #999; displayinline;">新朝历史</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.-->                    新朝（8年—23年），是继西汉之后由西汉外戚王莽建立的朝代。公元8年腊月，王莽废汉孺子（刘婴）为安定公，改国号为新，建都常安（今西安汉长安城遗址），史称新莽。王莽改制失败，存在历史太短，后继无人，被认为是篡位者，中国古代史学家对新朝的评价几乎都是负面的，尤其是《汉书》视王莽为逆臣贼子。后世亦是按汉书观点评价王莽，直到清末之后，评价才有所改变。
+
+
+
+                </div></div></div><div class="lindBox" style="overflow: hidden;"><div class="gg1"><a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a></div><div class="guide"><div class="guideBorder" id="guideBorder"><div class="guideTitle">导读（目录）</div><ul id="guideDisplay"><li>·<a title="新朝历史" href="#anchor1" target="_self"> 新朝历史</a></li><li>·<a title="新朝皇帝列表" href="#anchor2" target="_self"> 新朝皇帝列表</a></li><li>·<a title="王莽的新朝为什么不被正史承认？" href="#anchor3" target="_self"> 王莽的新朝为什么不被正史承认？</a></li><li>·<a title="新朝——现代人穿越搞出来的朝代？" href="#anchor4" target="_self"> 新朝——现代人穿越搞出来的朝代？</a></li></ul><div class="guideOpen">展开&darr;</div></div></div><div class="guideFllow"><div class="guideFllowBorder"><div class="guideFllowTitle">导读（目录）</div><ul id="guideFllowDisplay"><li>·<a title="新朝历史" href="#anchor1" target="_self"> 新朝历史</a></li><li>·<a title="新朝皇帝列表" href="#anchor2" target="_self"> 新朝皇帝列表</a></li><li>·<a title="王莽的新朝为什么不被正史承认？" href="#anchor3" target="_self"> 王莽的新朝为什么不被正史承认？</a></li><li>·<a title="新朝——现代人穿越搞出来的朝代？" href="#anchor4" target="_self"> 新朝——现代人穿越搞出来的朝代？</a></li></ul><div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div></div></div><div class="gg2"><a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a></div></div><a name="anchor1"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        新朝历史</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em"><strong><a style="color:#000" title="新朝" href="http://114.xixik.com/chaodai/xin/">新朝</a></strong>（8年&mdash;23年），是夹在<a href="http://114.xixik.com/chaodai/han/" style="color:#000" title="西汉">西汉</a>和<a href="http://114.xixik.com/chaodai/han/" style="color:#000" title="东汉">东汉</a>之间的短暂<a href="http://114.xixik.com/chaodai/" style="color:#000" title="历史朝代顺序表">朝代</a>，由<a href="http://114.xixik.com/chaodai/han/" style="color:#000" title="西汉">西汉</a>外戚王莽建立。西汉末年，在汉哀帝早亡、皇权旁落的情况下，王莽乘机窃取大权。公元8年12月，王莽废汉孺子（刘婴）为安定公，改国号为&ldquo;新&rdquo;，改元&ldquo;始建国&rdquo;，建都常安（今西安汉长安城遗址），史称&ldquo;新莽&rdquo;，不被中国正史所承认。宣布推行新政，史称&ldquo;王莽改制&rdquo;。王莽统治末期，天下大乱。公元23年（新莽地皇四年），更始军攻入长安，王莽死于乱军之中，<a style="color:#000" title="新朝" href="http://114.xixik.com/chaodai/xin/">新朝</a>灭亡。王莽共在位15年，卒年69岁，而<a style="color:#000" title="新朝" href="http://114.xixik.com/chaodai/xin/">新朝</a>也成为中国历史上的短命朝代之一&mdash;&mdash;共历1帝、国祚15年。农民战争后，刘玄建立汉政权，史称&ldquo;玄汉&rdquo;。&nbsp;</p><p style="TEXT-INDENT:2em">	王莽称帝后进行了多项改革，包括：推行王田制，限制私有土地持有，超出部分为国有，无土地者由国家分配，一夫百亩，目的是解决<a href="http://114.xixik.com/chaodai/han/" style="color:#000" title="西汉">西汉</a>后期以来土地兼并严重的问题，但是完全无法执行；禁赏奴婢；推广国营事业；改革币制等。唯<a style="color:#000" title="新朝" href="http://114.xixik.com/chaodai/xin/">新朝</a>政令繁琐，且朝令夕改，改革最终失败，导致<a style="color:#000" title="新朝" href="http://114.xixik.com/chaodai/xin/">新朝</a>急速灭亡。</p><div class='right_gg'><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- 336x280-114-left --><ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-3849899595029685"
+     data-ad-slot="9973132210"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><p style="TEXT-INDENT:2em"><a style="color:#000" title="新朝" href="http://114.xixik.com/chaodai/xin/">新朝</a>开创了<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>上通过禅让称帝成功的先河（隋文帝，唐高祖，宋太祖都是沿用此法），王莽为西汉外戚王氏家族的重要成员，因为传统史观相对于通过战争革命取得政权，比较鄙弃禅位这种移转政权的方式，所以王莽一直被中国史学家误认为是&ldquo;伪君子&rdquo;。古代史学家以&ldquo;正统&rdquo;的观念，认为其人虽然谦恭俭让，礼贤下士，实际上却是沽名钓誉之辈。在朝野素有威名。中国古代史学家对<a style="color:#000" title="新朝" href="http://114.xixik.com/chaodai/xin/">新朝</a>的评价几乎都是负面的，尤其是《汉书》视王莽为逆臣贼子。后世亦是按汉书观点评价王莽，直到清末之后，评价才有所改变。</p><p style="TEXT-INDENT:2em">	&nbsp;</p><p style="TEXT-INDENT:2em">	&nbsp;</p></div></div></div><a name="anchor2"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        新朝皇帝列表</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	王莽（公元前45年12月12日&mdash;公元23年10月6日），字巨君，政治家，改革家，魏郡元城人（今河北邯郸大名县）， 新显王王曼长子、<a href="http://114.xixik.com/chaodai/han/" style="color:#000" title="西汉">西汉</a>孝元皇后王政君侄。<a style="color:#000" title="新朝" href="http://114.xixik.com/chaodai/xin/">新朝</a>开国<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，公元8年至23年在位。</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/custom/section/chaodai/xin/xixik-94809168fb1ac514.jpg" style="margin: 10px; float: right; width: 400px;" /></p><p style="TEXT-INDENT:2em">	王莽为<a href="http://114.xixik.com/chaodai/han/" style="color:#000" title="西汉">西汉</a>外戚王氏家族的重要成员。当时朝廷腐败，社会矛盾空前激化，当王氏家族其他成员都沉溺声色犬马之中时，王莽被认为是另类。他喜欢结交各阶层朋友，绝不戴有色眼镜看人，生活非常简朴，为人相当谦恭。几年后，王莽名声远播，几乎成为京城的道德楷模，上至朝廷重臣，下至黎民百姓，无不对他称赞有加。</p><p style="TEXT-INDENT:2em">	不久后，在朝廷众大臣的力荐下，王莽入朝为官，先是被任命为黄门郎，后升为射声校尉。身居高位后，王莽依旧如从前，总能礼贤下士、清廉俭朴，经常把自己的工资及朝廷的赏赐分给门客和朋友，甚至为了接济穷人，把自己的坐骑都给卖掉，可谓是大公无私。古代史学家以&ldquo;正统&rdquo;的观念，认为其人虽然谦恭俭让，礼贤下士，实际上却是沽名钓誉之辈。</p><p style="text-indent: 2em;">	公元前8年，年仅38岁的王莽出任大司马一职，掌握了朝廷大权，却依旧相当低调。而且王莽非常奉公守法，绝不会以权谋私。有一次，他儿子杀死了一位家奴，王莽二话不说，就让儿子自杀谢罪，还赔偿了死者家人一笔巨款。公元8年，在朝中大臣及百姓的推举下，王莽接受了西汉皇帝的禅位，登基称帝，开创了<a style="color:#000" title="新朝" href="http://114.xixik.com/chaodai/xin/">新朝</a>政权，建元&ldquo;始建国&rdquo;，宣布推行新政，史称&ldquo;王莽改制&rdquo;。</p><p style="TEXT-INDENT:2em">	王莽统治末期，天下大乱。公元23年（新莽地皇四年），更始军攻入长安，王莽死于乱军之中，<a style="color:#000" title="新朝" href="http://114.xixik.com/chaodai/xin/">新朝</a>灭亡。王莽共在位15年，卒年69岁，而<a style="color:#000" title="新朝" href="http://114.xixik.com/chaodai/xin/">新朝</a>也成为<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>上的短命<a href="http://114.xixik.com/chaodai/" style="color:#000" title="历史朝代顺序表">朝代</a>之一，一般不为正史所承认。<span arial="" style="color: rgb（0, 0, 0）; font-family: 宋体, ">另外王莽既无庙号也无谥号，虽然自称<a style="color:#000" title="新朝" href="http://114.xixik.com/chaodai/xin/">新朝</a>皇帝，但后来刘姓君主并没有对王莽进行追封，所以王莽也是封建王朝之中唯一一个没有被追封庙号</span>的君主。<a href="http://www.xixik.com/content/4aa959a5a5799f23" title="中国皇帝的帝号、庙号、谥号怎样区别？">但王莽在位时为前代多个皇帝追封庙号，庙号也从他这一代开始泛滥</a>。</p></div></div></div><a name="anchor3"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        王莽的新朝为什么不被正史承认？</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	历史上，很多<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>都是通过篡位来开始一个新的<a href="http://114.xixik.com/chaodai/" style="color:#000" title="历史朝代顺序表">朝代</a>，在随后的正史记录中，他们所建立的王朝并没有因为被抹杀，如隋文帝杨坚、宋太祖赵匡胤，但是王莽所建立的<a style="color:#000" title="新朝" href="http://114.xixik.com/chaodai/xin/">新朝</a>是一个例外。通过比较得出，这其中的原因是因为王莽改制的失败，立朝的时间太短，后继无人。</p><p style="TEXT-INDENT:2em">	在官方正史记录中，他是王姓人，篡夺了刘氏的皇位，是一个篡权者。中国传统上的史观容不得篡位者的事迹载入史册。</p><p style="TEXT-INDENT:2em">	在普通民众中，人们普遍只会关心自己的切身利益，至于谁当<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>并不是他们关心的头等大事。在刘氏家族失去民心，有人推举品行高尚的王莽当<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>的情况下，他们大多会支持，更何况他们愿意去认为王莽当政会使他们的生活得到改善。但是王莽的执政能力让民众失望了，又毕竟之前的天下是刘家的，加之当时儒学盛行，王朝的存在时间也不长，很多人还没从刘氏统治的思想下转变过来，官方说王莽是篡权那就是篡权，反而忘了王莽是他们亲自选出的<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>。所以在民间，王莽的<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>身份也就不存在了。</p></div></div></div><a name="anchor4"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        新朝——现代人穿越搞出来的朝代？</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	王莽的<a style="color:#000" title="新朝" href="http://114.xixik.com/chaodai/xin/">新朝</a>，很快被推翻。令人可笑的是，王莽生前曾大兴教育，而推翻他的刘秀曾就读于他扩招的太学。他本人被杀死后，他的舌头被分而食之，因为人们痛恨他做<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>前说尽了政治谎言，却无一兑现。</p><p style="TEXT-INDENT:2em">	他是不世出的改革家，其魄力可谓气吞万里。甚至有人怀疑，他是现代人穿越到了古代，搞起了惊天动地的改革。他就是<a style="color:#000" title="中国历史" href="http://114.xixik.com/chinese-dynasties/">中国历史</a>上声威显赫的王氏家族，唯一出现的大一统<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>&mdash;&mdash;王莽。</p><p style="TEXT-INDENT:2em"><strong>（一）以不流血的方式，登上了皇位</strong></p><p style="TEXT-INDENT:2em">	王莽善于营造名声，赢得了很大的声望。他以不流血的方式，登上了皇位，可谓开辟了外戚篡夺皇位的先例。虽然刘氏皇族，以及忠于<a style="color:#000" title="西汉" href="http://114.xixik.com/chaodai/han/">西汉</a>朝廷的文臣武将，对他朝廷了声讨，但都被他镇压下去了。</p><p style="TEXT-INDENT:2em">	可以说，民心一开始在站在他这一方面的。毕竟，<a style="color:#000" title="西汉" href="http://114.xixik.com/chaodai/han/">西汉</a>的积病，到他这时，已经病入膏肓。百姓和士人，都对他寄寓厚望，希望他改变时局，给天下带来太平。因为<a style="color:#000" title="西汉" href="http://114.xixik.com/chaodai/han/">西汉</a>末代的几个<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>，极度荒淫，政事荒废，加之地主豪强侵吞百姓土地，使百姓无立锥之地，因此人心思变。王莽代汉，算得上顺天承运。</p><p style="TEXT-INDENT:2em">	为了解决<a style="color:#000" title="西汉" href="http://114.xixik.com/chaodai/han/">西汉</a>末年的社会矛盾，王莽朝廷了一系列的改革。改革时弊，必然会损害些既得利益者，尤其是地主豪强。为让改革顺利进行，王莽实行了借古改制的策略。他假借推行<a style="color:#000" title="周朝" href="http://114.xixik.com/chaodai/zhou/">周朝</a>的制度，来达到旧瓶装新药的目的。</p><p style="TEXT-INDENT:2em">	也就是说，他要让自己的改革有理论依据和历史凭证。而且<a style="color:#000" title="周朝" href="http://114.xixik.com/chaodai/zhou/">周朝</a>的制度，大都是周公制定的。王莽代汉之前，也被誉为当世周公。这说明，王莽的政治手腕，还是有两把刷子的。</p><p style="TEXT-INDENT:2em"><strong>（二）理想很丰满，现实很骨感</strong></p><p style="TEXT-INDENT:2em">	但是，当王莽美丽的梦想，遇到现实时，他才明白到，理想很丰满，现实很骨感。当初支持他的豪强地主，见<a style="color:#000" title="新朝" href="http://114.xixik.com/chaodai/xin/">新朝</a><a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>一上位就转眼不认人了，要夺他们的地收归国有，还将盐铁国营，就连酿酒也不是他们说了算了。结果，他把豪强地主得罪了，经济上失去了支撑。</p><p style="TEXT-INDENT:2em">	为了突显他这个<a style="color:#000" title="新朝" href="http://114.xixik.com/chaodai/xin/">新朝</a>的&ldquo;新&rdquo;，王莽还改革官制，更换官名，其实是换汤不换药，让当官的也苦不堪言。结果，他把当官的也得罪了，政治上失去了支持。</p><p style="TEXT-INDENT:2em">	王莽还改革了币制，但是改来改去，钱越不越不值钱。结果，他把经商的也得罪了。但是，他最终得罪的还是百姓，因为所有改革的成本，都要由百姓支付。</p><p style="TEXT-INDENT:2em">	为了展现他的王权，他强迫边境的少数<a style="color:#000" title="民族" href="http://114.xixik.com/minority/">民族</a>首领更换封号，甚至把附属国的国名也改掉了。结果，他把少数<a style="color:#000" title="民族" href="http://114.xixik.com/minority/">民族</a>的首领和附属国的国君也得罪了，他们纷纷起兵反叛，以致于边疆矛盾激化，很多能打仗的军队不得不前往镇压。</p><p style="TEXT-INDENT:2em">	而在这个时候，王莽的<a style="color:#000" title="新朝" href="http://114.xixik.com/chaodai/xin/">新朝</a>又遇到了天灾，百姓连吃饭都成了问题。当百姓连吃饭都成问题时，所有的矛盾，就总爆发了。人们把对<a style="color:#000" title="西汉" href="http://114.xixik.com/chaodai/han/">西汉</a>末年朝廷的痛恨，全部转嫁在王莽身上。</p><p style="TEXT-INDENT:2em"><strong>（三）死后却被割掉了舌头</strong></p><p style="TEXT-INDENT:2em">	王莽的<a style="color:#000" title="新朝" href="http://114.xixik.com/chaodai/xin/">新朝</a>，很快被推翻。令人可笑的是，王莽生前曾大兴教育，而推翻他的刘秀曾就读于他扩招的太学。他本人被杀死后，他的舌头被分而食之，因为人们痛恨他做<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>前说尽了政治谎言，却无一兑现。</p><p style="TEXT-INDENT:2em">	他的头，则被漆制，与刘邦斩蛇剑，孔子木屐，成为<a style="color:#000" title="东汉" href="http://114.xixik.com/chaodai/han/">东汉</a>国宝，可惜的是，<a style="color:#000" title="晋朝" href="http://114.xixik.com/chaodai/jin/">晋朝</a>惠帝元康五年时，一场大火将王莽的头化为乌有。</p><p style="TEXT-INDENT:2em">	王莽无疑是一个改革家的，他有魄力，有政治手腕，可惜的是，他的运气太差。<a style="color:#000" title="西汉" href="http://114.xixik.com/chaodai/han/">西汉</a>二百多年的弊病，不是他弹指间就能变革的。但是，也正是因为王莽<a style="color:#000" title="新朝" href="http://114.xixik.com/chaodai/xin/">新朝</a>的出现，才使人心重新思汉，才有了<a style="color:#000" title="东汉" href="http://114.xixik.com/chaodai/han/">东汉</a>的出现。</p><p style="TEXT-INDENT:2em"><strong>为何说王莽为&ldquo;穿越&rdquo;<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>？</strong></p><p style="TEXT-INDENT:2em">	一个新王朝的建立，<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>都会起一个国号，大多都是根据之前封号或爵位而来。如<a style="color:#000" title="汉朝" href="http://114.xixik.com/chaodai/han/">汉朝</a>的国号&ldquo;汉&rdquo;，是因为刘邦曾为汉王；<a style="color:#000" title="唐朝" href="http://114.xixik.com/chaodai/tang/">唐朝</a>的国号&ldquo;唐&rdquo;，则是因为李渊曾为唐国公等。而王莽十分奇葩，居然想了一个非常潮的名字，用&ldquo;新&rdquo;为国号，建立了<a style="color:#000" title="新朝" href="http://114.xixik.com/chaodai/xin/">新朝</a>，如此标新立异令人相当费解。</p><p style="TEXT-INDENT:2em">	有人从王莽上台后之后的一系列改革措施，认为提出的很多思想都和现代相似，比如强调人人平等，禁止奴婢买卖，并提出&ldquo;天地之性人为贵&rdquo;的观点；允许土地国有化，禁止私人买卖，把当时豪强手中的土地收归朝廷所有，并根据人口的多少，将这些土地分给百姓，这不是土地改革吗？并且统一发行货币，规定矿山是国有的，私人开采要交税，要办营业执照。设置专门的机构，对物价进行调控，并且制定了各种税种等。这不是发改委和税务局吗？所以他们得出一个匪夷所思的结论，王莽是个穿越者！而且还是熟读马列的社会主义坚定支持者。王莽一生坎坷，他的故事比穿越小说里那些主人公经历还要丰富，值得后人笔书。关于王莽穿越的几大证据：</p><p style="TEXT-INDENT:2em">	1.王莽是个<a style="color:#000" title="民族" href="http://114.xixik.com/minority/">民族</a>主义者。他嫉妒仇视匈奴和高句丽，仇视匈奴就不说了，匈奴当时南下烧杀作恶，他还匈奴单于改名为降奴服于，以示藐视。但是仇视高句丽就有点说不清了，当时高句丽鸟不拉屎穷地方一个，王莽竟然把高句丽名字改成下句丽。而且无论地名、官名、建筑名，大多数都进行了修改，而且还任意调整<a style="color:#000" title="中国行政区划" href="http://114.xixik.com/xingzhengquhua/">行政区划</a>和行政部门的职权。更有甚至，一些官名和地名，一年之中居然被改了四五次。所以，就有人开玩笑说，可能是王莽在穿越之前喜欢改自己的网名，并把这种习惯带到了古代。</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/custom/section/chaodai/xin/xixik-93c953396d5d99ab.png" style="margin: 10px; float: right; width: 303px;" /></p><p style="TEXT-INDENT:2em">	2.对新科技新发明创造的重视。在成为<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>之前，王莽就喜欢做一些稀奇古怪的研究，为此还花巨资在家中组建了一个研究机构，鼓励门客进行创新。登基称帝后，王莽曾亲自制作了一张图纸，让人根据图纸研究飞行器。由于材料有限，就用羽毛制作了一个会飞的东西，只能飞行百米左右，但王莽却对该发明人员进行了丰厚的奖励。王莽当时实验很多被儒家成为奇技淫巧的新生事物，并且还亲手解剖人体，当时有人发明飞行器，王莽还接见那人并给钱资助，说明这名穿越者直到科技对于生产力的决定作用！后来，王莽自己制造了一个先进的测量工具，也就是&ldquo;青铜卡尺&rdquo;。1992年，在扬州的一座古墓中，出土了一把王莽所制造的青铜卡尺，既可以测量物体的直径，又可测其深度以及长、宽、厚。学过物理的朋友都知道，这特么就是古代版的游标卡尺。几乎所有人都认为，若王莽不是从现代穿越过去的牛人，压根就不可能制造出如此先进的青铜卡尺。（说不定是个理工男。）</p><p style="TEXT-INDENT:2em">	3.进行土改！打土豪，分田地！土地国有化，禁止私人买卖。王莽规定，人均土地一百亩，多占土地的人家，不管是富豪巨室还是普通百姓，立刻要无条件交出土地，分给贫民，土地不许买卖抵押，这就是土改！这不就是社会主义很典型的体现吗？只有穿越者才会具有社会主义制度思想，王莽就是个穿越者，</p><p style="TEXT-INDENT:2em">	4.废除奴隶制度，王莽非常痛恨奴隶制度，禁止买卖奴婢。看来王莽具有现代人那种人生来平等的光辉思想，只可惜封建势力太强大，实施不了。</p><p style="TEXT-INDENT:2em">	5. 王莽强迫无业游民必须劳动，没有具体工作的的游民，每年必须罚布一块，或者劳役，由国家承担食宿。看来这穿越者很痛恨那些不劳而获的。</p><p style="TEXT-INDENT:2em">	6.经济命脉收归国有，建立国企。盐铁酒全部收归国有，国家统一发行货币。山川河流自然资源矿山全部为国有，私人开采者要征税，而且还要登记办营业执照。这就是典型的社会主义。</p><p style="TEXT-INDENT:2em">	7. 计划经济政策。王莽实行政府控制物价，禁止商人囤货炒作，商人货物低于政府定价随意买卖，防止货币膨胀，有点像今天的物价局。</p><p style="TEXT-INDENT:2em">	8.贷款制度。经营生意农商的可以向国家贷款，国家收取利润的十分之一，国家银行贷款，时代性的飞跃。不是穿越者能想到这个？</p><p style="TEXT-INDENT:2em">	9.<a style="color:#000" title="个人所得税" href="http://114.xixik.com/ppt/">个人所得税</a>和商业税。<a style="color:#000" title="新朝" href="http://114.xixik.com/chaodai/xin/">新朝</a>对手工业者或者牵扯到买卖的商业活动收取所得税，用于平息物价和贷款支出。</p><p style="TEXT-INDENT:2em">	10.王莽还曾实行廉租房政策，长安城中投资建设5个里共200个廉租房住宅小区，供贫民居住。这是社会主义啊。</p><p style="TEXT-INDENT:2em">	王莽的思想绝对不应该出现在那个时候，因为他的思想完全和当时的社会生产力和发展水平严重脱节。世界历史上的新思想的出现，都是与当时社会生产发展力有关系，当然超前的思想也有，但是从没有像王莽这样超前将近两千年的思想，王莽改制的政策，完全就是中国的计划经济的翻版。</p><p style="TEXT-INDENT:2em">	王莽不是主动穿越者，他是被动地被卷入偶发的原因被传送回去的，从他的一些做法上看，他不会是现代人，更不会是未来人，比较像是在那十年中的一些狂热青年，很可能是在带队破四旧时不慎触动了古文明的时光机。穿越的王莽本想提前在中华大地上实现Communism，但因为时间有自己的固有运行规律，可以自行消除悖论产生的因素，所以王莽最终失败了，但或多或少，他的穿越应该对世界线有些许影响，挺好奇他穿越前的<a style="color:#000" title="汉朝" href="http://114.xixik.com/chaodai/han/">汉朝</a>是什么个样子的。</p><p style="TEXT-INDENT:2em">	说到底，王莽给人一种穿越感，只是书生治国的一种悲哀罢了。</p></div></div></div></div><script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script><script type="text/javascript">        var value = '220';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script><div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/chaodai/xin/" target="_self" title="新朝历史 - 新朝皇帝列表">新朝历史</a></div><ul style="width: 960px; margin: auto; overflow: hidden;"><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/lixi/"
+                title="人民币存款利率表，2019银行利息，银行存款利率，银行贷款利率">银行存款利息</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chaodai/zhou/"
+                title="周朝历史_西周历史_东周历史_周朝帝王列表">周朝历史</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证_中国旅行证更换新政策_美宝中国旅行证过期了该怎么办？">中国旅行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国历任总统名单_美国历届总统任期_美国总统简历生卒年份及所属党派">美国历届总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/baijiaxing-qq/"
+                title="百家姓qq头像,百家姓qq头像闪图大全_百家姓中国心qq头像">百家姓QQ头像</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="赴美生子_美宝证件_中国旅行证_美国护照_社会安全号_美国出生纸_美宝上户口">美宝需要哪些证件？</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_赴美生子费用预算清单_赴美生子2019费用">赴美生子要多少钱</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/obama/"
+                title="奥巴马_美国总统奥巴马_贝拉克·奥巴马(Barack Hussein Obama)_第44任美国总统">奥巴马</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/trump/"
+                title="美国总统特朗普_唐纳德·约翰·特朗普_Donald John Trump_第45任美国总统川普">特朗普</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_赴美生子要多少钱？_赴美生子预算表">赴美生子费用</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 中国护照免签证国家2019">中国护照免签证</a></li></ul><div class="lindBox"><div class="btnGray"><div class="btnText"><a target="_self" title="新朝历史 - 新朝皇帝列表" href="http://news.xixik.com/word/220/">另存为<br />                    Word格式</a></div></div></div><div class="lindBox" style="text-align: center;"><img src="http://news.xixik.com/qrcode/220/" alt="扫码手机上继续看" /><br /><br /><strong>用微信或者支付宝扫码在手机上继续观看<br />            可以保存收藏，也扫码后可以分享给好友
+        </strong></div><hr style="height: 1px; border: none; border-top: 1px dashed #999;" /><script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script><!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.--></body></html>
