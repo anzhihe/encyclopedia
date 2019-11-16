@@ -1,0 +1,446 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>十二生肖对照表 - 十二生肖排序,12生肖纪年对照表</title><link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" /><meta name="description" content="十二生肖的故事,十二生肖排序,十二生肖的来历,12生肖纪年对照表,十二生肖分别是：子鼠、丑牛、寅虎、卯兔、辰龙、巳蛇、午马、未羊、申猴、酉鸡、戌狗、亥猪。" /><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/12shengxiao/"><meta http-equiv="Cache-Control" content="no-transform" /><meta http-equiv="Cache-Control" content="no-siteapp" /><base target="_blank" /><script>        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "12shengxiao/";
+        }
+
+
+    </script><style>        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+            overflow:auto;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style></head><body><a name="top4"></a><div class="topBox" name="top"><div class="topMain"><div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div><div id="icoPhone"></div><div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div><div id="icoWechat"></div><div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a></div><div id="icoSina"></div><div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a></div><div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div><div class="topRight"></div></div></div><div id="showqrCode"><div><span></span></div><img src="" /><div><span></span></div></div><script type="text/javascript">        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script><div class="body"><div class="lindBox" style="position: relative;"><img src="http://img.xixik.net/custom/topic/001/12shengxiao.jpg" alt="十二生肖对照表 - 十二生肖排序,12生肖纪年对照表" /><div class="title"><h1>十二生肖对照表 - 十二生肖排序,12生肖纪年对照表</h1></div></div><div class=" custom_border lindBox"><div class="special_content"><div class="content_text"><div class="content_daodu"></div><h2>十二生肖对照表</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--><p><strong><a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a></strong>，又叫属相，是中国与十二地支相配以人出生年份的十二种动物，分别是：子鼠、丑牛、寅虎、卯兔、辰龙、巳蛇、午马、未羊、申猴、酉鸡、戌狗、亥猪。</p></div></div></div><div class="lindBox" style="overflow: hidden;"><div class="gg1"><a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a></div><div class="guide"><div class="guideBorder" id="guideBorder"><div class="guideTitle">导读（目录）</div><ul id="guideDisplay"><li>·<a title="何为十二生肖？" href="#anchor1" target="_self"> 何为十二生肖？</a></li><li>·<a title="十二生肖文献考（历史）" href="#anchor2" target="_self"> 十二生肖文献考（历史）</a></li><li>·<a title="十二生肖对照表" href="#anchor3" target="_self"> 十二生肖对照表</a></li><li>·<a title="十二生肖计算器" href="#anchor4" target="_self"> 十二生肖计算器</a></li><li>·<a title="十二生肖配对表" href="#anchor5" target="_self"> 十二生肖配对表</a></li><li>·<a title="十二生肖排序的来历" href="#anchor6" target="_self"> 十二生肖排序的来历</a></li><li>·<a title="十二生肖与时辰的结合" href="#anchor7" target="_self"> 十二生肖与时辰的结合</a></li><li>·<a title="十二生肖在英语中的喻义" href="#anchor8" target="_self"> 十二生肖在英语中的喻义</a></li><li>·<a title="呆萌的十二生肖卡通" href="#anchor9" target="_self"> 呆萌的十二生肖卡通</a></li><li>·<a title="成龙电影《十二生肖》" href="#anchor10" target="_self"> 成龙电影《十二生肖》</a></li></ul><div class="guideOpen">展开&darr;</div></div></div><div class="guideFllow"><div class="guideFllowBorder"><div class="guideFllowTitle">导读（目录）</div><ul id="guideFllowDisplay"><li>·<a title="何为十二生肖？" href="#anchor1" target="_self"> 何为十二生肖？</a></li><li>·<a title="十二生肖文献考（历史）" href="#anchor2" target="_self"> 十二生肖文献考（历史）</a></li><li>·<a title="十二生肖对照表" href="#anchor3" target="_self"> 十二生肖对照表</a></li><li>·<a title="十二生肖计算器" href="#anchor4" target="_self"> 十二生肖计算器</a></li><li>·<a title="十二生肖配对表" href="#anchor5" target="_self"> 十二生肖配对表</a></li><li>·<a title="十二生肖排序的来历" href="#anchor6" target="_self"> 十二生肖排序的来历</a></li><li>·<a title="十二生肖与时辰的结合" href="#anchor7" target="_self"> 十二生肖与时辰的结合</a></li><li>·<a title="十二生肖在英语中的喻义" href="#anchor8" target="_self"> 十二生肖在英语中的喻义</a></li><li>·<a title="呆萌的十二生肖卡通" href="#anchor9" target="_self"> 呆萌的十二生肖卡通</a></li><li>·<a title="成龙电影《十二生肖》" href="#anchor10" target="_self"> 成龙电影《十二生肖》</a></li></ul><div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div></div></div><div class="gg2"><a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a></div></div><a name="anchor1"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        何为十二生肖？</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT: 2em"><strong><a style="color:#000" title="十二生肖对照表" href="http://114.xixik.com/12shengxiao/">十二生肖</a></strong>是由十一种源于自然界的动物即鼠、牛、虎、兔、蛇、马、羊、猴、鸡、狗、猪以及传说中的龙所组成，用于记年，顺序排列为子鼠、丑牛、寅虎、卯兔、辰龙、巳蛇、午马、未羊、申猴、酉鸡、戌狗、亥猪。</p><table align="center" border="0" cellpadding="2" cellspacing="1" style="width:600px;text-align:center; margin:0 auto;"><tbody><tr><td><img src="http://images.xixik.com/114/12birthpet/shu.gif" />鼠</td><td><img src="http://images.xixik.com/114/12birthpet/niu.gif" />牛</td><td><img src="http://images.xixik.com/114/12birthpet/hu.gif" />虎</td><td><img src="http://images.xixik.com/114/12birthpet/tu.gif" />兔</td><td><img src="http://images.xixik.com/114/12birthpet/long.gif" />龙</td><td><img src="http://images.xixik.com/114/12birthpet/she.gif" />蛇</td></tr><tr><td><img src="http://images.xixik.com/114/12birthpet/ma.gif" />马</td><td><img src="http://images.xixik.com/114/12birthpet/yang.gif" />羊</td><td><img src="http://images.xixik.com/114/12birthpet/hou.gif" />猴</td><td><img src="http://images.xixik.com/114/12birthpet/ji.gif" />鸡</td><td><img src="http://images.xixik.com/114/12birthpet/gou.gif" />狗</td><td><img src="http://images.xixik.com/114/12birthpet/zhu.gif" />猪</td></tr></tbody></table></div></div></div><a name="anchor2"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        十二生肖文献考（历史）</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-758126b48f4845e9.jpg" style="margin: 10px; float: right; width: 400px;" /></p><p style="TEXT-INDENT:2em">	最早完整记录<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>且与今相同的是东汉王充的《论衡》。《论衡》卷三《物势篇》：</p><p style="TEXT-INDENT:2em">	“寅木也，其禽虎也；戌土也，其禽犬也；丑未亦土也，丑禽牛，未禽羊也。木胜土，故犬与牛羊为虎所服也。亥水也，其禽豕也；巳火也，其禽蛇也；子亦水也，其禽鼠也；午亦火也，其禽马也……午马也，子鼠也，酉鸡也，卯兔也。水胜火，鼠何不逐马？金胜木，鸡何不啄兔？ 亥豕也，未羊也，丑牛也。土胜水，牛羊何不杀豕？巳蛇也，申猴也。火胜金，蛇何不食猕猴？“</p><p style="TEXT-INDENT:2em">	同书卷二三《言毒篇》则云：</p><p style="TEXT-INDENT:2em">	”辰为龙，巳为蛇，辰巳之位在东南。龙有毒，蛇有蜇，故蝮有利牙，龙有逆鳞。木生火，火为毒，故苍龙之兽含火星。”</p><p style="TEXT-INDENT:2em">	可见，最迟在<a href="http://114.xixik.com/chaodai/han/" style="color:#000;" title="东汉历史">东汉</a><a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>已全部定型。</p><p style="TEXT-INDENT:2em">	清代梁章缸在《浪迹丛谈·续谈》也转述《论衡》的记载。</p><p style="TEXT-INDENT:2em">	《北史·宇文护传》记述后周宇文护的母亲在齐的信：“ 昔在武川镇生汝兄弟，大者属鼠，次者属兔，汝身属蛇。”这是以<a href="http://114.xixik.com/12birthpet/" style="color:#000;">生肖</a>联系出生年见于正史的较早记载。</p><p style="TEXT-INDENT:2em">	由于古文献记载未解决<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>的文化源头，古今学者对此众说纷纭。</p></div></div></div><a name="anchor3"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        十二生肖对照表</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width:90%;"><tbody><tr style="background-color:#5C83AF;font-weight:bold; color:#fff;"><td>				子</td><td>				丑</td><td>				寅</td><td>				卯</td><td>				辰</td><td>				巳</td><td>				午</td><td>				未</td><td>				申</td><td>				酉</td><td>				戌</td><td>				亥</td></tr><tr style="background-color:#5C83AF;font-weight:bold; color:#fff;"><td>				鼠</td><td>				牛</td><td>				虎</td><td>				兔</td><td>				龙</td><td>				蛇</td><td>				马</td><td>				羊</td><td>				猴</td><td>				鸡</td><td>				狗</td><td>				猪</td></tr><tr><td bgcolor="#C8DEF2">				1900</td><td bgcolor="#EFF7FF">				1901</td><td bgcolor="#C8DEF2">				1902</td><td bgcolor="#EFF7FF">				1903</td><td bgcolor="#C8DEF2">				1904</td><td bgcolor="#EFF7FF">				1905</td><td bgcolor="#C8DEF2">				1906</td><td bgcolor="#EFF7FF">				1907</td><td bgcolor="#C8DEF2">				1908</td><td bgcolor="#EFF7FF">				1909</td><td bgcolor="#C8DEF2">				1910</td><td bgcolor="#EFF7FF">				1911</td></tr><tr><td bgcolor="#C8DEF2">				1912</td><td bgcolor="#EFF7FF">				1913</td><td bgcolor="#C8DEF2">				1914</td><td bgcolor="#EFF7FF">				1915</td><td bgcolor="#C8DEF2">				1916</td><td bgcolor="#EFF7FF">				1917</td><td bgcolor="#C8DEF2">				1918</td><td bgcolor="#EFF7FF">				1919</td><td bgcolor="#C8DEF2">				1920</td><td bgcolor="#EFF7FF">				1921</td><td bgcolor="#C8DEF2">				1922</td><td bgcolor="#EFF7FF">				1923</td></tr><tr><td bgcolor="#C8DEF2">				1924</td><td bgcolor="#EFF7FF">				1925</td><td bgcolor="#C8DEF2">				1926</td><td bgcolor="#EFF7FF">				1927</td><td bgcolor="#C8DEF2">				1928</td><td bgcolor="#EFF7FF">				1929</td><td bgcolor="#C8DEF2">				1930</td><td bgcolor="#EFF7FF">				1931</td><td bgcolor="#C8DEF2">				1932</td><td bgcolor="#EFF7FF">				1933</td><td bgcolor="#C8DEF2">				1934</td><td bgcolor="#EFF7FF">				1935</td></tr><tr><td bgcolor="#C8DEF2">				1936</td><td bgcolor="#EFF7FF">				1937</td><td bgcolor="#C8DEF2">				1938</td><td bgcolor="#EFF7FF">				1939</td><td bgcolor="#C8DEF2">				1940</td><td bgcolor="#EFF7FF">				1941</td><td bgcolor="#C8DEF2">				1942</td><td bgcolor="#EFF7FF">				1943</td><td bgcolor="#C8DEF2">				1944</td><td bgcolor="#EFF7FF">				1945</td><td bgcolor="#C8DEF2">				1946</td><td bgcolor="#EFF7FF">				1947</td></tr><tr><td bgcolor="#C8DEF2">				1948</td><td bgcolor="#EFF7FF">				1949</td><td bgcolor="#C8DEF2">				1950</td><td bgcolor="#EFF7FF">				1951</td><td bgcolor="#C8DEF2">				1952</td><td bgcolor="#EFF7FF">				1953</td><td bgcolor="#C8DEF2">				1954</td><td bgcolor="#EFF7FF">				1955</td><td bgcolor="#C8DEF2">				1956</td><td bgcolor="#EFF7FF">				1957</td><td bgcolor="#C8DEF2">				1958</td><td bgcolor="#EFF7FF">				1959</td></tr><tr><td bgcolor="#C8DEF2">				1960</td><td bgcolor="#EFF7FF">				1961</td><td bgcolor="#C8DEF2">				1962</td><td bgcolor="#EFF7FF">				1963</td><td bgcolor="#C8DEF2">				1964</td><td bgcolor="#EFF7FF">				1965</td><td bgcolor="#C8DEF2">				1966</td><td bgcolor="#EFF7FF">				1967</td><td bgcolor="#C8DEF2">				1968</td><td bgcolor="#EFF7FF">				1969</td><td bgcolor="#C8DEF2">				1970</td><td bgcolor="#EFF7FF">				1971</td></tr><tr><td bgcolor="#C8DEF2">				1972</td><td bgcolor="#EFF7FF">				1973</td><td bgcolor="#C8DEF2">				1974</td><td bgcolor="#EFF7FF">				1975</td><td bgcolor="#C8DEF2">				1976</td><td bgcolor="#EFF7FF">				1977</td><td bgcolor="#C8DEF2">				1978</td><td bgcolor="#EFF7FF">				1979</td><td bgcolor="#C8DEF2">				1980</td><td bgcolor="#EFF7FF">				1981</td><td bgcolor="#C8DEF2">				1982</td><td bgcolor="#EFF7FF">				1983</td></tr><tr><td bgcolor="#C8DEF2">				1984</td><td bgcolor="#EFF7FF">				1985</td><td bgcolor="#C8DEF2">				1986</td><td bgcolor="#EFF7FF">				1987</td><td bgcolor="#C8DEF2">				1988</td><td bgcolor="#EFF7FF">				1989</td><td bgcolor="#C8DEF2">				1990</td><td bgcolor="#EFF7FF">				1991</td><td bgcolor="#C8DEF2">				1992</td><td bgcolor="#EFF7FF">				1993</td><td bgcolor="#C8DEF2">				1994</td><td bgcolor="#EFF7FF">				1995</td></tr><tr><td bgcolor="#C8DEF2">				1996</td><td bgcolor="#EFF7FF">				1997</td><td bgcolor="#C8DEF2">				1998</td><td bgcolor="#EFF7FF">				1999</td><td bgcolor="#C8DEF2">				2000</td><td bgcolor="#EFF7FF">				2001</td><td bgcolor="#C8DEF2">				2002</td><td bgcolor="#EFF7FF">				2003</td><td bgcolor="#C8DEF2">				2004</td><td bgcolor="#EFF7FF">				2005</td><td bgcolor="#C8DEF2">				2006</td><td bgcolor="#EFF7FF">				2007</td></tr><tr><td bgcolor="#C8DEF2">				2008</td><td bgcolor="#EFF7FF">				2009</td><td bgcolor="#C8DEF2">				2010</td><td bgcolor="#EFF7FF">				2011</td><td bgcolor="#C8DEF2">				2012</td><td bgcolor="#EFF7FF">				2013</td><td bgcolor="#C8DEF2">				2014</td><td bgcolor="#EFF7FF">				2015</td><td bgcolor="#C8DEF2">				2016</td><td bgcolor="#EFF7FF">				2017</td><td bgcolor="#C8DEF2">				2018</td><td bgcolor="#EFF7FF">				2019</td></tr><tr><td bgcolor="#C8DEF2">				2020</td><td bgcolor="#EFF7FF">				2021</td><td bgcolor="#C8DEF2">				2022</td><td bgcolor="#EFF7FF">				2023</td><td bgcolor="#C8DEF2">				2024</td><td bgcolor="#EFF7FF">				2025</td><td bgcolor="#C8DEF2">				2026</td><td bgcolor="#EFF7FF">				2027</td><td bgcolor="#C8DEF2">				2028</td><td bgcolor="#EFF7FF">				2029</td><td bgcolor="#C8DEF2">				2030</td><td bgcolor="#EFF7FF">				2031</td></tr><tr><td bgcolor="#C8DEF2">				2032</td><td bgcolor="#EFF7FF">				2033</td><td bgcolor="#C8DEF2">				2034</td><td bgcolor="#EFF7FF">				2035</td><td bgcolor="#C8DEF2">				2036</td><td bgcolor="#EFF7FF">				2037</td><td bgcolor="#C8DEF2">				2038</td><td bgcolor="#EFF7FF">				2039</td><td bgcolor="#C8DEF2">				2040</td><td bgcolor="#EFF7FF">				2041</td><td bgcolor="#C8DEF2">				2042</td><td bgcolor="#EFF7FF">				2043</td></tr><tr><td bgcolor="#C8DEF2">				2044</td><td bgcolor="#EFF7FF">				2045</td><td bgcolor="#C8DEF2">				2046</td><td bgcolor="#EFF7FF">				2047</td><td bgcolor="#C8DEF2">				2048</td><td bgcolor="#EFF7FF">				2049</td><td bgcolor="#C8DEF2">				2050</td><td bgcolor="#EFF7FF">				2051</td><td bgcolor="#C8DEF2">				2052</td><td bgcolor="#EFF7FF">				2053</td><td bgcolor="#C8DEF2">				2054</td><td bgcolor="#EFF7FF">				2055</td></tr><tr><td bgcolor="#C8DEF2">				2056</td><td bgcolor="#EFF7FF">				2057</td><td bgcolor="#C8DEF2">				2058</td><td bgcolor="#EFF7FF">				2059</td><td bgcolor="#C8DEF2">				2060</td><td bgcolor="#EFF7FF">				2061</td><td bgcolor="#C8DEF2">				2062</td><td bgcolor="#EFF7FF">				2063</td><td bgcolor="#C8DEF2">				2064</td><td bgcolor="#EFF7FF">				2065</td><td bgcolor="#C8DEF2">				2066</td><td bgcolor="#EFF7FF">				2067</td></tr><tr><td bgcolor="#C8DEF2">				2068</td><td bgcolor="#EFF7FF">				2069</td><td bgcolor="#C8DEF2">				2070</td><td bgcolor="#EFF7FF">				2071</td><td bgcolor="#C8DEF2">				2072</td><td bgcolor="#EFF7FF">				2073</td><td bgcolor="#C8DEF2">				2074</td><td bgcolor="#EFF7FF">				2075</td><td bgcolor="#C8DEF2">				2076</td><td bgcolor="#EFF7FF">				2077</td><td bgcolor="#C8DEF2">				2078</td><td bgcolor="#EFF7FF">				2079</td></tr><tr><td bgcolor="#C8DEF2">				2080</td><td bgcolor="#EFF7FF">				2081</td><td bgcolor="#C8DEF2">				2082</td><td bgcolor="#EFF7FF">				2083</td><td bgcolor="#C8DEF2">				2084</td><td bgcolor="#EFF7FF">				2085</td><td bgcolor="#C8DEF2">				2086</td><td bgcolor="#EFF7FF">				2087</td><td bgcolor="#C8DEF2">				2088</td><td bgcolor="#EFF7FF">				2089</td><td bgcolor="#C8DEF2">				2090</td><td bgcolor="#EFF7FF">				2091</td></tr><tr><td bgcolor="#C8DEF2">				2092</td><td bgcolor="#EFF7FF">				2093</td><td bgcolor="#C8DEF2">				2094</td><td bgcolor="#EFF7FF">				2095</td><td bgcolor="#C8DEF2">				2096</td><td bgcolor="#EFF7FF">				2097</td><td bgcolor="#C8DEF2">				2098</td><td bgcolor="#EFF7FF">				2099</td><td bgcolor="#C8DEF2">				2100</td><td bgcolor="#EFF7FF">				2101</td><td bgcolor="#C8DEF2">				2102</td><td bgcolor="#EFF7FF">				2103</td></tr><tr style="background-color:#5C83AF;font-weight:bold; color:#fff;"><td>				子</td><td>				丑</td><td>				寅</td><td>				卯</td><td>				辰</td><td>				巳</td><td>				午</td><td>				未</td><td>				申</td><td>				酉</td><td>				戌</td><td>				亥</td></tr><tr style="background-color:#5C83AF;font-weight:bold; color:#fff;"><td>				鼠&#128000;</td><td>				牛&#128002;</td><td>				虎&#128005;</td><td>				兔&#128007;</td><td>				龙&#128009;</td><td>				蛇&#128013;</td><td>				马&#128014;</td><td>				羊&#128015;</td><td>				猴&#128018;</td><td>				鸡&#128019;</td><td>				狗&#128021;</td><td>				猪&#128022;</td></tr></tbody></table><p style="text-align: center;"><strong>2018年<a href="http://114.xixik.com/12birthpet/" style="color:#000" title="十二生肖对照表">十二生肖</a><a href="http://114.xixik.com/nianling/" style="color:#000" title="年龄">年龄</a>对照表</strong>（虚岁）</p><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:80%"><tbody><tr><th>				属相</th><th>				出生月份</th><th><a href="http://114.xixik.com/nianling/" style="color:#000" title="年龄">年龄</a></th><th>				属相</th><th>				出生月份</th><th><a href="http://114.xixik.com/nianling/" style="color:#000" title="年龄">年龄</a></th><th>				属相</th><th>				出生月份</th><th><a href="http://114.xixik.com/nianling/" style="color:#000" title="年龄">年龄</a></th></tr><tr><td rowspan="9" style="text-align: center;"><strong>子鼠<br /><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-f76c1139024e06b5.gif" style="width: 50px; height: 50px;" /></strong></td><td>				2008</td><td>				11</td><td rowspan="9" style="text-align: center;"><strong>丑牛<br /><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-6bf4f0e120f2378c.gif" style="width: 50px; height: 50px;" /></strong></td><td>				2009</td><td>				10</td><td rowspan="9" style="text-align: center;"><strong>寅虎<br /><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-04c01758bf5fa430.gif" style="width: 50px; height: 50px;" /></strong></td><td>				2010</td><td>				9</td></tr><tr><td>				1996</td><td>				23</td><td>				1997</td><td>				22</td><td>				1998</td><td>				21</td></tr><tr><td>				1984</td><td>				35</td><td>				1985</td><td>				34</td><td>				1986</td><td>				33</td></tr><tr><td>				1972</td><td>				47</td><td>				1973</td><td>				46</td><td>				1974</td><td>				45</td></tr><tr><td>				1960</td><td>				59</td><td>				1961</td><td>				58</td><td>				1962</td><td>				57</td></tr><tr><td>				1948</td><td>				71</td><td>				1949</td><td>				70</td><td>				1950</td><td>				69</td></tr><tr><td>				1936</td><td>				83</td><td>				1937</td><td>				82</td><td>				1938</td><td>				81</td></tr><tr><td>				1924</td><td>				95</td><td>				1925</td><td>				94</td><td>				1926</td><td>				93</td></tr><tr><td>				1912</td><td>				107</td><td>				1913</td><td>				106</td><td>				1914</td><td>				105</td></tr><tr><th>				属相</th><th>				出生月份</th><th><a href="http://114.xixik.com/nianling/" style="color:#000" title="年龄">年龄</a></th><th>				属相</th><th>				出生月份</th><th><a href="http://114.xixik.com/nianling/" style="color:#000" title="年龄">年龄</a></th><th>				属相</th><th>				出生月份</th><th><a href="http://114.xixik.com/nianling/" style="color:#000" title="年龄">年龄</a></th></tr><tr><td rowspan="9" style="text-align: center;"><strong>卯兔<br /><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-6bb4e0bf0390947c.gif" style="width: 50px; height: 50px;" /></strong></td><td>				2011</td><td>				8</td><td rowspan="9" style="text-align: center;"><strong>辰龙<br /><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-f6376672cbce4444.gif" style="width: 50px; height: 50px;" /></strong></td><td>				2012</td><td>				7</td><td rowspan="9" style="text-align: center;"><strong>巳蛇<br /><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-63d92247134011ab.gif" style="width: 50px; height: 50px;" /></strong></td><td>				2013</td><td>				6</td></tr><tr><td>				1999</td><td>				20</td><td>				2000</td><td>				19</td><td>				2001</td><td>				18</td></tr><tr><td>				1987</td><td>				32</td><td>				1988</td><td>				31</td><td>				1989</td><td>				30</td></tr><tr><td>				1975</td><td>				44</td><td>				1976</td><td>				43</td><td>				1977</td><td>				42</td></tr><tr><td>				1963</td><td>				56</td><td>				1964</td><td>				55</td><td>				1965</td><td>				54</td></tr><tr><td>				1951</td><td>				68</td><td>				1952</td><td>				67</td><td>				1953</td><td>				66</td></tr><tr><td>				1939</td><td>				80</td><td>				1940</td><td>				79</td><td>				1941</td><td>				78</td></tr><tr><td>				1927</td><td>				92</td><td>				1928</td><td>				91</td><td>				1929</td><td>				90</td></tr><tr><td>				1915</td><td>				104</td><td>				1916</td><td>				103</td><td>				1917</td><td>				102</td></tr><tr><th>				属相</th><th>				出生月份</th><th><a href="http://114.xixik.com/nianling/" style="color:#000" title="年龄">年龄</a></th><th>				属相</th><th>				出生月份</th><th><a href="http://114.xixik.com/nianling/" style="color:#000" title="年龄">年龄</a></th><th>				属相</th><th>				出生月份</th><th><a href="http://114.xixik.com/nianling/" style="color:#000" title="年龄">年龄</a></th></tr><tr><td rowspan="9" style="text-align: center;"><strong>午马<br /><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-a6472051aa88c033.gif" style="height: 50px; width: 50px;" /></strong></td><td>				2002</td><td>				17</td><td rowspan="9" style="text-align: center;"><strong>未羊<br /><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-851b2422ca1f06cc.gif" style="width: 50px; height: 50px;" /></strong></td><td>				2003</td><td>				16</td><td rowspan="9" style="text-align: center;"><strong>申猴<br /><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-b40d145fc9986def.gif" style="width: 50px; height: 50px;" /></strong></td><td>				2004</td><td>				15</td></tr><tr><td>				1990</td><td>				29</td><td>				1991</td><td>				28</td><td>				1992</td><td>				27</td></tr><tr><td>				1978</td><td>				41</td><td>				1979</td><td>				40</td><td>				1980</td><td>				39</td></tr><tr><td>				1966</td><td>				53</td><td>				1967</td><td>				52</td><td>				1968</td><td>				51</td></tr><tr><td>				1954</td><td>				65</td><td>				1955</td><td>				64</td><td>				1956</td><td>				63</td></tr><tr><td>				1942</td><td>				77</td><td>				1943</td><td>				76</td><td>				1944</td><td>				75</td></tr><tr><td>				1930</td><td>				89</td><td>				1931</td><td>				88</td><td>				1932</td><td>				87</td></tr><tr><td>				1918</td><td>				101</td><td>				1919</td><td>				100</td><td>				1920</td><td>				99</td></tr><tr><td>				1906</td><td>				113</td><td>				1907</td><td>				112</td><td>				1908</td><td>				111</td></tr><tr><th>				属相</th><th>				出生月份</th><th><a href="http://114.xixik.com/nianling/" style="color:#000" title="年龄">年龄</a></th><th>				属相</th><th>				出生月份</th><th><a href="http://114.xixik.com/nianling/" style="color:#000" title="年龄">年龄</a></th><th>				属相</th><th>				出生月份</th><th><a href="http://114.xixik.com/nianling/" style="color:#000" title="年龄">年龄</a></th></tr><tr><td rowspan="9" style="text-align: center;"><strong>酉鸡<br /><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-821996c356a6c600.gif" style="width: 50px; height: 50px;" /></strong></td><td>				2005</td><td>				14</td><td rowspan="9" style="text-align: center;"><strong>戌狗<br /><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-1292c58987a46e01.gif" style="height: 50px; width: 50px;" /></strong></td><td>				2006</td><td>				13</td><td rowspan="9" style="text-align: center;"><strong>亥猪<br /><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-248c76b69c263eab.gif" style="width: 50px; height: 50px;" /></strong></td><td>				2007</td><td>				12</td></tr><tr><td>				1993</td><td>				26</td><td>				1994</td><td>				25</td><td>				1995</td><td>				24</td></tr><tr><td>				1981</td><td>				38</td><td>				1982</td><td>				37</td><td>				1983</td><td>				36</td></tr><tr><td>				1969</td><td>				50</td><td>				1970</td><td>				49</td><td>				1971</td><td>				48</td></tr><tr><td>				1957</td><td>				62</td><td>				1958</td><td>				61</td><td>				1959</td><td>				60</td></tr><tr><td>				1945</td><td>				74</td><td>				1946</td><td>				73</td><td>				1947</td><td>				72</td></tr><tr><td>				1933</td><td>				86</td><td>				1934</td><td>				85</td><td>				1935</td><td>				84</td></tr><tr><td>				1921</td><td>				98</td><td>				1922</td><td>				97</td><td>				1923</td><td>				96</td></tr><tr><td>				1909</td><td>				110</td><td>				1910</td><td>				109</td><td>				1911</td><td>				108</td></tr></tbody></table><p style="TEXT-INDENT:2em">	中国古代有十二进制纪年法，用<a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十二地支">十二地支</a>表示，即子丑寅卯辰巳午未申酉戌亥，12年一个轮回，如1980年为申年，过12年，1992年又为申年。古人把<a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十二地支">十二地支</a>用十二个动物表示，如子鼠，丑牛等等，该年出生的人，便具有相应的命相，此即<a href="http://114.xixik.com/12birthpet/" style="color:#000" title="十二生肖对照表">十二生肖</a>，肖者相也，又称为十二属相。</p><p style="TEXT-INDENT:2em"><a href="http://www.xixik.com/content/d810ed64267d169b" title="虚岁的计算方法">虚岁是中国一种重要的记龄方式</a>，虚岁的计龄方式为：出生时记为一岁，以后每到农历正月初一，便增龄一岁。之所以有这样的习惯，是因为中国古人计算的是某人出生后正在经历的年份序数。</p><p style="TEXT-INDENT:2em">	虚岁从一算起，逢新年长一岁，遵农历（阴阳历）。</p><p>	　　周岁从零算起，逢生日长一岁，遵洋历（阳历）。</p><p>	　　注：《最高人民法院关于审理未成年人刑事案件具体应用法律若干问题的解释》第二条规定，年龄从周岁生日的第二天算起。</p></div></div></div><a name="anchor4"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        十二生肖计算器</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'>
+
+<SCRIPT language=JavaScript>
+<!--
+
+
+function getpet () {
+
+
+var toyear = 1997;
+
+var birthyear = document.frm.inyear.value;
+
+var birthpet="Ox"
+
+
+x = (toyear - birthyear) % 12
+
+if ((x == 1) || (x == -11)) {
+
+birthpet="鼠" }
+
+else {
+
+if (x == 0) {
+
+birthpet="牛" }
+
+else {
+
+if ((x == 11) || (x == -1)) {
+
+birthpet="虎" }
+
+else {
+
+if ((x == 10) || (x == -2)) {
+
+birthpet="兔" }
+
+else {
+
+if ((x == 9) || (x == -3)) {
+
+birthpet="龙" }
+
+else {
+
+if ((x == 8) || (x == -4)) {
+
+birthpet="蛇" }
+
+else {
+
+if ((x == 7) || (x == -5)) {
+
+birthpet="马" }
+
+else {
+
+if ((x == 6) || (x == -6)) {
+
+birthpet="羊" }
+
+else {
+
+if ((x == 5) || (x == -7)) {
+
+birthpet="猴" }
+
+else {
+
+if ((x == 4) || (x == -8)) {
+
+birthpet="鸡" }
+
+else {
+
+if ((x == 3) || (x == -9)) {
+
+birthpet="狗" }
+
+else {
+
+if ((x == 2) || (x == -10)) {
+
+birthpet="猪" }
+
+}
+
+}
+
+}
+
+}
+
+}
+
+}
+
+}
+
+}
+
+}
+
+}
+
+}
+
+document.frm.birth.value = birthpet;
+
+
+}
+
+// -->
+
+</SCRIPT>
+<FORM name=frm>
+<P align=center>当然没有人会忘记自己属什么……但是你可以很轻松得知道任何年份出生的人的属相。如:"1990" 生于：<INPUT size=2 value=1990 name=inyear>年<INPUT onclick=getpet() type=button value=查看生肖> 属：<INPUT size=3 
+name=birth> </P></FORM>
+</div></div></div><a name="anchor5"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        十二生肖配对表</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="text-align: center;"><img src="http://img.xixik.net/custom/topic/xixik_301737555fb2f7e0.jpg" /></p><p style="TEXT-INDENT:2em">	生肖即属相。属相有鼠、牛、虎、兔、龙、蛇、马、羊、猴、鸡、狗、猪十二种。属相又都有五行的定义，而五行存在着相生相克的道理。相生的属相配对较能和睦相处，而相克的属相配对就不那么和谐了。选择适合自己生肖结婚的对象必定会对自己以后的婚姻生活有所帮助的，想要幸福美满的生活吗？一起来看看<a href="http://www.xixik.com/content/33079ef19b196558">十二生肖的最佳婚姻配对表</a>吧，找个适合自己的伴，胜过一切外在的条件哦！</p><p style="TEXT-INDENT:2em">	俗语说：“白马犯青牛，羊鼠一旦休，蛇虎如刀错，龙兔泪交流，金鸡怕玉犬，猪猴不到头。”这是<a href="http://114.xixik.com/12birthpet/" style="color:#000" title="十二生肖对照表">十二生肖</a>相害。反之，倘两人的属相相生，婚配就可能互相有利。</p><p style="TEXT-INDENT:2em">	相宜婚配的生肖属配对是：“鼠配牛，虎配猪。兔配狗，龙配鸡。马配羊，蛇配猴。”</p><p style="TEXT-INDENT:2em">	相冲婚配的生肖属配对是：“鼠配马、牛配羊、虎配猴、兔配鸡、蛇配猪、龙配狗。”</p><p style="TEXT-INDENT:2em"><strong>肖猪</strong></p><p style="TEXT-INDENT:2em">	最佳配对：羊（未）、兔（卯）、狗（戌）</p><p style="TEXT-INDENT:2em"><strong>肖狗</strong></p><p style="TEXT-INDENT:2em">	最佳配对：虎（寅）、兔（卯）、马（午）</p><p style="TEXT-INDENT:2em"><strong>肖鸡</strong></p><p style="TEXT-INDENT:2em">	最佳配对：牛（丑）、龙（辰）、蛇（已）</p><p style="TEXT-INDENT:2em"><strong>肖猴</strong></p><p style="TEXT-INDENT:2em">	最佳配对：鼠（子）、龙（辰）</p><p style="TEXT-INDENT:2em"><strong>肖羊</strong></p><p style="TEXT-INDENT:2em">	最佳配对：兔（卯）、马（午）、猪（亥）</p><p style="TEXT-INDENT:2em"><strong>肖马</strong></p><p style="TEXT-INDENT:2em">	最佳配对：虎（寅）、羊（未）、狗（戌）</p><p style="TEXT-INDENT:2em"><strong>肖蛇</strong></p><p style="TEXT-INDENT:2em">	最佳配对：牛（丑）、鸡（酉）</p><p style="TEXT-INDENT:2em"><strong>肖龙</strong></p><p style="TEXT-INDENT:2em">	最佳配对：猴（申）、鼠（子）、鸡（酉）</p><p style="TEXT-INDENT:2em"><strong>肖兔</strong></p><p style="TEXT-INDENT:2em">	最佳配对：羊（未）、猪（亥）、狗（戌）</p><p style="TEXT-INDENT:2em"><strong>肖虎</strong></p><p style="TEXT-INDENT:2em">	最佳配对：马（午）、狗（戌）</p><p style="TEXT-INDENT:2em"><strong>肖牛</strong></p><p style="TEXT-INDENT:2em">	最佳配对：鼠（子）、蛇（巳）、鸡（酉）</p><p style="TEXT-INDENT:2em"><strong>肖鼠</strong></p><p style="TEXT-INDENT:2em">	最佳配对：龙（辰）、猴（申）、牛（丑）</p></div></div></div><a name="anchor6"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        十二生肖排序的来历</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><div style="text-align:center;"><img src="http://img.xixik.net/custom/topic/xixik_4780baebb01eef47.jpg" /><img src="http://img.xixik.net/custom/topic/xixik_e33100cef98b1ee7.jpg" /><img src="http://img.xixik.net/custom/topic/xixik_8517c2308357ccb0.jpg" /><img src="http://img.xixik.net/custom/topic/xixik_1ec68cde89fede7c.jpg" /><img src="http://img.xixik.net/custom/topic/xixik_8cc37b5eabfa6fb2.jpg" /><img src="http://img.xixik.net/custom/topic/xixik_07c6630b0069069d.jpg" /><br /><img src="http://img.xixik.net/custom/topic/xixik_4b1a170ca3e00a18.jpg" /><img src="http://img.xixik.net/custom/topic/xixik_c4b7b755865fa68c.jpg" /><img src="http://img.xixik.net/custom/topic/xixik_57fb4c853c74a2d2.jpg" /><img src="http://img.xixik.net/custom/topic/xixik_051d7ab8b833bf20.jpg" /><img src="http://img.xixik.net/custom/topic/xixik_5e9d0e02043fb244.jpg" /><img src="http://img.xixik.net/custom/topic/xixik_b37e4d06bfe6d298.jpg" /></div><div style="text-align:center;">	&#160;</div><p style="TEXT-INDENT: 2em">	古代中国人如何挑选十二种生肖动物是亘古流传的话题。</p><p style="TEXT-INDENT: 2em">	传说中有一年，玉皇大帝过生日，下令让所有的动物在正月初九这天前来祝寿，并决定按前来祝贺生日的报到顺序选定十二种动物，作为通往上天之路的守卫，并按年轮流值班。</p><p style="TEXT-INDENT: 2em">	相传，当时老鼠和猫是邻居，但平时体大的猫常常欺负弱小的老鼠，老鼠对猫往往也只是感怒而不敢言。而猫有个贪睡的毛病，接到玉皇大帝下的令后，老鼠窃喜：报复猫的机会终于来了。果不其然，猫叩响了老鼠家的门，请求老鼠在给玉<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>祝寿时，叫醒它一同前往，老鼠满口答应下来。为了报复猫，到了正月初九清晨，老鼠便悄悄的出发了。老鼠虽然起得很早，跑的也很快，但到了宽宽的河边面对着涛涛的河水，它发愁了，只好坐在河边等着其它动物渡河时，跳到它们的背上借助它们的力量渡 河。等了好一会儿，最早出门的牛，默默地一步一步地走到了河边，老鼠趁牛泅入水中的瞬间，敏捷地跳到牛耳朵里，牛平时就 以憨厚，善于助人为乐著称，因此它对老鼠这种投机行为毫不在意。渡过了河，老鼠觉得躺在牛耳朵里既舒服，又省力并没有跳下来的意思，天近傍午时，牛载着老鼠到了玉帝的家门外，当牛刚要进门时，谁知老鼠迫不急待地从牛耳朵里窜出来，抢先跳到了玉帝面前，就这样，老鼠终于取得了第一名。而载了它一路的牛，仅获得第二名。稍后老虎、兔、龙、蛇、马、羊、猴、鸡、狗也陆续到达。猪虽然很蠢，但也按时到达，名列第十二名。玉帝按它们报到的先后次序一一 赐封它们为每年的轮值生，<strong><a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖的顺序</a></strong>就这样确定下来。</p><p style="TEXT-INDENT: 2em"><strong><a href="http://www.xixik.com/content/b584dfac7d569aac" title="十二生肖为什么没有猫呢？">为什么老鼠排十二生肖之首，却没有猫</a>？</strong></p><p style="TEXT-INDENT: 2em">	又一个故事是这样讲的：很早以前猫和老鼠是最要好的哥们，老鼠经常把偷来的食物分给猫吃。可是老鼠在偷食物的时候经常被人类打有时还丢了性命。猫很是过意不去，因为自己比较懒喜欢睡觉。最后猫跟老鼠说以后你出去的时候叫上我，我帮你看们有人来的时候我就妙，妙，妙叫三声你就赶紧跑。老鼠觉得这样很安全十分感激猫大哥，也心甘情愿的为猫哥付出。</p><p style="TEXT-INDENT: 2em">	话说有一天玉皇大帝颁旨在下界招十二时晨代表名单早以拟好，猫在名单首位老鼠不在名单里。规则是当天谁最早到按顺序排列名次。猫当时又高兴又担心，高兴是榜上有名，担心是自己喜欢懒睡怕误了时晨。</p><p style="TEXT-INDENT: 2em">	这时老鼠对猫说哥你别担心，放心睡觉到时候我叫你呀，谁都没有我起得早。猫一听有理就放心的睡觉。</p><p style="TEXT-INDENT: 2em">	结果晚上十二点刚过，老鼠就来到猫跟前，轻声的叫猫哥起来啦要出发啦，连叫几声猫也没醒。这时隔壁住的老牛到被叫醒了，老牛一看时晨该出发了，这时可急坏老鼠，怎么叫猫哥就是不醒，怎么办，老牛己经出发了，没办法老鼠急中生智紧跑一阵跳上了老牛的牛角上。心里想怎么也不能让老牛得第一，等到了玉帝哪里老牛那个高兴啊要排第一啦，猫乌，猫乌的直叫唤？</p><p style="TEXT-INDENT: 2em">	这时玉帝刚要开口说话了，突然老,鼠从牛角尖上跳下来来到玉帝跟前深深一揖，开口说玉皇陛下我是代表我猫哥前来报到的，玉帝探起身一看是只老鼠，就气不打一处来，早就有耳闻你在人间尽干坏事，现在又跑到我这里来代表猫哥。</p><p style="TEXT-INDENT: 2em">	玉帝强压怒火问了一句，你猫哥自己为什么不来呀？老鼠想了想说我猫哥身体不舒服，所以我来帮它报到的。玉帝一听随口就说你猫哥架子大喜欢睡就让它睡既然你来了哪你就代替他位列第一序号，子鼠。</p><p style="TEXT-INDENT: 2em">	老鼠一听急了正要解释，只听玉帝点名叫老牛，老牛哪个气呀眼睛红了恨不得一脚踩死老鼠。这时的老鼠没办法只好边上遛走了。</p><p style="TEXT-INDENT: 2em">	最后它也不敢回猫哥哪里，好心没办好事觉得对不住猫哥从此只有躲着猫哥。只要有猫的地方老鼠就躲得远远的。猫来后没见到老鼠，又听说老鼠代替了它，恨得牙痒痒后来见到老鼠二话不说就一口咬死，吃了解恨。</p><p style="TEXT-INDENT: 2em">	从此以前好兄弟变成了生死仇家——就有了猫捉老鼠的故事。</p><p style="TEXT-INDENT: 2em">	更多<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>知识：<a class="f14px" href="http://114.xixik.com/12birthpet/" title="12生肖来历,12生肖历史">http://114.xixik.com/12birthpet/</a></p></div></div></div><a name="anchor7"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        十二生肖与时辰的结合</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%"><tbody><tr bgcolor="#f0f8ff"><td class="fb">				子时</td><td class="fb">				丑时</td><td class="fb">				寅时</td><td class="fb">				卯时</td><td class="fb">				辰时</td><td class="fb">				己时</td></tr><tr><td>				23:00-00:59</td><td>				01:00-02:59</td><td>				03:00-04:59</td><td>				05:00-06:59</td><td>				07:00-08:59</td><td>				09:00-10:59</td></tr><tr bgcolor="#f0f8ff"><td class="fb">				午时</td><td class="fb">				未时</td><td class="fb">				申时</td><td class="fb">				酉时</td><td class="fb">				戊时</td><td class="fb">				亥时</td></tr><tr><td>				11:00-12:59</td><td>				13:00-14:59</td><td>				15:00-16:59</td><td>				17:00-18:59</td><td>				19:00-20:59</td><td>				21:00-22:59</td></tr></tbody></table><p style="text-indent: 2em; text-align: center;"><img src="http://images.xixik.com/114/12birthpet/dizhi-12birthpet.gif" style="text-align: center;" /></p><p style="text-indent: 2em; text-align: center;">	十二生肖时辰对照表</p><p style="TEXT-INDENT: 2em">	观天象的最佳时机应是夜深人静、繁星满天的时候。子夜时分（二十三点至一点），古人（天文学家或道家）仰望天空良久，忽然听得周围有细碎的声音，低头一看，原来是老鼠在活动。天长日久，古人发现鼠类出没频繁的时刻是子时。于是，子时便与鼠联系在一起，成了“子鼠”，并按一天的起始，排在属相的第一位。</p><!--Contents of this file are Copyright 2006-2009, Xixik Inc. --><p style="TEXT-INDENT: 2em">	“马无夜草不肥”，牛当然也是如此。农家以牛耕田，喂好牛是农家的大事。丑时（一点至三点），农家自会起身喂牛。牛与丑时联系在一起，便成了“丑牛”。</p><p style="TEXT-INDENT: 2em">	凌晨三点至五点，昼伏夜行的虎最凶猛，农家常常会在此时听到不远处传来虎啸声。于是，虎与寅时相联系，有了“寅虎”。</p><p style="TEXT-INDENT: 2em">	五点至七点，天亮了，兔子跑出窝，去吃带着露水的青草。于是，兔子与卯时相联系，便有了“卯兔”。</p><p style="TEXT-INDENT: 2em">	七点至九点，是容易起雾的时刻。据说龙能腾云驾雾，大雾之中才会“神龙见尾不见首”。不过龙是传说中的动物，或者说是人用几种动物的“零件”拼凑起来的“人造动物”，在现实中看不到，只有大雾蒙蒙之中，人们才会产生龙的幻象。如此，龙才会在辰时的雾中“出现”。龙和辰时相联系，便有了“辰龙”。</p><p style="TEXT-INDENT: 2em">	九点至十一点，大雾散去，艳阳当空。体温不恒定的蛇从洞穴中爬出来晒太阳。无论有毒还是没有毒的蛇，都是可怕的，蛇最活跃的时刻，便是“巳时”。在造字时，“巳”被画成了一条蛇的象形。“巳蛇”，是天然地联系在一起的。</p><p style="TEXT-INDENT: 2em">	十一点至十三点，烈日当头。这“烈”，使人想到了人类“得力助手之一”的马。红鬃烈马是良驹，但它的性子就像午时的太阳一样火烈。马与午时相联系，就有了“午马”。</p><p style="TEXT-INDENT: 2em">	十三点至十五点，未时，骄阳已把草上的露珠晒乾，可别忘了这正是放羊的好时光。于是，“未羊”应运而生。</p><p style="TEXT-INDENT: 2em">	十五点至十七点，申时，太阳偏西，或者雨过天晴，天气显得清爽起来。这时候，猴子最喜欢在树林里玩耍啼叫，人们听到了，记在心里，便把这一时刻与猴子联系在一起，于是有了“申猴”。</p><p style="TEXT-INDENT: 2em">	十七点至十九点，酉时，太阳快落山了，家养的鸡该回窝了；再不回窝，天一黑就会找不见。农妇着急了，四处呼唤着，轰鸡入窝。这吃饭喝酒的时刻，也与家鸡入窝相连，于是就有了“酉鸡”。</p><p style="TEXT-INDENT: 2em">	十九点至二十一点，戌时，人们在临睡之前要巡视一番；跟随他们的，是人类的另一个“助手”－－狗。巡视的时刻与狗联系起来成为“戌狗”，恰到好处。</p><p style="TEXT-INDENT: 2em">	二十一点至二十三点，深夜可以听到肥猪拱槽的声音，主人很高兴。不过要想猪长得肥壮，还得起身为它添食。亥时，自然与猪相连，于是有了“亥猪”。</p><!--Contents of this file are Copyright 2006-2009, Xixik Inc. --><p style="TEXT-INDENT: 2em">	表示<a href="http://114.xixik.com/12shichen/" style="color:#000" title="十二时辰">十二时辰</a>的十二个字与<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>相结合，便有了：子鼠、丑牛、寅虎、卯兔、辰龙、巳蛇、午马、未羊、申猴、酉鸡、戌狗、亥猪。</p></div></div></div><a name="anchor8"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        十二生肖在英语中的喻义</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="text-align: center"><img src="http://img.xixik.net/custom/topic/xixik_9eb7e45e4476cc3e.jpg" title="十二生肖卡通形象" /></p><p style="text-indent: 2em">	“<strong>生肖</strong>”是代替<a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十二地支">十二地支</a>、用来表示人们出生的12种动物，即鼠、牛、虎、兔、龙、蛇、马、羊、猴、鸡、狗、猪。如寅年出生的人属虎，卯年出生的人属兔。“生肖”也就是俗话说的“属相”，是中国人特有的一种表示出生时间的方式，相当于西方的黄道十二星座Zodiac（双鱼座、白羊座、金牛座、双子座、巨蟹座、狮子座、室女座、天秤座、天蝎座、人马座、摩羯座、宝瓶座）。生肖的英文是 Chinese Horoscope。</p><p style="text-indent: 2em"><strong><a href="http://www.xixik.com/content/ab925d72782e2222" title="十二生肖英文对照">12生肖英文对照</a>：</strong>鼠：Rat，牛：Ox，虎：Tiger，兔：Hare龙：Dragon，蛇：Snake，马：Horse，羊：Sheep，猴：Monkey，鸡：Cock，狗：Dog，猪：Boar。</p><p style="text-indent: 2em"><strong><a href="http://114.xixik.com/tiangandizhi/" title="天干地支">地支</a>生肖的英文对照</strong></p><table border="0" cellpadding="2" cellspacing="1" style="width:870px;text-align:center; margin:0 auto;"><tbody><tr><td>				Rat charm<br />				鼠</td><td>				Ox patient<br />				丑牛</td><td>				Tiger sensitive<br />				寅虎</td><td>				Rabbit articulate<br />				卯兔</td><td>				Dragon healthy<br />				辰龙</td><td>				Snake deep<br />				巳蛇</td></tr><tr><td>				Horse popular<br />				午马</td><td>				Goat elegant<br />				未羊</td><td>				Monkey clever<br />				申猴</td><td>				Rooster deep thinkers<br />				酉鸡</td><td>				Dog loyalty<br />				戌狗</td><td>				Pig chivalrous<br />				亥猪</td></tr></tbody></table><p style="text-indent: 2em"><strong>英语中<a href="http://114.xixik.com/12birthpet/" title="12生肖">12生肖</a>的含义</strong></p><table border="0" cellpadding="2" cellspacing="1" style="width: 870px; text-align: center; margin: 0px auto;"><tbody><tr><td><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-7ac6f5088a2dc1ba.png" style="width: 150px; height: 150px;" /><br />				RAT</td><td><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-e65e17907ef66f21.png" style="height: 150px; width: 150px;" /><br />				OX</td><td><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-32cd22cd24e8e611.png" style="height: 150px; width: 150px;" /><br />				TIGER</td><td><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-e7a4df1e008f407f.png" style="height: 150px; width: 150px;" /><br />				RABBIT</td><td><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-adadd997595142e9.png" style="height: 150px; width: 150px;" /><br />				DRAGON</td><td><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-ce2ee26653bbab4d.png" style="height: 150px; width: 150px;" /><br />				SNAKE</td></tr><tr><td><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-5fa7e99c44ea2121.png" style="height: 150px; width: 150px;" /><br />				HORSE</td><td><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-2ce7fe733dde9b97.png" style="height: 150px; width: 150px;" /><br />				SHEEP</td><td><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-275d56586d6db2c0.png" style="width: 150px; height: 150px;" /><br />				MONKEY</td><td><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-5b85b59a4136bb5f.png" style="height: 150px; width: 150px;" /><br />				ROOSTER</td><td><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-809499de853ca100.png" style="height: 150px; width: 150px;" /><br />				DOG</td><td><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-afedd3ccaae35760.png" style="height: 150px; width: 150px;" /><br />				PIG</td></tr></tbody></table><p style="text-indent: 2em; text-align: center;">	十二生肖卡通及英文</p><p style="text-indent: 2em"><a href="http://www.xixik.com/content/ab925d72782e2222" target="_blank" title="十二生肖英文怎么说？“十二生肖”英语分别是什么？">十二生肖英文怎么说？“十二生肖”英语分别是什么？</a></p><p style="text-indent: 2em"><strong>一、鼠——Rat</strong></p><p style="text-indent: 2em">	英语中用以比喻讨厌鬼，可耻的人，告密者，密探，破坏罢工的人；美国俚语指新学生、下流女人。当看到smell a rat这一词组时，是指人们怀疑在做错某事。a rat race则表示激烈的竞争 。rats desert a sinking ship（船沉鼠先逃，这一谚语意指那些一遇到危险就争先寻求 安全或一看见困难便躲得老远的人。）</p><p style="text-indent: 2em"><strong>二、牛——Ox</strong></p><p style="text-indent: 2em">	涉及“牛”的汉语成语很多，如“对牛弹琴”、“牛蹄之涔”等。英语中涉及“Ox”的表 达方式则不多。用Ox － eyed形容眼睛大的人；用短语The black Ox has trod on sb’s foot表示灾祸已降临到某人头上。</p><p style="text-indent: 2em"><strong>三. 虎——Tiger</strong></p><p style="text-indent: 2em">	指凶恶的人，虎狼之徒；英国人指穿制服的马夫；口语中常指比赛的劲敌。中国和东南亚国家常以Paper tiger比喻貌似强大而实质虚弱的敌人。词组ride the tiger表示以非常不 确定或危险的方式生活。</p><p style="text-indent: 2em"><strong>四. 兔——Hare</strong></p><p style="text-indent: 2em">	在英国俚语中，hare指坐车不买票的人。与hare组成的词组有：make a hare of sb.愚弄某人。start a hare。在讨论中提出枝节问题。例如：You start a hare ever time at the meeting.每次讨论你都提出与题无关的问题。英语中有许多关于兔的谚语，如：</p><p style="text-indent: 2em">	1. First catch your hare.勿谋之过早（意指：不要过于乐观）。<br />	　　2. You cannot run with the hare and hunt with hounde.不能两面讨好（意指：不要耍两面派）。</p><p style="text-indent: 2em"><strong>五. 龙——Dragon</strong></p><p style="text-indent: 2em">	龙在中国人民的心目中占有崇高的位置，有关龙的成语非常多，且含有褒义。如“龙跃凤鸣”、“龙骧虎步”等。在外国语言中，赞扬龙的词语非常之少，且含有贬义。如“dragon”指凶暴的人，严厉的人，凶恶严格的监护人，凶恶的老妇人等。以dragon组成的词组也多含贬义。如dragon’s teeth ：相互争斗的根源；排列或多层的楔形反坦克混克混凝土障碍物。the old Dragon：魔鬼。</p><p style="text-indent: 2em"><strong>六. 蛇——Snake</strong></p><p style="text-indent: 2em">	指冷酷阴险的人，虚伪的人，卑鄙的人；美国俚语指追求和欺骗少女的男子或男阿飞。由 此看到，在英语中，“snake”往往含有贬义。如：</p><p style="text-indent: 2em">	John’s behavior should him to be a snake.<br />	　　约翰的行为表明他是一个冷酷阴险的人。<br />	　　与snake组成的成语习语、谚语有许多，简举几例：<br />	　　a snake in the grass.潜伏的敌人或危险。<br />	　　to warm a snake in one’s bosom.养虎贻患，姑息坏人。Takd heed of the snake in the grass.草里防蛇。</p><p style="text-indent: 2em"><strong>七. 马——Horse</strong></p><p style="text-indent: 2em">	英美国家的人很喜欢马，因此，用“horse”这个词组成的词组、成语、谚语非常之多，此举几例：</p><p style="text-indent: 2em">	1. get on the high horse.摆架子，目空一切。<br />	　　2. work like a horse.辛苦的干活。<br />	　　3. horse doctor.兽医、庸医。<br />	　　4. dark horse.竞争中出人意料的获胜者。<br />	　　如：The voters were surprised when the dark horse won the nomination.那个无名小卒在竞争中获胜时，投票者无不大吃一惊。</p><p style="text-indent: 2em"><strong>八. 羊——Sheep</strong></p><p style="text-indent: 2em">	英语中指害羞而忸怩的人，胆小鬼，驯服的人。有关sheep的谚语不少。<br />	　　1. As well be hanged for a sheep as a lamb.<br />	　　偷羊偷羔都是绞（死）；偷大偷小统是贼 （意指：一不做，二不休）。<br />	　　2. There’s a black sheep in every flock.<br />	　　每一羊群里都会有一只黑羊，丑儿子家家有（意指：每个家里都会有个败家子。）<br />	　　3. He that makes himself a sheep shall be eaten by the wolf.<br />	　　甘心做绵羊，早晚喂 豹狼（人弱受人欺）。<br />	　　4. The sheep who tallks peace with a wolf will soon be mutton.<br />	　　羊向狼乞求和平，很快就会变成羊肉（意指，切勿向敌人乞求和平）。</p><p style="text-indent: 2em"><strong>九. 猴——Monkey</strong></p><p style="text-indent: 2em">	1、monkey作名词时指顽童、淘气鬼，猴子似的人，易受欺的人。如：What are you doing, you young monkey !你在干什么呀，小捣蛋鬼！<br />	　　2、monkey作动词时指胡闹、瞎弄、捣蛋。如：Stop monkeying about with the TV set !不 要瞎弄电视机！<br />	　　3、与monkey一词搭配的词组、习语和俚语很多非常有趣。如：put sb’s monkey up.使某人生气，激怒某人；Your last word has really put his monkey up.你最后一句话实在使他大为生气；<br />	　　又如：make a monkey of愚弄；a monkey with a long tail.抵押；get the monkey off.戒除吸毒恶习；have a monkey on one’s back.毒瘾很深。</p><p style="text-indent: 2em"><strong>十. 鸡——Cock</strong></p><p style="text-indent: 2em">	指首领，头目，神气十足的人，与cock组成的词组多姿多彩，如：Cock of the walk / school.支配别人的人；a cock of the loft / dunghill.在小天地中称王称霸的人；Live like fighting cocke.生活很好，尤指吃得好；Cock - and - bull story.荒诞的故事， 无稽之谈。<br />	用cock表达的谚语：It is a sad house where the hen crows louder than the cock.牝 鸡司晨，家之不祥（意指：丈夫软弱而一切由妻子作主的家庭是不会幸福的，当然这是一 种夫权思想）。</p><p style="text-indent: 2em"><strong>十一. 狗——Dog</strong></p><p style="text-indent: 2em">	汉语中常用“狗”比喻人，如“忠实走狗”、“看家狗”，成语“狗苟蝇营”、“狗彘不若”等。在英语中除了喻人外，还有丰富多彩的词组、谚语等。dog作名词时指无赖汉，坏蛋、废物，不受喜爱（或欢迎）的人。有时加形容词修饰可指各 种人，如：You dirty dog !你这个坏小子！a lucky dog.幸运儿；a dumb dog.沉默不语 的人，a sly dog.暗中寻欢的人和暗地里偷鸡摸狗的人；a dog in the manger.占着茅坑 不拉屎的人。</p><p style="text-indent: 2em">	用dog表达的谚语：<br />	　　1. Barking dogs seldom bite.吠犬不咬人（意指：对于高声发出恐吓，或惯于大声吼叫的人，勿须当真）。<br />	　　2. Every dog has his day.凡人皆有得意日（意指：大家都有走运的一天）。<br />	　　3. Dog does not eat dog.同类不相残；同室不操戈。</p><p style="text-indent: 2em"><strong>十二. 猪——Boar</strong></p><p style="text-indent: 2em">	在英语中boar一词指未阉割的公猪和公野猪，涉及猪的词语有pig（猪、小猪、野猪），hog（食用猪）、sow（牝猪），swine（猪：旧用法）。十二生肖用boar，比喻贪婪、肮脏、自私的人。</p><p style="text-indent: 2em">	更多十二生肖知识：<a href="http://114.xixik.com/12birthpet/">http://114.xixik.com/12birthpet/</a></p></div></div></div><a name="anchor9"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        呆萌的十二生肖卡通</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p>	呆萌的<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>卡通图，被萌坏了不负责医药费哦！！精灵鼠、呆哞牛、霸气虎、粉嫩兔、小龙人、年度蛇、鸟叔马、羊咩咩、悟空麦、小火鸡、富贵狗、贪吃猪。</p><div style="text-align: center"><img src="http://img.xixik.net/custom/topic/xixik_12af13d0a9fcf21b.jpg" title="精灵鼠" width="150" /><img src="http://img.xixik.net/custom/topic/xixik_c890c238325b50dd.jpg" title="呆哞牛" width="150" /><img src="http://img.xixik.net/custom/topic/xixik_5067729cfa9c69d3.jpg" title="霸气虎" width="150" /><img src="http://img.xixik.net/custom/topic/xixik_2b4dd3e17031e701.jpg" title="粉嫩兔" width="150" /><img src="http://img.xixik.net/custom/topic/xixik_186c22f23c33b15c.jpg" title="小龙人" width="150" /><img src="http://img.xixik.net/custom/topic/xixik_872fdc46ed3b8aa5.jpg" title="年度蛇" width="150" /><br /><img src="http://img.xixik.net/custom/topic/xixik_6dddf21ed269d222.jpg" title="鸟叔马" width="150" /><img src="http://img.xixik.net/custom/topic/xixik_0ad5c7ef076166ea.jpg" title="羊咩咩" width="150" /><img src="http://img.xixik.net/custom/topic/xixik_fe73cad4d783e709.jpg" title="悟空麦" width="150" /><img src="http://img.xixik.net/custom/topic/xixik_614742228ae15dae.jpg" title="小火鸡" width="150" /><img src="http://img.xixik.net/custom/topic/xixik_9d68d16f997bfe83.jpg" title="富贵狗" width="150" /><img src="http://img.xixik.net/custom/topic/xixik_b360b45009d0b120.jpg" title="贪吃猪" width="150" /></div><div style="text-align: center"><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-b49bad7efa9bd22d.jpg" width="150" /><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-b01d36b0a312ad22.jpg" width="150" /><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-c6b98302a787aadf.jpg" width="150" /><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-32780a690975bb6e.jpg" width="150" /><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-cc0885526c0f2d68.jpg" width="150" /><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-1f27f2c2ec35c383.jpg" width="150" /><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-4a0062416db1ec0d.jpg" width="150" /><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-ce0cebb1967dd3dc.jpg" width="150" /><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-bcca9cd33fda70c2.jpg" width="150" /><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-7b36b056366c3d78.jpg" width="150" /><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-63825543ddbb2454.jpg" width="150" /><img src="http://img.xixik.net/custom/section/12shengxiao/xixik-9ec26d3ca9c1b5d9.jpg" width="150" /></div><div style="text-align: center">	&#160;</div><div style="text-align: center"><img  src="http://img.xixik.net/custom/section/12shengxiao/xixik-fb62202d2031869f.jpg" style="width: 1000px; max-width: 90%;" /></div></div></div></div><a name="anchor10"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        成龙电影《十二生肖》</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="text-indent: 2em; text-align: center;"><img src="http://img.xixik.net/custom/topic/xixik_53a0df92c1621128.jpg" style="float: left; width: 300px; border-width: 10px; border-style: solid; border-color:#fff;" /></p><p style="text-indent: 2em; text-align: center;"><strong>成龙电影《十二生肖》</strong></p><p style="TEXT-INDENT:2em"><strong>上映时间：</strong>2012年 时长：122分钟 <strong>导演：</strong>成龙 唐季礼 <strong>国家/地区： </strong>内地 中国香港 <strong>别名：</strong>12生肖/生肖传说 <strong>豆瓣评分：</strong>6.8</p><p style="TEXT-INDENT:2em"><strong>电影剧情：</strong>杰克（成龙饰演）为领取国际文物贩子劳伦斯开出的巨额奖金，四处寻找“圆明园”十二生肖中失散的最后四个兽首。在寻宝过程中，他爱上了中国文物专家关教授的女儿Coco。被关教授父女的爱国情怀所感动，一向惜金如命的杰克在最后关头放弃了金钱，转而帮助Coco全力挽救国宝，最终将寻回的兽首归还中国。十二生肖是成龙出演的第100部电影，这也可能是成龙的最后一部动作片。</p><p style="TEXT-INDENT:2em"><strong><a href="http://www.xixik.com/content/bcd5c95cdb640aa9">现实中的十二生肖兽首铜像今何在？</a>&#160;</strong>圆明园十二生肖兽首铜像原为圆明园海晏堂外的喷泉的一部分，是清乾隆年间的红铜铸像。主持设计<a href="http://114.xixik.com/12shengxiao/" title="十二生肖,12生肖">十二生肖</a>兽首的是郎世宁，而督造的则是法国人蒋有仁。1860年英法联军侵略中国，火烧圆明园，兽首铜像开始流失海外，到2012年为止牛首、猴首、虎首、猪首、和马首铜像已回归中国，收藏在保利艺术博物馆；2013年4月26日，法国皮诺家族在北京宣布将向中方无偿捐赠流失海外的圆明园十二大水法中的青铜鼠首和兔首。此次捐赠的鼠首、兔首，为北京圆明园流失的十二生肖青铜像中的两件。目前，圆明园十二大水法中的十二大生肖兽首已经有8个回归中国，其中龙首目前在台湾保存完好，不过蛇首、鸡首、狗首、羊首则下落不明。</p><p style="TEXT-INDENT:2em"><strong>在线播放：</strong><img src="http://img.xixik.net/custom/topic/xixik_861b0e9cd6a97c52.gif" /><a href="http://www.iqiyi.com/lib/m_200058414.html" target="_blank">爱奇艺</a>&#160;<img src="http://img.xixik.net/custom/topic/xixik_4e629751bde40350.gif" style="text-indent: 2em;" /><a href="http://tv.sohu.com/20130311/n368431670.shtml" target="_blank">搜狐</a>&#160;<img src="http://img.xixik.net/custom/topic/xixik_307d8a90e9c1981d.gif" /><a href="http://www.letv.com/ptv/vplay/1895589.html" target="_blank">乐视</a>&#160;<img src="http://img.xixik.net/custom/topic/xixik_b901c3dbdc8f7e23.gif" /><a href="http://v.pps.tv/play_36BNLO.html">PPS</a>&#160;<img src="http://img.xixik.net/custom/topic/xixik_a58e451b21ffc306.gif" /><a href="http://v.qq.com/cover/o/opq82bnh2jjjlha.html" target="_blank">腾讯</a>&#160;<img src="http://img.xixik.net/custom/topic/xixik_70bf0db5f4be4941.gif" /><a href="https://www.1905.com/mdb/film/2206379/" target="_blank">电影网</a>&#160;<img src="http://img.xixik.net/custom/topic/xixik_46ae511db447da98.gif" /><a href="http://vod.kankan.com/v/64/64377.shtml" target="_blank">迅雷看看</a></p></div></div></div></div><script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script><script type="text/javascript">        var value = '18';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script><div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/12shengxiao/" target="_self" title="十二生肖对照表 - 十二生肖排序,12生肖纪年对照表">十二生肖对照表</a></div><ul style="width: 960px; margin: auto; overflow: hidden;"><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/lixi/"
+                title="人民币存款利率表，2019银行利息，银行存款利率，银行贷款利率">银行存款利息</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chaodai/zhou/"
+                title="周朝历史_西周历史_东周历史_周朝帝王列表">周朝历史</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证更换新政策_过期了该怎么办？">中国旅行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国总统_美国历任总统名单_美国总统简历生卒年份及所属党派">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/baijiaxing-qq/"
+                title="百家姓qq头像,百家姓qq头像闪图大全_百家姓中国心qq头像">百家姓QQ头像</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="美宝证件_美宝需要哪些证件（美国出生纸_中国旅行证_美国护照_社会安全号_出生纸三级认证）">美宝需要哪些证件？</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_去美国生孩子费用预算清单2019">赴美生子要多少钱</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/obama/"
+                title="奥巴马_美国总统奥巴马_贝拉克·奥巴马(Barack Hussein Obama)_第44任美国总统">奥巴马</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/trump/"
+                title="美国总统特朗普_唐纳德·约翰·特朗普_Donald John Trump_第45任美国总统川普">特朗普</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_去美国生孩子要多少钱？">赴美生子费用</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 中国护照免签证国家2019">中国护照免签证</a></li></ul><div class="lindBox"><div class="btnGray"><div class="btnText"><a target="_self" title="十二生肖对照表 - 十二生肖排序,12生肖纪年对照表" href="http://news.xixik.com/word/18/">另存为<br />                    Word格式</a></div></div></div><div class="lindBox" style="text-align: center;"><img src="http://news.xixik.com/qrcode/18/" alt="扫码手机上继续看" /><br /><br /><strong>用微信或者支付宝扫码在手机上继续观看<br />            可以保存收藏，也扫码后可以分享给好友
+        </strong></div><hr style="height: 1px; border: none; border-top: 1px dashed #999;" /><script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script><!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.--></body></html>
