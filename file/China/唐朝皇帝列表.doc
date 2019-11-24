@@ -1,0 +1,2771 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <title>唐朝皇帝列表_唐朝历代皇帝简介及在位年表_中国历朝帝王大全</title>
+    <link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" />
+    <meta name="description" content="唐朝皇帝列表，唐朝前后289年，历21代皇帝，唐朝是世界公认的中国最强盛的时代之一，此专题罗列唐朝历代皇帝谥号，庙号，年号，在位时间，在位功绩等。唐朝一共有几个皇帝？李隆基后面的皇帝是谁？唐朝最后一个皇帝是谁？" />
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/chinese-emperors/tang/">
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <base target="_blank" />
+    
+    <script>
+        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "chinese-emperors/tang/";
+        }
+
+
+    </script>
+    <style>
+        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+            overflow:auto;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style>
+</head>
+<body>
+    <a name="top4"></a>
+    <div class="topBox" name="top">
+        <div class="topMain">
+            <div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div>
+            <div id="icoPhone"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div>
+            <div id="icoWechat"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a> </div>
+            <div id="icoSina"></div>
+            <div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a>  </div>
+            <div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div>
+            <div class="topRight">
+            </div>
+        </div>
+    </div>
+
+    <div id="showqrCode">
+        <div><span></span></div>
+        <img src="" /><div><span></span></div>
+    </div>
+    <script type="text/javascript">
+        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script>
+    <div class="body">
+        
+        <div class="lindBox" style="position: relative;">
+            <img src="http://img.xixik.net/custom/topic/001/chinese-emperors-tang.jpg" alt="唐朝皇帝列表_唐朝历代皇帝简介及在位年表_中国历朝帝王大全" />
+            <div class="title">
+                <h1>唐朝皇帝列表_唐朝历代皇帝简介及在位年表_中国历朝帝王大全</h1>
+            </div>
+        </div>
+        
+
+        <div class=" custom_border lindBox">
+            <div class="special_content">
+                <div class="content_text">
+                    <div class="content_daodu">
+                    </div>
+                    <h2>唐朝皇帝列表</h2>
+                    <p>
+	<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>从618年由李渊建国至907年，国祚289年，历十四世，传二十一代皇帝；除了开创&ldquo;贞观之治&rdquo;的唐太宗李世民、开创&ldquo;开元盛世&rdquo;的唐玄宗李隆基等历史上赫赫有名的君主，更出了一个史上唯一的正统女皇帝武则天。因<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>皇室姓李，故又称李唐，唐朝又与隋朝一脉相承，史学家称之为&ldquo;隋唐&rdquo;。</p>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="lindBox" style="overflow: hidden;">
+            <div class="gg1">
+                <a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a>
+            </div>
+            <div class="guide">
+                <div class="guideBorder" id="guideBorder">
+                    <div class="guideTitle">导读（目录）</div>
+                    <ul id="guideDisplay">
+                        
+                                <li>·<a title="唐朝历史概述" href="#anchor1" target="_self"> 唐朝历史概述</a></li>
+                            
+                                <li>·<a title="唐朝皇帝列表" href="#anchor2" target="_self"> 唐朝皇帝列表</a></li>
+                            
+                                <li>·<a title="唐朝皇帝世系图" href="#anchor3" target="_self"> 唐朝皇帝世系图</a></li>
+                            
+                                <li>·<a title="唐朝皇帝一句话概括" href="#anchor4" target="_self"> 唐朝皇帝一句话概括</a></li>
+                            
+                                <li>·<a title="唐朝皇帝顺序表及简介" href="#anchor5" target="_self"> 唐朝皇帝顺序表及简介</a></li>
+                            
+                                <li>·<a title="唐朝皇帝诗歌" href="#anchor6" target="_self"> 唐朝皇帝诗歌</a></li>
+                            
+                                <li>·<a title="薛平贵是唐朝哪个皇帝？" href="#anchor7" target="_self"> 薛平贵是唐朝哪个皇帝？</a></li>
+                            
+                                <li>·<a title="唐朝皇太子成功接班几率仅有五成" href="#anchor8" target="_self"> 唐朝皇太子成功接班几率仅有五成</a></li>
+                            
+                                <li>·<a title="唐朝皇帝庙号谥号年号生卒皇陵一览表" href="#anchor9" target="_self"> 唐朝皇帝庙号谥号年号生卒皇陵一览表</a></li>
+                            
+                                <li>·<a title="唐朝32帝" href="#anchor10" target="_self"> 唐朝32帝</a></li>
+                            
+                                <li>·<a title="唐朝皇后" href="#anchor11" target="_self"> 唐朝皇后</a></li>
+                            
+                    </ul>
+                    <div class="guideOpen">展开&darr;</div>
+                </div>
+            </div>
+
+            <div class="guideFllow">
+                <div class="guideFllowBorder">
+                    <div class="guideFllowTitle">导读（目录）</div>
+                    <ul id="guideFllowDisplay">
+                        
+                                <li>·<a title="唐朝历史概述" href="#anchor1" target="_self"> 唐朝历史概述</a></li>
+                            
+                                <li>·<a title="唐朝皇帝列表" href="#anchor2" target="_self"> 唐朝皇帝列表</a></li>
+                            
+                                <li>·<a title="唐朝皇帝世系图" href="#anchor3" target="_self"> 唐朝皇帝世系图</a></li>
+                            
+                                <li>·<a title="唐朝皇帝一句话概括" href="#anchor4" target="_self"> 唐朝皇帝一句话概括</a></li>
+                            
+                                <li>·<a title="唐朝皇帝顺序表及简介" href="#anchor5" target="_self"> 唐朝皇帝顺序表及简介</a></li>
+                            
+                                <li>·<a title="唐朝皇帝诗歌" href="#anchor6" target="_self"> 唐朝皇帝诗歌</a></li>
+                            
+                                <li>·<a title="薛平贵是唐朝哪个皇帝？" href="#anchor7" target="_self"> 薛平贵是唐朝哪个皇帝？</a></li>
+                            
+                                <li>·<a title="唐朝皇太子成功接班几率仅有五成" href="#anchor8" target="_self"> 唐朝皇太子成功接班几率仅有五成</a></li>
+                            
+                                <li>·<a title="唐朝皇帝庙号谥号年号生卒皇陵一览表" href="#anchor9" target="_self"> 唐朝皇帝庙号谥号年号生卒皇陵一览表</a></li>
+                            
+                                <li>·<a title="唐朝32帝" href="#anchor10" target="_self"> 唐朝32帝</a></li>
+                            
+                                <li>·<a title="唐朝皇后" href="#anchor11" target="_self"> 唐朝皇后</a></li>
+                            
+                    </ul>
+                    <div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div>
+                </div>
+            </div>
+
+
+            <div class="gg2">
+                <a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a>
+            </div>
+        </div>
+        
+        <a name="anchor1"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        唐朝历史概述</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<strong><a style="color:#000" title="唐朝" href="http://114.xixik.com/chaodai/tang/">唐朝</a></strong>（Tang dynasty，618—907年），是中国封建历史上最辉煌璀璨，统一时间最长，国力最强盛的<a style="color:#000" title="历史朝代顺序表" href="http://114.xixik.com/chaodai/">朝代</a>之一，<a style="color:#000" title="唐朝" href="http://114.xixik.com/chaodai/tang/">唐朝</a>历十四世，传二十一代<a style="color:#000" title="皇帝" href="http://114.xixik.com/chinese-emperors/">皇帝</a>，前后共二百八十九年，其与<a style="color:#000" title="汉朝" href="http://114.xixik.com/chaodai/han/">汉朝</a>并称为<a style="color:#000" title="中国历史" href="http://114.xixik.com/chinese-dynasties/">中国历史</a>上两大强盛王朝之一，开创了<a style="color:#000" title="中国历史" href="http://114.xixik.com/chinese-dynasties/">中国历史</a>上最为波澜壮阔的封建王朝。<a style="color:#000" title="唐朝" href="http://114.xixik.com/chaodai/tang/">唐朝</a>的国号“唐”是晋的古名，泛指今山西省的中南部地域。唐高祖李渊的祖父李虎为西魏八柱国之一，被封为“唐国公”，后爵位传至李渊。李渊是<a style="color:#000" title="隋朝" href="http://114.xixik.com/chaodai/sui/">隋朝</a>时行宫居晋阳（山西太原西南）留守，以尊隋为名起兵，克长安后，隋恭帝杨侑禅让帝位后便以“唐”为国号。</p><p style="TEXT-INDENT:2em">
+	唐王朝的前期，由唐太宗李世民直至玄宗开元年间国家一直处于大发展阶段，从经济、政治、军事、外交、文化等方面都空前繁荣。<a style="color:#000" title="唐朝" href="http://114.xixik.com/chaodai/tang/">唐朝</a>也是秦汉、<a style="color:#000" title="隋朝" href="http://114.xixik.com/chaodai/sui/">隋朝</a>以来，第一个不筑长城的统一王朝。在此期间出现的“贞观之治”，高宗与武则天的励精图治、到玄宗李隆基“稻米流脂粟米白”的开元盛世构成了中华<a style="color:#000" title="民族" href="http://114.xixik.com/minority/">民族</a>引以为骄傲的盛唐气象。从而使中国的世界地位显赫一时。<a style="color:#000" title="唐朝" href="http://114.xixik.com/chaodai/tang/">唐朝</a>在声誉远及海外，与南亚、西亚和欧洲国家均有往来。<a style="color:#000" title="唐朝" href="http://114.xixik.com/chaodai/tang/">唐朝</a>以后海外多称中国人为“唐人”。<a style="color:#000" title="唐朝" href="http://114.xixik.com/chaodai/tang/">唐朝</a>接纳各个<a style="color:#000" title="民族" href="http://114.xixik.com/minority/">民族</a>与宗教，成为了开放的国际文化。唐诗、科技、文化艺术极其繁盛，具有多元化的特点，均有辉煌的成就。唐玄宗后期出现的安史之乱，使唐王朝逐渐没落。肃宗李亨平定叛乱、代宗、德宗、顺宗、宪宗、武宗、宣宗的统治，唐国力每况日下，<a style="color:#000" title="皇帝" href="http://114.xixik.com/chinese-emperors/">皇帝</a>在经济、政治、军事上已无实权，致使藩镇割据局面形成。最后，各方纷纷脱离唐王朝的统治而成为各自独立的政权，大唐帝国也由此覆灭。从此中国了进入<a style="color:#000" title="五代十国" href="http://114.xixik.com/chaodai/5dai10guo/">五代十国</a>时期。</p><div class='right_gg'><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 336x280-114-left -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-3849899595029685"
+     data-ad-slot="9973132210"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><p style="TEXT-INDENT:2em">
+	<strong><a style="color:#000" title="唐朝" href="http://114.xixik.com/chaodai/tang/">唐朝</a><a style="color:#000" title="皇帝" href="http://114.xixik.com/chinese-emperors/">皇帝</a>顺序表</strong></p><p style="TEXT-INDENT:2em">
+	唐高祖李渊 → 唐太宗李世民→ 唐高宗李治 → 唐中宗李显 → 唐睿宗李旦→ 武则天→ 唐玄宗李隆基 → 唐肃宗李亨→ <a style="color:#000" title="唐代" href="http://114.xixik.com/chaodai/tang/">唐代</a>宗李豫 → 唐德宗李适→ 唐顺宗李诵→ 唐宪宗李纯→ 唐穆宗李恒 → 唐敬宗李湛 → 唐文宗李昂→ 唐武宗李炎→ 唐宣宗李忱→ 唐懿宗李漼→ 唐僖宗李儇 → 唐昭宗李晔→ 唐哀帝李柷</p><p style="TEXT-INDENT:2em">
+	唐高祖李渊：创世之雄，能识时务。唐太宗李世民：少年英才、文治武功、知人善任。唐高宗李治，有文人气质。武则天，唯一的女<a style="color:#000" title="皇帝" href="http://114.xixik.com/chinese-emperors/">皇帝</a>。唐睿宗李旦，无权之人。唐中宗李显，三次让出帝位很会忍。唐玄宗李隆基，从开元盛世到安史之乱。唐肃宗李亨，平叛安史之乱功不可没。<a style="color:#000" title="唐代" href="http://114.xixik.com/chaodai/tang/">唐代</a>宗李豫，窝囊。唐宪宗李纯，奋发有为，乱世中创造“元和中兴”。……唐昭宗李晔有志向，但无力回天了。唐哀帝李拀，末代<a style="color:#000" title="皇帝" href="http://114.xixik.com/chinese-emperors/">皇帝</a>，结局凄凉。</p>
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor2"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        唐朝皇帝列表</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<strong><a href="http://114.xixik.com/chinese-emperors/tang/" style="color:#000" title="唐朝皇帝列表">唐朝皇帝列表</a></strong>，包含了唐朝历代皇帝的庙号、谥号、姓名、年号、在位时间、陵寝、皇帝在位顺序、皇帝简介等资料，以列表形式展现，查询快捷方便。</p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<th width="15%">
+				庙号</th>
+			<th width="20%">
+				谥号</th>
+			<th width="10%">
+				姓名</th>
+			<th width="15%">
+				在位年限</th>
+			<th width="15%">
+				陵寝</th>
+			<th>
+				年号</th>
+		</tr>
+		<tr>
+			<td colspan="7">
+				<strong>① 唐朝 618年—690年</strong></td>
+		</tr>
+		<tr>
+			<td>
+				高祖</td>
+			<td>
+				神尧大圣大光孝皇帝</td>
+			<td>
+				李渊</td>
+			<td>
+				618-626（8年）</td>
+			<td>
+				献陵</td>
+			<td>
+				武德618年-626年</td>
+		</tr>
+		<tr>
+			<td>
+				太宗</td>
+			<td>
+				文武大圣大广孝皇帝</td>
+			<td>
+				李世民</td>
+			<td>
+				627-649（23年）</td>
+			<td>
+				昭陵</td>
+			<td>
+				贞观627年-649年</td>
+		</tr>
+		<tr>
+			<td>
+				高宗</td>
+			<td>
+				天皇大圣大弘孝皇帝</td>
+			<td>
+				李治</td>
+			<td>
+				650-683（24年）</td>
+			<td>
+				乾陵</td>
+			<td>
+				永徽650年-655年<br />
+				显庆656年-661年<br />
+				龙朔661年-663年<br />
+				麟德664年-665年<br />
+				乾封666年-668年<br />
+				总章668年-670年<br />
+				咸亨670年-674年<br />
+				上元674年-676年<br />
+				仪凤676年-679年<br />
+				调露679年-680年<br />
+				永隆680年-681年<br />
+				开耀681年-682年<br />
+				永淳682年-683年<br />
+				弘道683年<br />
+				<a href="http://www.xixik.com/content/07911355d4151f13" title="如此变更年号为哪般？历史上年号最多皇帝夫妇">如此变更年号为哪般？</a></td>
+		</tr>
+		<tr>
+			<td>
+				中宗 （被废）</td>
+			<td>
+				大和大圣大昭孝皇帝</td>
+			<td>
+				李显</td>
+			<td>
+				684</td>
+			<td>
+				定陵</td>
+			<td>
+				嗣圣684年</td>
+		</tr>
+		<tr>
+			<td>
+				睿宗 （禅位）</td>
+			<td>
+				玄真大圣大兴孝皇帝</td>
+			<td>
+				李旦</td>
+			<td>
+				684-690（6年）</td>
+			<td>
+				桥陵</td>
+			<td>
+				文明684年<br />
+				光宅684年<br />
+				垂拱685年-688年<br />
+				永昌689年<br />
+				载初690年</td>
+		</tr>
+		<tr>
+			<td colspan="6" rowspan="1">
+				<strong>②武周 690年—705年</strong></td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				<a href="http://www.xixik.com/content/5f04921d22afdd67" title="武则天叫什么？">则天顺圣皇后</a></td>
+			<td>
+				武曌</td>
+			<td>
+				690—705（16年）</td>
+			<td>
+				乾陵</td>
+			<td>
+				天授690年—692年<br />
+				如意692年<br />
+				长寿692-694年<br />
+				延载694年<br />
+				证圣695年<br />
+				天册万岁695-696年<br />
+				万岁登封696年<br />
+				万岁通天696-697年<br />
+				神功697年<br />
+				圣历698-700年<br />
+				久视700年<br />
+				大足701年<br />
+				长安701-705年<br />
+				<a href="http://www.xixik.com/content/b3809197ed66df83" title="原来中国使用年号最多的皇帝是他们这对夫妻">这对夫妻更换年号上瘾</a></td>
+		</tr>
+		<tr>
+			<td colspan="6" rowspan="1">
+				李唐复辟705-907</td>
+		</tr>
+		<tr>
+			<td>
+				中宗 （复辟）</td>
+			<td>
+				大和大圣大昭孝皇帝</td>
+			<td>
+				李显</td>
+			<td>
+				705-710（5年）</td>
+			<td>
+				定陵</td>
+			<td>
+				神龙705年-707年<br />
+				景龙707年-710年</td>
+		</tr>
+		<tr>
+			<td>
+				恭宗</td>
+			<td>
+				殇皇帝</td>
+			<td>
+				李重茂</td>
+			<td>
+				710</td>
+			<td>
+				&#160;</td>
+			<td>
+				唐隆710年</td>
+		</tr>
+		<tr>
+			<td>
+				睿宗 （复辟）</td>
+			<td>
+				玄真大圣大兴孝皇帝</td>
+			<td>
+				李旦</td>
+			<td>
+				710-712（2年）</td>
+			<td>
+				桥陵</td>
+			<td>
+				景云710年-711年<br />
+				太极712年<br />
+				延和712年</td>
+		</tr>
+		<tr>
+			<td>
+				玄宗</td>
+			<td>
+				至道大圣大明孝皇帝</td>
+			<td>
+				李隆基</td>
+			<td>
+				712-756（44年）</td>
+			<td>
+				泰陵</td>
+			<td>
+				先天712年-713年<br />
+				开元713年-741年<br />
+				天宝742年-756年</td>
+		</tr>
+		<tr>
+			<td>
+				肃宗</td>
+			<td>
+				文明武德大圣大宣孝皇帝</td>
+			<td>
+				李亨</td>
+			<td>
+				756-762（6年）</td>
+			<td>
+				建陵</td>
+			<td>
+				至德756年-758年<br />
+				乾元758年-760年<br />
+				上元 760年-761年</td>
+		</tr>
+		<tr>
+			<td>
+				代宗</td>
+			<td>
+				睿文孝武皇帝</td>
+			<td>
+				李豫</td>
+			<td>
+				762-779（17年）</td>
+			<td>
+				元陵</td>
+			<td>
+				宝应762年-763年<br />
+				广德763年-764年<br />
+				永泰765年-766年<br />
+				大历766年-779年</td>
+		</tr>
+		<tr>
+			<td>
+				德宗</td>
+			<td>
+				神武孝文皇帝</td>
+			<td>
+				李适</td>
+			<td>
+				780-805（26年）</td>
+			<td>
+				崇陵</td>
+			<td>
+				建中780年-783年<br />
+				兴元784年<br />
+				贞元785年-805年</td>
+		</tr>
+		<tr>
+			<td>
+				顺宗</td>
+			<td>
+				至德大圣大安孝皇帝</td>
+			<td>
+				李诵</td>
+			<td>
+				805</td>
+			<td>
+				丰陵</td>
+			<td>
+				永贞805年</td>
+		</tr>
+		<tr>
+			<td>
+				宪宗</td>
+			<td>
+				圣神章武孝皇帝</td>
+			<td>
+				李纯</td>
+			<td>
+				806-820（15年）</td>
+			<td>
+				景陵</td>
+			<td>
+				元和806年-820年</td>
+		</tr>
+		<tr>
+			<td>
+				穆宗</td>
+			<td>
+				睿圣文惠孝皇帝</td>
+			<td>
+				李恒</td>
+			<td>
+				821-824（4年）</td>
+			<td>
+				光陵</td>
+			<td>
+				长庆821年-824年</td>
+		</tr>
+		<tr>
+			<td>
+				敬宗</td>
+			<td>
+				睿武昭愍孝皇帝</td>
+			<td>
+				李湛</td>
+			<td>
+				824-826（2年）</td>
+			<td>
+				庄陵</td>
+			<td>
+				宝历824年-826年</td>
+		</tr>
+		<tr>
+			<td>
+				文宗</td>
+			<td>
+				元圣昭献孝皇帝</td>
+			<td>
+				李昂</td>
+			<td>
+				826-840（14年）</td>
+			<td>
+				章陵</td>
+			<td>
+				宝历 826年<br />
+				大和827年-835年<br />
+				开成836年-840年</td>
+		</tr>
+		<tr>
+			<td>
+				武宗</td>
+			<td>
+				至道昭肃孝皇帝</td>
+			<td>
+				李炎</td>
+			<td>
+				840-846（6年）</td>
+			<td>
+				端陵</td>
+			<td>
+				会昌 841年-846年</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				宣宗</td>
+			<td>
+				圣武献文孝皇帝</td>
+			<td rowspan="1">
+				李忱</td>
+			<td rowspan="1">
+				846-859（13年）</td>
+			<td rowspan="1">
+				贞陵</td>
+			<td rowspan="1">
+				大中847年-859年</td>
+		</tr>
+		<tr>
+			<td>
+				懿宗</td>
+			<td>
+				昭圣恭惠孝皇帝</td>
+			<td>
+				李漼</td>
+			<td>
+				859-873（14年）</td>
+			<td>
+				简陵</td>
+			<td>
+				大中 859年<br />
+				咸通 860年-873年</td>
+		</tr>
+		<tr>
+			<td>
+				僖宗</td>
+			<td>
+				惠圣恭定孝皇帝</td>
+			<td>
+				李儇</td>
+			<td>
+				873-888（15年）</td>
+			<td>
+				靖陵</td>
+			<td>
+				咸通873年-874年<br />
+				乾符874年-879年<br />
+				广明880年-881年<br />
+				中和881年-885年<br />
+				光启885年-888年<br />
+				文德888年</td>
+		</tr>
+		<tr>
+			<td>
+				昭宗</td>
+			<td>
+				圣穆景文孝皇帝</td>
+			<td>
+				李晔</td>
+			<td>
+				888-904（16年）</td>
+			<td>
+				和陵</td>
+			<td>
+				龙纪889年<br />
+				大顺890年-891年<br />
+				景福892年-893年<br />
+				乾宁894年-898年<br />
+				光化898年-901年<br />
+				天复901年-904年<br />
+				天祐904年</td>
+		</tr>
+		<tr>
+			<td>
+				景宗*</td>
+			<td>
+				昭宣光烈孝皇帝</td>
+			<td>
+				李柷</td>
+			<td>
+				904-907（3年）</td>
+			<td>
+				温陵</td>
+			<td>
+				天祐 904年-907年</td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT:2em">
+	景宗：李柷当国，一切政事都由朱全忠决策，所谓“时政出贼臣，哀帝不能制”。他即位以后甚至都没有改元，一直在使用“天佑”年号。然而，不幸的是，天不佑唐，大唐帝国近300年的基业注定要在他手里倒塌了。后唐明宗李嗣源追谥他为昭宣光烈孝皇帝，但因其系<a href="http://www.xixik.com/content/81b956d7cf98e467" title="巢起义军小卒后逆袭称帝，实现黄巢灭唐梦想">篡国者朱温所立且父母也被朱温所杀</a>并最终亡国，在后唐群臣议论下，庙号景宗未被采用，故后世称李柷为“唐哀帝”或“唐昭宣帝”。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://img.xixik.net/custom/section/chinese-emperors/tang/xixik-f9f848163961b6e4.jpg" style="text-align: center;" title="唐朝十八陵分布图"><img src="http://img.xixik.net/custom/section/chinese-emperors/tang/xixik-d65c90b675fe7655.jpg?138" style="width: 927.891px; max-width: 90%;" /></a></p>
+<p style="TEXT-INDENT:2em">
+	<strong>关中十八唐帝陵：</strong><span style="text-indent: 28px;">大唐帝国共经历21位帝王，除唐昭宗的和陵位于河南偃师、唐哀帝李柷的温陵位于山东菏泽外，其余十九位帝王陵墓（唐高宗李治和武则天合葬乾陵）都位于陕西的关中。自高祖李渊开始，唐代二十座帝王陵中的十八座帝陵成扇形状分布于关中北部的台原与崇山之间，横跨</span>陕西省富平县、蒲城县、三原县、泾阳县、礼泉县、乾县六县，包括献、昭、乾、定、桥、泰、建、元、崇、丰、景、光、庄、章、端、贞、简、靖等十八座唐代帝王陵墓，<span style="text-indent: 28px;">被称为“关中唐十八陵”。</span></p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor3"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        唐朝皇帝世系图</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="text-align: center;">
+	<a href="http://img.xixik.net/custom/section/chinese-emperors/tang/emperor-bloodline-of-tang-dynasty.png"><img href="http://114.xixik.com/chinese-emperors/tang/" src="http://img.xixik.net/custom/section/chinese-emperors/tang/emperor-bloodline-of-tang-dynasty.png" style="width: 90%; max-width: 90%;" title="唐朝皇帝世系图" /></a></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>李家祖籍在今河北省赵县，李渊生于关陇，自称祖居关陇，是<a href="http://114.xixik.com/chaodai/5hu16guo/" style="color:#000" title="五胡乱华">五胡十六国</a>时期西凉开国君主李暠的后裔（也有称这借以提高自己的身份地位），世代贵胄，是陇西成纪一带的名门望族。李渊的爷爷李虎，西魏八柱国之一，官至太尉、少师、大都督、陇西公；李渊的父亲李昞，北周安州总管、柱国大将军、陇西公、唐国公；李渊的外公独孤信，西魏八柱国之一，官至大司马、大都督、卫国公而且是皇帝的岳父；李渊的大姨，北周皇后；李渊的七姨丈杨坚，<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>开国皇帝；李渊的表弟杨广，<a href="http://114.xixik.com/chaodai/sui/" style="color:#000" title="隋朝">隋朝</a>的第二任皇帝&hellip;&hellip;</p>
+<p style="TEXT-INDENT:2em">
+	说李渊是含着金钥匙出生，一点也不夸张，其血统之高贵令人艳羡，其家世之豪华让人惊叹。李渊，从出生的那一刻起，就已经是千万人之上的人。从七岁那年起，他就承袭了父亲唐国公的封号，小小年纪，就得以封侯袭爵，可谓童年得志。</p>
+<p style="TEXT-INDENT:2em">
+	关于李氏的望族之说在历史上还有这一段插曲，本来西魏以前以山东地区的李姓一门为望族，这一地区有五大望族姓氏&mdash;&mdash;王、卢、崔、李、郑，其中李姓又是鲜卑族中的一大姓氏。而自西魏宇文泰（<a href="http://114.xixik.com/chinese-emperors/nanbeichao/" itle="南北朝皇帝列表,谥号,在位时间">南北朝皇帝列表</a>）以关中为根据地建国，由此就硬性规定了关陇李姓为望族。有人据此认为李氏一门是破落贵族，还有人说李氏是鲜卑族大野部的姓氏。</p>
+<p style="TEXT-INDENT:2em">
+	根据可考证的历史资料证明，唐太宗李世民的祖母、即唐高宗李渊的母亲独孤氏，是隋文帝的一名后妃的姐妹，属于非汉族，所以李世民和隋炀帝之间还有着姨表关系。唐太宗李世民的母亲窦氏也是鲜卑族人。而李渊一方的血统还没有足够的历史证据进行论证。历史上有以下几种说法：赐姓大野部、河南破落李姓、老子李耳的后代等。其中最有可能性的说法是李世民是受胡人影响比较深的汉族人。现在一般的习惯说法是，唐太宗李世民是各民族的混血儿，民族大融合的产物。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor4"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        唐朝皇帝一句话概括</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/ebfd6ff463ce4fb0" title="分明是统一最快的开国皇帝 后世为何写成老好人">唐高祖李渊：最倒霉的开国皇帝 被儿子篡改历史变平庸化</a></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/47e82ceecb455c33" title="杀兄夺妻囚父，唐太宗李世民您还真是天选之子">唐太宗李世民：千古一帝 被评为中国历史上明君的典范</a></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/6e21d70792e4db24" title="最被低估的皇帝唐高宗李治 成就仅次于唐宗宋祖">唐高宗李治：父亲老婆太能干 显得像个无能窝囊废</a></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/ea8f231982db0fb1" title="唐中宗李显：被3个女人左右一生 被毒杀的皇帝">唐中宗李显：被3个女人左右一生 被毒杀的皇帝</a></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/954c3ddae16ee676" title="唐睿宗李旦两次登基三让天下 最后让出个太平盛世">唐睿宗李旦：历史上两次即位继承大统的皇帝</a></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/6f6c06acee72992f" target="_blank" title="他、他还有她，竟然都可以称之为六味地黄丸">他、他还有她，竟然都可以称之为六味地黄丸</a></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/5f04921d22afdd67">武则天（武周）：中国历史上唯一的女皇帝</a></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/eca9a91b8cab79b2" title="明君和昏君结合体 唐玄宗李隆基比唐太宗差的远">唐玄宗李隆基：明君和昏君结合体 靠吃老本创盛世</a></p>
+<p style="TEXT-INDENT:2em">
+	唐肃宗李亨：宫廷政变中惊忧而死的乱世天子</p>
+<p style="TEXT-INDENT:2em">
+	唐代宗李豫：唐朝第一个长子身份即位的皇帝</p>
+<p style="TEXT-INDENT:2em">
+	唐德宗李适：饱尝战火的洗礼和考验的皇帝</p>
+<p style="TEXT-INDENT:2em">
+	唐顺宗李诵：被逼退位最快做太上皇的皇帝</p>
+<p style="TEXT-INDENT:2em">
+	唐宪宗李纯：开创唐朝最后一个盛世的皇帝</p>
+<p style="TEXT-INDENT:2em">
+	唐穆宗李恒：五个儿子中竟有三个做了皇帝</p>
+<p style="TEXT-INDENT:2em">
+	唐敬宗李湛：唐朝帝王中寿命最短的死于宦官皇帝</p>
+<p style="TEXT-INDENT:2em">
+	唐文宗李昂：有帝王之道而无帝王之才的皇帝</p>
+<p style="TEXT-INDENT:2em">
+	唐武宗李炎 ：开创唐朝短暂中兴的灭佛皇帝</p>
+<p style="TEXT-INDENT:2em">
+	唐宣宗李忱：评价很高晚唐人称其“小太宗”</p>
+<p style="TEXT-INDENT:2em">
+	唐懿宗李漼：实为唐朝间接的亡国之君</p>
+<p style="TEXT-INDENT:2em">
+	唐僖宗李儇：玩物丧志宦官手中的傀儡皇帝</p>
+<p style="TEXT-INDENT:2em">
+	唐昭宗李晔：在位16年皇权衰微的悲剧性皇帝</p>
+<p style="TEXT-INDENT:2em">
+	唐哀帝李柷：朱全忠不忠 藩镇手中的一个傀儡皇帝</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor5"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        唐朝皇帝顺序表及简介</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<th colspan="6">
+				唐朝皇帝列表（唐朝君主列表）</th>
+		</tr>
+		<tr>
+			<td colspan="2" rowspan="3">
+				<strong>追尊</strong></td>
+			<td>
+				皋陶 （ 德明皇帝）</td>
+			<td>
+				李敬 （ 先天太上皇）</td>
+			<td>
+				李耳 （ 圣祖玄元皇帝）</td>
+			<td>
+				李暠 （ 兴圣皇帝）</td>
+		</tr>
+		<tr>
+			<td>
+				李熙 （ 献祖宣皇帝）</td>
+			<td>
+				李天锡 （ 懿祖光皇帝）</td>
+			<td>
+				李虎 （ 太祖景皇帝）</td>
+			<td>
+				李弘 （ 义宗孝敬皇帝）</td>
+		</tr>
+		<tr>
+			<td>
+				李宪 （ 让皇帝）</td>
+			<td>
+				李琮 （ 奉天皇帝）</td>
+			<td>
+				李倓 （ 承天皇帝）</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr>
+			<td rowspan="8">
+				<strong>实际统治</strong></td>
+			<td rowspan="2">
+				<strong>前期</strong></td>
+			<td>
+				李渊 （ 高祖）</td>
+			<td>
+				李世民 （ 太宗）</td>
+			<td>
+				李治 （ 高宗）</td>
+			<td>
+				李显 （ 中宗）</td>
+		</tr>
+		<tr>
+			<td>
+				李旦 （ 睿宗）</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>武周</strong></td>
+			<td>
+				武曌<br />
+				（ 武后称帝改国号为周）</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr>
+			<td rowspan="5">
+				<strong>中后期</strong></td>
+			<td>
+				李显 （ 中宗复辟）</td>
+			<td>
+				李重茂 （ 殇帝）</td>
+			<td>
+				李旦 （ 睿宗复辟）</td>
+			<td>
+				李隆基 （ 玄宗）</td>
+		</tr>
+		<tr>
+			<td>
+				? 李亨 （ 肃宗）</td>
+			<td>
+				李豫 （ 代宗）</td>
+			<td>
+				李适 （ 德宗）</td>
+			<td>
+				李诵 （ 顺宗）</td>
+		</tr>
+		<tr>
+			<td>
+				李纯 （ 宪宗）</td>
+			<td>
+				李恒 （ 穆宗）</td>
+			<td>
+				李湛 （ 敬宗）</td>
+			<td>
+				李昂 （ 文宗）</td>
+		</tr>
+		<tr>
+			<td>
+				李炎 （ 武宗）</td>
+			<td>
+				李忱 （ 宣宗）</td>
+			<td>
+				李漼 （ 懿宗）</td>
+			<td>
+				李儇 （ 僖宗）</td>
+		</tr>
+		<tr>
+			<td>
+				李晔 （ 昭宗）</td>
+			<td>
+				李柷</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<strong>自立</strong></td>
+			<td>
+				李承宏 （ 广武王）</td>
+			<td>
+				李悟 （ 绛王）</td>
+			<td>
+				李熅 （ 襄王）</td>
+			<td>
+				李裕 （ 德王）</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+				690年，武后称帝，改国号为周。705年，中宗李显复辟，恢复李唐。</td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT:2em">
+	<strong>唐朝初期皇帝</strong></p>
+<p style="TEXT-INDENT:2em">
+	<strong>高祖李渊</strong>（566年～635年），618年—626年在位，共8年。是<a href="http://114.xixik.com/chaodai/tang/" title="唐朝">唐朝</a>的开国皇帝。566年出生陇西成纪，出身于北周的贵族家庭，他是唐国公李昞的第四个儿子，七岁以嫡子身份袭封唐国公爵位。历任河南郑州和山西静乐的太远、殿内少监、卫尉少卿、山西河东慰抚大使等职务。隋朝大业十三年（617年），升任晋阳留守，晋阳起兵攻占长安立隋炀帝孙代王杨侑为帝，遥尊隋炀帝为太上皇，改元义宁，自为大丞相，封唐王。公元618年五月，隋炀帝被杀后，逼杨侑让位，自立国号唐，建元武德，消灭各地割据势力，统治全国。李渊创下的两个历史之最：<a href="http://www.xixik.com/content/ebfd6ff463ce4fb0">他是历史上称帝最快、统一最快的大一统王朝开国皇帝</a>，超过了其他所有雄才大略的千古一帝。在玄武门之变后，被迫将皇位传给李世民，退位称太上皇，他的管理为贞观之治打下了基础。贞观九年（635年）6月25日病死，享年69岁，谥号太武皇帝，葬在献陵。上元元年（674年）改尊号为神尧皇帝。天宝十三载（754年）上尊号神尧大圣大光孝皇帝。朝代故事：玄武门之变。</p>
+<p style="TEXT-INDENT:2em">
+	在官僚制度上李渊基本上使用了隋朝的制度。在农业方面他颁布均田制，将田地平等地分配给农民。对绢税他也做了调节，减轻了受田农民的负担。在法律上他废弃了隋炀帝的许多苛政，修订了唐律。李渊的管理和政策为李世民「贞观之治」打下了非常重要的基础。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>太宗李世民</strong>（599年～649年），626年—649年在位，共23年，年号贞观。唐高祖李渊第二子。是唐朝第二位皇帝，他的名字意思是“济世安民”，他是唐朝军事家，政治家、书法家。617年，李世民随父亲、刘文静起兵反隋，攻入长安，并且灭隋。李世民被封为秦王。他开创了历史上著名的“贞观之治”，将中国封建社会推向鼎盛时期。因病驾崩于含风殿，享年52岁，谥号为文皇帝，文武大圣大广孝皇帝，葬于昭陵（今陕西礼泉县东北50多里的山峰上）。朝代故事：贞观之治。</p>
+<p style="TEXT-INDENT:2em">
+	他是杰出的军事家，在唐朝的建立与统一过程中立下赫赫战功发挥了决定性作用，爱好文学与书法，有墨宝传世。唐朝建立后，李世民受封为秦国公，后晋封为秦王，率部平定了薛仁杲、刘武周、窦建德、王世充等军阀，最终统一中国。武德九年六月初四（626年7月2日），发动玄武门之变杀死自己的兄弟太子李建成、齐王李元吉二人及二人诸子，被立为太子，唐高祖李渊不久被迫让位，李世民即位。李世民即位为帝之后，积极听取群臣的意见，以文治天下，并开疆拓土，成为中国史上著名的明君。在李世民统治其间，推行府兵制、租庸调制和均田制，并积极推行科举制。唐朝国力强盛，被称为贞观之治。晚年著《帝范》一书以教戒太子，其中总结了他一生的政治经验，也对自己的功过进行了评述。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>高宗李治</strong>（628年～683年），649年—683年在位，共34年。唐太宗李世民第九子，是唐朝第三位皇帝。贞观五年（631）封晋王，十七年（643）立为太子，二十三年（649）即位。病死，享年55岁，谥号：天皇大圣大弘孝皇帝，葬于乾陵。</p>
+<p style="TEXT-INDENT:2em">
+	作为一个唐朝的皇帝，李治是幸运的，因为，他继承了父亲太宗的辉煌基业。由于他勤于政事，故而“百姓阜安，有贞观之遗风” ，史称“永徽之治”。但是对于他个人的帝王生涯来说，“子承父业”同时又是不幸的。当人们观察他的时候，首先看到的往往是太宗以及贞观之治的耀眼光环；既而在他身后又是历史上惟一的一个女皇武则天，在他们两人并驾齐驱的时候，又总是被武则天抢占了头筹。</p>
+<p style="TEXT-INDENT:2em">
+	唐代的版图，以高宗时为最大。李治的帝王生涯几乎只能用"无所作为"来评价，一生的政绩实在乏善可陈。<a href="http://www.xixik.com/content/6e21d70792e4db24" target="_blank" title="最被低估的皇帝唐高宗李治 成就仅次于唐宗宋祖">最被低估的皇帝唐高宗李治 成就仅次于唐宗宋祖</a></p>
+<p style="TEXT-INDENT:2em">
+	<strong>中宗李显</strong>（为武后所废）（656年～710年），684年在位和（705年—710年）在位。前后两次当政，共在位五年半。原名李哲，唐高宗李治第七子，武则天第三子。光宅元年（684年），被废为庐陵王先后迁于均州、房州等地。神龙元年（705年）复位，景龙四年（710年）被韦后毒杀，时年54岁，谥号：大和大圣大昭孝皇帝，葬于定陵（今陕西省富平县龙泉山上）。</p>
+<p style="TEXT-INDENT:2em">
+	唐中宗李显是一代女皇武则天的亲生儿子，弘道元年（683年）即皇帝位，武后临朝称制。因为母亲的权力欲极强，在他当了皇帝不久，便被废了。武则天病死后，李显二度登基。李显虽然继位，但他生性懦弱，根本不是块做皇帝的料。正是中宗的软弱，这也给韦氏有了效仿武则天压皇位的想法，并在公元710年，和女儿共同毒杀李显，立李重茂为少帝。因为他本人是皇帝，他老爸是皇帝，他弟弟是皇帝，他儿子是皇帝，他侄子是皇帝，更要命的是他妈也是皇帝，于是历史给了他一个很光耀的名字：<a href="http://www.xixik.com/content/6f6c06acee72992f" style="text-indent: 2em;" title="他和他弟还有她，竟然都可以称之为六味地黄丸">六味帝皇丸</a>。</p>
+<p style="TEXT-INDENT:2em">
+	<strong style="text-indent: 2em;">睿宗李旦</strong>（为武后所废）（662年～716年）684年和710年-712年在位。前后两次登基，共在位八年余，但真正掌权仅有两年。唐朝第五位皇帝，他的在位时间是684年-690年和710年-712年。初名李旭轮、李轮。历封殷王、冀王、相王、豫王，领洛州牧。为高宗第八子，武则天第四子，唐中宗是其兄长。开元四年（716年）病逝，享年54岁，谥号：玄真大圣大兴孝皇帝，葬于桥陵（今陕西省蒲城县北之丰山）。</p>
+<p style="TEXT-INDENT:2em">
+	嗣圣元年（684年），登基即位后，皇太后武则天垂帘听政。武周建立后，降为皇嗣，复封为相王，囚禁于宫中。参与神龙政变，实现大唐光复。景云元年（710年），平王李隆基联合太平公主发动唐隆政变后，再次成为皇帝。宠信太平公主用人干政，与皇太子李隆基争权。先天元年（712年），李旦禅位于皇太子李隆基，自称太上皇，把持朝廷大政。唐睿宗李旦生活在唐朝中央政权斗争最为残酷复杂的时代。他的父母都当过皇帝，在漫长的中国历史上，只有他和其兄长唐中宗有此经历。他本人当过皇子，亲王，皇嗣(候补性质的皇太子)，皇太子，皇帝，太上皇，还被建议过担任皇太弟，其中皇帝是当了两次，中间间隔20年。这份经历在中国历史上也是独一无二的。李旦前后两次登基，一共在位八年，真正掌权仅有两年。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>武周时期皇帝</strong></p>
+<p style="TEXT-INDENT:2em">
+	<strong>武周武则天</strong></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/5f04921d22afdd67">则天顺圣皇后武曌</a>（624年～705年），690年—705年在位，共16年。<a href="http://www.xixik.com/content/fc0d7d808f1d14a6" title="武则天共侍二皇究竟有多美？无怪乎唤作武媚">唐太宗赐名武媚</a>，即位后改名武曌(zhào)，取意：日月当空。并州文水人（今山西文水）她的国号为周，史称“武周”，她是唐中宗李显、唐睿宗李旦的母亲。<a href="http://www.xixik.com/content/b3809197ed66df83">高宗死后，她把持朝政</a>，<a href="http://www.xixik.com/content/b3809197ed66df83">该夫妻开启了频繁改年号</a>。天授元年（690年），废睿宗，自称圣神皇帝，改洛阳为神都，国号为周，史称南周或武周（<a href="http://www.xixik.com/content/80f5e1306c46f1c8" target="_blank" title="汉因王莽新朝分前后汉 唐为何不因武周而分前后唐">汉因王莽新朝分前后汉 唐为何不因武周而分前后唐</a>）。成为<a href="http://114.xixik.com/chinese-dynasties/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="中国历史">中国历史</a>上唯一一位女皇帝，尊为武周圣神皇帝。<a href="http://www.xixik.com/content/bfdb8e16682cda20" style="text-indent: 2em;" title="古今第一骂文——《为徐敬业讨武曌檄》赏析">武氏篡唐遭到了部分人的反对</a>。神龙元年（705年），武则天病笃，宰相张柬之发动兵变，拥立中宗复位。同年十一月，武则天于上阳宫崩逝，年八十二岁。<a href="http://www.xixik.com/content/5ee42911677c739e" title="690年武则天登基称帝 临终前却让帝位去帝号">去世时发遗诏：去帝号</a>，称则天大圣皇后。中宗遵其遗命，改称“则天大圣皇后”，以皇后身份与高宗合葬于乾陵，累谥为“则天顺圣皇后”。</p>
+<p style="TEXT-INDENT:2em">
+	武氏开始是唐太宗的才人，在太宗病重期间与高宗李治产生情愫，太宗死后入感业寺出家为尼姑。但宫中权斗使她成了唐高宗李治的昭仪，655年立为皇后，尊号“天后”，参与朝政，时与高宗并称“二圣”。她是唐中宗李显、唐睿宗李旦的母亲。高宗驾崩后，<a href="http://www.xixik.com/content/538864978b5833d6" title="四个儿子窝囊废唯女儿能干">作为唐中宗、唐睿宗两朝的皇太后临朝称制</a>。作为中国唯一的女皇，在其统治数十年间，社会安定，经济发展，武则天上承“贞观之治”，下启“开元盛世”，革除时弊，发展生产，完善科举，破除门阀观念，不拘一格任用贤才，顺应历史潮流，大刀阔斧改革的历史功绩相比，难以同日而语。历史功绩，昭昭于世。在经济上，武则天早在“建言十二事”中就提出薄赋敛、息干戈、省力役等主张以保障农时;在其执政的半个世纪中，社会经济快速发展，户口大量增加。在军事上，武则天时期基本维持了唐朝的疆域和地位。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>唐朝中期皇帝</strong></p>
+<p style="TEXT-INDENT:2em">
+	中宗（重祚）李显（656年～710年），705年—710年在位，共5年。705年，武氏去世，唐中宗复位，710年，中宗被毒杀。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>少帝</strong>（殇帝）李重茂（694年～？）710年，在位1个月，唐中宗第四子，生母不详，前身为温王。710年中宗被毒死以后，韦后立时年仅16岁的李重茂即位想重演武氏的故事，1个月后，韦后被杀，太平公主和李隆基联合废掉了李重茂，并将李重茂赶出长安，恢复其温王爵位。后事不详。</p>
+<p style="TEXT-INDENT:2em">
+	公元710年6月，李隆基杀韦太后，与太平公主、内苑总监钟绍京等人策划拥立李旦复位，李重茂毫无知觉。甲辰日，李重茂照例出视早朝，登上宝位就座。等到大臣们到齐，太平公主大声说道：“嗣君(指李重茂)准备让位给叔父(指李旦)，各位大臣以为如何”。大臣们事先早已与太平公主通气，齐声赞成，说理应立长君。太平公主走到李重茂面前高声说道：“人心已经都归向相王，这已经不是你这小孩子的座位了，快快下来吧”李重茂木然呆着，不知所措。太平公主上前，一把将他拖下皇座。李旦走上皇座坐下，李重茂只得含泪走到下首站着，被降封为温王，又改封楚王。史称唐殇帝，又称唐少帝。</p>
+<p style="TEXT-INDENT:2em">
+	睿宗（重祚）李旦（662年～716年），710年-712年。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>玄宗李隆基</strong>（685年～762年），712年—756年在位，共44年，是唐朝在位最久的皇帝。唐朝第五位皇帝。唐睿宗李旦第三子，庙号“玄宗”，得名“唐玄宗”，又谥号为“至道大圣大明孝皇帝”，故亦称为唐明皇，后封元圣文神武皇帝。玄宗在位年间，是唐代由盛变衰的关键时期。宝应元年（762年）病逝于长安神龙殿，享年78，谥号：至道大圣大明孝皇帝，庙号玄宗，葬于泰陵（今陕西省蒲城县东北金粟山）。朝代故事：开元之治、安史之乱。</p>
+<p style="TEXT-INDENT:2em">
+	唐玄宗在位年间，是唐代由盛变衰的关键时期。前期注意拨乱反正，任用姚崇、宋璟等贤相，励精图治，他的开元盛世是唐朝的极盛之世，在位后期宠爱杨贵妃，怠慢朝政，宠信奸臣李林甫、杨国忠等，加上政策失误和重用安禄山等侫臣，导致了后来长达八年的安史之乱，为唐朝中衰埋下伏笔。从此唐朝由鼎盛时期转入衰弱时期。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>肃宗李亨</strong>（711年～762年），756年—762年在位，共6年。唐朝第八位皇帝。唐玄宗第三子。公元756年七月十二日，李亨在灵武即位，遥尊玄宗为太上皇，改年号为“至德”。病死，享年52岁，谥号：文明武德大圣大宣孝皇帝，葬于建陵（今陕西省礼泉县东北之武将山上）。</p>
+<p style="TEXT-INDENT:2em">
+	唐肃宗李亨可以说是大唐帝国由繁荣昌盛转向衰落的见证者。他是唐朝第一个在京师以外登基再进入长安的皇帝。他登基之日，正是安史叛军攻陷两京之后;而当他的生命走上终点病逝长安之时，安史之乱仍未荡平。他送走了避乱出逃的父亲唐玄宗，又和唐玄宗在13天内先后永诀人寰，为大唐帝国的盛衰荣辱留下了难以磨灭的影响和耐人寻味的一幕。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>代宗李豫</strong>（726年～779年），762年—779年在位，共17年。唐朝第九位皇帝。唐肃宗长子，初名俶，封广平王。病死，享年54岁，谥号：睿文孝武皇帝，庙号代宗。葬于元陵（今陕西省富平县西北之檀山上）。</p>
+<p style="TEXT-INDENT:2em">
+	唐代宗是<a href="http://www.xixik.com/content/491713d29bc63fc5" title="唐朝皇太子成功接班几率仅有五成 失败的多惨死">唐朝历史上第一个以长子身份即位的皇帝</a>。安史之乱中，以天下兵马元帅名义先后收复长安、洛阳。唐代宗即位之初，正当安史叛军最后垂死挣扎的关键时刻，为了早日平定叛乱，结束动荡的局面，代宗对安史降将实施了姑息政策，以致形成了河北藩镇割据的局面，给继承者遗留下了难以彻底消除的祸患。唐代宗面临的社会矛盾，错综复杂，历史赋予他的任务，十分艰巨。其主持朝政多年，从政绩上看，有功也有过，但总的看功大于过，基本上应该肯定，他的功和过，受到他生活的社会历史条件，他的一生多彩多姿,，既有弛骋疆场，威武状观的经历，也有政治舞台上角逐的风风雨雨，他又以多情的天子著称于唐代诸帝。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>德宗李适</strong>Kuò（742年～805年），780年—805年在位，共26年。唐代宗长子，唐朝第十位皇帝。贞元二十一年（805年），李适于会宁殿驾崩，享年64岁，谥号：为神武孝文皇帝，庙号德宗，葬于崇陵（今陕西省泾阳县北嵯峨山）。</p>
+<p style="TEXT-INDENT:2em">
+	李适在位前期，以强明自任，坚持信用文武百官，严禁宦官干政，用杨炎为相，废租庸调制，改行“两税法”，颇有一番中兴气象。后任用卢杞等，政局转坏。任用宦官为统帅，并且勒索地方官进奉物资，在长安施行宫市，征收间架、茶叶等杂税，民生更加困苦。虽有人称之为“中兴之治”，但并没有特别显著的成就。唐德宗李适也是一个饱尝战火的洗礼和考验的唐朝皇帝。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>顺宗李诵</strong>（761年～806年），805年—806年在位，共1年。唐朝第十一位皇帝。唐德宗长子。病死，时年46岁，谥号：至德大圣大安孝皇帝，葬于丰陵（今陕西省富平县东瓮金山）。朝代故事：永贞革新、永贞内禅、八司马事件。</p>
+<p style="TEXT-INDENT:2em">
+	在唐朝皇帝中，唐顺宗李诵是特征颇为鲜明的一位。第一，位居储君时间最长。顺宗是以长子被立为皇太子，由于父亲德宗在位时间长，他做太子的时间长达26年。第二，在位时间最短。顺宗在位期间，没有以皇帝身份过一个新年。即位当年的新年，他就已经是太上皇了。算起来，顺宗在位时间还不足200天，在整个唐朝皇统体系中，他是在位时间最短的一位了。第三，顺宗在如此短暂的帝王生涯中，还做了太上皇。这不仅是唐朝皇帝中，恐怕也是历史上所有皇帝中进入太上皇角色最快的皇帝了。第四，儿子数量多。顺宗有27个儿子等。</p>
+<p style="TEXT-INDENT:2em">
+	大历十四年(779年)立为皇太子。贞元二十一年(805年)即位，改元永贞。任用王伾、王叔文为翰林学士，在韩泰、韩晔、柳宗元、刘禹锡、陈谏、凌准、程异、韦执宜等人支持下，从事改革德宗以来的弊政，贬斥贪官，废除宫市，停止盐铁进钱和地方进奉，并试图收回宦官兵权，史称“永贞革新”。不久患中风。同年八月，宦官俱文珍等勾结部分官僚和藩镇，逼其退位，传位于太子李纯，贬王伾等人，史称“永贞内禅”。又贬斥韩泰等八人，史称“八司马事件”。次年病死，一说被宦官杀害。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>宪宗李纯</strong>（778年～820年），806年—820年在位，共15年。唐顺宗长子，先被封为广平郡王，805年即位。被宦官杀害，时年43岁，谥号：昭文章武大圣至神孝皇帝，庙号宪宗，葬于景陵（今陕西省蒲城县西北金帜山）。朝代故事：元和中兴。</p>
+<p style="TEXT-INDENT:2em">
+	李纯被立为太子，顺宗试图进行改革，威胁了宦官的利益，被俱文珍逼迫退位给宪宗，同年八月，宪宗继位，顺宗被尊为太上皇。死后谥号为昭文章武大圣至神孝皇帝。唐宪宗李纯是一位重实干的坚强的君主，即位后，励精图治，重用贤良，改革弊政，勤勉政事，力图中兴，从而取得元和削藩的巨大成果，重振中央政府的威望，史称“元和中兴”。他抓住时机采取了干预的政策。但在一开始情况似乎并不显得对他有利。在顺宗时期出现的不和以后，朝廷尚需恢复和谐关系，而地方政府广泛的行动回旋余地已成为全帝国被人接受的准则。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>唐朝晚期皇帝</strong></p>
+<p style="TEXT-INDENT:2em">
+	<strong>穆宗李恒</strong>（795年～-824年），821年—824年在位，共4年。唐朝第十三位皇帝。原名宥。在位期间荒于朝政，奢侈放纵，措施不当，导致河北三镇再度背叛，直到唐朝灭亡。长庆四年（824年）正月，因服长生药而死，时年30岁，谥号：睿圣文惠孝皇帝，葬于光陵。</p>
+<p style="TEXT-INDENT:2em">
+	在位期间荒于朝政，奢侈放纵，措施不当，导致河北三镇再度背叛，直到唐朝灭亡。朝廷内宦官权势日盛，官僚朋党斗争剧烈。使唐宪宗的“中兴”局面完全丧失。后服长生药而死。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>敬宗李湛</strong>（809～827年），824年—826年在位，共2年。唐朝第十四位皇帝。唐穆宗长子。被宦官杀死，得年18岁。谥号：睿武昭愍孝皇帝，庙号敬宗，葬于庄陵。</p>
+<p style="TEXT-INDENT:2em">
+	即位后，只知在后宫嬉戏，奢侈荒淫，沉迷击鞠，喜欢半夜在宫中捉狐狸（打夜狐），史称“视朝月不再三，大臣罕得进见”。根本不把国家大政放在心上，他的游乐无度较之其父穆宗是有过之而无不及。宦官王守澄把持朝政，勾结权臣李逢吉，排斥异己，败坏纲纪。导致官府工匠突起暴动攻入宫廷的事件。后为宦官刘克明等人杀害。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>文宗李昂</strong>（809年～840年），826年—840年在位，共14年。唐朝第十五位皇帝。唐穆宗第二子，唐敬宗之弟，敬宗宝历二年(826年)，被宦官王守澄等拥立为帝。郁郁病死，时年32岁，谥号：元圣昭献孝皇帝，葬于章陵（今陕西省富平县西北之天乳山）。朝代故事：甘露之变。</p>
+<p style="TEXT-INDENT:2em">
+	在位期间，朝臣朋党相互倾轧，官员调动频繁，政权甚至皇帝的废立生杀均掌握在宦官手中。后起用李训、郑注等人，意欲铲除宦官。大和九年(835年)，李训引诱宦官参观所谓“甘露”，企图将其一举消灭，但事情败露，反而导致宦官大肆屠杀朝官，史称“甘露之变”。事后，文宗更被宦官钳制，慨叹自己受制于家奴，境遇不如汉献帝。执政期间政治黑暗，官员和宦竖争斗不断，是唐朝社会走向没落的转型时期，唐文宗本人也形同傀儡，最后抑郁而死。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>武宗李炎</strong>（814年～846年），840年—846年在位，共6年。唐朝第十六位皇帝。唐穆宗第五子，文宗弟。本名瀍，临死前十二天改名炎，会昌六年（846年），李炎驾崩于含风殿，时年33岁，谥号：至道昭肃孝皇帝，庙号武宗，葬于端陵。朝代故事：会昌法难。</p>
+<p style="TEXT-INDENT:2em">
+	对内打击藩镇和佛教，对外击败回鹘，加强了中央集权，唐朝一度出现中兴局面，史称“会昌中兴”。唐武宗崇信道教，且鉴于佛教势力泛滥，损害国库收入，在道士赵归真的鼓动和宰相李德裕的支持下，于845年下令拆毁佛寺，并派御史分道督察。经数月努力，全国拆毁寺院、招提、兰若共4.46万余所，还俗僧尼26.1万人，奴婢15万人，没收大量寺院土地。由于毁佛成功，从而扩大了唐朝政府的税源，巩固了中央集权。武宗灭佛，历史上称为“会昌法难”，与北魏太武帝和北周武帝的灭佛合称“三武之厄”。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>宣宗李忱</strong>（810年～859年），847年—859年在位，共13年。初名怡，前身是光王，唐宪宗李纯十三子，唐穆宗李恒的弟弟，唐武宗李炎的叔叔。大中十三年(859年)去世，享年50岁，谥号：圣武献文孝皇帝，庙号宣宗，葬于贞陵（今陕西省泾阳县西北）。</p>
+<p style="TEXT-INDENT:2em">
+	唐武宗死后，李忱为宦官马元贽等拥立其登基为帝。李忱努力仿效唐太宗，以“至乱未尝不任不肖，至治未尝不任忠贤”为座右铭。他将《贞观政要》书于屏风之上，每每正色拱手拜读。在位期间，整顿吏治，并限制皇亲和宦官，对外击败吐蕃、收复河湟，安定塞北、平定安南。李忱处理天下事务，性格明察沉断，用法无私，从谏如流，重惜官赏，恭谨节俭，惠爱民物，所以直至唐亡，百姓仍思咏他，称其为“小太宗”。唐宣宗时代，帝国虽然称不上是太平盛世，但起码也算是承平之局。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>懿宗李漼</strong>（833年～873年），859年—873年在位，共14年。唐朝第十八位皇帝。宣宗病死后，被宦官迎立为帝。李漼初名温，是唐宣宗的长子。873年八月病死，时年41岁，谥号：昭圣恭惠孝皇帝，死后葬于简陵（今陕西省富平县西北）。</p>
+<p style="TEXT-INDENT:2em">
+	唐懿宗是唐朝最后一个以长子即位而且是最后一个在长安平安度过帝王生涯的皇帝。然而，懿宗在位14年，游宴无度、沉湎酒色，骄奢淫逸侏儒俑，不思进取，宠信宦官，迎奉佛骨，面对内忧不知其危，遭遇外患不觉其难，以致政治腐败，唐朝政局更加风雨飘摇。把宣宗在位期间重新点燃起来的一点希望之光彻底熄灭了。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>僖宗李儇</strong>Xuān（862年～888年），873年—888年在位，共15年。是唐朝第十九位皇帝。唐懿宗第五子，初名俨。十五岁时被宦官拥立为帝，政事全交给宦官田令孜掌握，自己却玩物丧志。时年27岁，谥号：惠圣恭定孝皇帝。葬于靖陵（今陕西省乾县东北）。朝代故事：黄巢起义。</p>
+<p style="TEXT-INDENT:2em">
+	唐僖宗生活的年代是唐王朝各种矛盾空前激化的年代，大唐帝国已经不可避免走向灭亡。因此不管僖宗是否贤明，他也不能扭转不利的局面。很遗憾，相比于好似骄奢天子的父亲懿宗，僖宗的腐败程度不仅没有减少，乾符年间以来的统治反倒黑暗了几分。由此，王仙芝和黄巢起义的原因也就变得非常好解释。僖宗生于深宫，宦官拥立为帝，虽其天资禀赋高超，然并无治国之道，光启之后虽打算励精图治，摆脱宦官，重振唐威，但为时已晚，唐王朝已经支离破碎。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>昭宗李晔</strong>（867年～904年），888年—904年在位，共16年。原名杰，又名敏，他是唐懿宗第七子，唐僖宗第七弟。是唐朝第二十位皇帝(889年—904年在位)，在位16年。唐昭宗在他即皇帝位以来16年间，一直是藩镇手中的傀儡。904年被藩镇朱温杀，时年38岁，谥号：圣穆景文孝皇帝，庙号昭宗，葬于和陵（今河南省偃师县太平山）。</p>
+<p style="TEXT-INDENT:2em">
+	和许多朝代的末代皇帝一样，昭宗也不是真正意义上的亡国之君。他颇想有番作为，整顿内政，想对藩镇采取强硬态度。他杀了宦官杨复恭，虽然没有彻底改变宦官的拥兵地位。但也打击了宦官。昭宗虽然有心，但唐朝此时已经积弱难返，回天无力。纵观昭宗的一生，他颇想有番作为，整顿内政，但是事与愿违，大唐事实上早已经支离破碎，任何一个手中有些兵力的藩镇几乎都能随心所欲地置大唐于死地，昭宗所做的，只是勉强使大唐多存在了几年而已。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>哀帝李柷</strong>（892年～908年），904年—907年在位，共3年。原名祚，唐昭宗第九子，唐朝末代皇帝，907年被废。908年被朱温毒死，时年17岁，谥号：昭宣光烈哀孝皇帝，葬于温陵（今山东省定陶县），后世称其“唐哀帝”或“唐昭宣帝”。</p>
+<p style="TEXT-INDENT:2em">
+	哀帝当国，一切政事都由朱全忠决策。他即位以后甚至都没有改元，一直在使用“天佑”年号。然而，不幸的是，天不佑唐，大唐帝国近300年的基业注定要在他手里倒塌了。<span style="text-indent: 0px;">天复四年（904年），朱温逼迫唐昭宗迁都洛阳，毁掉长安城，不久杀死</span>立昭宗<span style="text-indent: 0px;">，立</span><span style="text-indent: 0px;">李柷为帝，是为唐哀帝</span>，他不过是藩镇手中的一个傀儡皇帝。天祐二年(905年)，掌握实际权力的梁王朱温(朱全忠)见废帝灭唐时机已到，便先将唐朝朝臣全部杀光(见白马驿之祸)，接着在天祐四年(907年)又逼李柷禅位，降为济阴王，代唐称帝，改名朱晃，是为梁太祖，建国号“大梁”，史称“后梁”，改元“开平”。至此，立国总计290年、传21帝的大唐王朝灭亡，中国进入自魏晋南北朝以来又一次大分裂时期——五代十国。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/fbdaa7a14786ffde" target="_blank" title="唐朝皇后列表：唐朝历代皇帝的皇后及嫔妃列表">唐朝皇后列表：唐朝历代皇帝的皇后及嫔妃列表</a></p>
+<p style="TEXT-INDENT:2em">
+	<strong>自立皇帝</strong>（不被后世承认）</p>
+<p style="TEXT-INDENT:2em">
+	李承宏（广武王）</p>
+<p style="TEXT-INDENT:2em">
+	李承宏，生卒年代不详，为章怀太子李贤之孙，邠王李守礼之子，金城公主的兄弟，本为广武王，一名承宠。宝应2年（763）十月，吐蕃军队趁唐朝内乱而短暂占长安，唐代宗出逃，吐蕃立其为帝。后唐将郭子仪收复长安，代宗回到长安，将他废黜，流放华州。李承宏不久死去。</p>
+<p style="TEXT-INDENT:2em">
+	李悟 （绛王）</p>
+<p style="TEXT-INDENT:2em">
+	李悟（？—826年），本名李寮，唐宪宗之子，母不详。唐德宗贞元二十一年（805年），封为文安郡王，唐宪宗元和元年（806年）进封绛王。七年，改名李悟。宝历二年十二月八日，刘克明与苏佐明等共同谋害死十八岁的唐敬宗李湛。后苏佐明等矫制，让唐敬宗的叔叔绛王李悟代理监国。枢密使王守澄、中尉梁守谦率禁军讨伐刘克明和苏佐明，诛杀绛王李悟，拥立唐文宗李昂登基为帝。</p>
+<p style="TEXT-INDENT:2em">
+	李熅（襄王）</p>
+<p style="TEXT-INDENT:2em">
+	李熅（？—886年12月）唐肃宗之曾孙。受封襄王。886年，邠宁节度使朱玫攻入长安，唐僖宗逃往凤翔；李熅因病滞留，被朱玫所得。朱玫于紫宸殿拥立襄王称帝，改元建贞，是为唐建贞帝。两个月后各路节度使攻入长安，李熅被废为庶人。后为王重荣所杀。</p>
+<p style="TEXT-INDENT:2em">
+	李裕 （德王）</p>
+<p style="TEXT-INDENT:2em">
+	李裕（？—904年），唐昭宗之长子，大顺二年（891年）六月二十八日，受封德王。光华三年（900年）十一月，发生了神策军中尉刘季述等人的政变，唐昭宗被软禁，同一天宦官假传圣旨，说昭宗已自称太上皇，并令皇太子即位，称帝，更名李缜。天复元年（901）年，宰相崔胤联合禁军将领孙德昭打败了刘季述，迎昭宗复位，李裕复降德王。904年，朱温令蒋玄晖诱杀唐氏诸王，李裕等被诛。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor6"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        唐朝皇帝诗歌</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	唐诗的兴盛，与皇家爱好风雅，大力提倡密切相关。《全唐诗》中收录了唐太宗李世民、唐高宗李治、唐玄宗李隆基、唐肃宗李亨、章怀太子李贤以及后妃们的诗歌。唐皇家的诗歌，内容大多是赞美太平、流连台阁、宴饮唱和、登观美景之类，缺少动人的力量，但上既好之，下必甚之，国家以诗赋取士，人人以能诗为荣。唐朝诸帝，以唐太宗、唐玄宗的诗作最多，成就最高。</p>
+<p style="TEXT-INDENT:2em">
+	唐太宗宏图大略，能征惯战，出入戎马之间，而又能听谏改过，任用贤才，为一代名君。唐太宗年轻时曾亲率军马，与薛举的十万劲卒战于渭河之滨，大破敌军，《经破薛举战地》诗云：</p>
+<p style="TEXT-INDENT:2em">
+	昔年怀壮气，提戈初仗节。</p>
+<p style="TEXT-INDENT:2em">
+	心随朗日高，志与秋霜洁。</p>
+<p style="TEXT-INDENT:2em">
+	移锋惊电起，转战长河决。</p>
+<p style="TEXT-INDENT:2em">
+	营碎落星沉，阵卷横云裂。</p>
+<p style="TEXT-INDENT:2em">
+	一挥氛沴静，再举鲸鲵灭。</p>
+<p style="TEXT-INDENT:2em">
+	于兹俯旧原，属目驻华轩。</p>
+<p style="TEXT-INDENT:2em">
+	沉沙无故迹，灭灶有残痕。</p>
+<p style="TEXT-INDENT:2em">
+	浪霞穿水净，峰雾抱莲昏。</p>
+<p style="TEXT-INDENT:2em">
+	世途亟流易，人事殊今昔。</p>
+<p style="TEXT-INDENT:2em">
+	长想眺前踪，抚躬聊自适。</p>
+<p style="TEXT-INDENT:2em">
+	早年怀有雄壮之气，提戈打仗，心像朗日一般高远，志向像秋霜一样洁白。两军如闪电一般交锋，转战之势，又如长河决堤。唐军冲破敌营，席卷敌阵，取得胜利。初战妖氛已静，再战天下太平。如今俯看旧地，已经看不见往时战斗的情况，只是当年驻军时的灶台，尚有残痕。世事易变迁，人事今昔不同。缅想往日的情况，还是放开襟抱吧。可以说，猛气犹在。</p>
+<p style="TEXT-INDENT:2em">
+	魏征原是太子李建成的门客，唐太宗发动玄武门之变，取得帝位后，不计前嫌，礼遇魏征。魏征感于知遇之恩，竭诚尽忠，知无不言，言无不尽，而唐太宗也能宽宏纳谏，二者是君臣相得的典范。魏征去世之后，唐太宗参加其葬礼，远送灵柩到郊外，写下《望送魏征葬》：</p>
+<p style="TEXT-INDENT:2em">
+	阊阖总金鞍，上林移玉辇。</p>
+<p style="TEXT-INDENT:2em">
+	野郊怆新别，河桥非旧饯。</p>
+<p style="TEXT-INDENT:2em">
+	惨日映峰沉，愁云随盖转。</p>
+<p style="TEXT-INDENT:2em">
+	哀笳时断续，悲旌乍舒卷。</p>
+<p style="TEXT-INDENT:2em">
+	望望情何极，浪浪泪空泫。</p>
+<p style="TEXT-INDENT:2em">
+	无复昔时人，芳春谁共遣。</p>
+<p style="TEXT-INDENT:2em">
+	唐太宗乘着金鞍玉辇，远远看着送葬的队伍从城中走到郊外。大家都对魏征逝去充满痛惜之情，河桥也非旧日饯行之处，一去再上不能复返了。惨日西斜，愁云乱翻，哀乐断续，招魂幡被风吹得时开时卷。望见此情景，泪流不止，再也没有如同魏征一样的人，和自己共赏美丽春色。</p>
+<p style="TEXT-INDENT:2em">
+	这两首诗言而有物、情动于中，是相对较好的作品。唐太宗还写有许多咏物诗、游宴诗、登临诗，不过是玩弄文字游戏、歌颂太平，虽然辞藻华丽，却并无太多真情实感。</p>
+<p style="TEXT-INDENT:2em">
+	胡震亨在《唐音癸签》中将汉高祖刘邦与唐太宗比较，说：“然如‘一朝辞此地，四海遂为家’、‘昔乘匹马去，今驱万乘来’，与‘风起云扬’之歌，同其雄盼，自是帝者气象不侔。”刘邦“大风起兮云飞扬”之句，诗随兴起，脱口而出，有质直刚强的豪气。唐太宗的两句诗，不免有意为之，显得造作。二者虽然都顾盼自雄，但细味之下，还是有不同。</p>
+<p style="TEXT-INDENT:2em">
+	唐玄宗英武多能，又喜欢文艺，诗作辞藻虽不及乃祖，但骨气胜之。《经邹鲁祭孔子而叹之》是名作，固不待言。如《早度蒲津关》，对晓景的刻画壮阔而细腻：</p>
+<p style="TEXT-INDENT:2em">
+	钟鼓严更曙，山河野望通。</p>
+<p style="TEXT-INDENT:2em">
+	鸣銮下蒲坂，飞斾入秦中。</p>
+<p style="TEXT-INDENT:2em">
+	地险关逾壮，天平镇尚雄。</p>
+<p style="TEXT-INDENT:2em">
+	春来津树合，月落戍楼空。</p>
+<p style="TEXT-INDENT:2em">
+	马色分朝景，鸡声逐晓风。</p>
+<p style="TEXT-INDENT:2em">
+	所希常道泰，非复候繻同。</p>
+<p style="TEXT-INDENT:2em">
+	已是严整的五言律诗，气象雄浑。钟鼓之声，严格准确地报时，已是曙色初开，远远望去，山川大河尽收眼底。皇帝乘坐的车骑仪仗从蒲坂而下，向秦中进发。此地十分险要，关隘更显壮丽，天下太平，巨镇尚有雄气。正值春天，草木萌发，渡头两岸的树似乎长得连在一起，月色将落，戍楼已空，没有兵事，是太平的情景。马队向着太阳升起的方向进发，鸡鸣声随着晓风传扬。我所希望的，乃是天下太平、人民乐业，不需要严守关防、设卡检查来防备不虞。</p>
+<p style="TEXT-INDENT:2em">
+	“春来津树合，月落戍楼空”、“马色分朝景，鸡声逐晓风”两句，描写工致，意境宏大，开启了盛唐的格调。</p>
+<p style="TEXT-INDENT:2em">
+	天宝三年，太子宾客、八十三岁的老诗人贺知章告老还乡，唐玄宗写《送贺知章归四明》赠别：</p>
+<p style="TEXT-INDENT:2em">
+	遗荣期入道，辞老竟抽簪。</p>
+<p style="TEXT-INDENT:2em">
+	岂不惜贤达，其如高尚心。</p>
+<p style="TEXT-INDENT:2em">
+	寰中得秘要，方外散幽襟。</p>
+<p style="TEXT-INDENT:2em">
+	独有青门饯，群僚怅别深。</p>
+<p style="TEXT-INDENT:2em">
+	贺知章遗弃世俗的荣耀，一心向往入道的生活，辞官而去，竟抽出发簪，散开头发，以示闲适。我难道不爱惜贤才吗？但还是要顺从个人高尚的愿望，己欲达而达人。贺知章已得到了道家的真传秘要，在尘世之外散发幽深的襟怀。在青门为其饯行的百官，依依不舍，惆怅别离。“岂不惜贤达，其如高尚心”一句，表明唐玄宗对人才宽宏优容的态度，十分高妙。</p>
+<p style="TEXT-INDENT:2em">
+	唐太宗尚沾染纤弱的习气，到唐玄宗颇有风骨，观唐皇帝的诗歌，也可知道唐代诗歌风向的转变呢。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor7"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        薛平贵是唐朝哪个皇帝？</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/chinese-emperors/tang/xixik-bd87f096e248e573.jpg" style="width: 90%; max-width: 90%;" title="电视剧《薛平贵与王宝钏》" /></p>
+<p style="TEXT-INDENT:2em">
+	因为电视剧《薛平贵与王宝钏》（2012年）的热播，薛平贵和王宝钏的爱情故事让<a href="http://114.xixik.com/chinese-emperors/tang/" style="color:#000;" title="唐朝皇帝列表">唐朝皇帝</a>李温在21世纪又火了一把。其实这不就是个美化版本的陈世美么？关于<a href="http://114.xixik.com/chinese-emperors/tang/" style="color:#000;" title="唐朝皇帝列表">唐朝皇帝</a>的搜索里，有个让人哭笑不得的问题——“薛平贵是唐朝哪个皇帝？” 因为有很多人在看完这部电视剧之后心中都有“关于李温是薛平贵吗”的疑问。剧中薛平贵的角色也备受大家关注，大家查了很多关于历史的书籍，都没有找到关于薛平贵的详细介绍，关于他的身世之谜，大家很是疑惑……这是因为在剧中，薛平贵他本来是一个没钱没房的平民，然后接过唐朝宰相王允的女儿王宝钏的绣球，不料其父嫌贫爱富坚决不允。无奈之下，她与父亲三击掌后断绝了父女关系，嫁给薛平贵住进了寒窑。后来薛平贵远征西凉，又因为战争和奸人的陷害，陷落在西凉了，被西凉国的公主玳瓒救下，公主芳心暗许，后来薛平贵就和公主成亲当上了西凉国的国王。薛平贵十八年后回到中原，见到王宝钏，经过周围的亲人的诉说，才知道自己的妻子苦等了自己十八年，于是封王宝钏为皇后，但王宝钏在封后十八天后却离世了。</p>
+<p style="TEXT-INDENT:2em">
+	按照正常逻辑，在历史上赫赫有名的人物，鲜有不留下足以或者史书记载的，更何况是能够平定西凉的战将。因此，从这一点来说，薛平贵真有其人的说法很难立足。 另外，坊间一些老艺人也讲述了关于薛平贵的另一个来源：某年，山西一富户为母庆寿，邀请堂会，演出《汾河湾》等戏。其母得知薛王二人以悲剧结局，抑郁成 疾。富子悬巨赏征求薛仁贵夫妻团圆的剧本。某文人为不违反历史，杜撰了一位“薛平贵”，剧名《王宝钏》，情节与上演的薛仁贵戏大同小异。为了迎合富母的心 态，改成了大团圆结局。演出后富母大喜，病亦霍然而愈。自此之后，京剧舞台上便出现了一个薛仁贵，一个薛平贵，“两薛并存”，相安无事。</p>
+<p style="TEXT-INDENT:2em">
+	嘻嘻网编辑部经过查阅历史档案，得出的结论是<a href="http://www.xixik.com/content/102fde848669bdd9" title="薛平贵不但不是唐朝皇帝李温 也不曾存在过">薛平贵不但不是唐朝皇帝李温，且史无其人</a>，纯粹是个戏曲舞台上虚拟出来的艺术形象。他所处的后唐也并非李世民的那个唐朝。至于说他所在的西凉国确实有过，那是<a href="http://114.xixik.com/chaodai/5hu16guo/" title="五胡十六国">五胡十六国</a>，跟唐朝差了200年。在京剧舞台上，演绎薛平贵故事的是全本的《红鬃烈马》，戏里面的薛平贵着汉服，而西凉国的代战公主则着旗装，不伦不类，这也从另一个侧面说明了薛平贵是虚拟的人物。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chinese-emperors/tang/" style="color:#000;" title="唐朝皇帝列表">唐朝皇帝</a>李温其实就是唐懿宗李漼，李漼原来的名字就是李温，后来叫做李漼就很少人知道这个名字了。他是唐朝历史上倒数第四个皇帝，还是以长子的身份继承皇位的。李温是唐宣宗和元昭皇太后的儿子，其实他当上皇帝还是有点靠运气的，因为他的父皇唐宣宗病死之后，他就被那些太监和朝廷里主要人物推上了皇椅，当上了这个皇帝。作为皇帝，他还有两位皇后，其中一位皇后出生微寒，进宫选秀才有荣幸能当上皇后。李温做了皇帝，就贪得无厌了，对自己的尊号加到十几个字。在位十四年，没有任何的功劳，只顾得自己享乐。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor8"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        唐朝皇太子成功接班几率仅有五成</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	隋唐史大家胡戟先生也指出：“唐代的储位十分的不稳定，在储位上出事的占太子总数的30%，这说明了政治斗争的严酷性，有些太子一脚踏进东宫的时候，另一只脚已经踏上了断头台。”<a href="http://www.xixik.com/content/bda7a260970fbd52" target="_blank" title="庶长子当太子极低的继承率 看看陈王李忠的下场">看看陈王李忠的下场</a>，武则天的儿子李弘，李贤无一没有好下场。皇太子不易当。数据表明，唐朝正式当过皇太子的，一共有29位，只有16位成功接班，成功率55%。也就是说，仅仅五成。换句话说，<a href="http://www.xixik.com/content/491713d29bc63fc5" style="text-indent: 2em;" title="唐朝皇太子成功接班几率仅有五成">唐朝出事的皇太子有13位，出事率或者说失败率，是45%，远远高于30%</a>。</p>
+<p style="TEXT-INDENT:2em">
+	“凡唐代之太子，实皆是已指定而不牢固之皇位继承者。”这是陈寅格大师《唐代政治史述论稿》中的权威论断。</p>
+<p style="TEXT-INDENT:2em">
+	唐朝16位以皇太子身份，得以成功接班的幸运儿，分别是：李世民、李治、李显、李旦、李隆基、李亨、李豫、李适、李诵、李纯、李恒、李湛、李昂、李漼、李儇、李柷。</p>
+<p style="TEXT-INDENT:2em">
+	他们成功接班、登上皇位的方式，也是各有特色、多种多样。大致可以分为“坐等皇位上门”型、“自己抢皇位”型和“别人帮自己抢皇位”型。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor9"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        唐朝皇帝庙号谥号年号生卒皇陵一览表</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="text-align: center;">
+	<strong>唐朝皇帝庙号谥号年号生卒皇陵一览表</strong></p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style=" margin: auto; width: 80%;">
+	<tbody>
+		<tr>
+			<th>
+				庙号</th>
+			<th>
+				谥号</th>
+			<th width="60">
+				姓名</th>
+			<th width="80">
+				生卒年</th>
+			<th>
+				在位时间</th>
+			<th>
+				年号</th>
+			<th>
+				皇陵</th>
+		</tr>
+		<tr>
+			<td>
+				-</td>
+			<td colspan="1" rowspan="1">
+				德明皇帝</td>
+			<td colspan="1" rowspan="1">
+				皋陶</td>
+			<td colspan="1" rowspan="1">
+				前22世纪</td>
+			<td>
+				-</td>
+			<td colspan="1" rowspan="1">
+				（追尊）</td>
+			<td colspan="1" rowspan="1">
+				皋陶墓</td>
+		</tr>
+		<tr>
+			<td>
+				-</td>
+			<td colspan="1" rowspan="1">
+				先天太上皇</td>
+			<td colspan="1" rowspan="1">
+				李敬</td>
+			<td colspan="1" rowspan="1">
+				前7-6世纪</td>
+			<td>
+				-</td>
+			<td colspan="1" rowspan="1">
+				（追尊）</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+		</tr>
+		<tr>
+			<td>
+				唐圣祖</td>
+			<td colspan="1" rowspan="1">
+				高上大广道金阙玄元天皇大帝</td>
+			<td colspan="1" rowspan="1">
+				李耳[4]</td>
+			<td colspan="1" rowspan="1">
+				前574-前460</td>
+			<td>
+				-</td>
+			<td colspan="1" rowspan="1">
+				（追尊）</td>
+			<td colspan="1" rowspan="1">
+				老子墓</td>
+		</tr>
+		<tr>
+			<td>
+				西凉太祖</td>
+			<td colspan="1" rowspan="1">
+				兴圣皇帝</td>
+			<td colspan="1" rowspan="1">
+				李暠</td>
+			<td colspan="1" rowspan="1">
+				351-417</td>
+			<td>
+				-</td>
+			<td colspan="1" rowspan="1">
+				（追尊）</td>
+			<td colspan="1" rowspan="1">
+				建世陵</td>
+		</tr>
+		<tr>
+			<td>
+				唐献祖</td>
+			<td colspan="1" rowspan="1">
+				宣皇帝</td>
+			<td colspan="1" rowspan="1">
+				李熙</td>
+			<td colspan="1" rowspan="1">
+				5世纪</td>
+			<td>
+				-</td>
+			<td colspan="1" rowspan="1">
+				（追尊）</td>
+			<td colspan="1" rowspan="1">
+				关中十八唐帝陵</td>
+		</tr>
+		<tr>
+			<td>
+				唐懿祖</td>
+			<td colspan="1" rowspan="1">
+				光皇帝</td>
+			<td colspan="1" rowspan="1">
+				李天锡</td>
+			<td colspan="1" rowspan="1">
+				5-6世纪</td>
+			<td>
+				-</td>
+			<td colspan="1" rowspan="1">
+				（追尊）</td>
+			<td colspan="1" rowspan="1">
+				关中十八唐帝陵</td>
+		</tr>
+		<tr>
+			<td>
+				唐太祖</td>
+			<td colspan="1" rowspan="1">
+				景皇帝</td>
+			<td colspan="1" rowspan="1">
+				李虎</td>
+			<td colspan="1" rowspan="1">
+				？-551</td>
+			<td>
+				-</td>
+			<td colspan="1" rowspan="1">
+				（追尊）</td>
+			<td colspan="1" rowspan="1">
+				永康陵</td>
+		</tr>
+		<tr>
+			<td>
+				唐世祖</td>
+			<td colspan="1" rowspan="1">
+				元皇帝</td>
+			<td colspan="1" rowspan="1">
+				李昞</td>
+			<td colspan="1" rowspan="1">
+				514-572</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td colspan="1" rowspan="1">
+				（追尊）</td>
+			<td colspan="1" rowspan="1">
+				兴宁陵</td>
+		</tr>
+		<tr>
+			<td>
+				唐高祖</td>
+			<td>
+				神尧大圣大光孝皇帝</td>
+			<td colspan="1" rowspan="1">
+				李渊</td>
+			<td colspan="1" rowspan="1">
+				566-635</td>
+			<td>
+				618-626</td>
+			<td colspan="1" rowspan="1">
+				武德</td>
+			<td>
+				唐献陵</td>
+		</tr>
+		<tr>
+			<td>
+				唐太宗</td>
+			<td>
+				文武大圣大广孝皇帝</td>
+			<td colspan="1" rowspan="1">
+				李世民</td>
+			<td colspan="1" rowspan="1">
+				599-649</td>
+			<td>
+				626-649</td>
+			<td colspan="1" rowspan="1">
+				贞观</td>
+			<td>
+				唐昭陵</td>
+		</tr>
+		<tr>
+			<td>
+				唐高宗</td>
+			<td>
+				天皇大圣大弘孝皇帝</td>
+			<td colspan="1" rowspan="1">
+				李治</td>
+			<td colspan="1" rowspan="1">
+				628-683</td>
+			<td>
+				649-683</td>
+			<td colspan="1" rowspan="1">
+				永徽<br />
+				显庆<br />
+				龙朔<br />
+				麟德<br />
+				乾封<br />
+				总章<br />
+				咸亨<br />
+				上元<br />
+				仪凤<br />
+				调露<br />
+				永隆<br />
+				开耀<br />
+				永淳<br />
+				弘道</td>
+			<td>
+				唐乾陵</td>
+		</tr>
+		<tr>
+			<td>
+				唐义宗</td>
+			<td>
+				孝敬皇帝</td>
+			<td>
+				李弘[1]</td>
+			<td>
+				652-675</td>
+			<td>
+				-</td>
+			<td>
+				（追尊）</td>
+			<td>
+				唐恭陵</td>
+		</tr>
+		<tr>
+			<td>
+				唐中宗 （被废）</td>
+			<td>
+				大和大圣大昭孝皇帝</td>
+			<td colspan="1" rowspan="1">
+				李显</td>
+			<td colspan="1" rowspan="1">
+				656-710</td>
+			<td>
+				684</td>
+			<td colspan="1" rowspan="1">
+				嗣圣</td>
+			<td>
+				唐定陵</td>
+		</tr>
+		<tr>
+			<td>
+				唐睿宗 （被废）</td>
+			<td>
+				玄真大圣大兴孝皇帝</td>
+			<td colspan="1" rowspan="1">
+				李旦</td>
+			<td colspan="1" rowspan="1">
+				662-716</td>
+			<td>
+				684-690[2]</td>
+			<td colspan="1" rowspan="1">
+				文明</td>
+			<td>
+				唐桥陵</td>
+		</tr>
+		<tr>
+			<td colspan="7" rowspan="1">
+				武后（武则天）称帝，改国号为周，史称武周。</td>
+		</tr>
+		<tr>
+			<td>
+				唐中宗 （复辟）</td>
+			<td>
+				大和大圣大昭孝皇帝</td>
+			<td>
+				李显</td>
+			<td>
+				656-710</td>
+			<td>
+				705-710</td>
+			<td>
+				神龙 景龙</td>
+			<td>
+				唐定陵</td>
+		</tr>
+		<tr>
+			<td>
+				恭宗</td>
+			<td>
+				殇皇帝（被废）</td>
+			<td>
+				李重茂</td>
+			<td>
+				695-714</td>
+			<td>
+				710</td>
+			<td>
+				唐隆</td>
+			<td>
+				-</td>
+		</tr>
+		<tr>
+			<td>
+				唐睿宗 （复辟）</td>
+			<td>
+				玄真大圣大兴孝皇帝</td>
+			<td>
+				李旦</td>
+			<td>
+				662-716</td>
+			<td>
+				710-712</td>
+			<td>
+				文明<br />
+				景云<br />
+				太极<br />
+				延和<br />
+				光宅<br />
+				垂拱<br />
+				永昌<br />
+				载初</td>
+			<td>
+				唐桥陵</td>
+		</tr>
+		<tr>
+			<td>
+				-</td>
+			<td colspan="1" rowspan="1">
+				让皇帝</td>
+			<td colspan="1" rowspan="1">
+				李宪</td>
+			<td colspan="1" rowspan="1">
+				679-742</td>
+			<td>
+				-</td>
+			<td colspan="1" rowspan="1">
+				（追尊）</td>
+			<td colspan="1" rowspan="1">
+				唐惠陵</td>
+		</tr>
+		<tr>
+			<td>
+				唐玄宗</td>
+			<td>
+				至道大圣大明孝皇帝</td>
+			<td>
+				李隆基</td>
+			<td>
+				685-762</td>
+			<td>
+				712-756</td>
+			<td>
+				先天<br />
+				开元<br />
+				天宝</td>
+			<td>
+				唐泰陵</td>
+		</tr>
+		<tr>
+			<td>
+				-</td>
+			<td colspan="1" rowspan="1">
+				奉天皇帝</td>
+			<td colspan="1" rowspan="1">
+				李琮</td>
+			<td colspan="1" rowspan="1">
+				？-752</td>
+			<td>
+				-</td>
+			<td colspan="1" rowspan="1">
+				（追尊）</td>
+			<td colspan="1" rowspan="1">
+				唐齐陵</td>
+		</tr>
+		<tr>
+			<td>
+				唐肃宗</td>
+			<td>
+				文明武德大圣大宣孝皇帝</td>
+			<td>
+				李亨</td>
+			<td>
+				711-762</td>
+			<td>
+				756-762</td>
+			<td>
+				至德<br />
+				乾元<br />
+				上元<br />
+				宝应</td>
+			<td>
+				唐建陵</td>
+		</tr>
+		<tr>
+			<td>
+				-</td>
+			<td colspan="1" rowspan="1">
+				承天皇帝</td>
+			<td colspan="1" rowspan="1">
+				李倓</td>
+			<td colspan="1" rowspan="1">
+				？-757</td>
+			<td>
+				-</td>
+			<td colspan="1" rowspan="1">
+				（追尊）</td>
+			<td colspan="1" rowspan="1">
+				唐顺陵</td>
+		</tr>
+		<tr>
+			<td>
+				唐代宗</td>
+			<td>
+				睿文孝武皇帝</td>
+			<td>
+				李豫</td>
+			<td>
+				726-779</td>
+			<td>
+				762-779</td>
+			<td>
+				广德<br />
+				永泰<br />
+				大历</td>
+			<td>
+				唐元陵</td>
+		</tr>
+		<tr>
+			<td>
+				唐德宗</td>
+			<td>
+				神武孝文皇帝</td>
+			<td>
+				李适</td>
+			<td>
+				742-805</td>
+			<td>
+				779-805</td>
+			<td>
+				建中<br />
+				兴元<br />
+				贞元</td>
+			<td>
+				唐崇陵</td>
+		</tr>
+		<tr>
+			<td>
+				唐顺宗</td>
+			<td>
+				至德大圣大安孝皇帝</td>
+			<td colspan="1" rowspan="1">
+				李诵</td>
+			<td colspan="1" rowspan="1">
+				761-806</td>
+			<td>
+				805</td>
+			<td colspan="1" rowspan="1">
+				永贞</td>
+			<td>
+				唐丰陵</td>
+		</tr>
+		<tr>
+			<td>
+				唐宪宗</td>
+			<td>
+				圣神章武孝皇帝</td>
+			<td colspan="1" rowspan="1">
+				李纯</td>
+			<td colspan="1" rowspan="1">
+				778年-820年</td>
+			<td>
+				805-820</td>
+			<td colspan="1" rowspan="1">
+				元和</td>
+			<td>
+				唐景陵</td>
+		</tr>
+		<tr>
+			<td>
+				唐穆宗</td>
+			<td>
+				睿圣文惠孝皇帝</td>
+			<td>
+				李恒</td>
+			<td>
+				795年-824年</td>
+			<td>
+				820-824</td>
+			<td>
+				长庆</td>
+			<td>
+				唐光陵</td>
+		</tr>
+		<tr>
+			<td>
+				唐敬宗</td>
+			<td>
+				睿武昭愍孝皇帝</td>
+			<td>
+				李湛</td>
+			<td>
+				809年-826年</td>
+			<td>
+				824-826</td>
+			<td>
+				宝历</td>
+			<td>
+				唐庄陵</td>
+		</tr>
+		<tr>
+			<td>
+				唐文宗</td>
+			<td>
+				元圣昭献孝皇帝</td>
+			<td>
+				李昂</td>
+			<td>
+				809-840</td>
+			<td>
+				826-840</td>
+			<td>
+				太和<br />
+				开成</td>
+			<td>
+				唐章陵</td>
+		</tr>
+		<tr>
+			<td>
+				唐武宗</td>
+			<td>
+				至道昭肃孝皇帝</td>
+			<td>
+				李炎</td>
+			<td>
+				814-846</td>
+			<td>
+				840-846</td>
+			<td>
+				会昌</td>
+			<td>
+				唐端陵</td>
+		</tr>
+		<tr>
+			<td>
+				唐宣宗</td>
+			<td>
+				圣武献文孝皇帝</td>
+			<td colspan="1" rowspan="1">
+				李忱</td>
+			<td colspan="1" rowspan="1">
+				810-859</td>
+			<td>
+				846-859</td>
+			<td colspan="1" rowspan="1">
+				大中</td>
+			<td>
+				唐贞陵</td>
+		</tr>
+		<tr>
+			<td>
+				唐懿宗</td>
+			<td>
+				昭圣恭惠孝皇帝</td>
+			<td>
+				李漼</td>
+			<td>
+				833-873</td>
+			<td>
+				859-873</td>
+			<td>
+				咸通</td>
+			<td>
+				唐简陵</td>
+		</tr>
+		<tr>
+			<td>
+				唐僖宗</td>
+			<td>
+				惠圣恭定孝皇帝</td>
+			<td>
+				李儇</td>
+			<td>
+				862-888</td>
+			<td>
+				874-888</td>
+			<td>
+				&#160;乾符<br />
+				广明<br />
+				中和<br />
+				光启<br />
+				文德</td>
+			<td>
+				唐靖陵</td>
+		</tr>
+		<tr>
+			<td>
+				-</td>
+			<td colspan="1" rowspan="1">
+				前废帝（襄王）</td>
+			<td colspan="1" rowspan="1">
+				李熅</td>
+			<td colspan="1" rowspan="1">
+				？-886</td>
+			<td>
+				886</td>
+			<td colspan="1" rowspan="1">
+				建贞</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+		</tr>
+		<tr>
+			<td>
+				唐昭宗</td>
+			<td>
+				圣穆景文孝皇帝</td>
+			<td colspan="1" rowspan="1">
+				李晔</td>
+			<td colspan="1" rowspan="1">
+				867-904</td>
+			<td>
+				888-904</td>
+			<td colspan="1" rowspan="1">
+				龙纪<br />
+				大顺<br />
+				景福<br />
+				乾宁<br />
+				光化<br />
+				天复<br />
+				天祐</td>
+			<td>
+				唐和陵</td>
+		</tr>
+		<tr>
+			<td>
+				-</td>
+			<td colspan="1" rowspan="1">
+				后废帝（德王）[3]</td>
+			<td colspan="1" rowspan="1">
+				李裕/李缜</td>
+			<td colspan="1" rowspan="1">
+				？-905</td>
+			<td>
+				900-901 （51天）</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+		</tr>
+		<tr>
+			<td>
+				唐哀帝</td>
+			<td>
+				昭宣光烈孝皇帝</td>
+			<td colspan="1" rowspan="1">
+				李柷</td>
+			<td colspan="1" rowspan="1">
+				892-908</td>
+			<td>
+				904-907</td>
+			<td colspan="1" rowspan="1">
+				天祐</td>
+			<td>
+				唐温陵</td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT:2em">
+	嘻嘻网注：</p>
+<p style="TEXT-INDENT:2em">
+	1、李弘为唐高宗嫡长子，太子，但先于其父去世，高宗赐谥“孝敬皇帝”。唐中宗年间追尊庙号“义宗”，睿宗年间取消庙号，但称孝敬皇帝，迁往洛阳供奉。</p>
+<p style="TEXT-INDENT:2em">
+	2、武后临朝称制。</p>
+<p style="TEXT-INDENT:2em">
+	3、李裕为唐昭宗嫡长子，太子。900年十一月，宦官刘季述、王仲先等人发动政变，囚禁唐昭宗、何皇后及后宫妃嫔，逼迫昭宗传位李裕，改名李缜，名义上尊被囚禁的昭宗和皇后为太上皇和太上皇后。次年正月，昭宗复辟，将李裕改回原名，降封为德王（后改濮王）。905年，朱全忠将李裕等九名兄弟一并杀害。</p>
+<p style="TEXT-INDENT:2em">
+	4、李耳是否存在及生卒时间均有争议。&#160; &#160;&#160;</p>
+<p style="text-align: center;">
+	<strong style="text-align: center; text-indent: 28px;">武周皇帝庙号谥号年号生卒皇陵一览表</strong></p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="margin: auto; width: 80%;">
+	<tbody>
+		<tr>
+			<th>
+				庙号</th>
+			<th>
+				谥号</th>
+			<th>
+				姓名</th>
+			<th>
+				在世时间</th>
+			<th>
+				在位时间</th>
+			<th>
+				年号</th>
+			<th>
+				皇陵</th>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td colspan="1" rowspan="1">
+				齐圣皇帝</td>
+			<td colspan="1" rowspan="1">
+				姒启</td>
+			<td colspan="1" rowspan="1">
+				前21世纪</td>
+			<td colspan="1" rowspan="1">
+				（追尊）</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				周始祖</td>
+			<td colspan="1" rowspan="1">
+				文皇帝</td>
+			<td colspan="1" rowspan="1">
+				姬昌</td>
+			<td colspan="1" rowspan="1">
+				前12世纪</td>
+			<td colspan="1" rowspan="1">
+				（追尊）</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				周睿祖</td>
+			<td colspan="1" rowspan="1">
+				康皇帝</td>
+			<td colspan="1" rowspan="1">
+				姬武1</td>
+			<td colspan="1" rowspan="1">
+				前8世纪</td>
+			<td colspan="1" rowspan="1">
+				（追尊）</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				周严祖</td>
+			<td colspan="1" rowspan="1">
+				成皇帝</td>
+			<td colspan="1" rowspan="1">
+				武克己</td>
+			<td colspan="1" rowspan="1">
+				5-6世纪</td>
+			<td colspan="1" rowspan="1">
+				（追尊）</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				周肃祖</td>
+			<td colspan="1" rowspan="1">
+				章敬皇帝</td>
+			<td colspan="1" rowspan="1">
+				武居常</td>
+			<td colspan="1" rowspan="1">
+				6世纪</td>
+			<td colspan="1" rowspan="1">
+				（追尊）</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				周烈祖</td>
+			<td colspan="1" rowspan="1">
+				浑元昭安皇帝</td>
+			<td colspan="1" rowspan="1">
+				武俭</td>
+			<td colspan="1" rowspan="1">
+				6世纪</td>
+			<td colspan="1" rowspan="1">
+				（追尊）</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				周显祖</td>
+			<td colspan="1" rowspan="1">
+				立极文穆皇帝</td>
+			<td colspan="1" rowspan="1">
+				武华</td>
+			<td colspan="1" rowspan="1">
+				6-7世纪</td>
+			<td colspan="1" rowspan="1">
+				（追尊）</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				周太祖</td>
+			<td colspan="1" rowspan="1">
+				无上孝明高皇帝</td>
+			<td colspan="1" rowspan="1">
+				武士彟</td>
+			<td colspan="1" rowspan="1">
+				559－635</td>
+			<td colspan="1" rowspan="1">
+				（追尊）</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td colspan="1" rowspan="1">
+				吴陵</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				周世祖</td>
+			<td align="center">
+				则天大圣皇帝</td>
+			<td colspan="1" rowspan="1">
+				武曌</td>
+			<td colspan="1" rowspan="1">
+				624-705</td>
+			<td>
+				690-705</td>
+			<td colspan="1" rowspan="1" valign="top">
+				光宅<br />
+				垂拱<br />
+				永昌<br />
+				载初<br />
+				天授<br />
+				如意<br />
+				长寿<br />
+				延载<br />
+				证圣<br />
+				天册万岁<br />
+				万岁登封<br />
+				万岁通天<br />
+				神功<br />
+				圣历<br />
+				久视<br />
+				大足<br />
+				长安<br />
+				神龙</td>
+			<td>
+				唐乾陵</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				周太宗</td>
+			<td colspan="1" rowspan="1">
+				大和大圣大昭孝皇帝</td>
+			<td colspan="1" rowspan="1">
+				武显</td>
+			<td colspan="1" rowspan="1">
+				705年1月-3月3日</td>
+			<td colspan="1" rowspan="1">
+				656-710</td>
+			<td colspan="1" rowspan="1">
+				神龙</td>
+			<td colspan="1" rowspan="1">
+				唐定陵</td>
+		</tr>
+		<tr>
+			<td colspan="7" rowspan="1">
+				注释： 除则天大圣皇后外，均为武则天及其儿孙追谥或改谥。</td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT:2em">
+	&#160; 嘻嘻网注：</p>
+<p style="TEXT-INDENT:2em">
+	根据《元和姓纂》记载：“周平王少子生而有文在手，曰武，遂以为氏。”姬武因此被视为武氏先祖。但多数学者认为此人纯属武则天杜撰。</p>
+<p style="text-indent: 2em;">
+	<a href="http://www.xixik.com/content/5f04921d22afdd67">武曌本名不详，曾为唐太宗才人，赐号“武媚”</a>，后为高宗昭仪、皇后，为孝敬皇帝李弘、安定思公主、章怀太子李贤、中宗李显、睿宗李旦、太平公主生母。</p>
+<p style="text-indent: 2em;">
+	麟德元年（664年），开始与高宗一同临朝听政。</p>
+<p style="text-indent: 2em;">
+	上元元年（674年）八月，李治称天皇，武则天称天后。</p>
+<p style="text-indent: 2em;">
+	永淳二年（683）十二月，唐高宗驾崩，皇太子李显即位。</p>
+<p style="text-indent: 2em;">
+	光宅元年（684年）二月，废李显为庐陵王，立豫王李旦为傀儡皇帝，本人以皇太后身份临朝称制。</p>
+<p style="text-indent: 2em;">
+	载初二年（691年）九月，武后登基称帝，成为中国历史上唯一的正统的女皇帝，改国号为“周”，史称“武周”，定都东都洛阳，改称神都，降李旦为皇嗣，赐武姓，以周文王为武氏始祖，并追尊武氏七世先祖，加封武氏宗亲。</p>
+<p style="text-indent: 2em;">
+	天册万岁元年（695年）正月初，武则天加号为“慈氏越古金轮圣神皇帝”。</p>
+<p style="text-indent: 2em;">
+	神龙元年（705年）正月，武则天病笃，张柬之、崔玄暐等重臣发动“神龙革命”，诛杀张昌宗、张易之兄弟及其党羽，逼迫武则天让位于太子李显。李显复位后为母亲上尊号为“则天大圣皇帝”，武周结束，唐朝复辟。</p>
+<p style="text-indent: 2em;">
+	同年十一月，武则天病逝，遗诏去帝号，称”则天大圣皇后“，与高宗合葬乾陵。</p>
+<p style="text-indent: 2em;">
+	唐隆元年（710年），改谥天后。</p>
+<p style="text-indent: 2em;">
+	景云元年（710年），改为大圣天后。</p>
+<p style="text-indent: 2em;">
+	延和元年（712年），改为天后圣帝，未几，改为圣后。</p>
+<p style="text-indent: 2em;">
+	开元四年（716年），改为则天皇后。</p>
+<p style="text-indent: 2em;">
+	天宝八载（749年），加谥则天顺圣皇后。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor10"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        唐朝32帝</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	如果把追封的<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，史学上不认可的<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>都算上去，<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>的第一位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>并非高祖李渊，而是德明<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>。这位德明<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>就是历史上赫赫有名的皋陶。根据《春秋》记载，皋陶曾辅佐过尧、舜、禹三代君主。他的官职是大理，大致相当于今日的大法官。也正因为如此，皋陶被史学界和法律界公认为“司法鼻祖”。相传，皋陶豢养了一只名叫獬豸的独角兽。这只神兽天性秉直，能够明断是非，它把角指向哪一方，哪一方必定就是作奸犯科之人。皋陶担任大理期间，没有虐刑，没有冤狱，天下太平。禹按禅让制举荐皋陶做他的继承人，“且授政”之时，皋陶却突然去世。皋陶官居大理，所以他的子孙就以父亲的官职——“理”为姓氏。这个“理”就是“李”的前身。唐高祖李渊认为李姓的始祖是皋陶，所以就追尊他为德明<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>的第二位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>——玄元<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>姓李名耳（约前571—前471）。如果李耳听起来还比较陌生的话，那他的另外一个称呼——老子——可就是家喻户晓、妇孺皆知了。《史记》载，“老子者，楚苦县厉乡曲仁里人也。姓李氏，名耳，字伯阳，谥曰聃。周守藏室之史也。”根据民间传说，李耳的母亲怀胎九九八十一年才生下了他。李耳生来就是白眉毛、白胡子，样子像个老头，所以就被称作老子。其实，这是一种以讹传讹的说法。实际上，在古代，老的读音和李相同，老子实际上就是小李子。老子著有《道德经》上下篇八十一章五千余言，被道教奉为经典，是被翻译语言最多（一千多种）的中国书籍。道教出现以后，老子被尊为“太上老君”。玄宗李隆基于天宝十三载尊奉李耳为<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，庙号圣祖，谥号高上大广道金阙玄元天皇大帝。</p>
+<p style="TEXT-INDENT:2em">
+	以上两位和李唐皇室之间是否真有渊源，尚且有待考证。但这第三位可是货真价实，童叟无欺。<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>的第三位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>是兴圣<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，此人名叫李暠（351年—417年）。李暠表字玄盛，其十六代祖正是汉代名将李广。李暠本人也是十六国时期西凉的创建者。李暠一生以恢复汉族正统为己任，虽然称王但仍然对偏安江南的东晋王朝奉表称臣。他也是那个时期著名的文学家。李暠一生“通涉经史”，“玩礼敦经”，著有《靖公堂颂》、《述志赋》、《槐树赋》等多首诗歌。东晋安帝义熙十三年（417年）二月，李暠病逝，其子李歆继位。李歆“繁刑峻法”，“ 大兴土木”，搞得西凉“人力凋残，百姓愁悴”，仅维持三年即为北凉所灭。李暠是唐高祖李渊的八代祖。李渊建国后便追崇他为兴圣<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>。</p>
+<p style="TEXT-INDENT:2em">
+	第四位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>名叫李熙。李熙是李暠的重孙、李歆的孙子，李渊的高祖父。李熙是北魏金门的镇守大将，曾经率军镇守武川（今内蒙古呼和浩特市武川县）。李渊称帝之后，即尊奉他为献祖，谥号宣帝。</p>
+<p style="TEXT-INDENT:2em">
+	第五位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>是李天锡。李天锡是李熙的儿子，李渊的曾祖父。李渊建国后，即尊奉他为懿祖，谥号光帝。</p>
+<p style="TEXT-INDENT:2em">
+	第六位名叫李虎（?～551年）。李虎是李天锡的儿子，李渊的爷爷。李唐王朝的基础其实都是这位李虎奠定的。李虎官至太尉，位列西魏府兵八位柱国大将军之一。李虎和北周的奠基者宇文泰既是上下级，也是朋友。宇文觉（宇文泰之子）建立北周之时，李虎已死，但是仍然被列为开国第一功臣，赐姓大野氏，追封唐国公。李唐的国号就是来源于李虎。李渊称帝后，便尊奉李虎为太祖，谥号景帝。今天中文中的“马桶”一词的由来也和李虎大有关系。古代本将夜壶称为“虎子”。到了唐代，为了避李虎的名讳，便将虎子改为马子。马子后来又改为马桶，一直沿用至今。</p>
+<p style="TEXT-INDENT:2em">
+	第七位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>李昞（?—573年）是李虎的三子，李渊的父亲。李昞是北周的骠骑大将军。他和后来的隋文帝杨坚都娶了独孤信的女儿做老婆（李渊娶了老四，杨坚娶了老七）。杨坚称帝建国后，封姐夫李昞为唐国公。李渊尊奉李昞为世祖，谥号元帝。</p>
+<p style="TEXT-INDENT:2em">
+	以上七位其实只是礼教意义上的<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，大唐帝国的真正创建者则是李渊（566年—635年）。<a href="http://www.xixik.com/content/d7605196314fc5e5">李渊和隋炀帝杨广是姨表兄弟</a>。公元615年，李渊调任晋阳留守。公元617年7月，李渊晋阳起兵，并于当年11月攻占了长安。他拥立代王杨侑为<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，自封为大丞相和唐王，受九锡。表哥死后，李渊迫使杨侑将帝位传给他，建立<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>。李渊庙号高祖，谥号为神尧大圣大光孝<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，葬于献陵。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>的第九位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>正是大名鼎鼎的李世民（599年1月23日-649年7月10日）。李世民的名字取自成语“济世安民”。李唐得以建国，李世民功劳居首。玄武门政变后，李世民登上了<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>宝座。登基之初，全国户口仅有二百九十万，经过李世民二十三年的努力，到高宗永徽三年（652年），人口已达到三百八十万户，社会安定，经济发展，国力雄厚，史称“贞观之治”。李世民为高宗、武后、玄宗年间大唐的盛世奠定了基础。李世民驾崩后，群臣上谥号为文武大圣大广孝<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，庙号太宗，葬于昭陵。</p>
+<p style="TEXT-INDENT:2em">
+	第十位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>李治（628年-683年）是太宗李世民的第九子。贞观二十三年（公元650年）即位。古人和今人多认为李治一生碌碌无为。实际的情形却并非如此。贞观晚期进行的辽东战争已经使“贞观之治”的盛世局面岌岌可危。李治尚未正式登基，便下令：“罢辽东之役及诸土木之功”。他在位期间，灭西突厥，将倭国逐出百济，平高句丽，大唐疆域之广达到巅峰，史称“永徽之治”。李治同时也是<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>上使用年号最多的<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，在位的三十四年间，他一共更换了十四个年号。嗣圣元年（公元683年），李治病逝，庙号高宗，谥号天皇大圣大弘孝<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，葬于乾陵。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>的第十一位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>名叫李弘（652-675）。李弘是高宗李治的第五子，他的母亲就是<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>上唯一的女皇——武则天。公元656年，原太子李忠被废，高宗改立代王李弘为太子。李弘聪明伶俐、宅心仁厚。他的两个异母姐姐——义阳公主与宣城公主——是武后死敌萧淑妃的女儿。武后将她们幽禁在后宫，年过二十还没有结婚（这在那个年代是相当可怕的事情）。李弘得知此事后，便请求父皇、母后，希望能让两位姐姐成婚。这件事情触怒了武后，李弘从此渐渐不得母亲喜爱。公元675年，李弘与高宗、武后同赴合璧宫时暴卒。人们多认为李弘遭到了武后的毒杀。高宗悲痛万分，追封李弘为义宗，谥号孝敬<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>的第十二位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>是李显（656年-710年）。李显是高宗和武后的第三子，也是义宗的亲弟弟。他的两位哥哥李弘和李贤相继被废后，他继立为太子，并于高宗驾崩后即位。李显打算将韦皇后的父亲韦玄贞提拔为侍中，遭到了武后一党的反对。李显在盛怒之下说，只要他愿意，把天下给韦玄贞又有何不可。武太后以此为借口逼他逊位，贬为庐陵王。公元699年，武则天将李显重新立为太子。公元705年，李显二次登基并恢复<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>国号。李显成为自商朝太甲以来的第一位两朝天子。公元710年，李显被自己的老婆韦皇后和女儿安乐公主毒死。李显庙号中宗，谥号为大和大圣大昭孝<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，葬于定陵。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>的第十三位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>是李显的亲弟弟李旦（662—716）。史载，“（李旦）谦恭孝友，好学，工草隶，尤爱文字训诂之书”。 684年二月，武太后废掉中宗，立李旦为傀儡<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>。690年9月，武则天称帝，改国号为周，封他为皇嗣，改姓武。705年，张柬之等人发动政变，逼武则天退位，迎中宗复位。710年，中宗被韦皇后毒杀，改立少帝李重茂，改元唐隆。同年6月，临淄王李隆基发动羽林军将领拥兵入宫，讨杀韦皇后一党，与太平公主一起拥立李旦复位。712年7月，李旦禅位于太子李隆基，自称太上皇，时年51岁。李旦也因此成为了<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>上最年轻的太上皇。716年6月，李旦病逝于长安宫百福殿。李旦庙号睿宗，谥号为玄真大圣大兴孝<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，葬于桥陵。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>的第十四位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>名叫李重茂（694年-714年）。李重茂是唐中宗的第四子，生母不详。710年7月，中宗被毒死两个月之后，韦皇后立年仅16岁的李重茂为帝，自己临朝称制。李重茂是<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>在位时间最短的<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>。他当<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>还不到一个月，李旦的儿子临淄王李隆基和妹妹太平公主联手发动政变，诛杀了韦后一党，逼李重茂让位于李旦。李重茂的哥哥谯王李重福发动了叛乱，结果遭到挫败，李重茂也受到牵连，被贬往地方，没过一年就不明不白地死在了房州，年仅20岁。李重茂没有庙号，谥号为殇帝。</p>
+<p style="TEXT-INDENT:2em">
+	第十五位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>是李宪，原名李成器（679-741）。李宪是睿宗李旦的长子。睿宗初登帝位之后，便立李宪为长子。武则天称帝后，睿宗李旦被降为皇嗣，他也被降为皇孙。710年，他的弟弟李隆基发动政变，尊奉李旦复位。李宪主动将太子之位让于三弟李隆基。李宪通晓音律，而且“恭谨自守，不妄交结，不预朝政”，深受玄宗李隆基的信任。开元二十九年十一月，李宪病死。玄宗追谥他为让<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>（没有庙号）。</p>
+<p style="text-align:center;">
+	<img src="http://img.xixik.net/custom/section/chinese-emperors/tang/xixik-338ba1e0147bbd59.jpg" style="width: 90%; max-width: 90%;" /></p>
+<p style="TEXT-INDENT:2em">
+	《虢国夫人游春图》，唐代画家张萱的画作 ，绢本设色。原作已佚，现存的是宋代摹本，因金章宗完颜璟判断失误而题为宋徽宗摹本，现藏于辽宁省博物馆。此图描绘的是天宝十一年（752年），再现唐玄宗的宠妃杨玉环的三姊虢国夫人及其眷从盛装出游，“道路为（之）耻骇”的典型环境。</p>
+<p style="TEXT-INDENT:2em">
+	第十六位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>就是声名显赫的李隆基（685年-762年）。李隆基为睿宗李旦第三子。他生于武则天垂拱元年八月初五（公元685年9月8日），开元元年（公元713年）至天宝十五载（公元756年）的四十三年间在位，在四川呆了两年，返回长安后又无比郁闷地继续了五年的太上皇生活，享年七十八岁。李隆基可以说是<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>上最具传奇色彩的<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>了。他一手开拓了“开元盛世”，却又一手酿成了“天宝之乱”。他在位期间，是<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>由盛而衰的关键时期。他和杨贵妃的爱情故事传为千古美谈。李隆基庙号为玄宗，谥号为至道大圣大明孝<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，葬于泰陵。清朝时期，世人为了避康熙<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>的名字玄烨，便称李隆基为唐明皇。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>的第十七位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>名叫李琮（?-752年）。李琮是玄宗李隆基的长子，752年五月病死，被玄宗追谥为靖德太子。其弟肃宗李亨即位后，追谥李琮为奉天<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>。</p>
+<p style="TEXT-INDENT:2em">
+	第十八位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>是李亨（711年—762年），原名嗣升。738年，皇太子李瑛罪贬废死，忠王李嗣升被立为太子。744年，该名为亨。756年，安史之乱爆发。翌年六月，潼关陷落，玄宗携宗室仓皇出逃。行至马嵬坡时，军队发生哗变，诛杀了杨氏一门。受群众的挽留，李亨留下，随即北上灵武，并于七月即<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>位。760年，玄宗病逝于西内甘露殿。十三天后，宫中发生政变，宦官李辅国率众诛杀了张皇后和越王李系。本就病入膏肓的肃宗在气病交加之下，一命呜呼，享年五十二岁。李亨庙号肃宗，谥号为文明武德大聖大宣孝<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，葬于建陵。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>的第十九位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>名叫李倓。李倓是肃宗李亨的第三个儿子。玄宗西逃之时，李倓与宦官李辅国进谏其父李亨，劝他收拾兵马北上，领导军民抵抗叛军。在北上途中，李倓率骁骑数百，每战在前。李亨称帝后，李倓统军作战，多次击溃盘踞关中的叛军。李倓为人正直，多次向肃宗揭露李辅国、张皇后二人罪恶。李辅国与张皇后设计陷害李俶，肃宗听信谗言，竟然将李倓赐死。代宗李豫登基之后，于768年追谥李倓为承天<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>。</p>
+<p style="TEXT-INDENT:2em">
+	第二十位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>名叫李豫，原名李俶，是肃宗李亨的长子。七五八年四月被立为太子。七六二年，李辅国发动政变之后，李俶于肃宗的灵柩前即位，并更名为豫。次年，安史之乱平定，大唐开始走向没落。当时，唐帝国的形势十分严峻，东有诸藩镇割据，北有回纥不断勒索，西有吐蕃时时侵扰。代宗笃信佛教，以至于“造金阁寺于五台山，铸铜涂金为瓦，所费巨亿”。779年，李豫去世，庙号为代宗，谥号为睿文孝武<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，葬于元陵。</p>
+<p style="TEXT-INDENT:2em">
+	第二十一位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>名叫李适（kuò）（742年-805年），乃代宗李豫长子。李适于大历十四年（779年）即位。翌年，为了改善财政，采纳宰相杨炎的建议，废除租庸调制，颁行两税法”。执政前期致力于削藩，但是由于处置失当，成效不大，诸藩相继称王、结盟，公然独立于唐王朝。李适被迫颁布《罪己诏》，唐廷对叛乱藩镇的绥靖政策自此确立。但是，在后期，李适日益变得贪婪自私，不但经常把国库赋税收入划拨到自己的内帑，还纵容在外宦官强令地方官进奉贡物，甚至在长安施行宫市以充实自己的小金库。为弥补中央财政，李适在全国范围内增收税间架、茶叶等杂税，导致民怨日深。805年，李适去世，庙号德宗，谥号为神武孝文<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，葬于崇陵。</p>
+<p style="TEXT-INDENT:2em">
+	第二十二位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>名叫李诵（761年-806年），唐德宗长子。李诵于805年即位。他在柳宗元、刘禹锡等人的支持，大胆改革德宗以来的弊政，贬斥贪官，废除宫市，停止盐铁进钱和地方进奉，并试图收回宦官兵权，史称“永贞革新”。但是，不久之后，李诵即罹患中风。当年八月，宦官俱文珍等勾结部分官僚和藩镇，逼其退位，传位于太子李纯，史称“二王八司马”。 李诵做了二十六年的太子，堪称<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>之最。他同时也是<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>在位时间最短的<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，在位时间不足200天，便进入了太上皇的角色。翌年，李诵去世，庙号顺宗，谥号为至德弘道大圣大安孝<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，葬于丰陵。</p>
+<p style="TEXT-INDENT:2em">
+	第二十三位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>名叫李纯（778～820）。李纯即位以后，经常阅读历朝实录。他以祖上圣明之君为榜样，认真总结历史经验，比较注重发挥群臣的作用。在位15年间，他勤勉政事，君臣同心同德，从而取得了元和削藩的巨大成果，并重振中央政府的威望，成就了<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>的中兴气象。但李纯后来好神仙之術，多服金丹，性情暴躁易怒，左右宦官不堪鞭笞。820年，李纯被內常侍陳弘志和王守澄合謀毒死。李纯庙号宪宗，谥昭文章武大圣至神孝<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，葬于景陵。</p>
+<p style="TEXT-INDENT:2em">
+	第二十四位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>名叫李恒（795年-824年），是宪宗的第三子。他在位期间，“宴乐过多，畋游无度”，“不留意天下之务”。 李恒认为藩镇已平，应当消兵，便令天下军镇有兵处每年在100人中限八人或逃或死，消其兵籍。被消除兵籍的军士无处可去，只好藏在山林。不久河朔三镇复叛，被消除兵籍的军士纷纷归附他们。朝廷内宦官权势日盛，官僚朋党斗争剧烈，使唐宪宗时期的“元和中兴”局面完全丧失。李恒后因服金石之药而死。庙号，穆宗，谥号为睿圣文惠孝<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，葬于光陵。</p>
+<p style="TEXT-INDENT:2em">
+	第二十五位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>名叫李湛（公元810-827年），唐穆宗的长子。824年，即<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>位。他即位后，奢侈荒淫，沉迷蹴踘，喜歡半夜在宮中捉狐狸（打夜狐）。宦官王守澄把持朝政，勾结权臣李逢吉，排斥异己，败坏纲纪。导致官府工匠突起暴动攻入宫廷的事件。李湛后为宦官刘克明等人杀害，年仅十八岁。李湛庙号敬宗，谥号睿武愍孝<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，葬于庄陵（今陕西省三原县东北30里）。</p>
+<p style="TEXT-INDENT:2em">
+	第二十六位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>名叫李昂（809年-840年），是穆宗的次子，敬宗的弟弟。他于826年登基。在位期间，朝臣朋党相互倾轧，官员调动频繁，政权甚至<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>的废立生杀均掌握在宦官手中。后起用李训、郑注等人，意欲铲除宦官。大和九年（835年），李训引诱宦官往左金吾卫衙中取石榴树上的“甘露”，企图将其一举消灭，但事情败露，导致宦官大肆屠杀朝官一千餘人，史称“甘露之变”。李昂被宦官钳制，慨叹自己受制于家奴，境遇不如汉献帝。总体而言，李昂执政期间政治黑暗，官员和宦竖争斗不断，是<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>社会走向没落的转型时期。840年，抑郁成病的李昂被宦官毒死。李昂庙号文宗，谥号为元圣昭献孝<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，葬于章陵。</p>
+<p style="TEXT-INDENT:2em">
+	第二十七位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>名叫李瀍（chán）（814年-846年），临死前改名“炎”。 李瀍是德宗的第五子，也是敬宗和文宗的弟弟。李瀍登基后，召李党领袖李德裕回朝，李德裕提倡“政归中书”，国家渐渐恢复元气，被称为“会昌中兴”。李瀍崇信道教，于845年下令打击佛教，史称“会昌灭法”。李瀍吃道士给他的长寿丹后中毒而死。李瀍庙号武宗，为至道昭肃孝<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，葬于端陵。</p>
+<p style="TEXT-INDENT:2em">
+	第二十八位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>名叫李忱（810年-859年），是穆宗的弟弟，敬宗、文宗和武宗的叔叔。李忱登基之前，为了逃避唐武宗的迫害，传说他当过和尚。唐武宗被道士上供的长寿丹毒死后，他被迎回长安登基做<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>。李忱登基后，<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>国势已很不景气，藩镇割据，牛李党争，农民起义，朝政腐败，官吏贪污，宦官专权，四夷不朝。李忱于846年把李德裕贬出朝廷，重用牛党的白敏中延续几十年的牛李党争最后以李党的彻底失败告终。对外关系上，李忱还趁吐蕃、回纥衰微，派兵收复了湟河之地，平定了吐蕃，“收三州七关，平江岭以南”，名义上打通了丝绸之路。李忱勤俭治国，体贴百姓，减少赋税，注重人才选拔，<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>国势有所起色，阶级矛盾有所缓和，百姓日渐富裕，使十分腐败的<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>呈现出“中兴”的小康局面，史称大中之治。859年，李忱因服用丹药中毒而死。李忱庙号宣宗，谥号为圣武献文孝<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，葬于贞陵。</p>
+<p style="TEXT-INDENT:2em">
+	第二十九位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>名叫李漼（cuǐ，833年-873年），宣宗长子。李漼“器度沈厚，形貌瑰偉”，“ 洞曉音律，猶如天縱”，但沉湎于酒色，以致政治腐败，藩镇割据重新兴起。他于873年举行了唐代最大规模的迎奉佛骨活动。李漼是<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>最后一个以长子即位而且是最后一个在长安平安度过帝王生涯的<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>。他把宣宗在位期间重新点燃起来的一点希望之光彻底熄灭了。翰林学士刘允章在《直谏书》中用“國有九破”描绘当时的局势：“終年聚兵，一破也。蠻夷熾興，二破也。權豪奢僭，三破也。大將不朝，四破也。廣造佛寺，五破也。賂賄公行，六破也。長吏殘暴，七破也。賦役不等，八破也。食祿人多，輸稅人少，九破也。”李漼于873年去世，庙号懿宗，谥号为昭圣恭惠孝<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，葬于简陵。</p>
+<p style="TEXT-INDENT:2em">
+	第三十位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>名叫李儇（xuān，862年-888年），是唐懿宗的第五子。他在位期间，将政事统统交给了宦官田令孜，自己去肆无忌惮地游乐，喜欢斗鸡、赌鹅。874年，王仙芝起义。翌年，黄巢起义。唐末农民战争爆发。文德元年（888年）三月六日，颠簸了半生的李儇去世。李儇庙号僖宗，谥号为惠圣恭定孝<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，葬于靖陵。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>的第三十一位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>名叫李晔（867~904），是唐懿宗第七子，唐僖宗的弟弟。李晔在为的十六年间，一直是藩镇朱温手中的傀儡。904年，李晔被朱温的党徒杀害。李晔庙号昭宗，谥号为圣穆景文孝<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>恭灵庄闵孝<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，葬于和陵。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>的最后一位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>名叫李柷（公元892-908年），是唐昭宗第九子。907年，朱温逼迫李柷下诏于二月行传禅之礼，将帝位禅让给朱温，奉朱温为帝。朱温改国号为梁，史称后梁。至此，立国总计274年的唐王朝灭亡。朱温封李柷为济阴王，迁居曹州。次年二月二十一日，朱温派人将李柷杀死。朱晃上谥号为哀<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>。后唐明宗李嗣源改哀帝的谥号为昭宣光烈孝<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，但庙号景宗未被採用，故后世称李柷为唐哀帝或唐昭宣帝。李柷葬于温陵。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor11"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        唐朝皇后</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<strong>唐朝皇帝皇后列表</strong>——唐朝是世界公认的中国最强盛的时代之一，但讲述唐朝皇后及嫔妃的历史却不多，以下是唐朝皇后列表是以历代皇帝为纲，汇集了唐朝历代皇后列表，如无立后以相当于皇后的嫔妃替代。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>一、高祖光孝帝李渊（566年—635年），神尧大圣大光孝皇帝、太武皇帝，618年—626年在位。</strong></p>
+<p style="TEXT-INDENT:2em">
+	窦皇后，太穆顺圣皇后，正室，生隐太子李建成、唐太宗李世民、卫王李玄霸、巢王李元吉、平阳昭公主。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>&#160;二、太宗广孝帝李世民（599年—649年），文武大圣大广孝皇帝、文帝、文武圣皇帝，627年—649年在位。</strong></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/126fc3a48ee38d70" title="不解之谜！长孙皇后的名字至今都是谜">长孙皇后</a>，文德顺圣皇后，小字观音婢，正室、皇后626年—636年，生太子常山王李承乾、濮王李泰、唐高宗李治、长乐公主、城阳公主、晋阳公主李明达、新城公主。<a href="http://www.xixik.com/content/fac74de9ce334ea7" target="_blank" title="李世民的老婆长孙皇后主动帮丈夫找漂亮女人">李世民的老婆长孙皇后主动帮丈夫找漂亮女人</a></p>
+<p style="TEXT-INDENT:2em">
+	<strong>三、高宗弘孝帝李治（628年—683年），天皇大圣大弘孝皇帝、天皇大帝650年—683年在位。</strong></p>
+<p style="TEXT-INDENT:2em">
+	1.王皇后，李治的原配皇后，并州祁县（今山西祁县）人。出身于太原王氏，因武则天被立为皇后而被废为庶人，改为蟒氏。收养宫人刘氏儿子李忠为子，后立为太子，被废黜。</p>
+<p style="TEXT-INDENT:2em">
+	2.则天顺圣皇后，武氏、武曌，唐太宗李世民才人、唐高宗李治昭仪、宸妃、皇后、皇太后、皇帝</p>
+<p style="TEXT-INDENT:2em">
+	<strong>四、中宗昭孝帝李显（656年—710年）大和大圣大昭孝皇帝、孝和皇帝，684年正月—710年在位。</strong></p>
+<p style="TEXT-INDENT:2em">
+	1.赵夫人，和思顺圣皇后，正室、英王妃、废黜、追谥皇后，710年被武后囚禁至死。</p>
+<p style="TEXT-INDENT:2em">
+	2.韦丽娘，太子妃，皇后683年，庐陵王妃683年，皇后705年—710年，皇太后710年，废黜，生邵王李重润（懿德太子）、永泰公主、永寿公主、长宁公主、安乐公主。被李隆基所杀。</p>
+<p style="TEXT-INDENT:2em">
+	<strong style="text-indent: 2em;">五、睿宗兴孝帝李旦（662年—716年），玄真大圣大兴孝皇帝、大圣贞皇帝，684年二月—690年，710年—712年在位。</strong></p>
+<p style="TEXT-INDENT:2em">
+	1.刘皇后，肃明顺圣皇后，正室、皇后、王妃684年—689年9月，生唐让帝李宪（太子李成器）、寿昌公主、代国公主李华婉被武曌勒令凌迟处死</p>
+<p style="TEXT-INDENT:2em">
+	2.窦德妃，昭明顺圣皇后，德妃684年—689年9月，生唐玄宗李隆基、金仙公主、玉真公主李持盈，被武后勒令凌迟处死。</p>
+<p style="TEXT-INDENT:2em">
+	<strong style="text-indent: 2em;">六、玄宗明孝帝李隆基，至道大圣大明孝皇帝，712年—756年在位。</strong></p>
+<p style="TEXT-INDENT:2em">
+	1.王皇后，正室、皇后712年—724年7月，被废黜。</p>
+<p style="TEXT-INDENT:2em">
+	2.杨贵嫔，元献皇后，良媛、贵嫔712年—?，生唐肃宗李亨、宁亲公主。</p>
+<p style="TEXT-INDENT:2em">
+	3.武惠妃，贞顺皇后，惠妃712年—737年12月，生夏悼王李一、怀思王李敏、上仙公主、寿王李瑁、盛宣王李琦、咸宜公主、太华公主。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>七、肃宗宣孝帝李亨，文明武德大圣大宣孝皇帝，756年—762年在位。</strong></p>
+<p style="TEXT-INDENT:2em">
+	1.吴皇后，章敬皇后，生唐代宗李豫。</p>
+<p style="TEXT-INDENT:2em">
+	2.张皇后，良娣、淑妃、皇后，生越王李係。</p>
+<p style="TEXT-INDENT:2em">
+	3.韦妃，正室、离婚，生兗王李僩、绛王李佺、永和公主、永穆公主。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>八、代宗孝武帝李豫，睿文孝武皇帝，762年—779年在位。</strong></p>
+<p style="TEXT-INDENT:2em">
+	1.睿贞皇后，沈夫人，妾室、追封皇后，生唐德宗李适在安史之乱中失踪。</p>
+<p style="TEXT-INDENT:2em">
+	2.独孤贵妃，贞懿皇后，贵妃762年4月—775年5月，生韩王李迥、华阳公主。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>九、德宗孝文帝李适，神武孝文皇帝，780年—805年在位。</strong></p>
+<p style="TEXT-INDENT:2em">
+	王皇后，昭德皇后，淑妃，皇后779年—786年11月，生唐顺宗李诵。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>十、顺宗安孝帝李诵，至德大圣大安孝皇帝，805年在位。</strong></p>
+<p style="TEXT-INDENT:2em">
+	王琅琊，庄宪皇后，正室、良娣、太上皇后、皇太后805年—816年，生唐宪宗李纯、汉阳公主、梁国公主。</p>
+<p style="TEXT-INDENT:2em">
+	&#160;<strong>&#160;十一、宪宗神孝帝李纯，昭文章武大圣至神孝皇帝，806年—820年在位。</strong></p>
+<p style="TEXT-INDENT:2em">
+	1.郭皇后，懿安皇后，贵妃、皇太后、太皇太后805年8月—?，生唐穆宗李恒、岐阳公主。</p>
+<p style="TEXT-INDENT:2em">
+	2.郑皇后，孝明皇后宫人，生唐宣宗李忱。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>十二、穆宗文惠孝帝李恒，睿圣文惠孝皇帝，821年—824年在位。</strong></p>
+<p style="TEXT-INDENT:2em">
+	1.王皇后，恭僖皇后，贵妃、皇太后、宝历皇太后812年—845年，生唐敬宗李湛。</p>
+<p style="TEXT-INDENT:2em">
+	2.萧贵妃，贞献皇后，贵妃、皇太后、积庆皇太后812年—?，生唐文宗李昂。</p>
+<p style="TEXT-INDENT:2em">
+	3.韦贵妃，宣懿皇后，贵妃、追封皇太后821年—?，生唐武宗李炎。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>十三、敬宗愍孝帝李湛，睿武昭愍孝皇帝，824年—826年在位。</strong></p>
+<p style="TEXT-INDENT:2em">
+	郭贵妃，贵妃，生晋王李普</p>
+<p style="TEXT-INDENT:2em">
+	<strong>十四、文宗献孝帝李昂，元圣昭献孝皇帝，826年—840年在位。</strong></p>
+<p style="TEXT-INDENT:2em">
+	1.王德妃，德妃，生庄洛太子李永。</p>
+<p style="TEXT-INDENT:2em">
+	2.杨贤妃，贤妃。</p>
+<p style="TEXT-INDENT:2em">
+	3.后宫，生李宗俭。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>十五、武宗肃孝帝李炎，至道昭肃孝皇帝，841年—846年在位。</strong></p>
+<p style="TEXT-INDENT:2em">
+	1.王贤妃，才人、贤妃840年—846年，自缢而死。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>十六、宣宗大孝帝李忱，圣武献文孝皇帝、元圣至明成武献文睿智章仁神聪懿道大孝皇帝、献文孝帝，847年—859年在位。</strong></p>
+<p style="TEXT-INDENT:2em">
+	晁美人，元昭皇后，美人、追封昭容、皇太后，847年—?，生唐懿宗李漼、万寿公主。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>十七、懿宗恭惠孝帝李漼，昭圣恭惠孝皇帝，859年—873年在位。</strong></p>
+<p style="TEXT-INDENT:2em">
+	1.王贵妃，惠安皇后，贵妃、追封皇后，860年—866年，生唐僖宗李儇。</p>
+<p style="TEXT-INDENT:2em">
+	2.王皇后，恭宪皇后，皇后，生李晔。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>十八、昭宗景文孝帝李晔，襄宗、圣穆景文孝皇帝、恭灵庄悯孝皇帝，889年—904年在位。</strong></p>
+<p style="TEXT-INDENT:2em">
+	何皇后，积善皇后，淑妃、皇后、皇太后、积善皇太后，888年3月—?，生德王李裕、唐哀帝李祝。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>十九、唐哀帝李拀（892年-908年），原名祚。唐昭宗第九子，唐朝末代皇帝（第二十代，去武则天以外，904年—907年在位），在位3年，被废。次年死，享年17岁，葬于温陵。</strong></p>
+<p style="TEXT-INDENT:2em">
+	史书、史料没有后妃跟子嗣记载。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+    </div>
+    <script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        var value = '90';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script>
+    <div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/chinese-emperors/tang/" target="_self" title="唐朝皇帝列表_唐朝历代皇帝简介及在位年表_中国历朝帝王大全">唐朝皇帝列表</a></div>
+    <ul style="width: 960px; margin: auto; overflow: hidden;">
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/lixi/"
+                title="人民币存款利率表，2019银行利息，银行存款利率，银行贷款利率">银行存款利息</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chaodai/zhou/"
+                title="周朝历史_西周历史_东周历史_周朝帝王列表">周朝历史</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证更换新政策_过期了该怎么办？">中国旅行证</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国总统_美国历任总统名单_美国总统简历生卒年份及所属党派">美国历任总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/baijiaxing-qq/"
+                title="百家姓qq头像,百家姓qq头像闪图大全_百家姓中国心qq头像">百家姓QQ头像</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="美宝证件_美宝需要哪些证件（美国出生纸_中国旅行证_美国护照_社会安全号_出生纸三级认证）">美宝需要哪些证件？</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_去美国生孩子费用预算清单2019">赴美生子要多少钱</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/obama/"
+                title="奥巴马_美国总统奥巴马_贝拉克·奥巴马(Barack Hussein Obama)_第44任美国总统">奥巴马</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/trump/"
+                title="美国总统特朗普_唐纳德·约翰·特朗普_Donald John Trump_第45任美国总统川普">特朗普</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_去美国生孩子要多少钱？">赴美生子费用</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 中国护照免签证国家2019">中国护照免签证</a> </li>
+        
+    </ul>
+
+    <div class="lindBox">
+        <div class="btnGray">
+            <div class="btnText">
+                <a target="_self" title="唐朝皇帝列表_唐朝历代皇帝简介及在位年表_中国历朝帝王大全" href="http://news.xixik.com/word/90/">另存为<br />
+                    Word格式</a>
+            </div>
+        </div>
+    </div>
+    <div class="lindBox" style="text-align: center;">
+        <img src="http://news.xixik.com/qrcode/90/" alt="扫码手机上继续看" /><br />
+        <br />
+        <strong>用微信或者支付宝扫码在手机上继续观看<br />
+            可以保存收藏，也扫码后可以分享给好友
+        </strong>
+    </div>
+    <hr style="height: 1px; border: none; border-top: 1px dashed #999;" />
+    <script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script>
+<!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.-->
+
+</body></html>

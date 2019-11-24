@@ -1,0 +1,325 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>汉朝皇帝列表_西汉皇帝列表_东汉历代皇帝简介及在位年表</title><link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" /><meta name="description" content="汉朝（前202—220年）是继秦朝之后的大一统王朝，分为西汉和东汉两个时期，共29帝立国210年。前202年高祖刘邦建国，六月定都长安。公元九年，王莽篡夺政权，西汉结束。25年，参加反抗王莽政权的皇族刘秀称帝，建立东汉，定都洛阳。" /><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/chinese-emperors/han/"><meta http-equiv="Cache-Control" content="no-transform" /><meta http-equiv="Cache-Control" content="no-siteapp" /><base target="_blank" /><script>        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "chinese-emperors/han/";
+        }
+
+
+    </script><style>        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style></head><body><a name="top4"></a><div class="topBox" name="top"><div class="topMain"><div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div><div id="icoPhone"></div><div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div><div id="icoWechat"></div><div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a></div><div id="icoSina"></div><div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a></div><div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div><div class="topRight"></div></div></div><div id="showqrCode"><div><span></span></div><img src="" /><div><span></span></div></div><script type="text/javascript">        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script><div class="body"><div class="lindBox" style="position: relative;"><img src="http://img.xixik.net/custom/topic/001/han.jpg" alt="汉朝皇帝列表_西汉皇帝列表_东汉历代皇帝简介及在位年表" /><div class="title"><h1>汉朝皇帝列表_西汉皇帝列表_东汉历代皇帝简介及在位年表</h1></div></div><div class=" custom_border lindBox"><div class="special_content"><div class="content_text"><div class="content_daodu"></div><h2 style="border-bottom:1px dashed #999; displayinline;">汉朝皇帝列表</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.-->                    汉朝（前202—公元220年），史学界分为西汉和东汉，共29帝立国405年。汉高祖刘邦、汉惠帝刘盈、汉少帝刘恭、汉少帝刘弘、汉文帝刘恒、汉景帝刘启、汉武帝刘彻、汉昭帝刘弗陵、汉废帝刘贺、汉宣帝刘询、汉元帝刘奭、汉成帝刘骜、汉哀帝刘欣、汉平帝刘衎、汉孺子刘婴、王莽、汉更始帝刘玄、建世皇帝刘盆子、汉光武帝刘秀、汉明帝刘庄、汉章帝刘炟、汉和帝刘肇、汉殇帝刘隆、汉安帝刘祜、北乡侯刘懿125年、汉顺帝刘保、汉冲帝刘炳、汉质帝刘缵、汉桓帝刘志、汉灵帝刘宏、弘农怀王刘辩、汉献帝刘协。
+                </div></div></div><div class="lindBox" style="overflow: hidden;"><div class="gg1"><a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a></div><div class="guide"><div class="guideBorder" id="guideBorder"><div class="guideTitle">导读（目录）</div><ul id="guideDisplay"><li>·<a title="汉朝皇帝列表" href="#anchor1" target="_self"> 汉朝皇帝列表</a></li><li>·<a title="汉朝皇帝简介及在位时间" href="#anchor2" target="_self"> 汉朝皇帝简介及在位时间</a></li><li>·<a title="汉朝地图（汉朝疆域）" href="#anchor3" target="_self"> 汉朝地图（汉朝疆域）</a></li></ul><div class="guideOpen">展开&darr;</div></div></div><div class="guideFllow"><div class="guideFllowBorder"><div class="guideFllowTitle">导读（目录）</div><ul id="guideFllowDisplay"><li>·<a title="汉朝皇帝列表" href="#anchor1" target="_self"> 汉朝皇帝列表</a></li><li>·<a title="汉朝皇帝简介及在位时间" href="#anchor2" target="_self"> 汉朝皇帝简介及在位时间</a></li><li>·<a title="汉朝地图（汉朝疆域）" href="#anchor3" target="_self"> 汉朝地图（汉朝疆域）</a></li></ul><div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div></div></div><div class="gg2"><a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a></div></div><a name="anchor1"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        汉朝皇帝列表</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em"><strong>汉朝</strong>（Han Dynasty&nbsp;前202&mdash;公元220年），史学上分为西汉和东汉，共历二十九帝，享国四百零五年，是继<a href="http://114.xixik.com/chaodai/qin/" style="text-indent: 2em; color: rgb（0, 0, 0）;" title="秦朝">秦朝</a>之后强盛的大一统帝国。前202年高祖刘邦建国，定都长安。文景之治后，汉武帝刘彻进一步推动大一统事业，在&ldquo;昭宣中兴&rdquo;时达到极盛。公元九年，王莽篡夺政权，西汉结束。25年，皇族刘秀称帝，建立东汉，定都洛阳。开创了光武中兴和明章之治，万国来朝。汉朝是一个强大的帝国，创造了辉煌的文明，和之后的唐朝合称为&ldquo;强汉盛唐&rdquo;。汉朝时期，民族融合空前发展，对外交流频繁，国力和经济较为强盛。且文化的统一，为中华民族两千年的社会发展奠定了基础，为中华文明的延续和挺立千秋做出了巨大贡献。汉朝共历400多年。220年禅位于魏王曹丕，东汉结束。汉朝因尚火德故称为炎汉，又因<a href="http://www.xixik.com/content/c8051cfd4e9ea807" style="color:#000;">皇室姓刘而被称为刘汉</a>。</p><p style="TEXT-INDENT:2em">	汉朝是刘邦开国的，以王莽之乱为界，分为西汉、东汉，也叫前汉、后汉，这与&ldquo;汉朝&rdquo;是名实相同的；后来的三国时的蜀国，那是刘备自称中山靖王之后的&ldquo;王室血统&rdquo;；<a href="http://114.xixik.com/chaodai/5hu16guo/" style="color:#000" title="五胡乱华">五胡十六国</a>时期和五代十国时期的&ldquo;前汉、后汉&rdquo;，则是少数民族建立的政权，可以肯定与汉室的刘姓血统就没有任何关系了。</p><p style="TEXT-INDENT:2em"><strong>西汉<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>列表</strong></p><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%"><tbody><tr><th width="30">				庙号</th><th>				谥号</th><th>				姓名</th><th width="90">				在位时间</th><th width="30">				在位<br />				年数</th><th>				陵寝</th><th>				年号</th><th>				关系</th></tr><tr><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				太上皇①</td><td colspan="1" rowspan="1">				刘煓</td><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				万年</td><td colspan="1" rowspan="1">				-</td><td><br /></td></tr><tr><td>				太祖</td><td>				高<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></td><td>				刘邦</td><td>				前202-前195</td><td>				7年</td><td>				长陵</td><td><br /></td><td><br /></td></tr><tr><td>				-</td><td>				孝惠<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></td><td>				刘盈</td><td>				前195-前188</td><td>				8年</td><td>				安陵</td><td><br /></td><td>				刘邦 次子，嫡长子</td></tr><tr><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				前少帝③</td><td colspan="1" rowspan="1">				刘恭</td><td colspan="1" rowspan="1">				前188-前184</td><td colspan="1" rowspan="1">				5年</td><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				-</td><td>				刘盈长子</td></tr><tr><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				后少帝</td><td colspan="1" rowspan="1">				刘弘</td><td colspan="1" rowspan="1">				前184-前180</td><td colspan="1" rowspan="1">				5年</td><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				-</td><td>				刘盈四子， 刘恭异母弟</td></tr><tr><td>				太宗</td><td>				孝文<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></td><td>				刘恒</td><td>				前180-前157</td><td>				24年</td><td>				霸陵</td><td><br /></td><td>				刘邦第四子， 刘盈之弟</td></tr><tr><td>				-</td><td>				孝景<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></td><td>				刘启</td><td>				前157-前141</td><td>				16年</td><td>				阳陵</td><td><br /></td><td>				刘恒第五子， 嫡长子</td></tr><tr><td>				世宗</td><td>				孝武<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></td><td>				刘彻</td><td>				前141-前87</td><td>				54年</td><td>				茂陵</td><td>				建元 元光 元朔②&nbsp;元狩元鼎 元封</td><td>				刘启十子</td></tr><tr><td>				-</td><td>				孝昭<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></td><td>				刘弗陵</td><td>				前87-前74</td><td>				13年</td><td>				平陵</td><td>				始元 元凤 元平</td><td>				刘彻六子</td></tr><tr><td>				-</td><td>				废帝4/海昏侯④</td><td>				刘贺</td><td>				前74</td><td>				27天</td><td>				海昏侯墓</td><td>				元平</td><td>				刘彻之孙（第五子的儿子）</td></tr><tr><td>				中宗</td><td>				孝宣<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></td><td>				刘询</td><td>				前74-前49</td><td>				26年</td><td>				杜陵</td><td>				本始 地节 元康 神爵 五凤 甘露 黄龙</td><td>				刘彻曾孙</td></tr><tr><td>				高宗</td><td>				孝元<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></td><td>				刘奭⑤</td><td>				前49-前33</td><td>				16年</td><td>				渭陵</td><td>				初元 永光 建昭 竟宁</td><td>				刘询长子</td></tr><tr><td>				统宗</td><td>				孝成<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></td><td>				刘骜</td><td>				前33-前7</td><td>				26年</td><td>				延陵</td><td>				建始 河平 阳朔 鸿嘉 永始 元延 绥和</td><td>				刘奭长子</td></tr><tr><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				定陶恭王/恭皇<br />				（子刘欣追谥）</td><td colspan="1" rowspan="1">				刘康</td><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				-</td><td><br /></td></tr><tr><td>				-</td><td>				孝哀<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></td><td>				刘欣</td><td>				前7-前1</td><td>				6年</td><td>				义陵</td><td>				建平 太初元将 元寿</td><td>				刘奭之孙，刘骜之侄</td></tr><tr><td>				元宗</td><td>				孝平<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></td><td>				刘衎</td><td>				前1-6</td><td>				6年</td><td>				康陵</td><td>				元始</td><td>				刘奭之孙</td></tr><tr><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				孺子⑥</td><td colspan="1" rowspan="1">				刘婴</td><td>				6-85</td><td>				3年</td><td colspan="1" rowspan="1">				-</td><td>				居摄 初始</td><td><br /></td></tr><tr><td colspan="8" rowspan="1"><p>					注：①仅被尊为皇，而非<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a><br />					②汉武帝前三个年号为追加<br />					③两位少帝为汉惠帝之子，在位时并无实权，吕后称制，且在位时间太短，掌权的吕氏外戚集团被清除，通常不被视为正统<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a><br />					④废帝刘贺为汉武帝之孙，汉昭帝之侄，昌邑哀王刘髆之子，承继汉昭帝后嗣，在位仅27天便被霍光以上官太后名义废为昌邑王，公元前63年再被宣帝降为海昏侯，通常不被视为正统<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a><br />					⑤刘衎、刘骜、刘奭原立了庙号但后被取消。<br />					⑥刘婴为汉宣帝玄孙，公元6年，王莽以皇太后王政君的名义封其为皇太子，号&ldquo;孺子&rdquo;，承继汉平帝后嗣，并未真正登基，太皇太后据群臣之意，叫王莽代天子朝政，称假皇帝，臣民则称王莽为摄皇帝，但出行排场皆与皇帝无异，还住进了皇宫。王莽自称&rdquo;予&rdquo;，改年号&ldquo;居摄&rdquo;。公元9年，王莽废孺子为定安公并幽禁之，自立为帝。</p><p>					西汉，共历14帝、15主，刘婴没有称帝，只能称为&quot;汉末主&quot;。</p></td></tr></tbody></table><p style="TEXT-INDENT:2em"><strong>东汉<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>列表</strong></p><p style="text-indent: 2em; text-align: center;">	&nbsp;</p><p style="text-indent: 2em; text-align: center;"><img  src="http://img.xixik.net/custom/section/chinese-emperors/han/xixik-215248b50ae3ed00.jpg" /></p><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%"><tbody><tr><th>				庙号</th><th>				谥号</th><th width="40">				姓名</th><th>				在位<br />				时间</th><th width="30">				在位年数</th><th>				陵寝</th><th>				年号</th></tr><tr><td>				世祖</td><td>				光武<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></td><td>				刘秀</td><td>				25-57</td><td>				32年</td><td>				原陵</td><td>				建武 建武中元</td></tr><tr><td>				显宗</td><td>				孝明<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></td><td>				刘庄</td><td>				57-75</td><td>				18年</td><td>				显节陵</td><td>				永平</td></tr><tr><td>				肃宗</td><td>				孝章<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></td><td>				刘炟</td><td>				75-88</td><td>				13年</td><td>				敬陵</td><td>				建初 元和 章和</td></tr><tr><td>				穆宗</td><td>				孝和<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></td><td>				刘肇</td><td>				88-106</td><td>				18年</td><td>				慎陵</td><td>				永元 元兴</td></tr><tr><td>				-</td><td>				孝殇<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></td><td>				刘隆</td><td>				106</td><td>				8月</td><td>				康陵</td><td>				延平</td></tr><tr><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				清河孝王 孝德皇①（子刘祜追谥）</td><td colspan="1" rowspan="1">				刘庆</td><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				-</td></tr><tr><td>				恭宗</td><td>				孝安<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></td><td>				刘祜</td><td>				106-125</td><td>				19年</td><td>				恭陵</td><td>				永初 元初 永宁 建光 延光</td></tr><tr><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				北乡侯 前少帝③</td><td colspan="1" rowspan="1">				刘懿</td><td colspan="1" rowspan="1">				125</td><td colspan="1" rowspan="1">				7月</td><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				延光</td></tr><tr><td>				敬宗</td><td>				孝顺<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝④</a></td><td>				刘保</td><td>				125-144</td><td>				19年</td><td>				宪陵</td><td>				永建 阳嘉 永和 汉安 建康</td></tr><tr><td>				-</td><td>				孝冲<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></td><td>				刘炳</td><td>				144-145</td><td>				5月</td><td>				怀陵</td><td>				永熹</td></tr><tr><td>				-</td><td>				孝质<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></td><td>				刘缵</td><td>				145-146</td><td>				2年</td><td>				静陵</td><td>				本初</td></tr><tr><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				河间孝王 孝穆皇①（孙刘志追谥）</td><td colspan="1" rowspan="1">				刘开</td><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				乐成陵</td><td colspan="1" rowspan="1">				-</td></tr><tr><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				蠡吾侯 孝崇皇①（子刘志追谥）</td><td colspan="1" rowspan="1">				刘翼</td><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				博陵</td><td colspan="1" rowspan="1">				-</td></tr><tr><td>				威宗</td><td>				孝桓<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></td><td>				刘志</td><td>				146-168</td><td>				22年</td><td>				宣陵</td><td>				建和 和平 元嘉 永兴 永寿 延熹 永康</td></tr><tr><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				解渎亭侯 孝元皇①（孙刘宏追谥）</td><td colspan="1" rowspan="1">				刘淑</td><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				敦陵</td><td colspan="1" rowspan="1">				-</td></tr><tr><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				解渎亭侯 孝仁皇①（子刘宏追谥）</td><td colspan="1" rowspan="1">				刘苌</td><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				-</td><td colspan="1" rowspan="1">				-</td></tr><tr><td>				-</td><td>				孝灵<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a></td><td>				刘宏</td><td>				168-189</td><td>				22年</td><td>				文陵</td><td>				建宁 熹平 昭和 中平</td></tr><tr><td>				-</td><td>				弘农怀王 后少帝③</td><td>				刘辩</td><td>				189</td><td>				5月</td><td>				弘农怀王墓</td><td>				光熹 昭宁②</td></tr><tr><td>				-</td><td>				孝献<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>（魏明帝曹叡谥） 孝愍<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>（昭烈帝刘备谥）⑤</td><td>				刘协</td><td>				189-220</td><td>				31年</td><td>				禅陵</td><td>				永汉②中平 初平 兴平 建安 延康</td></tr><tr><td colspan="7" rowspan="1"><p>					注：①仅被尊为皇，而非<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a><br />					②永汉元年（189年）十二月，董卓以汉献帝名义下诏，废除光熹、昭平、永汉年号，改称中平六年<br />					③两位少帝在位时并无实权，由外戚掌权，且在位时间均不满一年，掌权的外戚集团被清除，通常不被视为正统<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a><br />					④初平元年（190年）有司奏请，和帝穆宗、安帝恭宗、顺帝敬宗、桓帝威宗无功德，不宜称宗；又恭怀皇后、敬隐皇后、恭愍皇后并非正嫡，不合称后，都请撤除尊号。献帝诏令说：&ldquo;可以。&rdquo;<br />					⑤220年，刘协被迫禅位于魏王曹丕，降封为山阳公，蜀中盛传刘协被杀，汉中王刘备上谥号&ldquo;孝愍<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>&rdquo;，而实际上刘协死于234年，魏明帝曹叡上谥号&ldquo;孝献<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>&rdquo;</p><p>					东汉，共历12帝。</p></td></tr></tbody></table><p>	&nbsp;</p></div></div></div><a name="anchor2"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        汉朝皇帝简介及在位时间</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	汉朝，中国历史上继秦朝之后又一个强大的大一统帝国。与欧洲的罗马帝国被誉为当时最强大的两个帝国。之所以强大与统治者的治理是分不开的，盘点一下汉朝的历代统治者吧。</p><p style="TEXT-INDENT:2em"><strong>汉朝皇帝列表</strong></p><p style="TEXT-INDENT:2em"><strong>西汉皇帝列表</strong></p><p style="TEXT-INDENT:2em"><strong>一、汉高祖刘邦</strong></p><p style="TEXT-INDENT:2em">	汉高祖刘邦(公元前256--前195年)，字季，号沛公，谥号高皇帝，庙号高祖。汉开国皇帝，为汉王4年，在帝位8年，于平定英布叛乱中胸部受箭伤，后创伤复发而死，终年53岁，葬于长陵(今陕西省咸阳市东35里处)。沛郡丰邑中阳里(现属江苏省徐州市丰县)人氏。生于周赧王五十九年即公元前二五六年二月初八日。他在兄弟四人中排行第三。性情豁达大度,知人善任。公元前二一六年，时年三十一岁，为泗水亭长。公元前二0九年壬辰岁九月，参加由陈胜,吴广带领的起义,后加入楚国的阵营,趁另一位将军项羽,和秦的大军打拉锯战,没有秦国主力和他的军队对阵之余,第一个攻进秦国的首都咸阳,灭了秦朝,被楚霸王项羽封为汉王.并以蜀地为基地,和项羽展开了长达四年的楚汉之争.公元前二0六年乙未岁称帝于洛阳，建立汉王朝,自此中华帝国在地理上再次统一,为以后的强大建立了基础.后迁都于长安(今西安市)在位十二年，卒于公元前一九五年丙午岁四月二十五日(甲辰日)。享年六十一岁，葬于陕西省西安咸阳县东，称长陵。妣吕雉，卒于公元前一七九年壬戌岁，葬于长安咸阳县东陵。</p><p style="TEXT-INDENT:2em"><strong>二、汉惠帝刘盈</strong></p><p style="TEXT-INDENT:2em">	汉惠帝刘盈(公元前211--前188年)，谥号孝惠帝，生于公元前二一一年。公元前一九四年丁未岁，年仅十七岁时登基，在位七年，卒于公元前一八八年癸丑岁，寿二十四岁。惠帝葬于陕西省西安咸阳县，称安陵。</p><p style="TEXT-INDENT:2em"><strong>三、汉文帝刘恒</strong></p><p style="TEXT-INDENT:2em">	汉文帝刘恒(公元前202--前157年)。高祖第三子，惠帝死后，吕后立非正统的少帝。吕后死后，周勃等杀死吕产，迎立刘恒为帝。在位23年，病死，终年46岁。葬于霸陵。</p><p style="TEXT-INDENT:2em">	汉文帝在位时，存在诸侯王国势力过大及匈奴入侵中原等问题。汉文帝对待诸侯王，采取以德服人的态度。道德方面，文帝亦曾经亲自为母亲薄氏尝药，深具孝心。后元七年六月己亥，汉文帝崩于长安未央宫，死后葬霸陵。在古代，有夺取天下之功的称为祖，有治理天下之德的称为宗。所以，其庙号太宗，谥号孝文皇帝。也是《二十四孝》中亲尝汤药的主角。</p><p style="TEXT-INDENT:2em"><strong>四、汉景帝刘启</strong></p><p style="TEXT-INDENT:2em">	汉景帝刘启，谥号孝景帝。生于公元前一八八年，公元前一五六年乙酉岁登基。继续实行“休养生息”的政策，社会经济繁荣，国内殷富，府库充实;同时实行“削藩”，任周亚夫平“吴楚七国之乱”，集权中央，削弱诸侯王之力量;国泰民安，世称文帝与景帝统治时为“文景之治”。在位十六年，卒于公元前一四一年，享年四十八岁。葬于陕西省西安咸阳县，称阳陵，坐东向西。</p><p style="TEXT-INDENT:2em">	汉景帝刘启在西汉历史上占有重要地位，他继承和发展了其父汉文帝的事业，与父亲一起开创了“文景之治”;又为儿子刘彻的“汉武盛世”奠定了基础，完成了从文帝到武帝的过渡。</p><p style="TEXT-INDENT:2em"><strong>五、汉武帝刘彻</strong></p><p style="TEXT-INDENT:2em">	汉武帝刘彻，谥号孝武帝。生于公元前一五六年，卒于公元前八七年。公元前一五0年立为太子，公元前一四0年辛丑岁登基，在位五十四年，病故于出巡途中，享年六十九岁，葬于葬于陕西省西安咸阳县，称茂陵，庙号世宗。</p><p style="TEXT-INDENT:2em">	汉武帝为巩固皇权，建立了中朝，在地方设置刺史。开创察举制选拔人才。采纳主父偃的建议，颁行“推恩令”，解决王国势力，并将盐铁和铸币权收归中央。文化上采用了董仲舒的建议，“罢黜百家，独尊儒术”。结束先秦以来“师异道，人异论，百家殊方”的局面。汉武帝时期开疆拓土，击溃匈奴、东并朝鲜、南诛百越、西愈葱岭，征服大宛，奠定了中华疆域版图，首开丝绸之路、首创年号，兴太学。</p><p style="TEXT-INDENT:2em"><strong>六、汉昭帝刘弗陵</strong></p><p style="TEXT-INDENT:2em">	汉昭帝刘弗陵(公元前94--前74年)。武帝少子，武帝死后继位。在位13年，病死，终年22岁，葬于平陵。(今陕西省咸阳市西北13里处)。</p><p style="TEXT-INDENT:2em"><strong>七、汉宣帝刘询</strong></p><p style="TEXT-INDENT:2em">	汉宣帝刘询，谥号孝宣帝，庙号中宗。生于公元前九0年，卒于公元前四九年，汉武帝刘彻之曾孙。太子刘据因发动夺宫事败，三子同时遇害，刘询为祖母史家收养，居于民间。公元前七三年戊申岁，霍光等将其从民间迎回登基，在位二十五年，享年四十一岁。</p><p style="TEXT-INDENT:2em">	宣帝在位期间，全国政治清明、社会和谐、经济繁荣、“吏称其职，民安其业”，史称“宣帝中兴”，还有史家说，宣帝统治时期是汉朝武力最强盛、经济最繁荣的时候。在以制定庙号、谥号严格著称的西汉历史中，中宗宣帝刘询是四位拥有正式庙号的皇帝之一 。刘询是中国历史上有名的贤君。</p><p style="TEXT-INDENT:2em"><strong>八、汉元帝刘奭</strong>(shì)</p><p style="TEXT-INDENT:2em">	汉元帝刘奭，谥号孝元皇帝，庙号高宗。生于公元前七六年，公元前四八年癸酉岁登基。公元前三三年，王昭君出塞和蕃，嫁于匈奴呼韩单于。卒于公元前三三年，在位十六年，享年四十三岁。葬于陕西省西安咸阳县，称渭陵。</p><p style="TEXT-INDENT:2em"><strong>九、汉成帝刘骜</strong></p><p style="TEXT-INDENT:2em">	汉成帝刘骜(公元前51--前7年)。元帝子，元帝死后继位，在位26年，病死。终年45岁，葬于延陵(今陕西省咸阳市西北15里处)。谥号孝成皇帝。</p><p style="TEXT-INDENT:2em"><strong>十、汉哀帝刘欣</strong></p><p style="TEXT-INDENT:2em">	汉哀帝刘欣，谥号孝哀帝，生于公元前二六年，卒于公元前一年，汉元帝刘奭之庶孙，父为刘康，成帝养子。公元前二二年，刘康去世，年仅三岁的刘欣嗣立为王，公元前六年乙卯岁登基，在位六年，享年二十六岁，葬于陕西省西安咸阳县。</p><p style="TEXT-INDENT:2em"><strong>十一、汉平帝刘衎</strong></p><p style="TEXT-INDENT:2em">	汉平帝刘衎，谥号孝平皇帝，是汉元帝刘奭之孙，中山孝王兴之子。生于公元前九年，卒于公元五年十二月。公元前六年辛酉岁，九岁时登基，后被王莽在酒中下毒害死，在位五年，享年十四岁，葬于陕西省西安咸阳县。</p><p style="TEXT-INDENT:2em"><strong>十二、更始帝刘玄</strong></p><p style="TEXT-INDENT:2em">	更始帝刘玄，生年不详，卒于公元二五年，汉景帝刘启之后裔，长沙王发之五世孙，公元二三年癸未岁二月登基。刘秀称帝后，被刘秀封为淮阳王，在位3年，被赤眉军勒杀，葬于霸陵。</p><p style="TEXT-INDENT:2em"><strong>东汉皇帝列表</strong></p><p style="TEXT-INDENT:2em"><strong>十三、光武帝刘秀</strong></p><p style="TEXT-INDENT:2em">	光武帝刘秀公元25年登基，公元57年去位。出生：公元前6年--去世:公元57年(在位32年)光武帝，姓刘名秀，字文叔。汉高祖刘邦的九世孙。参加绿林起义军后，在昆阳以少胜多，打败王莽军。25年刘秀称帝。死于公元57年，时年64岁。</p><p style="TEXT-INDENT:2em">	刘秀结束了自新莽末年以来长达近二十年的军阀混战与割据局面。刘秀在位三十三年，大兴儒学、推崇气节，东汉一朝也被后世史家推崇为中国历史上“风化最美、儒学最盛”的时代。</p><p style="TEXT-INDENT:2em"><strong>十四、汉明帝刘庄</strong></p><p style="TEXT-INDENT:2em">	明帝刘庄公元57年登基公元75年去位出生:公元28年--去世:公元75年(在位18年)明帝，刘秀的第四子。明帝在位时，吏治比较严明，赋税比较少，人民生活安定。死于75年，时年48岁。明帝时在洛阳建白马寺,这是佛教传入我国建立的第一个佛寺,至今仍存.</p><p style="TEXT-INDENT:2em"><strong>十五、汉章帝刘炟</strong></p><p style="TEXT-INDENT:2em">	汉章帝刘炟公元75年登基公元88年去位出生:公元58年--去世:公元88年(在位13年)章帝，明帝第五子。章帝“好儒术”，并且实行与民修养的政策,人口增长.在位时有班超出师西域。章帝还是一位书法家，尤善草书，后世称“章草”。死于88年，时年31岁。</p><p style="TEXT-INDENT:2em"><strong>十六、汉和帝刘肇</strong></p><p style="TEXT-INDENT:2em">	汉和帝刘肇公元88年登基公元105年去位出生:公元79年--去世:公元105年(在位17年)和帝刘肇，章帝第四子，即位时才10岁，由窦太后临朝称制，外戚窦宪掌实权。后杀窦宪掌权。在位18年，死于105年。时年27岁。谥号为孝和皇帝，庙号穆宗。</p><p style="TEXT-INDENT:2em"><strong>十七、汉殇帝刘隆</strong></p><p style="TEXT-INDENT:2em">	殇帝刘隆(公元105--106年)。和帝幼子，养于民间，东汉第五位皇帝。和帝死后继位，在位不足1年，病死，终年两岁，为历史上年龄最小的皇帝，葬于康陵(今河南省洛阳市东南)。</p><p style="TEXT-INDENT:2em"><strong>十八、汉安帝刘祜</strong></p><p style="TEXT-INDENT:2em">	安帝刘祜公元106年登基公元125年去位出生:公元94年--去世:公元125年(在位19年)安帝刘祜，章帝孙，父清河孝王刘庆，即位时才13岁，邓太后掌权。太后死后掌权。安帝时政治黑暗，社会矛盾尖锐。死于125年，时年32岁。</p><p style="TEXT-INDENT:2em"><strong>十九、汉顺帝刘保</strong></p><p style="TEXT-INDENT:2em">	顺帝刘保(公元115--144年)。安帝子，少帝死后被宦官拥立为帝，在位19年，病死，终年31岁，葬于宪陵。死后庙号敬宗，谥号孝顺皇帝。</p><p style="TEXT-INDENT:2em"><strong>二十、汉冲帝刘炳</strong></p><p style="TEXT-INDENT:2em">	冲帝刘炳公元144年登基公元145年去位出生:公元143年--去世:公元145年(在位1年)冲帝刘炳，顺帝的儿子，在位半年死，时年才3岁。</p><p style="TEXT-INDENT:2em"><strong>二十一、汉质帝刘缵</strong></p><p style="TEXT-INDENT:2em">	质帝刘缵公元145年登基公元146年去位出生:公元138年--去世:公元146年(在位1年)质帝刘缵，章帝的曾孙，渤海孝王刘鸿的儿子。即位时8岁，却颇伶俐。说大将军梁翼为“跋扈将军”，被梁翼毒死。时年9岁。</p><p style="TEXT-INDENT:2em"><strong>二十二、汉桓帝刘志</strong></p><p style="TEXT-INDENT:2em">	公元146年登基公元167年去位出生:公元132年--去世:公元167年(在位21年)桓帝刘志，章帝的曾孙。蠡吾侯刘异的儿子。桓帝即位时15岁，外戚掌权。后他依靠宦官诛杀外戚梁翼,此后又宦官专政。桓帝死于167年，时年36岁。</p><p style="TEXT-INDENT:2em"><strong>二十三、汉灵帝刘宏</strong></p><p style="TEXT-INDENT:2em">	灵帝刘宏公元168年登基公元189年去位出生:公元156年--去世:公元189年(在位21年)灵帝刘宏，章帝玄孙，桓帝死无子，刘宏即位。灵帝朝一团污气，宦官把持朝政，称“十常侍”。灵帝常说：「张常侍是我父，赵常侍是我母。」灵帝之世，民不聊生,买卖官爵，横征暴敛，社会矛盾激化，终于于184年，爆发了黄巾大起义。灵帝死于189年，时年33岁。</p><p style="TEXT-INDENT:2em"><strong>二十四、汉献帝刘协</strong></p><p style="TEXT-INDENT:2em">	献帝刘协公元189年登基公元220年去位出生:公元181年--去世:公元234年(在位31年)献帝刘协，灵帝的儿子，即位时9岁，董卓专权，后曹操迎献帝于许昌。220年，曹操死，曹丕自立为帝，建立魏国，汉亡，刘协被贬为山阳公，死于234年，时年54岁。</p><p style="TEXT-INDENT:2em">	汉朝是一个强大的帝国，创造了辉煌的文明，和之后的唐朝合称为“强汉盛唐”。汉帝国和同时期的罗马帝国与印度的孔雀王朝是当时世界上最先进的文明。汉朝统治时期所确立的社会与政治制度，一直延续到20世纪。到现在，中国人仍然称呼自己为“汉人”，而中华民族中以华夏族为主的中原部族集团亦慢慢被统称为“汉族”，其文字系统亦称为“汉字”。</p><p style="TEXT-INDENT:2em">	汉代起初在汉高祖刘邦时根据五德始终说，定正朔为水德，到汉武帝时，又改正朔为土德，直到王莽建立新朝，方才采用刘向刘歆父子的说法，认为汉朝属于火德。汉光武帝光复汉室之后，正式承认了这种说法，从此确立汉朝正朔为火德，东汉及以后的史书如汉书、三国志等皆采用了这种说法。因此汉朝有时也被称为“炎汉”，又因汉朝皇帝姓刘而称“炎刘”。</p></div></div></div><a name="anchor3"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        汉朝地图（汉朝疆域）</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="text-align: center;"><img src="http://img.xixik.net/custom/topic/xixik_00b3e3240871eba1.jpg" /></p><p style="text-align: center;">	西汉疆域图</p><p style="text-align: center;"><img src="http://img.xixik.net/custom/topic/xixik_444119581d1ae874.jpg" /></p><p style="text-align: center;"><img src="http://img.xixik.net/custom/topic/xixik_de7a5561c5760027.jpg" /></p><p style="text-align: center;">	汉朝13州</p><p style="TEXT-INDENT:2em">	汉朝建立初期，各地叛乱不断，高祖连征叛乱而无暇顾及边防。河南地复为匈奴所有。南越，闽越，黔中地 汉朝地图区趁机与汉朝脱离，后来文帝派人说服南越王和各国归顺，又恢复了一统的局面。但不久南越就因为荆州两湘地方不肯开关通商而肆起发动进攻。此时恰值汉武大帝时期，汉朝的文治武功已到极盛，遂彻底剿灭了南越王政权，南越也首次直接归中央管理。西元前127年，卫青北击匈奴，收复河南地、陇西、北地、上郡的北部，置朔方、五原二郡。云中、雁门二郡的北界也向外扩展。西汉的北部疆界至此推到河套，阴山以北。前121年，汉将霍去病出陇西击灭居于河西走廊的匈奴部落，以其地设酒泉郡。后又分割为张掖、敦煌、武威三郡。连同在湟水流域设置的金城郡，合城河西五郡。前138年，东瓯王迫于闽越王的威胁，举国内迁到今江淮流域。前110年，汉朝又灭亡了闽越国。前111年，汉朝平南越，又占有了海南岛，在该地设十郡。在西南地区，汉朝征服了诸国，边界推移到云南哀牢山和高贡黎山。东北地区灭亡了卫满朝鲜，设置了东北四郡。大汉帝国的国土已基本成型。而在西域设郡也加强了对西域的控制。</p><p style="TEXT-INDENT:2em">	西汉末期，由于帝国的衰落和皇室的动荡，疆域萎缩。东北撤销了真番、临屯二郡。西南地区由七郡变成五郡，并且放弃了海南岛与象郡。王莽代汉【大新帝国】时期已经仅剩秦朝时的疆域，西域各国因为大汉帝国的衰落而逐渐脱离管制。东汉王朝末年，中原战乱不断。遂放弃定襄、云中、五原、朔方、上郡、北地六郡。河套、陕北、晋西北、河北北部地方先后放弃。高句丽与林邑两国蚕食东北及南方国土。只有西南地区扩展至大盈江一带。</p></div></div></div></div><script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script><script type="text/javascript">        var value = '94';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script><div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/chinese-emperors/han/" target="_self" title="汉朝皇帝列表_西汉皇帝列表_东汉历代皇帝简介及在位年表">汉朝皇帝列表</a></div><ul style="width: 960px; margin: auto; overflow: hidden;"><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/lixi/"
+                title="人民币存款利率表，2019银行利息，银行存款利率，银行贷款利率">银行存款利息</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chaodai/zhou/"
+                title="周朝历史_西周历史_东周历史_周朝帝王列表">周朝历史</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证_中国旅行证更换新政策_美宝中国旅行证过期了该怎么办？">中国旅行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国历任总统名单_美国历届总统任期_美国总统简历生卒年份及所属党派">美国历届总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/baijiaxing-qq/"
+                title="百家姓qq头像,百家姓qq头像闪图大全_百家姓中国心qq头像">百家姓QQ头像</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="赴美生子_美宝证件_中国旅行证_美国护照_社会安全号_美国出生纸_美宝上户口">美宝需要哪些证件？</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_赴美生子费用预算清单_赴美生子2019费用">赴美生子要多少钱</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/obama/"
+                title="奥巴马_美国总统奥巴马_贝拉克·奥巴马(Barack Hussein Obama)_第44任美国总统">奥巴马</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/trump/"
+                title="美国总统特朗普_唐纳德·约翰·特朗普_Donald John Trump_第45任美国总统川普">特朗普</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_赴美生子要多少钱？_赴美生子预算表">赴美生子费用</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 中国护照免签证国家2019">中国护照免签证</a></li></ul><div class="lindBox"><div class="btnGray"><div class="btnText"><a target="_self" title="汉朝皇帝列表_西汉皇帝列表_东汉历代皇帝简介及在位年表" href="http://news.xixik.com/word/94/">另存为<br />                    Word格式</a></div></div></div><div class="lindBox" style="text-align: center;"><img src="http://news.xixik.com/qrcode/94/" alt="扫码手机上继续看" /><br /><br /><strong>用微信或者支付宝扫码在手机上继续观看<br />            可以保存收藏，也扫码后可以分享给好友
+        </strong></div><hr style="height: 1px; border: none; border-top: 1px dashed #999;" /><script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script><!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.--></body></html>

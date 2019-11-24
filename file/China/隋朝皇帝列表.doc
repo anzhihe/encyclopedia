@@ -1,0 +1,971 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <title>隋朝皇帝列表_隋朝历代皇帝简介及在位年表_中国历朝帝王大全</title>
+    <link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" />
+    <meta name="description" content="隋朝是我国历史上存在较短的王朝之一(公元581—618年)，仅存38年，前后仅文帝、炀帝、恭帝三代。隋又是承前启后的一个朝代。" />
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/chinese-emperors/sui/">
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <base target="_blank" />
+    
+    <script>
+        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "chinese-emperors/sui/";
+        }
+
+
+    </script>
+    <style>
+        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style>
+</head>
+<body>
+    <a name="top4"></a>
+    <div class="topBox" name="top">
+        <div class="topMain">
+            <div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div>
+            <div id="icoPhone"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div>
+            <div id="icoWechat"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a> </div>
+            <div id="icoSina"></div>
+            <div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a>  </div>
+            <div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div>
+            <div class="topRight">
+            </div>
+        </div>
+    </div>
+
+    <div id="showqrCode">
+        <div><span></span></div>
+        <img src="" /><div><span></span></div>
+    </div>
+    <script type="text/javascript">
+        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script>
+    <div class="body">
+        
+        <div class="lindBox" style="position: relative;">
+            <img src="http://img.xixik.net/custom/topic/001/sui.jpg" alt="隋朝皇帝列表_隋朝历代皇帝简介及在位年表_中国历朝帝王大全" />
+            <div class="title">
+                <h1>隋朝皇帝列表_隋朝历代皇帝简介及在位年表_中国历朝帝王大全</h1>
+            </div>
+        </div>
+        
+
+        <div class=" custom_border lindBox">
+            <div class="special_content">
+                <div class="content_text">
+                    <div class="content_daodu">
+                    </div>
+                    <h2 style="border-bottom:1px dashed #999; displayinline;">隋朝皇帝列表</h2>
+                    隋王朝是中国历史上第二个，也是最后一个两世而亡的朝代。它与另一个两世而亡的朝代秦相比，的确有许多相似之处。首先，隋与秦都是凭借强大的武力统一分裂多年的中国，而紧接着完成一系列改革，使经济得以发展。与此同时，又对人民大施徭役，致使民不聊生，终于使政权毁于一旦。然而，也正是凭借此时国家对物资财富丰盈的积累，为后世的发展创造了良好的物质条件。从而，带来了隋之后中华民族引以为骄傲的盛唐文化。
+                </div>
+            </div>
+        </div>
+
+        <div class="lindBox" style="overflow: hidden;">
+            <div class="gg1">
+                <a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a>
+            </div>
+            <div class="guide">
+                <div class="guideBorder" id="guideBorder">
+                    <div class="guideTitle">导读（目录）</div>
+                    <ul id="guideDisplay">
+                        
+                                <li>·<a title="隋朝皇帝列表" href="#anchor1" target="_self"> 隋朝皇帝列表</a></li>
+                            
+                                <li>·<a title="隋朝皇帝在位时间及简介" href="#anchor2" target="_self"> 隋朝皇帝在位时间及简介</a></li>
+                            
+                                <li>·<a title="谁是隋朝的末代皇帝" href="#anchor3" target="_self"> 谁是隋朝的末代皇帝</a></li>
+                            
+                    </ul>
+                    <div class="guideOpen">展开&darr;</div>
+                </div>
+            </div>
+
+            <div class="guideFllow">
+                <div class="guideFllowBorder">
+                    <div class="guideFllowTitle">导读（目录）</div>
+                    <ul id="guideFllowDisplay">
+                        
+                                <li>·<a title="隋朝皇帝列表" href="#anchor1" target="_self"> 隋朝皇帝列表</a></li>
+                            
+                                <li>·<a title="隋朝皇帝在位时间及简介" href="#anchor2" target="_self"> 隋朝皇帝在位时间及简介</a></li>
+                            
+                                <li>·<a title="谁是隋朝的末代皇帝" href="#anchor3" target="_self"> 谁是隋朝的末代皇帝</a></li>
+                            
+                    </ul>
+                    <div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div>
+                </div>
+            </div>
+
+
+            <div class="gg2">
+                <a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a>
+            </div>
+        </div>
+        
+        <a name="anchor1"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        隋朝皇帝列表</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/sui/" style="color:#000;" title="隋朝"><strong>隋朝</strong></a>也是中国古代大统一形势下短命的王朝之一。这是一个苦难而又辉煌，伟大与罪恶并存的皇朝。<a href="http://114.xixik.com/chaodai/sui/" style="color:#000;" title="隋朝"><strong>隋朝</strong></a>是<a href="http://114.xixik.com/chaodai/5hu16guo/" style="color:#000;" title="五胡十六国">五胡乱华</a>后汉族在北方重新建立的大一统王朝，结束了自西晋末年以来长达近300年的分裂局面。隋文帝杨坚，推行汉化，为后来唐宋汉文化大发展奠定基础。隋唐时期也是全世界公认的中国最强盛的时期 。杨坚之父杨忠，曾被北周封为&ldquo;隨国公&rdquo;。杨坚袭此封爵，即位后立国号为&ldquo;隨&rdquo;，但其认为&ldquo;隨&rdquo;有走的意思，恐不祥遂改为&ldquo;隋&rdquo;。年号也按照惯例改了，定为&quot;开皇&quot;。但都城没有变动，仍上长安。杨坚虽然改了随字，但隋朝还是没有逃脱短命的命运，仅仅三十年便灭了。说来也是巧合，当初杨坚夺取的是宇文氏的帝位，而他的儿子隋炀帝杨广也是命丧宇文氏之手。历史的相似：<a href="http://www.xixik.com/content/973d24649a4a920f" title="赵匡胤的天下赵光义坐 赵光义子孙的天下匡胤的子孙坐 ">赵光义子孙皇位终于又回到了赵匡胤后裔的手中 </a></p>
+<p style="TEXT-INDENT:2em">
+	大隋之盛世在中国乃至世界历史上空前，当时社会是繁荣与开放的社会,此时的中国国泰民安、经济繁荣、文化昌盛、社会安定，户口锐长，垦田速增，积蓄充盈，甲兵强锐，威动殊俗，幅员万里。有隋文帝开创的&ldquo;开皇之治&rdquo;。<a href="http://114.xixik.com/chinese-emperors/sui/" title="隋朝皇帝列表">隋朝皇帝列表</a>包含追尊未实际统治的君主。</p>
+<p style="text-indent: 2em; text-align: center;">
+	<strong>隋朝皇帝庙号谥号在位时间年号顺序表</strong></p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<th>
+				庙号</th>
+			<th>
+				谥号</th>
+			<th>
+				姓名</th>
+			<th>
+				在世时间</th>
+			<th>
+				年号</th>
+			<th>
+				使用时间</th>
+		</tr>
+		<tr>
+			<td>
+				太祖 （杨坚追尊）</td>
+			<td>
+				武元帝</td>
+			<td>
+				杨忠</td>
+			<td>
+				507年-568年</td>
+			<td>
+				-</td>
+			<td>
+				-</td>
+		</tr>
+		<tr>
+			<td colspan="0" rowspan="2">
+				高祖</td>
+			<td colspan="0" rowspan="2">
+				文帝</td>
+			<td colspan="0" rowspan="2">
+				杨坚</td>
+			<td colspan="0" rowspan="2">
+				541年-604年</td>
+			<td>
+				开皇</td>
+			<td>
+				581年-600年</td>
+		</tr>
+		<tr>
+			<td>
+				仁寿</td>
+			<td>
+				601年-604年</td>
+		</tr>
+		<tr>
+			<td>
+				世祖 （杨侗尊谥）</td>
+			<td>
+				明帝 （杨侗尊谥）<br />
+				闵帝 （窦建德尊谥）<br />
+				<a href="http://www.xixik.com/content/c9e2e34fd5705f92" title="杨广为什么被称隋炀帝？揭秘古代帝王谥号来历">炀帝 （李渊尊谥）</a></td>
+			<td>
+				杨广</td>
+			<td>
+				569年-618年</td>
+			<td>
+				大业</td>
+			<td>
+				604年-618年</td>
+		</tr>
+		<tr>
+			<td>
+				-</td>
+			<td>
+				恭帝</td>
+			<td>
+				杨侑</td>
+			<td>
+				605年-619年</td>
+			<td>
+				义宁</td>
+			<td>
+				617年-618年</td>
+		</tr>
+		<tr>
+			<td>
+				-</td>
+			<td>
+				-</td>
+			<td>
+				杨浩 （本为秦王）</td>
+			<td>
+				？-618年</td>
+			<td>
+				大业（沿用）</td>
+			<td>
+				618年</td>
+		</tr>
+		<tr>
+			<td>
+				世宗 （杨侗追尊）</td>
+			<td>
+				成帝</td>
+			<td>
+				杨昭</td>
+			<td>
+				584年-606年</td>
+			<td>
+				-</td>
+			<td>
+				-</td>
+		</tr>
+		<tr>
+			<td>
+				-</td>
+			<td>
+				恭帝</td>
+			<td>
+				杨侗 （本为越王）</td>
+			<td>
+				604年-619年</td>
+			<td>
+				皇泰</td>
+			<td>
+				618年-619年</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-indent: 2em; text-align: center;">
+	<strong>隋朝皇帝简介及在位时间</strong></p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<th width="10%">
+				谥号</th>
+			<th width="5%">
+				姓名</th>
+			<th width="15%">
+				生卒</th>
+			<th>
+				简介</th>
+		</tr>
+		<tr>
+			<td>
+				文帝</td>
+			<td>
+				杨坚</td>
+			<td>
+				541年7月27日<br />
+				&mdash;<br />
+				604年8月13日</td>
+			<td>
+				隋文帝杨坚（541年7月27日&mdash;604年8月13日），在位24年。隋朝开国皇帝，在位24年。杨坚为华阴人，系西魏随国公、北周柱国、大司空杨忠之子。北周时曾为&ldquo;骠骑大将军&rdquo;，又封为&ldquo;大兴郡公&rdquo;，后袭父爵柱国，并将长女嫁北周武帝为后，地位显赫，北周武帝时任随州刺史。其妻即独孤皇后为北周时当朝柱国、大将军独孤信之女。公元581年，杨坚以&ldquo;受禅&rdquo;为名，废北周静帝而自立，改年号为&ldquo;开皇&rdquo;，建立了&ldquo;隋朝&rdquo;。杨坚称帝后，于589年统一全国，结束了长达300年的分裂局面。隋朝统一后，社会秩序安定，废除了一些酷刑，与民休息，对社会的进步有很大的作用。604年8月13日（仁寿四年七月十三日），病逝于大宝殿，终年64岁，葬于泰陵（今天陕西省杨陵区城西5公里处）。谥号文帝，庙号高祖。</td>
+		</tr>
+		<tr>
+			<td>
+				炀帝</td>
+			<td>
+				杨广</td>
+			<td>
+				569年&mdash;618年</td>
+			<td>
+				隋炀帝杨广（569年&mdash;618年），隋朝的第二位皇帝。在位14年。&ldquo;统一江山&rdquo;、&ldquo;修通运河&rdquo;、&ldquo;西巡张掖&rdquo;、&ldquo;三游江都&rdquo;、&ldquo;三驾辽东&rdquo;可以概括他一生所为。隋炀帝杨广是中国历史上名声最差的皇帝之一。</td>
+		</tr>
+		<tr>
+			<td>
+				恭帝</td>
+			<td>
+				杨侑</td>
+			<td>
+				605年－619年</td>
+			<td>
+				隋恭帝杨侑（605年－619年），隋炀帝之孙，李渊攻入长安后拥立他为帝。在位半年，武德二年去世，年仅15岁，葬于陕西省乾县阳洪乡乳台村南500米处。</td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;</td>
+			<td>
+				杨浩</td>
+			<td>
+				605－618年</td>
+			<td>
+				隋秦王杨浩（605－618年）618年3月&mdash;&mdash;618年9月，在位半年。<br />
+				他是隋炀帝之侄，秦王杨俊之子，继承父亲的王位为秦王。618年3月，炀帝在江都被弑，杨浩被宇文化及立为皇帝，其实是一个傀儡皇帝。半年后的9月，宇文化及废黜杨浩，自立为皇帝，并将杨浩毒死。</td>
+		</tr>
+		<tr>
+			<td>
+				世宗</td>
+			<td>
+				杨昭</td>
+			<td>
+				584―606</td>
+			<td>
+				隋世宗杨昭（584―606）隋炀帝杨广长子，母皇后萧氏。大业元年（605年）被立为皇太子。美容仪，有武力，能开强弓，自奉俭朴。卒，谥&ldquo;元德&rdquo;。义宁元年（617年）追崇为世宗孝成皇帝。子越王杨侗618年5月被王世充等拥奉为帝，年号&ldquo;皇泰&rdquo;。义宁元年（617年）追崇为世宗孝成皇帝。</td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;</td>
+			<td>
+				杨侗</td>
+			<td>
+				605年－619年7月</td>
+			<td>
+				隋越王杨侗，隋炀帝之孙，从小聪明过人，宽厚仁爱，即位前为越王，公元618年东都洛阳群臣段达、王世充等人奉他为帝，改元皇泰，史称&ldquo;皇泰主&rdquo;。在位不到一年，被王世充所弑，葬处不明。有子：杨岐、杨白。</td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT:2em">
+	来源：隋朝皇帝列表及在位顺序简介：<a href="http://114.xixik.com/chinese-emperors/sui/">http://114.xixik.com/chinese-emperors/sui/</a></p>
+<p style="TEXT-INDENT:2em">
+	<strong>隋朝皇帝到底有几位？三位？</strong></p>
+<p style="TEXT-INDENT:2em">
+	史家用皇帝来纪年，被史家用来纪年的隋朝皇帝就是隋文帝、隋炀帝、隋恭帝这三个人。然而事实上隋朝皇帝有6位，顺序如下：</p>
+<p style="TEXT-INDENT:2em">
+	隋文帝杨坚&nbsp; --&nbsp; 隋炀帝杨广 --&nbsp; 隋恭帝杨侑 --&nbsp; 隋秦王杨浩 -- 隋世宗杨昭 --&nbsp; 隋越王杨侗。</p>
+<p style="TEXT-INDENT:2em">
+	隋炀帝死，隋恭帝在长安即位，而且在位两年。对于从隋炀帝死到唐高祖即位之间的这个时间段史家就是以隋恭帝来纪年的，隋恭帝当然是隋朝的第三位皇帝。而唐高祖李渊则是在隋恭帝在位两年后才称帝的。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor2"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        隋朝皇帝在位时间及简介</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<strong>一、隋文帝杨坚</strong></p>
+<p style="TEXT-INDENT:2em">
+	隋文帝杨坚（541年7月27日-604年8月13日）581年3月4日-604年8月13日，在位24年。隋朝开国皇帝，谥号文帝，庙号高祖，在位24年，后为次子杨广所弑。公元581年，杨坚以&ldquo;受禅&rdquo;为名，废北周静帝而自立，改年号为&ldquo;开皇&rdquo;，建立了&ldquo;隋朝&rdquo;。结束了自西晋末年到隋统一前近300年的分割割据状态，结束魏晋南北朝时期以来的动乱，实现了自秦汉以来中国的又一次统一，使北方民族大融合，南方经济发展，为后来唐朝的鼎盛奠定了坚实的政治基础。他首次实行了一直沿袭到清朝的三省六部制；他开创了科举；他制定了当时最为先进并影响后世基本立法的律法《开皇律》。杨坚在位23年，604年病逝于大宝殿，终年64岁，葬于太陵。</p>
+<p style="TEXT-INDENT:2em">
+	隋文帝杨坚在位期间成功地统一了百年严重分裂的中国，开创先进的选官制度，发展文化经济。使得中国成为盛世之国。文帝在位期间，隋朝开皇年间疆域辽阔，人口达到700余万户，是人类历史上农耕文明的颠峰时期。杨坚是西方人眼中最伟大的中国皇帝，被尊为&ldquo;圣人可汗&rdquo;。</p>
+<p style="TEXT-INDENT:2em">
+	二、<strong>隋炀帝杨广</strong></p>
+<p style="TEXT-INDENT:2em">
+	隋炀帝杨广（569年～618年3月11日，在位604年～617年）。隋朝的第二个皇帝，杨坚的次子，他杀死文帝及兄长杨勇后继位。在位14年，被农民大起义的浪潮困于江都（今江苏扬州市），为部下宇文化及等发动兵变缢杀，终年50岁，<a href="http://www.xixik.com/content/99e74462f321c06c">葬于今江苏省扬州时邗江区西湖镇</a>。隋炀帝是个很有才华、头脑精明的人，却以残暴著称于世。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/3aaf938cdef36163">隋炀帝失败的地方是用民过重、急功近利，太想建立伟业了</a>。三驾辽东不仅消耗了大量自己的主力军队，而且给人民带来了沉重的负担。主要是兵役太重。本身<a href="http://www.xixik.com/content/b9f266538ed001ea">修建大运河</a>就伤民大重，损伤国体。一系列开疆拓土的战争，也同样消耗了大量的人力物力。隋炀帝因过分自信与轻敌，导致第一次征高丽的失败，并陷入战争泥潭。致使不满的士兵发动兵变。人民也为逃避沉重的负担纷纷起义造反，为大隋王朝的覆灭打下了伏笔。但大隋是有能力平定起义、叛乱的，这一点可以从他的手下李渊的军队后来平定叛乱可看出。</p>
+<p style="TEXT-INDENT:2em">
+	&ldquo;一善固然不能遮百恶，但一罪也不能废百功。&rdquo;评论隋炀帝，功就是功，过就是过，功不折罪，瑕不掩瑜，归根结底隋炀帝不失为一个伟大的历史人物，可谓千古一帝，<a href="http://www.xixik.com/content/5bf7e361197a5adb">因为他是中国封建社会历史上建树最多的皇帝之一</a>，他又是一个人生极其复杂的君主，一个集文士、武帅、阴谋家、野心家、暴君等众多角色于一身的人，不是简单的昏君、暴君就能评价的。<a href="http://www.xixik.com/content/fce7d48c8d19762b" style="text-indent: 2em;">是非功过后人评说，用在隋炀帝身上太合适了</a>。千百年来，对于隋炀帝杨广的评价，一直存在极大争议。杨广的三个谥号是对其帝王生涯极好的概括。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/c9e2e34fd5705f92">唐高祖李渊赐杨广谥号&ldquo;炀&rdquo;</a>，《周书&middot;谥法》中记载：&ldquo;去礼远众曰炀，好内远礼曰炀，好内怠政曰炀，肆行劳神曰炀。&rdquo;杨广弑君父、杀兄弟、逼姐妹，犯下不伦之罪。据唐史学者胡如雷估算：在隋炀帝即位后的八年内，<a href="http://www.xixik.com/content/3c9c51de130bc7ae">他一共兴修了22项大的公共工程，唯独没有给自己修建陵墓</a>，平均每年征用400万人次的劳动力，这样大兴土木，滥用民力，最终导致百姓起义，天下大乱。</p>
+<p style="TEXT-INDENT:2em">
+	自封&ldquo;大夏王&rdquo;的窦建德谥杨广为闵帝，&ldquo;闵&rdquo;字同&ldquo;悯&rdquo;和&ldquo;愍&rdquo;，有怜恤、哀伤之意。杨广第三次下扬州时，见天下大乱，无法挽回，命修治丹阳宫（今南京）。然而从驾的都是关中卫士，他们怀念家乡，积怨颇深。终于，宇文化及发动兵变，逼缢隋炀帝。说他荒淫无度，然而<a href="http://www.xixik.com/content/4c07ce4a69ee07e4">他的正室萧后始终被宠爱，被尊重</a>。他死后，萧皇后和宫人仓促中用床板做了一副棺材，偷偷将其葬在江都宫的流珠堂下。多年后，萧后死后也与其合葬。</p>
+<p style="TEXT-INDENT:2em">
+	皇泰主杨侗谥杨广为&ldquo;明帝&rdquo;，&ldquo;明&rdquo;指照临四方。杨广极富政治抱负，雄图大略，《资治通鉴》评价：&ldquo;隋氏之盛，极于此矣。&rdquo;他掘长堑、置关防、开驰道、筑长城、置粮仓，&ldquo;三驾辽左&rdquo;，开凿并沟通大运河&hellip;&hellip;一项项工程背后是他锐意改革的大手笔和大气魄，也可说是利在千秋。</p>
+<p style="text-indent: 2em;">
+	秦始皇做过的事，隋炀帝多半也做了，而且他还没有焚书坑儒；隋炀帝做过的事，唐太宗多半也做了，<a href="http://www.xixik.com/content/9feff5ba48402883">唐太宗的贞观时代远不及他大业前期富庶</a>；然而，秦始皇、唐太宗都有&ldquo;千古一帝&rdquo;的美誉，隋炀帝却落了个万世唾骂的恶名。所以，结论是：胜利者写的历史等于谎言。历史概莫如此。</p>
+<p style="text-indent: 2em;">
+	可以说，汉的辉煌与唐的盛世，实际上分别是对秦、隋两个王朝的接力。这种接力在世界历史上也是绝无仅有的。有意思的是，<a href="http://114.xixik.com/chinese-dynasties/" style="color: rgb（0, 0, 0）;" title="中国历史">中国历史</a>上最大的两个人造工程&mdash;&mdash;长城和大运河也都分别出自这两个<a href="http://114.xixik.com/chaodai/" style="color: rgb（0, 0, 0）;" title="历史朝代顺序表">朝代</a>。现在常说&ldquo;周秦汉唐&rdquo;，但忽略了隋，显然有失公允。扬州考古研究所所长束家平认为，隋炀帝其实是一个大的战略家。他错就错在走得太急了。</p>
+<p style="TEXT-INDENT:2em">
+	之所以在人们的固化印象中，隋炀帝是个反面教材，是因为隋以后的朝代尤其是李唐出于政治需要，放大了隋炀帝所犯的错误，又因为一些艺术作品的介入，将他丑化、妖魔化。长期以来，隋炀帝的建设和开拓之功被人忽视。<a href="http://www.xixik.com/content/f33db6e05a082a88" target="_blank" title="隋炀不幸为天子，安石可怜作相公">隋炀不幸为天子，安石可怜作相公</a>。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>隋炀帝之功绩</strong></p>
+<p style="TEXT-INDENT:2em">
+	（1）589年，被隋文帝杨坚任命为大将军，灭陈完成了国家的统一。</p>
+<p style="TEXT-INDENT:2em">
+	（2）<a href="http://www.xixik.com/content/b9f266538ed001ea">开通大运河</a>，成为了贯通南北的水路，加强了南方与中原的联系。</p>
+<p style="TEXT-INDENT:2em">
+	（3）创立进士科，标志科举制度的正式开始。</p>
+<p style="TEXT-INDENT:2em">
+	（4）修筑东都洛阳，使洛阳成为了全国的政治，经济，文化中心。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>隋炀帝之过</strong></p>
+<p style="TEXT-INDENT:2em">
+	（1）开通大运河，营建东都洛阳，修长城都是同时展开，对百姓劳役不息，征调不止，人民生活悲惨。</p>
+<p style="TEXT-INDENT:2em">
+	（2）好大喜功，三征高丽，不仅士兵死伤半数，还征调劳役兵役，导致田地荒芜，农村经济破坏。</p>
+<p style="TEXT-INDENT:2em">
+	（3）为张扬国威连年出巡，三下江都，奢侈浪费，所需费用均由所经过的州县的百姓承担。</p>
+<p style="TEXT-INDENT:2em">
+	（4）采用严刑酷法，凡是反抗朝廷者，不问缘由，皆斩。</p>
+<p style="TEXT-INDENT:2em">
+	如今，学界对于隋炀帝的评价已相对中肯客观了，对隋炀帝的死与京杭大运河的关系也做了约略的说明：</p>
+<p style="TEXT-INDENT:2em">
+	隋炀帝杨广（569年~618年），华阴人（今陕西华阴），生于隋京师长安，是隋朝第二代皇帝，唐朝谥炀皇帝&hellip;&hellip;他在位期间修建大运河（开通永济渠、通济渠，加修邗沟、江南运河），促进了南北经济的交流。营建东都迁都洛阳城，修订了法律，主要是针对隋文帝末年比较严酷的法律进行了改革；设立了进士科，促成了科举制的形成；兴办学校，访求遗散图书，并加以保护；几次派遣使者去流求和西域，加强了内地同边境的关系。但是，隋炀帝也是我国历史上著名的暴君。他倚仗国力富强，骄奢淫逸，好大喜功。年年征发繁重的徭役和兵役，使农民背井离乡，造成大量田地荒芜，社会生产遭到了严重的破坏。他年年远出巡游，三游江都，三至涿郡，每次出游，大造行宫，严重骚扰了地方百姓的正常生活。他亲征吐谷浑，三次远征发兵进攻高丽，穷兵黩武。他制法却不守法，采用严刑酷法威逼百姓，造成天下大乱直接导致了隋朝的灭亡，618年在江都被部下缢杀。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>三、隋恭帝杨侑</strong></p>
+<p style="TEXT-INDENT:2em">
+	杨侑生于大业元年（605年），是隋炀帝杨广的孙子，元德太子杨昭第三子，母韦妃。杨侑自幼聪明，气度非凡。大业三年（607年），被封为陈王。后改封为代王，食邑一万户。隋炀帝亲征高丽时，命杨侑留守长安（今陕西西安）。大业十一年（615年），杨侑跟从隋炀帝巡幸晋阳（今山西太原），隋炀帝任命他为太原太守。杨侑名义上是皇帝，但实际不过是李渊扶立的傀儡。</p>
+<p style="TEXT-INDENT:2em">
+	武德二年（619年）五月十二日（《新唐书》、《资治通鉴》皆作八月初一日，即公元619年9月14日），杨侑遇害（一说病死），年仅15岁，谥号恭皇帝，葬于庄陵（今陕西省乾县阳洪乡乳台村南500米处）。杨侑死后没有子嗣，以族子杨行基袭封酅国公的爵位。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>四、隋秦王杨浩</strong></p>
+<p style="TEXT-INDENT:2em">
+	隋秦王杨浩（605－618年）在位时间：618年3月&mdash;&mdash;618年9月，在位半年。 他是隋炀帝之侄，秦王杨俊之子，继承父亲的王位为秦王。618年3月，炀帝在江都被弑，杨浩被宇文化及立为皇帝，因一贯与宇文化及之弟宇文化智交往密切，经宇文化智的极力保护，才免于一死。同月，宇文化及以皇太后懿旨的名义，拥立他为帝，年号&ldquo;天寿&rdquo;（参见李崇智《中国历代年号考（修订本）》宇文化及一节）。 杨浩继位后，宇文化及自任大丞相，操纵一切，其实是一个傀儡皇帝。不久，宇文化及率兵十万返回长安，杨浩被裹胁同行。宇文化及在巩县为瓦岗军李密击败，率残部二万人逃入魏县（今河北省大名县南）。9月，宇文化及自立为帝，并毒弑杨浩。</p>
+<p style="TEXT-INDENT:2em">
+	<strong style="color: rgb（42, 42, 42）; font-family: arial, 宋体;">隋书记载</strong><span style="color: rgb（42, 42, 42）; font-family: arial, 宋体;">　</span><span style="color: rgb（42, 42, 42）; font-family: arial, 宋体;">《隋书&middot;卷四十五&middot;列传第十》：</span></p>
+<p style="TEXT-INDENT:2em">
+	（杨俊）子浩，崔氏所生也。庶子曰湛。群臣议曰：&ldquo;《春秋》之义，母以子贵，子以母贵。贵既如此，罪则可知。故汉时栗姬有罪，其子便废，郭后被废，其子斯黜。大既然矣，小亦宜同。今秦王二子，母皆罪废，不合承嗣。&rdquo;于是以秦国官为丧主。俊长女永丰公主，年十二，遭父忧，哀慕尽礼，免丧，遂绝鱼肉。每至忌日，辄流涕不食。有开府王延者，性忠厚，领亲信兵十余年，俊甚礼之。及俊有疾，延恒在閤下，衣不解带。俊薨，勺饮不入口者数日，羸顿骨立。上闻而悯之，赐以御药，授骠骑将军，典宿卫。俊葬之日，延号恸而绝。上嗟异之，令通事舍人吊祭焉。诏葬延于俊墓侧。</p>
+<p style="TEXT-INDENT:2em">
+	炀帝即位，立浩为秦王，以奉孝王嗣。封湛为济北侯。后以浩为河阳都尉。杨玄感作逆之际，左翊卫大将军宇文述勒兵讨之。至河阳，修启于浩，浩复诣述营，兵相往复。有司劾浩，以诸侯交通内臣，竟坐废免。宇文化及杀逆之始，立浩为帝。化及败于黎阳，北走魏县，自僣伪号，因而害之。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>五、隋世宗杨昭</strong></p>
+<p style="TEXT-INDENT:2em">
+	隋世宗杨昭（584年2月21日―606年8月30日）隋炀帝杨广长子，母皇后萧氏。开皇四年生于大兴宫，开皇十年立为河南王，仁寿元年徙封晋王，大业元年（605年）被立为皇太子。昭美容仪，有武力，能开强弓。自奉俭朴。性谦冲，言色恂恂，未尝忿怒。自奉俭朴。卒，谥&ldquo;元德&rdquo;。义宁元年（617年）追崇为世宗孝成皇帝。子越王杨侗618年5月被王世充等拥奉为帝，年号&ldquo;皇泰&rdquo;。</p>
+<p style="TEXT-INDENT:2em">
+	大业二年，朝于洛阳，后数月，将还京师，愿得少留，帝不许。拜请无数，体素肥，因致劳疾。帝令巫者视之，云房陵王为祟。未几而薨，时年二十三。谥&ldquo;元德&rdquo;，帝深追悼之。义宁元年（617年）追崇为世宗孝成皇帝。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>六、隋越王杨侗</strong></p>
+<p style="TEXT-INDENT:2em">
+	隋越王杨侗（605年－619年7月），隋炀帝之孙，元德太子杨昭之子，母小刘良娣，从小聪明过人，宽厚仁爱，即位前为越王。618年6月22日至619年5月23日在位，年号皇泰，杨侗原本封为越王，驻守洛阳。618年4月11日，隋炀帝被弑，消息传到东都后，皇泰元年五月二十四戊辰日（618年6月22日），王世充与元文都、卢楚等拥立杨侗为隋朝皇帝，改年号为&ldquo;皇泰&rdquo;，史称皇泰主。加谥隋炀帝为明皇帝，庙号世祖。杨侗以王世充为吏部尚书，封郑国公，与陈国公段达、内史令元文都、内史侍郎郭文懿、黄门侍郎赵长文、内史令卢楚、兵部尚书皇甫无逸等六人共同辅政，时人号称&ldquo;七贵&rdquo;。元文都欲暗杀王世充，段达暗中通知世充，结果行刺失败，文都临死前对杨侗说，&ldquo;臣今朝死，陛下夕及矣&rdquo;，杨侗亦哭。</p>
+<p style="TEXT-INDENT:2em">
+	皇泰二年四月初五癸卯日（619年5月23日），王世充废杨侗，将杨侗囚于含凉殿，两天后，王世充自称&ldquo;大郑皇帝&rdquo;，建元&ldquo;开明&rdquo;，改封杨侗为潞国公，杨侗每日只能求佛祈福。五月，王世充部将裴仁基、裴行俨父子策划攻杀王世充，事情败露，世充杀死裴仁基父子。世充意图毒杀侗，六月派侄子王仁则和家仆梁百年，携毒酒去杨侗处，杨侗自知难逃一死，杨侗又请求和母亲见上一面，王仁则又拒绝。杨侗信奉佛教，此时，摊开席子，点燃香烛，跪拜着佛像说道：&ldquo;愿自今已往，不复生帝王家。&rdquo;大意为&ldquo;愿下辈子不要再生在帝王尊贵之家&rdquo;；但一时半刻竟没毒发，王仁则见他一时不能死去，又急忙回去复命，便上前用布帛将他缢死。越王杨侗被王世充谥为恭皇帝。因越王年号为皇泰，王世充政权被唐政权所败，一般认为隋朝之后唐朝为正统，故而称杨侗为皇泰主或皇泰帝。葬处不明。有子：杨岐、杨白。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor3"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        谁是隋朝的末代皇帝</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	很多人都认为，隋炀帝是<a style="color:#000" title="隋朝" href="http://114.xixik.com/chaodai/sui/">隋朝</a>的末代<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>，最后把<a style="color:#000" title="隋朝" href="http://114.xixik.com/chaodai/sui/">隋朝</a>禅让给了<a style="color:#000" title="唐朝" href="http://114.xixik.com/chaodai/tang/">唐朝</a>，其实并不是这样的，隋炀帝并非是<a style="color:#000" title="隋朝" href="http://114.xixik.com/chaodai/sui/">隋朝</a>的末代<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>，<a style="color:#000" title="隋朝" href="http://114.xixik.com/chaodai/sui/">隋朝</a>的末代<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>是隋恭帝，而且有两位，而且他们还将<a style="color:#000" title="隋朝" href="http://114.xixik.com/chaodai/sui/">隋朝</a>禅让给了不同的大臣，一个禅让给了唐高祖李渊，另一个则禅让给了&ldquo;郑国&rdquo;<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>王世充。</p>
+<p style="TEXT-INDENT:2em">
+	隋炀帝即位之后，前期政治还算<a style="color:#000" title="清明" href="http://114.xixik.com/24jieqi/qingming/">清明</a>，但是后期好大喜功，对外征伐不断，对内大兴土木，耗费了极大的民力，最终导致隋末各地的农民起义，喜欢南巡的隋炀帝则被困在江都（今扬州），618年3月被大臣宇文化及所害。</p>
+<p style="TEXT-INDENT:2em">
+	洛阳的大臣们听到隋炀帝遇害的消息之后，决定拥立隋炀帝的孙子杨侗为<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>，杨侗是元德太子杨昭的次子，而杨昭早在606年就去世了，杨侗成为血缘最亲的继承人。杨侗继位时15岁，大权都掌握在王世充等七个大臣手中，因为王世充为人跋扈，与其他几位辅政大臣经常发生冲突，很有危机感的杨侗则想除掉王世充，不料王世充在朝中的势力十分强大，最终反而被王世充逼迫禅让。</p>
+<p style="TEXT-INDENT:2em">
+	虽然杨侗有意反抗，但是无奈自己无权无势，只得于619年将帝位禅让给王世充，王世充改国号为&ldquo;郑&rdquo;。 杨侗被封为潞国公，被王世充软禁起来，一个月之后，被杀，史称隋恭帝。</p>
+<p style="TEXT-INDENT:2em">
+	然而，几乎同时，<a style="color:#000" title="隋朝" href="http://114.xixik.com/chaodai/sui/">隋朝</a>还有另外一个隋恭帝，不同的是他将皇位禅让给了唐高祖李渊。</p>
+<p style="TEXT-INDENT:2em">
+	禅让给李渊的这位隋恭帝叫杨侑，也是隋炀帝的孙子，是元德太子杨昭的第三子，他在隋炀帝还没有去世的时候就继位了。这是怎么回事呢？原来李渊从太原起兵之后，于617年攻下了长安，之后拥立杨侑为<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>，将被困在江都的隋炀帝尊为太上皇。李渊的得意算盘是将来逼迫小<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>杨侑将<a style="color:#000" title="隋朝" href="http://114.xixik.com/chaodai/sui/">隋朝</a>禅让给自己，所以先立他做个样子。</p>
+<p style="TEXT-INDENT:2em">
+	果然，在618年，李渊将杨侑废黜，自立为帝，降封杨侑为酅国公。第二年，杨侑死了，至于原因，不知道，读历史的人应该都知道怎么回事。</p>
+<p style="TEXT-INDENT:2em">
+	后来，李渊击败王世充、窦建德等人一统天下，建立了大唐帝国，于是，很多人都只知道<a style="color:#000" title="隋朝" href="http://114.xixik.com/chaodai/sui/">隋朝</a>出了一个隋恭帝，就是杨侑，禅让给了<a style="color:#000" title="唐朝" href="http://114.xixik.com/chaodai/tang/">唐朝</a>，这是正统。然而，杨侑即位时，隋炀帝还没有死，所以杨侑的合法性不是很高，不如之后即位的杨侗，而且杨侗是次子，比杨侑年长，所以杨侗才是正统。但是历史往往只眷顾强者，因为李渊最后胜利了，所以不是正统的杨侑反而成了正统。看，连做个傀儡<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>还这么讲究。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+    </div>
+    <script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        var value = '95';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script>
+    <div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/chinese-emperors/sui/" target="_self" title="隋朝皇帝列表_隋朝历代皇帝简介及在位年表_中国历朝帝王大全">隋朝皇帝列表</a></div>
+    <ul style="width: 960px; margin: auto; overflow: hidden;">
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/lixi/"
+                title="人民币存款利率表，2019银行利息，银行存款利率，银行贷款利率">银行存款利息</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chaodai/zhou/"
+                title="周朝历史_西周历史_东周历史_周朝帝王列表">周朝历史</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证更换新政策_过期了该怎么办？">中国旅行证</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国历任总统名单_美国总统简历生卒年份及所属党派">美国历任总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/baijiaxing-qq/"
+                title="百家姓qq头像,百家姓qq头像闪图大全_百家姓中国心qq头像">百家姓QQ头像</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="美宝证件_美宝需要哪些证件（美国出生纸_中国旅行证_美国护照_社会安全号_出生纸三级认证）">美宝需要哪些证件？</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_去美国生孩子费用预算清单2019">赴美生子要多少钱</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/obama/"
+                title="奥巴马_美国总统奥巴马_贝拉克·奥巴马(Barack Hussein Obama)_第44任美国总统">奥巴马</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/trump/"
+                title="美国总统特朗普_唐纳德·约翰·特朗普_Donald John Trump_第45任美国总统川普">特朗普</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_去美国生孩子要多少钱？">赴美生子费用</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 中国护照免签证国家2019">中国护照免签证</a> </li>
+        
+    </ul>
+
+    <div class="lindBox">
+        <div class="btnGray">
+            <div class="btnText">
+                <a target="_self" title="隋朝皇帝列表_隋朝历代皇帝简介及在位年表_中国历朝帝王大全" href="http://news.xixik.com/word/95/">另存为<br />
+                    Word格式</a>
+            </div>
+        </div>
+    </div>
+    <div class="lindBox" style="text-align: center;">
+        <img src="http://news.xixik.com/qrcode/95/" alt="扫码手机上继续看" /><br />
+        <br />
+        <strong>用微信或者支付宝扫码在手机上继续观看<br />
+            可以保存收藏，也扫码后可以分享给好友
+        </strong>
+    </div>
+    <hr style="height: 1px; border: none; border-top: 1px dashed #999;" />
+    <script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script>
+<!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.-->
+
+</body></html>

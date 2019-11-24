@@ -1,0 +1,4303 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <title>明朝皇帝列表_明朝历代皇帝简介及在位年表_中国历朝帝王大全</title>
+    <link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" />
+    <meta name="description" content="明朝皇帝列表及简介，明朝皇帝顺序表图，大明皇帝列表，大明朝历代皇帝年号陵墓。明朝有几个皇帝？明朝第一个皇帝名字是？明朝末代皇帝是？明朝历代皇帝皇后有几位？明朝皇帝在位时间及排序如何？" />
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/chinese-emperors/ming/">
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <base target="_blank" />
+    
+    <script>
+        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "chinese-emperors/ming/";
+        }
+
+
+    </script>
+    <style>
+        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+            overflow:auto;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style>
+</head>
+<body>
+    <a name="top4"></a>
+    <div class="topBox" name="top">
+        <div class="topMain">
+            <div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div>
+            <div id="icoPhone"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div>
+            <div id="icoWechat"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a> </div>
+            <div id="icoSina"></div>
+            <div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a>  </div>
+            <div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div>
+            <div class="topRight">
+            </div>
+        </div>
+    </div>
+
+    <div id="showqrCode">
+        <div><span></span></div>
+        <img src="" /><div><span></span></div>
+    </div>
+    <script type="text/javascript">
+        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script>
+    <div class="body">
+        
+        <div class="lindBox" style="position: relative;">
+            <img src="http://img.xixik.net/custom/topic/001/chinese-emperors-ming.gif" alt="明朝皇帝列表_明朝历代皇帝简介及在位年表_中国历朝帝王大全" />
+            <div class="title">
+                <h1>明朝皇帝列表_明朝历代皇帝简介及在位年表_中国历朝帝王大全</h1>
+            </div>
+        </div>
+        
+
+        <div class=" custom_border lindBox">
+            <div class="special_content">
+                <div class="content_text">
+                    <div class="content_daodu">
+                    </div>
+                    <h2>明朝皇帝列表</h2>
+                    <p>
+	1368年朱元璋灭元称帝，国号大明，历十二世，传十六帝，<a href="http://114.xixik.com/chinese-emperors/ming/" style="color:#000;" title="明朝皇帝"><strong>明朝十六位皇帝</strong></a>：明太祖(洪武)、明惠帝(建文)、明成祖(永乐)、明仁宗(洪熙)、明宣宗(宣德)、明英宗(正统/天顺)、明代宗(景泰)、明宪宗(成化)、明孝宗(弘治)、明武宗(正德)、明世宗(嘉靖)、明穆宗(隆庆)、明神宗(万历)、明光宗(泰昌)、明熹宗(天启)、明思宗(崇祯) 。<a href="http://114.xixik.com/chaodai/ming/" style="color:#000;" title="明朝"><strong>明朝</strong></a>是中国历史上最后一个由汉族建立的封建君主制王朝。</p>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="lindBox" style="overflow: hidden;">
+            <div class="gg1">
+                <a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a>
+            </div>
+            <div class="guide">
+                <div class="guideBorder" id="guideBorder">
+                    <div class="guideTitle">导读（目录）</div>
+                    <ul id="guideDisplay">
+                        
+                                <li>·<a title="明朝皇帝列表" href="#anchor1" target="_self"> 明朝皇帝列表</a></li>
+                            
+                                <li>·<a title="明朝皇帝简介及在位时间" href="#anchor2" target="_self"> 明朝皇帝简介及在位时间</a></li>
+                            
+                                <li>·<a title="明朝皇帝列表（详表）" href="#anchor3" target="_self"> 明朝皇帝列表（详表）</a></li>
+                            
+                                <li>·<a title="南明皇帝列表（详表）" href="#anchor4" target="_self"> 南明皇帝列表（详表）</a></li>
+                            
+                                <li>·<a title="明朝皇帝谥号大全" href="#anchor5" target="_self"> 明朝皇帝谥号大全</a></li>
+                            
+                                <li>·<a title="明朝皇帝世系表" href="#anchor6" target="_self"> 明朝皇帝世系表</a></li>
+                            
+                                <li>·<a title="明朝藩王" href="#anchor7" target="_self"> 明朝藩王</a></li>
+                            
+                                <li>·<a title="明朝16任皇帝 个个都不是一般人" href="#anchor8" target="_self"> 明朝16任皇帝 个个都不是一般人</a></li>
+                            
+                                <li>·<a title="为何明朝皇帝奇葩多？" href="#anchor9" target="_self"> 为何明朝皇帝奇葩多？</a></li>
+                            
+                                <li>·<a title="明朝皇后列表" href="#anchor10" target="_self"> 明朝皇后列表</a></li>
+                            
+                    </ul>
+                    <div class="guideOpen">展开&darr;</div>
+                </div>
+            </div>
+
+            <div class="guideFllow">
+                <div class="guideFllowBorder">
+                    <div class="guideFllowTitle">导读（目录）</div>
+                    <ul id="guideFllowDisplay">
+                        
+                                <li>·<a title="明朝皇帝列表" href="#anchor1" target="_self"> 明朝皇帝列表</a></li>
+                            
+                                <li>·<a title="明朝皇帝简介及在位时间" href="#anchor2" target="_self"> 明朝皇帝简介及在位时间</a></li>
+                            
+                                <li>·<a title="明朝皇帝列表（详表）" href="#anchor3" target="_self"> 明朝皇帝列表（详表）</a></li>
+                            
+                                <li>·<a title="南明皇帝列表（详表）" href="#anchor4" target="_self"> 南明皇帝列表（详表）</a></li>
+                            
+                                <li>·<a title="明朝皇帝谥号大全" href="#anchor5" target="_self"> 明朝皇帝谥号大全</a></li>
+                            
+                                <li>·<a title="明朝皇帝世系表" href="#anchor6" target="_self"> 明朝皇帝世系表</a></li>
+                            
+                                <li>·<a title="明朝藩王" href="#anchor7" target="_self"> 明朝藩王</a></li>
+                            
+                                <li>·<a title="明朝16任皇帝 个个都不是一般人" href="#anchor8" target="_self"> 明朝16任皇帝 个个都不是一般人</a></li>
+                            
+                                <li>·<a title="为何明朝皇帝奇葩多？" href="#anchor9" target="_self"> 为何明朝皇帝奇葩多？</a></li>
+                            
+                                <li>·<a title="明朝皇后列表" href="#anchor10" target="_self"> 明朝皇后列表</a></li>
+                            
+                    </ul>
+                    <div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div>
+                </div>
+            </div>
+
+
+            <div class="gg2">
+                <a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a>
+            </div>
+        </div>
+        
+        <a name="anchor1"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        明朝皇帝列表</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="text-align: center;">
+	<strong><a href="http://114.xixik.com/chinese-emperors/ming/" style="color:#000" title="明朝皇帝列表">明朝皇帝列表</a></strong></p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<th>
+				姓名</th>
+			<th>
+				庙号</th>
+			<th>
+				谥号简称/谥号全称</th>
+			<th>
+				年号</th>
+			<th>
+				陵墓</th>
+		</tr>
+		<tr>
+			<td>
+				朱元璋</td>
+			<td>
+				太祖</td>
+			<td>
+				高皇帝/开天行道肇纪立极大圣至神仁文义武俊德成功高皇帝</td>
+			<td>
+				洪武（1368年——1398年）</td>
+			<td>
+				孝陵</td>
+		</tr>
+		<tr>
+			<td>
+				朱允炆</td>
+			<td>
+				惠宗</td>
+			<td>
+				成皇帝/嗣天章道诚懿渊功观文扬武克仁笃孝让皇帝（恭闵惠皇帝）</td>
+			<td>
+				建文（1399年——1402年）</td>
+			<td>
+				<a href="http://www.xixik.com/content/8f88c81323a418ca" title="上金贝古墓并非是其墓葬">下落不明</a></td>
+		</tr>
+		<tr>
+			<td>
+				朱棣</td>
+			<td>
+				成祖</td>
+			<td>
+				文皇帝/体天弘道高明广运圣武神功纯仁至孝文皇帝<br />
+				/启天弘道高明肇运圣武神功纯仁至孝文皇帝（嘉靖帝改谥）</td>
+			<td>
+				永乐（1403年——1424年）</td>
+			<td>
+				长陵</td>
+		</tr>
+		<tr>
+			<td>
+				朱高炽</td>
+			<td>
+				仁宗</td>
+			<td>
+				昭皇帝/敬天体道纯诚至德弘文钦武章圣达孝昭皇帝</td>
+			<td>
+				洪熙（1424年——1425年）</td>
+			<td>
+				献陵</td>
+		</tr>
+		<tr>
+			<td>
+				朱瞻基</td>
+			<td>
+				宣宗</td>
+			<td>
+				章皇帝/宪天崇道英明神圣钦天昭武宽仁纯孝章皇帝</td>
+			<td>
+				宣德（1426年——1435年）</td>
+			<td>
+				景陵</td>
+		</tr>
+		<tr>
+			<td>
+				朱祁镇</td>
+			<td>
+				英宗</td>
+			<td>
+				睿皇帝/法天立道仁明诚敬昭文宪武至德广孝睿皇帝</td>
+			<td>
+				正统（1436年——1449年）<br />
+				天顺（1457年——1464年）</td>
+			<td>
+				裕陵</td>
+		</tr>
+		<tr>
+			<td>
+				朱祁钰</td>
+			<td>
+				代宗</td>
+			<td>
+				景皇帝/恭仁康定景皇帝/<br />
+				符天建道恭仁康定隆文布武显德崇孝景皇帝（南明加谥）</td>
+			<td>
+				景泰（1450年——1457年）</td>
+			<td>
+				景泰陵</td>
+		</tr>
+		<tr>
+			<td>
+				朱见深</td>
+			<td>
+				宪宗</td>
+			<td>
+				纯皇帝/继天凝道诚明仁敬崇文肃武宏德圣孝纯皇帝</td>
+			<td>
+				成化（1465年——1487年）</td>
+			<td>
+				茂陵</td>
+		</tr>
+		<tr>
+			<td>
+				朱祐樘</td>
+			<td>
+				孝宗</td>
+			<td>
+				敬皇帝/达天明道纯识中正圣文神武至仁大德敬皇帝</td>
+			<td>
+				弘治（1488年——1505年）</td>
+			<td>
+				泰陵</td>
+		</tr>
+		<tr>
+			<td>
+				朱厚燳</td>
+			<td>
+				武宗</td>
+			<td>
+				毅皇帝/承天达道英肃睿哲昭德显功弘文思孝毅皇帝</td>
+			<td>
+				正德（1506年——1521年）</td>
+			<td>
+				康陵</td>
+		</tr>
+		<tr>
+			<td>
+				朱厚熜</td>
+			<td>
+				世宗</td>
+			<td>
+				肃皇帝/钦天履道英毅神圣宣文广武洪仁大孝肃皇帝</td>
+			<td>
+				嘉靖（1522年——1566年）</td>
+			<td>
+				永陵</td>
+		</tr>
+		<tr>
+			<td>
+				朱载垕</td>
+			<td>
+				穆宗</td>
+			<td>
+				庄皇帝/契天隆道渊懿宽仁显文光武纯德弘孝庄皇帝</td>
+			<td>
+				隆庆（1567年——1572年）</td>
+			<td>
+				昭陵</td>
+		</tr>
+		<tr>
+			<td>
+				朱翊钧</td>
+			<td>
+				神宗</td>
+			<td>
+				显皇帝/范天合道哲肃敦简光文章武安仁止孝显皇帝</td>
+			<td>
+				万历（1573年——1620年）</td>
+			<td>
+				定陵</td>
+		</tr>
+		<tr>
+			<td>
+				朱常洛</td>
+			<td>
+				光宗</td>
+			<td>
+				贞皇帝/崇天契道英睿恭纯宪文景武渊仁懿孝贞皇帝</td>
+			<td>
+				泰昌（1620年）实际在位一个月</td>
+			<td>
+				庆陵</td>
+		</tr>
+		<tr>
+			<td>
+				朱由校</td>
+			<td>
+				熹宗</td>
+			<td>
+				悊皇帝/达天闻道敦孝笃友章文襄武靖穆庄勤悊皇帝</td>
+			<td>
+				天启（1621年——1627年）</td>
+			<td>
+				德陵</td>
+		</tr>
+		<tr>
+			<td>
+				朱由检</td>
+			<td>
+				思宗</td>
+			<td>
+				烈皇帝/绍天绎道刚明恪俭揆文奋武敦仁懋孝烈皇帝</td>
+			<td>
+				崇祯（1628年——1644年）</td>
+			<td>
+				思陵</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-align: center;">
+	<strong>南明皇帝列表</strong></p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<td style="text-align: center;">
+				<strong>姓名</strong></td>
+			<td style="text-align: center;">
+				<b>庙号</b></td>
+			<td style="text-align: center;">
+				<strong>谥号简称/谥号全程</strong></td>
+			<td style="text-align: center;">
+				<strong>年号</strong></td>
+			<td style="text-align: center;">
+				<strong>陵墓</strong></td>
+		</tr>
+		<tr>
+			<td>
+				朱由崧</td>
+			<td>
+				安宗</td>
+			<td>
+				简皇帝/奉天遵道宽和静穆修文布武温恭仁孝简皇帝<br />
+				（永历帝朱由榔为其上庙号，上谥）</td>
+			<td>
+				弘光（1644年——1645年）</td>
+			<td>
+				弘光陵</td>
+		</tr>
+		<tr>
+			<td>
+				朱聿键</td>
+			<td>
+				绍宗</td>
+			<td>
+				襄皇帝/配天至道弘毅肃穆思文烈武敏仁广孝襄皇帝</td>
+			<td>
+				隆武（1645年——1646年）</td>
+			<td>
+				隆武陵</td>
+		</tr>
+		<tr>
+			<td>
+				朱聿鐭</td>
+			<td style="width:63px;">
+				文宗</td>
+			<td>
+				节皇帝</td>
+			<td>
+				绍武（1646年）</td>
+			<td>
+				绍武陵</td>
+		</tr>
+		<tr>
+			<td>
+				朱由榔</td>
+			<td style="width:63px;">
+				昭宗</td>
+			<td>
+				匡皇帝/应天推道敏毅恭俭经文纬武礼仁克孝匡皇帝<br />
+				（延平王郑经上谥）</td>
+			<td>
+				永历（1646年——1662年）</td>
+			<td>
+				永历陵</td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/8e00e0a46ea4d76a">明朝十六位皇帝 但为什么北京只有十三陵</a>？<strong>明十三陵</strong>早已扬名海内外，但明朝十六个皇帝，为何是十三陵呢？明太祖朱元璋死于南京，孝陵位于南京紫金山南麓，惠帝朱允炆因燕王朱棣夺位而出走，不知所终，所以葬于何处已无从查考。代宗朱祁钰因其兄弟朱祁镇作梗废了帝号，死时以王礼葬入位于北京海淀区玉泉山北麓，直至明宪宗朱见深继位后始恢复其帝号，并以帝王礼葬之改为景泰陵。其余十三位皇帝陵墓位于北京昌平区天寿山明十三陵。</p>
+<p style="TEXT-INDENT:2em">
+	明朝皇权内部斗争激烈，陵寝分布也有许多，除了南京明孝陵和北京明十三陵外，还有朱元璋爷爷的江苏盱眙明祖陵、朱元璋父亲的安徽凤阳明皇陵、朱厚熜（嘉靖皇帝）父亲的湖北钟祥市明显陵。</p>
+<p style="TEXT-INDENT:2em">
+	南明政权的弘光陵位于河南孟津东山头村；监国鲁王朱以海墓位于福建省金门县太武山西麓；隆武陵位于福州罗汉岭；绍武陵位于广州越秀公园内；永历陵位于贵州省都匀市大坪镇高塘山。</p>
+<p style="TEXT-INDENT:2em">
+	熙陵系明恭宗朱常洵之陵，位于河南省洛阳市孟津县麻屯乡庙槐村；兴陵系明礼宗朱常瀛之陵，位于广西省南宁市左右江汇合河畔上的三江口宋村；唐藩四帝陵系惠皇帝朱宇温、顺皇帝朱宙栐、端皇帝朱硕熿、宣皇帝朱器墭之陵，位于河南省南阳市紫山东麓；潞闵王朱常淓葬处不明；</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor2"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        明朝皇帝简介及在位时间</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style=" text-align: center; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<td>
+				<strong>年号</strong></td>
+			<td>
+				<strong>庙号</strong></td>
+			<td>
+				<strong>名字</strong></td>
+			<td>
+				<strong>出生</strong></td>
+			<td>
+				<strong>在位时间</strong></td>
+			<td>
+				<strong>即位年龄</strong></td>
+			<td>
+				<strong>死亡</strong></td>
+			<td>
+				<strong>在位年数</strong></td>
+			<td>
+				<strong>死时年龄</strong></td>
+			<td>
+				<strong>世系</strong></td>
+			<td>
+				<strong>陵寝</strong></td>
+		</tr>
+		<tr>
+			<td>
+				洪武</td>
+			<td>
+				太祖</td>
+			<td>
+				朱元璋</td>
+			<td>
+				1328</td>
+			<td>
+				1368-1398</td>
+			<td>
+				41</td>
+			<td>
+				1398</td>
+			<td>
+				31</td>
+			<td>
+				71</td>
+			<td>
+				朱世珍之第三子</td>
+			<td>
+				明孝陵</td>
+		</tr>
+		<tr>
+			<td rowspan="2">
+				建文</td>
+			<td rowspan="2">
+				惠帝</td>
+			<td rowspan="2">
+				朱允炆</td>
+			<td rowspan="2">
+				1377</td>
+			<td rowspan="2">
+				1399-1402</td>
+			<td rowspan="2">
+				22</td>
+			<td rowspan="2">
+				不详</td>
+			<td rowspan="2">
+				4</td>
+			<td rowspan="2">
+				不详</td>
+			<td>
+				太祖之孙</td>
+			<td rowspan="2">
+				不详</td>
+		</tr>
+		<tr>
+			<td>
+				太子朱标次子</td>
+		</tr>
+		<tr>
+			<td>
+				永乐</td>
+			<td>
+				成祖</td>
+			<td>
+				朱棣</td>
+			<td>
+				1360</td>
+			<td>
+				1403-1424</td>
+			<td>
+				43</td>
+			<td>
+				1424</td>
+			<td>
+				22</td>
+			<td>
+				65</td>
+			<td>
+				朱元璋之第四子</td>
+			<td>
+				长陵</td>
+		</tr>
+		<tr>
+			<td>
+				洪熙 <wbr /></td>
+			<td>
+				仁宗</td>
+			<td>
+				朱高炽</td>
+			<td>
+				1378</td>
+			<td>
+				1425</td>
+			<td>
+				47</td>
+			<td>
+				1425</td>
+			<td>
+				1</td>
+			<td>
+				48</td>
+			<td>
+				朱棣之长子</td>
+			<td>
+				献陵</td>
+		</tr>
+		<tr>
+			<td>
+				宣德</td>
+			<td>
+				宣宗</td>
+			<td>
+				朱瞻基</td>
+			<td>
+				1398</td>
+			<td>
+				1426-1435</td>
+			<td>
+				28</td>
+			<td>
+				1435</td>
+			<td>
+				10</td>
+			<td>
+				38</td>
+			<td>
+				朱高炽之长子</td>
+			<td>
+				景陵</td>
+		</tr>
+		<tr>
+			<td>
+				正统</td>
+			<td>
+				英宗</td>
+			<td>
+				朱祁镇</td>
+			<td>
+				1427</td>
+			<td>
+				1436-1449</td>
+			<td>
+				9</td>
+			<td>
+				1464</td>
+			<td>
+				13</td>
+			<td>
+				38</td>
+			<td>
+				朱瞻基之长子</td>
+			<td>
+				裕陵</td>
+		</tr>
+		<tr>
+			<td>
+				天顺</td>
+			<td>
+				　</td>
+			<td>
+				　</td>
+			<td>
+				　</td>
+			<td>
+				1457-1464</td>
+			<td>
+				　</td>
+			<td>
+				　</td>
+			<td>
+				7</td>
+			<td>
+				　</td>
+			<td>
+				　</td>
+			<td>
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				景泰</td>
+			<td>
+				代宗</td>
+			<td>
+				朱祁钰</td>
+			<td>
+				1428</td>
+			<td>
+				1450-1457</td>
+			<td>
+				22</td>
+			<td>
+				1457</td>
+			<td>
+				8</td>
+			<td>
+				30</td>
+			<td>
+				朱瞻基之次子</td>
+			<td>
+				景泰陵</td>
+		</tr>
+		<tr>
+			<td>
+				成化</td>
+			<td>
+				宪宗</td>
+			<td>
+				朱见深</td>
+			<td>
+				1447</td>
+			<td>
+				1465-1487</td>
+			<td>
+				18</td>
+			<td>
+				1487</td>
+			<td>
+				23</td>
+			<td>
+				41</td>
+			<td>
+				朱祁镇之长子</td>
+			<td>
+				茂陵</td>
+		</tr>
+		<tr>
+			<td>
+				弘治</td>
+			<td>
+				孝宗</td>
+			<td>
+				朱祐樘</td>
+			<td>
+				1470</td>
+			<td>
+				1488-1505</td>
+			<td>
+				18</td>
+			<td>
+				1505</td>
+			<td>
+				18</td>
+			<td>
+				36</td>
+			<td>
+				朱见深之第三子</td>
+			<td>
+				泰陵</td>
+		</tr>
+		<tr>
+			<td>
+				正德</td>
+			<td>
+				武宗</td>
+			<td>
+				朱厚燳</td>
+			<td>
+				1491</td>
+			<td>
+				1506-1521</td>
+			<td>
+				15</td>
+			<td>
+				1521</td>
+			<td>
+				16</td>
+			<td>
+				31</td>
+			<td>
+				朱祐樘之长子</td>
+			<td>
+				康陵</td>
+		</tr>
+		<tr>
+			<td rowspan="2">
+				嘉靖</td>
+			<td rowspan="2">
+				世宗</td>
+			<td rowspan="2">
+				朱厚熜</td>
+			<td rowspan="2">
+				1507</td>
+			<td rowspan="2">
+				1522-1566</td>
+			<td rowspan="2">
+				15</td>
+			<td rowspan="2">
+				1566</td>
+			<td rowspan="2">
+				45</td>
+			<td rowspan="2">
+				60</td>
+			<td>
+				朱祐樘之侄</td>
+			<td rowspan="2">
+				永陵</td>
+		</tr>
+		<tr>
+			<td>
+				兴献王朱祐杬次子&#160;<wbr /></td>
+		</tr>
+		<tr>
+			<td>
+				隆庆</td>
+			<td>
+				穆宗</td>
+			<td>
+				朱载垕</td>
+			<td>
+				1537</td>
+			<td>
+				1567-1572</td>
+			<td>
+				30</td>
+			<td>
+				1572</td>
+			<td>
+				6</td>
+			<td>
+				36</td>
+			<td>
+				朱厚熜之第三子</td>
+			<td>
+				昭陵</td>
+		</tr>
+		<tr>
+			<td>
+				万历</td>
+			<td>
+				神宗</td>
+			<td>
+				朱翊钧</td>
+			<td>
+				1563</td>
+			<td>
+				1573-1620</td>
+			<td>
+				10</td>
+			<td>
+				1620</td>
+			<td>
+				48</td>
+			<td>
+				58</td>
+			<td>
+				朱载垕之第三子</td>
+			<td>
+				定陵</td>
+		</tr>
+		<tr>
+			<td>
+				泰昌</td>
+			<td>
+				光宗</td>
+			<td>
+				朱常洛</td>
+			<td>
+				1582</td>
+			<td>
+				1620</td>
+			<td>
+				39</td>
+			<td>
+				1620</td>
+			<td>
+				1月</td>
+			<td>
+				39</td>
+			<td>
+				朱翊钧之长子</td>
+			<td>
+				庆陵</td>
+		</tr>
+		<tr>
+			<td>
+				天启</td>
+			<td>
+				熹宗</td>
+			<td>
+				朱由校</td>
+			<td>
+				1605</td>
+			<td>
+				1621-1627</td>
+			<td>
+				16</td>
+			<td>
+				1627</td>
+			<td>
+				7</td>
+			<td>
+				23</td>
+			<td>
+				朱常洛之长子</td>
+			<td>
+				德陵</td>
+		</tr>
+		<tr>
+			<td>
+				崇祯</td>
+			<td>
+				思宗</td>
+			<td>
+				朱由检</td>
+			<td>
+				1610</td>
+			<td>
+				1628-1644</td>
+			<td>
+				18</td>
+			<td>
+				1644</td>
+			<td>
+				17</td>
+			<td>
+				35</td>
+			<td>
+				朱常洛之第五子</td>
+			<td>
+				思陵</td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT:2em">
+	明朝享276年国祚共传十二世，<a href="http://114.xixik.com/chinese-emperors/ming/" title="明朝皇帝列表">历经十六帝</a>，有17个年号，是<a href="http://www.xixik.com/content/8d6f51db0f7179fb">因为朱祁镇老兄因 “土木之变”兵败被瓦剌俘虏一年</a>，其弟朱祁玉被拥立为帝，8年后朱祁镇复辟成功。<a href="http://www.xixik.com/content/a945b8fe55d8c3f6" title="明朝皇帝名字中的学问，冷僻一不小心就念错">明朝皇帝的名字某些用字非常冷僻，含金木水火</a>，其实这是<a href="http://www.xixik.com/content/baec2754e25b4eac" title="朱元璋26个儿子的下场 给子孙取名到清朝差点被杀绝">朱元璋为他们事先安排好的名字</a>，跟化学元素周期表相似，<a href="http://www.xixik.com/content/6f0150c77bda2eda" title="朱元璋被称为化学教父 元素周期表和他真有关系">朱元璋被后世戏称为化学教父</a>。</p>
+<p style="TEXT-INDENT:2em">
+	明朝16位皇帝平均在位时间为17.3年。最长的是万历和嘉靖，分别为48年和45年，<a href="http://www.xixik.com/content/0ca768a3c3abd672">但这对孙子和爷爷不上朝时间也分别达到28年和25年</a>。其次是洪武31年、永乐23年及“姐弟恋”男主角成化朱见深23年。少于10年的有6位，“木匠”皇帝天启朱由校在位七年，后世评价甚高的<a href="http://www.xixik.com/content/6fb458032e2ca689">洪熙朱高炽在做了20年太子后登基仅10个月就去世</a>，而不受父亲万历喜欢的泰昌朱常洛继位后仅一个月即暴死。说<a href="http://www.xixik.com/content/7e0b0cb186de6e66" title="明朝皇帝个个都是奇葩言过其实">明朝皇帝个个都是奇葩言过其实</a>，但是确实都具有鲜明的特色——除了太祖成祖，<a href="http://www.xixik.com/content/6d54f6bb4166f7d5" title="明朝16位皇帝大多不是做皇帝的料 但无一软骨头">大多都是不想当皇帝却又当了皇帝的可怜人</a>。</p>
+<p style="text-indent: 2em; text-align: center;">
+	<a href="http://img.xixik.net/custom/section/chinese-emperors/ming/emperors-ming.jpg" title="明朝皇帝画像大全"><img src="http://img.xixik.net/custom/section/chinese-emperors/ming/emperors-ming.jpg" style="width: 90%;" /></a></p>
+<p style="text-indent: 2em; text-align: center;">
+	图：明朝皇帝画像大全</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chinese-emperors/ming/" style="color:#000;"><strong>明朝历代皇帝排序顺口溜</strong></a>：“太祖开天行道”、“惠宗嗣天章道”、“成祖启天弘道”、“仁宗敬天体道”、“宣宗宪天崇道”、“英宗法天立道”、“代宗符天建道”、“宪宗继天凝道”、“孝宗达天明道”、“武宗承天达道”、“世宗钦天履道”、“穆宗契天隆道”、“神宗范天合道”、“光宗崇天契道”、“熹宗达天阐道”、“毅宗绍天绎道”、“安宗处天承道”、“绍宗配天至道”、“文宗贞天应道”、“昭宗应天推道”。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>一、明太祖朱元璋</strong></p>
+<p style="TEXT-INDENT:2em">
+	朱元璋（1328年10月21日—1398年6月24日），濠州钟离（今安徽凤阳东北）人，幼名重八，参加农民起义军后改名元璋，字国瑞，元末农民起义军首领，明朝开国皇帝（1368年—1398年在位），史称明太祖，卓越的军事家、战略家、统帅。年号“洪武”，其统治时期被称为“洪武之治”。</p>
+<p style="TEXT-INDENT:2em">
+	朱元璋在位期间，下令农民归耕，奖励垦荒；大搞移民屯田和军屯；组织各地农民兴修水利；大力提倡种植桑、麻、棉等经济作物和果木作物、他还徒富民，抑豪强；下令解放奴婢；减免税负，严惩贪官；派人到全国各地丈量土地，清查户口等等。经过洪武时期的努力，社会生产逐渐恢复和发展了，史称“洪武之治”。1380年（洪武十三年），朱元璋废丞相，设承宣布政使司、提刑按察使司、都指挥使司三司分掌权力，进一步的加强了中央集权。</p>
+<p style="TEXT-INDENT:2em">
+	庙号太祖，谥号开天行道肇纪立极大圣至神仁文义武俊德成功高皇帝，葬于南京明孝陵。</p>
+<p style="TEXT-INDENT:2em">
+	<strong style="text-indent: 2em;">二、明惠帝朱允炆</strong></p>
+<p style="TEXT-INDENT:2em">
+	明惠帝朱允炆（1377-1402），太祖孙，皇太子朱标的次子，是明朝第二位皇帝，1398年即位，洪武三十一年（1398年）闰五月，<a href="http://www.xixik.com/content/d80767cffec0e513" title="朱元璋为何选择皇孙继承皇位？">朱元璋驾崩，皇太孙朱允炆继位</a>，改年号建文，称建文帝。在位5年，年号“建文”。朱元璋在世时，大封王室，<a href="http://www.xixik.com/content/266231298f8e7461" title="明朝灭亡跟朱元璋子孙数量太大有直接关系">20多个儿子均封为亲王</a>，分驻各地。<a href="http://www.xixik.com/content/baec2754e25b4eac" title="朱元璋子孙曾经高达百万 却被清朝灭地差不多">朱元璋考虑随着子孙繁衍，甚至都为他们设定好了名字</a>。惠帝登基后，进行削藩，以统一军事，惹恼诸王，<a href="http://www.xixik.com/content/8edac74eb4eaa329" title="如果历史可以假设，朱允炆会是个比朱棣好的皇帝吗？">燕王朱棣其兵北京</a>，1402年攻入南京，在靖难之变后下落不明，惠帝一说被烧死，一说外逃。<a href="http://www.xixik.com/content/d80767cffec0e513" style="text-indent: 2em;" target="_blank" title="明太祖朱元璋为什么立他的孙子朱允炆为皇太子？">明太祖朱元璋执意立长，立他的孙子朱允炆为皇太子</a>是造成此悲剧的原因。朱允炆生死不明也是朱棣要郑和下西洋的一个原因，寻访惠帝的下落。</p>
+<p style="TEXT-INDENT:2em">
+	朱允炆于靖难之役后下落不明，时驸马都尉梅殷在军中，从黄彦清之议，为发丧，追谥孝愍皇帝，庙号神宗，壬午以后谥不行。至南明弘光元年（1645年）七月，以与显皇帝庙号复，改庙号惠宗，谥号为嗣天章道诚懿渊功观文扬武克仁笃孝让皇帝，后世称为明惠宗，清乾隆元年上谥号为恭闵惠皇帝，简称惠帝。后世有人以其年号而称建文帝。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>三、明成祖朱棣</strong></p>
+<p style="TEXT-INDENT:2em">
+	明成祖朱棣（1360年6月1日—1424年8月12日），洪武三年（1370年），受封燕王。 朱元璋去世后，继位的建文帝朱允炆实行削藩，朱棣遂于建文元年（1399年）七月发动靖难之役，四年六月攻入南京，杀方孝孺等人，夺取了皇位。次年改元永乐（1403～1424年）。朱棣在位期间改革机构，设置内阁制度，对外五次亲征蒙古，收复安南，并于东北设奴儿干都司，在西北置哈密卫，在西南置大古刺、底马撒、底兀刺等宣慰司，又设贵州承宣布政使司，巩固了南北边防，维护了中国版图的完整。多次派郑和下西洋，加强了中外友好往来。 同时还命人编修《永乐大典》，疏浚大运河。1421年迁都北京，并下令编纂了《永乐大典》。他统治期间将由靖难之后的疮痍局面发展至经济繁荣、国力强盛的盛世，由于成祖年号为“永乐”，后世称这一时期为“永乐盛世”。故后人称其为永乐帝、永乐大帝、永乐皇帝等。死于1424年，时年65岁。在位23年。</p>
+<p style="TEXT-INDENT:2em">
+	原庙号为“太宗”，谥号体天弘道高明广运圣武神功纯仁至孝文皇帝。百多年后由<a href="http://www.xixik.com/content/a7eadfd23c7bdb7c">明世宗朱厚熜改庙号为“成祖”</a>，改谥号“启天弘道高明肇运圣武神功纯仁至孝文皇帝”，葬于明十三陵之长陵。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>四、明仁宗朱高炽</strong></p>
+<p style="TEXT-INDENT:2em">
+	明仁宗朱高炽（1378-1425），明成祖朱棣长子。朱高炽生性端重沉静，言行识度，喜好读书。由于他的儒雅与仁爱深得皇祖父朱元璋的喜爱。但身形较胖，导致身体较弱。永乐二十二年（1424年）八月，当了二十年太子的朱高炽登基，洪熙元年（1425年）五月二十九日，因肥胖引发的心脏病猝死于宫内钦安殿，在位仅十月，终年47岁。在位期间，立皇后皇后张氏。共有子十人，女七人，其中九子四女成年，长子朱瞻基为他与张后所生。虽然在位时间很短，但是为人宽厚，为政开明，发展生产，与民休息。他赦免了建文帝的许多旧臣和其家属，平反了许多冤狱，恢复他们的官职，还对跟自己争夺皇位的两个弟弟朱高熙和朱高燧不计前嫌，这一系列措施极大的缓和朝廷内部的矛盾。废除了许多苛政，停止了朱棣时期的大规模用兵，天下百姓得到了休息，文化得到了复兴，读书人的待遇比洪武、永乐两朝要好。朱高炽天禀纯明，从善改过，恭俭爱民，<a href="http://www.xixik.com/content/6fb458032e2ca689" title="当了20年太子10个月的皇帝 却改变了大明走向">因此后世对他的评价很高，后人将他的儿子和他并称为“仁宣之治”</a>。</p>
+<p style="TEXT-INDENT:2em">
+	在明成祖起兵靖难时，朱高炽由于体态肥胖、行动不便，被命留守北京。父亲和兄弟俩在前线战场厮杀，而在北京城的朱高炽也成功以万人之军阻挡了建文帝五十万大军的进攻，守住了北京城。靖难之役后，朱棣登上了皇位，而朱高炽的人生开始转变。在大学士解缙、黄淮等人的催促下，朱棣立朱高炽为太子。不过朱棣似乎并不喜欢他，而是对骁勇好战的朱高熙更加青睐。还对朱高炽说道：你要多加努力。</p>
+<p style="TEXT-INDENT:2em">
+	庙号仁宗，谥号敬天体道纯诚至德弘文钦武章圣达孝昭皇帝，葬于明十三陵之献陵。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>五、明宣宗朱瞻基</strong></p>
+<p style="TEXT-INDENT:2em">
+	明宣宗朱瞻基（1398年-1435年1月31日），明仁宗朱高炽长子。建文元年（1399年）二月初九生于燕王府，永乐九年（1411年）立为皇太孙，数度随成祖征讨。洪熙元年（1425年）即位，年号宣德，成为明朝第五位皇帝。宣德元年（1426年）平定汉王朱高煦叛乱，他和其父一样，比较能倾听臣下的意见，听从阁臣杨士奇、杨荣等建议，停止对交阯用兵，与明仁宗并称“仁宣之治”，宣宗时君臣关系融洽，经济也稳步发展。 宣德十年（1435）正月初三日，逝于乾清宫，享年38岁。</p>
+<p style="TEXT-INDENT:2em">
+	庙号：宣宗，谥号“宪天崇道英明神圣钦文昭武宽仁纯孝章皇帝”，葬于明十三陵之景陵。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>六、明英宗朱祁镇</strong></p>
+<p style="TEXT-INDENT:2em">
+	明英宗朱祁镇（1427—1464）。明宣宗长子。9岁即位。初大事权归皇太后张氏，以累朝元老杨士奇、杨荣、杨溥主持政务 ，继续推行仁宣朝的各项政策，社会经济也有所发展。张氏死后，三杨去位，宠信太监王振，振遂广植朋党，启明代宦官专权之端。十四年，瓦剌入犯，听从王振之言亲征，<a href="http://www.xixik.com/content/8d6f51db0f7179fb">抵土木堡兵败被俘</a>。成王朱祁钰被拥立为帝，改元景泰。元年（1451年），英宗被释回京，被尊为太上皇，软禁于南宫。八年，武清侯石亨等乘景帝病重发动兵变，迎英宗复位，改元天顺。这位经历了“土木之变”，被掳去做俘虏，后艰难归国复位并没有什么建树，反而一生都受制于人的皇帝在临终前，却下遗诏说:“用人殉葬，吾不忍也，此事宜自我止，后世勿复为。”这样，<a href="http://www.xixik.com/content/a627ea723a4769c8">最终废止了惨无人道的人殉制度</a>。</p>
+<p style="TEXT-INDENT:2em">
+	庙号英宗，谥号“法天立道仁明诚敬昭文宪武至德广孝睿皇帝”，葬于明十三陵之裕陵。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>七、明景帝朱祁钰</strong></p>
+<p style="TEXT-INDENT:2em">
+	明景帝朱祁钰（1428-1457），宣宗次子，英宗被瓦剌俘虏后被拥立为帝（1449年），年号“景泰”，又称为“景帝”，即位后，用于谦为兵部尚书，粉碎了瓦剌对北京的进攻，迫使瓦剌放回英宗，英宗放回后，景帝将其软禁，直到1457年，景帝病危时，英宗才又被拥为帝。景帝死于1457年，在位9年时，年30岁。</p>
+<p style="TEXT-INDENT:2em">
+	庙号代宗，谥号“符天建道恭仁康定隆文布武显德崇孝景皇帝”。以“王”的身份葬于北京西郊玉泉山，称为景泰陵。他是明代迁都北京之后，唯一一位没有葬于明十三陵的皇帝。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>八、明宪宗朱见深</strong></p>
+<p style="TEXT-INDENT:2em">
+	明宪宗朱见深（1447-1487），明英宗长子，明朝第八代皇帝。初名朱见浚。土木之变，英宗被瓦剌掳去。景泰三年（1452）明代宗即位后，被废为沂王，天顺元年（1457）英宗复辟，又被立为皇太子，改名朱见深。初年为于谦平冤昭雪，恢复景帝帝号，又能体谅民情，励精图治。在位末年，好方术，终日沉溺于后宫与比他大19岁的宫女万贵妃享乐，并宠信宦官汪直、梁芳等人，以至奸佞当权，西厂横恣，朝纲败坏。</p>
+<p style="TEXT-INDENT:2em">
+	庙号宪宗，谥号“继天凝道诚明仁敬崇文肃武宏德圣孝纯皇帝”，葬于明十三陵之茂陵。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>九、明孝宗朱佑樘</strong></p>
+<p style="TEXT-INDENT:2em">
+	明孝宗朱祐樘（1470-1505），年号“弘治”，宪宗皇帝第三子。1487年即位，在位期间，孝宗“更新庶政，言路大开”，勤于政事，励精图治，驱除宫内奸臣，任用王恕、刘大夏等为人正直的贤臣，使英宗朝以来奸佞当道的局面，得以改观，明朝再度中兴盛世。史称“弘治中兴”， 被誉为“中兴之令主”。死于1505年，在位19年，享年36岁。</p>
+<p style="TEXT-INDENT:2em">
+	庙号孝宗，谥号“建天明道纯诚中正圣文神武至仁大德敬皇帝”，葬于明十三陵之泰陵。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>十、明武宗朱厚燳</strong></p>
+<p style="TEXT-INDENT:2em">
+	明武宗朱厚燳（公元1491—公元1521年），年号“正德”，父亲明孝宗朱祐樘，母亲张皇后，公元1505年—公元1521年在位，明武宗是历史上很有争议的一位皇帝。以往很多人认为他荒淫暴戾，怪诞无耻，是少见的无道昏君。然而通过近些年来历史学界的研究，人们对武宗的认识有所改变，有人认为他追求个性解放，追求自由平等，为人却又平易近人，心地善良，是极具个性色彩的一个人。</p>
+<p style="TEXT-INDENT:2em">
+	庙号“武宗”，谥号“承天达道英肃睿哲昭德显功弘文思孝毅皇帝”，葬于明十三陵之康陵。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>十一、明世宗朱厚熜</strong></p>
+<p style="TEXT-INDENT:2em">
+	明世宗朱厚熜（1507年9月16日-1567年1月23日） ，明宪宗朱见深之孙，明孝宗朱佑樘之侄，兴献王朱佑杬之子，明武宗朱厚照的堂弟。明朝第十一位皇帝。1521年即位，年号“嘉靖”，后世称嘉靖帝。世宗前期颇有一些作为，诛杀宦官，节用宽民，但后期荒淫无度，政治腐败，多次爆发农民起义世宗因服丹药中毒死，在位46年，时年60岁。</p>
+<p style="TEXT-INDENT:2em">
+	嘉靖帝是中国封建历史上最为独特的皇帝，也是明朝皇帝中最任性和倔强的一位， 他为人非常聪明，尤其在书法和文辞修养都有不错的造诣。同时也特别敏感，但是也十分勤奋，批阅奏书票拟经常到后半夜。 史书评价嘉靖帝为"中兴之主"，说他"有不世之奇谟六，无竞之伟烈四，而又有震世之独行五"。</p>
+<p style="TEXT-INDENT:2em">
+	庙号世宗，谥号“钦天履道英毅神圣宣文广武洪仁大孝肃皇帝”，葬于明十三陵之永陵。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>十二、明穆宗朱载垕</strong></p>
+<p style="TEXT-INDENT:2em">
+	明穆宗朱载垕（1537-1572），世宗第三子，1566年即位，年号“隆庆”。<a href="http://114.xixik.com/chaodai/ming/" style="color:#000;" title="明朝">明朝</a>第十二位皇帝。少年因其母缘故而不得父皇宠爱。是明世宗与杜康妃之子， 因其母亲杜康妃失宠，又非长子，所以很少得到父爱。登基前的内忧外患使他关心朝局，对他登基后处理政务有着较大的影响。倚靠高拱、陈以勤、张居正等大臣的尽力辅佐，实行革弊施新的政策。 但因为沉迷媚药，也服这些媚药助兴，导致慌于政事。明穆宗宽仁大度，勤俭爱民，留心边陲之事，处理都恰到好处，可以称之为明主。在位7年，死于1572年，时年36岁。</p>
+<p style="TEXT-INDENT:2em">
+	他的一生，基本上没有什么值得大书特书的事情。他唯一的爱好就是女人，他最大的优点就是他的无能。万历二年（1574），张居正主持修纂《穆宗实录》，对刚刚过世的穆宗有极高的评价：“上（穆宗）即位，承之以宽厚，躬修玄默，不降阶序而运天下，务在属任大臣，引大体，不烦苛，无为自化，好静自正，故六年之间，海内翕然，称太平天子云。”相比较而言，穆宗的性格确实是正德以后历代皇帝中最谦和的。在他之前，是终日沉迷于道教而略有些变态的嘉靖皇帝；在他之后，是一个在偏激、厌世及对官僚政治的轻蔑中度过30年岁月的万历皇帝。所以，只有明静、宽仁的隆庆帝，才让大臣们有足够的空间来施展抱负。隆庆一朝，只有六年。但是，其间人才辈出，徐阶、张居正、高拱，都是人中豪杰。在他们的主持下，隆庆一朝倒真是一个太平盛世。</p>
+<p style="TEXT-INDENT:2em">
+	庙号穆宗，谥号“契天隆道渊懿宽仁显文光武纯德弘孝庄皇帝”，葬于明十三陵之昭陵。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>十三、明神宗朱翊钧</strong></p>
+<p style="TEXT-INDENT:2em">
+	明神宗朱翊钧（1563年—1620年），明穆宗朱载垕第三子，明朝第十三位皇帝。隆庆六年（1572年）即位，即位时才10岁，年号“万历”，由皇太后陈氏及李贵妃主持政务，内阁首辅张居正主持政务，实行了一系列改革措施，社会经济有很大的发展，人民生活也有所提高。朱翊钧在位初之十年，亲政后，励精图治、生活节俭，有勤勉明君之风范，开创了“万历中兴”局面。后期深居宫中，荒淫享乐，政治腐败，神宗时，北方努尔哈赤建立后金，窥视中原。神宗在位48年，死于1620年，时年58岁，是明朝在位时间最长的皇帝。</p>
+<p style="TEXT-INDENT:2em">
+	庙号神宗，谥号“范天合道哲肃敦简光文章武安仁止孝显皇帝”，葬于明十三陵之定陵（唯一被发掘的明十三陵）。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>十四、明光宗朱常洛</strong></p>
+<p style="TEXT-INDENT:2em">
+	明光宗朱常洛（1582-1620），年号泰昌，明代第14位皇帝，1620年即位，在位一个月。明神宗万历帝长子，母王恭妃。朱常洛是明代传奇色彩最浓的一位皇帝，明宫三大疑案都与他有关，万历皇帝并不喜爱这位太子，他的位置曾一度岌岌可危，苦熬了三十九年之后，他终于得到了梦寐以求的皇帝宝座，但是<a href="http://www.xixik.com/content/16aa750c7475b6d6" title="朱常洛夜御七女">光宗是一个贪财好色的皇帝，由于淫欲过度</a>，即位当天就病倒了，后因服用丹砂过度，就在他即位的第三十天清晨，这位刚要展翅高飞的皇帝就莫名其妙地去世了，时年39岁。死后谥崇天契道英睿恭纯宪文景武渊仁懿孝贞皇帝，葬于庆陵。《谥法》云：“能绍前业曰光”。</p>
+<p style="TEXT-INDENT:2em">
+	庙号光宗，谥号“崇天契道英睿恭纯宪文景武渊仁懿孝贞皇帝”。葬于明十三陵之庆陵。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>十五、明熹宗朱由校</strong></p>
+<p style="TEXT-INDENT:2em">
+	明熹宗朱由校（公元1605-1627年），明末皇帝，光宗长子，年号“天启”。1620年阴历九月—1627年阴历八月在位，年号天启（1621—1627年），故又称天启帝。明光宗朱常洛长子，父亲光宗在位仅29天便因“红丸案”而暴毙，朱由校经过“移宫案”的风波，为群臣拥立继位。在位7年，因嬉乐过度成病（一说曾落水，留下病根），于天启七年（1627年）服用“仙药”而死，终年23岁。朱由校好木工，又称木工皇帝。即位之后不理朝政，任用宦官魏忠贤，致使政治腐败，朝政日益败坏。后金努尔哈赤乘机攻占沈阳。天启帝有三男二女，无一长成。终无子，遗诏立五弟信王朱由检为皇帝，即后来的明思宗（崇祯帝）。</p>
+<p style="TEXT-INDENT:2em">
+	<span arial="" style="color: rgb（0, 0, 0）; font-family: 宋体, ">庙</span>号熹宗，谥号“达天闻道敦孝笃友章文襄武靖穆庄勤悊皇帝”，葬于明十三陵之德陵。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>十六、明思宗朱由检</strong></p>
+<p style="TEXT-INDENT:2em">
+	思宗朱由检（1610-1644），光宗第五子，1627年即位，年号“崇祯”。即位后，<a href="http://www.xixik.com/content/b003a298c2ad0d05" title="崇祯皇帝非常勤勉 为什么还不能挽回明朝的命运">大力铲除阉党，诛杀魏忠贤，颇为勤政，勉力振作</a>，“惜乎大势已倾……遂至溃烂而莫可救”。<a href="http://www.xixik.com/content/0dae3457b2718a29" title="崇祯上吊的因果链 裁驿省银成就李自成夺取江山">各地农民起义不断爆发</a>，北方皇太极又不断骚扰入侵，又加上崇祯性多疑，刚愎自用。终于在1644年4月25日，李自成攻入北京，<a href="http://www.xixik.com/content/4c82aa95e48810a9" target="_blank" title="吊死煤山的崇祯皇帝为何死前杀了众子女妃嫔？">崇祯皇帝杀了众子女嫔妃</a>，登上了万岁山（后改称景山）。在一棵比人略高的海棠树（一说“古槐”）下，自缢身亡。其时崇祯穿着蓝色的衣服，左脚光着，右脚穿一只红鞋。<a href="http://www.xixik.com/content/d09cf1a0ec3e19c7">历朝的末代皇帝，下场都很凄惨</a>，<a href="http://www.xixik.com/content/f5f6a1802925ca00" title="崇祯帝有活路不走，非得寻死真得算上“千古一帝”">不过沦落到崇祯这个地步，恐怕也算的上是前无古人，后无来者了</a>。&#160;时年35岁，死时只有一个叫王承恩的太监跟随一起从死。死前留下遗言：“朕自登基十七年，逆贼直逼京师。虽朕凉德藐躬，上干天咎，然皆诸臣误朕也。朕死无面目见祖宗于地下，自去冠冕，以发覆面。任贼分裂朕尸，勿伤百姓一人。”翻译：我德行浅薄、身体孱弱，以致于上触天怒，受到上天惩罚，但是都因众位大臣误导了我啊。我死后没脸面去见老祖宗，（所以）我自己摘去皇冠，用头发盖住脸。（哪怕）任凭贼人把我尸身分割，（只希望）不要伤害一个百姓。</p>
+<p style="TEXT-INDENT:2em">
+	这段话，可以归结为三层意思，一是“诸臣之误朕”，有推卸责任之嫌；二是“无面目见祖宗”，这是真正痛心的事；三是“任贼分裂朕尸，勿伤百姓一人”，这也应是真心话，他毕竟不是一位残暴之君。“任贼分裂朕尸，勿伤百姓一人。”上下5000年，哪个皇帝死前还惦记着百姓呢？一个皇帝死前能说出这种话，也足以名列汗青了。这才是真正的炎黄子孙，龙的传人。宁愿站着死，不愿跪着生。<a href="http://www.xixik.com/content/726c241134dae6cd" title="崖山之后无中国">堪比崖山壮士</a>。这也是儒家文化真正的可贵的地方。凭心而论，比起祖父和父亲，崇祯还不算是个昏庸的主子。但我们的规矩，一个朝代的所有弊政，最后都要算到末代皇帝身上。除去中了皇太极的反间计杀袁崇焕外，崇祯也并没有做什么太出格的事情。<a href="http://www.xixik.com/content/b003a298c2ad0d05" style="text-indent: 2em;" title="崇祯皇帝非常勤勉 为什么还不能挽回明朝的命运">朝初也曾有过重整山河的志向</a>。不过大明江山的确气数已尽，该来的最终也无法避免。<a href="http://www.xixik.com/content/de8d0024aebcb0a7" style="text-indent: 2em;" title="同为“亡国之君”，崇祯皇帝凭啥不招恨甚至有同情">只是崇祯死在贼寇李自成手中，着实令人惋惜。</a></p>
+<p style="TEXT-INDENT:2em">
+	庙号怀宗，后改思宗、毅宗。清朝上谥号守道敬俭宽文襄武体仁致孝庄烈愍皇帝，<a href="http://www.xixik.com/content/c50dd25f5a45fca7" title="被污名化的皇帝 你不知道的南明弘光帝朱由崧">南明弘光帝朱由崧</a>上谥号绍天绎道刚明恪俭揆文奋武敦仁懋孝烈皇帝。葬于十三陵思陵。<a href="http://www.xixik.com/content/93b754d500338c25" target="_blank" title="中国古代庙号、谥号、帝号、年号简介及区别">中国古代庙号、谥号、帝号、年号简介及区别</a></p>
+<p style="TEXT-INDENT:2em">
+	<strong>关于明朝皇帝寿命</strong></p>
+<p style="text-indent: 2em;">
+	明朝十六帝除了除了太祖（71岁）、成祖超过六十周岁（64岁），人活七十古来稀，这样的说法就是活到七十岁的人就已经算是高寿了。然而对于古代历朝皇帝，也是很少有人可以长寿。明朝其他皇帝大多在四十岁左右去世，明朝16位皇帝在世平均年龄42岁。最长的是开国皇帝洪武朱元璋71岁，其次是永乐朱棣65岁，再其次是嘉靖朱厚熜60岁和万历朱翊钧58岁。40至50岁2人，30至40岁8人（一半皇帝），20至30岁2人。所有年龄还是以虚岁计。这是什么原因造成明朝皇帝多短寿这一现象呢？明朝有十位皇帝都没能活过四十岁，有人说是明朝皇帝工作压力大，但明朝制度类似于“君主立宪制”，尽管没有现代人认为的那么夸张，但工作确实大多数都是分担到内阁，就算没有皇帝，朝廷也能够顺利的运转。有人说是皇室身体素质的问题，但是同样是朱家子孙，明朝皇帝除了<a href="http://www.xixik.com/content/baec2754e25b4eac" title="朱元璋生了26个儿子">朱元璋生了26个儿子</a>，太祖一脉的后人却大多很长寿，活到七八十岁的很常见，有的甚至生育上百个儿子，可见明朝皇室并非天生身体不好。</p>
+<p style="text-indent: 2em;">
+	我们从朱棣留下的子孙数量和成年人数，就可略知一二：明成祖朱棣有四子，有两个封为藩王，其中一人因造反被诛杀，幼子早逝。明仁宗朱高炽有十个儿子，其中二个早逝，四个藩王病逝。明英宗朱祁镇有九个儿子，其中四个早逝。明代宗朱祁钰只有一个儿子，早逝。直到明宪宗朱见深这里才有所好转，一下生了十四个儿子，但是之后就有不行了，明孝宗朱祐樘只有一个成年儿子，即后来的正德皇帝明武宗。明武宗朱厚照没有后人，只能让堂弟继承王位。可以看到，朱棣嫡系子孙越来越少。</p>
+<p style="text-indent: 2em;">
+	有专家指出可能性最大的是，明成祖朱棣身怀某些疾病，朱元璋活了七十一岁，要是有家族遗传病史，那么朱棣也就不会活了64岁了，我们知道朱棣在早年为了扩大疆域，开始东征西战，这样一来就会加重身体的疲惫，当时朱棣的死是因为自己患有心脑血管等这些疾病，其主要原因就是自己常年的征战所引发的。这样的疾病对于自己的后代是有关系的。心脑血管疾病就算是医疗技术发达的今天也是如此，对于这样的疾病还是死亡率很高的。朱棣遗传给了子孙，才导致他这一脉后人普遍短寿。不过即便如此，<a href="http://www.xixik.com/content/e9fbd80f14780f0d" style="text-indent: 2em;" title="明朝皇帝比清朝皇帝强多了">在生育这一点上，明朝皇帝确实比清朝皇帝强多了</a>。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>关于<a href="http://114.xixik.com/chinese-emperors/ming/" style="color:#000" title="明朝皇帝列表">明朝皇帝</a>的陵墓</strong></p>
+<p style="text-indent: 2em; text-align: center;">
+	<img src="http://img.xixik.net/custom/section/chinese-emperors/ming/xixik-d9471c8c30288a73.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	明十三陵是<a href="http://114.xixik.com/chinese-emperors/ming/" style="color:#000" title="明朝皇帝列表">明朝皇帝</a>的墓葬群，坐落在北京市西北郊昌平区境内的燕山山麓的天寿山。明朝自开国以来，从明太祖朱元璋传到明思宗朱由检（即崇祯皇帝），共传了16位皇帝，那16位皇帝为何才13陵？其中除了开国皇帝、明太祖朱元璋葬在南京明孝陵，还有那个在靖难役中不知所踪的第二任皇帝建文帝朱允炆外，其余14位皇帝中的13位，就连亡国之君吊死煤山的明思宗朱由检，都葬在了北京的明十三陵：长陵（成祖）、献陵（仁宗）、景陵（宣宗）、裕陵（英宗）、茂陵（宪宗）、泰陵（孝宗）、康陵（武宗）、永陵（世宗）、昭陵（穆宗）、定陵（神宗）、庆陵（光宗）、德陵（熹宗）、<a href="http://www.xixik.com/content/f8dbfb2d656bac30" title="揭十三陵被盗真相:思陵原有安防设施全面瘫痪">思陵（思宗）</a>。唯独第七任皇帝——明代宗朱祁钰，却没被葬入十三陵。朱祁钰被害死，英宗不承认他是皇帝，将其在天寿山区域内修建的陵墓也给捣毁了。而以“王”的身份将他葬于北京西郊玉泉山，其陵墓被称为景泰陵。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/a627ea723a4769c8"><strong>关于殉葬习俗的复活和终止</strong></a></p>
+<p style="TEXT-INDENT:2em">
+	帝死妃殉的恶俗在汉初即被刘邦废除了，但到14世纪又被明太祖朱元璋复活了。</p>
+<p style="TEXT-INDENT:2em">
+	1395年，明太祖朱元璋的次子、秦王朱樉英年早逝，朱元璋伤心之余，下令将朱樉的两个王妃王氏、邓氏殉葬。两条活生生的人命，就此香消玉殒，只在《明史》上留下5个字：“樉薨，王妃殉。”</p>
+<p style="TEXT-INDENT:2em">
+	1398年，朱元璋驾崩，“伺寝宫人尽数殉葬”。共有46名妃嫔、宫女殉葬，随朱元璋一同葬入孝陵</p>
+<p style="TEXT-INDENT:2em">
+	1424年，朱棣死后，也有活人殉葬。朱棣死后，关于嫔妃宫女殉葬的事就提上了议事日程，嗣皇帝、朱棣的大儿子明仁宗朱高炽圈定了殉葬者的名单。“帝崩，宫人殉葬者三十余人。当死之日，皆饷之于庭，饷辍，俱引升堂，哭声震殿阁。堂上置木小床，使立其上，挂绳围于其上，以头纳其中，遂去其床，皆雉颈而死。”上面这段文字并不见于中国文献，出自朝鲜的《李朝世宗实录》。朝鲜为何有这段记载？大概是因所殉嫔妃中有两位朝鲜选献的美女——韩氏和崔氏。处死所殉嫔妃的情景，相当让人难过和不忍。实录中是这样记的：“韩氏临死，顾谓金黑曰：‘娘，吾去!娘，吾去!’语未竟，旁有宦者去床，乃与崔氏俱死。”当时，殉葬仪式由朱高炽亲自到场主持，并与她们每人一一话别，史载“褚（诸）死者之初升堂也，仁宗亲入辞决”，就是这么一回事情。韩氏在殉葬前，就不住地哭泣，临死前她向朱高炽提了一个要求，希望年老的母亲能得到照顾：“吾母年老，愿规（归）本国。”</p>
+<p style="TEXT-INDENT:2em">
+	真正废除后妃殉葬制度的，是明英宗朱祁镇。朱祁镇是明朝第六任、第八任皇帝。他当了20多年皇帝，政绩乏善可陈。唯一令人称道的，可能就是废除了后妃殉葬制度。1464年，朱祁镇在逝世前发布遗诏，说：“用人殉葬，吾不忍也，此事宜自我止，后世勿复为。”</p>
+<p style="TEXT-INDENT:2em">
+	朱祁镇之所以要废除后妃殉葬制度，与他小时候的一段经历有关。1435年，朱祁镇父亲、明宣宗朱瞻基驾崩时，许多后妃被迫殉葬这种悲惨的情形，让9岁的朱祁镇深受刺激。另一方面，朱祁镇也是想通过废除后妃殉葬制度，保护自己的没有生育儿子的爱妻钱皇后。钱皇后是朱祁镇的结发妻子，一生患难与共。特别是朱祁镇在“土木之变”后被蒙古人俘虏，软禁了一年多。一年多里，钱皇后陪伴丈夫身边，不离不弃，悉心照顾，支撑着他度过了人生中最狼狈、最危险、最困窘的日子。因此，朱祁镇很感激她。为朱祁镇生育了长子朱见深的周贵妃，想方设法要废掉钱皇后，被朱祁镇阻止了。但朱祁镇深知，自己死去后，就没办法保护钱皇后了，便干脆立下遗诏，废除了后妃殉葬制度。</p>
+<p style="TEXT-INDENT:2em">
+	果然，当朱祁镇死后，周贵妃立即向钱皇后发难，幸好有了朱祁镇遗诏的保护，钱皇后和其余后妃才得以幸免。值得肯定的是，在朱祁镇以后，继任皇帝明宪宗朱见深也在遗诏中明确表示不要殉葬。除了皇帝，诸王入葬也基本禁绝了活人殉葬。在中国断断续续实行了数千年的活人殉葬制度，到此划上了休止符了么？没有，在关外，<a href="http://www.xixik.com/content/550b715cece0b26f" target="_blank" title="皇太极如何抢皇位 多尔衮母亲被假传遗诏殉葬">大金国夺位时，多尔衮母亲阿巴亥被皇太极假传遗诏殉葬</a>。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor3"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        明朝皇帝列表（详表）</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<th width="50">
+				代</th>
+			<th width="50">
+				庙号</th>
+			<th>
+				谥号</th>
+			<th width="100">
+				姓名</th>
+			<th width="30">
+				年号</th>
+			<th>
+				统治时间</th>
+			<th>
+				人物关系</th>
+			<th width="80">
+				陵墓</th>
+			<th>
+				备注</th>
+		</tr>
+		<tr>
+			<td>
+				追尊</td>
+			<td>
+				明德祖</td>
+			<td>
+				玄皇帝</td>
+			<td>
+				朱百六</td>
+			<td>
+				-</td>
+			<td>
+				<br />
+				　　</td>
+			<td>
+				<br />
+				　　</td>
+			<td rowspan="3">
+				明祖陵</td>
+			<td>
+				朱元璋追谥</td>
+		</tr>
+		<tr>
+			<td>
+				追尊</td>
+			<td>
+				明懿祖</td>
+			<td>
+				恒皇帝</td>
+			<td>
+				朱四九</td>
+			<td>
+				-</td>
+			<td>
+				<br />
+				　　</td>
+			<td>
+				<br />
+				　　</td>
+			<td>
+				朱元璋追谥</td>
+		</tr>
+		<tr>
+			<td>
+				追尊</td>
+			<td>
+				明熙祖</td>
+			<td>
+				裕皇帝</td>
+			<td>
+				朱初一</td>
+			<td>
+				-</td>
+			<td>
+				<br />
+				　　</td>
+			<td>
+				<br />
+				　　</td>
+			<td>
+				朱元璋追谥</td>
+		</tr>
+		<tr>
+			<td>
+				追尊</td>
+			<td>
+				明仁祖</td>
+			<td>
+				淳皇帝</td>
+			<td>
+				朱五四</td>
+			<td>
+				-</td>
+			<td>
+				<br />
+				　　</td>
+			<td>
+				<br />
+				　　</td>
+			<td>
+				明皇陵</td>
+			<td>
+				朱元璋追谥</td>
+		</tr>
+		<tr>
+			<td>
+				1</td>
+			<td>
+				明太祖</td>
+			<td>
+				开天行道肇纪立极大圣至神仁文义武俊德成功高皇帝</td>
+			<td>
+				朱元璋</td>
+			<td>
+				洪武</td>
+			<td>
+				1368年—1398年</td>
+			<td>
+				<br />
+				　　</td>
+			<td>
+				明孝陵</td>
+			<td>
+				<br />
+				　　</td>
+		</tr>
+		<tr>
+			<td>
+				追尊</td>
+			<td>
+				明兴宗</td>
+			<td>
+				和天敬道宪懿勤敏淳文度武明仁慈孝康皇帝</td>
+			<td>
+				朱标①</td>
+			<td>
+				-</td>
+			<td>
+				<br />
+				　　</td>
+			<td>
+				朱元璋长子</td>
+			<td>
+				明东陵</td>
+			<td>
+				朱允炆追谥</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="2">
+				2</td>
+			<td colspan="1" rowspan="2">
+				明惠宗</td>
+			<td>
+				嗣天章道诚懿渊功观文扬武克仁笃孝让皇帝</td>
+			<td colspan="1" rowspan="2">
+				朱允炆②</td>
+			<td colspan="1" rowspan="2">
+				建文</td>
+			<td colspan="1" rowspan="2">
+				1398年—1402年</td>
+			<td colspan="1" rowspan="2">
+				朱元璋之孙 朱标第二个儿子</td>
+			<td colspan="1" rowspan="2">
+				失踪</td>
+			<td>
+				朱由崧追谥</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				恭闵惠皇帝</td>
+			<td>
+				清高宗追谥</td>
+		</tr>
+		<tr>
+			<td>
+				3</td>
+			<td>
+				明太宗<br />
+				明成祖</td>
+			<td>
+				体天弘道高明广运圣武神功纯仁至孝文皇帝/启天弘道高明肇运圣武神功纯仁至孝文皇帝（嘉靖帝改谥）</td>
+			<td>
+				朱棣③</td>
+			<td>
+				永乐</td>
+			<td>
+				1402年—1424年</td>
+			<td>
+				朱元璋四子</td>
+			<td>
+				明长陵</td>
+			<td>
+				<br />
+				朱厚熜改谥</td>
+		</tr>
+		<tr>
+			<td>
+				4</td>
+			<td>
+				明仁宗</td>
+			<td>
+				敬天体道纯诚至德弘文钦武章圣达孝昭皇帝</td>
+			<td>
+				朱高炽</td>
+			<td>
+				洪熙</td>
+			<td>
+				1424年—1425年 （264天）</td>
+			<td>
+				朱棣长子</td>
+			<td>
+				明献陵</td>
+			<td>
+				<br />
+				　　</td>
+		</tr>
+		<tr>
+			<td>
+				5</td>
+			<td>
+				明宣宗</td>
+			<td>
+				宪天崇道英明神圣钦天昭武宽仁纯孝章皇帝</td>
+			<td>
+				朱瞻基</td>
+			<td>
+				宣德</td>
+			<td>
+				1425年—1435年</td>
+			<td>
+				朱高炽长子</td>
+			<td>
+				明景陵</td>
+			<td>
+				<br />
+				　　</td>
+		</tr>
+		<tr>
+			<td>
+				6</td>
+			<td>
+				明英宗</td>
+			<td>
+				法天立道仁明诚敬昭文宪武至德广孝睿皇帝</td>
+			<td>
+				朱祁镇</td>
+			<td>
+				正统<br />
+				天顺</td>
+			<td>
+				1435年—1449年 1457年—1464年</td>
+			<td>
+				朱瞻基长子</td>
+			<td>
+				明裕陵</td>
+			<td>
+				<br />
+				　　</td>
+		</tr>
+		<tr>
+			<td>
+				7</td>
+			<td>
+				明代宗</td>
+			<td>
+				恭仁康定景皇帝/ 符天建道恭仁康定隆文布武显德崇孝景皇帝</td>
+			<td>
+				朱祁钰④</td>
+			<td>
+				景泰</td>
+			<td>
+				1449年—1457年</td>
+			<td>
+				朱瞻基次子 朱祁镇异母弟</td>
+			<td>
+				景泰陵</td>
+			<td>
+				<br />
+				　　</td>
+		</tr>
+		<tr>
+			<td>
+				8</td>
+			<td>
+				明宪宗</td>
+			<td>
+				继天凝道诚明仁敬崇文肃武宏德圣孝纯皇帝</td>
+			<td>
+				朱见深</td>
+			<td>
+				成化</td>
+			<td>
+				1464年—1487年</td>
+			<td>
+				朱祁镇长子</td>
+			<td>
+				明茂陵</td>
+			<td>
+				<br />
+				　　</td>
+		</tr>
+		<tr>
+			<td>
+				9</td>
+			<td>
+				明孝宗</td>
+			<td>
+				达天明道纯识中正圣文神武至仁大德敬皇帝</td>
+			<td>
+				朱祐樘</td>
+			<td>
+				弘治</td>
+			<td>
+				1487年—1505年</td>
+			<td>
+				朱见深第三子</td>
+			<td>
+				明泰陵</td>
+			<td>
+				<br />
+				　　</td>
+		</tr>
+		<tr>
+			<td>
+				10</td>
+			<td>
+				明武宗</td>
+			<td>
+				承天达道英肃睿哲昭德显功弘文思孝毅皇帝</td>
+			<td>
+				朱厚燳</td>
+			<td>
+				正德</td>
+			<td>
+				1505年—1521年</td>
+			<td>
+				朱祐樘和张皇后的长子</td>
+			<td>
+				明康陵</td>
+			<td>
+				<br />
+				　　</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				<br />
+				　　</td>
+			<td colspan="1" rowspan="1">
+				<br />
+				　　</td>
+			<td colspan="1" rowspan="1">
+				废帝</td>
+			<td colspan="1" rowspan="1">
+				朱宸濠</td>
+			<td colspan="1" rowspan="1">
+				顺德</td>
+			<td colspan="1" rowspan="1">
+				未实际统治</td>
+			<td>
+				<br />
+				　　</td>
+			<td colspan="1" rowspan="1">
+				<br />
+				　　</td>
+			<td colspan="1" rowspan="1">
+				自称皇帝，发动武装叛乱夺位失败，基本不被史家承认</td>
+		</tr>
+		<tr>
+			<td>
+				追尊</td>
+			<td>
+				明睿宗</td>
+			<td>
+				知天守道洪德渊仁宽穆纯圣恭简敬文献皇帝</td>
+			<td>
+				朱祐杬⑤</td>
+			<td>
+				-</td>
+			<td>
+				<br />
+				　　</td>
+			<td>
+				<br />
+				　　</td>
+			<td>
+				明显陵</td>
+			<td>
+				朱厚熜追谥</td>
+		</tr>
+		<tr>
+			<td>
+				11</td>
+			<td>
+				明世宗</td>
+			<td>
+				钦天履道英毅神圣宣文广武洪仁大孝肃皇帝</td>
+			<td>
+				朱厚熜</td>
+			<td>
+				嘉靖</td>
+			<td>
+				1521年—1566年</td>
+			<td>
+				明宪宗之孙 明武宗的堂弟</td>
+			<td>
+				明永陵</td>
+			<td>
+				<br />
+				　　</td>
+		</tr>
+		<tr>
+			<td>
+				12</td>
+			<td>
+				明穆宗</td>
+			<td>
+				契天隆道渊懿宽仁显文光武纯德弘孝庄皇帝</td>
+			<td>
+				朱载垕</td>
+			<td>
+				隆庆</td>
+			<td>
+				1566年—1572年</td>
+			<td>
+				朱厚熜第三子</td>
+			<td>
+				明昭陵</td>
+			<td>
+				<br />
+				　　</td>
+		</tr>
+		<tr>
+			<td>
+				13</td>
+			<td>
+				明神宗</td>
+			<td>
+				范天合道哲肃敦简光文章武安仁止孝显皇帝</td>
+			<td>
+				朱翊钧</td>
+			<td>
+				万历</td>
+			<td>
+				1572年-1620年</td>
+			<td>
+				朱载垕第三子</td>
+			<td>
+				明定陵</td>
+			<td>
+				<br />
+				　　</td>
+		</tr>
+		<tr>
+			<td>
+				14</td>
+			<td>
+				明光宗</td>
+			<td>
+				崇天契道英睿恭纯宪文景武渊仁懿孝贞皇帝</td>
+			<td>
+				朱常洛</td>
+			<td>
+				泰昌</td>
+			<td>
+				1620年（29天）</td>
+			<td>
+				朱翊钧长子</td>
+			<td>
+				明庆陵</td>
+			<td>
+				<br />
+				　　</td>
+		</tr>
+		<tr>
+			<td>
+				15</td>
+			<td>
+				明熹宗</td>
+			<td>
+				达天闻道敦孝笃友章文襄武靖穆庄勤悊皇帝</td>
+			<td>
+				朱由校</td>
+			<td>
+				天启</td>
+			<td>
+				1620年—1627年</td>
+			<td>
+				朱常洛长子</td>
+			<td>
+				明德陵</td>
+			<td>
+				<br />
+				　　</td>
+		</tr>
+		<tr>
+			<td>
+				16</td>
+			<td>
+				<a href="http://www.xixik.com/content/4c82aa95e48810a9">明思宗</a></td>
+			<td>
+				绍天绎道刚明恪俭揆文奋武敦仁懋孝烈皇帝</td>
+			<td>
+				朱由检⑥</td>
+			<td>
+				崇祯</td>
+			<td>
+				1627年—1644年</td>
+			<td>
+				朱常洛第五子 朱由检异母弟</td>
+			<td>
+				明思陵</td>
+			<td>
+				<a href="http://www.xixik.com/content/de8d0024aebcb0a7">与皇后周氏合葬于田贵妃之墓　</a></td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				追尊</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td colspan="1" rowspan="1">
+				献愍皇太子 悼皇帝</td>
+			<td colspan="1" rowspan="1">
+				<a href="http://www.xixik.com/content/be1502501489fc0f">朱慈烺⑦</a></td>
+			<td colspan="1" rowspan="1">
+				义兴</td>
+			<td colspan="1" rowspan="1">
+				1644年</td>
+			<td>
+				<br />
+				　　</td>
+			<td colspan="1" rowspan="1">
+				不详</td>
+			<td>
+				朱以海追谥</td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT:2em">
+	①太子朱标原谥号“懿文”，其子朱允炆即位后为其尊上皇帝之庙号、谥号、陵号。靖难之役后各项尊号被成祖一应废除，复称“懿文太子”，并对懿文太子父子多有诋毁。后，明安宗、清高宗先后为懿文太子平反，追复其皇帝尊号。</p>
+<p style="TEXT-INDENT:2em">
+	②建文四年，燕王朱棣攻破南京，取得靖难之役的胜利，建文帝下落不明。朱棣即位后否定建文帝的正统性，废除建文年号，改称“洪武三十五年”，对其大加诋毁。之后明朝历代皇帝都拒绝追复建文帝的帝号。后，明神宗恢复“建文”年号。安宗为其平反，上庙号、谥号。清高宗再为其平反改谥。</p>
+<p style="TEXT-INDENT:2em">
+	③朱棣原庙号是“太宗”，以后世宗改为“成祖”，原庙号不再使用。</p>
+<p style="TEXT-INDENT:2em">
+	④景泰七年，太上皇朱祁镇发动夺门之变，复辟为帝，废景泰帝朱祁钰为郕王，死后谥号“戾”。后宪宗追复其皇帝谥号并改其王陵为皇陵，安宗追复庙号并改谥，清朝后多用宪宗所定谥号。</p>
+<p style="TEXT-INDENT:2em">
+	⑤明睿宗为世宗生父，本为兴王，谥号“献”。世宗即位后，通过长达三年的“大礼议”之争，成功为生父争得皇帝尊号，为其尊上庙号、谥号，改其王陵为皇陵。</p>
+<p style="TEXT-INDENT:2em">
+	⑥清朝对明思宗多不称庙号，只称谥号。</p>
+<p style="TEXT-INDENT:2em">
+	⑦甲申之变后，皇太子朱慈烺被李自成所获，封为宋王，李自成兵败后吴三桂奉其还京，请求清摄政王多尔衮立其为明朝皇帝，年号“义兴”，不允，携慈烺逃走，后无记载，或曰死于陕西。安宗为其上谥号，监国鲁王朱以海更追谥其为皇帝。另有说法，<a href="http://www.xixik.com/content/9305ea4c7bb6b2e6">南都太子案中被处死的“假太子”其实正是朱慈烺本人</a>，但多数史书不认同这种说法。⑧⑨⑩</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor4"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        南明皇帝列表（详表）</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<th>
+				代</th>
+			<th width="60">
+				原封号</th>
+			<th width="60">
+				庙号</th>
+			<th width="280">
+				谥号</th>
+			<th>
+				姓名</th>
+			<th>
+				年号</th>
+			<th>
+				统治时间</th>
+			<th>
+				陵墓</th>
+			<th>
+				备注</th>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				追尊</td>
+			<td>
+				福王</td>
+			<td colspan="1" rowspan="1">
+				明恭宗</td>
+			<td colspan="1" rowspan="1">
+				慕天敷道贞纯肃哲修文显武圣敬仁毅孝皇帝</td>
+			<td colspan="1" rowspan="1">
+				朱常洵</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td>
+				明熙陵</td>
+			<td>
+				朱由崧追谥</td>
+		</tr>
+		<tr>
+			<td>
+				1</td>
+			<td>
+				福王</td>
+			<td>
+				明安宗</td>
+			<td>
+				奉天遵道宽和静穆修文布武温恭仁孝简皇帝</td>
+			<td>
+				朱由崧</td>
+			<td>
+				弘光</td>
+			<td>
+				1644年—1645年</td>
+			<td>
+				弘光墓 （河南孟津）</td>
+			<td>
+				<br />
+				　　</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				监国</td>
+			<td>
+				潞王</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td colspan="1" rowspan="1">
+				闵王</td>
+			<td colspan="1" rowspan="1">
+				朱常淓</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td colspan="1" rowspan="1">
+				1645年7月</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td>
+				<br />
+				　　</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				监国</td>
+			<td>
+				靖江王</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td colspan="1" rowspan="1">
+				朱亨嘉</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td colspan="1" rowspan="1">
+				1645年</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td>
+				<br />
+				　　</td>
+		</tr>
+		<tr>
+			<td>
+				追尊</td>
+			<td>
+				唐王</td>
+			<td>
+				明哲宗</td>
+			<td>
+				协天安道敬正恭圣熙文渊武戴仁恪孝惠皇帝</td>
+			<td>
+				朱宇温</td>
+			<td>
+				-</td>
+			<td>
+				-</td>
+			<td colspan="1" rowspan="4">
+				明唐王墓<br />
+				　　</td>
+			<td rowspan="1">
+				朱聿键追谥</td>
+		</tr>
+		<tr>
+			<td>
+				追尊 &#160;</td>
+			<td>
+				唐王</td>
+			<td>
+				明纯宗</td>
+			<td>
+				笃天成道钦昭献穆理文定武居仁体孝顺皇帝</td>
+			<td>
+				朱宙栐</td>
+			<td>
+				-</td>
+			<td>
+				-</td>
+			<td>
+				朱聿键追谥</td>
+		</tr>
+		<tr>
+			<td>
+				追尊 &#160;</td>
+			<td>
+				唐王</td>
+			<td>
+				明定宗</td>
+			<td>
+				象天统道庄敏睿质长文信武齐仁显孝端皇帝</td>
+			<td>
+				朱硕熿</td>
+			<td>
+				-</td>
+			<td>
+				-</td>
+			<td>
+				朱聿键追谥</td>
+		</tr>
+		<tr>
+			<td>
+				追尊 &#160;</td>
+			<td>
+				唐王</td>
+			<td>
+				明裕宗</td>
+			<td>
+				礼天格道慎德崇静顺文平武济仁怀孝宣皇帝</td>
+			<td>
+				朱器墭</td>
+			<td>
+				-</td>
+			<td>
+				-</td>
+			<td>
+				朱聿键追谥</td>
+		</tr>
+		<tr>
+			<td>
+				2</td>
+			<td>
+				唐王</td>
+			<td>
+				明绍宗</td>
+			<td>
+				配天至道弘毅肃穆思文烈武敏仁广孝襄皇帝</td>
+			<td>
+				朱聿键</td>
+			<td>
+				隆武</td>
+			<td>
+				1645年八月—1646年十月</td>
+			<td>
+				-</td>
+			<td>
+				<br />
+				　　</td>
+		</tr>
+		<tr>
+			<td>
+				3</td>
+			<td>
+				唐王</td>
+			<td>
+				明文宗</td>
+			<td>
+				贞天应道昭崇德毅宁文宏武达仁闵孝节皇帝</td>
+			<td>
+				朱聿鐭</td>
+			<td>
+				绍武</td>
+			<td>
+				1646年十一月—1647年1月（40天）</td>
+			<td>
+				绍武君臣冢</td>
+			<td>
+				<br />
+				　　</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				监国</td>
+			<td>
+				鲁王</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td colspan="1" rowspan="1">
+				朱以海</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td colspan="1" rowspan="1">
+				1645年—1653年</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td>
+				<br />
+				　　</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				监国</td>
+			<td>
+				淮王</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td colspan="1" rowspan="1">
+				朱常清</td>
+			<td colspan="1" rowspan="1">
+				东武</td>
+			<td colspan="1" rowspan="1">
+				1648年</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td>
+				<br />
+				　　</td>
+		</tr>
+		<tr>
+			<td>
+				追尊 &#160;</td>
+			<td>
+				桂王</td>
+			<td>
+				明礼宗</td>
+			<td>
+				体天昌道庄毅温弘兴文宣武仁智诚孝端皇帝</td>
+			<td>
+				朱常瀛</td>
+			<td>
+				-</td>
+			<td>
+				-</td>
+			<td>
+				明兴陵</td>
+			<td>
+				朱由榔追谥</td>
+		</tr>
+		<tr>
+			<td>
+				4</td>
+			<td>
+				桂王</td>
+			<td>
+				明昭宗</td>
+			<td>
+				应天推道敏毅恭俭经文纬武礼仁克孝匡皇帝</td>
+			<td>
+				朱由榔</td>
+			<td>
+				永历</td>
+			<td>
+				1646年十二月—1662年正月</td>
+			<td>
+				永历衣冠冢 （贵州都匀）</td>
+			<td>
+				郑成功追谥</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				5（？）</td>
+			<td>
+				韩王</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td colspan="1" rowspan="1">
+				朱本铉 /朱亶塉</td>
+			<td colspan="1" rowspan="1">
+				定武 （？）</td>
+			<td colspan="1" rowspan="1">
+				1646年—1664年（？）</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td>
+				<br />
+				　　</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-indent: 2em;">
+	明王朝灭亡，清军入关后，明朝宗室在南方先后拥立5位明朝宗室分别建立了5个抵抗政权。1644年5月，福王朱常洵世子朱由崧在明朝旧臣的拥立下南京称帝，改明年为弘光元年，弘光在位一年即被清兵俘虏杀害。接着，隆武在福建即位，也只活了一年多就倒台了。1646年11月，桂王朱由榔在广东肇庆登基，称永历帝。包括弘光政权、隆武政权、鲁王监国、绍武政权和永历政权，共计存在18年，<a href="http://www.xixik.com/content/135e92ed8bf3a594" style="text-indent: 2em;" title="包括弘光政权、隆武政权、鲁王监国、绍武政权及永历政权">历史上把这5个政权统称为南明</a>。这是崇祯皇帝作孽，自己上吊煤山，又不让太子去南京镇国，连一份像样的遗诏都没留，没办法大伙只有各自为王了。其中以永历政权存在的时间最长。郑成功原奉隆武皇帝朱聿键为正统，朱聿键赐名朱成功，其国姓爷称谓即由此而来。1646年，清军攻入福建，隆武政权灭亡。同年，朱由榔在广东肇庆建立永历政权，称为当时唯一的朱氏抵抗政权，因此原弘光、隆武、鲁王监国、绍武等4个政权的许多旧臣官员以及农民军残部均聚集在永历政权的名义下继续抗清，郑成功就是这种形式下奉永历为正朔。1654年，永历皇帝封郑成功为延平郡王，郑氏家族的王号也由此而来。顺便说一下，1657年，永历晋封郑成功为潮王，但郑成功坚辞不受。</p>
+<p style="text-indent: 2em;">
+	<strong>弘光政权</strong> 顺治元年（明崇祯十七年，1644年）五月初三首先建立。由马士英、史可法等奉明福王朱由崧监国于南京。五月十五日即皇帝位，年号弘光。朱由崧，明神宗之孙，福王朱常洵之子。初封德昌王，进封世子。崇祯十六年嗣封福王。次年初，农民军扫荡北方，朱由崧流亡淮上。时南京之明残余势力议择君以定南都，然后挥师北上。曾出现拥潞王与拥福王之争，最后马士英恃势逼史可法等同意立福王朱由崧为帝。马士英等以拥戴有功，把持朝政，起用阉党余孽，贪赃枉法，与高弘图等东林余党针锋相对。清顺治二年三月，宁南侯左良玉称奉太子密诏，入诛奸臣马士英以清君侧，起于武昌，进逼南京。时清军迅速南下，连续破徐州，渡淮河，兵临扬州城下。随后，清军渡长江，克镇江。弘光帝被迫出奔芜湖。五月十五日大臣赵之龙、王锋、钱谦益等献南京城投降；二十二日朱由崧被获，解北京处死。弘光政权覆灭。</p>
+<p style="text-indent: 2em;">
+	<strong>隆武政权</strong> 顺治二年闰六月初七，明福建巡抚张肯堂、礼部尚书黄道周及南安伯郑芝龙、靖虏伯郑鸿逵等，奉唐王朱聿键称监国于福州。闰六月二十七日称帝，改福州为天兴府，以是年为隆武元年。朱聿键，朱元璋九世孙，端王朱硕熿之孙。崇祯五年嗣立唐王，九年因率兵勤王擅离南阳获罪，弘光时获释。顺治二年五月避乱经杭州，适南都已亡，郑鸿逵等迎之入闽。隆武政权建立之初，俨然有所作为，集廷臣议抗清战守。即位不及半月，即下诏亲征，影响颇大。江浙、安徽、江西各地义军纷起，响应抗清号召。然而军政大权掌握在地方实力派郑芝龙手里，隆武本人也为其挟制，实际并无建树。三年七月，清军攻下浙东浙南，即挥师南下。郑芝龙暗中与清军洽降，撤兵还安平镇。福建门户敞开，清军长驱直入。隆武帝出奔汀州，八月二十八日被清军追及擒杀，隆武政权灭亡。</p>
+<p style="text-indent: 2em;">
+	<strong>鲁王监国</strong> 清顺治二年闰六月二十八日，在浙江余姚、会稽、鄞县等地抗清义军及故明官吏缙绅的扶持下，明鲁王朱以海监国于绍兴。朱以海，朱元璋十世孙，鲁王朱寿镛第五子。崇祯十七年二月嗣王位。鲁王政权建立后，控制浙东绍兴、宁波、温州、台州等地，拥有浙中义师及原明总兵方国安、王之仁部，且凭借钱塘江天险，曾汇兵合攻杭州。但其政权腐败，热衷于与隆武朝争夺皇统，势同水火。顺治三年六月不战而溃，朱以海出海至舟山。清军迅速平定浙东，鲁王大臣张国维、朱大典、孙嘉绩、王之仁等先后死，方国安、马士英、阮大铖等降清。该政权建立不到一年即告灭亡。</p>
+<p style="text-indent: 2em;">
+	<strong>绍武政权</strong> 顺治三年十一月初二，大学士苏观生、隆武辅臣何吾驺等于广州拥立朱聿键之弟朱聿鐭为帝，改元绍武。同年十二月十五日，清军李成栋部攻入广州，朱聿鐭等皆死。绍武政权仅存41天。</p>
+<p style="text-indent: 2em;">
+	<strong>永历政权</strong> 顺治三年十一月初八日，明两广总督丁魁楚、广西巡抚瞿式耜等拥戴桂王朱由榔于肇庆称帝，以次年为永历元年。朱由榔，明神宗之孙，桂恭王朱常瀛少子。初封永明王。为人懦弱寡断，昏庸无能。在抗清名将何腾蛟、瞿式耜、堵胤锡、郑成功等的支持下，尤其是大顺、大西农民军与之联合抗清，永历政权得以生存下来，支撑台湾及中南、西南数省半壁江山，声势颇大。顺治五年春收复了湖广、湘桂部分地区。顺治九年收复广西全境。接着北取长沙，东扫江西，收复二州16郡。但永历朝政腐败，统兵将帅专横跋扈，朝廷中宦官专权，朋比为奸，内讧激烈。顺治十五年四月，清军主力从湖南、四川、广西3路进攻贵州，年底进入云南。大西军精锐损失殆尽。十六年正月永历帝狼狈西奔，进入缅甸。十八年吴三桂率清军入缅，同年十二月永历帝被俘。次年四月与其子等被吴三桂缢杀。南明最后一个政权覆灭。</p>
+<p style="TEXT-INDENT:2em">
+	1、隆武二年/清顺治三年十一月，隆武帝被清军俘获，自缢。其弟唐王朱聿鐭称帝，预定改次年为绍武元年，然同年十二月（公历已是1647年初）即兵败自缢，“绍武”年号从未使用。</p>
+<p style="TEXT-INDENT:2em">
+	2、绍武帝死后，郑成功不知道永历帝已即位，于永历二年在南澳岛拥立淮王朱常清为监国。次年，永历帝使者抵达南澳，宣读诏书，朱常清主动取消监国之位，东武年号也没用过。</p>
+<p style="TEXT-INDENT:2em">
+	3、朱亨嘉表面监国实际称帝，将他之前除朱元璋以外所有<a href="http://114.xixik.com/chinese-emperors/ming/" style="color:#000" title="明朝皇帝列表">明朝皇帝</a>的帝号、庙号、年号全部废除，称洪武278年。</p>
+<p style="TEXT-INDENT:2em">
+	4、永历十三年/清顺治十六年（1659年）朱由榔出逃缅甸，这实际已标志着南明灭亡，此时南明在大陆境内已无寸土。</p>
+<p style="TEXT-INDENT:2em">
+	5、永历十六年/清康熙元年（1662年），缅甸国王莽白发动“咒水之难”，杀害永历帝侍从和官员，扣押永历帝及其家眷，将其交予已攻入缅甸的吴三桂，明朝彻底宣告结束。但台湾的东宁王国（明郑）一直使用永历年号直到永历三十七年/清康熙二十二年郑克塽降清为止。其实东宁王国此时已经成为事实上的独立政权。</p>
+<p style="TEXT-INDENT:2em">
+	6、<a href="http://www.xixik.com/content/98afc20f480adfa0" title="“定武帝”是否真实存疑">关于“定武帝”是否真实存在，究竟是谁，一直有争议</a>。此人最早出现于清朝查继佐所著野史《罪惟录》，该书称其本为明朝韩王朱本铉，被李自成部将郝永忠（郝摇旗）拥立为皇帝，年号“定武”，活动于长江中上游地区，直到定武十九年/清康熙三年才被吴三桂剿灭，是南明诸小朝廷中存在时间最长的一个。但这种说法破绽太多，可信度不高，当代史学家顾诚所著《南明史》倾向为以讹传讹之虚构人物。现代学者钱海岳《南明史》认为定武帝是宗室朱璟溧，而孟森则认为定武帝是第十五代韩王朱亶塉，但证据也不充分。</p>
+<p style="text-indent: 2em;">
+	但南明覆亡于哪里？永历皇帝葬身何处，则成了一桩众说纷纭的历史悬案，至今众说纷纭。南明永历皇帝究竟覆亡于哪里？</p>
+<p style="text-indent: 2em;">
+	说法一：据《南明史》中的记载，南明最后一个皇帝永历皇帝朱由榔被吴三桂处死与云南昆明绞死于金蝉寺，其小骨葬于金蝉寺后山，此为一说。其二说为朱由榔的大骨由吴三桂的下属带往北京作证，但这些大骨究竟葬于何地，至今也未发现。</p>
+<p style="text-indent: 2em;">
+	说法二：《贵州史》云：“十三年（1460年）永历奔缅甸”，但以后下落未作说明。故宫的一份史料称：“永历帝在从贵州去云南的途中，在黑羊箐（今贵阳）河边遭清人杀害，那条河，自此称为‘南明河’”。没有文物作证，难以信服。</p>
+<p style="text-indent: 2em;">
+	说法三：《中国姓氏通书吴姓》记载：“吴三桂出征缅甸，俘获南明永历帝桂王朱由榔，旋即将其绞死”。但葬于何处没有交代。</p>
+<p style="text-indent: 2em;">
+	说法四：黔南州政协刘泽渊先生2005年在贵州省政协主办的《文史天地》杂志上发表了“都匀永历皇帝陵”之说。由于没有出土重要的文物予以证实，可信度几乎为零。</p>
+<p style="text-indent: 2em;">
+	有许多文本记载关于永历帝被吴三桂等清人杀害还是难以让人信服的。</p>
+<p style="text-indent: 2em;">
+	首先，从常理上推想，永历皇帝是亡国之君，不可能像普通人那样一杀了之或者顺顺便便就可宰杀。更何况在我国古代社会，杀人尤其是斩杀乱臣贼子或者亡国之君等都须得验明正身（至少也得在死后验明正身）。</p>
+<p style="text-indent: 2em;">
+	其次，就算吴三桂早有谋反之心，先斩后奏，但绞死永历皇帝的时间与南明灭亡的时间不吻合。吴三桂绞死永历帝是清朝顺治皇帝十八年（公元1661年），而南明则亡于康熙元年（公元1662年），两者相差一年的时间，这就说明在永历帝死去后一年多的时间里，南明朝廷还是继续存在的，这显然也不合常理。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor5"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        明朝皇帝谥号大全</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<td>
+				<strong>明朝皇帝庙号</strong></td>
+			<td>
+				<strong>明朝皇帝谥号</strong></td>
+			<td>
+				<strong>姓名</strong></td>
+			<td>
+				<strong>年号</strong></td>
+			<td>
+				<strong>在位时间</strong></td>
+		</tr>
+		<tr>
+			<td>
+				明德祖</td>
+			<td>
+				玄皇帝（追谥）</td>
+			<td>
+				朱百六</td>
+			<td>
+				-</td>
+			<td>
+				-</td>
+		</tr>
+		<tr>
+			<td>
+				明懿祖</td>
+			<td>
+				恒皇帝（追谥）</td>
+			<td>
+				朱四九</td>
+			<td>
+				-</td>
+			<td>
+				-</td>
+		</tr>
+		<tr>
+			<td>
+				明熙祖</td>
+			<td>
+				裕皇帝（追谥）</td>
+			<td>
+				朱初一</td>
+			<td>
+				-</td>
+			<td>
+				-</td>
+		</tr>
+		<tr>
+			<td>
+				明仁祖</td>
+			<td>
+				淳皇帝（追谥）</td>
+			<td>
+				朱世珍</td>
+			<td>
+				-</td>
+			<td>
+				-</td>
+		</tr>
+		<tr>
+			<td>
+				明太祖</td>
+			<td>
+				开天行道肇纪立极大圣至神仁文义武俊德成功高皇帝</td>
+			<td>
+				朱元璋</td>
+			<td>
+				洪武</td>
+			<td>
+				1368年-1398年</td>
+		</tr>
+		<tr>
+			<td>
+				明兴宗</td>
+			<td>
+				孝康皇帝</td>
+			<td>
+				朱标</td>
+			<td>
+				-</td>
+			<td>
+				-</td>
+		</tr>
+		<tr>
+			<td>
+				明惠宗</td>
+			<td>
+				嗣天章道诚懿渊功观文扬武克仁笃孝让皇帝</td>
+			<td>
+				朱允炆</td>
+			<td>
+				建文</td>
+			<td>
+				1398年-1402年</td>
+		</tr>
+		<tr>
+			<td>
+				明成祖（原明太宗）</td>
+			<td>
+				启天弘道高明肇运圣武神功纯仁至孝文皇帝</td>
+			<td>
+				朱棣</td>
+			<td>
+				永乐</td>
+			<td>
+				1402年-1424年</td>
+		</tr>
+		<tr>
+			<td>
+				明仁宗</td>
+			<td>
+				敬天体道纯诚至德弘文钦武章圣达孝昭皇帝</td>
+			<td>
+				朱高炽</td>
+			<td>
+				洪熙</td>
+			<td>
+				1424年-1425年</td>
+		</tr>
+		<tr>
+			<td>
+				明宣宗</td>
+			<td>
+				宪天崇道英明神圣钦天昭武宽仁纯孝章皇帝</td>
+			<td>
+				朱瞻基</td>
+			<td>
+				宣德</td>
+			<td>
+				1425年-1435年</td>
+		</tr>
+		<tr>
+			<td>
+				明英宗</td>
+			<td>
+				法天立道仁明诚敬昭文宪武至德广孝睿皇帝</td>
+			<td>
+				朱祁镇</td>
+			<td>
+				正统</td>
+			<td>
+				1435年-1449年</td>
+		</tr>
+		<tr>
+			<td>
+				明代宗</td>
+			<td>
+				符天建道恭仁康定隆文布武显德崇孝景皇帝</td>
+			<td>
+				朱祁钰</td>
+			<td>
+				景泰</td>
+			<td>
+				1449年-1457年</td>
+		</tr>
+		<tr>
+			<td>
+				明英宗</td>
+			<td>
+				法天立道仁明诚敬昭文宪武至德广孝睿皇帝</td>
+			<td>
+				朱祁镇</td>
+			<td>
+				天顺</td>
+			<td>
+				1457年-1464年</td>
+		</tr>
+		<tr>
+			<td>
+				明宪宗</td>
+			<td>
+				继天凝道诚明仁敬崇文肃武宏德圣孝纯皇帝</td>
+			<td>
+				朱见深</td>
+			<td>
+				成化</td>
+			<td>
+				1464年-1487年</td>
+		</tr>
+		<tr>
+			<td>
+				明孝宗</td>
+			<td>
+				建天明道诚纯中正圣文神武至仁大德敬皇帝</td>
+			<td>
+				朱祐樘</td>
+			<td>
+				弘治</td>
+			<td>
+				1487年-1505年</td>
+		</tr>
+		<tr>
+			<td>
+				明武宗</td>
+			<td>
+				承天达道英肃睿哲昭德显功弘文思孝毅皇帝</td>
+			<td>
+				朱厚照</td>
+			<td>
+				正德</td>
+			<td>
+				1505年-1521年</td>
+		</tr>
+		<tr>
+			<td>
+				明睿宗</td>
+			<td>
+				知天守道洪德渊仁宽穆纯圣恭简敬文献皇帝</td>
+			<td>
+				朱祐杬</td>
+			<td>
+				-</td>
+			<td>
+				-</td>
+		</tr>
+		<tr>
+			<td>
+				明世宗</td>
+			<td>
+				钦天履道英毅神圣宣文广武洪仁大孝肃皇帝</td>
+			<td>
+				朱厚熜</td>
+			<td>
+				嘉靖</td>
+			<td>
+				1521年-1566年</td>
+		</tr>
+		<tr>
+			<td>
+				明穆宗</td>
+			<td>
+				契天隆道渊懿宽仁显文光武纯德弘孝庄皇帝</td>
+			<td>
+				朱载垕</td>
+			<td>
+				隆庆</td>
+			<td>
+				1566年-1572年</td>
+		</tr>
+		<tr>
+			<td>
+				明神宗</td>
+			<td>
+				范天合道哲肃敦简光文章武安仁止孝显皇帝</td>
+			<td>
+				朱翊钧</td>
+			<td>
+				万历</td>
+			<td>
+				1572年-1620年</td>
+		</tr>
+		<tr>
+			<td>
+				明光宗</td>
+			<td>
+				崇天契道英睿恭纯宪文景武渊仁懿孝贞皇帝</td>
+			<td>
+				朱常洛</td>
+			<td>
+				泰昌</td>
+			<td>
+				1620年</td>
+		</tr>
+		<tr>
+			<td>
+				明熹宗</td>
+			<td>
+				达天闻道敦孝笃友章文襄武靖穆庄勤哲皇帝</td>
+			<td>
+				朱由校</td>
+			<td>
+				天启</td>
+			<td>
+				1620年-1627年</td>
+		</tr>
+		<tr>
+			<td>
+				明思宗</td>
+			<td>
+				绍天绎道刚明恪俭揆文奋武敦仁懋孝烈皇帝</td>
+			<td>
+				朱由检</td>
+			<td>
+				崇祯</td>
+			<td>
+				1627年-1644年</td>
+		</tr>
+		<tr>
+			<td>
+				明顺宗</td>
+			<td>
+				悼皇帝</td>
+			<td>
+				<a href="http://www.xixik.com/content/1faca32ad5285fef">朱慈烺</a></td>
+			<td>
+				义兴</td>
+			<td>
+				1644年</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>南明皇帝庙号</strong></td>
+			<td>
+				<strong>南明皇帝谥号</strong></td>
+			<td>
+				<strong>姓名</strong></td>
+			<td>
+				<strong>年号</strong></td>
+			<td>
+				<strong>在位时间</strong></td>
+		</tr>
+		<tr>
+			<td>
+				明安宗</td>
+			<td>
+				奉天尊道宽和静穆修文布武仁孝简皇帝</td>
+			<td>
+				<a href="http://www.xixik.com/content/c50dd25f5a45fca7">朱由崧</a></td>
+			<td>
+				弘光</td>
+			<td>
+				1644年-1645年</td>
+		</tr>
+		<tr>
+			<td>
+				明绍宗</td>
+			<td>
+				配天至道弘毅肃穆思文烈武敏仁广孝襄皇帝</td>
+			<td>
+				朱聿键</td>
+			<td>
+				隆武</td>
+			<td>
+				1645年-1646年</td>
+		</tr>
+		<tr>
+			<td>
+				明文宗</td>
+			<td>
+				-</td>
+			<td>
+				朱聿鐭</td>
+			<td>
+				绍武</td>
+			<td>
+				1646年</td>
+		</tr>
+		<tr>
+			<td>
+				明昭宗</td>
+			<td>
+				应天推道敏毅恭俭经文纬武礼仁克孝匡皇帝</td>
+			<td>
+				朱由榔</td>
+			<td>
+				永历</td>
+			<td>
+				1646年-1661年</td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT:2em">
+	<strong>太祖</strong>开天行道肇纪立极大圣至神仁文义武俊德成功高皇帝讳元璋，字国瑞，姓朱氏。先世家沛，徙句容，再徙泗州。父世珍，始徙濠州之钟离。生四子，太祖其季也。母陈氏。年号洪武（1368年-1398年）应天孝陵</p>
+<p style="TEXT-INDENT:2em">
+	<strong>惠帝</strong>嗣天章道诚懿渊功观文扬武克仁笃孝让皇帝讳允炆。太祖孙，懿文太子第二子也。母妃吕氏。年号建文（1399年-1402年）下落不明，无陵</p>
+<p style="TEXT-INDENT:2em">
+	<strong>成祖</strong>启天弘道高明肇运圣武神功纯仁至孝文皇帝讳棣，太祖第四子，母孝慈高皇后。年号永乐（1403年-1424年）长陵</p>
+<p style="TEXT-INDENT:2em">
+	<strong>仁宗</strong>敬天体道纯诚至德弘文钦武章圣达孝昭皇帝讳高炽，成祖长子。母仁孝文后。年号洪熙（1425年）献陵</p>
+<p style="TEXT-INDENT:2em">
+	<strong>宣宗</strong>宪天崇道英明神圣钦文昭武宽仁纯孝章皇帝讳瞻基，仁宗长子。母诚孝昭后。年号宣德（1426年-1435年）景陵</p>
+<p style="TEXT-INDENT:2em">
+	<strong>英宗</strong>法天立道仁明诚敬昭文宪武至德广孝睿皇帝讳祁镇，宣宗长子。母贵妃孙氏。年号正统（1436年-1449年）天顺（1457年-1464年）裕陵</p>
+<p style="TEXT-INDENT:2em">
+	<strong>代宗</strong>符天建道恭仁康定隆文布武显德崇孝景皇帝讳祁钰，宣宗次子。母贤妃吴氏。英宗即位，封郕王。年号景泰（1450年-1457年）景泰陵</p>
+<p style="TEXT-INDENT:2em">
+	<strong>宪宗</strong>继天凝道诚明仁敬崇文肃武宏德圣孝纯皇帝讳见深，英宗长子。母贵妃周氏。年号成化（1465年-1487年）茂陵</p>
+<p style="TEXT-INDENT:2em">
+	<strong>孝宗</strong>达天明道纯诚中正圣文神武至仁大德敬皇帝讳佑樘，宪宗第三子。母淑妃纪氏，成化六年七月生帝于西宫。年号弘治（1488年-1505年）泰陵</p>
+<p style="TEXT-INDENT:2em">
+	<strong>武宗</strong>承天达道英肃睿哲昭德显功弘文思孝毅皇帝讳厚照，孝宗长子。母孝康敬皇后。年号正德（1506年-1521年）康陵</p>
+<p style="TEXT-INDENT:2em">
+	<strong>世宗</strong>钦天履道英毅神圣宣文广武洪仁大孝肃皇帝讳厚熜，宪宗孙。父兴献王佑杬，国安陆，正德十四年薨。年号嘉靖（1522年-1566年）永陵</p>
+<p style="TEXT-INDENT:2em">
+	<strong>穆宗</strong>契天隆道渊懿宽仁显文光武纯德弘孝庄皇帝讳载垕，世宗第三子。母康妃杜氏。年号隆庆（1567年-1572年）昭陵</p>
+<p style="TEXT-INDENT:2em">
+	<strong>神宗</strong>范天合道哲肃敦简光文章武安仁止孝显皇帝讳翊钧，穆宗第三子。母贵妃李氏。年号万历（1573年-1620年）定陵</p>
+<p style="TEXT-INDENT:2em">
+	<strong>光宗</strong>崇天契道英睿恭纯宪文景武渊仁懿孝贞皇帝讳常洛，神宗长子。母恭妃王氏。年号泰昌（1620年）庆陵</p>
+<p style="TEXT-INDENT:2em">
+	<strong>熹宗</strong>达天阐道敦孝笃友章文襄武靖穆庄勤悊皇帝讳由校，光宗长子。母选侍王氏。年号天启（1621年-1627年）德陵</p>
+<p style="TEXT-INDENT:2em">
+	<strong>毅宗</strong>绍天绎道刚明恪俭揆文奋武敦仁懋孝烈皇帝讳由检，光宗第五子。母贤妃刘氏。年号崇祯（1628年-1644年）昭陵</p>
+<p style="TEXT-INDENT:2em">
+	<strong>安宗</strong>处天承道诚敬英哲缵文备武宣仁度孝简皇帝讳由崧，年号弘光（1644年）史称弘光帝。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>绍宗</strong>配天至道弘毅肃穆思文烈武敏仁广孝襄皇帝讳聿键，年号隆武（1645年-1646年）史称隆武帝。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>昭宗</strong>应天推道敏毅恭检经文纬武礼仁克孝匡皇帝讳由榔，年号永历（1646年-1662年）史称永历帝。</p>
+<p style="TEXT-INDENT:2em">
+	关于崇祯帝的庙号：崇祯帝死后，清上庙号怀宗（后取消），南明弘光帝上庙号思宗，旋改毅宗，隆武帝上庙号威宗。清上谥号守道敬俭宽文襄武体仁致孝庄烈愍皇帝，南明弘光帝上谥号绍天绎道刚明恪俭揆文奋武敦仁懋孝烈皇帝。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chinese-emperors/" title="中国古代皇帝谥号大全">中国古代皇帝谥号</a></p>
+<p style="TEXT-INDENT:2em">
+	一般史学家认为明朝是16帝（从太祖到毅宗），毛佩奇认为是17帝（加上安宗）。如果承认南宋最后两位皇帝，在福州即位的宋端宗赵昰（景炎帝）和在崖山即位的宋末帝赵昺（祥兴帝），就应该承认明朝最后几位皇帝。<a href="http://www.xixik.com/content/135e92ed8bf3a594" target="_blank" title="同样是中原王朝南迁 为什么南明不如南宋旺盛？">同样是中原王朝南迁 为什么南明不如南宋旺盛？</a></p>
+<p style="TEXT-INDENT:2em">
+	南明至少有五个皇帝，两个监国。明安宗弘光帝、明绍宗隆武帝和明昭宗永历帝得到史学届普遍承认，如果承认南宋最后两位皇帝，就应该承认这三个皇帝。鲁监国、潞监国没有称帝，不算；隆武帝弟弟绍武帝和永历帝一起称帝，但很快就殉国了，连庙号也没有，可以不算；定武帝据研究是讹传，也不算。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor6"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        明朝皇帝世系表</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<td width="20%">
+				<strong>明朝皇帝庙号/名字/生卒</strong></td>
+			<td width="15%">
+				<strong>年号/在位时间</strong></td>
+			<td>
+				<strong>明朝皇帝简介/主要成就及事件</strong></td>
+		</tr>
+		<tr>
+			<td>
+				太祖朱元璋<br />
+				（1328-1398）　</td>
+			<td>
+				年号“洪武”<br />
+				1368年称帝<br />
+				在位31年</td>
+			<td>
+				简介：太祖，明朝开国皇帝，安徽凤阳人，1368年建立明朝，定都南京，死于1398年，时年71岁。<br />
+				主要成就及事件：推翻元朝，恢复了汉人国家，恢复了民族平等，结束元朝民族等级制度。</td>
+		</tr>
+		<tr>
+			<td>
+				惠帝朱允文<br />
+				（1377-1402）</td>
+			<td>
+				年号“建文”<br />
+				1398年即位<br />
+				在位5年</td>
+			<td>
+				惠帝，太祖孙，皇太子朱标的次子，朱元璋在世时，大封王室，20多个儿子均封为亲王，分驻各地，惠帝登基后，进行削藩，以统一军事，惹恼诸王，燕王朱棣其兵北京，1402年攻入南京，惠帝一说被烧死，一说外逃。<br />
+				主要成就及事件：建文新政平定叛乱、改革法制实行削藩，也因此丧命。</td>
+		</tr>
+		<tr>
+			<td>
+				成祖朱棣<br />
+				（1360-1424）</td>
+			<td>
+				年号“永乐”<br />
+				1402年即位<br />
+				在位23年</td>
+			<td>
+				成祖朱棣，太祖第四子，1420年推翻明惠帝自立，1421年迁都北京，并下令编纂了《永乐大典》。死于1424年，时年65岁。朱棣驾崩后谥号体天弘道高明广运圣武神功纯仁至孝文皇帝，庙号太宗，葬于长陵。嘉靖十七年（1538年）九月，<a href="http://www.xixik.com/content/a7eadfd23c7bdb7c">明世宗改谥为启天弘道高明肇运圣武神功纯仁至孝文皇帝，改上庙号为成祖</a>。&#160;<br />
+				主要成就及事件：靖难之役、郑和下西洋、迁都北京、编撰《永乐大典》、五征漠北、开疆拓土、浚通大运河</td>
+		</tr>
+		<tr>
+			<td>
+				仁宗朱高炽<br />
+				（1378-1425）</td>
+			<td>
+				年号“洪熙”<br />
+				1424年即位<br />
+				在位1年</td>
+			<td>
+				仁宗，明成祖长子，仁宗政治比较清明，采取一些缓和社会矛盾的措施。在位1年，死于1425年，时年48岁。<br />
+				主要成就及事件：为“仁宣之治”奠定基础</td>
+		</tr>
+		<tr>
+			<td>
+				宣宗朱瞻基<br />
+				（1398-1435）</td>
+			<td>
+				年号“宣德”<br />
+				1425年即位<br />
+				在位11年</td>
+			<td>
+				宣宗，仁宗长子，他和其父一样，比较能倾听臣下的意见与仁宗并称“仁宣之治”，宣宗时君臣关系融洽，经济也稳步发展。宣宗死于1435年，时年38岁。<br />
+				主要成就及事件：“仁宣之治”随祖父亲征蒙古</td>
+		</tr>
+		<tr>
+			<td>
+				英宗朱祁镇<br />
+				（1427-1464）</td>
+			<td>
+				年号“正统” “天顺”<br />
+				（1435-1449；1457-1464）<br />
+				在位，在位23年</td>
+			<td>
+				英宗，宣宗长子，即位时才9岁，被宦官王振专权，1449年，瓦喇大举南侵，王振惬英宗亲征，英宗被俘，史称“土木之变”，1450年，被放回，直到1457年，才又即位。死于1464年，时年38岁。<br />
+				主要成就及事件：夺门之变后复位</td>
+		</tr>
+		<tr>
+			<td>
+				景帝朱祁钰<br />
+				（1428-1457）</td>
+			<td>
+				年号“景泰”<br />
+				1449年即位<br />
+				在位9年</td>
+			<td>
+				宣宗次子，英宗被俘后被拥立为帝，即位后，用于谦为兵部尚书，粉碎了瓦喇对北京的进攻，迫使瓦喇放回英宗，英宗放回后，景帝将其软禁，直到1475年，景帝病危时，英宗才又被拥为帝。景帝死于1457年，时年30岁。<br />
+				主要成就及事件：选贤任能，挽狂澜于既倒纂修《寰宇通志》</td>
+		</tr>
+		<tr>
+			<td>
+				宪宗朱见深<br />
+				（1447-1487）</td>
+			<td>
+				年号“成化”<br />
+				1464年即位<br />
+				在位24年</td>
+			<td>
+				宪宗，英宗长子，宪宗好方术，溺于女色，致使宦官“奸欺国政”。1487年，宪宗死，时年41岁。<br />
+				主要成就及事件：设立西厂</td>
+		</tr>
+		<tr>
+			<td>
+				孝宗朱佑樘<br />
+				（1470-1505）</td>
+			<td>
+				年号“弘治”<br />
+				1487年即位<br />
+				在位19年</td>
+			<td>
+				孝宗，宪宗三子。孝宗“更新庶政，言路大开”，使英宗朝以来奸佞当道的局面，得以改观。被誉为“中兴之令主”。死于1505年，时年36岁。<br />
+				主要成就及事件：开创“弘治中兴”，修《会典》，立制度</td>
+		</tr>
+		<tr>
+			<td>
+				武宗朱厚照<br />
+				（1491-1521）</td>
+			<td>
+				年号“正德”<br />
+				1505年即位<br />
+				在位17年</td>
+			<td>
+				武宗，孝宗长子。好逸乐，贪女色，是明朝有名的荒唐皇帝，因荒淫过度，死于1521年，时年31岁。<br />
+				主要成就及事件：应州大捷，诛杀刘瑾</td>
+		</tr>
+		<tr>
+			<td>
+				世宗朱厚璁<br />
+				（1507-1566）</td>
+			<td>
+				年号“嘉靖”<br />
+				1521年即位<br />
+				在位46年</td>
+			<td>
+				世宗，宪宗孙，父兴献王。世宗前期颇有一些作为，诛杀宦官，节用宽民，但后期荒淫无度，政治腐败，多次爆发农民起义世宗因服丹药中毒死，时年60岁。<br />
+				主要成就及事件：对倭寇战争巨大胜利整顿朝纲、减轻赋役</td>
+		</tr>
+		<tr>
+			<td>
+				穆宗朱载垕<br />
+				（1537-1572）</td>
+			<td>
+				年号“隆庆”<br />
+				1566年即位<br />
+				在位7年</td>
+			<td>
+				穆宗，世宗第三子。在位7年，死于1572年，时年36岁。<br />
+				主要成就及事件：隆庆开关（海上开禁）</td>
+		</tr>
+		<tr>
+			<td>
+				神宗朱翊钧<br />
+				（1563-1620）</td>
+			<td>
+				年号“万历”<br />
+				1572年即位<br />
+				在位48年</td>
+			<td>
+				神宗，穆宗第三子。即位时才10岁，由皇太后陈氏及李贵妃主持政务。神宗亲政后，深居宫中，荒淫享乐，政治腐败，神宗时，北方努尔哈赤建立后金，窥视中原。神宗死于1620年，时年58岁。<br />
+				主要成就及事件：万历中兴、万历三大征</td>
+		</tr>
+		<tr>
+			<td>
+				光宗朱常洛<br />
+				（1582-1620）</td>
+			<td>
+				年号“泰昌”<br />
+				1620年即位<br />
+				在位1月</td>
+			<td>
+				光宗，神宗长子。是一个贪财好色的皇帝，由于淫欲过度，即位当天就病倒了，后因服用丹砂过度而亡。时年39岁。<br />
+				主要成就及事件：废除矿监和税监，拔擢良臣</td>
+		</tr>
+		<tr>
+			<td>
+				熹宗朱由校<br />
+				（1605-1627）</td>
+			<td>
+				年号“天启”<br />
+				1620年即位<br />
+				在位8年</td>
+			<td>
+				熹宗，光宗长子，“木匠皇帝”，在位七年政治腐败。任用宦官魏忠贤，致使乘机攻占沈阳。熹宗死于1627年，时年23岁。<br />
+				主要成就及事件：帝王里的家具大咖，成就之一就是发现并运用海南黄花梨。</td>
+		</tr>
+		<tr>
+			<td>
+				思宗朱由检<br />
+				（1610-1644）</td>
+			<td>
+				年号“崇祯”<br />
+				1627年即位<br />
+				在位17年</td>
+			<td>
+				思宗，光宗第五子。即位后，诛杀魏忠贤，颇为勤政，勉力振作，无奈积重难反，各地农民起义不断爆发，北方皇太极又不断骚扰入侵，又崇祯性多疑，刚愎自用。终于在1644年，李自成攻入北京，<a href="http://www.xixik.com/content/0dae3457b2718a29">崇祯帝在景山自缢身亡</a>。时年35岁。死前于兰色袍服上大书“勿伤百姓一人”。<br />
+				主要成就及事件：颁行《崇祯历书》、除魏忠贤等逆党</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-align: center;">
+	<a href="http://img.xixik.net/custom/section/chaodai/ming/emperor-bloodline-of-ming-dynasty.png"><img src="http://img.xixik.net/custom/section/chaodai/ming/emperor-bloodline-of-ming-dynasty.png" title="明朝皇帝世系图" width="880" /></a></p>
+<p style="text-align: center;">
+	图表：明朝皇帝世系图</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor7"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        明朝藩王</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="text-align: center;">
+	<strong>明朝亲王封国</strong></p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<th>
+				序号</th>
+			<th>
+				封号/谥号</th>
+			<th>
+				姓名</th>
+			<th>
+				封国</th>
+			<th colspan="1">
+				简介</th>
+		</tr>
+		<tr>
+			<td>
+				01</td>
+			<td>
+				靖江王</td>
+			<td>
+				朱守谦</td>
+			<td>
+				广西临桂</td>
+			<td colspan="1">
+				明仁祖朱世珍曾孙</td>
+		</tr>
+		<tr>
+			<td>
+				02</td>
+			<td>
+				秦愍王</td>
+			<td>
+				朱樉</td>
+			<td>
+				陕西长安</td>
+			<td colspan="1">
+				明太祖朱元璋次子</td>
+		</tr>
+		<tr>
+			<td>
+				03</td>
+			<td>
+				晋恭王</td>
+			<td>
+				朱棡</td>
+			<td>
+				山西阳曲</td>
+			<td colspan="1">
+				明太祖朱元璋三子</td>
+		</tr>
+		<tr>
+			<td>
+				04</td>
+			<td>
+				燕王</td>
+			<td>
+				朱棣</td>
+			<td>
+				北平宛平</td>
+			<td colspan="1">
+				明太祖朱元璋四子</td>
+		</tr>
+		<tr>
+			<td>
+				05</td>
+			<td>
+				周定王</td>
+			<td>
+				朱橚</td>
+			<td>
+				河南祥符</td>
+			<td colspan="1">
+				明太祖朱元璋五子</td>
+		</tr>
+		<tr>
+			<td>
+				06</td>
+			<td>
+				楚昭王</td>
+			<td>
+				朱桢</td>
+			<td>
+				湖广江夏</td>
+			<td colspan="1">
+				明太祖朱元璋六子</td>
+		</tr>
+		<tr>
+			<td>
+				07</td>
+			<td>
+				齐恭王</td>
+			<td>
+				朱榑</td>
+			<td>
+				山东益都</td>
+			<td colspan="1">
+				明太祖朱元璋七子</td>
+		</tr>
+		<tr>
+			<td>
+				08</td>
+			<td>
+				潭王</td>
+			<td>
+				朱梓</td>
+			<td>
+				湖广长沙</td>
+			<td colspan="1">
+				明太祖朱元璋八子</td>
+		</tr>
+		<tr>
+			<td>
+				09</td>
+			<td>
+				鲁荒王</td>
+			<td>
+				朱檀</td>
+			<td>
+				山东滋阳</td>
+			<td colspan="1">
+				明太祖朱元璋十子</td>
+		</tr>
+		<tr>
+			<td>
+				10</td>
+			<td>
+				蜀献王</td>
+			<td>
+				朱椿</td>
+			<td>
+				四川成都</td>
+			<td colspan="1">
+				明太祖朱元璋十一子</td>
+		</tr>
+		<tr>
+			<td>
+				11</td>
+			<td>
+				湘献王</td>
+			<td>
+				朱柏</td>
+			<td>
+				湖广江陵</td>
+			<td colspan="1">
+				明太祖朱元璋十二子</td>
+		</tr>
+		<tr>
+			<td>
+				12</td>
+			<td>
+				代简王</td>
+			<td>
+				朱桂</td>
+			<td>
+				山西大同</td>
+			<td colspan="1">
+				明太祖朱元璋十三子</td>
+		</tr>
+		<tr>
+			<td>
+				13</td>
+			<td>
+				肃庄王</td>
+			<td>
+				朱楧</td>
+			<td>
+				陕西兰县</td>
+			<td colspan="1">
+				明太祖朱元璋十四子</td>
+		</tr>
+		<tr>
+			<td>
+				14</td>
+			<td>
+				辽简王</td>
+			<td>
+				朱植</td>
+			<td>
+				湖广江陵</td>
+			<td colspan="1">
+				明太祖朱元璋十五子</td>
+		</tr>
+		<tr>
+			<td>
+				15</td>
+			<td>
+				庆靖王</td>
+			<td>
+				朱栴</td>
+			<td>
+				陕西宁夏</td>
+			<td colspan="1">
+				明太祖朱元璋十六子</td>
+		</tr>
+		<tr>
+			<td>
+				16</td>
+			<td>
+				宁献王</td>
+			<td>
+				朱权</td>
+			<td>
+				江西南昌</td>
+			<td colspan="1">
+				明太祖朱元璋十七子</td>
+		</tr>
+		<tr>
+			<td>
+				17</td>
+			<td>
+				岷庄王</td>
+			<td>
+				朱楩</td>
+			<td>
+				湖广武冈</td>
+			<td colspan="1">
+				明太祖朱元璋十八子</td>
+		</tr>
+		<tr>
+			<td>
+				18</td>
+			<td>
+				谷王</td>
+			<td>
+				朱橞</td>
+			<td>
+				湖广长沙</td>
+			<td colspan="1">
+				明太祖朱元璋十九子</td>
+		</tr>
+		<tr>
+			<td>
+				19</td>
+			<td>
+				韩宪王</td>
+			<td>
+				朱松</td>
+			<td>
+				陕西平凉</td>
+			<td colspan="1">
+				明太祖朱元璋二十子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				20</td>
+			<td colspan="1">
+				沈简王</td>
+			<td colspan="1">
+				朱模</td>
+			<td colspan="1">
+				山西长治</td>
+			<td colspan="1">
+				明太祖朱元璋二十一子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				21</td>
+			<td colspan="1">
+				安惠王</td>
+			<td colspan="1">
+				朱楹</td>
+			<td colspan="1">
+				陕西平凉</td>
+			<td colspan="1">
+				明太祖朱元璋二十二子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				22</td>
+			<td colspan="1">
+				唐定王</td>
+			<td colspan="1">
+				朱桱</td>
+			<td colspan="1">
+				河南南阳</td>
+			<td colspan="1">
+				明太祖朱元璋二十三子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				23</td>
+			<td colspan="1">
+				郢靖王</td>
+			<td colspan="1">
+				朱栋</td>
+			<td colspan="1">
+				湖广长寿</td>
+			<td colspan="1">
+				明太祖朱元璋二十四子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				24</td>
+			<td colspan="1">
+				伊厉王</td>
+			<td colspan="1">
+				朱彝</td>
+			<td colspan="1">
+				河南洛阳</td>
+			<td colspan="1">
+				明太祖朱元璋二十五子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				25</td>
+			<td colspan="1">
+				吴王</td>
+			<td colspan="1">
+				朱允熥</td>
+			<td colspan="1">
+				浙江钱塘</td>
+			<td colspan="1">
+				明兴宗朱标三子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				26</td>
+			<td colspan="1">
+				汉王</td>
+			<td colspan="1">
+				朱高煦</td>
+			<td colspan="1">
+				山东乐安</td>
+			<td colspan="1">
+				明成祖朱棣次子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				27</td>
+			<td colspan="1">
+				赵简王</td>
+			<td colspan="1">
+				朱高燧</td>
+			<td colspan="1">
+				河南安阳</td>
+			<td colspan="1">
+				明成祖朱棣三子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				28</td>
+			<td colspan="1">
+				郑靖王</td>
+			<td colspan="1">
+				朱瞻埈</td>
+			<td colspan="1">
+				河南河内</td>
+			<td colspan="1">
+				明仁宗朱高炽次子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				29</td>
+			<td colspan="1">
+				越靖王</td>
+			<td colspan="1">
+				朱瞻墉</td>
+			<td colspan="1">
+				浙江西安</td>
+			<td colspan="1">
+				明仁宗朱高炽三子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				30</td>
+			<td colspan="1">
+				襄献王</td>
+			<td colspan="1">
+				朱瞻墡</td>
+			<td colspan="1">
+				湖广襄阳</td>
+			<td colspan="1">
+				明仁宗朱高炽五子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				31</td>
+			<td colspan="1">
+				荆宪王</td>
+			<td colspan="1">
+				朱瞻堈</td>
+			<td colspan="1">
+				湖广蕲春</td>
+			<td colspan="1">
+				明仁宗朱高炽六子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				32</td>
+			<td colspan="1">
+				淮靖王</td>
+			<td colspan="1">
+				朱瞻墺</td>
+			<td colspan="1">
+				江西鄱阳</td>
+			<td colspan="1">
+				明仁宗朱高炽七子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				33</td>
+			<td colspan="1">
+				滕怀王</td>
+			<td colspan="1">
+				朱瞻垲</td>
+			<td colspan="1">
+				云南昆明</td>
+			<td colspan="1">
+				明仁宗朱高炽八子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				34</td>
+			<td colspan="1">
+				梁庄王</td>
+			<td colspan="1">
+				朱瞻垍</td>
+			<td colspan="1">
+				湖广长寿</td>
+			<td colspan="1">
+				明仁宗朱高炽九子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				35</td>
+			<td colspan="1">
+				卫恭王</td>
+			<td colspan="1">
+				朱瞻埏</td>
+			<td colspan="1">
+				河南河内</td>
+			<td colspan="1">
+				明仁宗朱高炽十子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				36</td>
+			<td colspan="1">
+				德庄王</td>
+			<td colspan="1">
+				朱见潾</td>
+			<td colspan="1">
+				山东历城</td>
+			<td colspan="1">
+				明英宗朱祁镇次子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				37</td>
+			<td colspan="1">
+				秀怀王</td>
+			<td colspan="1">
+				朱见澍</td>
+			<td colspan="1">
+				河南汝阳</td>
+			<td colspan="1">
+				明英宗朱祁镇五子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				38</td>
+			<td colspan="1">
+				崇简王</td>
+			<td colspan="1">
+				朱见泽</td>
+			<td colspan="1">
+				河南汝阳</td>
+			<td colspan="1">
+				明英宗朱祁镇六子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				39</td>
+			<td colspan="1">
+				吉简王</td>
+			<td colspan="1">
+				朱见浚</td>
+			<td colspan="1">
+				湖广长沙</td>
+			<td colspan="1">
+				明英宗朱祁镇七子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				40</td>
+			<td colspan="1">
+				徽庄王</td>
+			<td colspan="1">
+				朱见沛</td>
+			<td colspan="1">
+				河南阳翟</td>
+			<td colspan="1">
+				明英宗朱祁镇九子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				41</td>
+			<td colspan="1">
+				兴献王</td>
+			<td colspan="1">
+				朱祐杬</td>
+			<td colspan="1">
+				湖广钟祥</td>
+			<td colspan="1">
+				明宪宗朱见深四子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				42</td>
+			<td colspan="1">
+				岐惠王</td>
+			<td colspan="1">
+				朱祐棆</td>
+			<td colspan="1">
+				湖广安陆</td>
+			<td colspan="1">
+				明宪宗朱见深五子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				43</td>
+			<td colspan="1">
+				益端王</td>
+			<td colspan="1">
+				朱祐槟</td>
+			<td colspan="1">
+				江西南城</td>
+			<td colspan="1">
+				明宪宗朱见深六子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				44</td>
+			<td colspan="1">
+				衡恭王</td>
+			<td colspan="1">
+				朱祐楎</td>
+			<td colspan="1">
+				山东益都</td>
+			<td colspan="1">
+				明宪宗朱见深七子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				45</td>
+			<td colspan="1">
+				雍靖王</td>
+			<td colspan="1">
+				朱祐枟</td>
+			<td colspan="1">
+				湖广衡阳</td>
+			<td colspan="1">
+				明宪宗朱见深八子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				46</td>
+			<td colspan="1">
+				寿定王</td>
+			<td colspan="1">
+				朱祐榰</td>
+			<td colspan="1">
+				湖广安陆</td>
+			<td colspan="1">
+				明宪宗朱见深九子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				47</td>
+			<td colspan="1">
+				汝安王</td>
+			<td colspan="1">
+				朱祐梈</td>
+			<td colspan="1">
+				河南汲县</td>
+			<td colspan="1">
+				明宪宗朱见深十一子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				48</td>
+			<td colspan="1">
+				泾简王</td>
+			<td colspan="1">
+				朱祐橓</td>
+			<td colspan="1">
+				山东沂州</td>
+			<td colspan="1">
+				明宪宗朱见深十二子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				49</td>
+			<td colspan="1">
+				荣庄王</td>
+			<td colspan="1">
+				朱祐枢</td>
+			<td colspan="1">
+				湖广武陵</td>
+			<td colspan="1">
+				明宪宗朱见深十三子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				50</td>
+			<td colspan="1">
+				申懿王</td>
+			<td colspan="1">
+				朱祐楷</td>
+			<td colspan="1">
+				四川宜宾</td>
+			<td colspan="1">
+				明宪宗朱见深十四子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				51</td>
+			<td colspan="1">
+				景恭王</td>
+			<td colspan="1">
+				朱载圳</td>
+			<td colspan="1">
+				湖广安陆</td>
+			<td colspan="1">
+				明世宗朱厚熜四子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				52</td>
+			<td colspan="1">
+				潞简王</td>
+			<td colspan="1">
+				朱翊镠</td>
+			<td colspan="1">
+				河南汲县</td>
+			<td colspan="1">
+				明穆宗朱载坖四子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				53</td>
+			<td colspan="1">
+				福忠王</td>
+			<td colspan="1">
+				朱常洵</td>
+			<td colspan="1">
+				河南洛阳</td>
+			<td colspan="1">
+				明神宗朱翊钧三子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				54</td>
+			<td colspan="1">
+				瑞王</td>
+			<td colspan="1">
+				朱常浩</td>
+			<td colspan="1">
+				陕西南郑</td>
+			<td colspan="1">
+				明神宗朱翊钧五子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				55</td>
+			<td colspan="1">
+				惠王</td>
+			<td colspan="1">
+				朱常润</td>
+			<td colspan="1">
+				湖广江陵</td>
+			<td colspan="1">
+				明神宗朱翊钧六子</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+				56</td>
+			<td colspan="1">
+				桂端王</td>
+			<td colspan="1">
+				朱常瀛</td>
+			<td colspan="1">
+				湖广衡阳</td>
+			<td colspan="1">
+				明神宗朱翊钧七子</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	<img src="http://img.xixik.net/custom/section/chinese-emperors/ming/xixik-5b6ecf1e4eb51011.jpeg" style="text-indent: 2em;" /></p>
+<p style="text-indent: 2em;">
+	明朝藩王分为两等，一是亲王，二是郡王，亲王从数量上来说，其实并不算多，从洪武三年朱元璋把他的儿子们封为第一批藩王（包括秦王、晋王等九王），到崇祯十四年崇祯帝封他的两个儿子定王和永王，一共有67个亲王，但是这些亲王，有的年纪小，没有真正的到藩地建国开府，有的因为无子或中途有罪被撤废，到了明朝末年，实际上还存在的亲王只有28个，说实话，28个亲王，并不算多。</p>
+<p style="text-indent: 2em;">
+	明朝初期的亲王分布图明朝的藩王问题，其实主要是郡王太多，明朝的规制是只要是亲王的儿子，除了长子继承亲王爵位以外，其他的儿子基本上都可以封郡王，由于明成祖以后对藩王在政治事业上严格限制他们的活动，然后在生活上尽量满足他们的享受，所以亲王们除了在家生孩子以外，真的没事可做，明末的才子张岱说：</p>
+<p style="text-indent: 2em;">
+	我明自靖难之后，待宗室其制愈严愈刻。在诸王之中，乐善好书者固百不得一，而即有好饮醇酒，近妇人，便称贤王，遂加奖励矣！</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/custom/section/chinese-emperors/ming/xixik-da424829bd5f52a8.jpeg" /></p>
+<p style="text-indent: 2em;">
+	明成祖以后的主要亲王分布图酒足饭饱就睡觉，明朝的亲王们生儿子的能力超级强，这样郡王的规模就很大，到了明末郡王的规模超过600个，分布在全国各地。关键是郡王们也很会生，朝廷可不是光亲王、郡王养起来啊，他们的儿子、女儿也都要养起来，这个数量就大得吓人了，明末这个亲王、郡王加上他们的子女至少超过20万人。</p>
+<p style="text-indent: 2em;">
+	因此明末养藩王花的钱就是天价，朝廷根本养不起，明末的天启年间，有人给朝廷算了一笔账，当年养藩王及其子女共需支付禄米396万石，但当年全国田赋收入一共才只有257万石，也就是光解决藩王们的吃饭问题，朝廷的财政赤字就会高达43%，所以朝廷实际上是已经养不起这帮人了，拖欠工资那是常事，因此明末的藩王的日子也不好过，因为朝廷根本无力及时和全款支付他们禄米。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor8"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        明朝16任皇帝 个个都不是一般人</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	奇葩代代有，明朝特别多。自从猪腰子脸朱重八建立明朝以来，<a href="http://www.xixik.com/content/840548b8cada6d60" title="奇葩的朝代产奇葩的皇帝，为何明朝会这么多？">继位的十六个皇帝一个比一个那啥</a>，一起来感受下：</p>
+<p style="TEXT-INDENT:2em">
+	<strong>01、杀人狂魔朱元璋</strong></p>
+<p style="TEXT-INDENT:2em">
+	职业：老祖宗</p>
+<p style="TEXT-INDENT:2em">
+	爱好：攒家底+攒人头</p>
+<p style="TEXT-INDENT:2em">
+	【简介：他小时候太穷吃不起饭，当了皇帝以后就把皇宫里的空地全部种满蔬菜。】</p>
+<p style="TEXT-INDENT:2em">
+	明朝开国皇帝朱元璋，小时候是放牛娃，长大后当了和尚，没钱、没权、没颜值的三无人员，本来饭都讨不到快饿死了，更不用说买房子讨老婆。。</p>
+<p style="TEXT-INDENT:2em">
+	幸好他心思缜密，双商爆表，抓住机遇成功升职加薪、当上总经理、出任CEO、迎娶白富美、走上人生巅峰。</p>
+<p style="TEXT-INDENT:2em">
+	好不容易当上皇帝，穷人病却犯了，坐拥天下享不起福，心里一天比一天焦虑，慢慢出现了心理障碍，得了一种“只能靠杀人缓解压力”的病，于是几乎杀光了身边所有人，光官员就杀了15万+。</p>
+<p style="TEXT-INDENT:2em">
+	虽然没读过什么书，却热衷给子孙后代取名字，给后人定了二十个字辈，还要求用金木水火土来循环，导致后来孩子生太多了字不够用，<a href="http://www.xixik.com/content/baec2754e25b4eac">聪明的子孙们于是造出了一张元素周期表</a>。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>02、下落成谜朱允炆</strong></p>
+<p style="TEXT-INDENT:2em">
+	职业：乖孙子</p>
+<p style="TEXT-INDENT:2em">
+	爱好：躲猫猫</p>
+<p style="TEXT-INDENT:2em">
+	【简介：他强调仁政、相亲相爱，却在一夜之间削去五个叔叔的兵权。】</p>
+<p style="TEXT-INDENT:2em">
+	老爹死得早，大哥也死得早，爷爷死得不早，于是皇位正好落到了朱允炆手里。</p>
+<p style="TEXT-INDENT:2em">
+	这位家里有皇位等着继承的乖宝宝好青年运气不太好，一不小心叔叔造反了，一不小心皇位丢了，一不小心连自己的下落都丢了。</p>
+<p style="TEXT-INDENT:2em">
+	如果他真的如传说一般逃出宫去当了和尚，请容许咩咩为他唱一首：“说什么王权富贵，怕什么戒律清规···”</p>
+<p style="TEXT-INDENT:2em">
+	<strong>03、颜值最高的朱棣</strong></p>
+<p style="TEXT-INDENT:2em">
+	职业：篡位的</p>
+<p style="TEXT-INDENT:2em">
+	爱好：工作</p>
+<p style="TEXT-INDENT:2em">
+	【简介：他倡导大家说真话，但只要一听到别人提建文帝就杀人。】</p>
+<p style="TEXT-INDENT:2em">
+	虽然明朝皇帝里他颜值最高、身材最好、最会打仗、最爱工作也最能干，可是他是篡位的。</p>
+<p style="TEXT-INDENT:2em">
+	虽然他自称是大脚马皇后的儿子可是大家都笑话他是异族小老婆生的，毕竟他是篡位的。</p>
+<p style="TEXT-INDENT:2em">
+	在位22年，朱棣化身工作狂人，从来不休息，天不亮就上班，啊不上朝，下了朝就和大臣一起吃工作餐，白天忙着批文件开大会，晚上枕着奏折睡觉，给他颁一个年度敬业奖。</p>
+<p style="TEXT-INDENT:2em">
+	不过他得了一种”找不到乖侄子睡不着觉”的病，所以每天下午茶的时侯都要出门去找朱允炆。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>04、短命吃货朱高炽</strong></p>
+<p style="TEXT-INDENT:2em">
+	职业：美食主播</p>
+<p style="TEXT-INDENT:2em">
+	爱好：吃东西</p>
+<p style="TEXT-INDENT:2em">
+	【简介：他因为贪吃，胖到夜里翻身都要老婆帮忙。】</p>
+<p style="TEXT-INDENT:2em">
+	据说本人比图片胖很多</p>
+<p style="TEXT-INDENT:2em">
+	朱高炽同志胖人多福，登基前就文治武功挺好的。由于爸爸太能干，当上皇帝之后就没啥压力了。</p>
+<p style="TEXT-INDENT:2em">
+	原本就心宽体胖的他，这下更胖了。</p>
+<p style="TEXT-INDENT:2em">
+	于是发挥胖子的本能，满天下搜罗好吃的，终日沉迷美食，御膳房成为皇宫里最热闹的所在。得了肥胖病的他连走路都要太监搀扶。</p>
+<p style="TEXT-INDENT:2em">
+	过了10个月，他就胖死了。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>05、斗蛐蛐的好同志朱瞻基</strong></p>
+<p style="TEXT-INDENT:2em">
+	职业：文艺青年</p>
+<p style="TEXT-INDENT:2em">
+	爱好：斗蛐蛐</p>
+<p style="TEXT-INDENT:2em">
+	【简介：他重农抑商，打压商人暴利，但到处买蛐蛐导致蛐蛐价格暴涨。】</p>
+<p style="TEXT-INDENT:2em">
+	他虽然只当了10年皇帝，可是文治武功都很像样。</p>
+<p style="TEXT-INDENT:2em">
+	年轻人玩心重，朱瞻基同志成功把爱好变成了专业，是个造诣颇高的艺术范和游猎迷，给祖国日渐凋零的文化事业带来新生。</p>
+<p style="TEXT-INDENT:2em">
+	他最大的缺点就是缺点比较少，这怎么行呢？他可不想当明君，于是爱上了“玩物丧志”的斗蛐蛐，后来又迷恋上房中术，于是一门心思要废掉皇后改立技术比较好的贵妃。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>06、社交达人朱祁镇</strong></p>
+<p style="TEXT-INDENT:2em">
+	职业：阶下囚</p>
+<p style="TEXT-INDENT:2em">
+	爱好：做一个好人</p>
+<p style="TEXT-INDENT:2em">
+	【简介：他做了蒙古的俘虏，却成了蒙古人的偶像。】</p>
+<p style="TEXT-INDENT:2em">
+	朱祁镇9岁就当上了皇帝，多年热情不减，23岁那年打了鸡血带兵出征，结果沦为瓦剌阶下囚。</p>
+<p style="TEXT-INDENT:2em">
+	但是因为人缘太好，不仅让看守他的人成了他的忠实粉丝，还和瓦剌首领的弟弟伯颜帖木儿成了好哥们，不仅经常给他带牛羊肉加餐，帮他过生日，还派自己的贴身侍女去服侍他。</p>
+<p style="TEXT-INDENT:2em">
+	一年后首领放走了朱祁镇，伯颜还依依不舍地送了一程又一程，哭着说：“我的皇帝哥哥今日去了，几时再能得见？”</p>
+<p style="TEXT-INDENT:2em">
+	凭借超强社交能力，奸佞小人和耿介忠臣甚至抢劫的蒙古兵和京城看门的大爷都是他的好朋友，于是他的朋友们给他发动了“夺门之变”，他又当上皇帝了。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>07、倒霉催的朱祁钰</strong></p>
+<p style="TEXT-INDENT:2em">
+	职业：临时皇帝</p>
+<p style="TEXT-INDENT:2em">
+	爱好：当一个好皇帝</p>
+<p style="TEXT-INDENT:2em">
+	【简介：他因为每天要早起上朝拒绝当皇帝，但哥哥要把帝位拿回去的时候却把他关了7年。】</p>
+<p style="TEXT-INDENT:2em">
+	他本来可以一辈子平平安安当一个亲王的。</p>
+<p style="TEXT-INDENT:2em">
+	要不是那年的妖风太盛，乱沙眯眼，杀千刀的瓦剌掳去了他亲哥···</p>
+<p style="TEXT-INDENT:2em">
+	总之，危急关头站出来保住北京城的人是他，改革朝局打开中兴局面的也是他，凭什么他不能当皇帝？</p>
+<p style="TEXT-INDENT:2em">
+	皇帝哥哥回来了，可是他不想把皇位让出去。</p>
+<p style="TEXT-INDENT:2em">
+	于是那个名正言顺的哥哥把他赶下了台，去了他的帝号，革了他的命，还不让他进皇陵。</p>
+<p style="TEXT-INDENT:2em">
+	留在历史上的，只剩下以他的年号命名的一种工艺：景泰蓝。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>08、一生只爱欧巴桑的朱见深</strong></p>
+<p style="TEXT-INDENT:2em">
+	职业：谈恋爱</p>
+<p style="TEXT-INDENT:2em">
+	爱好：万贞儿</p>
+<p style="TEXT-INDENT:2em">
+	【简介：他脾气很好，只是深爱着一个又老又胖的大妈。】</p>
+<p style="TEXT-INDENT:2em">
+	朱见深第一次见到万贞儿时，她正值19岁的妙龄，不过那会儿朱见深太小，只拿她当妈妈看待。</p>
+<p style="TEXT-INDENT:2em">
+	朱见深18岁登基时，万贞儿已经35岁，并开始发福。</p>
+<p style="TEXT-INDENT:2em">
+	没关系，我还是爱你。他立她为妃，还和她生了个儿子。他不嫌弃她年老色衰，满脸鱼尾纹肚子上还有肥肉，一心想把她扶正，可惜没能成功，儿子也死了。</p>
+<p style="TEXT-INDENT:2em">
+	泼辣又善妒的老女人万贞儿在58岁的时候死了，朱见深伤心欲绝，不久也跟着去了。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>09、模范老公朱祐樘</strong></p>
+<p style="TEXT-INDENT:2em">
+	职业：丈夫</p>
+<p style="TEXT-INDENT:2em">
+	爱好：张皇后</p>
+<p style="TEXT-INDENT:2em">
+	【简介：他从来不娶小老婆，但天天加班不回宫睡觉。】</p>
+<p style="TEXT-INDENT:2em">
+	他是在冷宫里悄悄活下来的，躲过了万贵妃的魔爪。</p>
+<p style="TEXT-INDENT:2em">
+	也许是遗传了老爹的痴情基因，朱祐樘是历史上唯一演给实行一夫一妻制的皇帝。</p>
+<p style="TEXT-INDENT:2em">
+	他一生只娶了一个张皇后，从不纳妃子更没搞过选秀，每天只与皇后一同起居，宛如平常夫妻。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>10、阅女无数朱厚照</strong></p>
+<p style="TEXT-INDENT:2em">
+	职业：大将军朱寿</p>
+<p style="TEXT-INDENT:2em">
+	爱好：打仗和女人</p>
+<p style="TEXT-INDENT:2em">
+	【简介：他因为姓朱又属猪，下令全国不许杀猪，但自己天天吃猪肉。】</p>
+<p style="TEXT-INDENT:2em">
+	比起老爹和爷爷的痴情无为，这位大神可不得了。</p>
+<p style="TEXT-INDENT:2em">
+	他耽于玩乐，追求自由，一天到晚混迹豹房，钻个空子就出宫去强抢民女。女人玩厌了，他还玩起了男人。</p>
+<p style="TEXT-INDENT:2em">
+	但是他还喜欢纵马高歌的军旅生涯，仗也的确打得不错，是“御驾亲征”的狂热爱好者，给自己编了个“大将军朱寿”的假身份亲自上场杀敌，居然打败了鞑靼军。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>11、沉迷冷战朱厚熜</strong></p>
+<p style="TEXT-INDENT:2em">
+	职业：炼丹</p>
+<p style="TEXT-INDENT:2em">
+	爱好：和大臣冷战</p>
+<p style="TEXT-INDENT:2em">
+	【简介：他热衷修道二十年不上朝，天天给猫铲屎，还给猫封爵。】</p>
+<p style="TEXT-INDENT:2em">
+	那个纵欲过度的明武宗没能留下一儿半女，于是皇位扔给了堂弟朱厚熜。</p>
+<p style="TEXT-INDENT:2em">
+	面对天上掉下来的皇位，他膨胀了。他硬要把自己爹妈弄成皇帝皇太后，大臣们当然不干啦，你继承的可是武宗的帝位，要不要把祖宗三代全追封一下啊！</p>
+<p style="TEXT-INDENT:2em">
+	于是君臣僵持二十多年。</p>
+<p style="TEXT-INDENT:2em">
+	嘉靖二十一年的时候，朱厚熜不知怎么惹恼了一群宫女，宫女们偷摸摸打算勒死皇帝，虽然他命大没死成，却从此患上了宫女恐惧症，不敢在紫禁城住了，搬到了西苑沉迷炼丹去了。</p>
+<p style="TEXT-INDENT:2em">
+	后来他就丹药吃太多膈应死了。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>12、鞠躬尽瘁朱载垕</strong></p>
+<p style="TEXT-INDENT:2em">
+	职业：嫖客</p>
+<p style="TEXT-INDENT:2em">
+	爱好：女人</p>
+<p style="TEXT-INDENT:2em">
+	【简介：他向户部借款给后宫的小老婆买珠宝，户部尚书说，你买可以，钱我不借。】</p>
+<p style="TEXT-INDENT:2em">
+	朱载垕一生精虫附体，为后宫女人鞠躬尽瘁死而后已。什么茶杯、龙床全都画着少儿不宜的图，夜夜笙歌，美女相伴，搞不动了就吃春药。</p>
+<p style="TEXT-INDENT:2em">
+	后来身体被掏空，卧床修养了两个月，起床后继续不可描述。</p>
+<p style="TEXT-INDENT:2em">
+	俗话说没有耕坏的田只有累死的牛，他终于累死了。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>13、宅男朱翊钧</strong></p>
+<p style="TEXT-INDENT:2em">
+	职业：宅男</p>
+<p style="TEXT-INDENT:2em">
+	爱好：罢工</p>
+<p style="TEXT-INDENT:2em">
+	【简介：从小他妈对他要求严格要他天天早起读书，于是他登基后诏毁天下书院。】</p>
+<p style="TEXT-INDENT:2em">
+	大名鼎鼎的万历皇帝是明朝在位时间最长的皇帝，然而没什么卵用。</p>
+<p style="TEXT-INDENT:2em">
+	为了立太子的事情他跟大臣闹掰了，索性把自己开除了。整整三十年不上朝，天天就宅在深宫里喝酒打游戏，国家机器几乎停止运转。</p>
+<p style="TEXT-INDENT:2em">
+	然而神奇的是，他不上朝之后并没有宦官之乱，也没有外戚干政，更没有严嵩这样的奸臣，连党争都变得有所收敛。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>14、药罐子朱常洛</strong></p>
+<p style="TEXT-INDENT:2em">
+	职业：病人</p>
+<p style="TEXT-INDENT:2em">
+	爱好：吃药</p>
+<p style="TEXT-INDENT:2em">
+	【简介：他从小得不到父亲关心，兢兢业业熬了三十九年终于当上皇帝，一个月后就挂了。】</p>
+<p style="TEXT-INDENT:2em">
+	朱常洛不仅要忙于朝政之事，还要忙着后宫，总是一脸被掏空的样子。</p>
+<p style="TEXT-INDENT:2em">
+	于是太医就经常给他进补药，吃完就能重振雄风。但是最后一次，他吃了一粒红色小药丸，就完了。</p>
+<p style="TEXT-INDENT:2em">
+	这粒红丸不是普通的药，它由妇人经水、秋石（从童男童女的尿中提炼出来）和人乳调制而成。朱常洛可能是被恶心死的。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>15、鲁班再世朱由校</strong></p>
+<p style="TEXT-INDENT:2em">
+	职业：木匠</p>
+<p style="TEXT-INDENT:2em">
+	爱好：木工活</p>
+<p style="TEXT-INDENT:2em">
+	【简介：他是一个错生帝王家的艺术家。】</p>
+<p style="TEXT-INDENT:2em">
+	他是明朝最有艺术细胞的皇帝，但是他既不会吟诗作对，也不会琴棋书画，而是做得一手好收工。</p>
+<p style="TEXT-INDENT:2em">
+	他天天就喜欢做木工，沉迷其中无法自拔。</p>
+<p style="TEXT-INDENT:2em">
+	他的活计也确实很好，只要是他看过的亭台楼阁，就都能做出来。对了中国最早的折叠床和喷泉就是他发明的。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>16、苦逼亡国朱由检</strong></p>
+<p style="TEXT-INDENT:2em">
+	职业：亡国之君</p>
+<p style="TEXT-INDENT:2em">
+	爱好：他没啥爱好，他很努力</p>
+<p style="TEXT-INDENT:2em">
+	【简介：修宫殿的石头太大卡在城门口运不进来，他很生气，下旨重打石头六十棍。】</p>
+<p style="TEXT-INDENT:2em">
+	前人挖坑，后人填坑。</p>
+<p style="TEXT-INDENT:2em">
+	前任朱由校在世时，大明江山就已经岌岌可危，这样一个烂摊子到了朱由检头上，他也很无奈啊。</p>
+<p style="TEXT-INDENT:2em">
+	他努力工作，起的比鸡早，睡的比狗晚，干得比牛多，吃得比驴少。二十多岁就愁白了头，长出了鱼尾纹。</p>
+<p style="TEXT-INDENT:2em">
+	虽然他很努力，但什么也没能改变。李自成的叛军杀进皇宫的时候，他砍死了老婆孩子，跑到一棵歪脖子树上上吊了。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor9"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        为何明朝皇帝奇葩多？</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>上的王朝中，明朝无疑是最特殊的一个。当家管事的有28年不上朝的皇帝，有天天不干活玩木匠的皇帝，也有一辈子就喜欢一个比自己大十七八的女人的皇帝。然而明王朝再不堪，他也从来没有向任何一个外<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>弯过腰、低过头。<strong><a href="http://www.xixik.com/content/7e0b0cb186de6e66">为何明朝皇帝奇葩多</a></strong>？大明终其一朝276年，不和亲，不赔款，不割地，不纳贡，天子守国门，君王死社稷。</p>
+<p style="TEXT-INDENT:2em">
+	朱棣当时为了抵御北方的游牧<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>，将明朝首都从南京迁到了北京。这样子有一个不好的地方，一旦战事不好，随时可能让敌人兵临城下。也确实是，在明朝的历史上并不缺乏让人家包围首都这样事件的发生。但是从来没有任何一位皇帝和清朝的咸丰皇帝一样，扔下江山社稷不管，丢下老百姓不顾的。没有二话，就是一个字打。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/8d6f51db0f7179fb" title="明朝土木堡之变皇帝被俘虏 有了2个年号的皇帝">明英宗被俘以后</a>，在敌营也从来没和被俘的徽钦二帝一样，毫无骨气。明朝这边呢，不掏钱赎回皇帝，皇帝没了，我们在推选一个，就是一个字，打。打它一个昏天黑地，打它一个日月无光。如果去看明朝战史，你会发现明军无论多么惨，面临的情况有多么危急，都绝不用女人换取和平，绝不割地赔款。哪怕如暴民军大军压城，哪怕如瓦刺大军围攻首都，哪怕如皇帝不幸被俘不论是哪种情况，都绝不认输。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chinese-emperors/ming/" style="color:#000" title="明朝皇帝列表">明朝的皇帝</a>有好的，有爱玩的，有荒谬的……为什么那么多色彩鲜明的皇帝都出现在明朝？什么木匠帝刷钱帝嗑药帝调戏淫乐帝等等，为什么这些皇帝扎堆出现在明朝呢？是明朝大环境所致还是清人史书篡改所致？</p>
+<p style="TEXT-INDENT:2em">
+	其实大家所说的这些奇葩皇帝，历史上很多，在东汉，南北朝时期尤其众多，只不过明朝离我们更近，历史记录更加完整，业界也更喜欢研究大一统王朝，于是明清两朝称为大家关注的焦点。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/chaodai/ming/xixik-32c1d9be9f8abe77.jpg" style="margin: 10px; float: right; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	回到皇帝本身来看，封建皇室普遍是早起创业艰难知道守江山的难处，到了中后期，社会稳定，再加上统治阶级与身俱来的优越感，很多皇帝以享乐为主。变着法的玩。这些既有皇帝本身的因素，也有周边佞臣宦官的唆使。</p>
+<p style="TEXT-INDENT:2em">
+	首先一个原因，就是民间野史文艺的夸张演绎。</p>
+<p style="TEXT-INDENT:2em">
+	明朝之后的清朝，是中国民间戏曲的红火期，我们今天喜闻乐见的好些地方戏，比如晋剧京剧，都是在清朝成型，相声艺术同样在清代成熟。这类民间艺术要想火，八卦皇帝就是好话题，<a href="http://114.xixik.com/chinese-emperors/qing/" style="color:#000" title="清朝皇帝列表">清朝皇帝</a>八卦了是找死，那八卦前朝皇帝，自然特安全。</p>
+<p style="TEXT-INDENT:2em">
+	比如万历皇帝，为啥会变得色彩鲜明？最早流传的，就是清代一个单口相声《皇上二大爷》，凭空给隆庆帝在民间找了个二哥，成天充大辈教育万历帝，好些关于万历的段子，都是这相声流传下来的。</p>
+<p style="TEXT-INDENT:2em">
+	朱元璋当然也没幸免，为啥大家都觉得他残忍好杀？民间文艺功劳最大!像“炮打庆功楼”“给徐达吃蒸鹅”这类段子，全出自晋剧，连朱元璋的亲外甥李文忠，都被朱元璋设计用妃子差点骗上床。像大明开国前就去世的胡大海，更是在戏曲里多活了三十多年，专为讨伐朱元璋。</p>
+<p style="TEXT-INDENT:2em">
+	至于正德皇帝，那更是八卦的厉害，这位皇帝一辈子也干了好些不靠谱的事，全被民间艺人拿来当爱情素材，比如《游龙戏凤》的戏曲常年流行，粤剧里还有正德皇帝大战武当派的故事，还被香港人改成武侠小说。</p>
+<p style="TEXT-INDENT:2em">
+	成化皇帝最雷，他本人倒还没啥段子，但他宠爱年长十九岁的万贵妃，也闹出不少风波，于是万贵妃也没幸免，在清朝的一些小说，甚至徽州地方戏曲里，万贵妃都变成了妖女，还是女狗熊精变的，差点吸了成化皇帝的阳气，情节相当曲折。</p>
+<p style="TEXT-INDENT:2em">
+	之所以会有这么多改编，一是清朝以后，民间戏曲很繁荣，更重要原因是，在清朝八卦<a href="http://114.xixik.com/chinese-emperors/ming/" style="color:#000" title="明朝皇帝列表">明朝皇帝</a>，特别是怎么荒唐怎么演，在清朝是默许的，典型凤阳花鼓，所有的考据结果都说明，明朝从没有过凤阳花鼓，倒是清朝有最早的演出版本，听听唱词就知道为啥：自从出了朱皇帝，十年倒有九年荒。</p>
+<p style="TEXT-INDENT:2em">
+	这类戏曲流行，对于清朝来说，是黑明朝的最好宣传工具，于是在这类宣传下，<a href="http://114.xixik.com/chinese-emperors/ming/" style="color:#000" title="明朝皇帝列表">明朝皇帝</a>的形象，也就丰富多彩。</p>
+<p style="TEXT-INDENT:2em">
+	同样的例子放清朝身上也一样，清朝结束后，民国相声文化火热，乾隆也就没幸免了。刘宝瑞的好些相声，包括鸳鸯蝴蝶派的好些小说，都逮着乾隆使劲扒，连他亲爹是谁，野史里都有十来个版本。</p>
+<p style="TEXT-INDENT:2em">
+	但实事求是说，比起<a href="http://114.xixik.com/chinese-emperors/qing/" style="color:#000" title="清朝皇帝列表">清朝皇帝</a>来，<a href="http://114.xixik.com/chinese-emperors/ming/" style="color:#000" title="明朝皇帝列表">明朝皇帝</a>确实色彩鲜明，个性各个独特，具体原因也是不一样的。</p>
+<p style="TEXT-INDENT:2em">
+	朱元璋，这个属于几百年难遇的顶级政治军事天才，不可复制。</p>
+<p style="TEXT-INDENT:2em">
+	而其他人，更多则是得从教育和政治文化环境上找原因。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/chaodai/ming/xixik-0d0d3e3105bfd501.jpg" style="margin: 10px; float: left; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	明朝的宫廷教育，虽说严格，但跟清朝相比，执行上却比较轻松。清朝是几十年如一日的严格培养，明朝对于接班人的培养，却是重在性情情商方面。因为明朝自从宣德年间起，双轨制确立，内阁越发成熟，做皇帝的基本是垂拱而治，不必亲力亲为。所以判断和情商，比读死书要重要。</p>
+<p style="text-indent: 2em;">
+	而这番轻松的继承家业也就说明了自己也难有很多的作为，天下太平百姓安居乐业，而这些皇帝所能做的不过也就是维持社稷的稳定罢了，而制度又完美的无需改革，这些皇帝自然是坐享其成。</p>
+<p style="text-indent: 2em;">
+	但是<a href="http://114.xixik.com/chinese-emperors/ming/" style="color:#000" title="明朝皇帝列表">明朝的皇帝</a>也并没有我们想象中的平庸，就如朱高炽、朱瞻基、朱祁镇、朱佑樘等这些可能我们所不熟悉的皇帝，很多时候我们认为他们平庸，不过是因为历史的记载总是将他们的毛病放大而使我们忽略了他们的功绩，而这自然是清朝的手笔。</p>
+<p style="text-indent: 2em;">
+	就如朱高炽这个老实的皇帝，上台就为冤杀的人们平反，宁愿背着不孝也要为这些人讨回公道，而他的心地善良，经常为百姓做实事，就算他死后，他的儿子也继承了他的性格继续将天下打理的井井有条。</p>
+<p style="text-indent: 2em;">
+	他和他父亲两人前后在位十年，这十年修养生息轻徭薄赋，使得百姓富足。后世称为“仁宣之治”可以媲美汉代的文景之治。</p>
+<p style="text-indent: 2em;">
+	所以也正是这成熟的运转体制，造就了这些色彩鲜明的皇帝，但必须说的是，大多数的<a href="http://114.xixik.com/chinese-emperors/ming/" style="color:#000" title="明朝皇帝列表">明朝皇帝</a>，脾气各种古怪，爱好各种各异，但大事绝不糊涂。比如正德，玩的再凶每天也要批完奏折才睡，市舶司改革和提督制度，全是他首创的，前者催生资本主义萌芽，后者打的鞑靼十年不敢南下。又比如万历，三十年不上朝，但最初的时候，办事效率也很高，抗倭援朝虐日本，基本都是他操纵，反观后世某位老太后，倒是勤快的天天忙活，却被日本逼着签了马关条约，可谓高下立判。</p>
+<p style="TEXT-INDENT:2em">
+	所以我们看<a href="http://114.xixik.com/chinese-emperors/ming/" style="color:#000" title="明朝皇帝列表">明朝皇帝</a>，看着他们各个不务正业，但具体到工作上，基本啥不耽误，比如明宪宗，除了炼丹修道，就是拜佛看书，基本不上朝，那些年的明朝，照历史书的说法，是“灾异无有酷于此二十三年者”，也就是比崇祯年间都惨。可就是这么个工作方式，还是平安熬过来，国家非但没乱，哪怕清朝人编历史书也承认，老百姓生活“幸斯小康”。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>天启皇帝，一个被做皇帝耽误了的木匠，还是被做木工耽误了的皇帝？</strong></p>
+<p style="TEXT-INDENT:2em">
+	天启皇帝的童年跟明代中后期的皇帝一样生于深宫，长于深宫，但他的生活又跟其他皇帝不一样。我们都知道万历皇帝是明朝在位最长时间的一位皇帝，48年，既然万历皇帝在位这么长时间，那就没有他的儿子，孙子什么事了。所以我们的天启皇帝朱由校和的父亲一样，迟迟得不到册立，迟迟得不到出阁豫教。</p>
+<p style="TEXT-INDENT:2em">
+	所以朱由校是由一个女人养大的，这个女人就是他的奶娘客氏，客氏是个没文化的女人自然不会在意朱由校小朋友有没有读书，认不认字。她只管朱由校的吃喝拉撒。</p>
+<p style="TEXT-INDENT:2em">
+	自有皇帝以来，牛皇帝有之，熊皇帝有之，不牛不熊的皇帝也有之，而天启皇帝比较特别：他是木匠。</p>
+<p style="TEXT-INDENT:2em">
+	说来我们的朱由校皇帝也是个苦命的孩子，拜他父亲所赐，几十年来躲躲藏藏，提心吊胆，儿子的教育是一点没管，所以朱由校小朋友不怎么读书，可以说是个文盲，却很喜欢做木匠，常年钻研木工技巧。</p>
+<p style="TEXT-INDENT:2em">
+	身为一名优秀的木匠，明熹宗有着良好的职业素养，他经常摆弄宫里建筑。具体表现为在他当政的几年里，宫里经常搞工程，工程的设计单位、施工、监理、检验，全部由皇帝大人自己承担。更为奇特的是，工程的目的也很简单，修好了，就拆，拆完了，再修，以达到拆拆修修无穷尽之目的。总之，搞来搞去，只为图个乐。</p>
+<p style="TEXT-INDENT:2em">
+	这是大工程，小玩意天启同志也搞过。据史料记载，他曾经造过一种木制模型，有山有水有人，据说木人身后有机关控制，还能动起来，纯手工制作，比起今天的遥控玩具有过之而无不及。为检验自己的实力，天启还曾把自己的作品放到市场上去卖，据称能卖近千两银子，合人民币几十万。要换在今天，这兄弟就不干皇帝，也早发了。可是，他偏偏就是皇帝。</p>
+<p style="TEXT-INDENT:2em">
+	当然，许多书上说这位皇帝是低能儿，只会做木工，从来不管政务，不懂政治，那也是不对的，虽然他把权力交给了魏忠贤，也不看文件，不理朝廷，但他心里是很有数的。</p>
+<p style="TEXT-INDENT:2em">
+	杜车别在《对天启皇帝评价》一文中写道，天启在军事、边事上自有一套理论，在某些方面甚至超过了统兵的边帅。天启六年，宁远兵备佥事袁崇焕上疏说在关外依靠修城屯田就可以让后金投降，天启接到奏疏后批示道：“作何给授，使军民不相妨？作何分拨，使农战不偏废？作何演练，使农隙皆兵？作何更番，使营伍皆农？作何疆理，足以限戎马？作何收保，不致资盗粮？一切事宜，该抚悉心区处具奏。这本内说，奴子不降，必定成擒，诸臣诸不乐闻。以朕计之，奴未必降，降不足信也;战必能胜，胜无轻谈也。蹈实而做，需时而动。正也，奇在其中矣。该抚饶为之，亦善为之。”</p>
+<p style="TEXT-INDENT:2em">
+	天启的意思就是告诫袁崇焕老老实实做好实事，少搞一些大言不惭的把戏。此时天启只有二十一岁，处于深宫之中的他，其头脑冷静和务实态度已经在袁崇焕之上。天启不仅能对一些事情做出独立判断，而且对于边事还十分关心。他为了获取真实的边报，便时常让东厂的人前去刺探，《明熹宗实录》对于朱由校发内帑给边军的记载也是比比皆是，而且为了解决早已存在的财政支付问题，天启除了保持万历朝征收商业税的政策不变之外，还对农田的买卖征税，这一方面扩大了财源，另一方面还抑制了土地兼并，从这点可以看出这个小皇帝在制定政策方面的针对性。</p>
+<p>
+	<img src="http://img.xixik.net/cimg/030/xixik_275e215bd20a0685.jpg" style="text-indent: 28px; margin: 10px; float: right; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	所以说朱由校是个草包也不完全正确，但要说他是个好皇帝那就更谈不上了，因为他的大部分时间和精力还是放在做木工上了，把朝政都放手给魏忠贤。因此朱由校在位时期，最著名的事件，便是宦官魏忠贤专权。后人说起魏忠贤干过的坏事，常说他“矫旨”， 也就是说，他干的坏事，全是假借天启皇帝朱由校的名义做的。然而天启七年（1627年），就是在朱由校病逝十天前，朱由校还强撑病体，视察内阁，并说魏忠贤做过的一切，都让他非常高兴。自始至终，他都对魏忠贤保持着绝对的信任。</p>
+<p style="TEXT-INDENT:2em">
+	朱由校在位仅七年，虽然也干过那么几件靠谱事儿，但大部分是时间都是荒废朝政的，所以我们的朱由校师傅不知道是一个被做皇帝耽误了的木匠，还是被做木工耽误了的皇帝？</p>
+<p style="TEXT-INDENT:2em">
+	<font color="#000000">明朝</font>能够存在300年，主要是制度取胜。<font color="#000000">明朝</font>的行政体制，建立在严格的权力制衡基础上。特别是朱棣时代，落实了“五复奏”死刑制度后，即使贵为天子，也绝不能为所欲为。</p>
+<p style="TEXT-INDENT:2em">
+	比如下江南，<font color="#000000"><a href="http://114.xixik.com/chinese-emperors/ming/" style="color:#000" title="明朝皇帝列表">明朝皇帝</a></font>走一路，沿途官员都是各种声讨各种硬顶，拿刀架在大臣脖子上，大臣也绝不怂。想如后面某个<font color="#000000"><a href="http://114.xixik.com/chaodai/" style="color:#000" title="历史朝代顺序表">朝代</a></font>一样，出那些威武得令大臣噤若寒蝉的“明君”，<font color="#000000">明朝</font>根本不可能！</p>
+<p style="TEXT-INDENT:2em">
+	什么样的帝王，才叫明君？如果说成天喜欢打扮成霸道总裁样子，没事带人呼啦啦下江南私访，一路拈花惹草招风流事是明君？或者成天一派英明神武样子，举手投足都是英雄模样，时时处处摆架子是明君？抱歉，这类“明君”真不是<font color="#000000">明朝</font>的菜！</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor10"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        明朝皇后列表</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	太祖朱元璋：孝慈高皇后</p>
+<p style="TEXT-INDENT:2em">
+	懿文皇太子朱标：孝康皇后 *</p>
+<p style="TEXT-INDENT:2em">
+	惠帝朱允炆：马皇后 **</p>
+<p style="TEXT-INDENT:2em">
+	成祖朱棣：仁孝徐皇后</p>
+<p style="TEXT-INDENT:2em">
+	仁宗朱高炽：诚孝张皇后</p>
+<p style="TEXT-INDENT:2em">
+	宣宗朱瞻基：恭让胡皇后 ** 孝恭孙皇后</p>
+<p style="TEXT-INDENT:2em">
+	英宗朱祁镇：孝庄钱皇后 孝肃周太后 *</p>
+<p style="TEXT-INDENT:2em">
+	景帝朱祁钰：汪废后 ** 肃孝杭皇后 #</p>
+<p style="TEXT-INDENT:2em">
+	宪宗朱见深：吴废后 # 孝贞王皇后 孝穆纪太后 * 孝惠邵太后 *</p>
+<p style="TEXT-INDENT:2em">
+	孝宗朱祐樘：孝康张皇后</p>
+<p style="TEXT-INDENT:2em">
+	武宗朱厚照：孝静夏皇后</p>
+<p style="TEXT-INDENT:2em">
+	睿宗朱祐杬：献皇后 *</p>
+<p style="TEXT-INDENT:2em">
+	世宗朱厚熜：孝洁陈皇后 张废后 # 孝烈方皇后 孝恪杜太后 *</p>
+<p style="TEXT-INDENT:2em">
+	穆宗朱载垕：孝懿李皇后 * 孝安陈皇后</p>
+<p style="TEXT-INDENT:2em">
+	神宗朱翊钧：孝端王皇后</p>
+<p style="TEXT-INDENT:2em">
+	光宗朱常洛：孝元郭皇后 *</p>
+<p style="TEXT-INDENT:2em">
+	熹宗朱由校：懿安张皇后</p>
+<p style="TEXT-INDENT:2em">
+	庄烈帝朱由检：愍周皇后</p>
+<p style="TEXT-INDENT:2em">
+	注：#者为生前被废或身后被剥夺皇后资格；*者为身后追尊；**者为生前被废，身后重新追尊。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+    </div>
+    <script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        var value = '92';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script>
+    <div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/chinese-emperors/ming/" target="_self" title="明朝皇帝列表_明朝历代皇帝简介及在位年表_中国历朝帝王大全">明朝皇帝列表</a></div>
+    <ul style="width: 960px; margin: auto; overflow: hidden;">
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/lixi/"
+                title="人民币存款利率表，2019银行利息，银行存款利率，银行贷款利率">银行存款利息</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chaodai/zhou/"
+                title="周朝历史_西周历史_东周历史_周朝帝王列表">周朝历史</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证更换新政策_过期了该怎么办？">中国旅行证</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国总统_美国历任总统名单_美国总统简历生卒年份及所属党派">美国历任总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/baijiaxing-qq/"
+                title="百家姓qq头像,百家姓qq头像闪图大全_百家姓中国心qq头像">百家姓QQ头像</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="美宝证件_美宝需要哪些证件（美国出生纸_中国旅行证_美国护照_社会安全号_出生纸三级认证）">美宝需要哪些证件？</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_去美国生孩子费用预算清单2019">赴美生子要多少钱</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/obama/"
+                title="奥巴马_美国总统奥巴马_贝拉克·奥巴马(Barack Hussein Obama)_第44任美国总统">奥巴马</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/trump/"
+                title="美国总统特朗普_唐纳德·约翰·特朗普_Donald John Trump_第45任美国总统川普">特朗普</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_去美国生孩子要多少钱？">赴美生子费用</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 中国护照免签证国家2019">中国护照免签证</a> </li>
+        
+    </ul>
+
+    <div class="lindBox">
+        <div class="btnGray">
+            <div class="btnText">
+                <a target="_self" title="明朝皇帝列表_明朝历代皇帝简介及在位年表_中国历朝帝王大全" href="http://news.xixik.com/word/92/">另存为<br />
+                    Word格式</a>
+            </div>
+        </div>
+    </div>
+    <div class="lindBox" style="text-align: center;">
+        <img src="http://news.xixik.com/qrcode/92/" alt="扫码手机上继续看" /><br />
+        <br />
+        <strong>用微信或者支付宝扫码在手机上继续观看<br />
+            可以保存收藏，也扫码后可以分享给好友
+        </strong>
+    </div>
+    <hr style="height: 1px; border: none; border-top: 1px dashed #999;" />
+    <script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script>
+<!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.-->
+
+</body></html>

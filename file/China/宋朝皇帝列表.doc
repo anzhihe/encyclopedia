@@ -1,0 +1,2238 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <title>宋朝皇帝列表_北宋皇帝列表_南宋历代皇帝简介及在位年表_中国历朝帝王大全</title>
+    <link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" />
+    <meta name="description" content="宋朝皇帝列表及简介,北宋皇帝列表,南宋皇帝列表，及追尊未实际统治的君主。此外，还包括两宋间，由金朝建立的傀儡政权君主。" />
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/chinese-emperors/song/">
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <base target="_blank" />
+    
+    <script>
+        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "chinese-emperors/song/";
+        }
+
+
+    </script>
+    <style>
+        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style>
+</head>
+<body>
+    <a name="top4"></a>
+    <div class="topBox" name="top">
+        <div class="topMain">
+            <div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div>
+            <div id="icoPhone"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div>
+            <div id="icoWechat"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a> </div>
+            <div id="icoSina"></div>
+            <div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a>  </div>
+            <div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div>
+            <div class="topRight">
+            </div>
+        </div>
+    </div>
+
+    <div id="showqrCode">
+        <div><span></span></div>
+        <img src="" /><div><span></span></div>
+    </div>
+    <script type="text/javascript">
+        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script>
+    <div class="body">
+        
+        <div class="lindBox" style="position: relative;">
+            <img src="http://img.xixik.net/custom/topic/001/song.jpg" alt="宋朝皇帝列表_北宋皇帝列表_南宋历代皇帝简介及在位年表_中国历朝帝王大全" />
+            <div class="title">
+                <h1>宋朝皇帝列表_北宋皇帝列表_南宋历代皇帝简介及在位年表_中国历朝帝王大全</h1>
+            </div>
+        </div>
+        
+
+        <div class=" custom_border lindBox">
+            <div class="special_content">
+                <div class="content_text">
+                    <div class="content_daodu">
+                    </div>
+                    <h2 style="border-bottom:1px dashed #999; displayinline;">宋朝皇帝列表</h2>
+                    <p>
+	宋朝历时320年，北宋历167年，南宋历153年，共有18帝。宋朝皇帝列表:宋太祖赵匡胤、宋太宗赵光义、宋真宗赵恒、宋仁宗赵祯、宋英宗赵曙、宋神宗赵顼、宋哲宗赵煦、宋徽宗赵佶、宋钦宗赵桓、高宗赵构、宋孝宗赵昚、宋光宗赵惇、宋宁宗赵扩、宋理宗赵昀、宋度宗赵禥、宋恭帝赵<img src="http://img.xixik.net/mimg/002/xixik_3a230961e8d9e699.jpg" />、宋端宗赵昰、宋卫王赵昺。</p>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="lindBox" style="overflow: hidden;">
+            <div class="gg1">
+                <a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a>
+            </div>
+            <div class="guide">
+                <div class="guideBorder" id="guideBorder">
+                    <div class="guideTitle">导读（目录）</div>
+                    <ul id="guideDisplay">
+                        
+                                <li>·<a title="宋朝皇帝列表" href="#anchor1" target="_self"> 宋朝皇帝列表</a></li>
+                            
+                                <li>·<a title="宋朝皇帝世系图" href="#anchor2" target="_self"> 宋朝皇帝世系图</a></li>
+                            
+                                <li>·<a title="宋朝皇帝在位时间及简介" href="#anchor3" target="_self"> 宋朝皇帝在位时间及简介</a></li>
+                            
+                                <li>·<a title="宋朝皇帝顺序表及简介" href="#anchor4" target="_self"> 宋朝皇帝顺序表及简介</a></li>
+                            
+                                <li>·<a title="宋朝灭亡，崖山之后再无中国" href="#anchor5" target="_self"> 宋朝灭亡，崖山之后再无中国</a></li>
+                            
+                                <li>·<a title="两宋十八位皇帝综述" href="#anchor6" target="_self"> 两宋十八位皇帝综述</a></li>
+                            
+                                <li>·<a title="宋朝历代皇后列表" href="#anchor7" target="_self"> 宋朝历代皇后列表</a></li>
+                            
+                                <li>·<a title="被盗掘最惨的皇家陵墓群——南宋皇陵" href="#anchor8" target="_self"> 被盗掘最惨的皇家陵墓群——南宋皇陵</a></li>
+                            
+                    </ul>
+                    <div class="guideOpen">展开&darr;</div>
+                </div>
+            </div>
+
+            <div class="guideFllow">
+                <div class="guideFllowBorder">
+                    <div class="guideFllowTitle">导读（目录）</div>
+                    <ul id="guideFllowDisplay">
+                        
+                                <li>·<a title="宋朝皇帝列表" href="#anchor1" target="_self"> 宋朝皇帝列表</a></li>
+                            
+                                <li>·<a title="宋朝皇帝世系图" href="#anchor2" target="_self"> 宋朝皇帝世系图</a></li>
+                            
+                                <li>·<a title="宋朝皇帝在位时间及简介" href="#anchor3" target="_self"> 宋朝皇帝在位时间及简介</a></li>
+                            
+                                <li>·<a title="宋朝皇帝顺序表及简介" href="#anchor4" target="_self"> 宋朝皇帝顺序表及简介</a></li>
+                            
+                                <li>·<a title="宋朝灭亡，崖山之后再无中国" href="#anchor5" target="_self"> 宋朝灭亡，崖山之后再无中国</a></li>
+                            
+                                <li>·<a title="两宋十八位皇帝综述" href="#anchor6" target="_self"> 两宋十八位皇帝综述</a></li>
+                            
+                                <li>·<a title="宋朝历代皇后列表" href="#anchor7" target="_self"> 宋朝历代皇后列表</a></li>
+                            
+                                <li>·<a title="被盗掘最惨的皇家陵墓群——南宋皇陵" href="#anchor8" target="_self"> 被盗掘最惨的皇家陵墓群——南宋皇陵</a></li>
+                            
+                    </ul>
+                    <div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div>
+                </div>
+            </div>
+
+
+            <div class="gg2">
+                <a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a>
+            </div>
+        </div>
+        
+        <a name="anchor1"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        宋朝皇帝列表</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	宋朝（960~1279年）是中国历史上承五代十国、下启元朝的时代，根据首都及疆域的变迁，史学上分为北宋和南宋。宋朝历时320年，北宋历167年，南宋历153年，共有18帝。</p>
+<p style="TEXT-INDENT:2em">
+	960年，后周大将赵匡胤黄袍加身，建立宋朝。为了避免唐代末朝以来藩镇割据和宦官乱政的现象，加强了中央集权，采取重文轻武的施政方针，在军事上积弱。宋真宗、宋仁宗时期步入了盛世。<a href="http://www.xixik.com/content/a7c954e77f5343d9">1127年</a><a href="http://www.xixik.com/content/a7c954e77f5343d9">靖康之难，徽、钦二帝受金人掳去</a>，北宋灭亡。</p>
+<p style="TEXT-INDENT:2em">
+	赵构南迁建立了宋王朝，史称“南宋”。后期，抗蒙战争连年，到1276年，元朝军队占领临安，1279年，8岁的小皇帝赵昺被大臣陆秀夫背著跳海而死，厓山海战后，宋朝彻底灭亡。</p>
+<p style="TEXT-INDENT:2em">
+	宋朝给人留下“积贫积弱”的印象，然而两宋时期民族融合和商品经济空前发展，对外交流频繁，文化艺术发展迅速，是中国历史上的黄金时期。是中国历史上经济与文化教育最繁荣的时代之一，儒学复兴，社会上弥漫尊师重教之风气，科技发展亦突飞猛进，政治也较开明廉洁，终宋一代没有严重的宦官乱政和地方割据，兵变、民乱次数与规模在中国历史上也相对较少。著名史学家陈寅恪言：“华夏民族之文化，历数千载之演进，造极于赵宋之世。”而西方与日本史学界中认为宋朝是中国历史上文艺复兴与经济革命的也颇有人在。宋朝灭亡，“崖山之后无中国”。</p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<td colspan="6" style="text-align: center;">
+				<a href="http://114.xixik.com/chinese-emperors/song/" style="color:#000;" title="北宋皇帝列表"><strong>北宋皇帝列表</strong></a>，定都开封，共历167年，传九帝；</td>
+		</tr>
+		<tr>
+			<th>
+				代</th>
+			<th>
+				庙号</th>
+			<th>
+				谥号</th>
+			<th>
+				姓名</th>
+			<th>
+				年号</th>
+			<th>
+				统治时间</th>
+		</tr>
+		<tr>
+			<td>
+				追谥</td>
+			<td>
+				宋圣祖</td>
+			<td>
+				上灵高道九天司命保生天尊大帝</td>
+			<td>
+				赵玄朗</td>
+			<td>
+				-</td>
+			<td>
+				赵匡胤追谥</td>
+		</tr>
+		<tr>
+			<td>
+				追谥</td>
+			<td>
+				宋僖祖</td>
+			<td>
+				立道肇基积德起功懿文宪武睿和至孝皇帝</td>
+			<td>
+				赵朓</td>
+			<td>
+				-</td>
+			<td>
+				赵匡胤追谥</td>
+		</tr>
+		<tr>
+			<td>
+				追谥</td>
+			<td>
+				宋顺祖</td>
+			<td>
+				惠元睿明皇帝</td>
+			<td>
+				赵珽</td>
+			<td>
+				-</td>
+			<td>
+				赵匡胤追谥</td>
+		</tr>
+		<tr>
+			<td>
+				追谥</td>
+			<td>
+				宋翼祖</td>
+			<td>
+				简恭睿德皇帝</td>
+			<td>
+				赵敬</td>
+			<td>
+				-</td>
+			<td>
+				赵匡胤追谥</td>
+		</tr>
+		<tr>
+			<td>
+				追谥</td>
+			<td>
+				宋宣祖</td>
+			<td>
+				昭武睿圣皇帝</td>
+			<td>
+				赵弘殷</td>
+			<td>
+				-</td>
+			<td>
+				赵匡胤追谥</td>
+		</tr>
+		<tr>
+			<td>
+				1</td>
+			<td>
+				宋太祖</td>
+			<td>
+				启运立极英武睿文神德圣功至明大孝皇帝</td>
+			<td>
+				赵匡胤</td>
+			<td>
+				建隆<br />
+				乾德<br />
+				开宝</td>
+			<td>
+				960年-976年</td>
+		</tr>
+		<tr>
+			<td>
+				2</td>
+			<td>
+				宋太宗</td>
+			<td>
+				至仁应道神功圣德文武睿烈大明广孝皇帝</td>
+			<td>
+				赵炅 （原名匡义、光义）</td>
+			<td>
+				太平兴国<br />
+				雍熙<br />
+				端拱<br />
+				淳化<br />
+				至道</td>
+			<td>
+				976年-997年</td>
+		</tr>
+		<tr>
+			<td>
+				3</td>
+			<td>
+				宋真宗</td>
+			<td>
+				应符稽古神功让德文明武定章圣元孝皇帝</td>
+			<td>
+				赵恒 （原名德昌、元休、元侃）</td>
+			<td>
+				咸平<br />
+				景德<br />
+				大中祥符天禧<br />
+				乾兴</td>
+			<td>
+				997年-1022年</td>
+		</tr>
+		<tr>
+			<td>
+				4</td>
+			<td>
+				宋仁宗</td>
+			<td>
+				体天法道极功全德神文圣武睿哲明孝皇帝</td>
+			<td>
+				赵祯 （原名受益）</td>
+			<td>
+				天圣<br />
+				明道<br />
+				景祐<br />
+				宝元<br />
+				康定<br />
+				庆历<br />
+				皇祐<br />
+				至和<br />
+				嘉祐</td>
+			<td>
+				1022年-1063年</td>
+		</tr>
+		<tr>
+			<td>
+				5</td>
+			<td>
+				宋英宗</td>
+			<td>
+				体干应历隆功盛德宪文肃武睿圣宣孝皇帝</td>
+			<td>
+				赵曙 （原名宗实）</td>
+			<td>
+				治平</td>
+			<td>
+				1063年-1067年</td>
+		</tr>
+		<tr>
+			<td>
+				6</td>
+			<td>
+				宋神宗</td>
+			<td>
+				绍天法古运德建功英文烈武钦仁圣孝皇帝</td>
+			<td>
+				赵顼 （原名仲针）</td>
+			<td>
+				熙宁<br />
+				元丰</td>
+			<td>
+				1067年-1085年</td>
+		</tr>
+		<tr>
+			<td>
+				7</td>
+			<td>
+				宋哲宗</td>
+			<td>
+				宪元继道显德定功钦文睿武齐圣昭孝皇帝</td>
+			<td>
+				赵煦 （原名佣）</td>
+			<td>
+				元祐<br />
+				绍圣<br />
+				元符</td>
+			<td>
+				1085年-1100年</td>
+		</tr>
+		<tr>
+			<td>
+				8</td>
+			<td>
+				宋徽宗</td>
+			<td>
+				体神合道骏烈逊功圣文仁德慈宪显孝皇帝</td>
+			<td>
+				赵佶 （金太宗降封昏德公，金熙宗追封天水郡王）</td>
+			<td>
+				建中靖国<br />
+				崇宁<br />
+				大观<br />
+				政和<br />
+				重和<br />
+				宣和</td>
+			<td>
+				1100年-1125年</td>
+		</tr>
+		<tr>
+			<td>
+				9</td>
+			<td>
+				宋钦宗</td>
+			<td>
+				恭文顺德仁孝皇帝</td>
+			<td>
+				赵桓 （金太宗降封重昏侯，金熙宗晋封天水郡公）</td>
+			<td>
+				靖康</td>
+			<td>
+				1125年-1127年</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+				垂帘听政</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td colspan="1" rowspan="1">
+				昭慈圣献皇后</td>
+			<td colspan="1" rowspan="1">
+				元祐皇后孟氏</td>
+			<td colspan="1" rowspan="1">
+				-</td>
+			<td colspan="1" rowspan="1">
+				1127年</td>
+		</tr>
+		<tr>
+			<td colspan="6" style="text-align: center;">
+				<strong><a href="http://114.xixik.com/chinese-emperors/song/" style="color:#000;" title="南宋皇帝列表">南宋皇帝列表</a>，</strong>行在临安（今杭州），共历152年，传九帝；</td>
+		</tr>
+		<tr>
+			<th>
+				代</th>
+			<th>
+				庙号</th>
+			<th>
+				谥号</th>
+			<th>
+				姓名</th>
+			<th>
+				年号</th>
+			<th>
+				统治时间</th>
+		</tr>
+		<tr>
+			<td>
+				10</td>
+			<td>
+				宋高宗</td>
+			<td>
+				受命中兴全功至德圣神武文昭仁宪孝皇帝</td>
+			<td>
+				赵构</td>
+			<td>
+				建炎<br />
+				绍兴</td>
+			<td>
+				1127年-1129年 1129年-1162年</td>
+		</tr>
+		<tr>
+			<td>
+				11</td>
+			<td>
+				宋简宗*<br />
+				（韩林儿追谥）</td>
+			<td>
+				正安帝（元懿太子） 靖文元懿殇孝皇帝（韩林儿追谥）</td>
+			<td>
+				赵旉</td>
+			<td>
+				明受</td>
+			<td>
+				1129年</td>
+		</tr>
+		<tr>
+			<td>
+				12</td>
+			<td>
+				宋孝宗</td>
+			<td>
+				绍统同道冠德昭功哲文神武明圣成孝皇帝</td>
+			<td>
+				赵眘（初名伯琮，后改名瑗，赐名玮）</td>
+			<td>
+				隆兴<br />
+				乾道<br />
+				淳熙</td>
+			<td>
+				1162年-1189年</td>
+		</tr>
+		<tr>
+			<td>
+				13</td>
+			<td>
+				宋光宗</td>
+			<td>
+				循道宪仁明功茂德温文顺武圣哲慈孝皇帝</td>
+			<td>
+				赵惇</td>
+			<td>
+				绍熙</td>
+			<td>
+				1189年-1194年</td>
+		</tr>
+		<tr>
+			<td>
+				14</td>
+			<td>
+				宋宁宗</td>
+			<td>
+				法天备道纯德茂功仁文哲武圣睿恭孝皇帝</td>
+			<td>
+				赵扩</td>
+			<td>
+				庆元<br />
+				嘉泰<br />
+				开禧<br />
+				嘉定</td>
+			<td>
+				1194年-1224年</td>
+		</tr>
+		<tr>
+			<td>
+				15</td>
+			<td>
+				宋理宗</td>
+			<td>
+				建道备德大功复兴烈文仁武圣明安孝皇帝</td>
+			<td>
+				赵昀</td>
+			<td>
+				宝庆<br />
+				绍定<br />
+				端平<br />
+				嘉熙<br />
+				淳祐<br />
+				宝祐<br />
+				开庆<br />
+				景定</td>
+			<td>
+				1224年-1264年</td>
+		</tr>
+		<tr>
+			<td>
+				16</td>
+			<td>
+				宋度宗</td>
+			<td>
+				端文明武景孝皇帝</td>
+			<td>
+				赵禥</td>
+			<td>
+				咸淳</td>
+			<td>
+				1264年-1274年</td>
+		</tr>
+		<tr>
+			<td>
+				17</td>
+			<td>
+				*</td>
+			<td>
+				孝恭懿圣皇帝（尊号）/恭皇帝</td>
+			<td>
+				<a href="http://www.xixik.com/content/459f9e45ed746755">赵<img src="http://img.xixik.net/mimg/002/xixik_3a230961e8d9e699.jpg" /></a>（xiǎn）</td>
+			<td>
+				德祐</td>
+			<td>
+				1274年-1276年</td>
+		</tr>
+		<tr>
+			<td>
+				18</td>
+			<td>
+				宋端宗</td>
+			<td>
+				裕文昭武愍孝皇帝</td>
+			<td>
+				赵昰</td>
+			<td>
+				景炎</td>
+			<td>
+				1276年-1278年</td>
+		</tr>
+		<tr>
+			<td>
+				19</td>
+			<td>
+				宋怀宗<br />
+				（韩林儿追谥）</td>
+			<td>
+				恭文宁武哀孝皇帝（少帝）</td>
+			<td>
+				赵昺</td>
+			<td>
+				祥兴</td>
+			<td>
+				1278年-1279年</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	*宋简宗赵旉（1127.6-1129）本名赵旉，又名赵敷，即南宋正安帝、魏国公。宋高宗赵构之子，母亲为潘贤妃，苗刘兵变后，被苗傅和刘正彦软禁宋高宗，之后扶持登基即皇帝位时不满两岁，改元明受，从即位到退位共计26天。由于在位时间过短，又是幼君当政，为傀儡皇帝，所以不被认为是宋朝皇帝之一。</p>
+<p>
+	*一些史料将赵<a href="http://www.xixik.com/content/459f9e45ed746755"><img src="http://img.xixik.net/mimg/002/xixik_3a230961e8d9e699.jpg" /></a>称作“宋恭宗”或“宋恭帝”，其实这并非他的庙号或谥号，由尊号“孝恭懿圣皇帝”演化而来。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor2"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        宋朝皇帝世系图</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/topic/xixik_f6a8b2f5baffe7c7.jpg" title="宋朝皇帝世系图" width="90%" /></p>
+<p style="TEXT-INDENT:2em">
+	宋朝分为南北，总计传承319年，南北各9帝。两宋皇帝的世系传习也很有意思，北宋是赵匡胤打下来的，却让赵光义的子孙做了皇帝，南宋时赵光义的子孙立国，又让赵匡胤的子孙坐了皇位。可谓<a href="http://www.xixik.com/content/973d24649a4a920f" style="color:#000;">赵匡胤的天下赵光义坐，赵光义子孙的天下匡胤的子孙坐</a>。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/chinese-emperors/song/xixik-c8b4b7cfc8478abf.jpg" style="margin: 10px; float: right; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	宋朝开国之君是赵匡胤，原是后周的殿前都点检（殿前禁卫军的最高指挥官）。960年，奉命北上御敌的赵匡胤在京师开封东北40里的陈桥驿，<a href="http://www.xixik.com/content/be734db545ec958e" title="陈桥兵变不是黄袍被迫加身 是一场有预谋的政变">被众将黄袍加身，此即“陈桥兵变”</a>。虚龄八岁的后周恭帝柴宗训被迫退位，北宋国祚自此延展。<a href="http://www.xixik.com/content/187cf3d52ea86538" title="烛影斧声太祖驾崩">烛影斧声，赵匡胤死的不明不白</a>，弟弟赵光义做皇帝后一直到北宋灭亡都是弟弟的后代继承皇位。宋太祖赵匡胤薨逝后其弟赵光义即位。为何兄终弟及？据载杜太后有恙，太祖随侍左右。杜太后说：“你之所以夺天下，是因周世宗令幼儿掌权柄。假若有年长之君，天下岂能易主？你百岁后当传位于汝弟。”这就是《宋史》记载的金匮之盟。赵光义也算英明威武，割据福建漳、泉两州的陈洪进和占据浙江的吴越王钱俶先后纳土归宋，又灭契丹护佑的北汉刘继元，基本统一了黄河中下游及长江流域。在古装影视剧里或者戏剧里的宋朝“八王爷”（八贤王），说的就是宋太祖赵德芳，然而宋太宗赵光义即位后，经常对赵德芳兄弟进行训斥恐吓。结果，赵德芳只活了不到25周岁就去世了。 所以，历史上宋朝根本没有“八贤王”这一说。</p>
+<p style="TEXT-INDENT:2em">
+	仁宗赵祯在位42载，仅三子且均幼龄夭折，故收堂兄赵允让之子赵曙为养子，即英宗；而哲宗赵煦24岁崩逝，因独子早夭，太后遂依兄终弟及命哲宗同母弟赵佶即位，是为徽宗。正是徽宗的腐朽统治将北宋推向了覆灭边缘，1127年的靖康之耻，金军将徽钦二帝及赵姓皇族谱牒中的男女老幼尽数虏获北归，仅徽宗第九子康王赵构幸免罹难。话说康王赵构奉命赴金营割地求和时，因群情激奋而半途退往相州（河南安阳），后又被授予天下兵马大元帅，故东京汴梁陷落时，身处异地的赵构遂成赵氏皇子中的漏网之鱼。后在南京应天府（河南商丘）即位，改元建炎，是为高宗。</p>
+<p style="TEXT-INDENT:2em">
+	高宗在金军搜山检海时颠沛流离，辗转保命，期间虚龄才三岁的独子赵旉fū“苗刘之变”后惊悸而亡。此后高宗再未生育，继嗣无人。<a href="http://www.xixik.com/content/41e085fd7f69a75b" style="text-indent: 2em; color: rgb(0, 0, 0);">高宗终于收养了太祖后裔（赵匡胤的长子赵德芳一脉）六世孙赵昚shèn为子，即后来的宋孝宗</a>。赵昚出生在嘉兴的县衙官舍（其父赵子偁chēng是嘉兴县丞），绍兴三十二年（1162）被立为皇太子，随后得高宗禅位而登基称帝，如此宋朝皇位重归太祖赵匡胤一脉。高宗为何将皇位传予赵匡胤后裔子孙？据高宗说：“太祖以神武定天下，子孙却不得享，以致多遭艰难，凋零可悯”，遂诏选太祖之后，以慰在天之灵。当然这与金军将汴梁皇族尽数北虏有莫大关系。晚年梦到太祖托梦与他，告诉他斧光烛影的故事，赵构心中不安，又无子嗣，便立了孝宗。</p>
+<p style="TEXT-INDENT:2em">
+	理宗赵昀是太祖次子赵德昭的九世孙，以宁宗弟弟赵抦bǐng嗣子的身份承袭沂王爵位。1224年宁宗驾崩，权臣史弥远联合杨皇后假传宁宗遗诏，晋封皇子赵竑hóng（宁宗养子）为济阳郡王，而立赵昀为新君，是为理宗。杨皇后得以垂帘听政，而史弥远则继续专擅权柄。如此南宋在皇帝昏聩和权臣当道中迎来了蒙古的崛起，1276年初蒙军统帅伯颜进入临安城，6岁的恭帝及生母全太后出降，南宋灭亡，中国再次亡于异族。</p>
+<p style="text-indent: 2em;">
+	<strong>宋太祖　赵匡胤</strong>（927年—976年）960年—976年在位，共16年。宋朝开国皇帝，涿州（今河北涿县）人。原来是后周的殿前都点检，建隆元年（960年）发动陈桥兵变,“黄袍加身”,夺后周政权，称帝于开封，建宋朝，史称北宋。在位时加强中央集权，结束了藩镇割据局面,统一全国。但其重文轻武、“守内虚外”的方针,对宋代的“积贫积弱”有较大影响。谥号：启运立极英武睿文神德圣功至明大孝皇帝。葬于今河南巩义宋陵。朝代故事：陈桥兵变、杯酒释兵。</p>
+<p style="text-indent: 2em;">
+	<strong>宋太宗　赵炅（赵光义）</strong>（939年—997年）976年—997年在位，共21年。太祖弟弟，最初名叫匡义，后改为光义，即位后改名炅。他曾参加陈桥驿兵变，拥立其兄为帝。继承太祖各个击破割据政权的方针,978年吴越王投降，979年，北汉王投降，但在两次对辽征战失败后,采取消极防守的方针。对内进一步加强中央集权，扩大科举取士制度，建崇文院编《太平御览》等。病死，终年59岁。谥号：神功圣德文武皇帝，葬于今河南巩义宋陵。</p>
+<p style="text-indent: 2em;">
+	<strong>宋真宗　赵恒</strong>（968年—1022年）997年—1022年在位，共25年。原名赵德昌，太宗第三子。前期颇勤于政事。但在军事上却无所作为，不顾寇准等反对，与辽国议和，签定“澶渊之盟”，每年向辽国进贡。后期任用王钦若大兴祥瑞，东封泰山，西祀汾阳,又广建佛寺道观，劳民伤财，导致社会矛盾激化.宋真宗时，发行世界上最早的纸币——“交子”，1022年病逝终年五十五岁，谥号：应符稽古神功让德文明武定章圣元孝皇帝，葬于今河南巩义宋陵。朝代故事：澶渊之盟。</p>
+<p style="text-indent: 2em;">
+	<strong>宋仁宗　赵祯</strong>（1010年—1063年）1022年—1063年在41位。原名受益。真宗第六个儿子。其即位时只有12岁，由章献太后垂帘听政，1033年亲政，他在军事，政治均无大作为，与西夏交战战败，起用范仲淹变法也失败，但在位期间国家比较安定。1063年，病逝，终年五十四岁。谥号：体天法道极功全德神文圣武睿哲明孝皇帝，葬于今河南巩义宋陵。朝代故事：狸猫换太子。</p>
+<p style="text-indent: 2em;">
+	<strong>宋英宗　赵曙</strong>（1032年—1067年），1063年—1067年在位，共4年。太宗曾孙，濮王允让第十三个儿子。仁宗无子，英宗幼年被任宗接入皇宫抚养，赐名为宗宝。病逝，时年36岁。谥号：体乾应历隆功盛德宪文肃武睿圣宣孝皇帝，葬于今河南巩义宋陵，陪葬有高后、狄青、杨延昭等。</p>
+<p style="text-indent: 2em;">
+	<strong>宋神宗　赵顼</strong>（1048年—1085年）1067年—1085年在位，共18年。英宗长子，又名仲针，1069年起用王安石变法，以期振兴北宋王朝，史称王安石变法，又称熙宁变法。在位时司马光编纂《资治通鉴》完成，这是我国第一部编年通史。病死，享年38岁。谥号体元显道法古立宪帝德王功英文烈武钦仁圣孝皇帝，葬于今河南巩义宋陵。朝代故事：王安石变法。</p>
+<p style="text-indent: 2em;">
+	<strong>宋哲宗　赵煦</strong>（1076年—1100年）1085年—公元1100年在位，共15年。原名佣，神宗第六子，神宗病危时被立为太子。9岁即位，由高太后执政，1093年亲政，任用主张变法的大臣，对守旧派、中间派进行打击。追贬司马光，并将苏辙等人流放到岭南。恢复免役法、保甲法、青苗法等。终止与西夏的谈判，加强边境防御，屡败西下，迫使其求和。1100年正月，病死，时年24岁，谥号：宪元继道显德定功钦文睿武齐圣昭皇帝，葬于今河南巩义宋陵。</p>
+<p style="text-indent: 2em;">
+	<strong>宋徽宗　赵佶</strong>（1082年—1135年）1100年—1125年在位，共25年。神宗第十一子，宋哲宗死后，无子由哲宗弟赵佶继位。统治期间重用蔡京、童贯等奸臣权阉,贪污横暴,掠夺民财。又尊奉道教,自称教主道君皇帝。在位期间，爆发了诸如宋江，方腊等农民起义。1125年金兵南下，宋徽宗传位于其子赵恒（钦宗），自称太上皇。1127年（靖康二年）为金兵俘虏北去，1135年死于五国城（今黑龙江依兰）。宋徽宗是一个败国皇帝，但却是一个艺术家和书法家。他工画花鸟，书法首创“瘦金体”。楷书瘦劲峻丽，有“屈铁断金”之誉，自成法度，世称“瘦金体”。传世书迹有《真草千字文》、《临写兰亭绢本》等。谥号：体神合道骏烈逊功圣文仁德宪慈显孝皇帝。</p>
+<p style="text-indent: 2em;">
+	<strong>宋钦宗　赵桓</strong>（1100年—1156年）1125年—1127年在位，共2年。宣和七年（1125年）金兵南下时受父徽宗之禅即位。次年被迫起用主战派李纲抗金，斩杀罢黜了蔡京一党。但仍答应以赔款、割太原等三镇乞降求和。汴京城破后，降金，北宋灭亡。靖康二年（1127年）与徽宗为金兵被掳北去，同囚于五国城，1156年，钦宗赵桓在金国被马踩死，终年五十七岁，葬处不明。据说现在的黑龙江赫哲族，就是徽，钦二宗的后人。谥号：恭文顺德仁孝皇帝。</p>
+<p style="text-indent: 2em;">
+	<strong>南宋皇帝列表</strong></p>
+<p style="text-indent: 2em;">
+	<strong>宋高宗　赵构</strong>（1107年—1187年）1127年—1162年在位，共35年。宋徽宗第九子，1127年在南京应天府（今河南商丘）即位,改元建炎。拒绝主战派抗金主张,1138年南逃至临安（今浙江杭州）定都，建立南宋政权。冤杀主战派岳飞，向金朝屈膝投降。在内，则大修宫舍，穷奢极欲，只图偏安。是彻头彻尾的昏君。绍兴三十二年（1162年）传位于孝宗，自称太上皇。<a href="http://www.xixik.com/content/4374fac681719d63" style="color: rgb（0, 0, 0）;" target="_blank" title="天无二日当两代君主同堂时 赵构条件最高的太上皇">天无二日当两代君主同堂时 赵构条件最高的太上皇</a>。1187年，病死，终年八十一岁，葬于绍兴宋陵。谥号：受命中兴全功至德圣神武文昭仁宪孝皇帝。</p>
+<p style="text-indent: 2em;">
+	<strong>宋孝宗　（赵昚</strong>[shèn]<strong style="text-indent: 2em;">）</strong>（1127年—1194年）1162年——1189年在位，共27年。原名伯琮，字永元，宋太祖七世孙，秀王的儿子。绍兴三十二年（1162年）五月二十八日，被立为皇太子，改名赵昚。1162年即位，至此，<a href="http://www.xixik.com/content/973d24649a4a920f" style="text-indent: 2em;" title="赵匡胤的天下赵光义坐 赵光义子孙的天下匡胤的子孙坐 ">皇位终于又回到了太祖后裔的手中</a>，他恢复<a href="http://www.xixik.com/content/3a63aa1818423fd6" style="text-indent: 2em;" title="岳飞的神话">岳飞的名誉</a>，开始抗战，但被打败，与金国议和，史称“隆兴和议”。1189年，禅位与其子（光宗赵敦），称太上皇。1194年死，时年68岁。朝代故事：隆兴和议。<a href="http://www.xixik.com/content/41e085fd7f69a75b" style="text-indent: 2em;" target="_blank" title="宋孝宗赵眘：中国历史少有长寿且有作为的帝王">宋孝宗赵眘：中国历史少有长寿且有作为的帝王</a>。</p>
+<p style="text-indent: 2em;">
+	<strong>宋光宗　赵敦</strong>（1147年—1194年）1189年—1194年在位，共5年。孝宗第三子，42岁即位，不仅政治昏聩，而且惧内，其皇后李氏是历史上有名的妒妇。1194年退位，死于1200年，享年54岁。谥号：循道宪仁明功茂德温文顺武圣哲慈孝皇帝，葬于绍兴宋陵。</p>
+<p style="text-indent: 2em;">
+	<strong>宋宁宗　赵扩</strong>（1162年—1189年）1194年—1224年在位，共30年。光宗第二子，追封岳飞为鄂王，削去秦桧封爵。1206年，韩侂胄冒然北进而大败，被杨皇后所害，主和派把持了朝政。1208年，与金订立屈辱的“嘉定和议”。1224年，病死，享年57岁，葬于茂陵。谥号：法天备道纯德茂功仁文哲武圣睿恭孝皇帝，葬于绍兴宋陵。</p>
+<p style="text-indent: 2em;">
+	<strong>宋理宗　赵昀</strong>（1205年—1264年）1224年—1264年在位，共40年。宋太祖十世孙，宁宗养子。确立了朱熹道学的统治地位，1234年，联合蒙古灭金。1264年10月，病死，终年60岁，谥号：建道备德大功复兴烈文仁武圣明安孝皇帝，葬于绍兴宋陵。</p>
+<p style="text-indent: 2em;">
+	<strong>宋度宗　赵祺</strong>（1240年—1274年）1264年—1274年在位，共10年。理宗之侄，被收为养子1260年立为皇太子，理宗死后他继位。父赵与芮。即位后沉迷酒色，权臣贾似道专制，朝政日败，南宋危在旦夕。1274年7月，病死，时年35岁，谥号：端文明武景孝皇帝，葬于绍兴宋陵。</p>
+<p style="text-indent: 2em;">
+	<strong>宋恭帝　赵<img src="http://img.xixik.net/custom/section/chinese-emperors/song/xixik-119001944057d41e.gif" style="width: 15px; height: 14px;" /></strong>（1271年—1323年）1274年—1276年在位，共2年。度宗长子。即位时才4岁，1276年，元兵攻破临安，恭帝被俘，1288年，忽必烈强迫他到西藏出家，成为高僧。1323年，被赐死。时年53岁。<a href="http://www.xixik.com/content/459f9e45ed746755" style="text-indent: 2em;" target="_blank" title="可怜生在帝王家 南宋赵显出家成为高僧却难逃一死">可怜生在帝王家 南宋赵显出家成为高僧却难逃一死</a>。</p>
+<p style="text-indent: 2em;">
+	<strong>宋端宗　赵昰</strong>（1269年—1278年）1276年—1278年在位，共2年。恭帝赵显的弟弟，度宗第二个儿子。在福州即位，即位后，兵败逃亡，途中病死，时年10岁。葬于永福陵，具体位置不详。</p>
+<p style="text-indent: 2em;">
+	<strong>宋怀宗　赵昺</strong>（1272年—1279年）1278年—1279年在位，共1年。度宗第三子，宋恭帝、宋端宗的弟弟，曾被封为信国公、广王、卫王等爵位，生母为俞修容。兵败后，被元兵逼迫，丞相陆秀夫负卫王投海自尽。时年8岁。<a href="http://www.xixik.com/content/726c241134dae6cd" style="text-indent: 2em;" target="_blank" title="深圳赤湾：南宋最后一位皇帝少帝魂魄归依之所">深圳赤湾：成为南宋最后一位皇帝少帝魂魄归依之所</a>。宋朝在崖山的十万军民也相继投海殉国。</p>
+<p style="text-indent: 2em;">
+	至此，宋朝结束，两宋共立国319年，共历18位皇帝，赵匡胤子孙9位，赵光义子孙9位。</p>
+<p style="text-indent: 2em;">
+	<strong>北宋皇帝世系表</strong> （960——1127）</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/custom/section/chinese-emperors/song/xixik-b89b9e2ad0ec8081.jpeg" /></p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<td>
+				赵弘殷</td>
+			<td nowrap="nowrap">
+				─┬─</td>
+			<td>
+				（1）宋太祖赵匡胤</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				│</td>
+			<td>
+				960─976</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				│</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				└─</td>
+			<td>
+				（2）宋太宗赵光义</td>
+			<td nowrap="nowrap">
+				─┬─</td>
+			<td nowrap="nowrap">
+				（3）宋真宗赵恒</td>
+			<td nowrap="nowrap">
+				───</td>
+			<td nowrap="nowrap">
+				（4）宋仁宗赵桢</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				976─997</td>
+			<td>
+				│</td>
+			<td>
+				998─1022</td>
+			<td>
+				&#160;</td>
+			<td>
+				1023─1063</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				│</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				└─</td>
+			<td>
+				商王赵元伤</td>
+			<td>
+				───</td>
+			<td>
+				濮王赵允让</td>
+			<td nowrap="nowrap">
+				─┐　</td>
+		</tr>
+		<tr>
+			<td>
+				　┌─</td>
+			<td nowrap="nowrap">
+				─────────</td>
+			<td>
+				───</td>
+			<td nowrap="nowrap">
+				─────────</td>
+			<td>
+				───</td>
+			<td nowrap="nowrap">
+				────────</td>
+			<td>
+				───</td>
+			<td nowrap="nowrap">
+				────────</td>
+			<td>
+				─┘　</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap">
+				　└─</td>
+			<td>
+				（5）宋英宗赵曙</td>
+			<td>
+				───</td>
+			<td>
+				（6）宋神宗赵顼</td>
+			<td>
+				─┬─</td>
+			<td>
+				（7）宋哲宗赵煦</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				1064─1067</td>
+			<td>
+				&#160;</td>
+			<td>
+				1068─1085</td>
+			<td style="text-align: center;">
+				│</td>
+			<td>
+				1086─1100</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td style="text-align: center;">
+				│</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td style="text-align: center;">
+				&#160; └─</td>
+			<td>
+				（8）宋徽宗赵佶</td>
+			<td>
+				─┬─</td>
+			<td>
+				（9）宋钦宗赵桓</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				1101─1125</td>
+			<td>
+				&#160; &#160;│</td>
+			<td>
+				1126─1127</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td style="text-align: center;">
+				│</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td style="text-align: center;">
+				&#160;└─</td>
+			<td>
+				[南宋]高宗赵构</td>
+			<td>
+				&#160;</td>
+			<td nowrap="nowrap">
+				金灭北宋 北宋亡</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	<strong>南宋皇帝世系表</strong> （1127——1279）&#160;&#160;</p>
+<p>
+	<img src="http://img.xixik.net/custom/section/chinese-emperors/song/xixik-67c866267e7c428c.jpeg" /></p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<td nowrap="nowrap">
+				&#160;&#160; ┌─</td>
+			<td nowrap="nowrap">
+				宋太宗</td>
+			<td nowrap="nowrap">
+				───</td>
+			<td nowrap="nowrap">
+				─────</td>
+			<td nowrap="nowrap">
+				（1）宋高宗赵构</td>
+		</tr>
+		<tr>
+			<td>
+				&#160; &#160;│</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				1127─1162</td>
+		</tr>
+		<tr>
+			<td>
+				&#160; &#160;│</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				中经六世</td>
+		</tr>
+		<tr>
+			<td>
+				&#160; └─</td>
+			<td>
+				宋太祖</td>
+			<td>
+				─┬─</td>
+			<td>
+				─────</td>
+			<td>
+				（2）宋孝宗赵昚</td>
+			<td nowrap="nowrap">
+				───</td>
+			<td nowrap="nowrap">
+				（3）宋光宗赵惇</td>
+			<td nowrap="nowrap">
+				───</td>
+			<td>
+				（4）宋宁宗赵扩</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				│</td>
+			<td>
+				&#160;</td>
+			<td>
+				1163─1189</td>
+			<td>
+				&#160;</td>
+			<td>
+				1190─1194</td>
+			<td>
+				&#160;</td>
+			<td>
+				1195─1224</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				│</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				│</td>
+			<td>
+				中经九世　</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				└─</td>
+			<td>
+				──┬──</td>
+			<td>
+				（5）宋理宗赵昀</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td style="text-align: center;">
+				┌─</td>
+			<td>
+				（8）宋端宗赵昰</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				│</td>
+			<td>
+				1225─1264</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td style="text-align: center;">
+				│&#160;</td>
+			<td>
+				1276─1278</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				│</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td style="text-align: center;">
+				│&#160;</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				└──</td>
+			<td>
+				福王赵与芮</td>
+			<td>
+				───</td>
+			<td>
+				（6）宋度宗赵禥</td>
+			<td>
+				─┼─</td>
+			<td>
+				（7）宋恭宗赵顯</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				1265─1274</td>
+			<td style="text-align: center;">
+				│</td>
+			<td>
+				1275─1276</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td style="text-align: center;">
+				│</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td style="text-align: center;">
+				&#160; └─</td>
+			<td nowrap="nowrap">
+				（9）宋祥兴帝赵昺</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				&#160;</td>
+			<td>
+				1278─1279</td>
+			<td nowrap="nowrap">
+				───</td>
+			<td nowrap="nowrap">
+				元灭南宋 南宋亡</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&#160;</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor3"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        宋朝皇帝在位时间及简介</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<td>
+				<strong><a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>名字</strong></td>
+			<td>
+				<strong>生卒年份（公元）</strong></td>
+			<td>
+				<b>庙号</b></td>
+			<td>
+				<strong>历史评价</strong></td>
+		</tr>
+		<tr>
+			<td>
+				<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="北宋">北宋</a>&middot;赵匡胤</td>
+			<td>
+				927&mdash;976</td>
+			<td>
+				宋太祖</td>
+			<td>
+				<a href="http://www.xixik.com/content/be734db545ec958e" title="陈桥兵变不是黄袍被迫加身 是一场有预谋的政变">陈桥兵变龙袍加身</a>，创立大宋国、励精图治整治江山</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="北宋">北宋</a>&middot;赵匡义</td>
+			<td>
+				939&mdash;997</td>
+			<td>
+				宋太宗</td>
+			<td>
+				政绩有为、不善武功、晚年教循规蹈矩，致积贫积弱</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="北宋">北宋</a>&middot;赵恒</td>
+			<td>
+				998&mdash;1022</td>
+			<td>
+				宋真宗</td>
+			<td>
+				治理有方国日益坚固完善社会经济繁荣，史称咸平之治</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="北宋">北宋</a>&middot;赵桢</td>
+			<td>
+				1010&mdash;1063</td>
+			<td>
+				宋仁宗</td>
+			<td>
+				<a href="http://www.xixik.com/content/210194c475687be6" title="全民偶像宋仁宗：去世时连辽国皇帝都泪流满面">仁义著称</a>、出现包、范、欧阳、苏、王等名人</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="北宋">北宋</a>&middot;赵曙</td>
+			<td>
+				1032&mdash;1067</td>
+			<td>
+				宋英宗</td>
+			<td>
+				颇有政治才能、英年早逝而有志无力、政治手段较成熟</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="北宋">北宋</a>&middot;赵顼</td>
+			<td>
+				1048&mdash;1085</td>
+			<td>
+				宋神宗</td>
+			<td>
+				支持王安石变法但操之过快而失败、励精图治做好国君</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="北宋">北宋</a>&middot;赵煦</td>
+			<td>
+				1076&mdash;1100</td>
+			<td>
+				宋哲宗</td>
+			<td>
+				继续推行变法，国虽稍有起色，但最终仍以失败而告终</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="北宋">北宋</a>&middot;赵佶</td>
+			<td>
+				1082&mdash;1135</td>
+			<td>
+				宋徽宗</td>
+			<td>
+				<a href="http://www.xixik.com/content/5b7e5c06d564f594" title="非亡国不可：宋徽宗在宫廷里的那些荒唐事儿">生活奢侈、政治无为</a>、宋江农民起义爆发、靖康难</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="北宋">北宋</a>&middot;赵桓</td>
+			<td>
+				1100&mdash;1156</td>
+			<td>
+				宋钦宗</td>
+			<td>
+				优柔寡断、反复无常、与其父皆遭遇靖康之难而亡</td>
+		</tr>
+		<tr>
+			<td>
+				南宋&middot;赵构</td>
+			<td>
+				1107&mdash;1187</td>
+			<td>
+				宋高宗</td>
+			<td>
+				临安自立是为南宋、政治平庸、酷爱书法艺术文学</td>
+		</tr>
+		<tr>
+			<td>
+				南宋&middot;赵眘</td>
+			<td>
+				1127&mdash;1194</td>
+			<td>
+				宋孝宗</td>
+			<td>
+				<a href="http://www.xixik.com/content/41e085fd7f69a75b" title="宋孝宗赵眘：中国历史少有长寿且有作为的帝王">南宋能力最强、最杰出、最节俭的皇帝</a></td>
+		</tr>
+		<tr>
+			<td>
+				南宋&middot;赵惇</td>
+			<td>
+				1147&mdash;1200</td>
+			<td>
+				宋光宗</td>
+			<td>
+				昏庸、体弱多病、无治国安邦之才又听信谗言</td>
+		</tr>
+		<tr>
+			<td>
+				南宋&middot;赵扩</td>
+			<td>
+				1168&mdash;1224</td>
+			<td>
+				宋宁宗</td>
+			<td>
+				赔款求全、在位期间均是碌碌无为之辈</td>
+		</tr>
+		<tr>
+			<td>
+				南宋&middot;赵昀</td>
+			<td>
+				1205&mdash;1264</td>
+			<td>
+				宋理宗</td>
+			<td>
+				本非皇子但乃皇族、死后头颅被割制成器具、一生无为</td>
+		</tr>
+		<tr>
+			<td>
+				南宋&middot;赵禥</td>
+			<td>
+				1240&mdash;1274</td>
+			<td>
+				宋度宗</td>
+			<td>
+				昏庸无能、沉迷美色、南宋从此岌岌可危、面临灭亡</td>
+		</tr>
+		<tr>
+			<td>
+				南宋&middot;赵显</td>
+			<td>
+				1271&mdash;1323</td>
+			<td>
+				宋恭帝</td>
+			<td>
+				贾似道当权、<a href="http://www.xixik.com/content/48963690520b63dd">元军进攻其被俘、被派往藏区后成高僧</a></td>
+		</tr>
+		<tr>
+			<td>
+				南宋&middot;赵昰</td>
+			<td>
+				1269&mdash;1278</td>
+			<td>
+				宋端宗</td>
+			<td>
+				元进犯其南逃、闽粤港都有其之身影、后病死葬于江门</td>
+		</tr>
+		<tr>
+			<td>
+				南宋&middot;赵昺</td>
+			<td>
+				1272&mdash;1279</td>
+			<td>
+				宋末王</td>
+			<td>
+				流亡政府海丰被击垮、文天祥被俘、<a href="http://www.xixik.com/content/726c241134dae6cd" title="深圳赤湾：南宋最后一位皇帝少帝魂魄归依之所">陆秀夫背赵昺跳海、宋亡</a></td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/9ec477451530c445"><strong>宋代皇帝寿命疾病和生育情况，原来是一群最不幸的人</strong></a></p>
+<p style="TEXT-INDENT:2em">
+	宋朝寿命最长的皇帝是宋高宗赵构，享年81岁。寿命最短的皇帝是宋卫王赵昺，享年8岁。整个宋朝皇帝的平均寿命为47岁，相比于其它朝代皇帝的平均寿命来说，可以毫不夸张的被评为长寿王朝。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>为什么<a href="http://114.xixik.com/chinese-emperors/song/" style="color:#000" title="中国皇帝列表">宋朝皇帝</a>普遍都短命呢？&nbsp;</strong></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="北宋">北宋</a><a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>寿命其实都不是太长，没有像汉武帝、康熙一样高寿的<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>。虽然说<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="北宋">北宋</a>有一百六十七年，也有过九个<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，但是平均起来寿命都非常短，没有一位皇帝的寿命超过60岁。比如宋太祖赵匡胤享年50岁、宋太宗赵匡义年寿59岁等等。都说<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>的生命影响着一个<a href="http://114.xixik.com/chaodai/" style="color:#000" title="历史朝代顺序表">朝代</a>的一部分兴亡。在北宋对于一些比较有德的<a href="http://114.xixik.com/chinese-emperors/" style="text-indent: 2em; color: rgb（0, 0, 0）;" title="中国皇帝列表">皇帝</a>很多都短命，一些帝王甚至常常夭折。帝王短命，加速王朝没落，比如<a href="http://www.xixik.com/content/48562e3c9934f45c" title="柴荣堪称史上最完美最好的皇帝">后周柴荣就是短命</a>才被赵氏兄弟夺取了天下。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>北宋这九位皇帝的享年如下：</strong></p>
+<p style="TEXT-INDENT:2em">
+	宋太祖赵匡胤50岁（927年－976年）；宋太宗赵匡义59岁（939年－997年）；宋真宗赵恒55岁（968年&mdash;1022年）；宋仁宗赵祯54岁（1010年&mdash;1063年）；宋英宗赵曙36岁（1032年&mdash;1067年）；宋哲宗赵煦25岁（1076年&mdash;1100年）；宋神宗赵顼38岁（1048年&mdash;1085年）；宋徽宗赵佶54岁（1082年&mdash;1135年）；宋钦宗赵桓57岁（1100年&mdash;1156年）。</p>
+<p style="text-indent: 2em;">
+	<strong><a href="http://114.xixik.com/chaodai/song/" style="color: rgb(0, 0, 0);" title="北宋">北宋</a><a href="http://114.xixik.com/chinese-emperors/" style="color: rgb(0, 0, 0);" title="中国皇帝列表">皇帝</a>在位时间</strong></p>
+<p style="text-indent: 2em;">
+	在<a href="http://114.xixik.com/chaodai/song/" style="color: rgb(0, 0, 0);" title="北宋">北宋</a>一朝，宋太祖赵匡胤享年50岁，在位17年；宋太宗赵匡义年寿59岁，在位22年；宋真宗赵恒55岁死，在位26年；宋仁宗赵祯活了54岁，在位42年。从宋英宗，连续三位<a href="http://114.xixik.com/chinese-emperors/" style="color: rgb(0, 0, 0);" title="中国皇帝列表">皇帝</a>&ldquo;夭折&rdquo;，宋英宗赵宗实终年36，在位4年；宋神宗赵顼享年38岁，在位19年；宋哲宗赵煦终年25岁，在位16年。</p>
+<p style="TEXT-INDENT:2em">
+	可见北宋皇帝中，除了赵曙、赵煦和赵顼没有活过中国皇帝的平均岁数，其余的六位皇帝，都有长寿的潜质，但他们为何都没有超过60岁，便龙驭宾天，在传说中，是受到了后周王朝柴氏诅咒的缘故。</p>
+<p style="text-indent: 2em;">
+	<strong><a href="http://114.xixik.com/chaodai/song/" style="color: rgb(0, 0, 0);" title="北宋">北宋</a>最长寿的<a href="http://114.xixik.com/chinese-emperors/" style="color: rgb(0, 0, 0);" title="中国皇帝列表">皇帝</a></strong></p>
+<p style="text-indent: 2em;">
+	<a href="http://114.xixik.com/chaodai/song/" style="color: rgb(0, 0, 0);" title="北宋">北宋</a>最长寿的<a href="http://114.xixik.com/chinese-emperors/" style="color: rgb(0, 0, 0);" title="中国皇帝列表">皇帝</a>就属宋太宗，名赵炅后改名字叫赵光义。在位共21年，59岁去世。在位期间，继续进行统一事业，鼓励垦荒，发展农业生产。尤其是注重培养和提拔自己的亲信。是<a href="http://114.xixik.com/chaodai/song/" style="color: rgb(0, 0, 0);" title="宋朝">宋朝</a>比较有作为的一个<a href="http://114.xixik.com/chinese-emperors/" style="color: rgb(0, 0, 0);" title="中国皇帝列表">皇帝</a>。但是在宋哲宗在位期间当政期间激化了新党与旧党之间的党争，让<a href="北宋" style="text-indent: 2em; color: rgb(0, 0, 0);" title="http://114.xixik.com/chaodai/song/">北宋</a>朝着灭亡又进了一步。</p>
+<p style="text-indent: 2em;">
+	<strong><a href="http://114.xixik.com/chaodai/song/" style="color: rgb(0, 0, 0);" title="北宋">北宋</a>最短命的<a href="http://114.xixik.com/chinese-emperors/" style="color: rgb(0, 0, 0);" title="中国皇帝列表">皇帝</a></strong></p>
+<p style="text-indent: 2em;">
+	宋哲宗赵煦是<a href="http://114.xixik.com/chaodai/song/" style="color: rgb(0, 0, 0);" title="宋朝">宋朝</a>最短命的<a href="http://114.xixik.com/chinese-emperors/" style="color: rgb(0, 0, 0);" title="中国皇帝列表">皇帝</a>，在位15年，24岁去世。由于继位的时候只有几岁，所以由高太后执政。高太后对于赵煦相当&ldquo;呵护&rdquo;，由于赵煦小时候就体弱多病，但是吩咐不让太医医治，所以这种呵护与关心让他倍感窒息，有种喘不过气饿感觉。当高太后一死，就急着想要改变现状，虽说实行了神宗变法的政策，但是效果并没有很大。</p>
+<p style="text-indent: 2em;">
+	<a href="http://114.xixik.com/chaodai/song/" style="color: rgb(0, 0, 0);" title="北宋">北宋</a><a href="http://114.xixik.com/chinese-emperors/" style="color: rgb(0, 0, 0);" title="中国皇帝列表">皇帝</a>寿命普遍不大，对于普通人来说，寿命的长短最多也就会影响一个家庭，但是对于一个国家的<a href="http://114.xixik.com/chinese-emperors/" style="color: rgb(0, 0, 0);" title="中国皇帝列表">皇帝</a>来说，不管是政治还是文化，还是百姓都是一种改变。就像<a href="http://114.xixik.com/chaodai/song/" style="color: rgb(0, 0, 0);" title="北宋">北宋</a>一样连续几个短命的<a href="http://114.xixik.com/chinese-emperors/" style="color: rgb(0, 0, 0);" title="中国皇帝列表">皇帝</a>，让这个国家走向灭亡，看一看别的<a href="http://114.xixik.com/chaodai/" style="color: rgb(0, 0, 0);" title="历史朝代顺序表">朝代</a>的<a href="http://114.xixik.com/chinese-emperors/" style="color: rgb(0, 0, 0);" title="中国皇帝列表">皇帝</a>，不管是秦皇汉武，还是唐宗宋祖，都是要有一定的年龄，最起码要五十岁，一个王朝与短命紧密的联系着。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>南宋皇帝平庸多 娃娃皇帝也多</strong></p>
+<p style="TEXT-INDENT:2em">
+	南宋皇帝不算昏庸，顶多算平庸。第二任宋孝宗是可惜了，未遇名将，不然还能中兴一下。有人怪罪江南那一片风水不好，定都南京和临安的都是短命王朝，昏庸皇帝辈出。江南生活太惬意了呗，暖风吹得游人醉，直把酒楼做青楼。北宋皇帝再烂比南宋强太多了。</p>
+<p style="TEXT-INDENT:2em">
+	江南富庶，重文轻武，昏王庸主。关键在于赵匡胤立国后，害怕宋重返五代十国的混乱局面老怕人夺权，立下重文轻武的国策，导致的世代心理恐惧症，以至于文重于武。文武本来是左右手，相互配合稳定国势的，文人总是耍笔杆子换取宠幸，陪皇帝玩，也就玩儿完了。就是孝宗可惜，有心振祚，无力挽澜了，国无可用之臣。所以昏君有个好儿子，也是糟蹋了。偏安王朝要啥自行车？也有说是无耻文官集团一直努力把皇帝供起来，自己独揽大权，这样干好了就史书留名，干差了就让皇帝背锅，反正记录历史的都是文人 。恰好南送底子太差了，谁都干不好，当然就全是昏君了。宋朝皇帝比明朝强的多，汉唐是文治武功。宋有文治，明啥也没有，有太监木JJ。</p>
+<p style="TEXT-INDENT:2em">
+	南宋九个皇帝，后面三个都是年幼。高宗、孝宗算是明君，光宗一般，宁宗昏庸，理宗前后差距大，度宗昏庸。总体来看还好，关键还是南宋名将辈出，却缺名相。</p>
+<p style="TEXT-INDENT:2em">
+	高宗懦弱，孝宗还不错，光宗精神病，宁宗愚钝，理宗前期尚可后期昏庸，度宗昏庸，小皇帝就不说了。总体来看太祖一脉素质确实不高，身体也差。</p>
+<p style="TEXT-INDENT:2em">
+	昏庸皇帝不应该去保他，不反就让那朝代倒闭，好换有能之人上，昏庸皇帝当朝，往往忠诚之人没好下场，还是早点退休隐居起来的好，没必要去送命，值不得，保护了昏庸皇帝会害死好多忠诚能人的，不管谁当皇帝，只要对百姓好，人人才会保存那个朝代的。</p>
+<p style="TEXT-INDENT:2em">
+	一个朝代的更迭，比如：汉朝取代了残暴不仁的秦朝，唐朝取代了祸乱天下的隋朝，明朝取代暴虐当道的元朝，清朝取代了鱼肉百姓的明朝，都是一个对老百姓比较好朝廷，取代了一个祸害老百姓的朝廷，可是北宋却不是这样。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor4"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        宋朝皇帝顺序表及简介</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="text-indent: 2em; text-align: center;">
+	<img src="http://img.xixik.net/custom/section/chinese-emperors/song/xixik-f0582cd8794d6250.jpg" /></p>
+<p style="text-indent: 2em; text-align: center;">
+	<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="宋朝">宋朝</a><a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>画像大全（<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="北宋">北宋</a><a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>、<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="南宋">南宋</a><a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>）</p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="北宋">北宋</a><a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>简介及在位时间</strong></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/1d69ea13a0b6e1b5" target="_blank" title="为争夺皇位 手足相残 为什么宋朝没有这样的事">为争夺皇位 手足相残 为什么宋朝没有这样的事</a></p>
+<p style="TEXT-INDENT:2em">
+	赵脁，仕唐历永清、永安、幽都令。后被追为僖祖，赵弘殷曾祖父。</p>
+<p style="TEXT-INDENT:2em">
+	赵珽，官居藩镇从事，累官兼御史中丞。后被追为顺祖，赵弘殷祖父。</p>
+<p style="TEXT-INDENT:2em">
+	赵敬，历任营、蓟、涿三州刺史。后被追为翼祖，赵弘殷之父。</p>
+<p style="TEXT-INDENT:2em">
+	赵弘殷，后汉乾祐（948---950）中，因功为护圣都指挥使。后周广顺（951---953）末，改铁骑第一军都指挥使，转右厢都指挥，领岳州防御使。显德三年（956），累官检校司徒、天水县男。死后由后周追为武清军节度使、太尉。宋国立，追为宣祖。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>宋太祖 赵匡胤</strong></p>
+<p style="text-indent: 2em;">
+	太祖赵匡胤（927&#160;～ 976年），<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="北宋">北宋</a>王朝的建立者，庙号太祖，涿州（今河北涿州）人。出身官宦家庭，赵弘殷次子，母昭宪皇后杜氏。948年，投后汉枢密使郭威幕下，屡立战功。951年郭威称帝建立后周，赵匡胤任禁军军官、殿前都点检。周世宗柴荣死后，恭帝即位，建隆元年（960年），他以镇、定二州的名义，谎报契丹联合北汉大举南侵，领兵出征，<a href="http://www.xixik.com/content/be734db545ec958e" style="text-indent: 2em;" title="陈桥兵变不是黄袍被迫加身 是一场有预谋的政变">发动“陈桥兵变”，黄袍加身</a>，代周称帝，建立<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="宋朝">宋朝</a>，定都开封。赵匡胤称帝后，先后攻灭南平、后蜀、南汉、南唐和湖南等割据政权，统一全国，结束了<a href="http://114.xixik.com/chaodai/5dai10guo/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="五代十国">五代十国</a>分裂混战局面。</p>
+<p style="text-indent: 2em;">
+	赵匡胤统治时期，吸取<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>宦官专权、藩镇割据导致灭亡的教训，接受贤臣赵普的建议，<a href="http://www.xixik.com/content/3b0d7a1ce1cd07ff" title="杯酒释兵权：宋朝最大的成功为何换回最大噩梦">通过“杯酒释兵权”削夺了武官的地位</a>，从而“重文轻武”，加强中央集权。使宋没有宦官专权、藩镇割据，社会比较安定。但是也导致<a href="http://114.xixik.com/chaodai/song/" title="宋朝">宋朝</a>“积贫积弱”，外族纷纷侵扰。但也因为重文轻武，使宋代文学、哲学、美术、科技异常发达。开宝九年（976年）十月十九日夜，与其弟赵光义饮酒，共宿宫中；隔日清晨，赵匡胤暴毙于万岁殿，享年50岁。谥曰英武圣文神德皇帝，庙号太祖。太平兴国二年（977年）四月二十五，葬于永昌陵(位于郑州巩义)。大中祥符元年(1008年)，加上尊谥曰：启运立极英武睿文神德圣功至明大孝皇帝。</p>
+<p style="text-indent: 2em;">
+	<strong>宋太宗 赵炅</strong></p>
+<p style="text-indent: 2em;">
+	宋太宗 （939&#160;～ 997年），<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="北宋">北宋</a>第二位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>（967年&#160;～ 997年在位），名赵炅。赵弘殷第三子，母昭宪皇后杜氏，赵匡胤弟，初名匡义，赵匡胤登基后一度后改光义，即位后改名炅在位22年。即位为殿前都虞候，领睦州防御使，又为泰宁军节度使，为大内都部署，加同平章事、行开府尹，再加兼中书令，后受封晋王。宋太宗很有作为，他统治时期<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="宋朝">宋朝</a>比较强盛。他曾参加陈桥驿兵变，拥立其兄为帝。继承太祖各个击破割据政权的方针，迫吴越王献土归降，又亲征灭北汉，试图收复幽云十六州。但在两次对辽征战失败后，采取消极防守的方针。对内进一步加强中央集权，扩大科举取士制度，建崇文院编《太平御览》等。他勤于政务，关心民生，注重兴修水利，开垦荒地，但统治晚期剥削加重，激起王小波、李顺起义。他背弃了“金匮之盟”，废其弟光美为庶人后杀掉，又废其长子楚王元左为百姓。997年，病逝于汴京万授殿，终年五十九岁，葬永熙陵。谥曰神功圣德文武帝，庙号太宗。</p>
+<p style="text-indent: 2em;">
+	<strong>宋真宗 赵恒</strong></p>
+<p style="text-indent: 2em;">
+	宋真宗 （968&#160;～ 1022），<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="北宋">北宋</a>第三位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>（997年～1022年在位），名赵恒，原名赵德昌，是<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="北宋">北宋</a>的第三位<a href="http://114.xixik.com/chinese-emperors/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="中国皇帝列表">皇帝</a>。他是宋太宗的第三个儿子，母元德后李氏。太平兴国八年（983），为检校太保、同中书门下平章事，封韩王，改名赵元休。端拱元年（988），封襄王，改名赵元侃。淳化五年（994），进封寿王，加检校太傅、开封尹。至道元年（995）八月，为皇太子，改赵恒。997年以太子继位。宋真宗统治时期治理有方，<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="北宋">北宋</a>的统治日益坚固，国家管理日益完善，<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="北宋">北宋</a>比较强盛。他曾被封为韩王、襄王、寿王。后立为太子。统治前期的咸平、景德年间因勤于政事， 经济发展，号称治世。但景德元年（1004年）辽国进犯澶州，真宗亲征，澶渊之役订城下之盟，开创纳岁币求和苟安的先例，以物质换取和平，加重了人民的负担。后期任用王钦 若大兴祥瑞，东封泰山，西祀汾阳，又广建佛寺道观，劳民伤财，导致社会矛盾激化。乾兴元年（1022年）病逝于忭京宫中延庆殿，终年五十五岁，在位二十五年，葬于永定陵。谥号为文明章圣元孝皇帝，庙号真宗。后累加谥至膺符稽古神功让德文明武定章圣元孝皇帝。</p>
+<p style="text-indent: 2em;">
+	<strong>宋仁宗 赵祯</strong></p>
+<p style="text-indent: 2em;">
+	宋仁宗 （1010&#160;～ 1063年），<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="北宋">北宋</a>第四位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>（1022年&#160;～&#160;1063年在位），名赵祯，原名受益，是宋真宗的第六子，母李宸妃。生于大中祥符三年（公元1010年），大中祥符七年（1014），封庆国公。八年（1015），为寿春郡王。天禧元年（1017），兼中书令。二年（1018），进封升王。九月，册为皇太子，赐名赵祯，乾兴元年（1023年）二月即帝位，时年13岁，由章献太后垂帘听政，十余年后亲政。他的统治开始较为节俭。但对西夏战争屡败，被迫以“岁赐” 银、绢、茶妥协，对辽也以增纳岁币求和。土地兼并及冗宫、冗兵、冗费现象日益严重，虽起用范仲淹等进行改革，但结果失败。但总的来说，仁宗在位期间国家比较安定，1063年，<a href="http://www.xixik.com/content/210194c475687be6" style="text-indent: 2em;" title="全民偶像宋仁宗：去世时连辽国皇帝都泪流满面	">仁宗病逝于宫中福宁殿，终年五十四岁</a>。葬在永昭陵。谥号： 仁宗体天法道极功全德神文圣武睿哲明孝皇帝，庙号仁宗。史家把仁宗在位及亲政治理国家的时期概括为“仁宗盛治”。</p>
+<p style="text-indent: 2em;">
+	据《宋史》载，其母李氏生仁宗后，被刘德妃窃为己子，仁宗即位后，仍认刘后为生母，李氏临死也没敢母子相认。刘后死后，仁宗才知道内情，追封李氏为皇太后。后人根据这段历史编写了《狸猫换太子》。</p>
+<p style="text-indent: 2em;">
+	<strong>宋英宗 赵曙</strong></p>
+<p style="text-indent: 2em;">
+	宋英宗（公元1032&#160;～ 1067年），<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="北宋">北宋</a>第五代<a href="http://114.xixik.com/chinese-emperors/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="中国皇帝列表">皇帝</a>（1063年～1067年在位，在位四年），名赵曙，太宗曾孙，他是宋仁宗的从兄弟濮安懿王赵允让第十三子，母仙游县君任氏。在位时碌碌无为，<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="北宋">北宋</a>就此衰落。使。嘉祐七年（1062）八月，为皇太子。九月，迁齐州防御使、钜鹿郡公。八年四月，即位。景祐三年（1036），赐名实，授左监门卫率府副率，累迁右羽林军大将军、宜州刺史。皇祐二年（1050），为右卫大将军、岳州团练。</p>
+<p style="text-indent: 2em;">
+	仁宗无子，英宗幼年被仁宗接入皇宫抚养，赐名为宗宝。1050年为岳州团练使，后为秦州防御使。1055年立以为嗣。英宗在位期间，任用旧臣韩琦等人，不想改革，但与辽国和西夏没有发生战争。治平四年（1067年）正月，病逝于宫中福宁殿，享年三十六岁。葬于永厚陵（今河南巩义孝义堡），谥号为宪文肃武宣孝皇帝，庙号英宗。元丰六年（1083年）十一月，加谥体乾应历隆功盛德宪文肃武睿圣宣孝皇帝。</p>
+<p style="text-indent: 2em;">
+	<strong>宋神宗 赵顼</strong></p>
+<p style="text-indent: 2em;">
+	宋神宗（公元1048～1085年），<a href="http://114.xixik.com/chaodai/song/" style="color: rgb(0, 0, 0);" title="北宋">北宋</a>第六位<a href="http://114.xixik.com/chinese-emperors/" style="color: rgb(0, 0, 0);" title="中国皇帝列表">皇帝</a>（1067年～1085年在位，在位18年），名赵顼，原名仲铖。英宗长子，母宣仁圣历后高氏。英宗病死后继位。，病死，。初为率府副率，迁至右千牛卫将军。英宗即位，为安州观察使，封光国公。九月，加忠武军节度使、同中书门下平章事，封淮阳郡王。治平元年（1064）六月，进封颍王。三年（1066）十二月，英宗病危时被立为皇太子。四年正月，即位。他喜欢读《韩非子》一书，读后说：“天下弊事很多，不能不改革。”英宗于公元1067年正月丁巳日病死，他于同日继位，第二年改年号为“熙宁”。 赵顼即位后，面对<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="北宋">北宋</a>“积贫积弱”的严重局面，为了实现富国强兵，缓和阶级矛盾，挽救封建统治的危机，他不治宫室，不事游幸，废去元老，起用王安石主持变法。新法推行了十几年，使国家的财政收入有所增加，军事力量也有所增强。但是，新法触动—了大地主的利益，遭到保守派官员的强烈反对。当时，有个地方发生地震和山崩，保守派就说这是王安石变法不当，引起老天发怒。公元1073年，河北地区遭受大早，灾民被迫逃荒。有个保守派官员趁机画了一幅流民图呈送给赵顼说：“早灾是由于王安石变法造成的，只要停止变法，罢免了他，老天一定会降雨消灾。”曹太后和高太后也在赵顼面前哭诉王安石搞乱了天下，要求停止新法。神宗动摇了，王安石先后两次被迫辞职，以后就一直没有出来做官。王安石辞官后，赵顼还把大部分新法维持了近十年，直到他死去。在对西夏的战争中，他前期任用王韶，获得了熙河战役的胜利，收复了两千里故汉地。后期任用宦官李宪，因指挥失当在灵武遭致惨败。神宗半夜得到消息，起床踱步，达旦未眠，因此得病。公元1085年2月神宗病重，3月立子赵佣为太子，嘱咐由高太后协同处理国事。戊戌日，病死于汴京宫中的福宁殿，享年38岁。&#160;葬于永裕陵（今河南省巩县西南堤东堡）。谥号：英文烈武圣孝帝，庙号：神宗，加谥绍天法古运德建功英文烈武钦仁圣孝皇帝。</p>
+<p style="text-indent: 2em;">
+	<strong>宋哲宗 赵煦</strong></p>
+<p style="text-indent: 2em;">
+	宋哲宗（公元1077&#160;～ 1100年），<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="北宋">北宋</a>第七位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>（1086年&#160;～ 1100年在位），名赵煦，原名佣，是宋神宗第六子，母钦圣皇后朱氏。授检校太尉、天平军节度使，封均国公。元丰五年（1082），迁开府仪同三司、彰武军节度使，封延安郡王，镇守<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="宋朝">宋朝</a>西北部边境。八年（1085）二月，神宗病危时立为皇太子。元丰八年，神宗死，赵煦登基为<a href="http://114.xixik.com/chinese-emperors/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="中国皇帝列表">皇帝</a>，是为宋哲宗，改元“元佑”。 哲宗登基时，只有10岁，由高太后执政。高太后执政后，任用顽固派大官司马光为宰相。司马光一上台，就把神宗时的“王安石变法”（熙宁变法）全部废止。宋哲宗对于司马光与高太后的执政与压制感到不满。到了元佑八年（1093年），高太后死，哲宗亲政。哲宗亲政后表明绍述，追贬司马光，并贬谪苏轼、苏辙等旧党党人于岭南（今广西一带），接着重用革新派如章敦、曾布等，恢复王安石变法中的保甲法、免役法、青苗法等，减轻农民负担，使国势有所起色。次年改元“绍圣”，并停止与西夏谈判，多次出兵讨伐西夏，迫使西夏向<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="宋朝">宋朝</a>乞和。元符三年（1100年）1月病逝，享年二十四岁，葬于永泰陵。</p>
+<p style="text-indent: 2em;">
+	哲宗是<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="北宋">北宋</a>较有作为的<a href="http://114.xixik.com/chinese-emperors/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="中国皇帝列表">皇帝</a>。但是由于在新党与旧党之间的党争不但没有获得解决，反而在宋哲宗当政期间激化，种下了<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="北宋">北宋</a>灭亡的原因。</p>
+<p style="text-indent: 2em;">
+	<strong>宋徽宗 赵佶</strong></p>
+<p style="text-indent: 2em;">
+	宋徽宗 （1082&#160;～ 1135年），<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="北宋">北宋</a>第八位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>（1100&#160;～ 1125年，在位25年），名赵佶，宋神宗十一子，母钦慈皇后陈氏。他兄长宋哲宗无子，死后传位于他。元丰六年（1083）十月，为镇宁军节度使、封宁国公。哲宗即位，封遂宁郡王。绍圣三年（1096），以平江、镇江节度使封端王。五年（1098），加司空，改昭德、彰信军节度。宣和七年（1125年）十一月，让位于太子，自号太上皇。靖康二年（1127）二月，国亡，被俘至金国。</p>
+<p style="text-indent: 2em;">
+	赵佶具有相当高的艺术造诣，工于书画，以花鸟画和“瘦金书”书法名于世。书法初师薛稷，草书学黄庭坚。楷书瘦劲峻丽，有“屈铁断金”之誉，自成法度，世称“瘦金体”。传世书迹有《真草<a href="http://114.xixik.com/qianziwen/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="千字文">千字文</a>》、《临写兰亭绢本》等。他过分追求奢侈生活，在南方采办“花石纲”，搜集奇花异石运到汴京修建园林宫殿，崇信道教，自称“道君<a href="http://114.xixik.com/chinese-emperors/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="中国皇帝列表">皇帝</a>”，任用贪官宦官横征暴敛，激起各地农民起义。当金兵入侵，无法应付时，急忙传位给他儿子宋钦宗去对付，自己则当“太上皇”，但终于无法挽回局势，父子两人皆被金兵俘虏北上，受尽折磨，绍兴五年（1135）四月病死于五国城（黑龙江依兰），享年五十四岁。谥号：圣文仁德显孝帝，加谥：神合道骏烈逊功圣文仁德宪慈显孝帝。</p>
+<p style="text-indent: 2em;">
+	<strong>宋钦宗 赵桓</strong></p>
+<p style="text-indent: 2em;">
+	宋钦宗 （1100&#160;～ 1156年），<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="北宋">北宋</a>第九位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>（1125年 ～&#160;1127年，在位1年零2个月），名赵桓，初名亶，宋徽宗长子，母恭显皇后王氏。建中靖国元年（1101）六月，进京兆郡王。崇宁元年（1102）二月，改名赵烜，十一月，改现名。大观二年（1108）正月，进封定王。政和三年正月，加太保。五年（1110）二月，为皇太子。宣和七年（1125年）金兵南下时受父徽宗之禅即位。次年被迫起用主战派李纲抗金，斩杀罢黜了蔡京一党。但仍答应以赔款、割太原等三镇乞降求和。汴京城破后，降金，<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="北宋">北宋</a>灭亡。靖康二年 （1127年）四月与徽宗为金兵俘掳北去，囚于五国城（今黑龙江依兰），绍兴三十一年（1161年）五月，钦宗赵桓在金国被马踩死，终年五十七岁，葬处不明。谥号：孝慈渊圣帝，庙号：钦宗，加谥：恭文顺德仁孝帝。</p>
+<hr />
+<p style="text-indent: 2em;">
+	<strong>宋高宗 赵构</strong></p>
+<p style="text-indent: 2em;">
+	宋高宗 （1107&#160;～ 1187），<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="南宋">南宋</a>开国<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>（1127年 ～&#160;1162年，在位36年）。名赵构，宋徽宗第九子，母显仁皇后韦氏。大观元年八月，授定武军节度使、检校太尉、蜀国公。二年正月，为广平郡王。宣和三年十二月，进封康王。靖康元年闰月，为河北兵马大元帅。靖康二年（1127年）金兵俘徽、钦二宗北去后，五月于南京应天府（今河南商丘）即位，改元建炎。一生拒绝主战派抗金主张，主张求和偏安江南。统治期间，虽迫于形势以岳飞、韩世忠等大将抗金，但重用投降派秦桧。后以割地、纳贡、称臣等屈辱 条件向金人乞降求和，收韩世忠等三大将兵权，杀害岳飞。1161年，金帝完颜亮撕毁和议，再次南侵。高宗以屈辱求苟安的国策遭到强烈反对。绍兴三十二年（1162年）传位于孝宗，自称太上皇。淳熙十四年（1187年）十月病逝于临安宫中的德寿殿，终年八十一岁，葬于永思陵。谥号：圣神武文宪孝帝，庙号：高宗，加谥：受命中兴全功至德圣神武文昭仁宪孝帝。</p>
+<p style="text-indent: 2em;">
+	<strong>宋孝宗 赵昚</strong></p>
+<p style="text-indent: 2em;">
+	宋孝宗（1127 ～&#160;1194年），<a href="http://114.xixik.com/chaodai/song/" style="color: rgb(0, 0, 0);" title="南宋">南宋</a>第二位<a href="http://114.xixik.com/chinese-emperors/" style="color: rgb(0, 0, 0);" title="中国皇帝列表">皇帝</a>（1162年～1189年，在位27年），名赵眘，初名伯琮，赐名玮，宋太祖赵匡胤七世孙（太祖少子秦王赵德芳--英国公赵惟宪--新兴侯赵从郁--华阴侯赵世将--庆国公赵令譮--秀王赵子偁--孝宗）、宋高宗赵构养子，被立为皇太子后改名为眘。绍兴二年（1132）五月，高宗因太子已死，无子，选而育于宫中。绍兴三年（1133）二月，为和州防御使，赐名赵瑗。不久，改贵州防御使。五年（1135）五月，授保庆军节度使，封建国公。十二年（1141）正月，加检校少保，封普安郡王。十七年（1147），改常德军节度使。三十年（1160）二月，立为皇子，改名赵玮。授宁国军节度使、开府仪同三司，进封建王。四月，赐名元瑰。三十一年（1161）十月，为镇南军节度使。三十二年五月，为皇太子，改现名。六月，即帝位，定年号“隆兴”，立志光复中原，收复河山，遂恢复名将岳飞谥号“武穆”，追封岳飞为鄂国公，剥夺秦桧的官爵，并且命令老将张浚北伐中原，但在符离遭遇金军阻击，大败。接着金军趁胜追击，<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="南宋">南宋</a>军队损失惨重。宋孝宗被迫于隆兴二年（1164年）和金国签订“隆兴和议”。<span style="text-indent: 2em; text-align: justify;">&#160;</span><span style="text-indent: 2em; text-align: justify;">“高宗朝有恢复之臣，无恢复之君；孝宗朝有恢复之君，而无恢复之臣。”</span>次年改元“干道”，并又任用王淮理财备战。干道年间，由于没有战事的干扰，宋孝宗专心理政，百姓富裕，五谷丰登，太平安乐，一改高宗朝时贪污腐朽的局面。由于宋孝宗治国有方，所以使<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="南宋">南宋</a>出现“乾淳之治”的小康局面。孝宗是<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="南宋">南宋</a>较有作为的<a href="http://114.xixik.com/chinese-emperors/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="中国皇帝列表">皇帝</a>。淳熙十四年（1187年）10月，高宗病卒，孝宗为了服丧，让太子赵敦参预政事。淳熙十六年（1189年）2月又禅位于太子，太子即位后，是为宋光宗。孝宗自称太上皇，闲居重华殿，继续为高宗服丧。光宗与孝宗不和，长期不去探望孝宗。为此，孝宗闷闷不乐而起病。最终在宋光宗绍熙五年（1194年）6月，孝宗逝于临安重华殿。谥号： 哲文神武成孝帝，庙号：孝宗，加谥号：绍统同道冠德昭功哲文神武明圣成孝帝。</p>
+<p style="text-indent: 2em;">
+	<strong>宋光宗 赵敦</strong></p>
+<p style="text-indent: 2em;">
+	宋光宗（公元1147--1200年），南宋第三位皇帝。孝宗第三子，母成穆皇后郭氏。绍兴十七年九月乙丑日（1147年9月30日）生于孝宗藩邸。绍兴二十年（1150年）宋高宗赐名赵惇，授右监门卫率府副率，转荣州刺史。宋孝宗即位后，拜镇洮军节度使、开府仪同三司，封恭王。乾道七年（1171年）立为皇太子。淳熙十六年（1189年），受宋孝宗禅位，登基为帝，改元绍熙。绍熙五年（1194年）禅位于次子赵扩，成为太上皇，史称“绍熙内禅”或“光宗内禅”。</p>
+<p style="text-indent: 2em;">
+	宋光宗是<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="宋朝">宋朝</a>所有<a href="http://114.xixik.com/chinese-emperors/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="中国皇帝列表">皇帝</a>中比较昏庸的一位。赵惇继位之初，确有革故鼎新之意，能听取臣下谏言，也裁汰了一些不肖者。但他“宫闱妒悍”，惧内心理严重，以致后期不思朝政，沉湎于酒色之中；又听信谗言疏离太上皇赵昚，引起南宋的政治危机。他受父宋孝宗禅位而登基做<a href="http://114.xixik.com/chinese-emperors/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="中国皇帝列表">皇帝</a>以后，已经43岁。宋光宗体弱多病，又没有安邦治国之才，而且光宗听取奸臣谗言，罢免辛弃疾等主战派大臣，又由当时著名的妒妇、心狠手辣的李皇后来执政，奸佞当道。赵惇在位五年，“乾淳之治”的成果渐消，南宋开始由盛转衰。</p>
+<p style="text-indent: 2em;">
+	宋光宗自己却光宗历来就与孝宗不和，宋孝宗逊位后他长期不去探望。绍熙五年（1194年），宋孝宗得病，宋光宗既不请人看病又不去探望孝宗，乃至孝宗病逝他也不服丧。因此，大臣韩侂胄和赵汝愚经过太皇太后允许，逼迫光宗退位。光宗只好让位于太子赵扩，自己闲居临安寿康宫，自称“太上皇”。庆元六年（1200年）九月十七日，由于光宗过于闷闷不乐就去世了，享年54岁，葬于永崇陵。谥号：宪仁圣哲慈孝帝，庙号：光宗，宋宁宗嘉泰三年（1203年）上谥号为循道宪仁明功茂德温文顺武圣哲慈孝皇帝。</p>
+<p style="text-indent: 2em;">
+	<strong>宋宁宗 赵扩</strong></p>
+<p style="text-indent: 2em;">
+	宋宁宗赵扩（公元1168--1224年），<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="南宋">南宋</a>第四位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>，光宗次子，母慈懿皇后李氏。乾道五年（1169）十一月，为右千牛卫大将军。淳熙五年，迁明州观察使，封英国公。淳熙二年（1175）三月，迁安庆军节度使，进封平阳郡王。淳熙三年（1176）三月，为少保、武宁军节度使，进封嘉王。孝宗病，即帝位。</p>
+<p style="text-indent: 2em;">
+	宁宗即位后，任用赵汝愚和韩侂胄。赵、韩两派斗争激烈。宰相赵汝愚倡导理学，引荐朱熹，企图组织韩侂胄参政。宁宗罢免了赵汝愚，韩党专权。又定理学为伪学，禁止赵汝愚、朱熹等人担任官职，参加科举。这就是“庆元党禁”。1202年，才宣布弛禁。宁宗还追封岳飞为鄂王，削去秦桧封爵，大快人心，打击了投降派。1206年，韩侂胄冒然北进而大败，被杨皇后所害，主和派把持了朝政。1208年，在史弥远的操纵下与金订立屈辱的“嘉定和议”， 向金朝称伯，自己称侄，又向金朝进贡金银，韩侂胄死后史弥远成为宋宁宗的宰相兼枢密使，独揽<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="宋朝">宋朝</a>大政。史弥远恢复了秦桧的王爵和官职。宋宁宗时期，<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="宋朝">宋朝</a>比较安定，百姓比较富裕。宋宁宗还恢复理学地位。嘉定十七年（1224年）病死于福宁殿。在位三十年，终年五十七岁，葬永茂陵。&#160;谥号：仁文哲武恭孝帝，庙号：宁宗 ，加谥：法天备道纯德茂功仁文哲武圣睿孝帝。</p>
+<p style="text-indent: 2em;">
+	<strong>宋理宗 赵昀</strong></p>
+<p style="text-indent: 2em;">
+	宋理宗赵昀（公元1205--1264年），是<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="南宋">南宋</a>第五位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>（1224--1264年）。太祖十世孙。父赵希（王卢），追封荣王，母全氏，宁宗养子。他在位时间是从1224年到1264年。</p>
+<p style="text-indent: 2em;">
+	嘉定十四年（1221）八月，为右监门卫大将军，赐名贵诚。十五年（1222）五月，为邵州防御使。十七年（1224）八月，为皇子，改赐名赵昀，授武泰军节度使，封成国公。闰月，宁宗死，嗣帝位。</p>
+<p style="text-indent: 2em;">
+	宋理宗本不是皇子，而只是<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="宋朝">宋朝</a>皇家的一个<a href="http://114.xixik.com/qinqi/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="亲戚">亲戚</a>，他是赵匡胤之子赵德昭的九世孙。他的前任宋宁宗死后，宰相史弥远废太子赵弘，立宋理宗为<a href="http://114.xixik.com/chinese-emperors/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="中国皇帝列表">皇帝</a>。宋理宗十分无能，登基后将所有国家事物都交给史弥远，自己对政务完全不过问，一直到1233年史死后宋理宗才开始亲政，但他依然对政治不感兴趣，将国家大事交给他的宰相丁大全处理，他本人崇拜理学。1234年<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="南宋">南宋</a>联蒙古国灭金。1259年，蒙古攻鄂州，宰相贾似道以宋理宗名向蒙古称臣，并将长江以北的土地完全割让给蒙古。景定五年（1264年）10月，理宗病死于临安，在位40年，终年60岁，葬于永穆陵。庙号：理宗，加谥：建道备德大功复兴烈文仁武圣明安孝帝/</p>
+<p style="text-indent: 2em;">
+	<strong style="text-indent: 2em;">宋度宗 赵禥</strong></p>
+<p style="text-indent: 2em;">
+	宋度宗赵禥（公元1240--1274年），在位1265年—1274年，在位10年），太祖十一世孙，父嗣荣王与芮，为理宗同母弟。淳祐六年（1246）十月，赐名孟启，授贵州剌史。七年（1247）正月，为宜州观察使。九年（1249）正月，授庆远军节度使，封益国公。十一年（1251）正月，改赐名赵孜，进封建安郡王。宝祐元年（1253）正月，为皇太子，改赐现名。授崇庆军节度使、开府仪同三司，进封永嘉郡王。二年（1254）十月，进封忠王。五年（1257）十月，为镇南遂安军节度使。景定元年（1260）六月，为皇太子。五年（1264）十月，即帝位。</p>
+<p style="text-indent: 2em;">
+	宋度宗长大后十分昏庸无能。他即位时，金朝已经灭亡多年，北方<a href="http://114.xixik.com/chaodai/yuan/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="元朝">元朝</a>军队大举南下，国难当头，他却将军国大权交给奸臣贾似道，政治十分腐败黑暗，人民生活十分困苦，自己却依旧穷途奢侈，荒淫无道，沉湎于酒色之中，<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="宋朝">宋朝</a>病入膏肓，无可救药，只有等着灭亡。北方元军多次出兵进攻<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="南宋">南宋</a>，宋廷虽腐朽，但是广大军民的抵抗，使得元军不得不撤回。度宗即位后，元军猛攻襄樊。这一次是决定<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="南宋">南宋</a>小朝廷兴亡的关键战役。然而贾似道密而不报，还说已经取胜，度宗在完全不予以审问的情况下竟对此言深信不疑。最后，元军于咸淳十年（1274年）初攻破围攻5年的襄樊，为<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="宋朝">宋朝</a>敲响丧钟，宋度宗闻知顿时昏倒，但是他仍然借酒浇愁。不久就因酒色过度而死。1274年7月，度宗病逝于福宁殿，终年三十五岁，在位十年。葬于永绍陵。谥号：端文明武景孝帝，庙号：度宗。</p>
+<p style="text-indent: 2em;">
+	<strong>宋恭帝 赵显</strong></p>
+<p style="text-indent: 2em; text-align: center;">
+	<img src="http://img.xixik.net/custom/section/chinese-emperors/song/xixik-c1cffef9d33ab213.jpg" /></p>
+<p style="text-indent: 2em;">
+	宋恭帝赵<img src="http://img.xixik.net/mimg/002/xixik_3a230961e8d9e699.jpg" />（1271年－1323年），<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="南宋">南宋</a>第七位<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>（1274年—1276年在位），宋度宗次子，母全皇后，是宋端宗赵是之弟，宋末帝赵昺兄。咸淳九年（1273）十一月，左卫上将军，封嘉国公。十年（1274）七月，度宗死，即位。宋咸淳十年（1274年）十月，宋度宗驾崩，年四岁的赵<img src="http://img.xixik.net/mimg/002/xixik_3a230961e8d9e699.jpg" style="text-indent: 2em;" />在奸相贾似道的扶持下登基做<a href="http://114.xixik.com/chinese-emperors/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="中国皇帝列表">皇帝</a>，是为宋恭帝，改明年为德祐元年。祖母谢太皇太后、母亲全太后垂帘听政。但军国大权依然在贾似道之手。当时<a href="http://114.xixik.com/chaodai/yuan/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="元朝">元朝</a>军已平定中国北方和西南，在取得南下最重要通道襄阳城的控制权之后，渡过长江向<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="南宋">南宋</a>首都临安（今杭州）进发。谢太皇太后一面在全国通令“勤王”，一面向元军乞和。势如破竹的元军在击破各地的防线，相继降服了长江中游诸州。1275年，贾似道率领的3万大军在芜湖与元军对战大败。不久，谢太皇太后和宋恭帝在舆论压力下诛贾似道，不过为时已晚，<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="宋朝">宋朝</a>亡国在即。同年年中，元军已经占领了江东（今日的江苏省）大半的领土。1276年1月18日伯颜率领的元军兵临临安。南<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="宋朝">宋朝</a>廷遣陆秀夫求和称侄不成，只好向元军投降，迁于上都，降为开府仪同三司、瀛国公。<a href="http://www.xixik.com/content/48963690520b63dd" style="text-indent: 2em;" title="末代皇帝之宋恭帝赵显：生世最传奇的大宋帝王">开始了长达47年的传奇的俘虏生涯</a>，在西藏出家作为喇嘛，1323年5月，<a href="http://www.xixik.com/content/459f9e45ed746755" style="text-indent: 2em;" title="可怜生在帝王家 南宋赵显出家成为高僧却难逃一死">触犯文字狱被赐死</a>。&#160;谥号恭<a href="http://114.xixik.com/chinese-emperors/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="中国皇帝列表">皇帝</a>，无庙号。</p>
+<p style="text-indent: 2em;">
+	<strong>宋端宗 赵昰</strong></p>
+<p style="text-indent: 2em;">
+	宋端宗，名赵昰（公元1268－1278年，在位3年），度宗长子，母淑妃杨氏，恭帝兄。恭帝被元掳往北方，陆秀夫等拥立他为帝。初为长建公。瀛国公即帝位，被封为吉王。元兵破临安，迁封益王、判福州、福建安抚大使。五月，称帝于福州。德祐二年（公元1276年）元军进逼临安时，他由驸马都尉杨镇等护卫，出逃福建。欲对宋室斩草除根的伯颜派兵追赶，未果而还。3月，赵昰等人到达福州，得知临安沧陷，恭帝被掳往北方。5月，陆秀夫、陈宜中、张世杰等人在福州拥立他为帝，改年号为“景炎”。端宗在位时，年仅8岁，朝臣陆秀夫等坚持抗元，力图恢复<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="宋朝">宋朝</a>，但在元军的紧紧追击下，他只得由大将张世杰护卫着登船入海，东逃西避，疲于奔命。左丞相陈宜中对大局绝望，远走占城（今越南境内）。景炎三年（公元1278年）3月，端宗为躲避元将刘深的追逐，上船避入广州湾，一天夜间，<span style="text-indent: 2em; text-align: justify;">「龙舟」</span>不慎被颠覆，端宗落入海中，后被左右救起，已经喝了一肚子的水，而且就此起病，吓得好几天都讲不出话来。因元军追兵逼近，他又不得不浮海逃往冈州（今广东省雷州湾），经此颠簸，又惊病交加，景炎三年（<span style="text-indent: 2em; text-align: justify;">1278年）5月8日</span>病死于碙州，终年11岁，葬于永福陵（确切位置成谜，一说今广东省新会县南，一说<span style="text-indent: 2em; text-align: justify;">今香港大屿山</span>）。谥号：孝恭懿圣帝。</p>
+<p style="text-indent: 2em;">
+	<strong>宋幼主 赵昺</strong></p>
+<p style="text-indent: 2em;">
+	赵昺（1272年——1279年），<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="南宋">南宋</a>亦是<a href="http://114.xixik.com/chaodai/song/" style="color:#000" title="宋朝">南宋</a>第九位也是最后一位<a href="http://114.xixik.com/chinese-emperors/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="中国皇帝列表">皇帝</a>（1278年——1279年在位，在位2年），赵昺是<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="宋朝">宋</a>度宗第三子，母修容俞氏。初为永国公。瀛国公即帝位，被封为信王。元兵破临安，迁为广王、判泉州兼判南外宗正。端宗立，封为卫王。端宗死，为帝。<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="南宋">南宋</a>于祥兴二年（1279年）3月在崖山海战中被元军大败，全军覆灭，陆秀夫遂背时年8岁的赵昺跳海而死，张世杰、杨太妃等人也相继投水殉国。<a href="http://114.xixik.com/chaodai/song/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="南宋">南宋</a>最后一位<a href="http://114.xixik.com/chinese-emperors/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="中国皇帝列表">皇帝</a>死去，宋王朝灭亡。<a href="http://www.xixik.com/content/726c241134dae6cd" style="text-indent: 2em;" target="_blank" title="深圳赤湾：南宋最后一位皇帝少帝魂魄归依之所">深圳赤湾：南宋最后一位皇帝少帝魂魄归依之所</a></p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor5"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        宋朝灭亡，崖山之后再无中国</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	赵昺，曾先后封为信王、广王、卫王。临安危急时，他在母亲杨淑妃带领下，暗暗出城，逃到泉州（今福建省泉州市）。宋端宗于景炎三年（公元1278年）4月病死，赵昺被陆秀夫，张世杰于同月冈州拥立为帝，5月，改年号为“祥兴”，6月，迁到崖山（今广东省新会县南）。 与此同时，南宋右丞相文天祥在五坡岭（今广东海丰）被元军统帅张弘范的弟弟张弘正所俘，其统领的督军府从此瓦解。</p>
+<p style="TEXT-INDENT:2em">
+	宋幼主 祥兴二年（公元1279年）正月，元将张弘范率水陆两路元军直趋崖山。崖山背山面海，地势险要，张世杰下令焚烧岛上行宫军屋，人马全部登船，然后依山面海，将1千多条战船排成长蛇阵，用绳束连接在一起，船的四周筑起城楼，船上涂上一层厚厚的湿泥，缚上一根根长木。将帝昺的座船安置在中间，诏示将士与舰船共存亡。 张弘范见宋军战船集结，行动不便，就先用小船装满柴草，浇上油，点火后乘风攻击宋水军。宋军船上的湿泥阻止了火势蔓延，长木又顶住了火船，使元军的火攻归于失败。张弘范又阻断了宋军的水源，封锁了海口。宋兵饥渴交加，处境日益困难。张弘范派人劝降，被张世杰拒绝。</p>
+<p style="TEXT-INDENT:2em">
+	2月6日，双方进行了最后的决战，张弘范分兵四路，发动猛攻。宋军正在拼命抵抗时，忽听得张弘范所在的指挥船上奏起了音乐。宋军以为这是元军将领在举行宴会，战斗就松懈了一下。不料此乐声是元军总攻的讯号，张弘范的指挥船直扑而来，箭如暴雨。元军在乱箭掩护下，夺走了宋军的战船七艘。各路元军又一齐猛扑过来，从中午到傍晚，海战进行得异常激烈。忽然，张世杰见到一条宋船降下了旗帜，停止了抵抗，其他战船也降下旗帜，知道大势已去，急忙一面将精兵集中到中军，一面派出一只小船和十多名士兵去接帝昺前来，准备突围。</p>
+<p style="TEXT-INDENT:2em">
+	帝昺这时正由左丞相陆秀夫守护着，待在一艘大船上。小船来接帝昺，陆秀夫不知这是真是假，又担心帝昺如突围不成而被元军截获，坚决拒绝。他知道君臣都难以脱身了，就连忙跨上自己的座船，仗剑驱使自己的妻子投海自尽。然后，换上朝服，回到大船礼拜帝昺，哭着说：“陛下，国事至今一败涂地，陛下理应为国殉身。德佑皇帝（恭帝）当年被掳北上，已经使国家遭受了极大的耻辱，今日陛下万万不能再重蹈覆辙了！” 帝昺则给吓得哭作一团。陆秀夫说完，将黄金国玺系在腰间，背起九岁的帝昺奋身跃入大海，以身殉国。</p>
+<p style="TEXT-INDENT:2em">
+	顷刻间君臣二人就沉没得无影无踪。其他船上的大臣，宫眷，将士听到这个噩耗，顿时哭声震天，几万人纷纷投海殉国。张世杰率领水军余部突围而出来到海陵山脚下，不久，有人带来了陆秀夫背负帝昺共同殉国的噩耗。张世杰悲痛不已，此时，飓风再来，部下劝他上岸暂避。张世杰俯视着在风粮中飘摇的宋军残船，拒绝暂避。绝望地回答：“无济于事了，还是与诸君共甘苦吧”又说道：“我为赵氏，也算竭力了，一君身亡，复立一君，如今又亡，我在崖山没有殉身，是望元军退后，再立新君，然而，国事发展到如此地步，难道这是天意。”说完堕身入海。 南宋灭亡。这是中国第一次灭国，当时百姓及官员投海殉国后，第二日海中浮尸几万，故而传出“崖山之后再无中国”之说，真是可歌可泣啊。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor6"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        两宋十八位皇帝综述</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	1、太祖赵匡胤（927年－976年），<a style="color:#000" title="宋朝" href="http://114.xixik.com/chaodai/song/">宋朝</a>开国<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>。赵匡胤原为后周大将，掌管殿前禁军。960年元月，殿前禁军于京城汴梁（今开封）东北的陈桥驿哗变，拥立赵匡胤为帝，史称“陈桥兵变”。后周恭帝柴宗训禅位，赵匡胤登基，改元建隆，国号宋。</p>
+<p style="TEXT-INDENT:2em">
+	赵匡胤在位期间，先后灭亡荆南、湖南、后蜀、南汉及南唐等南方割据政权，致力于统一；于961年及969年先后两次“杯酒释兵权”，解除禁军将领及地方藩镇的兵权，解决自<a style="color:#000" title="唐朝" href="http://114.xixik.com/chaodai/tang/">唐朝</a>中叶以来藩镇割据的局面。</p>
+<p style="TEXT-INDENT:2em">
+	976年11月14日，赵匡胤逝世，享年49岁，在位16年。由于北宋中期的笔记《续湘山野录》记载了“烛影斧声”事件，暗示赵匡胤之死是由赵光义所加害。加上帝位非由其子继承，而是由三弟赵光义登基垂统，违反宗法继承原则，使得史家认为赵匡胤的死因并不单纯，成为千古之谜。</p>
+<p style="TEXT-INDENT:2em">
+	2、太宗赵光义（939年－997年），<a style="color:#000" title="宋朝" href="http://114.xixik.com/chaodai/song/">宋朝</a>的第二位<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>。在位21年，享年58岁。是太祖赵匡胤的胞弟。太宗治政有为，不善武功。在位期间，改变了唐末以来重武轻文陋习。但是两次伐辽，及收复燕云十六州的企图都失败了。980年更试图统一交趾，但惨败，使交趾（越南）最终得以保持独立地位。太宗好读书，“开卷有益”典故即来自他。</p>
+<p style="TEXT-INDENT:2em">
+	3、真宗赵恒（968年－1022年），<a style="color:#000" title="宋朝" href="http://114.xixik.com/chaodai/song/">宋朝</a>第三位<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>，太宗第三子，在位25年，享年55。真宗也是著名谚语“书中自有黄金屋，书中自有颜如玉”的作者，意在于鼓励读书人读书科举，参政治国。真宗时与辽定澶渊之盟，这是<a style="color:#000" title="宋朝" href="http://114.xixik.com/chaodai/song/">宋朝</a>以岁币换取和平的开始。此后，北宋进入经济繁荣期。另外，真宗也是著名戏曲《狸猫换太子》第三主角。</p>
+<p style="TEXT-INDENT:2em">
+	4、仁宗赵祯（1010年－1063年），<a style="color:#000" title="宋朝" href="http://114.xixik.com/chaodai/song/">宋朝</a>第四位<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>。在位41年，享年54岁。民间流传的“狸猫换太子”中的太子就是指仁宗，自古以来在包公剧中，亦以明君形象树立。仁宗知人善用，因而在位时期名臣辈出，国家安定太平，经济繁荣，科学技术和文化得到了很大的发展，被称为“仁宗盛治”。仁宗论能力，不如太祖雄才大略，论学问，他不如徽宗多才多艺；但论生前死后的名声，他却是<a style="color:#000" title="宋朝" href="http://114.xixik.com/chaodai/song/">宋朝</a>十八帝中最好的一位<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>。</p>
+<p style="TEXT-INDENT:2em">
+	5、英宗赵曙（1032年－1067年），是仁宗的堂兄濮王赵允让之子，过继给仁宗为嗣，是<a style="color:#000" title="宋朝" href="http://114.xixik.com/chaodai/song/">宋朝</a>第五位<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>。在位5年，享年36岁。英宗多病，但也是一个很勤勉的<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>。</p>
+<p style="TEXT-INDENT:2em">
+	6、神宗赵顼（xū，1048年－1085年），是<a style="color:#000" title="宋朝" href="http://114.xixik.com/chaodai/song/">宋朝</a>第六位<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>。在位17年，享年37岁。即位后即命王安石推行变法，以期振兴宋王朝，史称“王安石变法”。均输、青苗、农田水利、免役、市易、保甲、方田均税、保马等新法相继出笼，涉及政治、经济、军事、社会等诸多领域。社会经济得到极大发展，尤其是宋廷财政有了很大的改善。神宗初时，苏轼受重用，但不久就因为反对王安石变法而被贬黜出京，此即“乌台诗案”。</p>
+<p style="TEXT-INDENT:2em">
+	7、哲宗赵煦（1077年－1100年），<a style="color:#000" title="宋朝" href="http://114.xixik.com/chaodai/song/">宋朝</a>第七位<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>。在位15年，得年24岁。哲宗是北宋较有作为的<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>。不过在新党与旧党之间的党争始终未能获得解决，反而在哲宗当政期间激化，多少造成朝廷的动荡。</p>
+<p style="TEXT-INDENT:2em">
+	8、徽宗赵佶（1082年－1135年），神宗十一子，是<a style="color:#000" title="宋朝" href="http://114.xixik.com/chaodai/song/">宋朝</a>第八位<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>，具有相当高的艺术造诣。他兄长哲宗无子，死后传位于他，在位25年。他自创的书法字体被后人称之为“瘦金书”，另外，他在书画上的花押是一个类似拉长了的“天”字，象征“天下一人”。靖康之变时和儿子钦宗一道被金国掳去，受折磨而死，终年54岁。元朝的脱脱撰写《宋史》的《徽宗记》时，掷笔感叹道：“宋徽宗诸事皆能，独不能为君耳！”</p>
+<p style="TEXT-INDENT:2em">
+	9、钦宗赵桓（1100年－1156年），徽宗赵佶长子，<a style="color:#000" title="宋朝" href="http://114.xixik.com/chaodai/song/">宋朝</a>第九位<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>，也是北宋最后一位<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>。宣和七年（1125年）十二月金人大举南下时，徽宗禅位于他，在位1年零2个月。为人优柔寡断、反复无常，对政治问题缺乏判断力和敏锐力。他是历史上懦弱无能的昏君，听信奸臣谗言，罢免了李纲。金兵围攻汴京，却无力抵抗。靖康之变时和徽宗一起被金人虏北，南宋绍兴二十六年（1156年）死于燕京，终年57岁，至死也没能南回。（真宗名赵恒，钦宗名赵桓，不要弄混了。）</p>
+<p style="TEXT-INDENT:2em">
+	10、高宗赵构（1107年－1187年），<a style="color:#000" title="宋朝" href="http://114.xixik.com/chaodai/song/">宋朝</a>第十位<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>。<a style="color:#000" title="宋朝" href="http://114.xixik.com/chaodai/song/">宋朝</a>南迁第一任<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>，在位35年，得年81岁。徽宗第九子，钦宗之弟。赵构在位初期因为动乱，为了保持江山，起用主战派李纲、岳飞等等。但他中期眼见女真的强势，又为了强化皇权，因此采用了求和政策，大部分时间都是重用主和派的黄潜善、汪伯彦、王伦、秦桧等人，并处死岳飞，罢免李纲、张浚、韩世忠等主战派大臣。他还精于书法，善真、行、草书，笔法洒脱婉丽，自然流畅，颇得晋人神韵。</p>
+<p style="TEXT-INDENT:2em">
+	关于赵构，史家多倾向于定位为昏庸之主。不过，<a style="color:#000" title="宋朝" href="http://114.xixik.com/chaodai/song/">宋朝</a>庭是在仓促之间被金人攻陷了都城汴梁，二帝“北狩”。当赵构南渡时，身边亲兵仅一千余人，然而他通过各种方法，迅速调集兵马防守住了淮河、长江，同时建立了南宋的根基。我们可以把赵构和明末的崇祯<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>做个对比，为什么南宋可以偏安，而南明不行？如果崇祯<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>能够学习宋高宗的做法，<a style="color:#000" title="中国历史" href="http://114.xixik.com/chinese-dynasties/">中国历史</a>的走向会是另外的一个样子。说赵构是“投降派”甚或是卖国贼，更是一种用现代“**史观”解读历史的片面言论。</p>
+<p style="TEXT-INDENT:2em">
+	11、孝宗赵昚（shèn，1127年－1194年），<a style="color:#000" title="宋朝" href="http://114.xixik.com/chaodai/song/">宋朝</a>第十一位<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>。他是太祖的后裔，高宗养子，绍兴三十二年（1162年），高宗让位于赵昚，是为孝宗，<a style="color:#000" title="宋朝" href="http://114.xixik.com/chaodai/song/">宋朝</a>的皇位真正了回到太祖的长房后裔。孝宗在位27年，淳熙十六年（1189年）孝宗逊位，让位与儿子光宗赵惇。基本上，孝宗是南宋最有作为的<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>。在位期间，平反了岳飞冤案，起用主战派人士，锐意收复中原；在内政上，积极整顿吏治，裁汰冗官，惩治贪污，重视农业生产，百姓生活安康，史称“乾淳之治”。</p>
+<p style="TEXT-INDENT:2em">
+	12、光宗赵惇（1147年－1200年），<a style="color:#000" title="宋朝" href="http://114.xixik.com/chaodai/song/">宋朝</a>第十二位<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>（1189年—1194年在位），在位5年，享年53岁。光宗是<a style="color:#000" title="宋朝" href="http://114.xixik.com/chaodai/song/">宋朝</a><a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>中比较平庸的一位。他受父亲孝宗禅位而登基做<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>以后，已经42岁。光宗体弱多病，患有精神障碍，没有安邦治国之才，听取奸臣谗言，罢免辛弃疾等主战派大臣，又让当时著名的妒妇、心狠手辣的皇后李凤娘干政，光宗自己对朝政的掌握力不断下降。另外，光宗历来就与父亲孝宗不和，对朝政影响很大。</p>
+<p style="TEXT-INDENT:2em">
+	13、宁宗赵扩（1168年－1224年）是<a style="color:#000" title="宋朝" href="http://114.xixik.com/chaodai/song/">宋朝</a>的第十三位<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>。光宗被逼退位，由赵扩继位。宁宗在位30年，享年55岁。其统治期间内，<a style="color:#000" title="宋朝" href="http://114.xixik.com/chaodai/song/">宋朝</a>比较安定，百姓比较富裕，还恢复了理学地位。</p>
+<p style="TEXT-INDENT:2em">
+	14、理宗赵昀（1205年－1264年），是<a style="color:#000" title="宋朝" href="http://114.xixik.com/chaodai/song/">宋朝</a>的第十四位<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>（1224年—1264年在位），在位40年，享年59岁。理宗本名赵与莒，本不是皇子，而只是宁宗的远房堂侄。他是太祖赵匡胤的十世孙，是赵匡胤次子赵德昭的后人，机缘巧合得以上位。纵观南宋一代，平庸无能的<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>好几个，尤其是南宋王朝后期的几代帝王。但南宋走向灭亡之路是从理宗开始的，由于他的无能、昏庸不辨忠奸，任用奸相佞臣，排斥打击忠臣良将。生活上荒淫奢侈，致使南宋统治日益衰退，朝纲不济，终于被蒙古所灭。</p>
+<p style="TEXT-INDENT:2em">
+	【骷髅碗】宋亡后，元朝西藏藏传佛教僧人杨琏真伽盗掘南宋六陵，见宋理宗尸身保存完好，将尸体倒挂在树上三天，结果流出水银，又以理宗头盖骨奉给帝师八思巴为饮器，是为骷髅碗。明初，明太祖得知此事，“叹息久之”。派人找回理宗的头颅，洪武二年（1369年）以帝王礼葬于应天府（江苏南京），次年又将理宗的头骨归葬到绍兴永穆陵旧址。</p>
+<p style="TEXT-INDENT:2em">
+	15、度宗赵禥（1240年－1274年），是<a style="color:#000" title="宋朝" href="http://114.xixik.com/chaodai/song/">宋朝</a>第十五位<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>。太祖十一世孙，理宗的侄儿。在位10年，得年35。《宋史》记载赵禥七岁始会说话，智商低于正常人水平，是历史荒淫无道、昏庸无能的<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>。他即位时，金国已经灭亡多年，而北方蒙元的军队大举南下，国难当头之际，他却把军国大权交给贾似道执掌，使南宋偏安江南的锦绣江山处于暗无天日之中。当时朝廷政治十分腐败，百姓生活十分困苦，而赵禥自己却依旧穷途奢侈，荒淫无道，长期沉湎于酒色之中。南宋王朝病入膏肓，只有等着走向覆亡。</p>
+<p style="TEXT-INDENT:2em">
+	16、恭帝赵?（xiǎn，1271年－1323年），<a style="color:#000" title="宋朝" href="http://114.xixik.com/chaodai/song/">宋朝</a>第十六位<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>（1274年—1276年在位），在位2年，得年53岁。咸淳十年（1274年）十月，度宗驾崩，四岁的赵?在奸相贾似道的扶持下登基做<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>。1276年1月18日伯颜率领的元军兵临临安。南<a style="color:#000" title="宋朝" href="http://114.xixik.com/chaodai/song/">宋朝</a>廷遣陆秀夫求和称侄不成，只好向元军投降。正月十八日（1276年2月4日），谢太皇太后抱着五岁的小<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>赵?出城向元军献上玉玺投降。宋亡后，恭帝被元朝封为瀛国公。到了元至元二十六年（1289年），元世祖忽必烈突然赏给19岁的宋恭帝许多钱财，叫他去西藏当僧人。于是当年的小<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>成了高僧，为佛教界做出了许多贡献，翻译了不少佛教经文。后来恭帝写了一首表达对宋皇朝思念之情的诗，被元英宗赐死。</p>
+<p style="TEXT-INDENT:2em">
+	17、端宗赵昰（shì，1269年－1278年），<a style="color:#000" title="宋朝" href="http://114.xixik.com/chaodai/song/">宋朝</a>第十七位<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>（1276年6月14日—1278年5月8日在位），在位2年。他是度宗的庶长子, 恭帝的长兄。1278年3月，端宗为躲避元将刘深的追逐，上船避入广州对开海面，不到10岁的小<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>屡受颠簸，又惊病交加，于两个月后去世。</p>
+<p style="TEXT-INDENT:2em">
+	18、赵昺（bǐng，1272年2月12日－1279年3月19日），又称宋帝昺，<a style="color:#000" title="宋朝" href="http://114.xixik.com/chaodai/song/">宋朝</a>末代<a style="color:#000" title="中国皇帝列表" href="http://114.xixik.com/chinese-emperors/">皇帝</a>（第十八位，1278年5月10日—1279年3月19日在位），在位十个月。他是度宗赵禥的少子。1279年3月19日宋、元在崖山海上开展决战，宋军全军覆灭，元军随后包围崖山，左丞相陆秀夫眼看靖康之耻又要重演，在广州崖山（今新会崖门）背着8岁的赵昺跳海而死，在崖山的十万军民也相继投海殉国，宋皇朝彻底覆亡。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor7"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        宋朝历代皇后列表</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<strong><a href="http://www.xixik.com/content/25613ca7658d8fed" target="_blank" title="北宋皇后列表及简介：北宋皇帝各自有几个皇后">北宋皇后列表及简介</a></strong></p>
+<p style="TEXT-INDENT:2em">
+	太祖：孝惠贺皇后 孝明王皇后 孝章宋皇后</p>
+<p style="TEXT-INDENT:2em">
+	太宗：淑德尹皇后 懿德符皇后 明德李皇后</p>
+<p style="TEXT-INDENT:2em">
+	真宗：章怀潘皇后 章穆郭皇后 章献明肃刘皇后</p>
+<p style="TEXT-INDENT:2em">
+	仁宗：郭皇后 慈圣光献曹皇后</p>
+<p style="TEXT-INDENT:2em">
+	英宗：宣仁圣烈高皇后</p>
+<p style="TEXT-INDENT:2em">
+	神宗：钦圣献肃向皇后</p>
+<p style="TEXT-INDENT:2em">
+	哲宗：昭慈孟皇后 昭怀刘皇后</p>
+<p style="TEXT-INDENT:2em">
+	徽宗：显恭王皇后 郑皇后</p>
+<p style="TEXT-INDENT:2em">
+	钦宗：朱皇后</p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://www.xixik.com/content/7bdc3d30828bfd83" target="_blank" title="南宋皇后列表及简介：南宋皇帝都各有几个皇后？">南宋皇后列表及简介</a></strong></p>
+<p style="TEXT-INDENT:2em">
+	高宗：宪节邢皇后 宪圣慈烈吴皇后</p>
+<p style="TEXT-INDENT:2em">
+	孝宗：成穆郭皇后 成恭夏皇后 成肃谢皇后</p>
+<p style="TEXT-INDENT:2em">
+	光宗：慈懿李皇后</p>
+<p style="TEXT-INDENT:2em">
+	宁宗：恭淑韩皇后 恭圣仁烈杨皇后</p>
+<p style="TEXT-INDENT:2em">
+	理宗：谢皇后</p>
+<p style="TEXT-INDENT:2em">
+	度宗：全皇后</p>
+<p style="color: rgb（0, 0, 0）; font-family: SimSun, "Arial Narrow"; text-indent: 2em;">
+	宋恭帝赵<img class="scrollimg" data-url="http://img.xixik.net/mimg/002/xixik_3a230961e8d9e699.jpg" src="http://img.xixik.net/mimg/002/xixik_3a230961e8d9e699.jpg" style="border: 0px; vertical-align: middle; max-width: 560px;" />（xiǎn）：无后</p>
+<p style="color: rgb（0, 0, 0）; font-family: SimSun, "Arial Narrow"; text-indent: 2em;">
+	宋端宗赵昰：幼年无后</p>
+<p style="color: rgb（0, 0, 0）; font-family: SimSun, "Arial Narrow"; text-indent: 2em;">
+	宋卫王赵昺：幼年无后</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor8"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        被盗掘最惨的皇家陵墓群——南宋皇陵</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="text-indent: 2em; text-align: center;">
+	<img src="http://img.xixik.net/custom/section/chinese-emperors/song/xixik-f7273d5e7519cea7.jpg" /></p>
+<p style="text-indent: 2em; text-align: center;">
+	绍兴南宋六陵</p>
+<p style="TEXT-INDENT:2em">
+	南宋六陵是全国重点文物保护单位（第七批，2013年3月5日公布），位于浙江绍兴市皋埠镇攒宫山，距绍兴市区18公里，有宋高宗永思陵、宋孝宗永阜陵、宋光宗永崇陵、宋宁宗永茂陵、宋理宗永穆陵、宋度宗永绍陵等南宋六帝陵寝，故称宋六陵。此外，还有北宋徽宗陵（永佑陵）、宋哲宗后陵、宋徽宗后陵、宋高宗后陵。占地约2.25平方公里，为江南地区最大的皇家陵墓区。整个陵区占地2.24平方公里，远处东傍青龙山，南接紫云山，西依五虎岭，北靠雾连山，构成左青龙、右白虎、前朱雀、后玄武的风水景观。地势东南略低，西北稍高，清澈的溪水发源于东南的大仁龙山，沿皇陵向西蜿蜒而过。整个陵区山水交融，风景如画。南宋王朝独特的陵园选址方法，是我国古代风水理论的继承和发展。</p>
+<p style="TEXT-INDENT:2em">
+	&#160;</p>
+<p style="TEXT-INDENT:2em">
+	南宋六陵陵寝建筑规制基本仍沿袭北宋旧制，设有上宫、下宫和地宫，只是规模较北宋陵小了很多，陵园内既没有高崇的陵台，也无神道两侧的精美石雕。但规制齐全，仍不失皇家陵墓之气势。绍兴宋六陵坐南朝北，地宫埋藏较浅，目的是想着有朝一日收复中原故地，<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>的灵柩都要移葬到祖宗陵园，即河南巩县（今巩义）宋陵。但偏安一隅的南宋王朝，终就未能光复故地，归葬中原，以“国破山河碎”的结局而告终。六帝遗骨非但未能如愿返归河南宋陵，反而在亡国后三个月就遭到了元朝杨琏真伽的浩劫凌辱，整个陵区毁于一旦。</p>
+<p style="text-indent: 2em; text-align: center;">
+	<img src="http://img.xixik.net/custom/section/chinese-emperors/song/xixik-085d1a47c20a73cd.jpg" /></p>
+<p style="text-indent: 2em; text-align: center;">
+	南宋六帝</p>
+<p style="TEXT-INDENT:2em">
+	1127年，金兵攻破北宋都城开封，掳走了徽宗和钦宗两个皇帝。昏庸无能的高宗赵构仓皇南逃，建都临安（今杭州），史称南宋。1129年，金兵再度进犯，赵构又从杭州经绍兴、宁波，一直退到东海，第二年才回到绍兴，并在这里做了一年零八个月的皇帝。这年4月，随高宗南渡的北宋哲宗皇后孟氏（当时叫孟太后）死了。宋六陵的营建开始是为孟太后兴建。嘉泰《会稽志》卷六《陵寝》有如下记述：“绍兴元年（公元1131）四月十四日，奉隆祐皇太后遗诰：“殓以常服，不得用金玉宝贝，权宜就近择地攒殡，候军事宁息，归葬园陵，所制梓宫，取周吾身，勿拘旧制，以为他日迁奉之便。”此攒宫之始也。“攒宫”，意为攒集梓宫之处，表示临时择地攒殡。将来收复中原后，还要迁回北方的祖茔。</p>
+<p style="TEXT-INDENT:2em">
+	宋高宗绍兴十二年（1142）八月，又将金人归还的宋徽宗及其皇后郑氏以及高宗皇后邢氏的棺木葬于孟后的西北处，称徽宗攒宫为永祐陵，郑皇后和邢皇后祔此。绍兴二十九年（1159）九月，韦太后去世，建攒宫在永祐陵之西。此后南宋六位<a href="http://114.xixik.com/chinese-emperors/" style="text-indent: 2em; color: rgb（0, 0, 0）;" title="中国皇帝列表">皇帝</a>和皇后就相继埋葬在这里。</p>
+<p style="TEXT-INDENT:2em">
+	公元1278年，元兵攻破南宋行在临安（今杭州）没过几个月，当时的元朝江南佛教总管、西域妖僧在元朝统治者的纵容和默许下就开始了对南宋皇陵疯狂的盗掘。江南释教头领妖僧杨琏真伽公然盗掘绍兴南宋皇陵。当时杨琏真伽和僧允泽率领部众蜂拥到陵前，陵使竭力抗争，不让他们开陵。允泽拔刀相逼，陵使无奈大哭而去。他们撬开帝后墓室，抛弃<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>的遗骸，盗走墓中随葬的各种珍宝。将各位帝后曝尸荒野。杨琏真伽前后挖开100多座古墓，把多数皇陵以及埋入皇陵的后妃、皇子、公主以及功勋大臣的坟墓几乎全部挖开，尸骨撒满山沟，一片狼藉，惨不忍睹。</p>
+<p style="TEXT-INDENT:2em">
+	宋六陵虽然属于临时安置性质，但毕竟不同于普通百姓的墓葬，各陵仍有一定的规模。据文献记载，地下均有长达数十丈的石砌甬道和墓室，又有精致的墓阙。地面上建有献殿、享殿、宰牲房等大批建筑。可惜，沧桑巨变，现在我们已经无法见到这些陵园建筑了。只有那一个个微微鼓起的土墩上几丛参天古松，依然挺立在青山环抱之中，它们少则七八棵，多则数十棵，棵棵粗可合抱，顶挑青枝，如伞如盖。相传，每丛松树的下面，就是一座皇帝的陵墓。土墩头上剩有明代以后立的碑石，上刻帝名、陵名。陵园建筑可觅见的只有孝宗永阜陵和理宗永穆陵的享殿，也是明代复制的。</p>
+<p style="TEXT-INDENT:2em">
+	其中，宋理宗赵昀在位长达40年，其永穆陵中陪葬宝物最多，其毁坏的程度也最为惨烈。宋理宗的尸体因下葬仅仅15年，且入殓时被水银浸泡，所以尸身还未腐烂，元朝政府纵容的盗墓者便将其尸体从陵墓中脱出，倒悬于陵前树林中以沥取水银，竟然还丧心病狂的把宋理宗脑袋拧断，刮去腐肉，变成光滑滑的头颅，将理宗颅骨镶银涂漆并制作成饮器，送交元朝大都，供元朝帝王饮酒作乐。宋理宗也是历史上最悲催的<a href="http://114.xixik.com/chinese-emperors/" style="color:#000" title="中国皇帝列表">皇帝</a>。</p>
+<p style="TEXT-INDENT:2em">
+	据《宋史》记载，杨琏真伽共挖掘了大大小小墓冢100多个，变卖得到赃款116200锭，购买了土地22000千亩，此外有金银、珠玉、宝器等很多东西。清代《历代陵寝备考》引明代《辍耕录》，说他发掘徽宗陵时，得到了马乌玉笔箱、铜凉拨锈管，高宗陵得到了珍珠戏马鞍，光宗陵得到了交加白齿梳、香骨案，理宗陵得到了伏虎枕、穿云琴、金猫睛，度宗陵得到了玉色藤丝盘、鱼影琼扇柄。</p>
+<p style="TEXT-INDENT:2em">
+	杨琏真伽盗发南宋六陵和徽宗的永祐陵后，将各位帝后曝尸荒野，其后，又捡出帝后的骨骼遗骸，混杂在牛马的骨骼里。为了达到分裂民族的罪恶目的，杨琏真伽还打算将六陵遗骸埋到杭州南宋皇宫内，并在上面建造白色的镇南塔，表示让宋人永世不得翻身。南宋有人哭道：“故宫思见旧冬青，一塔如山塞涕零。领访鱼影香骨案，更从何处哭哭灵。”白塔传说在元朝被雷火击毁，烟火三日方止。</p>
+<p style="TEXT-INDENT:2em">
+	杨琏真伽盗陵后，有两个绍兴义士唐珏和林景熙事先得到消息，冒着生命危险偷偷进入六陵，用动物的骨头调换了皇帝的真骨，分别装入箱子，埋到兰渚山天章寺附近，上面各种一棵冬青树作为标记。明洪武二年（1369），太祖朱元璋下诏将六陵遗骸迁回攒宫，重新立碑植树，划定保护范围，设置护陵机构。从此，荒芜了半个多世纪的宋六陵总算恢复了以前的气象。不过，由于长期战乱，社会经济凋敝，明初的国力十分脆弱，这种经济条件决定明太祖朱元璋不可能投入大量人力、物力去恢复六陵原有的建筑风貌与规模。</p>
+<p style="text-indent: 2em;">
+	位于绍（兴）富（盛）公路北侧的徽宗陵，土墩长8.5米，残高2.6米。由于长年风雨冲刷，土墩上露出当年营建墓室用的巨大条石，这些石料都是就地取材，从兴羊山等地开采来的。在墓地的周围，只要留意一下，还可以见到一些完整的墓砖，也是这座皇陵的原物。</p>
+<p style="text-indent: 2em;">
+	公路南侧是祭陵神道旧址，祭陵神道是历代帝王和官吏拜谒祭祀宋六陵的通道。原来的神道从牌口村后头山山脚开始，经过孟太后陵、高宗陵、孝宗陵、光宗陵、宁宗陵，往北到徽宗陵、理宗陵和度宗陵。上世纪60年代以来，由于在陵区开辟茶园、新修公路，使部分神道遭到破坏。今天，我们见到的只是孟太后陵和高宗陵前面的一段。这段神道长一千米左右，宽约二三米，路面全用平整的鹅卵石铺成。过去道路两边古柏森森，气氛庄严。据说，这批柏树在抗战时期，都被日本侵略者砍去筑防御工事了。现在神道上还能捡到一些破碎的龙泉青瓷碗、青白瓷罐等南宋时期的生活用品，它们已成为这条古道悠久历史的见证。</p>
+<p style="TEXT-INDENT:2em">
+	南宋六陵是<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>上遭遇最凄惨的帝王陵墓，从第一座帝陵建成后不过百年，整个南宋皇陵便遭到了几乎是惨绝人寰的毁灭性的盗掘。直到明初，明太祖朱元璋下令对宋六陵进行修葺，将四散的帝后遗骨分陵重新安葬，并下诏将流失在北方的宋理宗颅骨重新安葬于绍兴南宋陵，同时立碑植松，岁有祭祀。之后的宋六陵依然多灾多难，在清代和汪伪政权时期被多次盗掘。20世纪50年代，六陵中只有孝宗陵、理宗陵，尚存享殿三间，缭以周垣，其余仅存墓冢、墓碑、祭桌。20世纪60年代文革浩劫，墓冢被铲平，墓碑、祭桌被移作他用，宋六陵地面建筑几乎不复存在。现陵区尚有部分墓冢石，而明代重建时种植的作为辨别宋六陵范围标志的几万株松树，也因为台风、白蚁侵蚀和人为砍伐，到今天仅存200余株。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+    </div>
+    <script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        var value = '93';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script>
+    <div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/chinese-emperors/song/" target="_self" title="宋朝皇帝列表_北宋皇帝列表_南宋历代皇帝简介及在位年表_中国历朝帝王大全">宋朝皇帝列表</a></div>
+    <ul style="width: 960px; margin: auto; overflow: hidden;">
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/lixi/"
+                title="人民币存款利率表，2019银行利息，银行存款利率，银行贷款利率">银行存款利息</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chaodai/zhou/"
+                title="周朝历史_西周历史_东周历史_周朝帝王列表">周朝历史</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证更换新政策_过期了该怎么办？">中国旅行证</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国历任总统名单_美国总统简历生卒年份及所属党派">美国历任总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/baijiaxing-qq/"
+                title="百家姓qq头像,百家姓qq头像闪图大全_百家姓中国心qq头像">百家姓QQ头像</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="美宝证件_美宝需要哪些证件（美国出生纸_中国旅行证_美国护照_社会安全号_出生纸三级认证）">美宝需要哪些证件？</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_去美国生孩子费用预算清单2019">赴美生子要多少钱</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/obama/"
+                title="奥巴马_美国总统奥巴马_贝拉克·奥巴马(Barack Hussein Obama)_第44任美国总统">奥巴马</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/trump/"
+                title="美国总统特朗普_唐纳德·约翰·特朗普_Donald John Trump_第45任美国总统川普">特朗普</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_去美国生孩子要多少钱？">赴美生子费用</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 中国护照免签证国家2019">中国护照免签证</a> </li>
+        
+    </ul>
+
+    <div class="lindBox">
+        <div class="btnGray">
+            <div class="btnText">
+                <a target="_self" title="宋朝皇帝列表_北宋皇帝列表_南宋历代皇帝简介及在位年表_中国历朝帝王大全" href="http://news.xixik.com/word/93/">另存为<br />
+                    Word格式</a>
+            </div>
+        </div>
+    </div>
+    <div class="lindBox" style="text-align: center;">
+        <img src="http://news.xixik.com/qrcode/93/" alt="扫码手机上继续看" /><br />
+        <br />
+        <strong>用微信或者支付宝扫码在手机上继续观看<br />
+            可以保存收藏，也扫码后可以分享给好友
+        </strong>
+    </div>
+    <hr style="height: 1px; border: none; border-top: 1px dashed #999;" />
+    <script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script>
+<!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.-->
+
+</body></html>
