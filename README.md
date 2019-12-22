@@ -100,17 +100,21 @@ encyclopedia
     │   ├── 赴美生子利与弊.doc
     │   ├── 赴美生子要多少钱.doc 
     │   └── 美宝需要哪些证件？.doc
-    └── political
-        ├── 建国方略.pdf
-        ├── 孙中山评传.pdf
-        ├── 《孙中山系列合集》.exe
-        ├── 毛泽东选集.exe
-        ├── 邓小平文选.exe
-        ├── 邓小平时代.pdf（https://pan.baidu.com/s/1cEiEzMHjea4wwSdNfovIRQ）
-        ├── 蒋介石日记揭秘（上）.pdf
-        ├── 蒋介石日记揭秘（下）.pdf
-        ├── 周恩来年谱1898-1976.pdf
-        └── 《周恩来传》_[英]迪克·威尔逊+著.pdf
+    ├── political
+    │   ├── 建国方略.pdf
+    │   ├── 《孙中山系列合集》.exe
+    │   ├── 孙中山评传.pdf
+    │   ├── 蒋介石日记揭秘（上）.pdf
+    │   ├── 蒋介石日记揭秘（下）.pdf
+    │   ├── 毛泽东选集.exe
+    │   ├── 邓小平文选.exe
+    │   ├── 邓小平时代.pdf（https://pan.baidu.com/s/1cEiEzMHjea4wwSdNfovIRQ）
+    │   ├── 周恩来年谱1898-1976.pdf
+    │   └── 《周恩来传》_[英]迪克·威尔逊+著.pdf
+    └── religious
+        ├── [圣经（中文、英文原版及NIV朗读版）].新世界.扫描版.zip
+        ├── 《圣经》完整版.txt
+        └── 看过的电影推荐清单.md
 ```
 
 > 资料/地图来源
