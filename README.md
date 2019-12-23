@@ -114,6 +114,7 @@ encyclopedia
     └── religious
         ├── [圣经（中文、英文原版及NIV朗读版）].新世界.扫描版.zip
         ├── 《圣经》完整版.txt
+        ├── Chinese Quran Inside Text.pdf
         └── 看过的电影推荐清单.md
 ```
 
