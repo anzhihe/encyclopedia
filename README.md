@@ -74,6 +74,7 @@ encyclopedia
     │   ├── 世界地形图.jpg
     │   ├── 中国地图高清.jpg
     │   ├── 超高清晰世界地图.jpg
+    │   ├── four_thousand_years_of_world_history.jpg
     │   ├── 世界帝国谱系图.jpg
     │   ├── 世界帝国发展图1.jpg
     │   └── 世界帝国发展图2.jpg
