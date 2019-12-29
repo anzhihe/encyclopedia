@@ -76,8 +76,7 @@ encyclopedia
     │   ├── 超高清晰世界地图.jpg
     │   ├── four_thousand_years_of_world_history.jpg
     │   ├── 世界帝国谱系图.jpg
-    │   ├── 世界帝国发展图1.jpg
-    │   └── 世界帝国发展图2.jpg
+    │   └── 世界帝国发展图.jpeg
     ├── Other
     │   ├── EVUS.doc
     │   ├── IATA代码.doc
@@ -98,6 +97,7 @@ encyclopedia
     │   ├── 近现代世界主要国家政体结构图.ppt
     │   ├── 英法美德资产阶级政体比较.doc
     │   ├── 中美时差对照表.doc
+    │   ├── 世界移民报告_2018.pdf
     │   ├── 赴美生子利与弊.doc
     │   ├── 赴美生子要多少钱.doc 
     │   └── 美宝需要哪些证件？.doc
