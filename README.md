@@ -112,7 +112,7 @@ encyclopedia
     │   ├── 邓小平时代.pdf（https://pan.baidu.com/s/1cEiEzMHjea4wwSdNfovIRQ）
     │   ├── 周恩来年谱1898-1976.pdf
     │   └── 《周恩来传》_[英]迪克·威尔逊+著.pdf
-    └── religious
+    └── religion
         ├── [圣经（中文、英文原版及NIV朗读版）].新世界.扫描版.zip
         ├── 《圣经》完整版.txt
         ├── Chinese Quran Inside Text.pdf
