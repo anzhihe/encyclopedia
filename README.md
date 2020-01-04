@@ -64,6 +64,7 @@ encyclopedia
     │   ├── 中国军队军衔等级.png
     │   ├── 世界各国GDP排名.doc
     │   ├── 印花税税率.doc
+    │   ├── 银行存款利息.doc
     │   ├── 儿童疫苗接种表.docx
     │   ├── 血型遗传规律表.doc
     │   └── 全国车牌归属地查询.doc
@@ -81,15 +82,16 @@ encyclopedia
     ├── Other
     │   ├── EVUS.doc
     │   ├── IATA代码.doc
+    │   ├── 色盲检查图.doc
     │   └── 域名大全.doc
     ├── USA
     │   ├── 美国州名.doc
     │   ├── 美国政体.ppt
     │   ├── 美利坚合众国宪法.doc
     │   ├── 201101-us-legal-system.pdf
-    │   ├── 美国历任总统名单.doc
-    │   ├── 美国副总统.doc
-    │   ├── 美国国务卿.doc
+    │   ├── 美国历任总统名单.docx
+    │   ├── 美国副总统.docx
+    │   ├── 美国国务卿.docx
     │   ├── 特朗普.doc
     │   ├── 美国第一夫人.doc
     │   ├── 美国入境.doc

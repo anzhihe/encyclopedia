@@ -1,0 +1,364 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测</title><link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" /><meta name="description" content="色盲是一种先天性色觉障碍疾病。色觉障碍有多种类型，最常见的是红绿色盲。色盲色弱测试题为您提供色盲色弱自测、色盲色弱自测、色盲测试图、色盲检查图、色盲测试、色弱测试等功能。" /><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/semang/"><meta http-equiv="Cache-Control" content="no-transform" /><meta http-equiv="Cache-Control" content="no-siteapp" /><base target="_blank" /><script>        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "semang/";
+        }
+
+
+    </script><style>        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+            overflow:auto;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style></head><body><a name="top4"></a><div class="topBox" name="top"><div class="topMain"><div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div><div id="icoPhone"></div><div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div><div id="icoWechat"></div><div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a></div><div id="icoSina"></div><div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a></div><div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div><div class="topRight"></div></div></div><div id="showqrCode"><div><span></span></div><img src="" /><div><span></span></div></div><script type="text/javascript">        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script><div class="body"><div class="lindBox" style="position: relative;"><img src="http://img.xixik.net/custom/topic/001/semangseruo.jpg" alt="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测" /><div class="title"><h1>色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测</h1></div></div><div class=" custom_border lindBox"><div class="special_content"><div class="content_text"><div class="content_daodu"></div><h2>色盲检查图</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--><p>	患者缺乏色觉或色觉不全称为色盲，辨色能力低为色弱。中国男色盲率：4.71+-0.074%；女色盲率：0.67+-0.036%；色盲基因携带者的频率：8.98% ，多由遗传致。想知道自己是不是色盲（色弱）？来看一下嘻嘻网提供的<strong><a href="http://114.xixik.com/semang/" title="色盲测试图">色盲测试图</a></strong>吧。提供了一些比较有代表性的色盲检测图，尽量把所有图都看完，看看最终检测到的结果是否相同。如果检测是色弱的话，那么其实对你日常生活不会有什么影响，只有在看一些颜色精准度要求比较高的图片时才会发现存在有色觉异常。</p></div></div></div><div class="lindBox" style="overflow: hidden;"><div class="gg1"><a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a></div><div class="guide"><div class="guideBorder" id="guideBorder"><div class="guideTitle">导读（目录）</div><ul id="guideDisplay"><li>·<a title="什么是色盲色弱？" href="#anchor1" target="_self"> 什么是色盲色弱？</a></li><li>·<a title="色盲色弱假同色图测试" href="#anchor2" target="_self"> 色盲色弱假同色图测试</a></li><li>·<a title="色盲的症状" href="#anchor3" target="_self"> 色盲的症状</a></li><li>·<a title="色盲和色弱的检查方法" href="#anchor4" target="_self"> 色盲和色弱的检查方法</a></li><li>·<a title="高考招生对色盲和色弱的相关规定" href="#anchor5" target="_self"> 高考招生对色盲和色弱的相关规定</a></li><li>·<a title="色盲者优势" href="#anchor6" target="_self"> 色盲者优势</a></li><li>·<a title="色盲色弱检查图" href="#anchor7" target="_self"> 色盲色弱检查图</a></li></ul><div class="guideOpen">展开&darr;</div></div></div><div class="guideFllow"><div class="guideFllowBorder"><div class="guideFllowTitle">导读（目录）</div><ul id="guideFllowDisplay"><li>·<a title="什么是色盲色弱？" href="#anchor1" target="_self"> 什么是色盲色弱？</a></li><li>·<a title="色盲色弱假同色图测试" href="#anchor2" target="_self"> 色盲色弱假同色图测试</a></li><li>·<a title="色盲的症状" href="#anchor3" target="_self"> 色盲的症状</a></li><li>·<a title="色盲和色弱的检查方法" href="#anchor4" target="_self"> 色盲和色弱的检查方法</a></li><li>·<a title="高考招生对色盲和色弱的相关规定" href="#anchor5" target="_self"> 高考招生对色盲和色弱的相关规定</a></li><li>·<a title="色盲者优势" href="#anchor6" target="_self"> 色盲者优势</a></li><li>·<a title="色盲色弱检查图" href="#anchor7" target="_self"> 色盲色弱检查图</a></li></ul><div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div></div></div><div class="gg2"><a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a></div></div><a name="anchor1"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        什么是色盲色弱？</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em"><strong><a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a></strong>是一种先天性色觉障碍疾病，是指缺乏或完全没有辨别色彩的能力。<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>有多种类型，最常见的是红绿<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>。根据三原色学说，可见光谱内任何颜色都可由红、绿、蓝三色组成。如能辨认三原色都为正常人，三种原色均不能辨认都称全<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>。辨认任何一种颜色的能力降低者称<strong>色弱</strong>，主要有红色弱和绿色弱，还有蓝黄色弱。如有一种原色不能辨认都称二色视，主要为红<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>与绿<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>。</p><p style="TEXT-INDENT:2em"><a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>是指缺乏或完全没有辨别色彩的能力。通常说的<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>多是指红绿<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>。面对五色缤纷的世界，人们到底是如何感知它的呢？原来在人的视网膜上有一种感光细胞——锥细胞，它有红、绿、蓝3种感光色素。每一种感光色素主要对一种原色光产生兴奋，而对其余两种原色光产生程度不等的反应。如果某一种色素缺乏，则会产生对此种颜色的感觉障碍，表现为<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>或色弱（辨色力弱）。</p><div class='right_gg'><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- 336x280-114-left --><ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-3849899595029685"
+     data-ad-slot="9973132210"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><p style="TEXT-INDENT:2em"><strong><a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>和色弱的区别</strong></p><p style="TEXT-INDENT:2em">	缺乏色觉或色觉不全称为<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>，辨色能力低为色弱。<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>又可分为全<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>与部分<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>。全<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>极少见，表现为只能分辨明暗，缺乏色觉；部分<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>多为红绿<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>或蓝<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>。红绿<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>表现为只有红色觉或绿色觉，即不能辨别红色与绿色，可能由于缺乏感红视锥细胞或感绿视锥细胞所致。蓝<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>不多见，表现为对绿、黄、红感觉占优势，类似蓝色弱，与感蓝视锥细胞缺乏或稀少有关。<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>有先天性的，也有后天性的。先天性<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>是可遗传的，后天性<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>可由解除病因或补充营养，如增加蛋白质或维生素A、B等而有所改善。色弱除先天性者外，多发生于后天，是由于健康状况不佳而造成的色觉感受机能缺陷所致。表现为辨别红、绿和蓝色的能力低落。后天性色弱可由解除病因或补充营养而改善。</p><p style="TEXT-INDENT:2em">	每一种感光色素主要对一种原色光产生兴奋，而对其余两种原色光产生程度不等的反应。如果某一种色素缺乏，则会产生对此种颜色的感觉障碍，表现为<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>或色弱（辨色力弱）。<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>又分许多不同类型，仅对一种原色缺乏辨别力者，称为单<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>，如红<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>，又称第一<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>，比较多见；绿<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>，称为第二<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>，比第一<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>少些；蓝<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>，即第三<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>，比较少见。如果对两种颜色缺乏辨别力者，称为全<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>，较为罕见。<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>多为先天性遗传所致，少数为视路传导系统障碍所致。一般是女性传递，男性表现。</p><p style="TEXT-INDENT:2em">	理论上全<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>的人的眼里应该只有黑白的，但是事实并非如此，有趣的是红<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>的人照样能分辨出红色信号灯，同样绿<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>的人也能分辨出绿信号灯，这是为什么呢？这是因为单<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>的人对于三原色是能分辨的，但对于如橙色，淡黄等复合色就分不清了。</p></div></div></div><a name="anchor2"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        色盲色弱假同色图测试</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><table border="0" cellpadding="8" cellspacing="1"><tbody><tr><td align="center" bgcolor="#F5F5F5" colspan="2">				若你不幸被测试为<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>或色弱的话，希望你不要悲伤，遗传决定的，通过下面的可以进一步确定为何种色弱。辨色能力判别。</td></tr><tr><td align="center" bgcolor="#FFFFFF"><img src="http://img.xixik.net/custom/topic/xixik_0638783a3db12a03.jpg" /><br /><p onclick="javascript:this.innerHTML=(this.innerHTML=='更多'?'收起':'上图中的 A 读不出为红色色盲。');"><button type="button" >点击我看答案</button></p></td><td align="center" bgcolor="#FFFFFF"><img src="http://img.xixik.net/custom/topic/xixik_4e97a851459319af.jpg" /><br /><p onclick="javascript:this.innerHTML=(this.innerHTML=='更多'?'收起':'上图中的 C 读不出为绿色色盲。');"><button type="button" >点击我看答案</button></p></td></tr><tr><td align="center" bgcolor="#FFFFFF"><img src="http://img.xixik.net/custom/topic/xixik_f8070859fa7a6d67.jpg" /><br />				上图，红绿<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>者中的红<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>者只能找到紫色的线，而绿<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>者只能找到红色的线，但红绿色弱者、正常者则两线都找得到。</td><td align="center" bgcolor="#FFFFFF"><img src="http://img.xixik.net/custom/topic/xixik_520b4789b255ac26.jpg" /><br />				上图，红绿<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>者中的红<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>者能读出&#160;<strong>6&#160;</strong>，而绿<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>者能读出2，但红绿色弱者及正常者则两个字都能读出来。</td></tr><tr><td align="center" bgcolor="#FFFFFF"><img src="http://img.xixik.net/custom/topic/xixik_1f7f177eaa596f9c.jpg" /><br />				上图，正常看应是一幅“<strong>牛</strong>”的图案，如看到的是一头“鹿”，就有可能是<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>或色弱。</td><td align="center" bgcolor="#FFFFFF"><img src="http://img.xixik.net/custom/topic/xixik_5e7238361c695482.jpg" /><br />				上图，正常者能读出&#160;<strong>6&#160;</strong>，红绿<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>者及红绿色弱者读成&#160;<strong>5&#160;</strong>，而全色弱者则全然读不出上述的两个字。</td></tr><tr><td align="center" bgcolor="#FFFFFF"><img src="http://img.xixik.net/custom/topic/xixik_18d4ce2f15d3a066.jpg" /><br />				上图，红绿<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>者及红绿色弱者大多能读成<strong>5</strong>，但全色弱者及正常者则大多都读不出来。</td><td align="center" bgcolor="#FFFFFF"><img src="http://img.xixik.net/custom/topic/xixik_fa7199114d3820b3.jpg" /><br />				上图，红绿<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>者及红绿色弱者容易找到，但正常者及全色弱者大多却找不到。</td></tr></tbody></table><p><a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>色弱测试图：http://114.xixik.com/semang/</p></div></div></div><a name="anchor3"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        色盲的症状</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em"><strong><a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a></strong>又分许多不同类型，仅对一种原色缺乏辨别力者，称为单<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>，如<strong>红<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a></strong>，又称第一<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>，比较多见；<strong>绿<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a></strong>，称为第二<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>，比第一<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>少些；蓝<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>，即第三<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>，比较少见。如果对两种颜色缺乏辨别力者，称为<strong>全<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a></strong>，较为罕见。<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>多为先天性遗传所致，少数为视路传导系统障碍所致。一般是女性传递，男性表现。</p><p style="TEXT-INDENT:2em">	理论上全<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>的人的眼里应该只有黑白的，但是事实并非如此，有趣的是红<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>的人照样能分辨出红色信号灯，同样绿<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>的人也能分辨出绿信号灯，这是为什么呢？这是因为单<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>的人对于三原色是能分辨的，但对于如橙色，淡黄等复合色就分不清了。</p><p style="TEXT-INDENT:2em">	先天性色觉障碍通常称为<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>，它不能分辩自然光谱中的各种颜色或某种颜色。而对颜色的辨别能力差的则称色弱，它与<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>的界限一般不易严格区分，只不过轻重程度不同罢了。<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>又分为全<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>和部分<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>（红<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>、绿<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>、蓝黄<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>等）。色弱包括全色弱和部分色弱（红色弱、绿色弱、蓝黄色弱等）。</p><p style="TEXT-INDENT:2em"><a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>分为全<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>和部分<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>（红<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>，绿<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>，蓝黄<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>等），色弱包括全色弱和部分色弱（红色弱，绿色弱，蓝黄色弱等）。</p><p style="TEXT-INDENT:2em"><strong>1.全<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a></strong></p><p style="TEXT-INDENT:2em">	属于完全性视锥细胞功能障碍，与夜盲（视杆细胞功能障碍）恰好相反，患者尤喜暗，畏光，表现为昼盲，七彩世界在其眼中是一片灰暗，如同观黑白电视一般，仅有明暗之分，而无颜色差别，而且所见红色发暗，蓝色光亮，此外还有视力差，弱视，中心性暗点，摆动性眼球震颤等症状，它是色觉障碍中最严重的一种，患者较少见。</p><p style="TEXT-INDENT:2em"><strong>2.红<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a></strong></p><p style="TEXT-INDENT:2em">	又称第一<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>，患者主要是不能分辨红色，对红色与深绿色，蓝色与紫红色以及紫色不能分辨，常把绿色视为黄色，紫色看成蓝色，将绿色和蓝色相混为白色，曾有一老成持重的中年男子买了件灰色羊毛衫，穿上后招来嘲笑，原来他是位红<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>患者，误红色为灰色，早年还有过报道，一红<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>患者当了火车司机，因看错了信号而造成火车相撞。</p><p style="TEXT-INDENT:2em"><strong>3.绿<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a></strong></p><p style="TEXT-INDENT:2em">	又称第二<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>，患者不能分辨淡绿色与深红色，紫色与青蓝色，紫红色与灰色，把绿色视为灰色或暗黑色，一美术训练班上有位画画得很好的小朋友，总是把太阳绘成绿色，树冠，草地绘成棕色，原来他是绿<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>患者，临床上把红<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>与绿<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>统称为红绿<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>，患者较常见，我们平常说的<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>一般就是指红绿<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>。</p><p style="TEXT-INDENT:2em"><strong>4.蓝黄<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a></strong></p><p style="TEXT-INDENT:2em">	又称第三<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>，患者蓝黄色混淆不清，对红，绿色可辨，较少见。</p><p style="TEXT-INDENT:2em"><strong>5.全色弱</strong></p><p style="TEXT-INDENT:2em">	又称红绿蓝黄色弱，其色觉障碍比全<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>程度要低，视力无任何异常，也无全<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>的其它并发症，在物体颜色深且鲜明时，则能够分辨;若颜色浅而不饱和时，则分辨困难，患者也少见。</p><p style="TEXT-INDENT:2em"><strong>6.部分色弱</strong></p><p style="TEXT-INDENT:2em">	有红色弱（第一色弱），绿色弱（第二色弱）和蓝黄色弱（第三色弱）等，其中红绿色弱较多见，患者对红，绿色感受力差，照明不良时，其辨色能力近于红绿<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>；但物质色深，鲜明且照明度佳时，其辨色能力接近正常。</p></div></div></div><a name="anchor4"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        色盲和色弱的检查方法</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em"><strong><a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>和色弱的检查大多采用主觉检查，一般在较明亮的自然光线下进行，常用检查方法如下</strong></p><p style="TEXT-INDENT:2em">	一、假同色图：通常称为<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>本，它是利用色调深浅程度相同而颜色不同的点组成数字或图形，色觉障碍者辨认困难，错或不能读出，可按照<a style="color:#000" title="色盲" href="http://114.xixik.com/semang/">色盲</a>表规定确认属于何种色觉异常。</p><p style="TEXT-INDENT:2em">	二、色线束试验：是把颜色不同、深浅不同的毛线束混在一起，令被检者挑出与标准线束相同颜色的线束。此法颇费时间，且仅能大概定性不能定量，不适合于大面积的筛选检查。</p><p style="TEXT-INDENT:2em">	三、颜色混合测定器：是Nagel根据红+绿=黄的原理，设计出的一种光谱仪器，它可以定量地记录红绿光匹配所需的量，以判定红绿色觉异常，此法既能定性又能定量。</p></div></div></div><a name="anchor5"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        高考招生对色盲和色弱的相关规定</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	在教育部颁发的普通高校招生体检工作指导意见中，对色觉异常疾病患者报考高校专业有明确规定。</p><p style="TEXT-INDENT:2em">	轻度色觉异常即俗称“色弱”的，规定部分专业“可不予录取”。这些专业包括以颜色波长作为技术标准的化学类、化工与制药类、药学类、生物科学类、公安技术类、地质学类各专业、医学类各专业、生物工程、生物医学工程、动物医学、动物科学、食品科学与工程、农学、园艺、材料化学、水产养殖学、海洋渔业科学与技术、茶学、环境工程、农业资源与环境、学前教育、体育教育等。</p><p style="TEXT-INDENT:2em">	色觉异常II度即俗称“色盲”的，除上述专业“可不予录取”外，还有美术学、博物馆学、应用气象学、艺术设计、材料物理、冶金工程、交通运输、应用物理学、摄影、动画、绘画、地理科学等专业不能录取。 弱、色盲规定不予录取的专业外，还包括经济学类、管理科学与工程类、工商管理类、公共管理类、农业经济管理类、图书档案学类各专业；</p><p style="TEXT-INDENT:2em">	凡不能在显示器上准确识别红、黄、绿、蓝、紫各颜色中任何一种颜色的数码、字母者，不能录取到计算机科学与技术专业。</p></div></div></div><a name="anchor6"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        色盲者优势</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">色盲者亦不无优势。他们在光线较弱时视力较强。据说，在第二次世界大战的时候，色盲者被盟军大量征入伍，因为色盲者对色彩的明暗度的分辨能力非常强，色盲者可以看到敌人穿的保护色与周围环境的色彩明暗度的差别（不知道那时候是不是也用这么难看懂的图来识别是否色弱），从而可以将敌人所在位置指出，这就是为什么色盲的人可以分辨交通红绿灯的道理。另外，色盲者比正常色觉的人更加细心，能看出事物的细微差别。</p><p style="TEXT-INDENT:2em">因此，很多色弱患者还是有驾照，只是在有雾天和其它因素干扰下，会做出比较迟缓的判断，尤其是在复杂交通情况下，需要做快速反应的时候，很多优秀的设计师照样也是色弱者，只是他们的色彩调试能力会被少数人认可。</p><p style="TEXT-INDENT:2em">这个想象印证了那句老话，世界是多姿多彩的，没有一个人眼中的世界是一样的，也就是说，对着同一张画的时候，并不是所有的人都会觉得它美，尤其是在色彩搭配方面。</p></div></div></div><a name="anchor7"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        色盲色弱检查图</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="font-family:arial; text-align: center; margin: auto; width:90%"><tbody><tr><td colspan="4"><strong>色盲、色弱测试图片一</strong></td></tr><tr><td><img src="http://img.xixik.net/custom/topic/xixik_5eaf8bbb30ab699b.png" /></td><td><img src="http://img.xixik.net/custom/topic/xixik_f6ae3fd96b09ed5b.png" /></td></tr><tr><td>				图-1</td><td>				图-2</td></tr><tr><td><img src="http://img.xixik.net/custom/topic/xixik_d4c6b1efc84ab103.png" /></td><td><img src="http://img.xixik.net/custom/topic/xixik_ba24ab752a37ae4b.png" /></td></tr><tr><td>				图-3</td><td>				图-4</td></tr><tr><td><img src="http://img.xixik.net/custom/topic/xixik_41cda73315401e53.png" /></td><td><img src="http://img.xixik.net/custom/topic/xixik_3ec870d36bad73e8.png" /></td></tr><tr><td>				图-5</td><td>				图-6</td></tr><tr><td><img src="http://img.xixik.net/custom/topic/xixik_3395563091c00815.png" /></td><td><img src="http://img.xixik.net/custom/topic/xixik_dc68a058fec4ab4f.png" /></td></tr><tr><td>				图-7</td><td>				图-8</td></tr><tr><td><img src="http://img.xixik.net/custom/topic/xixik_d1c6c75bd5b13267.png" /></td><td><img src="http://img.xixik.net/custom/topic/xixik_7432a58fb89b8552.png" /></td></tr><tr><td>				图-9</td><td>				图-10</td></tr><tr><td><img src="http://img.xixik.net/custom/topic/xixik_adbe3cc72ead012e.png" /></td><td><img src="http://img.xixik.net/custom/topic/xixik_f24a31d4ebe3ce07.png" /></td></tr><tr><td>				图-11</td><td>				图-12</td></tr></tbody></table><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="font-family:arial; text-align: center; margin: auto; width:90%"><tbody><tr><td colspan="4"><strong>色盲、色弱测试一结果</strong></td></tr><tr><td><strong>图号</strong></td><td><strong>色觉正常者辨认结果</strong></td><td><strong>色觉异常者辨认结果</strong></td><td><strong>色觉异常者类型</strong></td></tr><tr><td>				图-1</td><td>				6</td><td>				6</td><td>				&#160;</td></tr><tr><td>				图-2</td><td>				6,9,8</td><td>				&#160;</td><td>				&#160;</td></tr><tr><td>				图-3</td><td>				3,6</td><td>				不能读</td><td>				红色盲</td></tr><tr><td>				图-4</td><td>				6,6</td><td>				不能读</td><td>				红绿色盲</td></tr><tr><td>				图-5</td><td>				6</td><td>				全不能读或部分不能读</td><td>				绿色盲</td></tr><tr><td>				图-6</td><td>				9</td><td>				&#160;</td><td>				&#160;</td></tr><tr><td>				图-7</td><td>				8,0,6</td><td>				不能读</td><td>				红色盲</td></tr><tr><td>				图-8</td><td>				3</td><td>				不能读</td><td>				红色弱</td></tr><tr><td>				图-9</td><td>				5</td><td>				&#160;</td><td>				&#160;</td></tr><tr><td>				图-10</td><td>				6,8,9</td><td>				不能读</td><td>				绿色盲</td></tr><tr><td>				图-11</td><td>				金鱼</td><td>				&#160;</td><td>				&#160;</td></tr><tr><td>				图-12</td><td>				鸭、兔</td><td>				鸭</td><td>				红绿色觉异常</td></tr><tr><td>				图-13</td><td>				A</td><td>				不能读</td><td>				绿色盲</td></tr><tr><td>				图-14</td><td>				C</td><td>				不能读</td><td>				红色盲</td></tr></tbody></table><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="font-family:arial; text-align: center; margin: auto; width:90%"><tbody><tr><td colspan="4"><strong>色盲、色弱测试图片二</strong></td></tr><tr><td><img src="http://img.xixik.net/custom/topic/xixik_7e6b33cbec523aa0.gif" /></td><td><img src="http://img.xixik.net/custom/topic/xixik_74334d1e48bef7d1.gif" /></td></tr><tr><td>				1 6</td><td>				2 9</td></tr><tr><td><img src="http://img.xixik.net/custom/topic/xixik_afcdceff11939ef4.gif" /></td><td><img src="http://img.xixik.net/custom/topic/xixik_a7092c1877c357b5.gif" /></td></tr><tr><td>				正方形、三角形</td><td>				8 1 2</td></tr><tr><td><img src="http://img.xixik.net/custom/topic/xixik_0f2748182fd3623d.gif" /></td><td><img src="http://img.xixik.net/custom/topic/xixik_ae507d3c00da9d88.gif" /></td></tr><tr><td>				8 9 9 0 2 2</td><td>				6 2 8</td></tr><tr><td><img src="http://img.xixik.net/custom/topic/xixik_699209c0f635ddf0.gif" /></td><td><img src="http://img.xixik.net/custom/topic/xixik_ea3fbcee9baf4313.gif" /></td></tr><tr><td>				圆</td><td>				圆2</td></tr><tr><td><img src="http://img.xixik.net/custom/topic/xixik_6bbd8c3591e12959.gif" /></td><td><img src="http://img.xixik.net/custom/topic/xixik_cb3d50869b92f511.gif" /></td></tr><tr><td>				蝴蝶</td><td>				蜻蜓</td></tr><tr><td><img src="http://img.xixik.net/custom/topic/xixik_886901f1a86ff94f.gif" /></td><td><img src="http://img.xixik.net/custom/topic/xixik_8ff108bfbcd0e550.gif" /></td></tr><tr><td>				鸭子</td><td>				狗</td></tr><tr><td><img src="http://img.xixik.net/custom/topic/xixik_e8b8ec3a0b08534b.gif" /></td><td><img src="http://img.xixik.net/custom/topic/xixik_e2052bfb12506786.gif" /></td></tr><tr><td>				五角星</td><td>				燕子</td></tr></tbody></table><br /><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="font-family:arial; text-align: center; margin: auto; width:90%"><tbody><tr><td colspan="4"><strong>色盲、色弱测试图片三</strong></td></tr><tr><td width="50%"><img src="http://img.xixik.net/custom/topic/xixik_1f6cdae12f18e4c2.png" /></td><td width="50%"><img src="http://img.xixik.net/custom/topic/xixik_49f9858b5968d82b.png" /></td></tr><tr><td>				每个人看都应该是12</td><td>				正常色觉的人看到是45，色盲的人看不到任何数字</td></tr><tr><td><img src="http://img.xixik.net/custom/topic/xixik_6b49b8e607d74ca4.png" /></td><td><img src="http://img.xixik.net/custom/topic/xixik_469d8d108c73a2c1.png" /></td></tr><tr><td>				正常色觉的人实际上看不到任何数字，色盲的人很容易看出是5</td><td>				正常色觉的人看到是26，红色盲只能看到 6，绿色盲只能看到2，全色盲什么也看不到</td></tr><tr><td><img src="http://img.xixik.net/custom/topic/xixik_346f626eeba562f5.png" /></td><td><img src="http://img.xixik.net/custom/topic/xixik_bd2cf414d12074c4.jpg" style="width: 154px; height: 154px;" /></td></tr><tr><td>				正常色觉的人看到是29，色盲的人看到是70</td><td><strong><a href="http://114.xixik.com/semang/" title="色盲检查图">色盲色弱测试</a>：</strong><a href="http://114.xixik.com/semang/" title="色盲色弱测试">http://114.xixik.com/semang/</a></td></tr></tbody></table><p>	&#160;</p></div></div></div></div><script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script><script type="text/javascript">        var value = '38';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script><div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/semang/" target="_self" title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a></div><ul style="width: 960px; margin: auto; overflow: hidden;"><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shicha/"
+                title="国际时差查询 - 世界各国主要城市和北京时差对照表">时差</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证更换新政策_过期了该怎么办？">中国旅行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangye/"
+                title="2017最新国民经济行业分类与代码（GB/4754-2017）,国民经济行业分类标准">国民经济行业分类与代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国总统_美国历任总统名单_美国总统简历生卒年份及所属党派">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chicun/"
+                title="服装尺寸对照表_男士服装尺寸对照表_中国女装尺寸对照表_美版服装尺码换算">服装尺寸对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country/"
+                title="全世界有多少个国家和地区？_世界上国家和地区一览表">全世界国家和地区</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-flag/"
+                title="世界各国国旗大全 - 世界各国国旗一览表,国旗图片下载">世界各国国旗大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/festival/"
+                title="节日大全_2020年法定节假日安排">节日大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/72hou/"
+                title="月令七十二候集解_二十四节气">月令七十二候集解</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-visa/"
+                title="赴美生子诚实签攻略_赴美生子诚实签的好处_赴美生子为什么要诚实签">赴美生子诚实签攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-spending/"
+                title="赴美生子价格_去美国生孩子多少钱_费用清单">赴美生子价格</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-baoxian/"
+                title="赴美生子保险_去美国生宝宝生育险_孕中险">赴美生子保险</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-hospital/"
+                title="赴美生子医院_洛杉矶医院_洛杉矶接待华人孕妇医院价目和详细情况一览表">赴美生子医院</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-doctor/"
+                title="赴美生子医生_洛杉矶医生_赴美生子华人医生_赴美生子医生介绍">赴美生子医生</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-living/"
+                title="赴美生子选择月子中心还是DIY_去美国生孩子选择月子中心还是DIY_赴美生子DIY攻略">月子中心还是DIY</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="美宝证件_美宝需要哪些证件（美国出生纸_中国旅行证_美国护照_社会安全号_出生纸三级认证）">美宝需要哪些证件？</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-passport-ds11/"
+                title="美宝美国护照申请更新_DS-11怎么填图文">美国护照申请</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_去美国生孩子费用预算清单2020">赴美生子要多少钱</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/university/"
+                title="中国大学名单_2019年全国高等学校名单（截至2019年6月15日）">中国大学名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/ranking/"
+                title="美国总统排名_美国总统历史排名_美国最伟大的总统排行榜">美国总统排行榜</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/size/"
+                title="服装尺寸对照表_裤子尺寸_男装尺寸_女装尺寸_裙子尺寸">服装尺寸</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-uk-time-zone/"
+                title="中英时差对照表,现在英国几点?中国和英国时差怎么算?现在英国时间是几点?">中英时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_去美国生孩子要多少钱？">赴美生子费用</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 最新中国护照免签国家一览2020">中国护照免签证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-passport/"
+                title="美国护照 - 美国护照上写的什么,美国护照免签证国家">美国护照</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/henley-passport-index/"
+                title="亨氏护照指数 - 亨氏护照受限制数2019">亨氏护照指数</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-process/"
+                title="赴美生子流程 - 干货！超详细的赴美生子流程攻略2019！">赴美生子流程</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-best/"
+                title="赴美生子机构哪家好？_合法的赴美生子机构">赴美生子机构哪家好</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-regret/"
+                title="2019生个美国孩子后悔了_后悔在美国生孩子_赴美生子利与弊">生个美国宝宝后悔了揭秘</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/visa/"
+                title="美国签证_美国签证DS-160表格在线填写_美国签证预约面谈_在线缴费">美国签证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/titanic/"
+                title="泰坦尼克号沉没的真相_历史真实故事_泰坦尼克号电影_嘻嘻网">泰坦尼克号</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-flight/"
+                title="赴美生子航班怎么选_赴美航班信息大全">赴美生子航班</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/exit-and-entry-premit/"
+                title="出入境通行证_一次性出入境通行证_中华人民共和国出入境通行证">出入境通行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-prosandcons/"
+                title="赴美生子利弊_赴美生子的优势和弊端_生美籍宝宝的好处和坏处">赴美生子好处和弊端</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-born/"
+                title="赴美产子_赴美生子_去美国生孩子">赴美产子</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/14th-amendment/"
+                title="美国宪法修正案第十四条">美国宪法修正案第14条</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/greatest/"
+                title="美国最伟大的总统_美国总统排行榜">美国最伟大的总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-states/13states/"
+                title="美国13个州_北美13个殖民地_美国建国时的13个州">美国13个州</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qs2020/"
+                title="2020年QS世界大学排名_世界大学排行榜">QS世界大学排行榜</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/born-usbaby/"
+                title="去美国生孩子_去美国生孩子多少钱">去美国生孩子</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/amendments/"
+                title="美国宪法修正案_Amendments to the Constitution">美国宪法修正案</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/the-world-university-rankings/"
+                title="2020年泰晤士报世界大学排名_2020年THE世界大学排名">泰晤士世界大学排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ssn/"
+                title="美国社安号SSN_美国社安卡_美国社会安全号码">社会安全号码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/declaration-of-independence/"
+                title="《美国独立宣言》（The Declaration of Independence）">独立宣言</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/birth-certificate/"
+                title="美国出生纸（Birth Certificate）_美国出生纸三级认证">美国出生纸</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-living-cost/"
+                title="美国月子中心费用_赴美生子费用">美国月子中心费用</a></li></ul><div class="lindBox"><div class="btnGray"><div class="btnText"><a target="_self" title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测" href="http://news.xixik.com/word/38/">另存为<br />                    Word格式</a></div></div></div><div class="lindBox" style="text-align: center;"><img src="http://news.xixik.com/qrcode/38/" alt="扫码手机上继续看" /><br /><br /><strong>用微信或者支付宝扫码在手机上继续观看<br />            可以保存收藏，也扫码后可以分享给好友
+        </strong></div><hr style="height: 1px; border: none; border-top: 1px dashed #999;" /><script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script><!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.--></body></html>
