@@ -1,3 +1,5 @@
+> 漫漫人生路，赠予有缘人。
+
 ```
 encyclopedia
 ├── README.md
