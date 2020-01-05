@@ -58,7 +58,6 @@ encyclopedia
     │   ├── 中国护照免签证.doc
     │   ├── 出入境通行证.doc
     │   ├── 中国绿卡.doc
-    │   ├── 国家和地区代码表.doc
     │   ├── 国民经济行业分类新旧对照表.doc
     │   ├── 国民经济行业分类.doc
     │   ├── 中国政府组织结构图.ppt
@@ -72,7 +71,6 @@ encyclopedia
     │   ├── 个人所得税计算器.doc
     │   ├── 中国大学名单.doc
     │   ├── 儿童疫苗接种表.docx
-    │   ├── 血型遗传规律表.doc
     │   └── 全国车牌归属地查询.doc
     ├── Map
     │   ├── 世界地图-放大.jpg
@@ -85,6 +83,9 @@ encyclopedia
     │   ├── four_thousand_years_of_world_history.jpg
     │   ├── 全世界国家和地区.doc
     │   ├── 世界各国国旗大全.doc
+    │   ├── 时差.doc
+    │   ├── 国家和地区代码表.doc
+    │   ├── 世界各国国旗大全.doc
     │   ├── 世界帝国谱系图.jpg
     │   └── 世界帝国发展图.jpeg
     ├── Other
@@ -96,6 +97,7 @@ encyclopedia
     │   ├── 泰晤士世界大学排名.doc
     │   ├── 服装尺寸对照表.doc
     │   ├── 色盲检查图.doc
+    │   ├── 血型遗传规律表.doc
     │   └── 域名大全.doc
     ├── USA
     │   ├── 独立宣言.doc

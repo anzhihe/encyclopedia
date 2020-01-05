@@ -1,0 +1,1338 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>国际时差查询 - 世界各国主要城市和北京时差对照表</title><link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" /><meta name="description" content="国际时差查询 - 世界各国主要城市和北京时差对照表，换算方法。世界时差查询收录了全球各主要城市时差信息，例如中美时差、中英时差等。时差英文：Time Differences (between places of different time zones)" /><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/shicha/"><meta http-equiv="Cache-Control" content="no-transform" /><meta http-equiv="Cache-Control" content="no-siteapp" /><base target="_blank" /><script>        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "shicha/";
+        }
+
+
+    </script><style>        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+            overflow:auto;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style></head><body><a name="top4"></a><div class="topBox" name="top"><div class="topMain"><div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div><div id="icoPhone"></div><div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div><div id="icoWechat"></div><div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a></div><div id="icoSina"></div><div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a></div><div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div><div class="topRight"></div></div></div><div id="showqrCode"><div><span></span></div><img src="" /><div><span></span></div></div><script type="text/javascript">        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script><div class="body"><div class="lindBox" style="position: relative;"><img src="http://img.xixik.net/custom/topic/001/shicha.jpg" alt="国际时差查询 - 世界各国主要城市和北京时差对照表" /><div class="title"><h1>国际时差查询 - 世界各国主要城市和北京时差对照表</h1></div></div><div class=" custom_border lindBox"><div class="special_content"><div class="content_text"><div class="content_daodu"></div><h2>时差</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--><p>	中国与世界时间对照表，罗列世界主要城市与北京时差对照表，例如美国和中国的时差、中国与英国时差。能够对采用夏令时或夏时制的城市自动进行调整，以确保时间实时同步。如果您正在使用计算机的日期或时间数据有误，将导致本表数据存在同样误差。</p></div></div></div><div class="lindBox" style="overflow: hidden;"><div class="gg1"><a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a></div><div class="guide"><div class="guideBorder" id="guideBorder"><div class="guideTitle">导读（目录）</div><ul id="guideDisplay"><li>·<a title="时差" href="#anchor1" target="_self"> 时差</a></li><li>·<a title="世界主要城市现在时间" href="#anchor2" target="_self"> 世界主要城市现在时间</a></li><li>·<a title="世界主要城市与北京时差表" href="#anchor3" target="_self"> 世界主要城市与北京时差表</a></li><li>·<a title="国际时差对照表" href="#anchor4" target="_self"> 国际时差对照表</a></li><li>·<a title="世界时差对照表" href="#anchor5" target="_self"> 世界时差对照表</a></li><li>·<a title="中国有没有时差？" href="#anchor6" target="_self"> 中国有没有时差？</a></li><li>·<a title="美国各州时区列表" href="#anchor7" target="_self"> 美国各州时区列表</a></li><li>·<a title="2018年各国夏令时开始时间 " href="#anchor8" target="_self"> 2018年各国夏令时开始时间 </a></li></ul><div class="guideOpen">展开&darr;</div></div></div><div class="guideFllow"><div class="guideFllowBorder"><div class="guideFllowTitle">导读（目录）</div><ul id="guideFllowDisplay"><li>·<a title="时差" href="#anchor1" target="_self"> 时差</a></li><li>·<a title="世界主要城市现在时间" href="#anchor2" target="_self"> 世界主要城市现在时间</a></li><li>·<a title="世界主要城市与北京时差表" href="#anchor3" target="_self"> 世界主要城市与北京时差表</a></li><li>·<a title="国际时差对照表" href="#anchor4" target="_self"> 国际时差对照表</a></li><li>·<a title="世界时差对照表" href="#anchor5" target="_self"> 世界时差对照表</a></li><li>·<a title="中国有没有时差？" href="#anchor6" target="_self"> 中国有没有时差？</a></li><li>·<a title="美国各州时区列表" href="#anchor7" target="_self"> 美国各州时区列表</a></li><li>·<a title="2018年各国夏令时开始时间 " href="#anchor8" target="_self"> 2018年各国夏令时开始时间 </a></li></ul><div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div></div></div><div class="gg2"><a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a></div></div><a name="anchor1"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        时差</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em"><strong>全球划分为24个时区</strong></p><p style="TEXT-INDENT:2em">	时区是地球上的区域使用同一个时间定义。以前，人们通过观察太阳的位置（时角）决定时间，这就使得不同经度的地方的时间有所不同（地方时）。时区通过设立一个区域的标准时间部分地解决了这个问题。世界各个国家位于地球不同位置上，因此不同国家的日出、日落时间必定有所偏差。这些偏差就是所谓的<a href="http://114.xixik.com/shicha/" style="color:#000" title="时差">时差</a>。</p><p style="TEXT-INDENT:2em">	理论时区以被15整除的子午线为中心，向东西两侧延伸7.5度，即每15&deg;划分一个时区，这是理论时区。理论时区的时间采用其中央经线（或标准经线）的地方时。所以每差一个时区，区时相差一个小时，相差多少个时区，就相差多少个小时。东边的时区比西边的时区时间来得早。为了避免日期的紊乱，提出国际日期变更线的概念。但是，为了避开国界线，有的时区的形状并不规则，而且比较大的国家以国家内部行政分界线为时区界线，这是实际时区，即法定时区。</p><p><img src="http://img.xixik.net/custom/section/shicha/xixik-73d1d5e629e1eb55.jpg" style="text-indent: 28px; margin: 10px; float: right; width: 400px;" /></p><p style="TEXT-INDENT:2em">	地球是自西向东自转，东边比西边先看到太阳，东边的时间也比西边的早。东边时刻与西边时刻的差值不仅要以时计，而且还要以分和秒来计算，这给人们带来不便。时区（Time Zone）是地球上的区域使用同一个时间定义。所以为了克服时间上的混乱，1884年在华盛顿召开的一次国际经度会议（又称国际子午线会议）上，规定将全球划分为24个时区（东、西各12个时区）。规定英国（格林尼治天文台旧址）为中时区（零时区）、东1-12区，西1-12区。每个时区横跨经度15度，时间正好是1小时。最后的东、西第12区各跨经度7.5度，以东、西经180度为界。每个时区的中央经线上的时间就是这个时区内统一采用的时间，称为区时，相邻两个时区的时间相差1小时。例如，中国东8区的时间总比泰国东7区的时间早1小时，而比日本东9区的时间迟1小时。因此，出国旅行的人，必须随时调整自己的手表，才能和当地时间相一致。凡向西走，每过一个时区，就要把表拨慢1小时（比如2点拨到1点）；凡向东走，每过一个时区，就要把表拨快1小时（比如1点拨到2点）。并且规定英国（格林尼治天文台旧址）为本初子午线，即零时（24时）经线。</p><p style="TEXT-INDENT:2em"><strong>格林威治标准时间</strong>（GMT, Greenwich Mean Time）</p><p style="TEXT-INDENT:2em">	格林威治标准时间是指位于英国伦敦郊区的皇家格林威治天文台的标准时间，因为本初子午线被定义在通过那里的经线。</p><p style="TEXT-INDENT:2em">	理论上来说，格林威治标准时间的正午是指当太阳横穿格林威治子午线时（也就是在格林威治上空最高点时）的时间。</p><p style="TEXT-INDENT:2em">	由于地球在它的椭圆轨道里的运动速度不均匀，这个时刻可能和实际的太阳时相差16分钟。</p><p style="TEXT-INDENT:2em">	地球每天的自转是有些不规则的，而且正在缓慢减速。所以，格林威治时间已经不再被作为标准时间使用。</p><p style="TEXT-INDENT:2em">	自1924年2月5日开始，格林威治天文台每隔一小时会向全世界发放调时信息。</p><p style="TEXT-INDENT:2em">	现在的标准时间- 协调世界时（UTC: Coordinated Universal Time）- 由原子钟提供。</p><p style="TEXT-INDENT:2em">	当地的标准时间：GMT : Greenwich Mean Time格林威治标准时间，例如台北为GMT + 8也就是台北的时区为格林威治标准时间+ 8个小时。</p><p style="TEXT-INDENT:2em">	当地的夏令时间：DST: Daylight Saving Time是指该地区正在施行日光节约的Summer Time夏令时间，也就是当地标准时间+ 1个小时。</p><p style="TEXT-INDENT:2em"><strong>经纬度与本初子午线</strong></p><p style="TEXT-INDENT:2em">	经度（ Longitude ）是地球上一个地点离一根被称为「本初子午线」的南北方向走线以东或以西的度数。本初子午线的经度是0&deg;，地球上其它地点的经度是向东到180&deg;或向西到180&deg;。本初子午线，即0度经线，亦称格林威治子午线或格林尼治子午线，是位于英国格林威治天文台的一条经线（亦称子午线）。本初子午线的东西两边分别定为东经记为「E」和西经记为「W」，于180度相遇。</p><p style="TEXT-INDENT:2em">	本初子午线除了定义经度，格林威治子午线亦被用作时间的标准。理论上来说，格林威治标准时间的正午是指当太阳横穿格林威治子午线时的时间。</p><p style="TEXT-INDENT:2em">	纬度（ latitude ） 是指某点与地球球心的连线和地球赤道面所成的线面角，其数值在0至90度之间。位于赤道以北的点的纬度叫北纬记为「N」，位于赤道以南的点的纬度称南纬，记为「S」。</p><p style="TEXT-INDENT:2em"><a href="http://www.xixik.com/content/a8db9b618592a86a" style="color:#000;" title="国际日期变更线"><strong>国际日期变更线</strong></a></p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/custom/section/shicha/xixik-cd7d08a4ff6bce9c.jpg" style="margin: 10px; float: left; width: 200px;" /></p><p style="TEXT-INDENT:2em">	地球每天自西向东旋转，黎明、正午、黄昏和子夜，（从地球南极点来看，也是自西向东，顺时针旋转）依次周而复始地在世界各地循环出现。地球上新的一天究竟应该从哪里开始，到哪里结束呢？关于这个问题，历史上曾有不少争论，也产生过不少的误会和麻烦。据说，19世纪在俄国伊尔库茨克附近一个小镇上有个邮政官于9月1日早上7点钟给芝加哥邮局拍了一份电报，可回电却说&ldquo;8月31日9时28分收到来电&hellip;&hellip;&rdquo;这让人简直莫名其妙，9月里拍的电报，怎么会在8月里收到的呢？类似这样的误会那时几乎天天发生。混乱的原因在于地方时的运用。因此，迫切需要规范建立日期变更制度，实现以方便各地方人民生活的地方时计时，避免带来的全球计时混乱。</p><p style="TEXT-INDENT:2em">	1884年国际经度会议上人为规定太平洋中的180&deg;经线为&ldquo;<strong style="text-indent: 2em;">国际日期变更线</strong>&rdquo;（International Date Line），作为地球上&ldquo;今天&rdquo;和&ldquo;昨天&rdquo;的分界线。当你由西向东跨越国际日期变更线时，必须在你的计时系统中减去一天；反之，由东向西跨越国际日期变更线，就必须加上一天。也就是作为地球上&ldquo;今天&rdquo;和&ldquo;昨天&rdquo;的分界线。如果你觉得不好记，那么换个方式来说吧，就是从中国跨太平洋到美国去，日期减一天，从美国回到中国，日期加一天。</p><p style="TEXT-INDENT:2em">	这条穿过太平洋180度经线的&ldquo;国际日期变更线&rdquo;，实际上不完全和180度经线重合，而是一条大致沿着180度经线的折线，这是为什么呢？为了方便地方生活，避开了一些<a href="http://114.xixik.com/country/" style="color:#000" title="国家和地区">国家和地区</a>，这是为了使它们不致分成两个日期，因此是有三个曲折的曲线。它北起北极，通过白令海峡，太平洋，直到南极。这样日界线就尽量少穿过国家。</p><p style="TEXT-INDENT:2em">	国际日期变更线的拐弯大致是：第一处在俄罗斯东部即白令海峡，第二处在美国的阿拉斯加地区、阿留申群岛，第三处在南太平洋，向东突出，让斐济群岛等属于东十二区（即东西十二区的西部）。</p><p style="TEXT-INDENT:2em">	由于国际日期变更线的存在，那么在地球上就存在着最早迎来新的一天和最晚迎来新的一天的地区，最早迎来新的一天的地方为国际日期变更线以西的地区，包括汤加、新西兰、澳大利亚等国。最晚迎来新的一天的地方为国际日期变更线以东的地区，包括美国的阿拉斯加、加拿大等地区。美国的阿图岛位于东经173度附近，在国际日期变更线的东侧的最西端，所以应该是世界上最后进入新年的地区。</p><p style="TEXT-INDENT:2em">	大洋洲的汤加岛位于日界线的西侧，它是世界上最先进入新年元旦的地方，也是最先庆贺元旦的国家，而位于日界线东侧的西萨摩亚则是世界上最迟庆贺元旦的地方，他们虽然相距不过二三千米，但日期始终相差整整一天。</p><p style="TEXT-INDENT:2em">	基里巴斯是唯一地跨赤道、横越国际日期变更线的国家，所以它也是世界上最早迎接太阳的国家。</p><p style="TEXT-INDENT:2em">	基里巴斯是太平洋中部的一个岛国，位于北纬4&deg;43&prime;～11&deg;25&prime;，东经169&deg;32&prime;～西经150&deg;35&prime;，跨南北两半球，地跨东西半球。由33个岛屿组成，分属吉尔伯特群岛、大洋岛、菲尼克斯群岛、莱恩群岛。岛群，东西长3870公里，南北宽2050公里，散布在约500万平方公里的海面上，是世界上国土分布最分散的国家。</p><p style="TEXT-INDENT:2em"><strong>位置更变</strong></p><p style="TEXT-INDENT:2em">	1995年1月1日，太平洋中部岛国基里巴斯当局修订国际日期变更线到其水域东边界限，令划在UTC-11时区的凤凰群岛（Phoenix Islands）和UTC-10时区的莱恩群岛（Line Islands）分别改用UTC+13和UTC+14时间，即比夏威夷时间早一整天，以消除与首都塔拉瓦慢22小时至23小时的不便。</p><p style="TEXT-INDENT:2em">	2011年12月29日，萨摩亚和托克劳把时区从国际日期变更线以东调整到国际日期变更线以西。变动的结果使两国失去12月30日（星期五），直接从12月29日（星期四）进入12月31日（星期六）。变更的目的是为了加强与澳大利亚，新西兰和亚洲的经济交流，与这些地区时间同步。当地居民自12月31日零时起展开庆祝活动，迎接&ldquo;提早&rdquo;到来的新年。西萨摩亚的酒店顾客毋须缴付12月30日房租，惟当天工资仍须发出。但此举扰乱居民生活，西萨摩亚基督复临安息日会信徒以后须在星期日进行礼拜，而非星期六。萨摩亚群岛在1892年7月4日前设定于国际日期变更线西侧，与西太平洋地区同步。在执行日光节约时间期间，西萨摩亚时间更较协调世界时快14小时，但由于美属萨摩亚却未有跟随，此举将导致萨摩亚群岛出现一整日时差。</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/custom/section/shicha/xixik-9f4e99c8b073f947.jpg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em"><strong>时区并不严格按照经度</strong></p><p style="TEXT-INDENT:2em">	实际上，世界上不少<a href="http://114.xixik.com/country/" style="color:#000" title="国家和地区">国家和地区</a>都不严格按时区来计算时间。但为了在全国范围内采用统一的时间，一般都把某一个时区的时间作为全国统一采用的时间。例如，中国把首都北京所在的东8区的时间作为全国统一的时间，称为北京时间。又例如，法国、荷兰和比利时等国，虽然地处中时区，但为了和欧洲大多数国家时间相一致，则采用东1区的时间。</p><p style="TEXT-INDENT:2em">	地方时：随地球自转，一天中太阳东升西落，太阳经过某地天空的最高点时为此地的地方时 12点，因此，不同经线上具有不同的地方时。同一时区内所用的同一时间是区时（本区中央经线上的地方时），全世界所用的同一时间是世界时（0度经线的地方时）。</p><p style="TEXT-INDENT:2em">	各地的标准时间为格林威治时间（G.M.T）加上 （+） 或减去 （-） 时区中所标的小时和分钟数<a href="http://114.xixik.com/shicha/" style="color:#000" title="时差">时差</a>。许多国家还采用夏令时（DST）， 比如美国每年4月到9月实行夏令时，时间提前一个小时。</p><p style="TEXT-INDENT:2em"><a href="http://114.xixik.com/shicha/" style="color:#000" title="时差">时差</a>的计算方法：两个时区标准时间（即时区数）相减就是<a href="http://114.xixik.com/shicha/" style="color:#000" title="时差">时差</a>，时区的数值大的时间早。比如中国是东八区（+8），美国东部是西五区（-5），两地的<a href="http://114.xixik.com/shicha/" style="color:#000" title="时差">时差</a>是13小时，北京比纽约要早13个小时；如果是美国实行夏令时的时期，相差12小时。</p><p style="text-indent: 2em; text-align: center;"><strong>全球24个时区对应的经度</strong></p><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%"><tbody><tr><th>				时区</th><th>				时区范围</th><th>				时区中心线</th></tr><tr><td>				中时区</td><td>				7.5&deg;W~7.5&deg;E</td><td>				0&deg;</td></tr><tr><td>				东一区</td><td>				7.5&deg;E~22.5&deg;E</td><td>				15&deg;E</td></tr><tr><td>				东二区</td><td>				22.5&deg;E~37.5&deg;E</td><td>				30&deg;E</td></tr><tr><td>				东三区</td><td>				37.5&deg;E~52.5&deg;E</td><td>				45&deg;E</td></tr><tr><td>				东四区</td><td>				52.5&deg;E~67.5&deg;E</td><td>				60&deg;E</td></tr><tr><td>				东五区</td><td>				67.5&deg;E~82.5&deg;E</td><td>				75&deg;E</td></tr><tr><td>				东六区</td><td>				82.5&deg;E~97.5&deg;E</td><td>				90&deg;E</td></tr><tr><td>				东七区</td><td>				97.5&deg;E~112.5&deg;E</td><td>				105&deg;E</td></tr><tr><td>				东八区</td><td>				112.5&deg;E~127.5&deg;E</td><td>				120&deg;E</td></tr><tr><td>				东九区</td><td>				127.5&deg;E~142.5&deg;E</td><td>				135&deg;E</td></tr><tr><td>				东十区</td><td>				142.5&deg;E~157.5&deg;E</td><td>				150&deg;E</td></tr><tr><td>				东十一区</td><td>				157.5&deg;E~172.5&deg;E</td><td>				165&deg;E</td></tr><tr><td>				东西十二区</td><td>				172.5&deg;E~172.5&deg;W</td><td>				180&deg;</td></tr><tr><td>				西十一区</td><td>				172.5&deg;W~157.5&deg;W</td><td>				165&deg;W</td></tr><tr><td>				西十区</td><td>				157.5&deg;W~142.5&deg;W</td><td>				150&deg;W</td></tr><tr><td>				西九区</td><td>				142.5&deg;W~127.5&deg;W</td><td>				135&deg;W</td></tr><tr><td>				西八区</td><td>				127.5&deg;W~112.5&deg;W</td><td>				120&deg;W</td></tr><tr><td>				西七区</td><td>				112.5&deg;W~97.5&deg;W</td><td>				105&deg;W</td></tr><tr><td>				西六区</td><td>				97.5&deg;W~82.5&deg;W</td><td>				90&deg;W</td></tr><tr><td>				西五区</td><td>				82.5&deg;W~67.5&deg;W</td><td>				75&deg;W</td></tr><tr><td>				西四区</td><td>				67.5&deg;W~52.5&deg;W</td><td>				60&deg;W</td></tr><tr><td>				西三区</td><td>				52.5&deg;W~37.5&deg;W</td><td>				45&deg;W</td></tr><tr><td>				西二区</td><td>				37.5&deg;W~22.5&deg;W</td><td>				30&deg;W</td></tr><tr><td>				西一区</td><td>				22.5&deg;W~7.5&deg;W</td><td>				15&deg;W</td></tr></tbody></table><p><strong>世界时区对照表：</strong><a href="http://114.xixik.com/shicha/">http://114.xixik.com/shicha/</a></p></div></div></div><a name="anchor2"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        世界主要城市现在时间</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'>
+<script type="text/javascript" src="/shicha/js/world.js?v=2018"></script>
+
+	<FORM method=post name=clock>
+    </FORM>
+      <P style="LINE-HEIGHT: 100%" aglin="center"><FONT color=#000080><MAP name=Map><AREA coords=380,84,433,117 onclick=worldtime(12); shape=RECT><AREA coords=361,14,401,82 onclick=worldtime(11); shape=RECT><AREA coords=330,20,362,132 onclick=worldtime(10); 
+shape=RECT><AREA coords=296,80,329,132 onclick=worldtime(9); shape=RECT><AREA coords=283,4,328,79 onclick=worldtime(9); shape=RECT><AREA coords=99,31,93,75,106,75,107,32 onclick=worldtime(2); shape=POLY><AREA coords=69,105,59,27,101,27,92,105 onclick=worldtime(1); shape=POLY><AREA coords=332,227,350,279 onclick=worldtime(9); shape=RECT><AREA coords=308,244,331,283 onclick=worldtime(8); shape=RECT><AREA coords=393,251,441,328 onclick=worldtime(11); shape=RECT><AREA coords=404,12,459,54,405,88 onclick=worldtime(12); shape=POLY><AREA coords=395,341,449,390 onclick=worldtime(12); shape=RECT><AREA coords=350,251,392,377 onclick=worldtime(10); shape=RECT><AREA coords=325,281,350,358 onclick=worldtime(9.5); shape=RECT><AREA coords=303,133,362,169 onclick=worldtime(9); shape=RECT><AREA coords=288,291,324,360 onclick=worldtime(8); shape=RECT><AREA coords=278,187,341,227 onclick=worldtime(8); shape=RECT><AREA coords=249,168,326,187 onclick=worldtime(8); shape=RECT><AREA coords=219,3,280,78 onclick=worldtime(7); shape=RECT><AREA coords=219,80,302,168 onclick=worldtime(8); shape=RECT><AREA coords=256,241,308,260 onclick=worldtime(8); shape=RECT><AREA coords=256,262,305,286 onclick=worldtime(7); shape=RECT><AREA coords=271,226,320,242 onclick=worldtime(7); shape=RECT><AREA coords=240,208,279,225 onclick=worldtime(7); shape=RECT><AREA coords=198,169,249,184 onclick=worldtime(6); shape=RECT><AREA coords=237,186,268,207 onclick=worldtime(6); shape=RECT><AREA coords=197,232,249,252 onclick=worldtime(6); shape=RECT><AREA coords=190,183,238,230 onclick=worldtime(5.5); shape=RECT><AREA coords=158,173,188,191 onclick=worldtime(5); shape=RECT><AREA coords=163,154,216,169 onclick=worldtime(5); shape=RECT><AREA coords=174,138,216,154 onclick=worldtime(4.5); shape=RECT><AREA coords=163,133,173,154 onclick=worldtime(4); shape=RECT><AREA coords=123,160,165,172 onclick=worldtime(3.5); shape=RECT><AREA coords=160,3,216,32 onclick=worldtime(5); shape=RECT><AREA coords=177,33,219,137 onclick=worldtime(5); shape=RECT><AREA coords=111,36,172,76 onclick=worldtime(3); shape=RECT><AREA coords=137,78,176,132 onclick=worldtime(3); shape=RECT><AREA coords=140,190,182,194,214,317,156,342,144,313 onclick=worldtime(3); shape=POLY><AREA coords=121,171,157,185 onclick=worldtime(3); shape=RECT><AREA coords=641,293,684,374 onclick=worldtime(-4); shape=RECT><AREA coords=55,193,109,294 onclick=worldtime(1); shape=RECT><AREA coords=45,157,96,179 onclick=worldtime(1); shape=RECT><AREA coords=55,296,109,361 onclick=worldtime(2); shape=RECT><AREA coords=110,196,140,363 onclick=worldtime(2); shape=RECT><AREA coords=97,161,121,192 onclick=worldtime(2); shape=RECT><AREA coords=95,133,162,160 onclick=worldtime(2); shape=RECT><AREA coords=95,77,134,134 onclick=worldtime(2); shape=RECT><AREA coords=38,106,96,157 onclick=worldtime(1); shape=RECT><AREA coords=14,178,81,193 onclick=worldtime(0); shape=RECT><AREA coords=53,242,52,201,52,195,14,193,12,245 onclick=worldtime(0); shape=POLY><AREA coords=41,50,68,91,67,106,3,108,4,83 onclick=worldtime(0); shape=POLY><AREA coords=755,151,17 onclick=worldtime(-3.5); shape=CIRCLE><AREA coords=684,291,763,372 onclick=worldtime(-3); shape=RECT><AREA coords=432,5,464,5,461,50 onclick=worldtime(-12); shape=POLY><AREA coords=461,62,453,165,431,136,439,78 onclick=worldtime(-12); shape=POLY><AREA coords=433,155,436,254,416,233,416,155 onclick=worldtime(-12); shape=POLY><AREA coords=467,5,493,5,493,23,467,33 onclick=worldtime(-11); shape=POLY><AREA coords=461,111,480,110,480,175,458,174 onclick=worldtime(-11); shape=POLY><AREA coords=444,200,468,204,467,248,443,244 onclick=worldtime(-11); shape=POLY><AREA coords=442,304,464,304,465,367,450,343,440,340 onclick=worldtime(-11); shape=POLY><AREA coords=438,171,498,182,500,211,438,195 onclick=worldtime(-10); shape=POLY><AREA coords=470,209,497,369 onclick=worldtime(-10); 
+shape=RECT><AREA coords=483,101,498,177 onclick=worldtime(-10); shape=RECT><AREA coords=493,26,465,41,464,101,499,93 onclick=worldtime(-9); shape=POLY><AREA coords=497,5,524,35 onclick=worldtime(-9); shape=RECT><AREA coords=501,83,523,369 onclick=worldtime(-9); shape=RECT><AREA coords=499,37,568,77 onclick=worldtime(-8); shape=RECT><AREA coords=526,3,552,32 onclick=worldtime(-8); shape=RECT><AREA coords=522,84,565,83,591,197,577,198,524,197 onclick=worldtime(-8); shape=POLY><AREA coords=526,198,567,302 onclick=worldtime(-8); shape=RECT><AREA coords=525,330,561,367 onclick=worldtime(-8); shape=RECT><AREA coords=571,6,594,104 onclick=worldtime(-7); shape=RECT><AREA coords=574,109,611,137,612,155,582,158 onclick=worldtime(-7); shape=POLY><AREA coords=597,2,641,129 onclick=worldtime(-6); shape=RECT><AREA coords=614,132,614,159,639,160,638,131 onclick=worldtime(-6); shape=POLY><AREA coords=641,162,641,169,592,171,595,160 onclick=worldtime(-6); shape=POLY><AREA coords=639,174,639,229,593,229,592,189,606,172 onclick=worldtime(-6); shape=POLY><AREA coords=524,303,565,329 onclick=worldtime(-6); shape=RECT><AREA coords=641,3,688,291 onclick=worldtime(-5); shape=RECT><AREA coords=689,66,714,168 onclick=worldtime(-4); shape=RECT><AREA coords=689,236,713,291 onclick=worldtime(-6); shape=RECT><AREA coords=689,4,723,81,762,40,761,7 onclick=worldtime(-3); shape=POLY><AREA coords=715,240,715,291,758,295,746,243 onclick=worldtime(-3); shape=POLY></MAP></FONT></P>
+
+	  
+<p>1、点击世界时区地图查询所需要的地区，会有窗口弹出提示。</p>
+<p style="text-align:center"><IMG border=0 height=376 src="/shicha/images/world_map.gif" useMap=#Map width=778>
+</p>
+
+       <script type="text/javascript" src="/shicha/js/js2.js?v=2018"></script> 
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="90%" align=center>
+              <FORM name=addform>
+              <CAPTION vAlign=top>　</CAPTION>
+              <TBODY>
+              <TR>
+                <TD colspan="3">
+2、根据北京标准时间，可以查看其它国家的具体时间和日期。</td>
+              </TR>
+
+              <TR>
+                <TD><strong>中国北京标准时间</strong></TD>
+                <TD>所在时区：东八区（UTC/GMT+08:00）</TD>
+                <TD><INPUT size=30 name=localtime style="font-size:14px; width:250px; height:35px;"> </TD></TR>
+              <TR>
+                <TD><strong>所选国家首都时间</strong></TD>
+                <TD><SELECT onchange=selechan() size=1 name=selectarea style="font-size:14px; width:250px; height:35px;"> 
+<OPTION selected>格林威治标准时间 GMT</OPTION>
+<OPTION>阿尔及利亚 Algeria</OPTION>
+<OPTION>安道尔 Andorra</OPTION>
+<OPTION>安哥拉 Angola</OPTION>
+<OPTION>安圭拉 Anguilla</OPTION>
+<OPTION>安提瓜和巴布达 Antigua and Barbuda</OPTION> 
+<OPTION>阿根廷 Argentina</OPTION>
+<OPTION>阿松森 Ascension</OPTION> 
+<OPTION>澳大利亚 Australia</OPTION>
+<OPTION>奥地利 Austria</OPTION> 
+<OPTION>巴哈马 Bahamas</OPTION>
+<OPTION>巴林 Bahrain</OPTION> 
+<OPTION>孟加拉国 Bangladesh</OPTION>
+<OPTION>巴巴多斯 Barbados</OPTION>
+<OPTION>比利时 Belize</OPTION>
+<OPTION>伯里兹 Belize</OPTION>
+<OPTION>贝宁 Benin</OPTION>
+<OPTION>百慕大群岛 Bermuda Is.</OPTION>
+<OPTION>玻利维亚 Bolivia</OPTION> 
+                    <OPTION>博茨瓦纳 Botswana</OPTION>
+<OPTION>巴西 Brazil</OPTION> 
+                    <OPTION>文莱 Brunei</OPTION>
+<OPTION>保加利亚 Bulgaria</OPTION> 
+                    <OPTION>布基纳法索 Burkina-faso</OPTION> <OPTION>布隆迪 
+                    Brurndi</OPTION> <OPTION>喀麦隆 Cameroon</OPTION> <OPTION>加拿大 
+                    Canada</OPTION> <OPTION>加那利群岛 Canaries Is.</OPTION> 
+                    <OPTION>开曼群岛 Cayman Is.</OPTION> <OPTION>智利 Chile</OPTION> 
+                    <OPTION>哥伦比亚 Colombia</OPTION> <OPTION>刚果 Congo</OPTION> 
+                    <OPTION>科克群岛 Cook Is.</OPTION> <OPTION>哥斯达黎加 Costa 
+                    Rica</OPTION> <OPTION>古巴 Cuba</OPTION> <OPTION>塞浦路斯 
+                    Cyprus</OPTION> <OPTION>捷克斯洛伐克 Czechoslovakia</OPTION> 
+                    <OPTION>丹麦 Denmark</OPTION> <OPTION>吉布提 Djibouti</OPTION> 
+                    <OPTION>多米尼加共和国 Dominica Rep</OPTION> <OPTION>厄瓜多尔 
+                    Ecuador</OPTION> <OPTION>埃及 Eqypt</OPTION> <OPTION>萨尔瓦多 El 
+                    Salvador</OPTION> <OPTION>埃塞俄比亚 Ethiopia</OPTION> 
+                    <OPTION>赤道几内亚 Equatoria</OPTION> <OPTION>斐济 Fiji</OPTION> 
+                    <OPTION>芬兰 Finland</OPTION> <OPTION>法国 France</OPTION> 
+                    <OPTION>法属圭亚那 French Guiana</OPTION> <OPTION>加蓬 
+                    Gabon</OPTION> <OPTION>冈比亚 Gambia</OPTION> <OPTION>德国 
+                    Germany</OPTION> <OPTION>直布罗陀(英） Gibraltar</OPTION> 
+                    <OPTION>希腊 Greece</OPTION> <OPTION>格林纳达 Grenada</OPTION> 
+                    <OPTION>关岛 Guam</OPTION> <OPTION>危地马拉 Guatemala</OPTION> 
+                    <OPTION>圭亚那 Guyana</OPTION> <OPTION>海地 Haiti</OPTION> 
+                    <OPTION>洪都拉斯 Honduras</OPTION> <OPTION>香港 HongKong</OPTION> 
+                    <OPTION>匈牙利 Hungary</OPTION> <OPTION>冰岛 Iceland</OPTION> 
+                    <OPTION>印度 India</OPTION> <OPTION>印度尼西亚 Indonesia</OPTION> 
+                    <OPTION>伊朗 Iran</OPTION> <OPTION>伊拉克 Iraq</OPTION> 
+                    <OPTION>爱尔兰 Ireland</OPTION> <OPTION>以色列 Israel</OPTION> 
+                    <OPTION>意大利 Italy</OPTION> <OPTION>科特迪瓦 Ivory Coast</OPTION> 
+                    <OPTION>牙买加 Jamaica</OPTION> <OPTION>日本 Japan</OPTION> 
+                    <OPTION>约旦 Jordan</OPTION> <OPTION>肯尼亚 Kenya</OPTION> 
+                    <OPTION>北朝鲜 North Korea</OPTION> <OPTION>科威特 
+                    Kuwait</OPTION> <OPTION>老挝 Laos</OPTION> <OPTION>黎巴嫩 
+                    Lebanon</OPTION> <OPTION>莱索托 Lesotho</OPTION> <OPTION>利比里亚 
+                    Liberia</OPTION> <OPTION>利比亚 Libya</OPTION> <OPTION>列支敦士登 
+                    Liechtenstein</OPTION> <OPTION>卢森堡 Luxembourg</OPTION> 
+                    <OPTION>澳门 Macao</OPTION> <OPTION>马达加斯加 Madagascar</OPTION> 
+                    <OPTION>马拉维 Malawi</OPTION> <OPTION>马来西亚 Malaysia</OPTION> 
+                    <OPTION>马尔代夫 Maldive</OPTION> <OPTION>马里 Mali</OPTION> 
+                    <OPTION>马耳他 Malta</OPTION> <OPTION>玛利亚那群岛 Mariana 
+                    Is.</OPTION> <OPTION>马提尼克 Martinique</OPTION> <OPTION>毛里求斯 
+                    Mauritius</OPTION> <OPTION>墨西哥 Mexico</OPTION> <OPTION>中途岛 
+                    Midway I.</OPTION> <OPTION>摩纳哥 Monaco</OPTION> 
+                    <OPTION>蒙特塞拉特岛 Montserrat Is.</OPTION> <OPTION>摩洛哥 
+                    Morocco</OPTION> <OPTION>莫桑比克 Mozambique</OPTION> <OPTION>缅甸 
+                    Myanmar</OPTION> <OPTION>纳米比亚 Namibia</OPTION> <OPTION>瑙鲁 
+                    Nauru</OPTION> <OPTION>蒙古 Mongolia</OPTION> <OPTION>尼泊尔 
+                    Nepal</OPTION> <OPTION>荷兰 Netherlands</OPTION> 
+                    <OPTION>荷属安的列斯 Netherlands Antilles</OPTION> 
+                    <OPTION>新喀里多尼亚群岛 New Caledonia Is.</OPTION> <OPTION>新西兰 New 
+                    Zealand</OPTION> <OPTION>尼加拉瓜 Nicaragua</OPTION> <OPTION>尼日尔 
+                    Niger</OPTION> <OPTION>尼日利亚 Nigeria</OPTION> <OPTION>挪威 
+                    Norway</OPTION> <OPTION>阿曼 Oman</OPTION> <OPTION>巴基斯坦 
+                    Pakistan</OPTION> <OPTION>巴拿马 Panama</OPTION> 
+                    <OPTION>巴布亚新几内亚 Papua New Guinea</OPTION> <OPTION>巴拉圭 
+                    Paraguay</OPTION> <OPTION>秘鲁 Peru</OPTION> <OPTION>菲律宾 
+                    Philippines</OPTION> <OPTION>波兰 Poland</OPTION> 
+                    <OPTION>波利尼西亚 Polynesia</OPTION> <OPTION>葡萄牙 
+                    Portugal</OPTION> <OPTION>波多黎各 Puerto Rico</OPTION> 
+                    <OPTION>卡塔尔 Qatar</OPTION> <OPTION>留尼旺 Reunion</OPTION> 
+                    <OPTION>罗马尼亚 Rumania</OPTION> <OPTION>俄罗斯 Russian</OPTION> 
+                    <OPTION>卢旺达 Rwanda</OPTION> <OPTION>东萨摩亚(美) Samoa 
+                    Easterm</OPTION> <OPTION>西萨摩亚(美) Samoa Western</OPTION> 
+                    <OPTION>圣马力诺 San Marino</OPTION> <OPTION>圣多美和普林西比 Sao Tome 
+                    and Principe</OPTION> <OPTION>沙特阿拉伯 Saudi Arabia</OPTION> 
+                    <OPTION>塞内加尔 Senegal</OPTION> <OPTION>塞舌尔 
+                    Seychelles</OPTION> <OPTION>塞拉利昂 Sierra Leone</OPTION> 
+                    <OPTION>新加坡 Singapore</OPTION> <OPTION>斯洛文尼亚 
+                    Slovenia</OPTION> <OPTION>所罗门群岛 Solomon Is.</OPTION> 
+                    <OPTION>索马里 Somali</OPTION> <OPTION>南非 South Africa</OPTION> 
+                    <OPTION>韩国 South Korea</OPTION> <OPTION>西班牙 Spain</OPTION> 
+                    <OPTION>斯里兰卡 Srilanka</OPTION> 
+                    <OPTION>圣克里斯托弗和尼维斯岛St.Christopher and Nevis Is.</OPTION> 
+                    <OPTION>圣卢西亚 St.Lucia</OPTION> <OPTION>圣文森特 
+                    St.Vincent</OPTION> <OPTION>苏丹 Sudan</OPTION> <OPTION>苏里南 
+                    Suriname</OPTION> <OPTION>斯威士兰 Swaziland</OPTION> <OPTION>瑞典 
+                    Sweden</OPTION> <OPTION>瑞士 Switzerland</OPTION> <OPTION>叙利亚 
+                    Syria</OPTION> <OPTION>台湾 Taiwan China</OPTION> <OPTION>坦桑尼亚 
+                    Tanzania</OPTION> <OPTION>泰国 Thailand</OPTION> <OPTION>多哥 
+                    Togo</OPTION> <OPTION>汤加 Tonga</OPTION> <OPTION>特立尼达和多巴哥 
+                    Trinidad and Tobago</OPTION> <OPTION>突尼斯 Tunisia</OPTION> 
+                    <OPTION>土尔其 Turkey</OPTION> <OPTION>乌干达 Uganda</OPTION> 
+                    <OPTION>阿联酋 U.A.E</OPTION> <OPTION>英国 U.K.</OPTION> 
+                    <OPTION>乌拉圭 Uruguay</OPTION> <OPTION>美国 U.S.A.</OPTION> 
+                    <OPTION>乌兹别克斯坦 Uzbekistan</OPTION> <OPTION>瓦努阿图 
+                    Vanuatu</OPTION> <OPTION>梵蒂冈 Vatican</OPTION> <OPTION>委内瑞拉 
+                    Venezuela</OPTION> <OPTION>越南 Vietnam</OPTION> 
+                    <OPTION>维尔京群岛(英) Virgin Is.(British)</OPTION></SELECT> </TD>
+<td><input size=30 name=worldtime style="font-size:14px; width:250px; height:30px;"> </td>
+		</TR>
+              </TBODY></TABLE>
+            
+            </FORM>
+            <SCRIPT language=javascript>
+start();
+startLong(-8);
+</SCRIPT>
+
+
+
+<script language="javascript">
+function chkfLink(t){
+for(i=0;i<=9;i++){
+if(i==t){
+document.getElementById('tlink'+i).className = "pink";
+document.getElementById('flink'+i).style.display = "block";
+}else{
+document.getElementById('tlink'+i).className = "noline";
+document.getElementById('flink'+i).style.display = "none";
+}
+}
+}
+</script><p style="TEXT-INDENT:2em"><span id="cke_bm_100S" style="display: none;">&#160;</span><b><a style="color:#000" title="世界上有多少个国家和地区" href="http://114.xixik.com/country/	">世界各国</a>UTC / GMT 标准时间变更的历史</b><span id="cke_bm_100E" style="display: none;">&#160;</span></p><p style="TEXT-INDENT:2em">	朝鲜-于2018年5月5日起调整时区，时区由GMT+8:30改为GMT+9:00，因此平壤的标准时间于2018年5月5日星期六00:00:00时间改为00:30:00拨快30分钟。当格林威治GMT标准时间是凌晨0:00，平壤时间就是上午9:00，与韩国和日本同一时区。</p><p style="TEXT-INDENT:2em">	朝鲜-于2015年8月15日起，弃用GMT+9，「恢复」大韩帝国时代的GMT+8:30标准时间，新启用的时间比原来的时间慢30分钟，是世界上唯一正在使用这个时区的国家。当格林威治GMT标准时间是凌晨0:00，平壤时间就是上午8:30。</p><p style="TEXT-INDENT:2em">	智利- 2015年1月28日，智利采用了新的官方标准时间，他们把原来的标准时间和夏令时间合并成一个，永久采用夏令时制。新的官方时间在智利大陆改为GMT-3，复活节岛则为GMT-5。</p><p style="TEXT-INDENT:2em">	俄罗斯-自2014年10月最后一个星期日（2014年10月26日）凌晨开始，永久采用冬令时制，全国会拨慢一小时。因此莫斯科时间将由GMT+4改为GMT+3。</p></div></div></div><a name="anchor3"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        世界主要城市与北京时差表</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="text-align: center;"><img src="http://img.xixik.net/custom/section/shicha/xixik-52b07628a292a021.gif" style="width: 80%; max-width: 80%;" /></p><p style="text-align: center;">	世界各国时区表</p><p style="text-align: center;">	说明: <strong>+</strong>表示早上北京时间；<strong>-</strong>表示迟于北京时间 <strong><a href="#asia" target="_self">亚洲</a> | <a href="#europe" target="_self">欧洲</a> | <a href="#america" target="_self">美洲</a> | <a href="#africa" target="_self">非洲</a> | <a href="#oceania" target="_self">大洋洲</a></strong></p><table align="center" border="1" bordercolordark="#ffffff" bordercolorlight="#c0c0c0" cellpadding="5" cellspacing="0" width="90%"><tbody><tr><th colspan="3"><a name="asia"></a><strong>ASIA 亚洲</strong></th></tr><tr><th>				城市</th><th>				国家</th><th>				时差</th></tr><tr><td>				Abadan 阿巴丹</td><td>				伊朗</td><td>				-4:30</td></tr><tr><td>				Abu Dhabi 阿布扎比</td><td>				阿联酋</td><td>				-4</td></tr><tr><td>				Aden 亚丁</td><td>				也门</td><td>				-5</td></tr><tr><td>				Amman 安曼</td><td>				约旦</td><td>				-6</td></tr><tr><td>				Ankara 安卡拉</td><td>				土耳其</td><td>				-6</td></tr><tr><td>				Baghdad 巴格达</td><td>				伊拉克</td><td>				-5</td></tr><tr><td>				Baku 巴库</td><td>				阿塞拜疆</td><td>				-6</td></tr><tr><td>				Bandar Seri Begawan 斯里巴加湾港</td><td>				文莱</td><td>				0</td></tr><tr><td>				Bangkok 曼谷</td><td>				泰国</td><td>				-1</td></tr><tr><td>				Beirut 贝鲁特</td><td>				黎巴嫩</td><td>				-6</td></tr><tr><td>				Bombay 孟买</td><td>				印度</td><td>				-2:30</td></tr><tr><td>				Calcutta 加尔各答</td><td>				印度</td><td>				-2:30</td></tr><tr><td>				Colombo 科伦坡</td><td>				斯里兰卡</td><td>				-2:30</td></tr><tr><td>				Damascus 大马士革</td><td>				叙利亚</td><td>				-6</td></tr><tr><td>				Dhaka 达卡</td><td>				孟加拉</td><td>				-2</td></tr><tr><td>				Djakarta 雅加达</td><td>				印度尼西亚</td><td>				-1</td></tr><tr><td>				Guangzhou 广州</td><td>				中国</td><td>				0</td></tr><tr><td>				Hanoi 河内</td><td>				越南</td><td>				-1</td></tr><tr><td>				Hong Kong 香港</td><td>				中国</td><td>				0</td></tr><tr><td>				Irkutsk 伊尔库次克</td><td>				俄罗斯</td><td>				0</td></tr><tr><td>				Islamabad 伊斯兰堡</td><td>				巴基斯坦</td><td>				-3</td></tr><tr><td>				Jerusalem 耶路撒冷</td><td>				巴勒斯坦</td><td>				-6</td></tr><tr><td>				Karachi 卡拉奇</td><td>				巴基斯坦</td><td>				-3</td></tr><tr><td>				Katmandu 加德满都</td><td>				尼泊尔</td><td>				-2:30</td></tr><tr><td>				Kuala Lumpur 吉隆坡</td><td>				马来西亚</td><td>				0</td></tr><tr><td>				Kuwait 科威特</td><td>				科威特</td><td>				-5</td></tr><tr><td>				Kyoto 京都</td><td>				日本</td><td>				+1</td></tr><tr><td>				Dili 帝力</td><td>				东帝汶</td><td>				+1</td></tr><tr><td>				Macao 澳门</td><td>				中国</td><td>				0</td></tr><tr><td>				Manila 马尼拉</td><td>				菲律宾</td><td>				0</td></tr><tr><td>				Mecca 麦加</td><td>				沙特</td><td>				-5</td></tr><tr><td>				Nagasaki 长崎</td><td>				日本</td><td>				+1</td></tr><tr><td>				New Delhi 新德里</td><td>				印度</td><td>				-2:30</td></tr><tr><td>				Nikolayevsk-on-Amure<br />				尼古拉耶夫斯克（庙街）</td><td>				俄罗斯</td><td>				+1</td></tr><tr><td>				Omsk 鄂木斯克</td><td>				俄罗斯</td><td>				-3</td></tr><tr><td>				Osaka 大阪</td><td>				日本</td><td>				+1</td></tr><tr><td>				Phnom Penh 金边</td><td>				柬埔寨</td><td>				-1</td></tr><tr><td>				Pyongyang 平壤</td><td>				朝鲜</td><td>				+1</td></tr><tr><td>				Rangoon 仰光</td><td>				缅甸</td><td>				-1:30</td></tr><tr><td>				Rawalpindi 拉瓦尔品第</td><td>				巴基斯坦</td><td>				-3</td></tr><tr><td>				Seoul 首尔</td><td>				韩国</td><td>				+1</td></tr><tr><td>				Shanghai 上海</td><td>				中国</td><td>				0</td></tr><tr><td>				Singapore 新加坡</td><td>				新加坡</td><td>				0</td></tr><tr><td>				Taibei 台北</td><td>				中国</td><td>				0</td></tr><tr><td>				Tehran 德黑兰</td><td>				伊朗</td><td>				-4:30</td></tr><tr><td>				Tokyo 东京</td><td>				日本</td><td>				+1</td></tr><tr><td>				Ulan Bator 乌兰巴托</td><td>				蒙古</td><td>				0</td></tr><tr><td>				Vladivostok 符拉迪沃斯托克（海参崴）</td><td>				俄罗斯</td><td>				+2</td></tr><tr><td>				Yokohama 横滨</td><td>				日本</td><td>				+1</td></tr><tr><th colspan="3">				&#160;</th></tr><tr><th colspan="2"><strong><a name="europe"></a>EUROPE 欧洲</strong></th><th><strong><a href="#top" target="_self">回页首</a></strong></th></tr><tr><th>				城市</th><th>				国家</th><th>				时差</th></tr><tr><td>				Aberdeen 阿伯丁</td><td>				英国</td><td>				-8</td></tr><tr><td>				Amsterdam 阿姆斯特丹</td><td>				荷兰</td><td>				-7</td></tr><tr><td>				Antwerp 安特卫普</td><td>				比利时</td><td>				-7</td></tr><tr><td>				Athens 雅典</td><td>				希腊</td><td>				-6</td></tr><tr><td>				Belfast 贝尔法斯特</td><td>				英国</td><td>				-8</td></tr><tr><td>				Belgrade 贝尔格莱德</td><td>				塞尔维亚</td><td>				-6</td></tr><tr><td>				Podgorica 波德戈里察</td><td>				黑山</td><td>				-6</td></tr><tr><td>				Pristina 普里什蒂纳</td><td>				科索沃</td><td>				-6</td></tr><tr><td>				Ljubljana 卢布尔雅那</td><td>				斯洛文尼亚</td><td>				-6</td></tr><tr><td>				Zagreb 萨格勒布</td><td>				克罗地亚</td><td>				-6</td></tr><tr><td>				Sarajevo 萨拉热窝</td><td>				波黑</td><td>				-6</td></tr><tr><td>				Skopje 斯科普里</td><td>				马其顿</td><td>				-6</td></tr><tr><td>				南斯拉夫分裂成哪几个国家？</td><td>				&#160;</td><td>				&#160;</td></tr><tr><td>				Berlin 柏林</td><td>				德国</td><td>				-7</td></tr><tr><td>				Birmingham 伯明翰</td><td>				英国</td><td>				-8</td></tr><tr><td>				Bonn 波恩</td><td>				德国</td><td>				-7</td></tr><tr><td>				Brussels 布鲁塞尔</td><td>				比利时</td><td>				-7</td></tr><tr><td>				Bucharest 布加勒斯特</td><td>				罗马尼亚</td><td>				-6</td></tr><tr><td>				Budapest 布达佩斯</td><td>				匈牙利</td><td>				-7</td></tr><tr><td>				Constantsa 康斯坦萨</td><td>				罗马尼亚</td><td>				-6</td></tr><tr><td>				Copenhagen 哥本哈根</td><td>				丹麦</td><td>				-7</td></tr><tr><td>				Dublin 都柏林</td><td>				爱尔兰</td><td>				-8</td></tr><tr><td>				Edinburgh 爱丁堡</td><td>				英国</td><td>				-8</td></tr><tr><td>				Frankfurt 法兰克福</td><td>				德国</td><td>				-7</td></tr><tr><td>				Gdansk 格但斯克</td><td>				波兰</td><td>				-7</td></tr><tr><td>				Geneva 日内瓦</td><td>				瑞士</td><td>				-7</td></tr><tr><td>				Genoa 热那亚</td><td>				意大利</td><td>				-7</td></tr><tr><td>				Gibraltar 直布罗陀</td><td>				英国殖民地</td><td>				-7</td></tr><tr><td>				Glasgow 格拉斯哥</td><td>				英国</td><td>				-8</td></tr><tr><td>				Hamburg 汉堡</td><td>				德国</td><td>				-7</td></tr><tr><td>				Helsinki 赫尔辛基</td><td>				芬兰</td><td>				-6</td></tr><tr><td>				Istanbul 伊斯坦布尔</td><td>				土耳其</td><td>				-6</td></tr><tr><td>				Kiev 基辅</td><td>				乌克兰</td><td>				-5</td></tr><tr><td>				Leeds 利兹</td><td>				英国</td><td>				-8</td></tr><tr><td>				Leipzig 莱比锡</td><td>				德国</td><td>				-7</td></tr><tr><td>				Lisbon 里斯本</td><td>				葡萄牙</td><td>				-8</td></tr><tr><td>				Liverpool 利物浦</td><td>				英国</td><td>				-8</td></tr><tr><td>				London 伦敦</td><td>				英国</td><td>				-8</td></tr><tr><td>				Madrid 马德里</td><td>				西班牙</td><td>				-7</td></tr><tr><td>				Manchester 曼彻斯特</td><td>				英国</td><td>				-8</td></tr><tr><td>				Marseilles 马塞</td><td>				法国</td><td>				-7</td></tr><tr><td>				Milan 米兰</td><td>				意大利</td><td>				-7</td></tr><tr><td>				Moscow 莫斯科</td><td>				俄罗斯</td><td>				-5</td></tr><tr><td>				Munich 慕尼黑</td><td>				德国</td><td>				-7</td></tr><tr><td>				Murmansk 摩尔曼斯克</td><td>				俄罗斯</td><td>				-5</td></tr><tr><td>				Odessa 敖德萨</td><td>				乌克兰</td><td>				-5</td></tr><tr><td>				Oslo 奥斯陆</td><td>				挪威</td><td>				-7</td></tr><tr><td>				Paris 巴黎</td><td>				法国</td><td>				-7</td></tr><tr><td>				Prague 布拉格</td><td>				捷克</td><td>				-7</td></tr><tr><td>				Reykjavik 雷克雅未克</td><td>				冰岛</td><td>				-8</td></tr><tr><td>				Rome 罗马</td><td>				意大利</td><td>				-7</td></tr><tr><td>				Rotterdam 鹿特丹</td><td>				荷兰</td><td>				-7</td></tr><tr><td>				St. Peterburg 圣彼得堡</td><td>				俄罗斯</td><td>				-5</td></tr><tr><td>				Sofia 索非亚</td><td>				保加利亚</td><td>				-6</td></tr><tr><td>				Stockholm 斯德哥尔摩</td><td>				瑞典</td><td>				-7</td></tr><tr><td>				Tirana 地拉那</td><td>				阿尔巴尼亚</td><td>				-7</td></tr><tr><td>				Vatican 梵蒂冈</td><td>				罗马教廷所在地</td><td>				-7</td></tr><tr><td>				Venice 威尼斯</td><td>				意大利</td><td>				-7</td></tr><tr><td>				Vienna 维也纳</td><td>				奥地利</td><td>				-7</td></tr><tr><td>				Warsaw 华沙</td><td>				波兰</td><td>				-7</td></tr><tr><td>				Zurich 苏黎世</td><td>				瑞士</td><td>				-7</td></tr><tr><th colspan="3">				&#160;&#160;&#160;</th></tr><tr><th colspan="2"><strong><a name="america"></a>AMERICA 美洲</strong></th><th><strong><a href="#top" target="_self">回页首</a></strong></th></tr><tr><th>				城市</th><th>				国家</th><th>				时差</th></tr><tr><td>				Anchorage 安克雷奇</td><td>				美国</td><td>				-17</td></tr><tr><td>				Asuncion 亚松森</td><td>				巴拉圭</td><td>				-12</td></tr><tr><td>				Atlanta 亚特兰大</td><td>				美国</td><td>				-13</td></tr><tr><td>				Baltimore 巴尔的摩</td><td>				美国</td><td>				-13</td></tr><tr><td>				Belem 贝伦</td><td>				巴西</td><td>				-11</td></tr><tr><td>				Bogota 波哥大</td><td>				哥伦比亚</td><td>				-13</td></tr><tr><td>				Boston 波士顿</td><td>				美国</td><td>				-13</td></tr><tr><td>				Brasilia 巴西利亚</td><td>				巴西</td><td>				-11</td></tr><tr><td>				Buenos Aires 布宜诺斯艾利斯</td><td>				阿根廷</td><td>				-11</td></tr><tr><td>				Caracas 加拉加斯</td><td>				委内瑞拉</td><td>				-12</td></tr><tr><td>				Chicago 芝加哥</td><td>				美国</td><td>				-14</td></tr><tr><td>				Churchill 丘吉尔港</td><td>				加拿大</td><td>				-14</td></tr><tr><td>				Colon 科隆</td><td>				巴拿马</td><td>				-13</td></tr><tr><td>				Dallas 达拉斯</td><td>				美国</td><td>				-14</td></tr><tr><td>				Denver 丹佛</td><td>				美国</td><td>				-15</td></tr><tr><td>				Detroit 底特律</td><td>				美国</td><td>				-13</td></tr><tr><td>				Edmonton 埃德蒙顿</td><td>				加拿大</td><td>				-15</td></tr><tr><td>				Havana 哈瓦那</td><td>				古巴</td><td>				-13</td></tr><tr><td>				Houston 休斯敦</td><td>				美国</td><td>				-14</td></tr><tr><td>				Kingston 金斯敦</td><td>				牙买加</td><td>				-13</td></tr><tr><td>				La Paz 拉巴斯</td><td>				玻利维亚</td><td>				-12</td></tr><tr><td>				Las Vegas 拉斯韦加斯</td><td>				美国</td><td>				-16</td></tr><tr><td>				Lima 利马</td><td>				秘鲁</td><td>				-13</td></tr><tr><td>				Los Angeles 洛杉矶</td><td>				美国</td><td>				-16</td></tr><tr><td>				Mexico City 墨西哥城</td><td>				墨西哥</td><td>				-14</td></tr><tr><td>				Miami 迈阿密</td><td>				美国</td><td>				-13</td></tr><tr><td>				Montevideo 蒙得维的亚</td><td>				乌拉圭</td><td>				-11</td></tr><tr><td>				Montreal 蒙特利尔</td><td>				加拿大</td><td>				-13</td></tr><tr><td>				New Orleans 新奥尔良</td><td>				美国</td><td>				-14</td></tr><tr><td>				New York 纽约</td><td>				美国</td><td>				-13</td></tr><tr><td>				Ottawa 渥太华</td><td>				加拿大</td><td>				-13</td></tr><tr><td>				Panama 巴拿马城</td><td>				巴拿马</td><td>				-13</td></tr><tr><td>				Paramaribo 帕拉马里博</td><td>				苏里南</td><td>				-11</td></tr><tr><td>				Philadelphia 费城</td><td>				美国</td><td>				-13</td></tr><tr><td>				Pittsburgh 匹兹堡</td><td>				美国</td><td>				-13</td></tr><tr><td>				Port-of-Spain 西班牙港</td><td>				特立尼达和多巴哥</td><td>				-12</td></tr><tr><td>				Quebec 魁北克</td><td>				加拿大</td><td>				-13</td></tr><tr><td>				Ria de janeiro 里约热内卢</td><td>				巴西</td><td>				-11</td></tr><tr><td>				saint Louis 圣路易斯</td><td>				美国</td><td>				-14</td></tr><tr><td>				Salt Lake City 盐湖城</td><td>				美国</td><td>				-15</td></tr><tr><td>				San Diego 圣迭戈</td><td>				美国</td><td>				-16</td></tr><tr><td>				San Francisco 旧金山（圣弗兰西斯科）</td><td>				美国</td><td>				-16</td></tr><tr><td>				San Juan 圣胡安</td><td>				波多黎各</td><td>				-12</td></tr><tr><td>				Santiago 圣地亚哥</td><td>				智利</td><td>				-12</td></tr><tr><td>				Seattle 西雅图</td><td>				美国</td><td>				-16</td></tr><tr><td>				Toronto 多伦多</td><td>				加拿大</td><td>				-13</td></tr><tr><td>				Vancouver 温哥华</td><td>				加拿大</td><td>				-16</td></tr><tr><td>				Washington 华盛顿D.C.</td><td>				美国</td><td>				-13</td></tr><tr><td>				Winnipeg 温尼伯</td><td>				加拿大</td><td>				-14</td></tr><tr><th colspan="3">				来源：时差对照表：<a href="http://114.xixik.com/shicha/" title="时差,北京时差对照表">http://114.xixik.com/shicha/</a></th></tr></tbody></table><table align="center" border="1" bordercolordark="#ffffff" bordercolorlight="#c0c0c0" cellpadding="5" cellspacing="0" width="90%"><tbody><tr><th colspan="2"><strong><a name="africa"></a>AFRICA 非洲</strong></th><th><strong><a href="#top" target="_self">回页首</a></strong></th></tr><tr><th>				城市</th><th>				国家</th><th>				时差</th></tr><tr><td>				Abidjan 阿比让</td><td>				科特迪瓦</td><td>				-8</td></tr><tr><td>				Addis Ababa 亚的斯亚贝巴</td><td>				埃塞俄比亚</td><td>				-5</td></tr><tr><td>				Alexandria 亚历山大</td><td>				埃及</td><td>				-6</td></tr><tr><td>				Algiers 阿尔及尔</td><td>				阿尔及利亚</td><td>				-7</td></tr><tr><td>				Bamako 巴马科</td><td>				马里</td><td>				-8</td></tr><tr><td>				Banghazi 班加西</td><td>				利比亚</td><td>				-6</td></tr><tr><td>				Beira 贝拉</td><td>				莫桑比克</td><td>				-6</td></tr><tr><td>				Brazzaville 布拉柴维尔</td><td>				刚果</td><td>				-7</td></tr><tr><td>				Cairo 开罗</td><td>				埃及</td><td>				-6</td></tr><tr><td>				Cape Town 开普敦</td><td>				南非</td><td>				-6</td></tr><tr><td>				Dakar 达喀尔</td><td>				塞内加尔</td><td>				-8</td></tr><tr><td>				Dar el Beida 达尔贝达（卡萨布兰卡）</td><td>				摩洛哥</td><td>				-8</td></tr><tr><td>				Dar es Salaam 达累斯萨拉姆</td><td>				坦桑尼亚</td><td>				-5</td></tr><tr><td>				Djibouti 吉布提</td><td>				吉布提</td><td>				-5</td></tr><tr><td>				Douala 杜阿拉</td><td>				喀麦隆</td><td>				-7</td></tr><tr><td>				Durban 德班</td><td>				南非</td><td>				-6</td></tr><tr><td>				Gaborone 哈博罗内</td><td>				博茨瓦纳</td><td>				-6</td></tr><tr><td>				Johannesburg 约翰内斯堡</td><td>				南非</td><td>				-6</td></tr><tr><td>				Kampala 坎帕拉</td><td>				乌干达</td><td>				-5</td></tr><tr><td>				Kano 卡诺</td><td>				尼日利亚</td><td>				-7</td></tr><tr><td>				Khartoum 喀土穆</td><td>				苏丹</td><td>				-6</td></tr><tr><td>				Juba 朱丹</td><td>				南苏丹</td><td>				-6</td></tr><tr><td>				Kinshasa 金沙萨</td><td>				民主刚果</td><td>				-7</td></tr><tr><td>				Lagos 拉各斯</td><td>				尼日利亚</td><td>				-7</td></tr><tr><td>				Las Palmas 拉斯帕耳马斯</td><td>				加那利群岛</td><td>				-8</td></tr><tr><td>				Luanda 罗安达</td><td>				安哥拉</td><td>				-7</td></tr><tr><td>				Lusaka 卢萨卡</td><td>				赞比亚</td><td>				-6</td></tr><tr><td>				Maputo 马普托</td><td>				莫桑比克</td><td>				-6</td></tr><tr><td>				Mogadishu 摩加迪沙</td><td>				索马里</td><td>				-5</td></tr><tr><td>				Mombasa 蒙巴萨</td><td>				肯尼亚</td><td>				-5</td></tr><tr><td>				Monrovia 蒙罗维亚</td><td>				利比里亚</td><td>				-8</td></tr><tr><td>				Nairobi 内罗毕</td><td>				肯尼亚</td><td>				-5</td></tr><tr><td>				Ndjamena 恩贾梅纳</td><td>				乍得</td><td>				-7</td></tr><tr><td>				Niamey 尼亚美</td><td>				尼日尔</td><td>				-8</td></tr><tr><td>				Nouakchott 努瓦克肖特</td><td>				毛里塔尼亚</td><td>				-8</td></tr><tr><td>				Pointe-Noire 黑角</td><td>				刚果</td><td>				-7</td></tr><tr><td>				Port Louis 路易港</td><td>				毛里求斯</td><td>				-4</td></tr><tr><td>				Pretoria 比勒陀利亚</td><td>				南非</td><td>				-6</td></tr><tr><td>				Rabat 拉巴特</td><td>				摩洛哥</td><td>				-8</td></tr><tr><td>				Sao Tome 圣多美</td><td>				圣多美和普林西比</td><td>				-8</td></tr><tr><td>				Tananarive 塔那那利佛</td><td>				马达加斯加</td><td>				-5</td></tr><tr><td>				Tripoli 的黎波里</td><td>				利比亚</td><td>				-6</td></tr><tr><td>				Tunis 突尼斯</td><td>				突尼斯</td><td>				-7</td></tr><tr><td>				Windhoek 温得和克</td><td>				纳米比亚</td><td>				-6</td></tr><tr><th colspan="2">				来源：时差对照表：<a href="http://114.xixik.com/shicha/" title="时差,北京时差对照表">http://114.xixik.com/shicha/</a></th></tr></tbody></table><table align="center" border="1" bordercolordark="#ffffff" bordercolorlight="#c0c0c0" cellpadding="5" cellspacing="0" width="90%"><tbody><tr><th colspan="2"><strong><a name="oceania"></a>OCEANIA AND PACIFIC LSLANDS<br />				大洋洲及太平洋岛屿</strong></th><th><strong><a href="#top" target="_self">回页首</a></strong></th></tr><tr><th>				城市</th><th>				国家</th><th>				时差</th></tr><tr><td>				Agana 阿加尼亚</td><td>				关岛</td><td>				+2</td></tr><tr><td>				Apia 阿皮亚</td><td>				西萨摩亚</td><td>				-19</td></tr><tr><td>				Auckland 奥克兰</td><td>				新西兰</td><td>				+4</td></tr><tr><td>				Brisbane 布里斯班</td><td>				澳大利亚</td><td>				+2</td></tr><tr><td>				Canberra 堪培拉</td><td>				澳大利亚</td><td>				+2</td></tr><tr><td>				Fremantle 弗里曼特尔</td><td>				澳大利亚</td><td>				0</td></tr><tr><td>				Hobart 霍巴特</td><td>				澳大利亚</td><td>				+2</td></tr><tr><td>				Honolulu 火奴鲁鲁（檀香山）</td><td>				美国</td><td>				-18</td></tr><tr><td>				Melburne 墨尔本</td><td>				澳大利亚</td><td>				+2</td></tr><tr><td>				Noumea 努美阿</td><td>				法属新喀里多尼亚</td><td>				+3</td></tr><tr><td>				Papeete 帕皮提</td><td>				法属波利尼西亚</td><td>				-18</td></tr><tr><td>				Perth 佩思</td><td>				澳大利亚</td><td>				0</td></tr><tr><td>				Port Moresby 莫尔兹比港</td><td>				巴布亚新几内亚</td><td>				+2</td></tr><tr><td>				Suva 苏瓦</td><td>				斐济</td><td>				+4</td></tr><tr><td>				Sydney 悉尼</td><td>				澳大利亚</td><td>				+2</td></tr><tr><td>				vila 维拉港</td><td>				瓦努阿图</td><td>				+3</td></tr><tr><td>				Wellington 惠灵顿</td><td>				新西兰</td><td>				+4</td></tr><tr><td colspan="3"><a href="http://114.xixik.com/shicha/" title="世界主要城市与北京时差对照表">世界主要城市与北京时差对照表</a> http://114.xixik.com/shicha/</td></tr></tbody></table><p>	&#160;</p></div></div></div><a name="anchor4"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        国际时差对照表</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="text-align: center;"><a href="http://img.xixik.net/custom/section/shicha/xixik-9249570d4da47740.jpg"><img src="http://img.xixik.net/custom/section/shicha/xixik-9249570d4da47740.jpg" style="width: 90%; max-width: 90%;" /></a></p><p style="text-align: center;"><img src="http://img.xixik.net/custom/section/shicha/xixik-2334b0c31c51f51e.jpg" style="width: 90%; max-width: 90%;" /></p>
+
+<style type="text/css">
+
+
+.clock{font-family:Georgia, Times New Roman, Times, serif}
+.stat{
+	display:none;
+}
+</style>
+
+<script LANGUAGE="JavaScript">
+var timerID ;
+
+function tzone(os, ds, cl)
+{
+    this.ct = new Date(0) ;		// datetime
+    this.os = os ;		// GMT offset
+    this.ds = ds ;		// has daylight savings
+    this.cl = cl ;		// font color
+}
+
+function UpdateClocks()
+{
+var ct = new Array(
+new tzone(-10, 0, 'silver'),
+new tzone(-9, 1, 'silver'),
+new tzone(-8, 1, 'silver'),
+new tzone(-8, 1, 'silver'),
+new tzone(-8, 1, 'silver'),
+new tzone(-8, 1, 'silver'),
+new tzone(-7, 1, 'silver'),
+new tzone(-7, 1, 'silver'),
+new tzone(-7, 0, 'silver'),
+new tzone(-7, 1, 'silver'),
+new tzone(-6, 1, 'silver'),
+new tzone(-6, 1, 'silver'),
+new tzone(-6, 1, 'silver'),
+new tzone(-6, 1, 'silver'),
+new tzone(-6, 1, 'silver'),
+new tzone(-6, 1, 'silver'),
+new tzone(-6, 1, 'silver'),
+new tzone(-6, 1, 'silver'),
+new tzone(-6, 0, 'silver'),
+new tzone(-6, 0, 'silver'),
+new tzone(-6, 0, 'silver'),
+new tzone(-6, 1, 'silver'),
+new tzone(-5, 1, 'silver'),
+new tzone(-5, 0, 'silver'),
+new tzone(-5, 1, 'silver'),
+new tzone(-5, 1, 'silver'),
+new tzone(-5, 1, 'silver'),
+new tzone(-5, 1, 'silver'),
+new tzone(-5, 1, 'silver'),
+new tzone(-5, 1, 'silver'),
+new tzone(-5, 1, 'silver'),
+new tzone(-5, 0, 'silver'),
+new tzone(-5, 0, 'silver'),
+new tzone(-5, 0, 'silver'),
+new tzone(-5, 1, 'silver'),
+new tzone(-5, 1, 'silver'),
+new tzone(-5, 1, 'silver'),
+new tzone(-5, 0, 'silver'),
+new tzone(-5, 0, 'silver'),
+new tzone(-5, 0, 'silver'),
+new tzone(-5, 0, 'silver'),
+new tzone(-5, 1, 'silver'),
+new tzone(-4, 1, 'silver'),
+new tzone(-4, 1, 'silver'),
+new tzone(-3.5, 1, 'silver'),
+new tzone(-3, 0, 'silver'),
+new tzone(-3, 1, 'silver'),
+new tzone(-3, 1, 'silver'),
+new tzone(-3, 1, 'silver'),
+new tzone(-3, 1, 'silver'),
+new tzone(0, 0, 'silver'),
+new tzone(0, 1, 'silver'),
+new tzone(0, 0, 'silver'),
+new tzone(0, 1, 'silver'),
+new tzone(0, 1, 'silver'),
+new tzone(+1, 1, 'silver'),
+new tzone(+1, 1, 'silver'),
+new tzone(+1, 1, 'silver'),
+new tzone(+1, 0, 'silver'),
+new tzone(+1, 0, 'silver'),
+new tzone(+1, 1, 'silver'),
+new tzone(+1, 1, 'silver'),
+new tzone(+1, 1, 'silver'),
+new tzone(+1, 1, 'silver'),
+new tzone(+1, 1, 'silver'),
+new tzone(+1, 1, 'silver'),
+new tzone(+1, 1, 'silver'),
+new tzone(+1, 1, 'silver'),
+new tzone(+1, 1, 'silver'),
+new tzone(+1, 1, 'silver'),
+new tzone(+1, 1, 'silver'),
+new tzone(+1, 1, 'silver'),
+new tzone(+1, 1, 'silver'),
+new tzone(+1, 1, 'silver'),
+new tzone(+1, 1, 'silver'),
+new tzone(+1, 1, 'silver'),
+new tzone(+2, 0, 'silver'),
+new tzone(+2, 1, 'silver'),
+new tzone(+2, 1, 'silver'),
+new tzone(+2, 1, 'silver'),
+new tzone(+2, 1, 'silver'),
+new tzone(+2, 1, 'silver'),
+new tzone(+2, 1, 'silver'),
+new tzone(+2, 0, 'silver'),
+new tzone(+2, 1, 'silver'),
+new tzone(+2, 1, 'silver'),
+new tzone(+2, 1, 'silver'),
+new tzone(+2, 0, 'silver'),
+new tzone(+2, 1, 'silver'),
+new tzone(+2, 1, 'silver'),
+new tzone(+2, 1, 'silver'),
+new tzone(+2, 1, 'silver'),
+new tzone(+2, 1, 'silver'),
+new tzone(+3, 0, 'silver'),
+new tzone(+3, 0, 'silver'),
+new tzone(+3, 1, 'silver'),
+new tzone(+3, 0, 'silver'),
+new tzone(+3, 1, 'silver'),
+new tzone(+3, 0, 'silver'),
+new tzone(+3, 0, 'silver'),
+new tzone(+3, 0, 'silver'),
+new tzone(+3, 0, 'silver'),
+new tzone(+3.5, 1, 'silver'),
+new tzone(+4, 0, 'silver'),
+new tzone(+4.5, 0, 'silver'),
+new tzone(+5, 0, 'silver'),
+new tzone(+5, 0, 'silver'),
+new tzone(+5, 0, 'silver'),
+new tzone(+5, 0, 'silver'),
+new tzone(+5.5, 0, 'silver'),
+new tzone(+5.5, 0, 'silver'),
+new tzone(+5.5, 0, 'silver'),
+new tzone(+5.75, 0, 'silver'),
+new tzone(+6, 0, 'silver'),
+new tzone(+6.5, 0, 'silver'),
+new tzone(+7, 0, 'silver'),
+new tzone(+7, 0, 'silver'),
+new tzone(+7, 0, 'silver'),
+new tzone(+7, 0, 'silver'),
+new tzone(+8, 0, 'silver'),
+new tzone(+8, 0, 'silver'),
+new tzone(+8, 0, 'silver'),
+new tzone(+8, 0, 'silver'),
+new tzone(+8, 0, 'silver'),
+new tzone(+8, 0, 'silver'),
+new tzone(+8, 0, 'silver'),
+new tzone(+8, 0, 'silver'),
+new tzone(+9, 0, 'silver'),
+new tzone(+9, 0, 'silver'),
+new tzone(+9.5, 0, 'silver'),
+new tzone(+10, 1, 'silver'),
+new tzone(+10, 0, 'silver'),
+new tzone(11, 1, 'silver'),
+new tzone(11, 1, 'silver'),
+new tzone(11, 1, 'silver'),
+new tzone(+9.5, 1, 'silver'),
+new tzone(+12, 1, 'silver'),
+new tzone(+12, 1, 'silver'),
+new tzone(+12, 0, 'silver'),
+new tzone(13, 1, 'silver'),
+new tzone(13.75, 1, 'silver'),
+new tzone(+14, 0, 'silver')
+    ) ;
+
+    var dt = new Date() ;	// [GMT] time according to machine clock
+    var startDST = new Date(dt.getFullYear(), 3, 1) ;
+
+    while (startDST.getDay() != 0)
+        startDST.setDate(startDST.getDate() + 1) ;
+
+    var endDST = new Date(dt.getFullYear(), 9, 31) ;
+
+    while (endDST.getDay() != 0)
+        endDST.setDate(endDST.getDate() - 1) ;
+
+    var ds_active ;		// DS currently active
+    if (startDST < dt && dt < endDST)
+        ds_active = 1 ;
+    else
+        ds_active = 0 ;
+
+// Adjust each clock offset if that clock has DS and in DS.
+
+//    for(n=0 ; n<ct.length ; n++)
+//        if (ct[n].ds == 1 && ds_active == 1) ct[n].os++ ;
+
+// compensate time zones
+
+    var printstr = "";
+
+    gmdt = new Date() ;
+    for (n=0 ; n<ct.length ; n++) {
+        ct[n].ct = new Date(gmdt.getTime() + ct[n].os * 3600 * 1000) ;
+    }
+
+document.all.Clockk0.innerHTML = ClockString(ct[0].ct);
+document.all.Clockk1.innerHTML = ClockString(ct[1].ct);
+document.all.Clockk2.innerHTML = ClockString(ct[2].ct);
+document.all.Clockk3.innerHTML = ClockString(ct[3].ct);
+document.all.Clockk4.innerHTML = ClockString(ct[4].ct);
+document.all.Clockk5.innerHTML = ClockString(ct[5].ct);
+document.all.Clockk6.innerHTML = ClockString(ct[6].ct);
+document.all.Clockk7.innerHTML = ClockString(ct[7].ct);
+document.all.Clockk8.innerHTML = ClockString(ct[8].ct);
+document.all.Clockk9.innerHTML = ClockString(ct[9].ct);
+document.all.Clockk10.innerHTML = ClockString(ct[10].ct);
+document.all.Clockk11.innerHTML = ClockString(ct[11].ct);
+document.all.Clockk12.innerHTML = ClockString(ct[12].ct);
+document.all.Clockk13.innerHTML = ClockString(ct[13].ct);
+document.all.Clockk14.innerHTML = ClockString(ct[14].ct);
+document.all.Clockk15.innerHTML = ClockString(ct[15].ct);
+document.all.Clockk16.innerHTML = ClockString(ct[16].ct);
+document.all.Clockk17.innerHTML = ClockString(ct[17].ct);
+document.all.Clockk18.innerHTML = ClockString(ct[18].ct);
+document.all.Clockk19.innerHTML = ClockString(ct[19].ct);
+document.all.Clockk20.innerHTML = ClockString(ct[20].ct);
+document.all.Clockk21.innerHTML = ClockString(ct[21].ct);
+document.all.Clockk22.innerHTML = ClockString(ct[22].ct);
+document.all.Clockk23.innerHTML = ClockString(ct[23].ct);
+document.all.Clockk24.innerHTML = ClockString(ct[24].ct);
+document.all.Clockk25.innerHTML = ClockString(ct[25].ct);
+document.all.Clockk26.innerHTML = ClockString(ct[26].ct);
+document.all.Clockk27.innerHTML = ClockString(ct[27].ct);
+document.all.Clockk28.innerHTML = ClockString(ct[28].ct);
+document.all.Clockk29.innerHTML = ClockString(ct[29].ct);
+document.all.Clockk30.innerHTML = ClockString(ct[30].ct);
+document.all.Clockk31.innerHTML = ClockString(ct[31].ct);
+document.all.Clockk32.innerHTML = ClockString(ct[32].ct);
+document.all.Clockk33.innerHTML = ClockString(ct[33].ct);
+document.all.Clockk34.innerHTML = ClockString(ct[34].ct);
+document.all.Clockk35.innerHTML = ClockString(ct[35].ct);
+document.all.Clockk36.innerHTML = ClockString(ct[36].ct);
+document.all.Clockk37.innerHTML = ClockString(ct[37].ct);
+document.all.Clockk38.innerHTML = ClockString(ct[38].ct);
+document.all.Clockk39.innerHTML = ClockString(ct[39].ct);
+document.all.Clockk40.innerHTML = ClockString(ct[40].ct);
+document.all.Clockk41.innerHTML = ClockString(ct[41].ct);
+document.all.Clockk42.innerHTML = ClockString(ct[42].ct);
+document.all.Clockk43.innerHTML = ClockString(ct[43].ct);
+document.all.Clockk44.innerHTML = ClockString(ct[44].ct);
+document.all.Clockk45.innerHTML = ClockString(ct[45].ct);
+document.all.Clockk46.innerHTML = ClockString(ct[46].ct);
+document.all.Clockk47.innerHTML = ClockString(ct[47].ct);
+document.all.Clockk48.innerHTML = ClockString(ct[48].ct);
+document.all.Clockk49.innerHTML = ClockString(ct[49].ct);
+document.all.Clockk50.innerHTML = ClockString(ct[50].ct);
+document.all.Clockk51.innerHTML = ClockString(ct[51].ct);
+document.all.Clockk52.innerHTML = ClockString(ct[52].ct);
+document.all.Clockk53.innerHTML = ClockString(ct[53].ct);
+document.all.Clockk54.innerHTML = ClockString(ct[54].ct);
+document.all.Clockk55.innerHTML = ClockString(ct[55].ct);
+document.all.Clockk56.innerHTML = ClockString(ct[56].ct);
+document.all.Clockk57.innerHTML = ClockString(ct[57].ct);
+document.all.Clockk58.innerHTML = ClockString(ct[58].ct);
+document.all.Clockk59.innerHTML = ClockString(ct[59].ct);
+document.all.Clockk60.innerHTML = ClockString(ct[60].ct);
+document.all.Clockk61.innerHTML = ClockString(ct[61].ct);
+document.all.Clockk62.innerHTML = ClockString(ct[62].ct);
+document.all.Clockk63.innerHTML = ClockString(ct[63].ct);
+document.all.Clockk64.innerHTML = ClockString(ct[64].ct);
+document.all.Clockk65.innerHTML = ClockString(ct[65].ct);
+document.all.Clockk66.innerHTML = ClockString(ct[66].ct);
+document.all.Clockk67.innerHTML = ClockString(ct[67].ct);
+document.all.Clockk68.innerHTML = ClockString(ct[68].ct);
+document.all.Clockk69.innerHTML = ClockString(ct[69].ct);
+document.all.Clockk70.innerHTML = ClockString(ct[70].ct);
+document.all.Clockk71.innerHTML = ClockString(ct[71].ct);
+document.all.Clockk72.innerHTML = ClockString(ct[72].ct);
+document.all.Clockk73.innerHTML = ClockString(ct[73].ct);
+document.all.Clockk74.innerHTML = ClockString(ct[74].ct);
+document.all.Clockk75.innerHTML = ClockString(ct[75].ct);
+document.all.Clockk76.innerHTML = ClockString(ct[76].ct);
+document.all.Clockk77.innerHTML = ClockString(ct[77].ct);
+document.all.Clockk78.innerHTML = ClockString(ct[78].ct);
+document.all.Clockk79.innerHTML = ClockString(ct[79].ct);
+document.all.Clockk80.innerHTML = ClockString(ct[80].ct);
+document.all.Clockk81.innerHTML = ClockString(ct[81].ct);
+document.all.Clockk82.innerHTML = ClockString(ct[82].ct);
+document.all.Clockk83.innerHTML = ClockString(ct[83].ct);
+document.all.Clockk84.innerHTML = ClockString(ct[84].ct);
+document.all.Clockk85.innerHTML = ClockString(ct[85].ct);
+document.all.Clockk86.innerHTML = ClockString(ct[86].ct);
+document.all.Clockk87.innerHTML = ClockString(ct[87].ct);
+document.all.Clockk88.innerHTML = ClockString(ct[88].ct);
+document.all.Clockk89.innerHTML = ClockString(ct[89].ct);
+document.all.Clockk90.innerHTML = ClockString(ct[90].ct);
+document.all.Clockk91.innerHTML = ClockString(ct[91].ct);
+document.all.Clockk92.innerHTML = ClockString(ct[92].ct);
+document.all.Clockk93.innerHTML = ClockString(ct[93].ct);
+document.all.Clockk94.innerHTML = ClockString(ct[94].ct);
+document.all.Clockk95.innerHTML = ClockString(ct[95].ct);
+document.all.Clockk96.innerHTML = ClockString(ct[96].ct);
+document.all.Clockk97.innerHTML = ClockString(ct[97].ct);
+document.all.Clockk98.innerHTML = ClockString(ct[98].ct);
+document.all.Clockk99.innerHTML = ClockString(ct[99].ct);
+document.all.Clockk100.innerHTML = ClockString(ct[100].ct);
+document.all.Clockk101.innerHTML = ClockString(ct[101].ct);
+document.all.Clockk102.innerHTML = ClockString(ct[102].ct);
+document.all.Clockk103.innerHTML = ClockString(ct[103].ct);
+document.all.Clockk104.innerHTML = ClockString(ct[104].ct);
+document.all.Clockk105.innerHTML = ClockString(ct[105].ct);
+document.all.Clockk106.innerHTML = ClockString(ct[106].ct);
+document.all.Clockk107.innerHTML = ClockString(ct[107].ct);
+document.all.Clockk108.innerHTML = ClockString(ct[108].ct);
+document.all.Clockk109.innerHTML = ClockString(ct[109].ct);
+document.all.Clockk110.innerHTML = ClockString(ct[110].ct);
+document.all.Clockk111.innerHTML = ClockString(ct[111].ct);
+document.all.Clockk112.innerHTML = ClockString(ct[112].ct);
+document.all.Clockk113.innerHTML = ClockString(ct[113].ct);
+document.all.Clockk114.innerHTML = ClockString(ct[114].ct);
+document.all.Clockk115.innerHTML = ClockString(ct[115].ct);
+document.all.Clockk116.innerHTML = ClockString(ct[116].ct);
+document.all.Clockk117.innerHTML = ClockString(ct[117].ct);
+document.all.Clockk118.innerHTML = ClockString(ct[118].ct);
+document.all.Clockk119.innerHTML = ClockString(ct[119].ct);
+document.all.Clockk120.innerHTML = ClockString(ct[120].ct);
+document.all.Clockk121.innerHTML = ClockString(ct[121].ct);
+document.all.Clockk122.innerHTML = ClockString(ct[122].ct);
+document.all.Clockk123.innerHTML = ClockString(ct[123].ct);
+document.all.Clockk124.innerHTML = ClockString(ct[124].ct);
+document.all.Clockk125.innerHTML = ClockString(ct[125].ct);
+document.all.Clockk126.innerHTML = ClockString(ct[126].ct);
+document.all.Clockk127.innerHTML = ClockString(ct[127].ct);
+document.all.Clockk128.innerHTML = ClockString(ct[128].ct);
+document.all.Clockk129.innerHTML = ClockString(ct[129].ct);
+document.all.Clockk130.innerHTML = ClockString(ct[130].ct);
+document.all.Clockk131.innerHTML = ClockString(ct[131].ct);
+document.all.Clockk132.innerHTML = ClockString(ct[132].ct);
+document.all.Clockk133.innerHTML = ClockString(ct[133].ct);
+document.all.Clockk134.innerHTML = ClockString(ct[134].ct);
+document.all.Clockk135.innerHTML = ClockString(ct[135].ct);
+document.all.Clockk136.innerHTML = ClockString(ct[136].ct);
+document.all.Clockk137.innerHTML = ClockString(ct[137].ct);
+document.all.Clockk138.innerHTML = ClockString(ct[138].ct);
+document.all.Clockk139.innerHTML = ClockString(ct[139].ct);
+document.all.Clockk140.innerHTML = ClockString(ct[140].ct);
+document.all.Clockk141.innerHTML = ClockString(ct[141].ct);
+    timerID = window.setTimeout("UpdateClocks()", 1001) ;
+}
+
+
+function ClockString(dt)
+{
+    var stemp ;
+    var dt_year = dt.getUTCFullYear() ;
+    var dt_month = dt.getUTCMonth() + 1 ;
+    var dt_day = dt.getUTCDate() ;
+    var dt_hour = dt.getUTCHours() ;
+    var dt_minute = dt.getUTCMinutes() ;
+    var dt_second = dt.getUTCSeconds() ;
+    dt_year = dt_year.toString() ;
+
+    if (dt_minute < 10)
+        dt_minute = '0' + dt_minute ;
+
+    if (dt_second < 10)
+        dt_second = '0' + dt_second ;
+
+    stemp = dt_year + '年' + dt_month + '月' + dt_day + '日';
+    stemp = stemp + ' ' + dt_hour + ":" + dt_minute + ":" + dt_second;
+    return stemp ;
+}
+</script>
+</head>
+<body onLoad="UpdateClocks()">
+
+
+<p style="width:90%">全球主要城市时区时差转换计算表：本时区时差转换计算功能收录了全球各主要城市同步时间信息，并能够对采用夏令时或夏时制的城市自动进行调整，以确保时间实时同步。</p></div>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%">
+<tr><td align=right style="font-size:80%">带 * 号的表示有夏令时调整<br>
+建议使用<b> Ctrl + F </b>输入要查询的城市名<br>
+如果您正在使用计算机的日期或时间数据有误,将导致本表数据存在同样误差
+</td></tr>
+</table>
+
+
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%">
+
+<tr>
+<td align=center bgcolor=#EFF1F3><b>所在国家名称</b></td>
+<td align=center bgcolor=#EFF1F3><b>主要城市名称</b></td>
+<td align=center bgcolor=#EFF1F3><b>同步即时时间</b></td>
+</tr>
+<tr>
+<td>美国</td><td>Honolulu 夏威夷檀香山</td><td class=clock><font color='red' ID=Clockk0>  </font></td>
+</tr>
+<tr>
+<td>美国</td><td>Anchorage 阿拉斯加安克雷奇</td><td class=clock><font color='red' ID=Clockk1>  </font></td>
+</tr>
+<tr>
+<td>加拿大</td><td>Vancouver 温哥华</td><td class=clock><font color='red' ID=Clockk2>  </font></td>
+</tr>
+<tr>
+<td>美国</td><td>San Francisco 旧金山</td><td class=clock><font color='red' ID=Clockk3>  </font></td>
+</tr>
+<tr>
+<td>美国</td><td>Seattle 西雅图</td><td class=clock><font color='red' ID=Clockk4>  </font></td>
+</tr>
+<tr>
+<td>美国</td><td>Los Angeles 洛杉矶</td><td class=clock><font color='red' ID=Clockk5>  </font></td>
+</tr>
+<tr>
+<td>加拿大</td><td>Aklavik 阿克拉维克</td><td class=clock><font color='red' ID=Clockk6>  </font></td>
+</tr>
+<tr>
+<td>加拿大</td><td>Edmonton 艾德蒙顿</td><td class=clock><font color='red' ID=Clockk7>  </font></td>
+</tr>
+<tr>
+<td>美国</td><td>Phoenix 凤凰城</td><td class=clock><font color='red' ID=Clockk8>  </font></td>
+</tr>
+<tr>
+<td>美国</td><td>Denver 丹佛</td><td class=clock><font color='red' ID=Clockk9>  </font></td>
+</tr>
+<tr>
+<td>墨西哥</td><td>Mexico City 墨西哥城</td><td class=clock><font color='red' ID=Clockk10>  </font></td>
+</tr>
+<tr>
+<td>加拿大</td><td>Winnipeg 温尼伯</td><td class=clock><font color='red' ID=Clockk11>  </font></td>
+</tr>
+<tr>
+<td>美国</td><td>Houston 休斯敦</td><td class=clock><font color='red' ID=Clockk12>  </font></td>
+</tr>
+<tr>
+<td>美国</td><td>Minneapolis 明尼亚波利斯</td><td class=clock><font color='red' ID=Clockk13>  </font></td>
+</tr>
+<tr>
+<td>美国</td><td>St. Paul 圣保罗</td><td class=clock><font color='red' ID=Clockk14>  </font></td>
+</tr>
+<tr>
+<td>美国</td><td>New Orleans 新奥尔良</td><td class=clock><font color='red' ID=Clockk15>  </font></td>
+</tr>
+<tr>
+<td>美国</td><td>Chicago 芝加哥</td><td class=clock><font color='red' ID=Clockk16>  </font></td>
+</tr>
+<tr>
+<td>美国</td><td>Montgomery 蒙哥马利</td><td class=clock><font color='red' ID=Clockk17>  </font></td>
+</tr>
+<tr>
+<td>危地马拉</td><td>Guatemala 危地马拉</td><td class=clock><font color='red' ID=Clockk18>  </font></td>
+</tr>
+<tr>
+<td>萨尔瓦多</td><td>San Salvador 圣萨尔瓦多</td><td class=clock><font color='red' ID=Clockk19>  </font></td>
+</tr>
+<tr>
+<td>洪都拉斯</td><td>Tegucigalpa 特古西加尔巴</td><td class=clock><font color='red' ID=Clockk20>  </font></td>
+</tr>
+<tr>
+<td>尼加拉瓜</td><td>Managua 马那瓜</td><td class=clock><font color='red' ID=Clockk21>  </font></td>
+</tr>
+<tr>
+<td>古巴</td><td>Havana 哈瓦那</td><td class=clock><font color='red' ID=Clockk22>  </font></td>
+</tr>
+<tr>
+<td>美国</td><td>Indianapolis 印地安纳波利斯</td><td class=clock><font color='red' ID=Clockk23>  </font></td>
+</tr>
+<tr>
+<td>美国</td><td>Atlanta 亚特兰大</td><td class=clock><font color='red' ID=Clockk24>  </font></td>
+</tr>
+<tr>
+<td>美国</td><td>Detroit 底特律</td><td class=clock><font color='red' ID=Clockk25>  </font></td>
+</tr>
+<tr>
+<td>美国</td><td>Washington DC 华盛顿哥伦比亚特区</td><td class=clock><font color='red' ID=Clockk26>  </font></td>
+</tr>
+<tr>
+<td>美国</td><td>Philadelphia 费城</td><td class=clock><font color='red' ID=Clockk27>  </font></td>
+</tr>
+<tr>
+<td>加拿大</td><td>Toronto 多伦多</td><td class=clock><font color='red' ID=Clockk28>  </font></td>
+</tr>
+<tr>
+<td>加拿大</td><td>Ottawa 渥太华</td><td class=clock><font color='red' ID=Clockk29>  </font></td>
+</tr>
+<tr>
+<td>巴哈马</td><td>Nassau 拿骚</td><td class=clock><font color='red' ID=Clockk30>  </font></td>
+</tr>
+<tr>
+<td>秘鲁</td><td>Lima 利马</td><td class=clock><font color='red' ID=Clockk31>  </font></td>
+</tr>
+<tr>
+<td>牙买加</td><td>Kingston 金斯敦</td><td class=clock><font color='red' ID=Clockk32>  </font></td>
+</tr>
+<tr>
+<td>哥伦比亚</td><td>Bogota 波哥大</td><td class=clock><font color='red' ID=Clockk33>  </font></td>
+</tr>
+<tr>
+<td>美国</td><td>New York 纽约</td><td class=clock><font color='red' ID=Clockk34>  </font></td>
+</tr>
+<tr>
+<td>加拿大</td><td>Montreal 蒙特利尔</td><td class=clock><font color='red' ID=Clockk35>  </font></td>
+</tr>
+<tr>
+<td>美国</td><td>Boston 波士顿</td><td class=clock><font color='red' ID=Clockk36>  </font></td>
+</tr>
+<tr>
+<td>多米尼加</td><td>Santo Domingo 圣多明各</td><td class=clock><font color='red' ID=Clockk37>  </font></td>
+</tr>
+<tr>
+<td>玻利维亚</td><td>La Paz 拉帕兹</td><td class=clock><font color='red' ID=Clockk38>  </font></td>
+</tr>
+<tr>
+<td>委内瑞拉</td><td>Caracas 加拉加斯</td><td class=clock><font color='red' ID=Clockk39>  </font></td>
+</tr>
+<tr>
+<td>波多黎各</td><td>San Juan 圣胡安</td><td class=clock><font color='red' ID=Clockk40>  </font></td>
+</tr>
+<tr>
+<td>加拿大</td><td>Halifax 哈里法克斯</td><td class=clock><font color='red' ID=Clockk41>  </font></td>
+</tr>
+<tr>
+<td>智利</td><td>Santiago 圣地亚哥</td><td class=clock><font color='red' ID=Clockk42>  </font></td>
+</tr>
+<tr>
+<td>巴拉圭</td><td>Asuncion 亚松森</td><td class=clock><font color='red' ID=Clockk43>  </font></td>
+</tr>
+<tr>
+<td>加拿大</td><td>St\. John\'s 圣约翰斯</td><td class=clock><font color='red' ID=Clockk44>  </font></td>
+</tr>
+<tr>
+<td>阿根廷</td><td>Buenos Aires 布宜诺斯艾利斯</td><td class=clock><font color='red' ID=Clockk45>  </font></td>
+</tr>
+<tr>
+<td>乌拉圭</td><td>Montevideo 蒙特维的亚</td><td class=clock><font color='red' ID=Clockk46>  </font></td>
+</tr>
+<tr>
+<td>巴西</td><td>Brasilia 巴西利亚</td><td class=clock><font color='red' ID=Clockk47>  </font></td>
+</tr>
+<tr>
+<td>巴西</td><td>Sao Paulo 圣保罗</td><td class=clock><font color='red' ID=Clockk48>  </font></td>
+</tr>
+<tr>
+<td>巴西</td><td>Rio de Janeiro 里约热内卢</td><td class=clock><font color='red' ID=Clockk49>  </font></td>
+</tr>
+<tr>
+<td>冰岛</td><td>Reykjavik 雷克雅未克</td><td class=clock><font color='red' ID=Clockk50>  </font></td>
+</tr>
+<tr>
+<td>葡萄牙</td><td>Lisbon 里斯本</td><td class=clock><font color='red' ID=Clockk51>  </font></td>
+</tr>
+<tr>
+<td>摩洛哥</td><td>Casablanca 卡萨布兰卡</td><td class=clock><font color='red' ID=Clockk52>  </font></td>
+</tr>
+<tr>
+<td>爱尔兰</td><td>Dublin 都柏林</td><td class=clock><font color='red' ID=Clockk53>  </font></td>
+</tr>
+<tr>
+<td>英国</td><td>London 伦敦</td><td class=clock><font color='red' ID=Clockk54>  </font></td>
+</tr>
+<tr>
+<td>西班牙</td><td>Madrid 马德里</td><td class=clock><font color='red' ID=Clockk55>  </font></td>
+</tr>
+<tr>
+<td>西班牙</td><td>Barcelona 巴塞罗那</td><td class=clock><font color='red' ID=Clockk56>  </font></td>
+</tr>
+<tr>
+<td>法国</td><td>Paris 巴黎</td><td class=clock><font color='red' ID=Clockk57>  </font></td>
+</tr>
+<tr>
+<td>尼日利亚</td><td>Lagos 拉各斯</td><td class=clock><font color='red' ID=Clockk58>  </font></td>
+</tr>
+<tr>
+<td>阿尔及利亚</td><td>Algiers 阿尔及尔</td><td class=clock><font color='red' ID=Clockk59>  </font></td>
+</tr>
+<tr>
+<td>比利时</td><td>Brussels 布鲁塞尔</td><td class=clock><font color='red' ID=Clockk60>  </font></td>
+</tr>
+<tr>
+<td>荷兰</td><td>Amsterdam 阿姆斯特丹</td><td class=clock><font color='red' ID=Clockk61>  </font></td>
+</tr>
+<tr>
+<td>瑞士</td><td>Geneva 日内瓦</td><td class=clock><font color='red' ID=Clockk62>  </font></td>
+</tr>
+<tr>
+<td>瑞士</td><td>Zurich 苏黎世</td><td class=clock><font color='red' ID=Clockk63>  </font></td>
+</tr>
+<tr>
+<td>德国</td><td>Frankfurt 法兰克福</td><td class=clock><font color='red' ID=Clockk64>  </font></td>
+</tr>
+<tr>
+<td>挪威</td><td>Oslo 奥斯陆</td><td class=clock><font color='red' ID=Clockk65>  </font></td>
+</tr>
+<tr>
+<td>丹麦</td><td>Copenhagen 哥本哈根</td><td class=clock><font color='red' ID=Clockk66>  </font></td>
+</tr>
+<tr>
+<td>意大利</td><td>Rome 罗马</td><td class=clock><font color='red' ID=Clockk67>  </font></td>
+</tr>
+<tr>
+<td>德国</td><td>Berlin 柏林</td><td class=clock><font color='red' ID=Clockk68>  </font></td>
+</tr>
+<tr>
+<td>捷克</td><td>Prague 布拉格</td><td class=clock><font color='red' ID=Clockk69>  </font></td>
+</tr>
+<tr>
+<td>克罗地亚</td><td>Zagreb 萨格雷布</td><td class=clock><font color='red' ID=Clockk70>  </font></td>
+</tr>
+<tr>
+<td>奥地利</td><td>Vienna 维也纳</td><td class=clock><font color='red' ID=Clockk71>  </font></td>
+</tr>
+<tr>
+<td>瑞典</td><td>Stockholm 斯德哥尔摩</td><td class=clock><font color='red' ID=Clockk72>  </font></td>
+</tr>
+<tr>
+<td>匈牙利</td><td>Budapest 布达佩斯</td><td class=clock><font color='red' ID=Clockk73>  </font></td>
+</tr>
+<tr>
+<td>塞尔维亚与蒙特内哥罗</td><td>Belgrade 贝尔格莱德</td><td class=clock><font color='red' ID=Clockk74>  </font></td>
+</tr>
+<tr>
+<td>波兰</td><td>Warsaw 华沙</td><td class=clock><font color='red' ID=Clockk75>  </font></td>
+</tr>
+<tr>
+<td>南非</td><td>Cape Town 开普敦</td><td class=clock><font color='red' ID=Clockk76>  </font></td>
+</tr>
+<tr>
+<td>保加利亚</td><td>Sofia 索非亚</td><td class=clock><font color='red' ID=Clockk77>  </font></td>
+</tr>
+<tr>
+<td>希腊</td><td>Athens 雅典城</td><td class=clock><font color='red' ID=Clockk78>  </font></td>
+</tr>
+<tr>
+<td>爱沙尼亚</td><td>Tallinn 塔林</td><td class=clock><font color='red' ID=Clockk79>  </font></td>
+</tr>
+<tr>
+<td>芬兰</td><td>Helsinki 赫尔辛基</td><td class=clock><font color='red' ID=Clockk80>  </font></td>
+</tr>
+<tr>
+<td>罗马尼亚</td><td>Bucharest 布加勒斯特</td><td class=clock><font color='red' ID=Clockk81>  </font></td>
+</tr>
+<tr>
+<td>白俄罗斯</td><td>Minsk 明斯克</td><td class=clock><font color='red' ID=Clockk82>  </font></td>
+</tr>
+<tr>
+<td>南非</td><td>Johannesburg 约翰尼斯堡</td><td class=clock><font color='red' ID=Clockk83>  </font></td>
+</tr>
+<tr>
+<td>土耳其</td><td>Istanbul 伊斯坦布尔</td><td class=clock><font color='red' ID=Clockk84>  </font></td>
+</tr>
+<tr>
+<td>乌克兰</td><td>Kyiv 基辅</td><td class=clock><font color='red' ID=Clockk85>  </font></td>
+</tr>
+<tr>
+<td>乌克兰</td><td>Odesa 敖德萨</td><td class=clock><font color='red' ID=Clockk86>  </font></td>
+</tr>
+<tr>
+<td>津巴布韦</td><td>Harare 哈拉雷</td><td class=clock><font color='red' ID=Clockk87>  </font></td>
+</tr>
+<tr>
+<td>埃及</td><td>Cairo 开罗</td><td class=clock><font color='red' ID=Clockk88>  </font></td>
+</tr>
+<tr>
+<td>土耳其</td><td>Ankara 安卡拉</td><td class=clock><font color='red' ID=Clockk89>  </font></td>
+</tr>
+<tr>
+<td>以色列</td><td>Jerusalem 耶路撒冷</td><td class=clock><font color='red' ID=Clockk90>  </font></td>
+</tr>
+<tr>
+<td>黎巴嫩</td><td>Beirut 贝鲁特</td><td class=clock><font color='red' ID=Clockk91>  </font></td>
+</tr>
+<tr>
+<td>约旦</td><td>Amman 安曼</td><td class=clock><font color='red' ID=Clockk92>  </font></td>
+</tr>
+<tr>
+<td>苏丹</td><td>Khartoum 喀土穆</td><td class=clock><font color='red' ID=Clockk93>  </font></td>
+</tr>
+<tr>
+<td>肯尼亚</td><td>Nairobi 内罗毕</td><td class=clock><font color='red' ID=Clockk94>  </font></td>
+</tr>
+<tr>
+<td>俄罗斯</td><td>Moscow 莫斯科</td><td class=clock><font color='red' ID=Clockk95>  </font></td>
+</tr>
+<tr>
+<td>埃塞俄比亚</td><td>Addis Ababa 亚的斯亚贝巴</td><td class=clock><font color='red' ID=Clockk96>  </font></td>
+</tr>
+<tr>
+<td>伊拉克</td><td>Baghdad 巴格达</td><td class=clock><font color='red' ID=Clockk97>  </font></td>
+</tr>
+<tr>
+<td>也门</td><td>Aden 亚丁</td><td class=clock><font color='red' ID=Clockk98>  </font></td>
+</tr>
+<tr>
+<td>沙特阿拉伯</td><td>Riyadh 利雅得</td><td class=clock><font color='red' ID=Clockk99>  </font></td>
+</tr>
+<tr>
+<td>马达加斯加</td><td>Antananarivo 安塔那那利佛</td><td class=clock><font color='red' ID=Clockk100>  </font></td>
+</tr>
+<tr>
+<td>科威特</td><td>Kuwait City 科威特城</td><td class=clock><font color='red' ID=Clockk101>  </font></td>
+</tr>
+<tr>
+<td>伊朗</td><td>Tehran 德黑兰</td><td class=clock><font color='red' ID=Clockk102>  </font></td>
+</tr>
+<tr>
+<td>阿拉伯联合酋长国</td><td>Abu Dhabi 阿布扎比</td><td class=clock><font color='red' ID=Clockk103>  </font></td>
+</tr>
+<tr>
+<td>阿富汗</td><td>Kabul 喀布尔</td><td class=clock><font color='red' ID=Clockk104>  </font></td>
+</tr>
+<tr>
+<td>巴基斯坦</td><td>Karachi 卡拉奇</td><td class=clock><font color='red' ID=Clockk105>  </font></td>
+</tr>
+<tr>
+<td>乌兹别克斯坦</td><td>Tashkent 塔什干</td><td class=clock><font color='red' ID=Clockk106>  </font></td>
+</tr>
+<tr>
+<td>巴基斯坦</td><td>Islamabad 伊斯兰堡</td><td class=clock><font color='red' ID=Clockk107>  </font></td>
+</tr>
+<tr>
+<td>巴基斯坦</td><td>Lahore 拉合尔</td><td class=clock><font color='red' ID=Clockk108>  </font></td>
+</tr>
+<tr>
+<td>印度</td><td>Mumbai 孟买</td><td class=clock><font color='red' ID=Clockk109>  </font></td>
+</tr>
+<tr>
+<td>印度</td><td>New Delhi 新德里</td><td class=clock><font color='red' ID=Clockk110>  </font></td>
+</tr>
+<tr>
+<td>印度</td><td>Kolkata 柯尔喀塔</td><td class=clock><font color='red' ID=Clockk111>  </font></td>
+</tr>
+<tr>
+<td>尼泊尔</td><td>Kathmandu 加德满都</td><td class=clock><font color='red' ID=Clockk112>  </font></td>
+</tr>
+<tr>
+<td>孟加拉</td><td>Dhaka 达卡</td><td class=clock><font color='red' ID=Clockk113>  </font></td>
+</tr>
+<tr>
+<td>缅甸</td><td>Yangon 仰光</td><td class=clock><font color='red' ID=Clockk114>  </font></td>
+</tr>
+<tr>
+<td>柬埔寨</td><td>Phnom Penh 金边</td><td class=clock><font color='red' ID=Clockk115>  </font></td>
+</tr>
+<tr>
+<td>泰国</td><td>Bangkok 曼谷</td><td class=clock><font color='red' ID=Clockk116>  </font></td>
+</tr>
+<tr>
+<td>越南</td><td>Hanoi 河内</td><td class=clock><font color='red' ID=Clockk117>  </font></td>
+</tr>
+<tr>
+<td>印尼</td><td>Jakarta 雅加达</td><td class=clock><font color='red' ID=Clockk118>  </font></td>
+</tr>
+<tr>
+<td>马来西亚</td><td>Kuala Lumpur 吉隆坡</td><td class=clock><font color='red' ID=Clockk119>  </font></td>
+</tr>
+<tr>
+<td>新加坡</td><td>Singapore 新加坡</td><td class=clock><font color='red' ID=Clockk120>  </font></td>
+</tr>
+<tr>
+<td>中国</td><td>Hong Kong 香港</td><td class=clock><font color='red' ID=Clockk121>  </font></td>
+</tr>
+<tr>
+<td>澳大利亚</td><td>Perth 珀斯</td><td class=clock><font color='red' ID=Clockk122>  </font></td>
+</tr>
+<tr>
+<td>中国</td><td>Beijing 北京</td><td class=clock><font color='red' ID=Clockk123>  </font></td>
+</tr>
+<tr>
+<td>菲律宾</td><td>Manila 马尼拉</td><td class=clock><font color='red' ID=Clockk124>  </font></td>
+</tr>
+<tr>
+<td>中国</td><td>Shanghai 上海</td><td class=clock><font color='red' ID=Clockk125>  </font></td>
+</tr>
+<tr>
+<td>中国</td><td>Taipei 台北</td><td class=clock><font color='red' ID=Clockk126>  </font></td>
+</tr>
+<tr>
+<td>韩国</td><td>Seoul 首尔(汉城)</td><td class=clock><font color='red' ID=Clockk127>  </font></td>
+</tr>
+<tr>
+<td>日本</td><td>Tokyo 东京</td><td class=clock><font color='red' ID=Clockk128>  </font></td>
+</tr>
+<tr>
+<td>澳大利亚</td><td>Darwin 达尔文</td><td class=clock><font color='red' ID=Clockk129>  </font></td>
+</tr>
+<tr>
+<td>俄罗斯</td><td>Vladivostok 符拉迪沃斯托克(海参崴)</td><td class=clock><font color='red' ID=Clockk130>  </font></td>
+</tr>
+<tr>
+<td>澳大利亚</td><td>Brisbane 布里斯班</td><td class=clock><font color='red' ID=Clockk131>  </font></td>
+</tr>
+<tr>
+<td>澳大利亚</td><td>Melbourne 墨尔本(*)</td><td class=clock><font color='red' ID=Clockk132>  </font></td>
+</tr>
+<tr>
+<td>澳大利亚</td><td>Canberra 堪培拉(*)</td><td class=clock><font color='red' ID=Clockk133>  </font></td>
+</tr>
+<tr>
+<td>澳大利亚</td><td>Sydney 悉尼(*)</td><td class=clock><font color='red' ID=Clockk134>  </font></td>
+</tr>
+<tr>
+<td>澳大利亚</td><td>Adelaide 亚特雷德</td><td class=clock><font color='red' ID=Clockk135>  </font></td>
+</tr>
+<tr>
+<td>俄罗斯</td><td>Kamchatka 堪察加</td><td class=clock><font color='red' ID=Clockk136>  </font></td>
+</tr>
+<tr>
+<td>俄罗斯</td><td>Anadyr 阿纳德尔</td><td class=clock><font color='red' ID=Clockk137>  </font></td>
+</tr>
+<tr>
+<td>斐济</td><td>Suva 苏瓦</td><td class=clock><font color='red' ID=Clockk138>  </font></td>
+</tr>
+<tr>
+<td>新西兰</td><td>Wellington 惠灵顿(*)</td><td class=clock><font color='red' ID=Clockk139>  </font></td>
+</tr>
+<tr>
+<td>新西兰</td><td>Chatham Island 查塔姆群岛(*)</td><td class=clock><font color='red' ID=Clockk140>  </font></td>
+</tr>
+<tr>
+<td>基里巴斯</td><td>Kiritimati 圣诞岛</td><td class=clock><font color='red' ID=Clockk141>  </font></td>
+</tr>
+</tr></table>
+</div></div></div><a name="anchor5"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        世界时差对照表</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="text-align: center;"><a href="http://img.xixik.net/custom/section/shicha/xixik-e6a5851e4510169a.jpg" title="世界主要城市时差对照表"><img src="http://img.xixik.net/custom/section/shicha/xixik-e6a5851e4510169a.jpg" style="width: 90%; max-width: 90%;" /></a></p><p style="text-align: center;">	图：世界主要城市时差对照表</p><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width:90%"><tbody><tr><td bgcolor="#CCCCCC">				北　京</td><td bgcolor="#FFFFFF">				1</td><td bgcolor="#FFFFFF">				2</td><td bgcolor="#FFFFFF">				3</td><td bgcolor="#FFFFFF">				4</td><td bgcolor="#FFFFFF">				5</td><td bgcolor="#FFFFFF">				6</td><td bgcolor="#FFFFFF">				7</td><td bgcolor="#FFFFFF">				8</td><td bgcolor="#FFFFFF">				9</td><td bgcolor="#FFFFFF">				10</td><td bgcolor="#FFFFFF">				11</td><td bgcolor="#FFFFFF">				12</td><td bgcolor="#FFFFFF">				13</td><td bgcolor="#FFFFFF">				14</td><td bgcolor="#FFFFFF">				15</td><td bgcolor="#FFFFFF">				16</td><td bgcolor="#FFFFFF">				17</td><td bgcolor="#FFFFFF">				18</td><td bgcolor="#FFFFFF">				19</td><td bgcolor="#FFFFFF">				20</td><td bgcolor="#FFFFFF">				21</td><td bgcolor="#FFFFFF">				22</td><td bgcolor="#FFFFFF">				23</td><td bgcolor="ECB469">				24</td></tr><tr><td bgcolor="#CCCCCC">				东　京</td><td bgcolor="#FFFFFF">				2</td><td bgcolor="#FFFFFF">				3</td><td bgcolor="#FFFFFF">				4</td><td bgcolor="#FFFFFF">				5</td><td bgcolor="#FFFFFF">				6</td><td bgcolor="#FFFFFF">				7</td><td bgcolor="#FFFFFF">				8</td><td bgcolor="#FFFFFF">				9</td><td bgcolor="#FFFFFF">				10</td><td bgcolor="#FFFFFF">				11</td><td bgcolor="#FFFFFF">				12</td><td bgcolor="#FFFFFF">				13</td><td bgcolor="#FFFFFF">				14</td><td bgcolor="#FFFFFF">				15</td><td bgcolor="#FFFFFF">				16</td><td bgcolor="#FFFFFF">				17</td><td bgcolor="#FFFFFF">				18</td><td bgcolor="#FFFFFF">				19</td><td bgcolor="#FFFFFF">				20</td><td bgcolor="#FFFFFF">				21</td><td bgcolor="#FFFFFF">				22</td><td bgcolor="#FFFFFF">				23</td><td bgcolor="#FFFFFF">				24</td><td bgcolor="ECB469">				1</td></tr><tr><td bgcolor="#CCCCCC">				悉　尼</td><td bgcolor="#FFFFFF">				3</td><td bgcolor="#FFFFFF">				4</td><td bgcolor="#FFFFFF">				5</td><td bgcolor="#FFFFFF">				6</td><td bgcolor="#FFFFFF">				7</td><td bgcolor="#FFFFFF">				8</td><td bgcolor="#FFFFFF">				9</td><td bgcolor="#FFFFFF">				10</td><td bgcolor="#FFFFFF">				11</td><td bgcolor="#FFFFFF">				12</td><td bgcolor="#FFFFFF">				13</td><td bgcolor="#FFFFFF">				14</td><td bgcolor="#FFFFFF">				15</td><td bgcolor="#FFFFFF">				16</td><td bgcolor="#FFFFFF">				17</td><td bgcolor="#FFFFFF">				18</td><td bgcolor="#FFFFFF">				19</td><td bgcolor="#FFFFFF">				20</td><td bgcolor="#FFFFFF">				21</td><td bgcolor="#FFFFFF">				22</td><td bgcolor="#FFFFFF">				23</td><td bgcolor="#FFFFFF">				24</td><td bgcolor="ECB469">				1</td><td bgcolor="ECB469">				2</td></tr><tr><td bgcolor="#CCCCCC">				努美阿</td><td bgcolor="#FFFFFF">				4</td><td bgcolor="#FFFFFF">				5</td><td bgcolor="#FFFFFF">				6</td><td bgcolor="#FFFFFF">				7</td><td bgcolor="#FFFFFF">				8</td><td bgcolor="#FFFFFF">				9</td><td bgcolor="#FFFFFF">				10</td><td bgcolor="#FFFFFF">				11</td><td bgcolor="#FFFFFF">				12</td><td bgcolor="#FFFFFF">				13</td><td bgcolor="#FFFFFF">				14</td><td bgcolor="#FFFFFF">				15</td><td bgcolor="#FFFFFF">				16</td><td bgcolor="#FFFFFF">				17</td><td bgcolor="#FFFFFF">				18</td><td bgcolor="#FFFFFF">				19</td><td bgcolor="#FFFFFF">				20</td><td bgcolor="#FFFFFF">				21</td><td bgcolor="#FFFFFF">				22</td><td bgcolor="#FFFFFF">				23</td><td bgcolor="#FFFFFF">				24</td><td bgcolor="ECB469">				1</td><td bgcolor="ECB469">				2</td><td bgcolor="ECB469">				3</td></tr><tr><td bgcolor="#CCCCCC">				惠灵顿</td><td bgcolor="#FFFFFF">				5</td><td bgcolor="#FFFFFF">				6</td><td bgcolor="#FFFFFF">				7</td><td bgcolor="#FFFFFF">				8</td><td bgcolor="#FFFFFF">				9</td><td bgcolor="#FFFFFF">				10</td><td bgcolor="#FFFFFF">				11</td><td bgcolor="#FFFFFF">				12</td><td bgcolor="#FFFFFF">				13</td><td bgcolor="#FFFFFF">				14</td><td bgcolor="#FFFFFF">				15</td><td bgcolor="#FFFFFF">				16</td><td bgcolor="#FFFFFF">				17</td><td bgcolor="#FFFFFF">				18</td><td bgcolor="#FFFFFF">				19</td><td bgcolor="#FFFFFF">				20</td><td bgcolor="#FFFFFF">				21</td><td bgcolor="#FFFFFF">				22</td><td bgcolor="#FFFFFF">				23</td><td bgcolor="#FFFFFF">				24</td><td bgcolor="ECB469">				1</td><td bgcolor="ECB469">				2</td><td bgcolor="ECB469">				3</td><td bgcolor="ECB469">				4</td></tr><tr><td bgcolor="#CCCCCC">				檀香山</td><td bgcolor="#FFFFFF">				6</td><td bgcolor="#FFFFFF">				7</td><td bgcolor="#FFFFFF">				8</td><td bgcolor="#FFFFFF">				9</td><td bgcolor="#FFFFFF">				10</td><td bgcolor="#FFFFFF">				11</td><td bgcolor="#FFFFFF">				12</td><td bgcolor="#FFFFFF">				13</td><td bgcolor="#FFFFFF">				14</td><td bgcolor="#FFFFFF">				15</td><td bgcolor="#FFFFFF">				16</td><td bgcolor="#FFFFFF">				17</td><td bgcolor="#FFFFFF">				18</td><td bgcolor="#FFFFFF">				19</td><td bgcolor="#FFFFFF">				20</td><td bgcolor="#FFFFFF">				21</td><td bgcolor="#FFFFFF">				22</td><td bgcolor="#FFFFFF">				23</td><td bgcolor="#FFFFFF">				24</td><td bgcolor="ECB469">				1</td><td bgcolor="ECB469">				2</td><td bgcolor="ECB469">				3</td><td bgcolor="ECB469">				4</td><td bgcolor="ECB469">				5</td></tr><tr><td bgcolor="#CCCCCC">				育空堡</td><td bgcolor="#FFFFFF">				7</td><td bgcolor="#FFFFFF">				8</td><td bgcolor="#FFFFFF">				9</td><td bgcolor="#FFFFFF">				10</td><td bgcolor="#FFFFFF">				11</td><td bgcolor="#FFFFFF">				12</td><td bgcolor="#FFFFFF">				13</td><td bgcolor="#FFFFFF">				14</td><td bgcolor="#FFFFFF">				15</td><td bgcolor="#FFFFFF">				16</td><td bgcolor="#FFFFFF">				17</td><td bgcolor="#FFFFFF">				18</td><td bgcolor="#FFFFFF">				19</td><td bgcolor="#FFFFFF">				20</td><td bgcolor="#FFFFFF">				21</td><td bgcolor="#FFFFFF">				22</td><td bgcolor="#FFFFFF">				23</td><td bgcolor="#FFFFFF">				24</td><td bgcolor="ECB469">				1</td><td bgcolor="ECB469">				2</td><td bgcolor="ECB469">				3</td><td bgcolor="ECB469">				4</td><td bgcolor="ECB469">				5</td><td bgcolor="ECB469">				6</td></tr><tr><td bgcolor="#CCCCCC">				朱　诺</td><td bgcolor="#FFFFFF">				8</td><td bgcolor="#FFFFFF">				9</td><td bgcolor="#FFFFFF">				10</td><td bgcolor="#FFFFFF">				11</td><td bgcolor="#FFFFFF">				12</td><td bgcolor="#FFFFFF">				13</td><td bgcolor="#FFFFFF">				14</td><td bgcolor="#FFFFFF">				15</td><td bgcolor="#FFFFFF">				16</td><td bgcolor="#FFFFFF">				17</td><td bgcolor="#FFFFFF">				18</td><td bgcolor="#FFFFFF">				19</td><td bgcolor="#FFFFFF">				20</td><td bgcolor="#FFFFFF">				21</td><td bgcolor="#FFFFFF">				22</td><td bgcolor="#FFFFFF">				23</td><td bgcolor="#FFFFFF">				24</td><td bgcolor="ECB469">				1</td><td bgcolor="ECB469">				2</td><td bgcolor="ECB469">				3</td><td bgcolor="ECB469">				4</td><td bgcolor="ECB469">				5</td><td bgcolor="ECB469">				6</td><td bgcolor="ECB469">				7</td></tr><tr><td bgcolor="#CCCCCC">				旧金山</td><td bgcolor="#FFFFFF">				9</td><td bgcolor="#FFFFFF">				10</td><td bgcolor="#FFFFFF">				11</td><td bgcolor="#FFFFFF">				12</td><td bgcolor="#FFFFFF">				13</td><td bgcolor="#FFFFFF">				14</td><td bgcolor="#FFFFFF">				15</td><td bgcolor="#FFFFFF">				16</td><td bgcolor="#FFFFFF">				17</td><td bgcolor="#FFFFFF">				18</td><td bgcolor="#FFFFFF">				19</td><td bgcolor="#FFFFFF">				20</td><td bgcolor="#FFFFFF">				21</td><td bgcolor="#FFFFFF">				22</td><td bgcolor="#FFFFFF">				23</td><td bgcolor="#FFFFFF">				24</td><td bgcolor="ECB469">				1</td><td bgcolor="ECB469">				2</td><td bgcolor="ECB469">				3</td><td bgcolor="ECB469">				4</td><td bgcolor="ECB469">				5</td><td bgcolor="ECB469">				6</td><td bgcolor="ECB469">				7</td><td bgcolor="ECB469">				8</td></tr><tr><td bgcolor="#CCCCCC">				丹　 佛</td><td bgcolor="#FFFFFF">				10</td><td bgcolor="#FFFFFF">				11</td><td bgcolor="#FFFFFF">				12</td><td bgcolor="#FFFFFF">				13</td><td bgcolor="#FFFFFF">				14</td><td bgcolor="#FFFFFF">				15</td><td bgcolor="#FFFFFF">				16</td><td bgcolor="#FFFFFF">				17</td><td bgcolor="#FFFFFF">				18</td><td bgcolor="#FFFFFF">				19</td><td bgcolor="#FFFFFF">				20</td><td bgcolor="#FFFFFF">				21</td><td bgcolor="#FFFFFF">				22</td><td bgcolor="#FFFFFF">				23</td><td bgcolor="#FFFFFF">				24</td><td bgcolor="ECB469">				1</td><td bgcolor="ECB469">				2</td><td bgcolor="ECB469">				3</td><td bgcolor="ECB469">				4</td><td bgcolor="ECB469">				5</td><td bgcolor="ECB469">				6</td><td bgcolor="ECB469">				7</td><td bgcolor="ECB469">				8</td><td bgcolor="ECB469">				9</td></tr><tr><td bgcolor="#CCCCCC">				芝加哥</td><td bgcolor="#FFFFFF">				11</td><td bgcolor="#FFFFFF">				12</td><td bgcolor="#FFFFFF">				13</td><td bgcolor="#FFFFFF">				14</td><td bgcolor="#FFFFFF">				15</td><td bgcolor="#FFFFFF">				16</td><td bgcolor="#FFFFFF">				17</td><td bgcolor="#FFFFFF">				18</td><td bgcolor="#FFFFFF">				19</td><td bgcolor="#FFFFFF">				20</td><td bgcolor="#FFFFFF">				21</td><td bgcolor="#FFFFFF">				22</td><td bgcolor="#FFFFFF">				23</td><td bgcolor="#FFFFFF">				24</td><td bgcolor="ECB469">				1</td><td bgcolor="ECB469">				2</td><td bgcolor="ECB469">				3</td><td bgcolor="ECB469">				4</td><td bgcolor="ECB469">				5</td><td bgcolor="ECB469">				6</td><td bgcolor="ECB469">				7</td><td bgcolor="ECB469">				8</td><td bgcolor="ECB469">				9</td><td bgcolor="ECB469">				10</td></tr><tr><td bgcolor="#CCCCCC">				纽　 约</td><td bgcolor="#FFFFFF">				12</td><td bgcolor="#FFFFFF">				13</td><td bgcolor="#FFFFFF">				14</td><td bgcolor="#FFFFFF">				15</td><td bgcolor="#FFFFFF">				16</td><td bgcolor="#FFFFFF">				17</td><td bgcolor="#FFFFFF">				18</td><td bgcolor="#FFFFFF">				19</td><td bgcolor="#FFFFFF">				20</td><td bgcolor="#FFFFFF">				21</td><td bgcolor="#FFFFFF">				22</td><td bgcolor="#FFFFFF">				23</td><td bgcolor="#FFFFFF">				24</td><td bgcolor="ECB469">				1</td><td bgcolor="ECB469">				2</td><td bgcolor="ECB469">				3</td><td bgcolor="ECB469">				4</td><td bgcolor="ECB469">				5</td><td bgcolor="ECB469">				6</td><td bgcolor="ECB469">				7</td><td bgcolor="ECB469">				8</td><td bgcolor="ECB469">				9</td><td bgcolor="ECB469">				10</td><td bgcolor="ECB469">				11</td></tr><tr><td bgcolor="#CCCCCC">				苏克雷</td><td bgcolor="#FFFFFF">				13</td><td bgcolor="#FFFFFF">				14</td><td bgcolor="#FFFFFF">				15</td><td bgcolor="#FFFFFF">				16</td><td bgcolor="#FFFFFF">				17</td><td bgcolor="#FFFFFF">				18</td><td bgcolor="#FFFFFF">				19</td><td bgcolor="#FFFFFF">				20</td><td bgcolor="#FFFFFF">				21</td><td bgcolor="#FFFFFF">				22</td><td bgcolor="#FFFFFF">				23</td><td bgcolor="#FFFFFF">				24</td><td bgcolor="ECB469">				1</td><td bgcolor="ECB469">				2</td><td bgcolor="ECB469">				3</td><td bgcolor="ECB469">				4</td><td bgcolor="ECB469">				5</td><td bgcolor="ECB469">				6</td><td bgcolor="ECB469">				7</td><td bgcolor="ECB469">				8</td><td bgcolor="ECB469">				9</td><td bgcolor="ECB469">				10</td><td bgcolor="ECB469">				11</td><td bgcolor="ECB469">				12</td></tr><tr><td bgcolor="#CCCCCC">				圣保罗</td><td bgcolor="#FFFFFF">				14</td><td bgcolor="#FFFFFF">				15</td><td bgcolor="#FFFFFF">				16</td><td bgcolor="#FFFFFF">				17</td><td bgcolor="#FFFFFF">				18</td><td bgcolor="#FFFFFF">				19</td><td bgcolor="#FFFFFF">				20</td><td bgcolor="#FFFFFF">				21</td><td bgcolor="#FFFFFF">				22</td><td bgcolor="#FFFFFF">				23</td><td bgcolor="#FFFFFF">				24</td><td bgcolor="ECB469">				1</td><td bgcolor="ECB469">				2</td><td bgcolor="ECB469">				3</td><td bgcolor="ECB469">				4</td><td bgcolor="ECB469">				5</td><td bgcolor="ECB469">				6</td><td bgcolor="ECB469">				7</td><td bgcolor="ECB469">				8</td><td bgcolor="ECB469">				9</td><td bgcolor="ECB469">				10</td><td bgcolor="ECB469">				11</td><td bgcolor="ECB469">				12</td><td bgcolor="ECB469">				13</td></tr><tr><td bgcolor="#CCCCCC">				累西腓</td><td bgcolor="#FFFFFF">				15</td><td bgcolor="#FFFFFF">				16</td><td bgcolor="#FFFFFF">				17</td><td bgcolor="#FFFFFF">				18</td><td bgcolor="#FFFFFF">				19</td><td bgcolor="#FFFFFF">				20</td><td bgcolor="#FFFFFF">				21</td><td bgcolor="#FFFFFF">				22</td><td bgcolor="#FFFFFF">				23</td><td bgcolor="#FFFFFF">				24</td><td bgcolor="ECB469">				1</td><td bgcolor="ECB469">				2</td><td bgcolor="ECB469">				3</td><td bgcolor="ECB469">				4</td><td bgcolor="ECB469">				5</td><td bgcolor="ECB469">				6</td><td bgcolor="ECB469">				7</td><td bgcolor="ECB469">				8</td><td bgcolor="ECB469">				9</td><td bgcolor="ECB469">				10</td><td bgcolor="ECB469">				11</td><td bgcolor="ECB469">				12</td><td bgcolor="ECB469">				13</td><td bgcolor="ECB469">				14</td></tr><tr><td bgcolor="#CCCCCC">				达喀尔</td><td bgcolor="#FFFFFF">				16</td><td bgcolor="#FFFFFF">				17</td><td bgcolor="#FFFFFF">				18</td><td bgcolor="#FFFFFF">				19</td><td bgcolor="#FFFFFF">				20</td><td bgcolor="#FFFFFF">				21</td><td bgcolor="#FFFFFF">				22</td><td bgcolor="#FFFFFF">				23</td><td bgcolor="#FFFFFF">				24</td><td bgcolor="ECB469">				1</td><td bgcolor="ECB469">				2</td><td bgcolor="ECB469">				3</td><td bgcolor="ECB469">				4</td><td bgcolor="ECB469">				5</td><td bgcolor="ECB469">				6</td><td bgcolor="ECB469">				7</td><td bgcolor="ECB469">				8</td><td bgcolor="ECB469">				9</td><td bgcolor="ECB469">				10</td><td bgcolor="ECB469">				11</td><td bgcolor="ECB469">				12</td><td bgcolor="ECB469">				13</td><td bgcolor="ECB469">				14</td><td bgcolor="ECB469">				15</td></tr><tr><td bgcolor="#CCCCCC">				伦　 敦</td><td bgcolor="#FFFFFF">				17</td><td bgcolor="#FFFFFF">				18</td><td bgcolor="#FFFFFF">				19</td><td bgcolor="#FFFFFF">				20</td><td bgcolor="#FFFFFF">				21</td><td bgcolor="#FFFFFF">				22</td><td bgcolor="#FFFFFF">				23</td><td bgcolor="#FFFFFF">				24</td><td bgcolor="ECB469">				1</td><td bgcolor="ECB469">				2</td><td bgcolor="ECB469">				3</td><td bgcolor="ECB469">				4</td><td bgcolor="ECB469">				5</td><td bgcolor="ECB469">				6</td><td bgcolor="ECB469">				7</td><td bgcolor="ECB469">				8</td><td bgcolor="ECB469">				9</td><td bgcolor="ECB469">				10</td><td bgcolor="ECB469">				11</td><td bgcolor="ECB469">				12</td><td bgcolor="ECB469">				13</td><td bgcolor="ECB469">				14</td><td bgcolor="ECB469">				15</td><td bgcolor="ECB469">				16</td></tr><tr><td bgcolor="#CCCCCC">				罗　 马</td><td bgcolor="#FFFFFF">				18</td><td bgcolor="#FFFFFF">				19</td><td bgcolor="#FFFFFF">				20</td><td bgcolor="#FFFFFF">				21</td><td bgcolor="#FFFFFF">				22</td><td bgcolor="#FFFFFF">				23</td><td bgcolor="#FFFFFF">				24</td><td bgcolor="ECB469">				1</td><td bgcolor="ECB469">				2</td><td bgcolor="ECB469">				3</td><td bgcolor="ECB469">				4</td><td bgcolor="ECB469">				5</td><td bgcolor="ECB469">				6</td><td bgcolor="ECB469">				7</td><td bgcolor="ECB469">				8</td><td bgcolor="ECB469">				9</td><td bgcolor="ECB469">				10</td><td bgcolor="ECB469">				11</td><td bgcolor="ECB469">				12</td><td bgcolor="ECB469">				13</td><td bgcolor="ECB469">				14</td><td bgcolor="ECB469">				15</td><td bgcolor="ECB469">				16</td><td bgcolor="ECB469">				17</td></tr><tr><td bgcolor="#CCCCCC">				开　 罗</td><td bgcolor="#FFFFFF">				19</td><td bgcolor="#FFFFFF">				20</td><td bgcolor="#FFFFFF">				21</td><td bgcolor="#FFFFFF">				22</td><td bgcolor="#FFFFFF">				23</td><td bgcolor="#FFFFFF">				24</td><td bgcolor="ECB469">				1</td><td bgcolor="ECB469">				2</td><td bgcolor="ECB469">				3</td><td bgcolor="ECB469">				4</td><td bgcolor="ECB469">				5</td><td bgcolor="ECB469">				6</td><td bgcolor="ECB469">				7</td><td bgcolor="ECB469">				8</td><td bgcolor="ECB469">				9</td><td bgcolor="ECB469">				10</td><td bgcolor="ECB469">				11</td><td bgcolor="ECB469">				12</td><td bgcolor="ECB469">				13</td><td bgcolor="ECB469">				14</td><td bgcolor="ECB469">				15</td><td bgcolor="ECB469">				16</td><td bgcolor="ECB469">				17</td><td bgcolor="ECB469">				18</td></tr><tr><td bgcolor="#CCCCCC">				莫斯科</td><td bgcolor="#FFFFFF">				20</td><td bgcolor="#FFFFFF">				21</td><td bgcolor="#FFFFFF">				22</td><td bgcolor="#FFFFFF">				23</td><td bgcolor="#FFFFFF">				24</td><td bgcolor="ECB469">				1</td><td bgcolor="ECB469">				2</td><td bgcolor="ECB469">				3</td><td bgcolor="ECB469">				4</td><td bgcolor="ECB469">				5</td><td bgcolor="ECB469">				6</td><td bgcolor="ECB469">				7</td><td bgcolor="ECB469">				8</td><td bgcolor="ECB469">				9</td><td bgcolor="ECB469">				10</td><td bgcolor="ECB469">				11</td><td bgcolor="ECB469">				12</td><td bgcolor="ECB469">				13</td><td bgcolor="ECB469">				14</td><td bgcolor="ECB469">				15</td><td bgcolor="ECB469">				16</td><td bgcolor="ECB469">				17</td><td bgcolor="ECB469">				18</td><td bgcolor="ECB469">				19</td></tr><tr><td bgcolor="#CCCCCC">				德黑兰</td><td bgcolor="#FFFFFF">				21</td><td bgcolor="#FFFFFF">				22</td><td bgcolor="#FFFFFF">				23</td><td bgcolor="#FFFFFF">				24</td><td bgcolor="ECB469">				1</td><td bgcolor="ECB469">				2</td><td bgcolor="ECB469">				3</td><td bgcolor="ECB469">				4</td><td bgcolor="ECB469">				5</td><td bgcolor="ECB469">				6</td><td bgcolor="ECB469">				7</td><td bgcolor="ECB469">				8</td><td bgcolor="ECB469">				9</td><td bgcolor="ECB469">				10</td><td bgcolor="ECB469">				11</td><td bgcolor="ECB469">				12</td><td bgcolor="ECB469">				13</td><td bgcolor="ECB469">				14</td><td bgcolor="ECB469">				15</td><td bgcolor="ECB469">				16</td><td bgcolor="ECB469">				17</td><td bgcolor="ECB469">				18</td><td bgcolor="ECB469">				19</td><td bgcolor="ECB469">				20</td></tr><tr><td bgcolor="#CCCCCC">				新德里</td><td bgcolor="#FFFFFF">				22</td><td bgcolor="#FFFFFF">				23</td><td bgcolor="#FFFFFF">				24</td><td bgcolor="ECB469">				1</td><td bgcolor="ECB469">				2</td><td bgcolor="ECB469">				3</td><td bgcolor="ECB469">				4</td><td bgcolor="ECB469">				5</td><td bgcolor="ECB469">				6</td><td bgcolor="ECB469">				7</td><td bgcolor="ECB469">				8</td><td bgcolor="ECB469">				9</td><td bgcolor="ECB469">				10</td><td bgcolor="ECB469">				11</td><td bgcolor="ECB469">				12</td><td bgcolor="ECB469">				13</td><td bgcolor="ECB469">				14</td><td bgcolor="ECB469">				15</td><td bgcolor="ECB469">				16</td><td bgcolor="ECB469">				17</td><td bgcolor="ECB469">				18</td><td bgcolor="ECB469">				19</td><td bgcolor="ECB469">				20</td><td bgcolor="ECB469">				21</td></tr><tr><td bgcolor="#CCCCCC">				达　 卡</td><td bgcolor="#FFFFFF">				23</td><td bgcolor="#FFFFFF">				24</td><td bgcolor="ECB469">				1</td><td bgcolor="ECB469">				2</td><td bgcolor="ECB469">				3</td><td bgcolor="ECB469">				4</td><td bgcolor="ECB469">				5</td><td bgcolor="ECB469">				6</td><td bgcolor="ECB469">				7</td><td bgcolor="ECB469">				8</td><td bgcolor="ECB469">				9</td><td bgcolor="ECB469">				10</td><td bgcolor="ECB469">				11</td><td bgcolor="ECB469">				12</td><td bgcolor="ECB469">				13</td><td bgcolor="ECB469">				14</td><td bgcolor="ECB469">				15</td><td bgcolor="ECB469">				16</td><td bgcolor="ECB469">				17</td><td bgcolor="ECB469">				18</td><td bgcolor="ECB469">				19</td><td bgcolor="ECB469">				20</td><td bgcolor="ECB469">				21</td><td bgcolor="ECB469">				22</td></tr><tr><td bgcolor="#CCCCCC">				雅加达</td><td bgcolor="#FFFFFF">				24</td><td bgcolor="ECB469">				1</td><td bgcolor="ECB469">				2</td><td bgcolor="ECB469">				3</td><td bgcolor="ECB469">				4</td><td bgcolor="ECB469">				5</td><td bgcolor="ECB469">				6</td><td bgcolor="ECB469">				7</td><td bgcolor="ECB469">				8</td><td bgcolor="ECB469">				9</td><td bgcolor="ECB469">				10</td><td bgcolor="ECB469">				11</td><td bgcolor="ECB469">				12</td><td bgcolor="ECB469">				13</td><td bgcolor="ECB469">				14</td><td bgcolor="ECB469">				15</td><td bgcolor="ECB469">				16</td><td bgcolor="ECB469">				17</td><td bgcolor="ECB469">				18</td><td bgcolor="ECB469">				19</td><td bgcolor="ECB469">				20</td><td bgcolor="ECB469">				21</td><td bgcolor="ECB469">				22</td><td bgcolor="ECB469">				23</td></tr></tbody></table><p><strong>世界主要城市时差对照表：</strong>http://114.xixik.com/shicha/</p></div></div></div><a name="anchor6"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        中国有没有时差？</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	中国目前全国统一使用一个时区，也就是北京时间。北京时间是中国采用国际时区东八时区的区时作为标准时间。<strong>北京时间并不是北京（东经116.4&deg;）的地方时间</strong>，而是东经120&deg;（东八区）的地方时间，故东经120度地方时比北京的地方时早约14分半钟。因为北京处于国际时区划分中的东八区，同格林威治时间（世界时）整整相差8小时（即北京时间=世界时+8小时），故命名为&ldquo;北京时间&rdquo;。</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/custom/section/shicha/xixik-00fb86af15398ffb.jpeg" /></p><p style="TEXT-INDENT:2em">	而中国幅员辽阔，东西相跨5个时区（即东五区、东六区、东七区、东八区、东九区5个时区），授时台必须建在地理中心地带，跨越了42个经度线从而也就产生了长短波授。在新疆等地与东部地区存在两个小时的时差，新疆和黑龙江有四个小时的时差。</p><p style="TEXT-INDENT:2em">	中国全境（大陆、港澳、台湾）均采取北京时间（UTC+8），但在大陆的新疆、西藏等地，政府机关、企事业单位作息时间和邮政通讯费用优惠分界点虽然用北京时间来表示，但也比其他各省延晚2小时。</p><p style="TEXT-INDENT:2em">	在新疆民间（特别是维吾尔族群众中间），使用UTC+6的情况更为普遍。新疆电视台汉语频道与少儿频道使用北京时间，维语频道与哈语频道使用新疆时间。在新疆，假如时间关系到新疆以外的其他地方是使用北京时间，比如火车时刻表和航班时刻表。但是只是在新疆里面，很多是有有新疆时间。新疆时间要比北京早2个小时（所以北京的下午3点，是新疆的下午1点），通常用在当地的宾馆。很多宾馆会标出北京时间还是新疆时间。</p><p style="TEXT-INDENT:2em">	&nbsp;</p></div></div></div><a name="anchor7"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        美国各州时区列表</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p><img src="http://img.xixik.net/custom/section/shicha/xixik-790a4df4693fbec7.jpg" style="width: 90%; max-width: 90%;" /></p><p>	UTC+10 夏莫罗标准时区<br />	UTC-11 萨摩亚标准时区<br />	UTC-10 HST 夏威夷-阿留申标准时区<br />	UTC-9 AKST 阿拉斯加标准时区<br />	UTC-8 PST 太平洋标准时区<br />	UTC-7 MST 山地标准时区<br />	UTC-6 CST 中部标准时区<br />	UTC-5 EST 东部标准时区<br />	UTC-4 AST 大西洋标准时区<br /><br /><br />	阿拉斯加州:<br />	大部分： UTC-9 AKST 阿拉斯加标准时区<br />	小部分：UTC-10 HST 夏威夷-阿留申标准时区（阿留申群岛，西经169°30′以西）<br />	阿拉巴马州: UTC-6 CST 中部标准时区<br />	阿肯色州： UTC-6 CST 中部标准时区<br />	亚利桑那州： UTC-7 MST 没有夏时制，山地标准时区<br />	美属萨摩亚： UTC-11 没有夏时制，萨摩亚标准时区<br />	加利福尼亚州： UTC-8 PST 太平洋标准时区<br />	科罗拉多州：UTC-7 MST 山地标准时区<br />	康乃狄克州：UTC-5 EST 东部标准时区<br />	德拉瓦州 UTC-5 EST 东部标准时区<br />	佛罗里达州<br />	佛罗里达半岛：UTC-5 EST 东部标准时区<br />	佛罗里达内陆：<br />	阿巴拉契亚河以东，加上富兰克林和湾县位于内河航道以南部分：UTC-5 EST 东部标准时区<br />	阿巴拉契亚河以西，上面所说两个县的另外部分： UTC-6 CST 中部标准时区<br />	格鲁吉亚州 ：UTC-5 EST 东部标准时区<br />	关岛：UTC+10 没有夏时制，夏莫罗标准时区<br />	夏威夷州UTC-10 HST 没有夏时制，夏威夷-阿留申标准时区<br />	愛荷華州UTC-6 CST 中部標準時間<br />	爱達荷州<br />	一部分：UTC-8 PST 太平洋标准时区（鲑河以北，俄勒冈州边界与爱德荷县和Lemhi县边界之间的地方；爱德荷县和Lemhi县边界以西，鲑河与蒙大拿州边界之间的地方）<br />	该州剩下的地方：UTC-7 MST 山地标准时区<br />	伊利诺州 UTC-6 CST 中部标准时区<br />	印第安纳州<br />	東南角辛辛那堤附近二郡及路易維爾附近三郡使用UTC-5 EST 東部標準時區<br />	西北角芝加哥附近五郡及西南角埃文斯維爾附近五郡使用UTC-6 CST 中部標準時區<br />	該州其他地區: UTC-5 沒有夏時制,UTC-5 EST 東部標準時區 （2006年起實施夏時制）<br />	堪萨斯州<br />	肯塔基州<br />	路易斯安那州 UTC-6 CST 中部标准时区<br />	麻萨诸塞州UTC-5 EST 东部标准时区<br />	马里兰州 UTC-5 EST 东部标准时区<br />	缅因州 UTC-5 EST 东部标准时区<br />	密歇根州<br />	与维斯康辛州交界的县：UTC-6 CST 中部标准时区<br />	该州剩下地方：UTC－5 EST 东部标准时区<br />	明尼苏达州 UTC-6 CST 中部标准时区<br />	密苏里州 UTC-6 CST 中部标准时区<br />	北马里亚纳群岛 UTC+10 没有夏时制，夏莫罗标准时区<br />	密西西比州 UTC-6 CST 中部标准时区<br />	蒙大拿州 UTC-7 MST 山地标准时区<br />	北卡罗莱那州 UTC-5 EST 东部标准时区<br />	北达科他州<br />	内布拉斯加州<br />	新罕布什尔州 UTC-5 EST 东部标准时区<br />	新泽西州 UTC-5 EST 东部标准时区<br />	新墨西哥州 UTC-7 MST 山地标准时区<br />	内华达州 UTC-8 PST 太平洋标准时区<br />	纽约州 UTC-5 EST 东部标准时区<br />	俄亥俄州 UTC-5 EST 东部标准时区<br />	奥克拉荷马州<br />	俄勒冈州<br />	大部分：UTC-8 PST 太平洋标准时区（包括Malheur县南方1/5地区）<br />	Malheur县剩下地方： UTC-7 MST 山地标准时区<br />	宾夕法尼亚州 UTC-5 EST 东部标准时区<br />	波多黎各 UTC-4 AST 没有夏时制，大西洋标准时区<br />	罗德岛州 UTC-5 EST 东部标准时区<br />	南卡罗莱那州 UTC-5 EST 东部标准时区<br />	南达科他州<br />	田纳西州<br />	东田纳西州，除了Marion 县： UTC-5 EST 东部标准时区<br />	中田纳西州，加上Marion 县： UTC-6 CST 中部标准时区<br />	西田纳西州：UTC-6 CST 中部标准时区<br />	德克萨斯州<br />	犹他州 UTC-7 MST 山地标准时区<br />	维吉尼亚州 UTC-5 EST 东部标准时区<br />	美属维尔京群岛 UTC-4 AST 没有夏时制，大西洋标准时区<br />	华盛顿特区： UTC-5 EST 东部标准时区<br />	佛蒙特州：UTC-5 EST 东部标准时区<br />	华盛顿州 UTC-8 PST 太平洋标准时区<br />	威斯康辛州 UTC-6 CST 中部标准时区<br />	西维吉尼亚州： UTC-5 EST 东部标准时区<br />	怀俄明州：UTC-7 MST 山地标准时区</p></div></div></div><a name="anchor8"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        2018年各国夏令时开始时间 </h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/custom/section/shicha/xixik-cd0d35359b3e6476.jpg" /></p><p style="TEXT-INDENT:2em">	以当地的UTC / GMT标准时间为基准）</p><p style="TEXT-INDENT:2em">	02月18日00:00星期日上午- 巴西的夏令时间-结束。</p><p style="TEXT-INDENT:2em">	03月11日02:00星期日上午- 美国、加拿大的夏令时间-开始。</p><p style="TEXT-INDENT:2em">	03月25日01:00星期日上午- 欧洲各国的夏令时间-开始。</p><p style="TEXT-INDENT:2em">	04月01日03:00星期日上午- 墨西哥的夏令时间-开始。</p><p style="TEXT-INDENT:2em">	04月01日03:00星期日上午- 澳洲、纽西兰的夏令时间-结束。</p><p style="TEXT-INDENT:2em">	09月30日02:00星期日上午- 纽西兰的夏令时间-开始。</p><p style="TEXT-INDENT:2em">	10月07日02:00星期日上午- 澳洲的夏令时间-开始。</p><p style="TEXT-INDENT:2em">	10月21日00:00星期日上午- 巴西的夏令时间-开始。</p><p style="TEXT-INDENT:2em">	10月28日01:00星期日上午- 欧洲各国的夏令时间-结束。</p><p style="TEXT-INDENT:2em">	10月28日02:00星期日上午- 墨西哥的夏令时间-结束。</p><p style="TEXT-INDENT:2em">	11月04日02:00星期日上午- 美国、加拿大的夏令时间-结束。</p><p style="TEXT-INDENT:2em">	乌克兰计划将维持夏令时间DST至2012年，并于2013年废除夏令时间DST。</p><p style="TEXT-INDENT:2em">	土耳其可能会永远实施夏令时间，据土耳其新闻媒体报导，有一项法律草案，将取消开关10月DST，并把土耳其时区从GMT+2改为GMT+3，这仅是一个法律草案，它尚未最后确定。</p><p style="TEXT-INDENT:2em">	俄罗斯自2014年10月最后一个星期日（2014年10月26日）凌晨开始，永久采用冬令时制，全国会拨慢一小时。因此莫斯科时间将由GMT+4改为GMT+3。</p><p style="TEXT-INDENT:2em">	世界各国的夏令时间规则 -夏令时间DST基本上都开始于春季，并于同年的秋季结束。因南半球的春秋两季正好与北半球相反，所以南半球的夏令时间于当年的年底（南半球的春季）开始，再结束于次年的年初（南半球的秋季）。</p><p style="TEXT-INDENT:2em">	世界各国夏令时间（DST，Daylight Saving Time&#160;）的规则</p><p style="TEXT-INDENT:2em">	夏令时间开始实施，必须将当地的时间拨快一个小时，也就是以当地的GMT 标准时间 + 1小时，直到夏令时间结束就恢复到当地原来的标准时间。</p><p style="TEXT-INDENT:2em">	夏令时间美国、加拿大的夏令时间：2007 ~ 2015每年开始于3月的第二个星期日上午02:00、将时钟拨快一个小时，变成03:00 （ 1时59分59秒接着就是3时00分00秒），结束于11月的第一个星期日上午02:00，时钟才恢复到01:00当地原来的标准时间（ 1时59分59秒接着就是1时00分00秒）。</p><p style="TEXT-INDENT:2em">	美国实施夏令时间的地区，并不包含美国的﹝夏威夷、萨摩亚、关岛、波多里哥、维京群岛和亚利桑那州﹞等地区。</p><p style="TEXT-INDENT:2em">	墨西哥的夏令时间：每年开始于4月的第一个星期日，结束于10月的最后一个星期日，时间以02:00 GMT格林威治标准时间为基准（部分地区没有实施）。</p><p style="TEXT-INDENT:2em">	欧洲各国的夏令时间：2006每年开始于3月的最后一个星期日，结束于10月的最后一个星期日，时间以01:00 GMT格林威治标准时间为基准（部分地区没有实施）。</p><p style="TEXT-INDENT:2em">	俄罗斯自2014年10月最后一个星期日（2014年10月26日）凌晨开始，永久采用冬令时制，全国会拨慢一小时。因此莫斯科时间将由GMT+4改为GMT+3。</p><p style="TEXT-INDENT:2em">	东欧的白俄罗斯Belarus：取消夏令时间，时区由GMT+2改为GMT+3 （ 2012年）。</p><p style="TEXT-INDENT:2em">	澳洲的夏令时间：北部地区没有实施，西部地区从2006年试行，每年开始于10月的第一个星期日上午02:00，结束于次年4月的第一个星期日上午03:00。</p><p style="TEXT-INDENT:2em">	纽西兰的夏令时间：每年开始于9月的最后一个星期日上午02:00，结束于次年4月的第一个星期日上午03:00 （部分地区没有实施）。</p><p style="TEXT-INDENT:2em">	巴西的夏令时间：每年开始于10月的第三个星期日上午00:00，结束于次年2月的第三个星期日上午00:00 （部分地区没有实施）。</p><p style="TEXT-INDENT:2em">	智利 2015年1月28日，智利采用了新的官方标准时间，他们把原来的标准时间和夏令时间合并成一个。永久采用夏令时制，新的官方时间在智利大陆改为GMT-3，复活节岛则为GMT-5。</p></div></div></div></div><script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script><script type="text/javascript">        var value = '9';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script><div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/shicha/" target="_self" title="国际时差查询 - 世界各国主要城市和北京时差对照表">时差</a></div><ul style="width: 960px; margin: auto; overflow: hidden;"><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shicha/"
+                title="国际时差查询 - 世界各国主要城市和北京时差对照表">时差</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证更换新政策_过期了该怎么办？">中国旅行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangye/"
+                title="2017最新国民经济行业分类与代码（GB/4754-2017）,国民经济行业分类标准">国民经济行业分类与代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国总统_美国历任总统名单_美国总统简历生卒年份及所属党派">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chicun/"
+                title="服装尺寸对照表_男士服装尺寸对照表_中国女装尺寸对照表_美版服装尺码换算">服装尺寸对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country/"
+                title="全世界有多少个国家和地区？_世界上国家和地区一览表">全世界国家和地区</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-flag/"
+                title="世界各国国旗大全 - 世界各国国旗一览表,国旗图片下载">世界各国国旗大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/festival/"
+                title="节日大全_2020年法定节假日安排">节日大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/72hou/"
+                title="月令七十二候集解_二十四节气">月令七十二候集解</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-visa/"
+                title="赴美生子诚实签攻略_赴美生子诚实签的好处_赴美生子为什么要诚实签">赴美生子诚实签攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-spending/"
+                title="赴美生子价格_去美国生孩子多少钱_费用清单">赴美生子价格</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-baoxian/"
+                title="赴美生子保险_去美国生宝宝生育险_孕中险">赴美生子保险</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-hospital/"
+                title="赴美生子医院_洛杉矶医院_洛杉矶接待华人孕妇医院价目和详细情况一览表">赴美生子医院</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-doctor/"
+                title="赴美生子医生_洛杉矶医生_赴美生子华人医生_赴美生子医生介绍">赴美生子医生</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-living/"
+                title="赴美生子选择月子中心还是DIY_去美国生孩子选择月子中心还是DIY_赴美生子DIY攻略">月子中心还是DIY</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="美宝证件_美宝需要哪些证件（美国出生纸_中国旅行证_美国护照_社会安全号_出生纸三级认证）">美宝需要哪些证件？</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-passport-ds11/"
+                title="美宝美国护照申请更新_DS-11怎么填图文">美国护照申请</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_去美国生孩子费用预算清单2020">赴美生子要多少钱</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/university/"
+                title="中国大学名单_2019年全国高等学校名单（截至2019年6月15日）">中国大学名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/ranking/"
+                title="美国总统排名_美国总统历史排名_美国最伟大的总统排行榜">美国总统排行榜</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/size/"
+                title="服装尺寸对照表_裤子尺寸_男装尺寸_女装尺寸_裙子尺寸">服装尺寸</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-uk-time-zone/"
+                title="中英时差对照表,现在英国几点?中国和英国时差怎么算?现在英国时间是几点?">中英时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_去美国生孩子要多少钱？">赴美生子费用</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 最新中国护照免签国家一览2020">中国护照免签证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-passport/"
+                title="美国护照 - 美国护照上写的什么,美国护照免签证国家">美国护照</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/henley-passport-index/"
+                title="亨氏护照指数 - 亨氏护照受限制数2019">亨氏护照指数</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-process/"
+                title="赴美生子流程 - 干货！超详细的赴美生子流程攻略2019！">赴美生子流程</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-best/"
+                title="赴美生子机构哪家好？_合法的赴美生子机构">赴美生子机构哪家好</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-regret/"
+                title="2019生个美国孩子后悔了_后悔在美国生孩子_赴美生子利与弊">生个美国宝宝后悔了揭秘</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/visa/"
+                title="美国签证_美国签证DS-160表格在线填写_美国签证预约面谈_在线缴费">美国签证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/titanic/"
+                title="泰坦尼克号沉没的真相_历史真实故事_泰坦尼克号电影_嘻嘻网">泰坦尼克号</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-flight/"
+                title="赴美生子航班怎么选_赴美航班信息大全">赴美生子航班</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/exit-and-entry-premit/"
+                title="出入境通行证_一次性出入境通行证_中华人民共和国出入境通行证">出入境通行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-prosandcons/"
+                title="赴美生子利弊_赴美生子的优势和弊端_生美籍宝宝的好处和坏处">赴美生子好处和弊端</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-born/"
+                title="赴美产子_赴美生子_去美国生孩子">赴美产子</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/14th-amendment/"
+                title="美国宪法修正案第十四条">美国宪法修正案第14条</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/greatest/"
+                title="美国最伟大的总统_美国总统排行榜">美国最伟大的总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-states/13states/"
+                title="美国13个州_北美13个殖民地_美国建国时的13个州">美国13个州</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qs2020/"
+                title="2020年QS世界大学排名_世界大学排行榜">QS世界大学排行榜</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/born-usbaby/"
+                title="去美国生孩子_去美国生孩子多少钱">去美国生孩子</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/amendments/"
+                title="美国宪法修正案_Amendments to the Constitution">美国宪法修正案</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/the-world-university-rankings/"
+                title="2020年泰晤士报世界大学排名_2020年THE世界大学排名">泰晤士世界大学排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ssn/"
+                title="美国社安号SSN_美国社安卡_美国社会安全号码">社会安全号码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/declaration-of-independence/"
+                title="《美国独立宣言》（The Declaration of Independence）">独立宣言</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/birth-certificate/"
+                title="美国出生纸（Birth Certificate）_美国出生纸三级认证">美国出生纸</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-living-cost/"
+                title="美国月子中心费用_赴美生子费用">美国月子中心费用</a></li></ul><div class="lindBox"><div class="btnGray"><div class="btnText"><a target="_self" title="国际时差查询 - 世界各国主要城市和北京时差对照表" href="http://news.xixik.com/word/9/">另存为<br />                    Word格式</a></div></div></div><div class="lindBox" style="text-align: center;"><img src="http://news.xixik.com/qrcode/9/" alt="扫码手机上继续看" /><br /><br /><strong>用微信或者支付宝扫码在手机上继续观看<br />            可以保存收藏，也扫码后可以分享给好友
+        </strong></div><hr style="height: 1px; border: none; border-top: 1px dashed #999;" /><script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script><!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.--></body></html>
