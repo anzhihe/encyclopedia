@@ -1,0 +1,1016 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>2020年QS世界大学排名_世界大学排行榜</title><link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" /><meta name="description" content="2020QS世界大学排名,2020年QS世界大学排名,QS世界大学排行榜" /><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/qs2020/"><meta http-equiv="Cache-Control" content="no-transform" /><meta http-equiv="Cache-Control" content="no-siteapp" /><base target="_blank" /><script>        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "qs2020/";
+        }
+
+
+    </script><style>        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+            overflow:auto;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style></head><body><a name="top4"></a><div class="topBox" name="top"><div class="topMain"><div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div><div id="icoPhone"></div><div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div><div id="icoWechat"></div><div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a></div><div id="icoSina"></div><div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a></div><div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div><div class="topRight"></div></div></div><div id="showqrCode"><div><span></span></div><img src="" /><div><span></span></div></div><script type="text/javascript">        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script><div class="body"><div class="lindBox" style="position: relative;"><img src="http://img.xixik.net/custom/topic/001/qs2020.jpg" alt="2020年QS世界大学排名_世界大学排行榜" /><div class="title"><h1>2020年QS世界大学排名_世界大学排行榜</h1></div></div><div class=" custom_border lindBox"><div class="special_content"><div class="content_text"><div class="content_daodu"></div><h2>QS世界大学排行榜</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--><p>	2019年6月19日，全球高等教育权威研究机构Quacquarelli Symonds（简称QS）发布<a href="http://114.xixik.com/qs2020/" title="2020 QS世界大学排名"><strong>2020 QS世界大学排名</strong></a>。麻省理工学院连续第八年被评为世界第一。麻省理工学院，斯坦福大学，哈佛大学位居TOP3。<strong>QS世界大学排行榜</strong>自2004年推出，共有六个评分指标，包括大学在学术界的名声、在雇主之间的名声、师生比例、平均教员论文引用数量、国际教员比率和国际学生比率。</p></div></div></div><div class="lindBox" style="overflow: hidden;"><div class="gg1"><a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a></div><div class="guide"><div class="guideBorder" id="guideBorder"><div class="guideTitle">导读（目录）</div><ul id="guideDisplay"><li>·<a title="QS世界大学排行榜算法" href="#anchor1" target="_self"> QS世界大学排行榜算法</a></li><li>·<a title="QS世界大学排行榜（TOP200）" href="#anchor2" target="_self"> QS世界大学排行榜（TOP200）</a></li><li>·<a title="QS2020中国大学排名" href="#anchor3" target="_self"> QS2020中国大学排名</a></li><li>·<a title="2020QS世界大学排名说明" href="#anchor4" target="_self"> 2020QS世界大学排名说明</a></li><li>·<a title="2020QS世界大学排行榜（完整榜单）" href="#anchor5" target="_self"> 2020QS世界大学排行榜（完整榜单）</a></li><li>·<a title="" href="#anchor6" target="_self"></a></li></ul><div class="guideOpen">展开&darr;</div></div></div><div class="guideFllow"><div class="guideFllowBorder"><div class="guideFllowTitle">导读（目录）</div><ul id="guideFllowDisplay"><li>·<a title="QS世界大学排行榜算法" href="#anchor1" target="_self"> QS世界大学排行榜算法</a></li><li>·<a title="QS世界大学排行榜（TOP200）" href="#anchor2" target="_self"> QS世界大学排行榜（TOP200）</a></li><li>·<a title="QS2020中国大学排名" href="#anchor3" target="_self"> QS2020中国大学排名</a></li><li>·<a title="2020QS世界大学排名说明" href="#anchor4" target="_self"> 2020QS世界大学排名说明</a></li><li>·<a title="2020QS世界大学排行榜（完整榜单）" href="#anchor5" target="_self"> 2020QS世界大学排行榜（完整榜单）</a></li><li>·<a title="" href="#anchor6" target="_self"></a></li></ul><div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div></div></div><div class="gg2"><a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a></div></div><a name="anchor1"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        QS世界大学排行榜算法</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em"><a href="http://www.xixik.com/content/0b409434d6f88c0f" title="2020年QS世界大学排名">2020年QS世界大学排名于2019年6月19日正式发布</a>。本次榜单包括全球1001所大学。&rdquo;<a href="http://114.xixik.com/qs2020/" style="color:#000;" title="QS世界大学排名"><strong>QS世界大学排名</strong></a>&rdquo;首次发布于2004年，是全球影响力最大的高等教育排行榜之一。&ldquo;QS世界大学排名&rdquo;、&ldquo;泰晤士高等教育世界大学排名&rdquo;、&ldquo;世界大学学术排名&rdquo;被认为是世界三大最有影响力的全球性大学排名。</p><p style="text-align: center;"><img src="http://img.xixik.net/custom/section/qs2020/xixik-783c56f3d7ca9b20.jpeg" style="text-align: center;" /></p><div class='right_gg'><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- 336x280-114-left --><ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-3849899595029685"
+     data-ad-slot="9973132210"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><p style="TEXT-INDENT:2em">	在查看一项排名前，只有了解其算法指标依据才有助于理解排名所代表的意义。以下是本次&ldquo;<a href="http://114.xixik.com/qs2020/" title="2020年QS世界大学排名"><strong>2020年QS世界大学排名</strong></a>&rdquo;的算法：使用6个指标来排名。其中，学术声誉占40%，雇主声誉占10%，教职员工/学生比例占20%，每位教职员工被引用的次数占20%，国际教职员工和国际学生比例各占5%。<strong>QS世界大学排名</strong>结果是基于过去5年全球151个国家地区94,000名顶尖学者和45,000家用人单位的同行评议，以及对全球最大论文数据库Scopus/Elsevier中1350万学术期刊论文和7400万论文引用的数据分析。</p><p style="TEXT-INDENT:2em"><strong>QS世界大学排名方法论(Methodology)</strong></p><p style="TEXT-INDENT:2em">	QS使用六个指标来编制排名：</p><p style="TEXT-INDENT:2em"><strong>(1)学术声誉(Academic Reputation，40%)：</strong>基于来自94000多名学者的调查问卷回复;</p><p style="TEXT-INDENT:2em"><strong>(2)雇主声誉(Employer Reputation，10%)：</strong>根据44000多名雇主对各大学毕业生就业能力的调查问卷回复;</p><p style="TEXT-INDENT:2em"><strong>(3)每个教师的论文引用数量(Citations per Faculty，20%)：</strong>用于衡量学术研究影响力，计算方法为将各大学五年内的研究论文引用总数除以各大学的教师数量;</p><p style="TEXT-INDENT:2em"><strong>(4)教师/学生比例( Faculty/Student Ratio，20%)：</strong>用于衡量学校的教学能力，计算方法为将学生数量除以教师数量，该指标可方便学生在择校时更好地了解教学规模;</p><p style="TEXT-INDENT:2em"><strong>(5)国际教师比率( International Faculty Ratio，5%)：</strong>QS的两项国际化指标之一，该指标衡量了各大学非国内教师比例;</p><p style="TEXT-INDENT:2em"><strong>(6)国际学生比率( International Student Ratio，5%)：</strong>QS的两项国际化指标中的第二项，它衡量各大学中非国内学生的比例。这也表明了大学吸引世界各地人才的能力。</p></div></div></div><a name="anchor2"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        QS世界大学排行榜（TOP200）</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style=" text-align: left; margin: auto; width:90%"><tbody><tr><th>				2020排名</th><th>				2019排名</th><th>				学校</th><th><a style="color:#000" title="国家或地区" href="http://114.xixik.com/guojia/">国家或地区</a></th></tr><tr><td>				1</td><td>				1</td><td>				麻省理工学院&#160;<br />				Massachusetts Institute of Technology (MIT)</td><td>				美国</td></tr><tr><td>				2</td><td>				2</td><td>				斯坦福大学<br />				Stanford University</td><td>				美国</td></tr><tr><td>				3</td><td>				3</td><td>				哈佛大学<br />				Harvard University</td><td>				美国</td></tr><tr><td>				4</td><td>				5</td><td>				牛津大学<br />				University of Oxford</td><td>				英国</td></tr><tr><td>				5</td><td>				4</td><td>				加州理工学院<br />				California Institute of Technology (Caltech)</td><td>				美国</td></tr><tr><td>				6</td><td>				7</td><td>				苏黎世联邦理工学院<br />				ETH Zurich (Swiss Federal Institute of Technology)</td><td>				瑞士</td></tr><tr><td>				7</td><td>				6</td><td>				剑桥大学<br />				University of Cambridge</td><td>				英国</td></tr><tr><td>				8</td><td>				10</td><td>				伦敦大学学院<br />				UCL (University College London)</td><td>				英国</td></tr><tr><td>				9</td><td>				8</td><td>				帝国理工学院&#160;<br />				Imperial College London</td><td>				英国</td></tr><tr><td>				10</td><td>				9</td><td>				芝加哥大学<br />				University of Chicago</td><td>				美国</td></tr><tr><td>				11=</td><td>				12</td><td>				南洋理工大学<br />				Nanyang Technological University (NTU)</td><td>				新加坡</td></tr><tr><td>				11=</td><td>				11</td><td>				新加坡国立大学&#160;<br />				National University of Singapore (NUS)</td><td>				新加坡</td></tr><tr><td>				13</td><td>				13</td><td>				普林斯顿大学<br />				Princeton University</td><td>				美国</td></tr><tr><td>				14</td><td>				14</td><td>				康奈尔大学&#160;<br />				Cornell University</td><td>				美国</td></tr><tr><td>				15</td><td>				19</td><td>				宾夕法尼亚大学<br />				University of Pennsylvania</td><td>				美国</td></tr><tr><td>				16</td><td>				17</td><td>				清华大学<br />				Tsinghua University</td><td>				中国</td></tr><tr><td>				17</td><td>				15</td><td>				耶鲁大学&#160;<br />				Yale University</td><td>				美国</td></tr><tr><td>				18=</td><td>				16</td><td>				哥伦比亚大学<br />				Columbia University</td><td>				美国</td></tr><tr><td>				18=</td><td>				22</td><td>				洛桑联邦理工学院<br />				Ecole Polytechnique Fédérale de Lausanne (EPFL)</td><td>				瑞士</td></tr><tr><td>				20</td><td>				18</td><td>				爱丁堡大学<br />				University of Edinburgh</td><td>				英国</td></tr><tr><td>				2020排名</td><td>				2019排名</td><td>				学校</td><td><a style="color:#000" title="国家或地区" href="http://114.xixik.com/guojia/">国家或地区</a></td></tr><tr><td>				21</td><td>				20</td><td>				密歇根大学<br />				University of Michigan</td><td>				美国</td></tr><tr><td>				22=</td><td>				30</td><td>				北京大学<br />				Peking University</td><td>				中国</td></tr><tr><td>				22=</td><td>				23</td><td>				东京大学<br />				The University of Tokyo</td><td>				日本</td></tr><tr><td>				24</td><td>				21</td><td>				约翰霍普金斯大学&#160;<br />				Johns Hopkins University</td><td>				美国</td></tr><tr><td>				25=</td><td>				26</td><td>				杜克大学<br />				Duke University</td><td>				美国</td></tr><tr><td>				25=</td><td>				25</td><td>				香港大学<br />				University of Hong Kong (HKU)</td><td>				中国香港</td></tr><tr><td>				27</td><td>				29</td><td>				曼彻斯特大学<br />				The University of Manchester</td><td>				英国</td></tr><tr><td>				28</td><td>				27</td><td>				加州大学伯克利分校&#160;<br />				University of California, Berkeley (UCB)</td><td>				美国</td></tr><tr><td>				29=</td><td>				24</td><td>				澳大利亚国立大学<br />				Australian National University (ANU)</td><td>				澳大利亚</td></tr><tr><td>				29=</td><td>				28</td><td>				多伦多大学&#160;<br />				University of Toronto</td><td>				加拿大</td></tr><tr><td>				31</td><td>				34</td><td>				西北大学<br />				Northwestern University</td><td>				美国</td></tr><tr><td>				32</td><td>				37</td><td>				香港科技大学<br />				The Hong Kong University of Science and Technology (HKUST)</td><td>				中国香港</td></tr><tr><td>				33=</td><td>				31</td><td>				伦敦国王学院<br />				King's College London (KCL)</td><td>				英国</td></tr><tr><td>				33=</td><td>				35</td><td>				京都大学<br />				Kyoto University</td><td>				日本</td></tr><tr><td>				35=</td><td>				33</td><td>				麦吉尔大学<br />				McGill University</td><td>				加拿大</td></tr><tr><td>				35=</td><td>				32</td><td>				加州大学洛杉矶分校&#160;<br />				University of California, Los Angeles (UCLA)</td><td>				美国</td></tr><tr><td>				37</td><td>				36</td><td>				首尔大学<br />				Seoul National University (SNU)</td><td>				韩国</td></tr><tr><td>				38</td><td>				39</td><td>				墨尔本大学<br />				The University of Melbourne</td><td>				澳大利亚</td></tr><tr><td>				39</td><td>				43</td><td>				纽约大学<br />				New York University (NYU)</td><td>				美国</td></tr><tr><td>				40</td><td>				44</td><td>				复旦大学<br />				Fudan University</td><td>				中国</td></tr><tr><td>				2020排名</td><td>				2019排名</td><td>				学校</td><td><a style="color:#000" title="国家或地区" href="http://114.xixik.com/guojia/">国家或地区</a></td></tr><tr><td>				41</td><td>				40</td><td>				韩国科学技术院<br />				KAIST - Korea Advanced Institute of Science and Technology</td><td>				韩国</td></tr><tr><td>				42</td><td>				42</td><td>				悉尼大学<br />				The University of Sydney</td><td>				澳大利亚</td></tr><tr><td>				43</td><td>				45</td><td>				新南威尔士大学&#160;<br />				The University of New South Wales (UNSW)</td><td>				澳大利亚</td></tr><tr><td>				44</td><td>				38</td><td>				伦敦政治经济学院<br />				London School of Economics and Political Science (LSE)</td><td>				英国</td></tr><tr><td>				45</td><td>				41</td><td>				加州大学圣地亚哥分校<br />				University of California, San Diego (UCSD)</td><td>				美国</td></tr><tr><td>				46</td><td>				49</td><td>				香港中文大学<br />				The Chinese University of Hong Kong (CUHK)</td><td>				中国香港</td></tr><tr><td>				47</td><td>				48</td><td>				昆士兰大学<br />				The University of Queensland (UQ)</td><td>				澳大利亚</td></tr><tr><td>				48</td><td>				46</td><td>				卡耐基梅隆大学&#160;<br />				Carnegie Mellon University</td><td>				美国</td></tr><tr><td>				49</td><td>				51</td><td>				布里斯托大学<br />				University of Bristol</td><td>				英国</td></tr><tr><td>				50</td><td>				52</td><td>				代尔夫特理工大学<br />				Delft University of Technology</td><td>				荷兰</td></tr><tr><td>				51</td><td>				47</td><td>				英属哥伦比亚大学<br />				University of British Columbia</td><td>				加拿大</td></tr><tr><td>				52</td><td>				55</td><td>				香港城市大学&#160;<br />				City University of Hong Kong</td><td>				中国香港</td></tr><tr><td>				53</td><td>				50</td><td>				巴黎文理研究大学&#160;<br />				Université PSL (Paris Sciences & Lettres)</td><td>				法国</td></tr><tr><td>				54</td><td>				68</td><td>				浙江大学<br />				Zhejiang University</td><td>				中国</td></tr><tr><td>				55</td><td>				61</td><td>				慕尼黑工业大学<br />				Technische Universit&#228;t München</td><td>				德国</td></tr><tr><td>				56</td><td>				53</td><td>				威斯康辛大学麦迪逊分校<br />				University of Wisconsin-Madison</td><td>				美国</td></tr><tr><td>				57</td><td>				56</td><td>				布朗大学<br />				Brown University</td><td>				美国</td></tr><tr><td>				58=</td><td>				59=</td><td>				莫纳什大学&#160;<br />				Monash University</td><td>				澳大利亚</td></tr><tr><td>				58=</td><td>				58</td><td>				东京工业大学&#160;<br />				Tokyo Institute of Technology</td><td>				日本</td></tr><tr><td>				2020排名</td><td>				2019排名</td><td>				学校</td><td><a style="color:#000" title="国家或地区" href="http://114.xixik.com/guojia/">国家或地区</a></td></tr><tr><td>				60=</td><td>				65</td><td>				巴黎综合理工大学<br />				Ecole Polytechnique</td><td>				法国</td></tr><tr><td>				60=</td><td>				59=</td><td>				上海交通大学&#160;<br />				Shanghai Jiao Tong University</td><td>				中国</td></tr><tr><td>				62</td><td>				54</td><td>				华威大学<br />				The University of Warwick</td><td>				英国</td></tr><tr><td>				63</td><td>				62</td><td>				慕尼黑大学&#160;<br />				Ludwig-Maximilians-Universit&#228;t München</td><td>				德国</td></tr><tr><td>				64</td><td>				57</td><td>				阿姆斯特丹大学&#160;<br />				University of Amsterdam</td><td>				荷兰</td></tr><tr><td>				65</td><td>				63</td><td>				得州大学奥斯汀分校&#160;<br />				University of Texas at Austin</td><td>				美国</td></tr><tr><td>				66</td><td>				64</td><td>				海德堡大学<br />				Ruprecht-Karls-Universit&#228;t Heidelberg</td><td>				德国</td></tr><tr><td>				67</td><td>				69=</td><td>				格拉斯哥大学&#160;<br />				University of Glasgow</td><td>				英国</td></tr><tr><td>				68</td><td>				66</td><td>				华盛顿大学<br />				University of Washington</td><td>				美国</td></tr><tr><td>				69</td><td>				72</td><td>				台湾大学&#160;<br />				National Taiwan University (NTU)</td><td>				中国台湾</td></tr><tr><td>				70</td><td>				87=</td><td>				马来亚大学&#160;<br />				Universiti Malaya (UM)</td><td>				马来西亚</td></tr><tr><td>				71</td><td>				67</td><td>				大阪大学<br />				Osaka University</td><td>				日本</td></tr><tr><td>				72=</td><td>				69=</td><td>				佐治亚理工学院<br />				Georgia Institute of Technology (Georgia Tech)</td><td>				美国</td></tr><tr><td>				72=</td><td>				79=</td><td>				哥本哈根大学&#160;<br />				University of Copenhagen</td><td>				丹麦</td></tr><tr><td>				74</td><td>				73</td><td>				布宜诺斯艾利斯大学<br />				Universidad de Buenos Aires</td><td>				阿根廷</td></tr><tr><td>				75</td><td>				71</td><td>				伊利诺伊大学厄巴纳-香槟分校&#160;<br />				University of Illinois at Urbana-Champaign</td><td>				美国</td></tr><tr><td>				76</td><td>				78</td><td>				苏黎世大学<br />				University of Zurich</td><td>				瑞士</td></tr><tr><td>				77</td><td>				75=</td><td>				索邦大学<br />				Sorbonne University</td><td>				法国</td></tr><tr><td>				78=</td><td>				74</td><td>				杜伦大学&#160;<br />				Durham University</td><td>				英国</td></tr><tr><td>				78=</td><td>				75=</td><td>				谢菲尔德大学&#160;<br />				The University of Sheffield</td><td>				英国</td></tr><tr><td>				80</td><td>				81</td><td>				荷语鲁汶天主教大学&#160;<br />				Katholieke Universiteit Leuven</td><td>				比利时</td></tr><tr><td>				2020排名</td><td>				2019排名</td><td>				学校</td><td><a style="color:#000" title="国家或地区" href="http://114.xixik.com/guojia/">国家或地区</a></td></tr><tr><td>				81</td><td>				79=</td><td>				伯明翰大学&#160;<br />				University of Birmingham</td><td>				英国</td></tr><tr><td>				82</td><td>				77</td><td>				东北大学&#160;<br />				Tohoku University</td><td>				日本</td></tr><tr><td>				83</td><td>				86</td><td>				高丽大学&#160;<br />				Korea University</td><td>				韩国</td></tr><tr><td>				84</td><td>				90</td><td>				莫斯科国立大学&#160;<br />				Lomonosov Moscow State University</td><td>				俄罗斯</td></tr><tr><td>				85</td><td>				87=</td><td>				莱斯大学&#160;<br />				Rice University</td><td>				美国</td></tr><tr><td>				86</td><td>				91</td><td>				西澳大利亚大学&#160;<br />				The University of Western Australia (UWA)</td><td>				澳大利亚</td></tr><tr><td>				87</td><td>				83=</td><td>				浦项科技大学&#160;<br />				Pohang University of Science and Technology (POSTECH)</td><td>				韩国</td></tr><tr><td>				88</td><td>				85</td><td>				奥克兰大学&#160;<br />				The University of Auckland</td><td>				新西兰</td></tr><tr><td>				89</td><td>				98</td><td>				中国科学技术大学&#160;<br />				University of Science and Technology of China</td><td>				中国</td></tr><tr><td>				90</td><td>				83=</td><td>				北卡罗来纳大学教堂山分校&#160;<br />				University of North Carolina, Chapel Hill</td><td>				美国</td></tr><tr><td>				91</td><td>				106</td><td>				香港理工大学&#160;<br />				The Hong Kong Polytechnic University</td><td>				中国香港</td></tr><tr><td>				92</td><td>				92</td><td>				隆德大学<br />				Lund University</td><td>				瑞典</td></tr><tr><td>				93=</td><td>				95</td><td>				宾州州立大学&#160;<br />				Pennsylvania State University</td><td>				美国</td></tr><tr><td>				93=</td><td>				93=</td><td>				利兹大学&#160;<br />				University of Leeds</td><td>				英国</td></tr><tr><td>				95</td><td>				100=</td><td>				成均馆大学&#160;<br />				Sungkyunkwan University</td><td>				韩国</td></tr><tr><td>				96</td><td>				82</td><td>				诺丁汉大学<br />				The University of Nottingham</td><td>				英国</td></tr><tr><td>				97</td><td>				96</td><td>				南安普顿大学&#160;<br />				University of Southampton</td><td>				英国</td></tr><tr><td>				98=</td><td>				93=</td><td>				波士顿大学&#160;<br />				Boston University</td><td>				美国</td></tr><tr><td>				98=</td><td>				104=</td><td>				皇家理工学院&#160;<br />				KTH, Royal Institute of Technology</td><td>				瑞典</td></tr><tr><td>				100</td><td>				97</td><td>				圣安德鲁斯大学&#160;<br />				University of St Andrews</td><td>				英国</td></tr><tr><td>
+					2020排名
+			</td><td>
+					2019排名
+			</td><td>
+					学校
+			</td><td>
+					国家或地区
+			</td></tr><tr><td>
+					101
+			</td><td>
+					89
+			</td><td>				俄亥俄州立大学&#160;<br />				Ohio State University</td><td>
+					美国
+			</td></tr><tr><td>
+					102
+			</td><td>
+					99
+			</td><td>				埃因霍芬理工大学<br />				Eindhoven University of Technology</td><td>
+					荷兰
+			</td></tr><tr><td>
+					103
+			</td><td>
+					113
+			</td><td>				墨西哥国立自治大学&#160;<br />				Universidad Nacional Autónoma de México (UNAM)</td><td>
+					墨西哥
+			</td></tr><tr><td>
+					104=
+			</td><td>
+					100=
+			</td><td>				加州大学戴维斯分校&#160;<br />				University of California, Davis (UCD)</td><td>
+					美国
+			</td></tr><tr><td>
+					104=
+			</td><td>
+					107
+			</td><td>				延世大学&#160;<br />				Yonsei University</td><td>
+					韩国
+			</td></tr><tr><td>
+					106
+			</td><td>
+					114
+			</td><td>				阿德莱德大学&#160;<br />				The University of Adelaide<br /></td><td>
+					澳大利亚
+			</td></tr><tr><td>
+					107
+			</td><td>
+					110
+			</td><td>				赫尔辛基大学&#160;<br />				University of Helsinki</td><td>
+					芬兰
+			</td></tr><tr><td>
+					108=
+			</td><td>
+					104=
+			</td><td>				都柏林圣三一大学<br />				Trinity College Dublin (TCD)</td><td>
+					爱尔兰
+			</td></tr><tr><td>
+					108=
+			</td><td>
+					100=
+			</td><td>				圣路易斯华盛顿大学<br />				Washington University in St. Louis</td><td>
+					美国
+			</td></tr><tr><td>
+					110
+			</td><td>
+					108
+			</td><td>				日内瓦大学<br />				University of Geneva</td><td>
+					瑞士
+			</td></tr><tr><td>
+					111
+			</td><td>
+					100=
+			</td><td>				普渡大学<br />				Purdue University</td><td>
+					美国
+			</td></tr><tr><td>
+					112
+			</td><td>
+					112
+			</td><td>				丹麦技术大学<br />				Technical University of Denmark</td><td>
+					丹麦
+			</td></tr><tr><td>
+					113
+			</td><td>
+					109
+			</td><td>				阿尔伯塔大学<br />				University of Alberta</td><td>
+					加拿大
+			</td></tr><tr><td>
+					114
+			</td><td>
+					120
+			</td><td>				格罗宁根大学&#160;<br />				University of Groningen</td><td>
+					荷兰
+			</td></tr><tr><td>
+					115
+			</td><td>
+					111
+			</td><td>				名古屋大学<br />				Nagoya University</td><td>
+					日本
+			</td></tr><tr><td>
+					116=
+			</td><td>
+					118
+			</td><td>				圣保罗大学&#160;<br />				Universidade de S&#227;o Paulo (USP)</td><td>
+					巴西
+			</td></tr><tr><td>
+					116=
+			</td><td>
+					117
+			</td><td>				乌普萨拉大学&#160;<br />				Uppsala University</td><td>
+					瑞典
+			</td></tr><tr><td>
+					118
+			</td><td>
+					122=
+			</td><td>				莱顿大学&#160;<br />				Leiden University</td><td>
+					荷兰
+			</td></tr><tr><td>
+					119
+			</td><td>
+					135
+			</td><td>				奥斯陆大学&#160;<br />				University of Oslo</td><td>
+					挪威
+			</td></tr><tr><td>
+					2020排名
+			</td><td>
+					2019排名
+			</td><td>
+					学校
+			</td><td>
+					国家或地区
+			</td></tr><tr><td>
+					120=
+			</td><td>
+					121
+			</td><td>				柏林洪堡大学&#160;<br />				Humboldt-Universit&#228;t zu Berlin</td><td>
+					德国
+			</td></tr><tr><td>
+					120=
+			</td><td>
+					122=
+			</td><td>				南京大学&#160;<br />				Nanjing University</td><td>
+					中国
+			</td></tr><tr><td>
+					120=
+			</td><td>
+					124
+			</td><td>				乌得勒支大学&#160;<br />				Utrecht University</td><td>
+					荷兰
+			</td></tr><tr><td>
+					123
+			</td><td>
+					139
+			</td><td>				伯尔尼大学<br />				University of Bern</td><td>
+					瑞士
+			</td></tr><tr><td>
+					124
+			</td><td>
+					116
+			</td><td>				卡尔斯鲁厄理工学院&#160;<br />				KIT, Karlsruher Institut für Technologie</td><td>
+					德国
+			</td></tr><tr><td>
+					125
+			</td><td>
+					125
+			</td><td>				瓦格宁根大学&#160;<br />				Wageningen University</td><td>
+					荷兰
+			</td></tr><tr><td>
+					126
+			</td><td>
+					119
+			</td><td>				伦敦玛丽女王大学&#160;<br />				Queen Mary University of London (QMUL)</td><td>
+					英国
+			</td></tr><tr><td>
+					127
+			</td><td>
+					132=
+			</td><td>				智利天主教大学&#160;<br />				Pontificia Universidad Católica de Chile</td><td>
+					智利
+			</td></tr><tr><td>
+					128
+			</td><td>
+					131
+			</td><td>				兰卡斯特大学&#160;<br />				Lancaster University</td><td>
+					英国
+			</td></tr><tr><td>
+					129
+			</td><td>
+					115
+			</td><td>				南加州大学&#160;<br />				University of Southern California</td><td>
+					美国
+			</td></tr><tr><td>
+					130=
+			</td><td>
+					130
+			</td><td>				柏林自由大学&#160;<br />				Freie Universit&#228;t Berlin</td><td>
+					德国
+			</td></tr><tr><td>
+					130=
+			</td><td>
+					138
+			</td><td>				根特大学&#160;<br />				University of Ghent</td><td>
+					比利时
+			</td></tr><tr><td>
+					132=
+			</td><td>
+					128=
+			</td><td>				北海道大学&#160;<br />				Hokkaido University</td><td>
+					日本
+			</td></tr><tr><td>
+					132=
+			</td><td>
+					126=
+			</td><td>				九州大学&#160;<br />				Kyushu University</td><td>
+					日本
+			</td></tr><tr><td>
+					134
+			</td><td>
+					140
+			</td><td>				阿尔托大学<br />				Aalto University</td><td>
+					芬兰
+			</td></tr><tr><td>
+					135
+			</td><td>
+					132=
+			</td><td>				加州大学圣芭芭拉大学&#160;<br />				University of California, Santa Barbara (UCSB)</td><td>
+					美国
+			</td></tr><tr><td>
+					136
+			</td><td>
+					126=
+			</td><td>				马里兰大学帕克分校<br />				University of Maryland, College Park</td><td>
+					美国
+			</td></tr><tr><td>
+					137
+			</td><td>
+					149=
+			</td><td>				蒙特利尔大学&#160;<br />				Université de Montréal</td><td>
+					加拿大
+			</td></tr><tr><td>
+					138
+			</td><td>
+					144
+			</td><td>				亚琛工业大学<br />				Rheinisch-Westf&#228;lische Technische Hochschule Aachen</td><td>
+					德国
+			</td></tr><tr><td>
+					139
+			</td><td>
+					137
+			</td><td>				巴黎中央理工<br />				CentraleSupélec</td><td>
+					法国
+			</td></tr><tr><td>
+					2020排名
+			</td><td>
+					2019排名
+			</td><td>
+					学校
+			</td><td>
+					国家或地区
+			</td></tr><tr><td>
+					140=
+			</td><td>
+					128=
+			</td><td>				查尔姆斯理工大学&#160;<br />				Chalmers University of Technology</td><td>
+					瑞典
+			</td></tr><tr><td>
+					140=
+			</td><td>
+					146
+			</td><td>				麦克马斯特大学<br />				McMaster University</td><td>
+					加拿大
+			</td></tr><tr><td>
+					140=
+			</td><td>
+					136
+			</td><td>				匹兹堡大学&#160;<br />				University of Pittsburgh</td><td>
+					美国
+			</td></tr><tr><td>
+					140=
+			</td><td>
+					160=
+			</td><td>				悉尼科技大学<br />				University of Technology Sydney (UTS)</td><td>
+					澳大利亚
+			</td></tr><tr><td>
+					144
+			</td><td>
+					141=
+			</td><td>				密歇根州立大学&#160;<br />				Michigan State University</td><td>
+					美国
+			</td></tr><tr><td>
+					145
+			</td><td>
+					141=
+			</td><td>				奥胡斯大学&#160;<br />				Aarhus University</td><td>
+					丹麦
+			</td></tr><tr><td>
+					146
+			</td><td>
+					141=
+			</td><td>				纽卡斯尔大学<br />				Newcastle University</td><td>
+					英国
+			</td></tr><tr><td>
+					147
+			</td><td>
+					147
+			</td><td>				柏林工业大学<br />				Technische Universit&#228;t Berlin</td><td>
+					德国
+			</td></tr><tr><td>
+					148
+			</td><td>
+					134
+			</td><td>				约克大学&#160;<br />				University of York</td><td>
+					英国
+			</td></tr><tr><td>
+					149
+			</td><td>
+					156=
+			</td><td>				米兰理工大学&#160;<br />				Politecnico di Milano</td><td>
+					意大利
+			</td></tr><tr><td>
+					150
+			</td><td>
+					151=
+			</td><td>				汉阳大学<br />				Hanyang University</td><td>
+					韩国
+			</td></tr><tr><td>
+					151
+			</td><td>
+					160=
+			</td><td>				巴塞尔大学<br />				University of Basel</td><td>
+					瑞士
+			</td></tr><tr><td>
+					152
+			</td><td>
+					162
+			</td><td>				印度理工学院孟买分校&#160;<br />				Indian Institute of Technology Bombay (IITB)</td><td>
+					印度
+			</td></tr><tr><td>
+					153
+			</td><td>
+					149=
+			</td><td>				洛桑大学&#160;<br />				University of Lausanne</td><td>
+					瑞士
+			</td></tr><tr><td>
+					154=
+			</td><td>
+					145
+			</td><td>				卡迪夫大学&#160;<br />				Cardiff University</td><td>
+					英国
+			</td></tr><tr><td>
+					154=
+			</td><td>
+					175=
+			</td><td>				维也纳大学&#160;<br />				Universit&#228;t Wien</td><td>
+					奥地利
+			</td></tr><tr><td>
+					156=
+			</td><td>
+					148
+			</td><td>				埃默里大学<br />				Emory University</td><td>
+					美国
+			</td></tr><tr><td>
+					156=
+			</td><td>
+					156=
+			</td><td>				明尼苏达大学<br />				University of Minnesota</td><td>
+					美国
+			</td></tr><tr><td>
+					158
+			</td><td>
+					178
+			</td><td>				蒙特雷科技大学&#160;<br />				Tecnológico de Monterrey (ITESM)</td><td>
+					墨西哥
+			</td></tr><tr><td>
+					159
+			</td><td>
+					202
+			</td><td>				博特拉大学&#160;<br />				Universiti Putra Malaysia (UPM)</td><td>
+					马来西亚
+			</td></tr><tr><td>
+					2020排名
+			</td><td>
+					2019排名
+			</td><td>
+					学校
+			</td><td>
+					国家或地区
+			</td></tr><tr><td>
+					160=
+			</td><td>
+					153
+			</td><td>				里昂高等师范学院&#160;<br />				Ecole Normale Supérieure de Lyon</td><td>
+					法国
+			</td></tr><tr><td>
+					160=
+			</td><td>
+					184=
+			</td><td>				马来西亚国民大学&#160;<br />				Universiti Kebangsaan Malaysia (UKM)</td><td>
+					马来西亚
+			</td></tr><tr><td>
+					162
+			</td><td>
+					154=
+			</td><td>				希伯来大学&#160;<br />				Hebrew University of Jerusalem</td><td>
+					以色列
+			</td></tr><tr><td>
+					163=
+			</td><td>
+					171
+			</td><td>				卑尔根大学&#160;<br />				University of Bergen</td><td>
+					挪威
+			</td></tr><tr><td>
+					163=
+			</td><td>
+					154=
+			</td><td>				埃克塞特大学<br />				University of Exeter</td><td>
+					英国
+			</td></tr><tr><td>
+					165=
+			</td><td>
+					166
+			</td><td>				巴塞罗那大学&#160;<br />				Universitat de Barcelona (UB)</td><td>
+					西班牙
+			</td></tr><tr><td>
+					165=
+			</td><td>
+					207
+			</td><td>				马来西亚理科大学&#160;<br />				Universiti Sains Malaysia (USM)</td><td>
+					马来西亚
+			</td></tr><tr><td>
+					167=
+			</td><td>
+					165
+			</td><td>				法语鲁汶大学&#160;<br />				Université Catholique de Louvain (UCL)</td><td>
+					比利时
+			</td></tr><tr><td>
+					167=
+			</td><td>
+					180=
+			</td><td>				佛罗里达大学&#160;<br />				University of Florida</td><td>
+					美国
+			</td></tr><tr><td>
+					169=
+			</td><td>
+					168
+			</td><td>				图宾根大学&#160;<br />				Eberhard Karls Universit&#228;t Tübingen</td><td>
+					德国
+			</td></tr><tr><td>
+					169=
+			</td><td>
+					186=
+			</td><td>				弗莱堡大学&#160;<br />				Universit&#228;t Freiburg</td><td>
+					德国
+			</td></tr><tr><td>
+					171
+			</td><td>
+					184=
+			</td><td>				罗切斯特大学&#160;<br />				University of Rochester</td><td>
+					美国
+			</td></tr><tr><td>
+					172
+			</td><td>
+					158
+			</td><td>				巴斯大学&#160;<br />				University of Bath</td><td>
+					英国
+			</td></tr><tr><td>
+					173=
+			</td><td>
+					163=
+			</td><td>				台湾清华大学&#160;<br />				National Tsing Hua University</td><td>
+					中国台湾
+			</td></tr><tr><td>
+					173=
+			</td><td>
+					180=
+			</td><td>				贝尔法斯特女王大学&#160;<br />				Queen's University of Belfast</td><td>
+					英国
+			</td></tr><tr><td>
+					173=
+			</td><td>
+					163=
+			</td><td>				滑铁卢大学&#160;<br />				University of Waterloo</td><td>
+					加拿大
+			</td></tr><tr><td>
+					176
+			</td><td>
+					175=
+			</td><td>				奥塔哥大学&#160;<br />				University of Otago</td><td>
+					新西兰
+			</td></tr><tr><td>
+					177=
+			</td><td>
+					167
+			</td><td>				比萨圣安娜高等学校&#160;<br />				Scuola Superiore Sant'Anna Pisa</td><td>
+					意大利
+			</td></tr><tr><td>
+					177=
+			</td><td>
+					180=
+			</td><td>				博洛尼亚大学&#160;<br />				Università di Bologna (UNIBO)</td><td>
+					意大利
+			</td></tr><tr><td>
+					179=
+			</td><td>
+					186=
+			</td><td>				凯斯西储大学&#160;<br />				Case Western Reserve University</td><td>
+					美国
+			</td></tr><tr><td>
+					179=
+			</td><td>
+					191
+			</td><td>				德雷斯顿工业大学&#160;<br />				Technische Universit&#228;t Dresden</td><td>
+					德国
+			</td></tr><tr><td>
+					2020排名
+			</td><td>
+					2019排名
+			</td><td>
+					学校
+			</td><td>
+					国家或地区
+			</td></tr><tr><td>
+					181
+			</td><td>
+					164=
+			</td><td>				利物浦大学&#160;<br />				University of Liverpool</td><td>
+					英国
+			</td></tr><tr><td>
+					182
+			</td><td>
+					172=
+			</td><td>				印度理工学院德里分校&#160;<br />				Indian Institute of Technology Delhi (IITD)</td><td>
+					印度
+			</td></tr><tr><td>
+					183
+			</td><td>
+					179
+			</td><td>				鹿特丹大学&#160;<br />				Erasmus University Rotterdam</td><td>
+					荷兰
+			</td></tr><tr><td>
+					184
+			</td><td>
+					170
+			</td><td>				印度科学院班加罗尔分校&#160;<br />				Indian Institute of Science (IISc) Bangalore</td><td>
+					印度
+			</td></tr><tr><td>
+					185
+			</td><td>
+					193=
+			</td><td>				都柏林大学学院&#160;<br />				University College Dublin (UCD)</td><td>
+					爱尔兰
+			</td></tr><tr><td>
+					186=
+			</td><td>
+					231=
+			</td><td>				阿齐兹国王大学&#160;<br />				King Abdul Aziz University (KAU)</td><td>
+					沙特阿拉伯
+			</td></tr><tr><td>
+					186=
+			</td><td>
+					172=
+			</td><td>				特文特大学&#160;<br />				University of Twente</td><td>
+					荷兰
+			</td></tr><tr><td>
+					188
+			</td><td>
+					193=
+			</td><td>				巴塞罗那自治大学<br />				Universitat Autónoma de Barcelona</td><td>
+					西班牙
+			</td></tr><tr><td>
+					189=
+			</td><td>
+					203
+			</td><td>				得州农工大学&#160;<br />				Texas A&M University</td><td>
+					美国
+			</td></tr><tr><td>
+					189=
+			</td><td>
+					208=
+			</td><td>				智利大学&#160;<br />				Universidad de Chile</td><td>
+					智利
+			</td></tr><tr><td>
+					191
+			</td><td>
+					200=
+			</td><td>				斯德哥尔摩大学&#160;<br />				Stockholm University</td><td>
+					瑞典
+			</td></tr><tr><td>
+					192=
+			</td><td>
+					199
+			</td><td>				维也纳工业大学<br />				Technische Universit&#228;t Wien</td><td>
+					奥地利
+			</td></tr><tr><td>
+					192=
+			</td><td>
+					159
+			</td><td>				马德里自治大学&#160;<br />				Universidad Autónoma de Madrid</td><td>
+					西班牙
+			</td></tr><tr><td>
+					194
+			</td><td>
+					172=
+			</td><td>				阿伯丁大学&#160;<br />				University of Aberdeen</td><td>
+					英国
+			</td></tr><tr><td>
+					195
+			</td><td>
+					188
+			</td><td>				布鲁塞尔自由大学&#160;<br />				Vrije Universiteit Brussel (VUB)</td><td>
+					比利时
+			</td></tr><tr><td>
+					196
+			</td><td>
+					208=
+			</td><td>				早稻田大学&#160;<br />				Waseda University</td><td>
+					日本
+			</td></tr><tr><td>
+					197
+			</td><td>
+					197
+			</td><td>				哥廷根大学&#160;<br />				Georg-August-Universit&#228;t G&#246;ttingen</td><td>
+					德国
+			</td></tr><tr><td>
+					198=
+			</td><td>
+					200=
+			</td><td>				开普敦大学<br />				University of Cape Town</td><td>
+					南非
+			</td></tr><tr><td>
+					198=
+			</td><td>
+					192
+			</td><td>				弗吉尼亚大学<br />				University of Virginia</td><td>
+					美国
+			</td></tr><tr><td>
+					200=
+			</td><td>
+					198
+			</td><td>				庆应义塾大学&#160;<br />				Keio University</td><td>
+					日本
+			</td></tr><tr><td>
+					200=
+			</td><td>
+					189
+			</td><td>				法赫德国王石油与矿业大学&#160;<br />				King Fahd University of Petroleum & Minerals (KFUPM)</td><td>
+					沙特阿拉伯
+			</td></tr><tr><td>
+					200=
+			</td><td>
+					195=
+			</td><td>				范德堡大学&#160;<br />				Vanderbilt University</td><td>
+					美国
+			</td></tr></tbody></table></div></div></div><a name="anchor3"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        QS2020中国大学排名</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	国际高等教育研究机构Quacquarelli Symonds的<strong>QS2020年世界大学排名</strong>，包含全球1000所知名大学,横跨85个不同国家地区，中国共有42所大学进入世界前1000名。QS世界大学排名揭示了整个中国大陆教育系统的持续进步。中国大陆参加排名的42所大学中有25所较去年排名上升，有9所排名下降。按照这份榜单TOP100，中国（12所）仅次于美国（29所）和英国（18所），是拥有世界百强大学最多的亚洲国家。</p><p style="TEXT-INDENT:2em">	就中国而言，中国66所高校上榜。其中，中国大陆42所（新增3所：深圳大学、武汉理工大学、西交利物浦大学），香港特区7所（香港大学第25名），澳门特区1所（澳门大学第387名，提高56名），台湾地区16所（台湾大学69名，提高3名）。</p><p style="TEXT-INDENT:2em">	中国大陆高校中，清华大学最高，全球第16名（进步1名），超过了美国的耶鲁大学（17名）和哥伦比亚大学（18名）。北京大学全球排名22名（进步8名）。</p><p style="TEXT-INDENT:2em">	复旦大学全球第40名（进步4名）， 超过悉尼大学（第42名）。除了北清、复旦，中国大陆高校跻身前100的还有浙江大学、上海交通大学、中国科技大学。</p><p style="TEXT-INDENT:2em">	另外，上榜学校中进步较大的学校有：同济大学（265名，上升26名），北京理工大学（436名，上升28名），厦门大学（451名，上升25名），北京航空航天大学（462名，上升29名），北京科技大学（462名，上升38名），山东大学（468名，上升50+名），华南理工大学（480名，上升50+名）。</p><p style="TEXT-INDENT:2em">	北京大学和清华大学连续五年排名上升，取得了史上最高名次，分别排名全球大学第16位、第22位。清华大学超过了美国名校耶鲁大学和哥伦比亚大学。北京大学则上升八位，与东京大学并列22位。</p><p style="TEXT-INDENT:2em">	除却清华北大，中国大陆高校在此次排名中表现突出的还有复旦大学、浙江大学、上海交通大学、中国科技大学都跻身进入全球前100名。</p><p style="TEXT-INDENT:2em">	复旦大学今年排名世界第40位，去年排名第44位。对比2015年其已上升了31位。</p><p style="TEXT-INDENT:2em">	浙江大学已经接近全球前50名。今年浙大排名世界第54位，同去年相比上升了14位。</p><p style="TEXT-INDENT:2em">	然而，中国大陆大学的毕业生在雇主的声誉平复中有所下降。在42所参与排名的中国大陆大学中，有35所大学的QS雇主声誉评分较往年降低。</p><p style="TEXT-INDENT:2em">	QS总共评估了中国大陆排名前十的大学中过去五年间发表的42万8192篇研究论文，与此相比，美国排名前十的大学总共发表了44万3996篇论文。这意味着中国与美国的论文产出数量差现只有15805篇，而去年的差距为37233篇，差距不断缩小。</p><p style="TEXT-INDENT:2em">	以下是中国大陆42所大学在本次世界大学排名中的具体表现，前两列分别为学校在2020年世界大学排名和2019年世界大学排名中的位次：</p><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style=" text-align: left; margin: auto; width:90%"><tbody><tr bgcolor="#7EC2D3"><th>				2020</th><th>				2019</th><th>				学校</th></tr><tr><td bgcolor="#FFE899">				16</td><td bgcolor="#D5EBF0">				17</td><td bgcolor="#D5EBF0">				清华大学<br />				Tsinghua University</td></tr><tr><td bgcolor="#FFF3CC">				22=</td><td bgcolor="#ECF6F8">				30</td><td bgcolor="#ECF6F8">				北京大学<br />				Peking University</td></tr><tr><td bgcolor="#FFE899">				40</td><td bgcolor="#D5EBF0">				44</td><td bgcolor="#D5EBF0">				复旦大学<br />				Fudan University</td></tr><tr><td bgcolor="#FFF3CC">				54</td><td bgcolor="#ECF6F8">				68</td><td bgcolor="#ECF6F8">				浙江大学<br />				Zhejiang University</td></tr><tr><td bgcolor="#FFE899">				60=</td><td bgcolor="#D5EBF0">				59=</td><td bgcolor="#D5EBF0">				上海交通大学<br />				Shanghai Jiao Tong University</td></tr><tr><td bgcolor="#FFF3CC">				89</td><td bgcolor="#ECF6F8">				98</td><td bgcolor="#ECF6F8">				中国科学技术大学<br />				University of Science and Technology of China</td></tr><tr><td bgcolor="#FFE899">				120=</td><td bgcolor="#D5EBF0">				122=</td><td bgcolor="#D5EBF0">				南京大学<br />				Nanjing University</td></tr><tr><td bgcolor="#FFF3CC">				257=</td><td bgcolor="#ECF6F8">				257=</td><td bgcolor="#ECF6F8">				武汉大学<br />				Wuhan University</td></tr><tr><td bgcolor="#FFE899">				265</td><td bgcolor="#D5EBF0">				291</td><td bgcolor="#D5EBF0">				同济大学<br />				Tongji University</td></tr><tr><td bgcolor="#FFF3CC">				277=</td><td bgcolor="#ECF6F8">				292=</td><td bgcolor="#ECF6F8">				北京师范大学<br />				Beijing Normal University</td></tr><tr><td bgcolor="#FFE899">				277=</td><td bgcolor="#D5EBF0">				285=</td><td bgcolor="#D5EBF0">				哈尔滨工业大学<br />				Harbin Institute of Technology</td></tr><tr><td bgcolor="#FFF3CC">				287=</td><td bgcolor="#ECF6F8">				295=</td><td bgcolor="#ECF6F8">				中山大学<br />				Sun Yat-sen University</td></tr><tr><td bgcolor="#FFE899">				307</td><td bgcolor="#D5EBF0">				313=</td><td bgcolor="#D5EBF0">				西安交通大学<br />				Xi'an Jiaotong University</td></tr><tr><td bgcolor="#FFF3CC">				368=</td><td bgcolor="#ECF6F8">				338=</td><td bgcolor="#ECF6F8">				南开大学<br />				Nankai University</td></tr><tr><td bgcolor="#FFE899">				400=</td><td bgcolor="#D5EBF0">				415=</td><td bgcolor="#D5EBF0">				华中科技大学<br />				Huazhong University of Science and Technology</td></tr><tr><td bgcolor="#FFF3CC">				412=</td><td bgcolor="#ECF6F8">				422=</td><td bgcolor="#ECF6F8">				上海大学<br />				Shanghai University</td></tr><tr><td bgcolor="#FFE899">				429=</td><td bgcolor="#D5EBF0">				443=</td><td bgcolor="#D5EBF0">				天津大学<br />				Tianjin University</td></tr><tr><td bgcolor="#FFF3CC">				436=</td><td bgcolor="#ECF6F8">				464=</td><td bgcolor="#ECF6F8">				北京理工大学<br />				Beijing Institute of Technology</td></tr><tr><td bgcolor="#FFE899">				451=</td><td bgcolor="#D5EBF0">				476=</td><td bgcolor="#D5EBF0">				厦门大学<br />				Xiamen University</td></tr><tr><td bgcolor="#FFF3CC">				462=</td><td bgcolor="#ECF6F8">				491=</td><td bgcolor="#ECF6F8">				北京航空航天大学<br />				Beihang University</td></tr><tr><td bgcolor="#FFE899">				462=</td><td bgcolor="#D5EBF0">				500=</td><td bgcolor="#D5EBF0">				北京科技大学<br />				University of Science and Technology Beijing</td></tr><tr bgcolor="#7EC2D3"><td>				2020</td><td>				2019</td><td>				学校</td></tr><tr><td bgcolor="#FFF3CC">				468=</td><td bgcolor="#ECF6F8">				541-550</td><td bgcolor="#ECF6F8">				山东大学<br />				Shandong University</td></tr><tr><td bgcolor="#FFE899">				480=</td><td bgcolor="#D5EBF0">				541-550</td><td bgcolor="#D5EBF0">				华南理工大学<br />				South China University of Technology</td></tr><tr><td bgcolor="#FFF3CC">				484=</td><td bgcolor="#ECF6F8">				475</td><td bgcolor="#ECF6F8">				吉林大学<br />				Jilin University</td></tr><tr><td bgcolor="#FFE899">				501-510</td><td bgcolor="#D5EBF0">				511-520</td><td bgcolor="#D5EBF0">				东南大学<br />				Southeast University</td></tr><tr><td bgcolor="#FFF3CC">				531-540</td><td bgcolor="#ECF6F8">				501-510</td><td bgcolor="#ECF6F8">				华东师范大学<br />				East China Normal University</td></tr><tr><td bgcolor="#FFE899">				531-540</td><td bgcolor="#D5EBF0">				521-530</td><td bgcolor="#D5EBF0">				人民大学<br />				Renmin (People’s) University of China</td></tr><tr><td bgcolor="#FFF3CC">				551-560</td><td bgcolor="#ECF6F8">				531-540</td><td bgcolor="#ECF6F8">				华东理工大学<br />				East China University of Science and Technology</td></tr><tr><td bgcolor="#FFE899">				571-580</td><td bgcolor="#D5EBF0">				571-580</td><td bgcolor="#D5EBF0">				大连理工大学<br />				Dalian University of Technology</td></tr><tr><td bgcolor="#FFF3CC">				601-650</td><td bgcolor="#ECF6F8">				601-650</td><td bgcolor="#ECF6F8">				四川大学<br />				Sichuan University</td></tr><tr><td bgcolor="#FFE899">				651-700</td><td bgcolor="#D5EBF0">				651-700</td><td bgcolor="#D5EBF0">				中国农业大学<br />				China Agricultural University</td></tr><tr><td bgcolor="#FFF3CC">				701-750</td><td bgcolor="#ECF6F8">				751-800</td><td bgcolor="#ECF6F8">				北京交通大学<br />				Beijing Jiaotong University</td></tr><tr><td bgcolor="#FFE899">				701-750</td><td bgcolor="#D5EBF0">				751-800</td><td bgcolor="#D5EBF0">				北京工业大学<br />				Beijing University of Technology</td></tr><tr><td bgcolor="#FFF3CC">				701-750</td><td bgcolor="#ECF6F8">				801-1000</td><td bgcolor="#ECF6F8">				中南大学<br />				Central South University</td></tr><tr><td bgcolor="#FFE899">				701-750</td><td bgcolor="#D5EBF0">				701-750</td><td bgcolor="#D5EBF0">				湖南大学<br />				Hunan University</td></tr><tr><td bgcolor="#FFF3CC">				701-750</td><td bgcolor="#ECF6F8">				&#160;</td><td bgcolor="#ECF6F8">				深圳大学<br />				Shenzhen University</td></tr><tr><td bgcolor="#FFE899">				751-800</td><td bgcolor="#D5EBF0">				801-1000</td><td bgcolor="#D5EBF0">				重庆大学<br />				Chongqing University</td></tr><tr><td bgcolor="#FFF3CC">				751-800</td><td bgcolor="#ECF6F8">				601-650</td><td bgcolor="#ECF6F8">				兰州大学<br />				Lanzhou University</td></tr><tr><td bgcolor="#FFE899">				801-1000</td><td bgcolor="#D5EBF0">				751-800</td><td bgcolor="#D5EBF0">				北京外国语大学<br />				Beijing Foreign Studies University</td></tr><tr><td bgcolor="#FFF3CC">				801-1000</td><td bgcolor="#ECF6F8">				701-750</td><td bgcolor="#ECF6F8">				上海外国语大学<br />				Shanghai International Studies University</td></tr><tr><td bgcolor="#FFE899">				801-1000</td><td bgcolor="#D5EBF0">				&#160;</td><td bgcolor="#D5EBF0">				武汉理工大学<br />				Wuhan University of Technology</td></tr><tr><td bgcolor="#FFF3CC">				801-1000</td><td bgcolor="#ECF6F8">				&#160;</td><td bgcolor="#ECF6F8">				西交利物浦大学<br />				Xi'an Jiaotong-Liverpool University</td></tr></tbody></table><p>	&#160;</p></div></div></div><a name="anchor4"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        2020QS世界大学排名说明</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	2019年6月19日，国际高等教育咨询机构Quacquarelli Symonds公布了第16届世界大学排名——2020年世界大学排名。此次的榜单中共有1001所大学，中国共有66所高校上榜，包括内地高校42所，香港高校7所，澳门高校1所，台湾高校16所。其中中国内地有3所大学进入前50名。</p><p style="TEXT-INDENT:2em">	全球首3位继续由美国院校包揽，排名不变，麻省理工学院连续八年稳居榜首，斯坦福大学及哈佛大学紧随其后。美国在世界前20的大学却比去年减少一所（今年共10所），密歇根大学跌出世界前二十名。美国大学整体表现有所下降，本次排名世界前100位的美国高校是自2016以来最少的一次（共29所），比去年少了4所。</p><p style="TEXT-INDENT:2em">	其余全球排名前十的学校依次为牛津大学、加州理工学院、苏黎世联邦理工学院、剑桥大学、伦敦大学学院、帝国理工学院与芝加哥大学，其中美国高校占据5个席位。</p><p style="TEXT-INDENT:2em">	英国的世界顶尖大学（世界前20）依旧为5所，其中牛津大学排名世界第四，相较去年上升一名，为全欧洲排名最高的高等学府。剑桥大学则取得了其历史最低排名（世界第七名），被瑞士的苏黎世联邦理工学院取代（排名世界第六）。</p><p style="TEXT-INDENT:2em">	加拿大在2020年排名中表现略差，有13所大学的排名有所下降，最高排名依旧为多伦多大学，排名为今年世界29名（去年28名）。</p><p style="TEXT-INDENT:2em">	澳大利亚2020年排名中的表现非常好，参与排名的大学将近2/3都取得了排名的升高。排名最高的是澳洲国立大学，2020世界排名29，相对于去年降低5名。</p><p style="TEXT-INDENT:2em">	继2019年首次跻身20强后，清华大学今年再进一步，从去年的第17位升至第16位，超过哥伦比亚大学、耶鲁等名校。北京大学排名第22位，也是在这次的榜单中取得了历史最好成绩。</p><p style="TEXT-INDENT:2em">	此外，复旦大学排名第40位，浙江大学排名第54位，上海交通大学排名第60位，中国科技大学排名第89位，南京大学排名第120位，武汉大学排名第257位，同济大学排名第265位，北京师范大学排名第277位。</p><p style="TEXT-INDENT:2em">	除了上海交通大学比2019年的榜单排名后退了一位，武汉大学排名与2019年不变以外，其余八所中国大陆的高校的排名都有所上升。中国大陆共有42所高校进入榜单。</p><p style="TEXT-INDENT:2em">	深圳大学、武汉理工大学和西交利物浦大学三校首次进入QS世界大学排行榜前1000名。其中，深圳大学的排名位列701-750位，武汉理工大学和西交利物浦大学则均位列801-1000位。</p><p style="TEXT-INDENT:2em">	新加坡国立大学和南洋理工学院双双并列亚洲第一，排名全球第11位。</p><p style="TEXT-INDENT:2em">	香港有5所大学跻身全球百大，较去年多一所。香港大学维持去年排名，位列全球第25位，其余大学的排名及学术声誉指标表现也有所进步。</p><p style="TEXT-INDENT:2em">	香港科技大学今年排名世界32名，相比于去年进步5名，并进入亚洲前10的行列;香港中文大学和香港城市大学也均有进步，分别排名世界第46位和第52位。香港理工大学进步显著，上升15位，排名世界第91位。</p></div></div></div><a name="anchor5"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        2020QS世界大学排行榜（完整榜单）</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%"><tbody><tr><th>				排名</th><th>				中文名称</th><th>				英文名称</th><th>				所属国家地区</th></tr><tr><td>				1</td><td>				麻省理工学院</td><td>				Massachusetts Institute of Technology (MIT)</td><td>				美国</td></tr><tr><td>				2</td><td>				斯坦福大学</td><td>				Stanford University</td><td>				美国</td></tr><tr><td>				3</td><td>				哈佛大学</td><td>				Harvard University</td><td>				美国</td></tr><tr><td>				4</td><td>				牛津大学</td><td>				University of Oxford</td><td>				英国</td></tr><tr><td>				5</td><td>				加州理工学院</td><td>				California Institute of Technology (Caltech)</td><td>				美国</td></tr><tr><td>				6</td><td>				苏黎世联邦理工学院</td><td>				ETH Zurich - Swiss Federal Institute of Technology</td><td>				瑞士</td></tr><tr><td>				7</td><td>				剑桥大学</td><td>				University of Cambridge</td><td>				英国</td></tr><tr><td>				8</td><td>				伦敦大学学院</td><td>				UCL</td><td>				英国</td></tr><tr><td>				9</td><td>				帝国理工学院</td><td>				Imperial College London</td><td>				英国</td></tr><tr><td>				10</td><td>				芝加哥大学</td><td>				University of Chicago</td><td>				美国</td></tr><tr><td>				11</td><td>				南洋理工大学</td><td>				Nanyang Technological University, Singapore (NTU)</td><td>				新加坡</td></tr><tr><td>				11</td><td>				新加坡国立大学</td><td>				National University of Singapore (NUS)</td><td>				新加坡</td></tr><tr><td>				13</td><td>				普林斯顿大学</td><td>				Princeton University</td><td>				美国</td></tr><tr><td>				14</td><td>				康奈尔大学</td><td>				Cornell University</td><td>				美国</td></tr><tr><td>				15</td><td>				宾夕法尼亚大学</td><td>				University of Pennsylvania</td><td>				美国</td></tr><tr><td>				16</td><td>				清华大学</td><td>				Tsinghua University</td><td>				中国</td></tr><tr><td>				17</td><td>				耶鲁大学</td><td>				Yale University</td><td>				美国</td></tr><tr><td>				18</td><td>				哥伦比亚大学</td><td>				Columbia University</td><td>				美国</td></tr><tr><td>				18</td><td>				洛桑联邦理工学院</td><td>				EPFL - Ecole Polytechnique Federale de Lausanne</td><td>				瑞士</td></tr><tr><td>				20</td><td>				爱丁堡大学</td><td>				The University of Edinburgh</td><td>				英国</td></tr><tr><td>				21</td><td>				密歇根大学</td><td>				University of Michigan</td><td>				美国</td></tr><tr><td>				22</td><td>				北京大学</td><td>				Peking University</td><td>				中国</td></tr><tr><td>				22</td><td>				东京大学</td><td>				The University of Tokyo</td><td>				日本</td></tr><tr><td>				24</td><td>				约翰霍普金斯大学</td><td>				Johns Hopkins University</td><td>				美国</td></tr><tr><td>				25</td><td>				杜克大学</td><td>				Duke University</td><td>				美国</td></tr><tr><td>				25</td><td>				香港大学</td><td>				The University of Hong Kong</td><td>				中国香港</td></tr><tr><td>				27</td><td>				曼彻斯特大学</td><td>				The University of Manchester</td><td>				英国</td></tr><tr><td>				28</td><td>				加州大学伯克利分校</td><td>				University of California, Berkeley (UCB)</td><td>				美国</td></tr><tr><td>				29</td><td>				澳大利亚国立大学</td><td>				The Australian National University</td><td>				澳大利亚</td></tr><tr><td>				29</td><td>				多伦多大学</td><td>				University of Toronto</td><td>				加拿大</td></tr><tr><td>				31</td><td>				西北大学</td><td>				Northwestern University</td><td>				美国</td></tr><tr><td>				32</td><td>				香港科技大学</td><td>				The Hong Kong University of Science and Technology</td><td>				中国香港</td></tr><tr><td>				33</td><td>				伦敦大学国王学院</td><td>				King's College London</td><td>				英国</td></tr><tr><td>				33</td><td>				京都大学</td><td>				Kyoto University</td><td>				日本</td></tr><tr><td>				35</td><td>				麦吉尔大学</td><td>				McGill University</td><td>				加拿大</td></tr><tr><td>				35</td><td>				加州大学洛杉矶分校</td><td>				University of California, Los Angeles (UCLA)</td><td>				美国</td></tr><tr><td>				37</td><td>				首尔国立大学</td><td>				Seoul National University</td><td>				韩国</td></tr><tr><td>				38</td><td>				墨尔本大学</td><td>				The University of Melbourne</td><td>				澳大利亚</td></tr><tr><td>				39</td><td>				纽约大学</td><td>				New York University (NYU)</td><td>				美国</td></tr><tr><td>				40</td><td>				复旦大学</td><td>				Fudan University</td><td>				中国</td></tr><tr><td>				41</td><td>				韩国高等科技学院</td><td>				KAIST - Korea Advanced Institute of Science & Technology</td><td>				韩国</td></tr><tr><td>				42</td><td>				悉尼大学</td><td>				The University of Sydney</td><td>				澳大利亚</td></tr><tr><td>				43</td><td>				新南威尔士大学（悉尼）</td><td>				The University of New South Wales (UNSW Sydney)</td><td>				澳大利亚</td></tr><tr><td>				44</td><td>				伦敦政治经济学院</td><td>				The London School of Economics and Political Science (LSE)</td><td>				英国</td></tr><tr><td>				45</td><td>				加州大学圣地亚哥分校</td><td>				University of California, San Diego (UCSD)</td><td>				美国</td></tr><tr><td>				46</td><td>				香港中文大学</td><td>				The Chinese University of Hong Kong (CUHK)</td><td>				中国香港</td></tr><tr><td>				47</td><td>				昆士兰大学</td><td>				The University of Queensland</td><td>				澳大利亚</td></tr><tr><td>				48</td><td>				卡耐基梅隆大学</td><td>				Carnegie Mellon University</td><td>				美国</td></tr><tr><td>				49</td><td>				布里斯托大学</td><td>				University of Bristol</td><td>				英国</td></tr><tr><td>				50</td><td>				代尔夫特理工大学</td><td>				Delft University of Technology</td><td>				荷兰</td></tr><tr><td>				51</td><td>				不列颠哥伦比亚大学</td><td>				University of British Columbia</td><td>				加拿大</td></tr><tr><td>				52</td><td>				香港城市大学</td><td>				City University of Hong Kong</td><td>				中国香港</td></tr><tr><td>				53</td><td>				巴黎文理研究大学</td><td>				Université PSL</td><td>				法国</td></tr><tr><td>				54</td><td>				浙江大学</td><td>				Zhejiang University</td><td>				中国</td></tr><tr><td>				55</td><td>				慕尼黑工业大学</td><td>				Technical University of Munich</td><td>				德国</td></tr><tr><td>				56</td><td>				威斯康星大学麦迪逊分校</td><td>				University of Wisconsin-Madison</td><td>				美国</td></tr><tr><td>				57</td><td>				布朗大学</td><td>				Brown University</td><td>				美国</td></tr><tr><td>				58</td><td>				蒙纳士大学</td><td>				Monash University</td><td>				澳大利亚</td></tr><tr><td>				58</td><td>				东京工业大学</td><td>				Tokyo Institute of Technology</td><td>				日本</td></tr><tr><td>				60</td><td>				巴黎综合理工大学</td><td>				Ecole Polytechnique</td><td>				法国</td></tr><tr><td>				60</td><td>				上海交通大学</td><td>				Shanghai Jiao Tong University</td><td>				中国</td></tr><tr><td>				62</td><td>				华威大学</td><td>				The University of Warwick</td><td>				英国</td></tr><tr><td>				63</td><td>				慕尼黑大学</td><td>				Ludwig-Maximilians-Universit&#228;t München</td><td>				德国</td></tr><tr><td>				64</td><td>				阿姆斯特丹大学</td><td>				University of Amsterdam</td><td>				荷兰</td></tr><tr><td>				65</td><td>				得克萨斯大学奥斯汀分校</td><td>				University of Texas at Austin</td><td>				美国</td></tr><tr><td>				66</td><td>				海德堡大学</td><td>				Ruprecht-Karls-Universit&#228;t Heidelberg</td><td>				德国</td></tr><tr><td>				67</td><td>				格拉斯哥大学</td><td>				University of Glasgow</td><td>				英国</td></tr><tr><td>				68</td><td>				华盛顿大学</td><td>				University of Washington</td><td>				美国</td></tr><tr><td>				69</td><td>				台湾大学</td><td>				National Taiwan University (NTU)</td><td>				中国台湾</td></tr><tr><td>				70</td><td>				马来亚大学</td><td>				Universiti Malaya (UM)</td><td>				马来西亚</td></tr><tr><td>				71</td><td>				大阪大学</td><td>				Osaka University</td><td>				日本</td></tr><tr><td>				72</td><td>				佐治亚理工学院</td><td>				Georgia Institute of Technology</td><td>				美国</td></tr><tr><td>				72</td><td>				哥本哈根大学</td><td>				University of Copenhagen</td><td>				丹麦</td></tr><tr><td>				74</td><td>				布宜诺斯艾利斯大学</td><td>				Universidad de Buenos Aires (UBA)</td><td>				阿根廷</td></tr><tr><td>				75</td><td>				伊利诺伊大学厄本那 - 香槟分校</td><td>				University of Illinois at Urbana-Champaign</td><td>				美国</td></tr><tr><td>				76</td><td>				苏黎世大学</td><td>				University of Zurich</td><td>				瑞士</td></tr><tr><td>				77</td><td>				索邦大学</td><td>				Sorbonne University</td><td>				法国</td></tr><tr><td>				78</td><td>				杜伦大学</td><td>				Durham University</td><td>				英国</td></tr><tr><td>				78</td><td>				谢菲尔德大学</td><td>				The University of Sheffield</td><td>				英国</td></tr><tr><td>				80</td><td>				鲁汶大学</td><td>				KU Leuven</td><td>				比利时</td></tr><tr><td>				81</td><td>				伯明翰大学</td><td>				University of Birmingham</td><td>				英国</td></tr><tr><td>				82</td><td>				东北大学</td><td>				Tohoku University</td><td>				日本</td></tr><tr><td>				83</td><td>				高丽大学</td><td>				Korea University</td><td>				韩国</td></tr><tr><td>				84</td><td>				莫斯科国立罗蒙诺索夫大学</td><td>				Lomonosov Moscow State University</td><td>				俄罗斯</td></tr><tr><td>				85</td><td>				莱斯大学</td><td>				Rice University</td><td>				美国</td></tr><tr><td>				86</td><td>				西澳大利亚大学</td><td>				The University of Western Australia</td><td>				澳大利亚</td></tr><tr><td>				87</td><td>				浦项科技大学</td><td>				Pohang University of Science And Technology (POSTECH)</td><td>				韩国</td></tr><tr><td>				88</td><td>				奥克兰大学</td><td>				The University of Auckland</td><td>				新西兰</td></tr><tr><td>				89</td><td>				中国科学技术大学</td><td>				University of Science and Technology of China</td><td>				中国</td></tr><tr><td>				90</td><td>				北卡罗来纳大学教堂山分校</td><td>				University of North Carolina, Chapel Hill</td><td>				美国</td></tr><tr><td>				91</td><td>				香港理工大学</td><td>				The Hong Kong Polytechnic University</td><td>				中国香港</td></tr><tr><td>				92</td><td>				隆德大学</td><td>				Lund University</td><td>				瑞典</td></tr><tr><td>				93</td><td>				宾州州立大学</td><td>				Pennsylvania State University</td><td>				美国</td></tr><tr><td>				93</td><td>				利兹大学</td><td>				University of Leeds</td><td>				英国</td></tr><tr><td>				95</td><td>				成均馆大学</td><td>				Sungkyunkwan University (SKKU)</td><td>				韩国</td></tr><tr><td>				96</td><td>				诺丁汉大学</td><td>				University of Nottingham</td><td>				英国</td></tr><tr><td>				97</td><td>				南安普顿大学</td><td>				University of Southampton</td><td>				英国</td></tr><tr><td>				98</td><td>				波士顿大学</td><td>				Boston University</td><td>				美国</td></tr><tr><td>				98</td><td>				皇家理工学院</td><td>				KTH Royal Institute of Technology</td><td>				瑞典</td></tr><tr><td>				100</td><td>				圣安德鲁斯大学</td><td>				University of St Andrews</td><td>				英国</td></tr><tr><td>				101</td><td>				俄亥俄州立大学</td><td>				The Ohio State University</td><td>				美国</td></tr><tr><td>				102</td><td>				埃因霍温科技大学</td><td>				Eindhoven University of Technology</td><td>				荷兰</td></tr><tr><td>				103</td><td>				墨西哥国立自治大学</td><td>				Universidad Nacional Autónoma de México (UNAM)</td><td>				墨西哥</td></tr><tr><td>				104</td><td>				加州大学戴维斯分校</td><td>				University of California, Davis</td><td>				美国</td></tr><tr><td>				104</td><td>				延世大学</td><td>				Yonsei University</td><td>				韩国</td></tr><tr><td>				106</td><td>				阿德莱德大学</td><td>				The University of Adelaide</td><td>				澳大利亚</td></tr><tr><td>				107</td><td>				赫尔辛基大学</td><td>				University of Helsinki</td><td>				芬兰</td></tr><tr><td>				108</td><td>				都柏林三一学院</td><td>				Trinity College Dublin, The University of Dublin</td><td>				爱尔兰</td></tr><tr><td>				108</td><td>				华盛顿大学圣路易斯分校</td><td>				Washington University in St. Louis</td><td>				美国</td></tr><tr><td>				110</td><td>				日内瓦大学</td><td>				University of Geneva</td><td>				瑞士</td></tr><tr><td>				111</td><td>				普渡大学</td><td>				Purdue University</td><td>				美国</td></tr><tr><td>				112</td><td>				丹麦技术大学</td><td>				Technical University of Denmark</td><td>				丹麦</td></tr><tr><td>				113</td><td>				阿尔伯塔大学</td><td>				University of Alberta</td><td>				加拿大</td></tr><tr><td>				114</td><td>				格罗宁根大学</td><td>				University of Groningen</td><td>				荷兰</td></tr><tr><td>				115</td><td>				名古屋大学</td><td>				Nagoya University</td><td>				日本</td></tr><tr><td>				116</td><td>				圣保罗大学</td><td>				Universidade de S&#227;o Paulo</td><td>				巴西</td></tr><tr><td>				116</td><td>				乌普萨拉大学</td><td>				Uppsala University</td><td>				瑞典</td></tr><tr><td>				118</td><td>				莱顿大学</td><td>				Leiden University</td><td>				荷兰</td></tr><tr><td>				119</td><td>				奥斯陆大学</td><td>				University of Oslo</td><td>				挪威</td></tr><tr><td>				120</td><td>				柏林洪堡大学</td><td>				Humboldt-Universit&#228;t zu Berlin</td><td>				德国</td></tr><tr><td>				120</td><td>				南京大学</td><td>				Nanjing University</td><td>				中国</td></tr><tr><td>				120</td><td>				乌得勒支大学</td><td>				Utrecht University</td><td>				荷兰</td></tr><tr><td>				123</td><td>				伯尔尼大学</td><td>				University of Bern</td><td>				瑞士</td></tr><tr><td>				124</td><td>				卡尔斯鲁厄理工学院</td><td>				KIT, Karlsruhe Institute of Technology</td><td>				德国</td></tr><tr><td>				125</td><td>				瓦赫宁根大学与研究所</td><td>				Wageningen University & Research</td><td>				荷兰</td></tr><tr><td>				126</td><td>				伦敦大学玛丽皇后学院</td><td>				Queen Mary University of London</td><td>				英国</td></tr><tr><td>				127</td><td>				智利天主教大学</td><td>				Pontificia Universidad Católica de Chile (UC)</td><td>				智利</td></tr><tr><td>				128</td><td>				兰开斯特大学</td><td>				Lancaster University</td><td>				英国</td></tr><tr><td>				129</td><td>				南加州大学</td><td>				University of Southern California</td><td>				美国</td></tr><tr><td>				130</td><td>				柏林自由大学</td><td>				Freie Universitaet Berlin</td><td>				德国</td></tr><tr><td>				130</td><td>				根特大学</td><td>				Ghent University</td><td>				比利时</td></tr><tr><td>				132</td><td>				北海道大学</td><td>				Hokkaido University</td><td>				日本</td></tr><tr><td>				132</td><td>				九州大学</td><td>				Kyushu University</td><td>				日本</td></tr><tr><td>				134</td><td>				阿尔托大学</td><td>				Aalto University</td><td>				芬兰</td></tr><tr><td>				135</td><td>				加州大学圣塔芭芭拉分校</td><td>				University of California, Santa Barbara (UCSB)</td><td>				美国</td></tr><tr><td>				136</td><td>				马里兰大学帕克分校</td><td>				University of Maryland, College Park</td><td>				美国</td></tr><tr><td>				137</td><td>				蒙特利尔大学</td><td>				Université de Montréal</td><td>				加拿大</td></tr><tr><td>				138</td><td>				亚琛工业大学</td><td>				RWTH Aachen University</td><td>				德国</td></tr><tr><td>				139</td><td>				法国巴黎中央理工-高等电力学院</td><td>				CentraleSupélec</td><td>				法国</td></tr><tr><td>				140</td><td>				查尔姆斯理工大学</td><td>				Chalmers University of Technology</td><td>				瑞典</td></tr><tr><td>				140</td><td>				麦克马斯特大学</td><td>				McMaster University</td><td>				加拿大</td></tr><tr><td>				140</td><td>				匹兹堡大学</td><td>				University of Pittsburgh</td><td>				美国</td></tr><tr><td>				140</td><td>				悉尼科技大学</td><td>				University of Technology Sydney</td><td>				澳大利亚</td></tr><tr><td>				144</td><td>				密歇根州立大学</td><td>				Michigan State University</td><td>				美国</td></tr><tr><td>				145</td><td>				奥胡斯大学</td><td>				Aarhus University</td><td>				丹麦</td></tr><tr><td>				146</td><td>				纽卡斯尔大学</td><td>				Newcastle University</td><td>				英国</td></tr><tr><td>				147</td><td>				柏林工业大学</td><td>				Technische Universit&#228;t Berlin (TU Berlin)</td><td>				德国</td></tr><tr><td>				148</td><td>				约克大学</td><td>				University of York</td><td>				英国</td></tr><tr><td>				149</td><td>				米兰理工大学</td><td>				Politecnico di Milano</td><td>				意大利</td></tr><tr><td>				150</td><td>				汉阳大学</td><td>				Hanyang University</td><td>				韩国</td></tr><tr><td>				151</td><td>				巴塞尔大学</td><td>				University of Basel</td><td>				瑞士</td></tr><tr><td>				152</td><td>				印度理工学院孟买分校</td><td>				Indian Institute of Technology Bombay (IITB)</td><td>				印度</td></tr><tr><td>				153</td><td>				洛桑大学</td><td>				University of Lausanne</td><td>				瑞士</td></tr><tr><td>				154</td><td>				卡迪夫大学</td><td>				Cardiff University</td><td>				英国</td></tr><tr><td>				154</td><td>				维也纳大学</td><td>				University of Vienna</td><td>				奥地利</td></tr><tr><td>				156</td><td>				埃默里大学</td><td>				Emory University</td><td>				美国</td></tr><tr><td>				156</td><td>				明尼苏达大学</td><td>				University of Minnesota</td><td>				美国</td></tr><tr><td>				158</td><td>				蒙特雷科技大學</td><td>				Tecnológico de Monterrey</td><td>				墨西哥</td></tr><tr><td>				159</td><td>				博特拉大学</td><td>				Universiti Putra Malaysia (UPM)</td><td>				马来西亚</td></tr><tr><td>				160</td><td>				里昂高等师范学校</td><td>				école Normale Supérieure de Lyon</td><td>				法国</td></tr><tr><td>				160</td><td>				马来西亚国民大学</td><td>				Universiti Kebangsaan Malaysia (UKM)</td><td>				马来西亚</td></tr><tr><td>				162</td><td>				耶路撒冷希伯来大学</td><td>				The Hebrew University of Jerusalem</td><td>				以色列</td></tr><tr><td>				163</td><td>				卑尔根大学</td><td>				University of Bergen</td><td>				挪威</td></tr><tr><td>				163</td><td>				埃克塞特大学</td><td>				The University of Exeter</td><td>				英国</td></tr><tr><td>				165</td><td>				巴塞罗那大学</td><td>				Universitat de Barcelona</td><td>				西班牙</td></tr><tr><td>				165</td><td>				马来西亚理科大学</td><td>				Universiti Sains Malaysia (USM)</td><td>				马来西亚</td></tr><tr><td>				167</td><td>				鲁汶天主教大学</td><td>				Université catholique de Louvain (UCL)</td><td>				比利时</td></tr><tr><td>				167</td><td>				佛罗里达大学</td><td>				University of Florida</td><td>				美国</td></tr><tr><td>				169</td><td>				艾伯哈特-卡尔斯-图宾根大学</td><td>				Eberhard Karls Universit&#228;t Tübingen</td><td>				德国</td></tr><tr><td>				169</td><td>				弗莱堡大学</td><td>				Albert-Ludwigs-Universitaet Freiburg</td><td>				德国</td></tr><tr><td>				171</td><td>				罗彻斯特大学</td><td>				University of Rochester</td><td>				美国</td></tr><tr><td>				172</td><td>				巴斯大学</td><td>				University of Bath</td><td>				英国</td></tr><tr><td>				173</td><td>				台湾新竹清华大学</td><td>				National Tsing Hua University</td><td>				中国台湾</td></tr><tr><td>				173</td><td>				贝尔法斯特女王大学</td><td>				Queen’s University Belfast</td><td>				英国</td></tr><tr><td>				173</td><td>				滑铁卢大学</td><td>				University of Waterloo</td><td>				加拿大</td></tr><tr><td>				176</td><td>				奥塔哥大学</td><td>				University of Otago</td><td>				新西兰</td></tr><tr><td>				177</td><td>				比萨圣安娜高等学校</td><td>				Scuola Superiore Sant'Anna Pisa di Studi Universitari e di Perfezionamento</td><td>				意大利</td></tr><tr><td>				177</td><td>				博洛尼亚大学</td><td>				Alma Mater Studiorum - University of Bologna</td><td>				意大利</td></tr><tr><td>				179</td><td>				凯斯西储大学</td><td>				Case Western Reserve University</td><td>				美国</td></tr><tr><td>				179</td><td>				德累斯顿工业大学</td><td>				Technische Universit&#228;t Dresden</td><td>				德国</td></tr><tr><td>				181</td><td>				利物浦大学</td><td>				University of Liverpool</td><td>				英国</td></tr><tr><td>				182</td><td>				德里印度理工学院</td><td>				Indian Institute of Technology Delhi (IITD)</td><td>				印度</td></tr><tr><td>				183</td><td>				鹿特丹伊拉斯姆斯大学</td><td>				Erasmus University Rotterdam</td><td>				荷兰</td></tr><tr><td>				184</td><td>				印度科学研究所</td><td>				Indian Institute of Science</td><td>				印度</td></tr><tr><td>				185</td><td>				都柏林大学</td><td>				University College Dublin</td><td>				爱尔兰</td></tr><tr><td>				186</td><td>				阿卜杜勒阿齐兹国王大学</td><td>				King Abdulaziz University (KAU)</td><td>				沙特阿拉伯</td></tr><tr><td>				186</td><td>				特温特大学</td><td>				University of Twente</td><td>				荷兰</td></tr><tr><td>				188</td><td>				巴塞罗那自治大学</td><td>				Universitat Autònoma de Barcelona</td><td>				西班牙</td></tr><tr><td>				189</td><td>				得克萨斯农工大学</td><td>				Texas A&M University</td><td>				美国</td></tr><tr><td>				189</td><td>				智利大学</td><td>				Universidad de Chile</td><td>				智利</td></tr><tr><td>				191</td><td>				斯德哥尔摩大学</td><td>				Stockholm University</td><td>				瑞典</td></tr><tr><td>				192</td><td>				维也纳科技大学</td><td>				Vienna University of Technology</td><td>				奥地利</td></tr><tr><td>				192</td><td>				马德里自治大学</td><td>				Universidad Autónoma de Madrid</td><td>				西班牙</td></tr><tr><td>				194</td><td>				阿伯丁大学</td><td>				University of Aberdeen</td><td>				英国</td></tr><tr><td>				195</td><td>				布鲁塞尔自由大学</td><td>				Vrije Universiteit Brussel (VUB)</td><td>				比利时</td></tr><tr><td>				196</td><td>				早稻田大学</td><td>				Waseda University</td><td>				日本</td></tr><tr><td>				197</td><td>				哥廷根大学</td><td>				University of G&#246;ttingen</td><td>				德国</td></tr><tr><td>				198</td><td>				开普敦大学</td><td>				University of Cape Town</td><td>				南非</td></tr><tr><td>				198</td><td>				弗吉尼亚大学</td><td>				University of Virginia</td><td>				美国</td></tr><tr><td>				200</td><td>				庆应义塾大学</td><td>				Keio University</td><td>				日本</td></tr><tr><td>				200</td><td>				法赫德国王石油矿产大学</td><td>				King Fahd University of Petroleum & Minerals</td><td>				沙特阿拉伯</td></tr><tr><td>				200</td><td>				范德比尔特大学</td><td>				Vanderbilt University</td><td>				美国</td></tr><tr><td>				203</td><td>				罗马大学</td><td>				Sapienza University of Rome</td><td>				意大利</td></tr><tr><td>				204</td><td>				比萨高等师范学院</td><td>				Scuola Normale Superiore di Pisa</td><td>				意大利</td></tr><tr><td>				205</td><td>				雷丁大学</td><td>				University of Reading</td><td>				英国</td></tr><tr><td>				206</td><td>				科罗拉多大学博尔德分校</td><td>				University of Colorado Boulder</td><td>				美国</td></tr><tr><td>				207</td><td>				哈萨克斯坦国立大学</td><td>				Al-Farabi Kazakh National University</td><td>				哈萨克斯坦</td></tr><tr><td>				207</td><td>				达特茅斯学院</td><td>				Dartmouth College</td><td>				美国</td></tr><tr><td>				207</td><td>				澳大利亚纽卡斯尔大学</td><td>				The University of Newcastle, Australia (UON)</td><td>				澳大利亚</td></tr><tr><td>				210</td><td>				圣母大学</td><td>				University of Notre Dame</td><td>				美国</td></tr><tr><td>				211</td><td>				西安大略大学</td><td>				The University of Western Ontario</td><td>				加拿大</td></tr><tr><td>				212</td><td>				马德里康普顿斯大学</td><td>				Complutense University of Madrid</td><td>				西班牙</td></tr><tr><td>				212</td><td>				卧龙岗大学</td><td>				University of Wollongong</td><td>				澳大利亚</td></tr><tr><td>				214</td><td>				坎皮纳斯州立大学</td><td>				Universidade Estadual de Campinas (Unicamp)</td><td>				巴西</td></tr><tr><td>				215</td><td>				亚利桑那州立大学</td><td>				Arizona State University</td><td>				美国</td></tr><tr><td>				215</td><td>				惠灵顿维多利亚大学</td><td>				Victoria University of Wellington</td><td>				新西兰</td></tr><tr><td>				217</td><td>				拉德堡德大学</td><td>				Radboud University</td><td>				荷兰</td></tr><tr><td>				217</td><td>				马来西亚工艺大学</td><td>				Universiti Teknologi Malaysia</td><td>				马来西亚</td></tr><tr><td>				219</td><td>				特拉维夫大学</td><td>				Tel Aviv University</td><td>				以色列</td></tr><tr><td>				219</td><td>				加州大学欧文分校</td><td>				University of California, Irvine</td><td>				美国</td></tr><tr><td>				219</td><td>				阿姆斯特丹自由大学</td><td>				Vrije Universiteit Amsterdam</td><td>				荷兰</td></tr><tr><td>				222</td><td>				拉夫堡大学</td><td>				Loughborough University</td><td>				英国</td></tr><tr><td>				223</td><td>				安特卫普大学</td><td>				University of Antwerp</td><td>				比利时</td></tr><tr><td>				224</td><td>				昆士兰科技大学</td><td>				Queensland University of Technology (QUT)</td><td>				澳大利亚</td></tr><tr><td>				225</td><td>				台湾成功大学</td><td>				National Cheng Kung University (NCKU)</td><td>				中国台湾</td></tr><tr><td>				226</td><td>				乔治城大学</td><td>				Georgetown University</td><td>				美国</td></tr><tr><td>				227</td><td>				台湾交通大学</td><td>				National Chiao Tung University</td><td>				中国台湾</td></tr><tr><td>				227</td><td>				汉堡大学</td><td>				Universit&#228;t Hamburg</td><td>				德国</td></tr><tr><td>				227</td><td>				坎特伯雷大学</td><td>				University of Canterbury</td><td>				新西兰</td></tr><tr><td>				230</td><td>				科廷大学</td><td>				Curtin University</td><td>				澳大利亚</td></tr><tr><td>				231</td><td>				新西伯利亚州立大学</td><td>				Novosibirsk State University</td><td>				俄罗斯</td></tr><tr><td>				231</td><td>				伊利诺伊大学芝加哥分校</td><td>				University of Illinois at Chicago (UIC)</td><td>				美国</td></tr><tr><td>				233</td><td>				卡尔加里大学</td><td>				University of Calgary</td><td>				加拿大</td></tr><tr><td>				234</td><td>				圣彼得堡国立大学</td><td>				Saint Petersburg State University</td><td>				俄罗斯</td></tr><tr><td>				234</td><td>				洛斯安第斯大学</td><td>				Universidad de los Andes</td><td>				哥伦比亚</td></tr><tr><td>				234</td><td>				帕多瓦大学</td><td>				Università di Padova</td><td>				意大利</td></tr><tr><td>				237</td><td>				麦考瑞大学</td><td>				Macquarie University</td><td>				澳大利亚</td></tr><tr><td>				238</td><td>				墨尔本皇家理工大学</td><td>				RMIT University</td><td>				澳大利亚</td></tr><tr><td>				239</td><td>				马斯特里赫特大学</td><td>				Maastricht University</td><td>				荷兰</td></tr><tr><td>				239</td><td>				金斯敦女王大学</td><td>				Queen's University at Kingston</td><td>				加拿大</td></tr><tr><td>				239</td><td>				莱斯特大学</td><td>				University of Leicester</td><td>				英国</td></tr><tr><td>				242</td><td>				巴黎政治学院</td><td>				Sciences Po</td><td>				法国</td></tr><tr><td>				243</td><td>				波恩莱茵弗里德里希·威廉大学</td><td>				Rheinische Friedrich-Wilhelms-Universit&#228;t Bonn</td><td>				德国</td></tr><tr><td>				244</td><td>				贝鲁特美国大学</td><td>				American University of Beirut (AUB)</td><td>				黎巴嫩</td></tr><tr><td>				245</td><td>				纳瓦拉大学</td><td>				University of Navarra</td><td>				西班牙</td></tr><tr><td>				246</td><td>				萨塞克斯大学</td><td>				University of Sussex</td><td>				英国</td></tr><tr><td>				247</td><td>				朱拉隆功大学</td><td>				Chulalongkorn University</td><td>				泰国</td></tr><tr><td>				247</td><td>				庆熙大学</td><td>				Kyung Hee University</td><td>				韩国</td></tr><tr><td>				249</td><td>				巴黎高等电信学院</td><td>				TELECOM ParisTech</td><td>				法国</td></tr><tr><td>				250</td><td>				巴黎高科路桥学院</td><td>				Ecole des Ponts ParisTech</td><td>				法国</td></tr><tr><td>				251</td><td>				台湾科技大学</td><td>				National Taiwan University of Science and Technology (Taiwan Tech)</td><td>				中国台湾</td></tr><tr><td>				251</td><td>				布鲁塞尔自由大学</td><td>				Universite libre de Bruxelles</td><td>				比利时</td></tr><tr><td>				253</td><td>				塔夫斯大学</td><td>				Tufts University</td><td>				美国</td></tr><tr><td>				253</td><td>				哥伦比亚国立大学</td><td>				Universidad Nacional de Colombia</td><td>				哥伦比亚</td></tr><tr><td>				253</td><td>				巴黎大学</td><td>				University of Paris</td><td>				法国</td></tr><tr><td>				256</td><td>				哥德堡大学</td><td>				University of Gothenburg</td><td>				瑞典</td></tr><tr><td>				257</td><td>				以色列理工学院 - 以色列理工学院</td><td>				Technion - Israel Institute of Technology</td><td>				以色列</td></tr><tr><td>				257</td><td>				武汉大学</td><td>				Wuhan University</td><td>				中国</td></tr><tr><td>				259</td><td>				爱尔兰国立大学戈尔韦</td><td>				National University of Ireland Galway</td><td>				爱尔兰</td></tr><tr><td>				260</td><td>				达姆施塔特工业大学</td><td>				Technische Universit&#228;t Darmstadt</td><td>				德国</td></tr><tr><td>				261</td><td>				香港浸会大学</td><td>				Hong Kong Baptist University</td><td>				中国香港</td></tr><tr><td>				262</td><td>				罗格斯大学 - 新不伦瑞克省</td><td>				Rutgers University–New Brunswick</td><td>				美国</td></tr><tr><td>				262</td><td>				巴黎第十一大学</td><td>				Université Paris-Sud</td><td>				法国</td></tr><tr><td>				262</td><td>				亚利桑那大学</td><td>				The University of Arizona</td><td>				美国</td></tr><tr><td>				265</td><td>				同济大学</td><td>				Tongji University</td><td>				中国</td></tr><tr><td>				266</td><td>				因斯布鲁克大学</td><td>				Universit&#228;t Innsbruck</td><td>				奥地利</td></tr><tr><td>				266</td><td>				怀卡托大学</td><td>				University of Waikato</td><td>				新西兰</td></tr><tr><td>				268</td><td>				哈利法大学</td><td>				Khalifa University</td><td>				阿联酋</td></tr><tr><td>				268</td><td>				托木斯克州立大学</td><td>				Tomsk State University</td><td>				俄罗斯</td></tr><tr><td>				270</td><td>				筑波大学</td><td>				University of Tsukuba</td><td>				日本</td></tr><tr><td>				271</td><td>				迪肯大学</td><td>				Deakin University</td><td>				澳大利亚</td></tr><tr><td>				271</td><td>				印度理工学院-马德拉斯</td><td>				Indian Institute of Technology Madras (IITM)</td><td>				印度</td></tr><tr><td>				271</td><td>				迈阿密大学</td><td>				University of Miami</td><td>				美国</td></tr><tr><td>				274</td><td>				南澳大利亚大学</td><td>				University of South Australia</td><td>				澳大利亚</td></tr><tr><td>				274</td><td>				萨里大学</td><td>				University of Surrey</td><td>				英国</td></tr><tr><td>				276</td><td>				卡塔尔大学</td><td>				Qatar University</td><td>				卡塔尔</td></tr><tr><td>				277</td><td>				北京师范大学</td><td>				Beijing Normal University</td><td>				中国</td></tr><tr><td>				277</td><td>				哈尔滨工业大学</td><td>				Harbin Institute of Technology</td><td>				中国</td></tr><tr><td>				279</td><td>				斯图加特大学</td><td>				Universit&#228;t Stuttgart</td><td>				德国</td></tr><tr><td>				280</td><td>				达尔豪斯大学</td><td>				Dalhousie University</td><td>				加拿大</td></tr><tr><td>				281</td><td>				印度理工学院-卡哈拉格普尔</td><td>				Indian Institute of Technology Kharagpur (IIT-KGP)</td><td>				印度</td></tr><tr><td>				281</td><td>				沙特国王大学</td><td>				King Saud University</td><td>				沙特阿拉伯</td></tr><tr><td>				281</td><td>				渥太华大学</td><td>				University of Ottawa</td><td>				加拿大</td></tr><tr><td>				284</td><td>				鲍曼莫斯科国立技术大学</td><td>				Bauman Moscow State Technical University</td><td>				俄罗斯</td></tr><tr><td>				285</td><td>				北卡罗来纳州立大学</td><td>				North Carolina State University</td><td>				美国</td></tr><tr><td>				285</td><td>				庞培法布拉大学</td><td>				Universitat Pompeu Fabra</td><td>				西班牙</td></tr><tr><td>				287</td><td>				梅西大学</td><td>				Massey University</td><td>				新西兰</td></tr><tr><td>				287</td><td>				台湾阳明大学</td><td>				National Yang Ming University</td><td>				中国台湾</td></tr><tr><td>				287</td><td>				中山大学</td><td>				Sun Yat-sen University</td><td>				中国</td></tr><tr><td>				287</td><td>				图尔库大学</td><td>				University of Turku</td><td>				芬兰</td></tr><tr><td>				291</td><td>				查理大学</td><td>				Charles University</td><td>				捷克</td></tr><tr><td>				291</td><td>				印度理工学院-坎普尔</td><td>				Indian Institute of Technology Kanpur (IITK)</td><td>				印度</td></tr><tr><td>				291</td><td>				伦敦皇家霍洛威大学</td><td>				Royal Holloway University of London</td><td>				英国</td></tr><tr><td>				291</td><td>				法兰克福大学</td><td>				Universit&#228;t Frankfurt am Main</td><td>				德国</td></tr><tr><td>				291</td><td>				塔斯马尼亚大学</td><td>				University of Tasmania</td><td>				澳大利亚</td></tr><tr><td>				296</td><td>				印度尼西亚大学</td><td>				Universitas Indonesia</td><td>				印度尼西亚</td></tr><tr><td>				296</td><td>				斯特拉斯克莱德大学</td><td>				University of Strathclyde</td><td>				英国</td></tr><tr><td>				298</td><td>				马德里卡洛斯三世大学</td><td>				Universidad Carlos III de Madrid (UC3M)</td><td>				西班牙</td></tr><tr><td>				298</td><td>				文莱达鲁萨兰国大学</td><td>				Universiti Brunei Darussalam (UBD)</td><td>				文莱</td></tr><tr><td>				300</td><td>				加泰罗尼亚理工大学-巴塞罗那高科</td><td>				Universitat Politècnica de Catalunya · BarcelonaTech (UPC)</td><td>				西班牙</td></tr><tr><td>				301</td><td>				塔尔图大学</td><td>				University of Tartu</td><td>				爱沙尼亚</td></tr><tr><td>				302</td><td>				莫斯科物理科学与技术学院</td><td>				Moscow Institute of Physics and Technology (MIPT / Moscow Phystech)</td><td>				俄罗斯</td></tr><tr><td>				302</td><td>				米兰大学</td><td>				University of Milan</td><td>				意大利</td></tr><tr><td>				302</td><td>				邓迪大学</td><td>				University of Dundee</td><td>				英国</td></tr><tr><td>				305</td><td>				巴黎第一大学</td><td>				Université Paris 1 Panthéon-Sorbonne</td><td>				法国</td></tr><tr><td>				305</td><td>				马萨诸塞大学阿默斯特分校</td><td>				University of Massachusetts Amherst</td><td>				美国</td></tr><tr><td>				307</td><td>				西安交通大学</td><td>				Xi’an Jiaotong University</td><td>				中国</td></tr><tr><td>				308</td><td>				科隆大学</td><td>				University of Cologne</td><td>				德国</td></tr><tr><td>				309</td><td>				伦敦大学东方与非洲研究学院</td><td>				SOAS University of London</td><td>				英国</td></tr><tr><td>				310</td><td>				科克大学</td><td>				University College Cork</td><td>				爱尔兰</td></tr><tr><td>				311</td><td>				格拉茨科技大学</td><td>				Graz University of Technology</td><td>				奥地利</td></tr><tr><td>				312</td><td>				巴黎-萨克雷高等师范学校</td><td>				Ecole Normale Supérieure de Cachan</td><td>				法国</td></tr><tr><td>				312</td><td>				印第安纳大学布卢明顿分校</td><td>				Indiana University Bloomington</td><td>				美国</td></tr><tr><td>				314</td><td>				赫瑞瓦特大学</td><td>				Heriot-Watt University</td><td>				英国</td></tr><tr><td>				314</td><td>				玛希隆大学</td><td>				Mahidol University</td><td>				泰国</td></tr><tr><td>				314</td><td>				西蒙弗雷泽大学</td><td>				Simon Fraser University</td><td>				加拿大</td></tr><tr><td>				314</td><td>				曼海姆大学</td><td>				Universit&#228;t Mannheim</td><td>				德国</td></tr><tr><td>				314</td><td>				东英吉利大学</td><td>				University of East Anglia (UEA)</td><td>				英国</td></tr><tr><td>				319</td><td>				埃尔朗根-纽伦堡大学</td><td>				Friedrich-Alexander-Universit&#228;t Erlangen-Nürnberg</td><td>				德国</td></tr><tr><td>				320</td><td>				格里菲斯大学</td><td>				Griffith University</td><td>				澳大利亚</td></tr><tr><td>				320</td><td>				卡渣玛达大学</td><td>				Gadjah Mada University</td><td>				印度尼西亚</td></tr><tr><td>				322</td><td>				光州科学技术学院</td><td>				Gwangju Institute of Science and Technology (GIST)</td><td>				韩国</td></tr><tr><td>				322</td><td>				国立研究大学高等经济学院</td><td>				National Research University Higher School of Economics (HSE University)</td><td>				俄罗斯</td></tr><tr><td>				324</td><td>				奥尔堡大学</td><td>				Aalborg University</td><td>				丹麦</td></tr><tr><td>				324</td><td>				林雪平大学</td><td>				Link&#246;ping University</td><td>				瑞典</td></tr><tr><td>				326</td><td>				夏威夷大学马尼亚分校</td><td>				University of Hawai'i at Ma&#241;oa</td><td>				美国</td></tr><tr><td>				327</td><td>				弗吉尼亚理工学院和州立大学</td><td>				Virginia Polytechnic Institute and State University</td><td>				美国</td></tr><tr><td>				328</td><td>				伦敦大学伯贝克学院</td><td>				Birkbeck, University of London</td><td>				英国</td></tr><tr><td>				329</td><td>				国立核研究大学（莫斯科工程物理研究所）</td><td>				National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)</td><td>				俄罗斯</td></tr><tr><td>				329</td><td>				阿联酋大学</td><td>				United Arab Emirates University</td><td>				阿联酋</td></tr><tr><td>				331</td><td>				万隆技术学院</td><td>				Bandung Institute of Technology (ITB)</td><td>				印度尼西亚</td></tr><tr><td>				331</td><td>				梨花女子大学</td><td>				Ewha Womans University</td><td>				韩国</td></tr><tr><td>				331</td><td>				台湾师范大学</td><td>				National Taiwan Normal University</td><td>				中国台湾</td></tr><tr><td>				334</td><td>				广岛大学</td><td>				Hiroshima University</td><td>				日本</td></tr><tr><td>				335</td><td>				IE商学院</td><td>				IE University</td><td>				西班牙</td></tr><tr><td>				336</td><td>				乔治华盛顿大学</td><td>				George Washington University</td><td>				美国</td></tr><tr><td>				336</td><td>				瓦伦西亚科技大学</td><td>				Universitat Politècnica de València</td><td>				西班牙</td></tr><tr><td>				338</td><td>				雅盖隆大学</td><td>				Jagiellonian University</td><td>				波兰</td></tr><tr><td>				338</td><td>				里斯本大学</td><td>				University of Lisbon</td><td>				葡萄牙</td></tr><tr><td>				340</td><td>				于默奥大学</td><td>				Umea University</td><td>				瑞典</td></tr><tr><td>				340</td><td>				耶拿大学</td><td>				Universit&#228;t Jena</td><td>				德国</td></tr><tr><td>				340</td><td>				乌尔姆大学</td><td>				University Ulm</td><td>				德国</td></tr><tr><td>				340</td><td>				布法罗大学纽约州立大学</td><td>				University at Buffalo SUNY</td><td>				美国</td></tr><tr><td>				344</td><td>				东北大学</td><td>				Northeastern University</td><td>				美国</td></tr><tr><td>				344</td><td>				阿根廷天主教大学</td><td>				Pontificia Universidad Católica Argentina</td><td>				阿根廷</td></tr><tr><td>				346</td><td>				于韦斯屈莱大学</td><td>				University of Jyv&#228;skyl&#228;</td><td>				芬兰</td></tr><tr><td>				347</td><td>				明斯特大学</td><td>				Westf&#228;lische Wilhelms-Universit&#228;t Münster</td><td>				德国</td></tr><tr><td>				348</td><td>				都灵理工大学</td><td>				Politecnico di Torino</td><td>				意大利</td></tr><tr><td>				349</td><td>				伦敦大学城市学院</td><td>				City, University of London</td><td>				英国</td></tr><tr><td>				349</td><td>				华沙大学</td><td>				University of Warsaw</td><td>				波兰</td></tr><tr><td>				351</td><td>				白俄罗斯国立大学</td><td>				Belarusian State University</td><td>				白俄罗斯</td></tr><tr><td>				351</td><td>				格勒诺布尔阿尔卑斯大学</td><td>				Université Grenoble-Alpes</td><td>				法国</td></tr><tr><td>				353</td><td>				波尔图大学</td><td>				University of Porto</td><td>				葡萄牙</td></tr><tr><td>				353</td><td>				犹他大学</td><td>				University of Utah</td><td>				美国</td></tr><tr><td>				355</td><td>				布拉格化学与技术大学</td><td>				University of Chemistry and Technology, Prague</td><td>				捷克</td></tr><tr><td>				356</td><td>				林肯大学</td><td>				Lincoln University</td><td>				新西兰</td></tr><tr><td>				356</td><td>				菲律宾大学</td><td>				University of the Philippines</td><td>				菲律宾</td></tr><tr><td>				358</td><td>				里约热内卢联邦大学</td><td>				Universidade Federal do Rio de Janeiro</td><td>				巴西</td></tr><tr><td>				359</td><td>				伦敦布鲁内尔大学</td><td>				Brunel University London</td><td>				英国</td></tr><tr><td>				359</td><td>				挪威科技大学</td><td>				Norwegian University of Science And Technology</td><td>				挪威</td></tr><tr><td>				359</td><td>				纽约州立大学石溪分校</td><td>				Stony Brook University, State University of New York</td><td>				美国</td></tr><tr><td>				359</td><td>				东京医科齿科大学</td><td>				Tokyo Medical and Dental University (TMDU)</td><td>				日本</td></tr><tr><td>				359</td><td>				叶史瓦学院</td><td>				The Katz School at Yeshiva University</td><td>				美国</td></tr><tr><td>				364</td><td>				维多利亚大学</td><td>				University of Victoria (UVIC)</td><td>				加拿大</td></tr><tr><td>				364</td><td>				乌拉尔联邦大学</td><td>				Ural Federal University - UrFU</td><td>				俄罗斯</td></tr><tr><td>				366</td><td>				莫斯科国立国际关系学院</td><td>				Moscow State Institute of International Relations (MGIMO University)</td><td>				俄罗斯</td></tr><tr><td>				367</td><td>				加州大学圣克鲁兹分校</td><td>				University of California, Santa Cruz</td><td>				美国</td></tr><tr><td>				368</td><td>				南开大学</td><td>				Nankai University</td><td>				中国</td></tr><tr><td>				368</td><td>				肯特大学</td><td>				University of Kent</td><td>				英国</td></tr><tr><td>				370</td><td>				埃塞克斯大学</td><td>				University of Essex</td><td>				英国</td></tr><tr><td>				371</td><td>				美国沙迦大学</td><td>				American University of Sharjah</td><td>				阿联酋</td></tr><tr><td>				372</td><td>				堪萨斯大学</td><td>				University of Kansas</td><td>				美国</td></tr><tr><td>				372</td><td>				南丹麦大学</td><td>				University of Southern Denmark</td><td>				丹麦</td></tr><tr><td>				374</td><td>				奥卢大学</td><td>				University of Oulu</td><td>				芬兰</td></tr><tr><td>				375</td><td>				巴基斯坦工程与应用科学研究所</td><td>				Pakistan Institute of Engineering and Applied Sciences (PIEAS)</td><td>				巴基斯坦</td></tr><tr><td>				376</td><td>				牛津布鲁克斯大学</td><td>				Oxford Brookes University</td><td>				英国</td></tr><tr><td>				377</td><td>				詹姆斯库克大学</td><td>				James Cook University</td><td>				澳大利亚</td></tr><tr><td>				377</td><td>				康涅狄格大学</td><td>				University of Connecticut</td><td>				美国</td></tr><tr><td>				379</td><td>				苏丹卡布斯大学</td><td>				Sultan Qaboos University</td><td>				阿曼</td></tr><tr><td>				379</td><td>				台北医科大学</td><td>				Taipei Medical University (TMU)</td><td>				中国台湾</td></tr><tr><td>				379</td><td>				斯特拉斯堡大学</td><td>				Université de Strasbourg</td><td>				法国</td></tr><tr><td>				379</td><td>				文莱科技大学</td><td>				Universiti Teknologi Brunei</td><td>				文莱</td></tr><tr><td>				383</td><td>				印度理工学院-卢克里</td><td>				Indian Institute of Technology Roorkee (IITR)</td><td>				印度</td></tr><tr><td>				383</td><td>				伦斯勒理工学院</td><td>				Rensselaer Polytechnic Institute</td><td>				美国</td></tr><tr><td>				383</td><td>				斯威本科技大学</td><td>				Swinburne University of Technology</td><td>				澳大利亚</td></tr><tr><td>				383</td><td>				巴勒莫大学</td><td>				Universidad de Palermo (UP)</td><td>				阿根廷</td></tr><tr><td>				387</td><td>				国立研究托木斯克理工大学</td><td>				National Research Tomsk Polytechnic University</td><td>				俄罗斯</td></tr><tr><td>				387</td><td>				澳门大学</td><td>				University of Macau</td><td>				中国澳门</td></tr><tr><td>				389</td><td>				特伦托大学</td><td>				University of Trento</td><td>				意大利</td></tr><tr><td>				389</td><td>				比萨大学</td><td>				University of Pisa</td><td>				意大利</td></tr><tr><td>				389</td><td>				特罗姆瑟大学挪威北极大学</td><td>				University of Troms&#248; The Arctic University of Norway</td><td>				挪威</td></tr><tr><td>				392</td><td>				喀山（伏尔加地区）联邦大学</td><td>				Kazan (Volga region) Federal University</td><td>				俄罗斯</td></tr><tr><td>				392</td><td>				俄罗斯人民友谊大学</td><td>				RUDN University</td><td>				俄罗斯</td></tr><tr><td>				392</td><td>				科罗拉多大学丹佛分校</td><td>				University of Colorado, Denver</td><td>				美国</td></tr><tr><td>				395</td><td>				神户大学</td><td>				Kobe University</td><td>				日本</td></tr><tr><td>				395</td><td>				坦佩雷大学</td><td>				Tampere University</td><td>				芬兰</td></tr><tr><td>				395</td><td>				开罗美国大学</td><td>				The American University in Cairo</td><td>				埃及</td></tr><tr><td>				398</td><td>				圣加仑大学</td><td>				University of St.Gallen (HSG)</td><td>				瑞士</td></tr><tr><td>				398</td><td>				维克森林大学</td><td>				Wake Forest University</td><td>				美国</td></tr><tr><td>				400</td><td>				华中科技大学</td><td>				Huazhong University of Science and Technology</td><td>				中国</td></tr><tr><td>				400</td><td>				拉筹伯大学</td><td>				La Trobe University</td><td>				澳大利亚</td></tr><tr><td>				400</td><td>				国立科技大学-伊斯兰堡</td><td>				National University of Sciences And Technology (NUST) Islamabad</td><td>				巴基斯坦</td></tr><tr><td>				400</td><td>				南方大学</td><td>				Universidad Austral</td><td>				阿根廷</td></tr><tr><td>				400</td><td>				威特沃特斯兰德大学</td><td>				University of Witwatersrand</td><td>				南非</td></tr><tr><td>				400</td><td>				华盛顿州立大学</td><td>				Washington State University</td><td>				美国</td></tr><tr><td>				406</td><td>				科英布拉大学</td><td>				University of Coimbra</td><td>				葡萄牙</td></tr><tr><td>				407</td><td>				韩国外国语大学</td><td>				HUFS - Hankuk (Korea) University of Foreign Studies</td><td>				韩国</td></tr><tr><td>				407</td><td>				谢里夫科技大学</td><td>				Sharif University of Technology</td><td>				伊朗</td></tr><tr><td>				407</td><td>				田纳西大学诺克斯维尔分校</td><td>				The University of Tennessee, Knoxville</td><td>				美国</td></tr><tr><td>				410</td><td>				美因茨约翰内斯·古腾堡大学</td><td>				Johannes Gutenberg Universit&#228;t Mainz</td><td>				德国</td></tr><tr><td>				410</td><td>				台湾中山大学</td><td>				National Sun Yat-sen University</td><td>				中国台湾</td></tr><tr><td>				412</td><td>				中央大学</td><td>				Chung-Ang University (CAU)</td><td>				韩国</td></tr><tr><td>				412</td><td>				约翰内斯开普勒大学林茨</td><td>				Johannes Kepler University Linz</td><td>				奥地利</td></tr><tr><td>				412</td><td>				上海大学</td><td>				Shanghai University</td><td>				中国</td></tr><tr><td>				412</td><td>				蒂尔堡大学</td><td>				Tilburg University</td><td>				荷兰</td></tr><tr><td>				416</td><td>				拉瓦尔大学</td><td>				Université Laval</td><td>				加拿大</td></tr><tr><td>				417</td><td>				伦敦大学金史密斯学院</td><td>				Goldsmiths, University of London</td><td>				英国</td></tr><tr><td>				418</td><td>				欧亚国立大学</td><td>				L.N. Gumilyov Eurasian National University (ENU)</td><td>				哈萨克斯坦</td></tr><tr><td>				419</td><td>				内盖夫本古里安大学</td><td>				Ben Gurion University of The Negev</td><td>				以色列</td></tr><tr><td>				419</td><td>				杜兰大学</td><td>				Tulane University</td><td>				美国</td></tr><tr><td>				421</td><td>				伊利诺理工学院</td><td>				Illinois Institute of Technology</td><td>				美国</td></tr><tr><td>				421</td><td>				新里斯本大学</td><td>				Universidade Nova de Lisboa</td><td>				葡萄牙</td></tr><tr><td>				421</td><td>				爱荷华大学</td><td>				University of Iowa</td><td>				美国</td></tr><tr><td>				424</td><td>				弗林德斯大学</td><td>				Flinders University</td><td>				澳大利亚</td></tr><tr><td>				424</td><td>				那不勒斯大学 - 费德里科二世</td><td>				University of Naples - Federico II</td><td>				意大利</td></tr><tr><td>				424</td><td>				康斯坦茨大学</td><td>				Universit&#228;t Konstanz</td><td>				德国</td></tr><tr><td>				427</td><td>				台湾中央大学</td><td>				National Central University</td><td>				中国台湾</td></tr><tr><td>				427</td><td>				斯泰伦博斯大学</td><td>				Stellenbosch University</td><td>				南非</td></tr><tr><td>				429</td><td>				都柏林城市大学</td><td>				Dublin City University</td><td>				爱尔兰</td></tr><tr><td>				429</td><td>				天津大学</td><td>				Tianjin University</td><td>				中国</td></tr><tr><td>				429</td><td>				列日大学</td><td>				Université de Liège</td><td>				比利时</td></tr><tr><td>				432</td><td>				波士顿学院</td><td>				Boston College</td><td>				美国</td></tr><tr><td>				432</td><td>				波鸿大学</td><td>				Ruhr-Universit&#228;t Bochum</td><td>				德国</td></tr><tr><td>				432</td><td>				萨拉戈萨大学</td><td>				Universidad de Zaragoza</td><td>				西班牙</td></tr><tr><td>				435</td><td>				马德里理工大学</td><td>				Universidad Politécnica de Madrid</td><td>				西班牙</td></tr><tr><td>				436</td><td>				北京理工大学</td><td>				Beijing Institute of Technology</td><td>				中国</td></tr><tr><td>				436</td><td>				圣彼得堡国立信息技术机械与光学大学</td><td>				ITMO University</td><td>				俄罗斯</td></tr><tr><td>				438</td><td>				贝尔格拉诺大学</td><td>				Universidad de Belgrano</td><td>				阿根廷</td></tr><tr><td>				439</td><td>				彼得大帝圣彼得堡理工大学</td><td>				Peter the Great Saint-Petersburg Polytechnic University</td><td>				俄罗斯</td></tr><tr><td>				439</td><td>				圣保罗联邦大学</td><td>				Universidade Federal de S&#227;o Paulo</td><td>				巴西</td></tr><tr><td>				439</td><td>				萨斯喀彻温大学</td><td>				University of Saskatchewan</td><td>				加拿大</td></tr><tr><td>				442</td><td>				阿斯顿大学</td><td>				Aston University</td><td>				英国</td></tr><tr><td>				442</td><td>				奥克兰理工大学</td><td>				Auckland University of Technology (AUT)</td><td>				新西兰</td></tr><tr><td>				442</td><td>				邦德大学</td><td>				Bond University</td><td>				澳大利亚</td></tr><tr><td>				442</td><td>				千叶大学</td><td>				Chiba University</td><td>				日本</td></tr><tr><td>				442</td><td>				科罗拉多州立大学</td><td>				Colorado State University</td><td>				美国</td></tr><tr><td>				442</td><td>				思特雅大学</td><td>				UCSI University</td><td>				马来西亚</td></tr><tr><td>				448</td><td>				佛罗里达州立大学</td><td>				Florida State University</td><td>				美国</td></tr><tr><td>				448</td><td>				一桥大学</td><td>				Hitotsubashi University</td><td>				日本</td></tr><tr><td>				448</td><td>				佛罗伦萨大学</td><td>				University of Florence</td><td>				意大利</td></tr><tr><td>				451</td><td>				科奇大学</td><td>				Ko&#231; University</td><td>				土耳其</td></tr><tr><td>				451</td><td>				国立科技大学</td><td>				The National University of Science and Technology MISIS</td><td>				俄罗斯</td></tr><tr><td>				451</td><td>				厦门大学</td><td>				Xiamen University</td><td>				中国</td></tr><tr><td>				454</td><td>				东国大学</td><td>				Dongguk University</td><td>				韩国</td></tr><tr><td>				454</td><td>				雅典国立技术大学</td><td>				National Technical University of Athens</td><td>				希腊</td></tr><tr><td>				454</td><td>				西江大学</td><td>				Sogang University</td><td>				韩国</td></tr><tr><td>				454</td><td>				加州大学河滨分校</td><td>				University of California, Riverside</td><td>				美国</td></tr><tr><td>				458</td><td>				波尔多大学</td><td>				University of Bordeaux</td><td>				法国</td></tr><tr><td>				458</td><td>				维尔纽斯大学</td><td>				Vilnius University</td><td>				立陶宛</td></tr><tr><td>				460</td><td>				马里兰大学巴尔的摩分校</td><td>				University of Maryland, Baltimore County</td><td>				美国</td></tr><tr><td>				461</td><td>				俄勒冈州立大学</td><td>				Oregon State University</td><td>				美国</td></tr><tr><td>				462</td><td>				北京航空航天大学</td><td>				Beihang University (former BUAA)</td><td>				中国</td></tr><tr><td>				462</td><td>				康考迪亚大学</td><td>				Concordia University</td><td>				加拿大</td></tr><tr><td>				462</td><td>				维尔茨堡大学</td><td>				Julius-Maximilians-Universit&#228;t Würzburg</td><td>				德国</td></tr><tr><td>				462</td><td>				斯旺西大学</td><td>				Swansea University</td><td>				英国</td></tr><tr><td>				462</td><td>				韩国天主教大学</td><td>				The Catholic University of Korea</td><td>				韩国</td></tr><tr><td>				462</td><td>				北京科技大学</td><td>				University of Science and Technology Beijing</td><td>				中国</td></tr><tr><td>				468</td><td>				布兰迪斯大学</td><td>				Brandeis University</td><td>				美国</td></tr><tr><td>				468</td><td>				哈维里亚那天主教大学</td><td>				Pontificia Universidad Javeriana</td><td>				哥伦比亚</td></tr><tr><td>				468</td><td>				山东大学</td><td>				Shandong University</td><td>				中国</td></tr><tr><td>				468</td><td>				萨尔州立大学</td><td>				Universit&#228;t des Saarlandes</td><td>				德国</td></tr><tr><td>				468</td><td>				西悉尼大学</td><td>				Western Sydney University</td><td>				澳大利亚</td></tr><tr><td>				468</td><td>				横滨市立大学</td><td>				Yokohama City University</td><td>				日本</td></tr><tr><td>				474</td><td>				秘鲁天主教大学</td><td>				Pontificia Universidad Católica del Perú</td><td>				秘鲁</td></tr><tr><td>				474</td><td>				佐治亚大学</td><td>				The University of Georgia</td><td>				美国</td></tr><tr><td>				474</td><td>				德里大学</td><td>				University of Delhi</td><td>				印度</td></tr><tr><td>				477</td><td>				新加坡管理大学</td><td>				Singapore Management University</td><td>				新加坡</td></tr><tr><td>				478</td><td>				基尔大学</td><td>				Christian-Albrechts-University zu Kiel</td><td>				德国</td></tr><tr><td>				478</td><td>				斯特灵大学</td><td>				University of Stirling</td><td>				英国</td></tr><tr><td>				480</td><td>				华南理工大学</td><td>				South China University of Technology</td><td>				中国</td></tr><tr><td>				480</td><td>				哥伦比亚对外大学</td><td>				Universidad Externado de Colombia</td><td>				哥伦比亚</td></tr><tr><td>				482</td><td>				圣保罗州立大学</td><td>				UNESP</td><td>				巴西</td></tr><tr><td>				482</td><td>				国油科技大学</td><td>				Universiti Teknologi Petronas (Petronas)</td><td>				马来西亚</td></tr><tr><td>				484</td><td>				阿伯里斯特威斯大学</td><td>				Aberystwyth University</td><td>				英国</td></tr><tr><td>				484</td><td>				长庚大学</td><td>				Chang Gung University</td><td>				中国台湾</td></tr><tr><td>				484</td><td>				吉林大学</td><td>				Jilin University</td><td>				中国</td></tr><tr><td>				484</td><td>				堪培拉大学</td><td>				University of Canberra</td><td>				澳大利亚</td></tr><tr><td>				484</td><td>				韦恩州立大学</td><td>				Wayne State University</td><td>				美国</td></tr><tr><td>				489</td><td>				阿米尔卡比尔理工大学</td><td>				Amirkabir University of Technology</td><td>				伊朗</td></tr><tr><td>				489</td><td>				智利圣地亚哥大学</td><td>				Universidad de Santiago de Chile (USACH)</td><td>				智利</td></tr><tr><td>				491</td><td>				印度理工学院古瓦哈提分校</td><td>				Indian Institute of Technology Guwahati (IITG)</td><td>				印度</td></tr><tr><td>				491</td><td>				拉彭兰塔拉赫蒂理工大学</td><td>				Lappeenranta-Lahti University of Technology LUT</td><td>				芬兰</td></tr><tr><td>				491</td><td>				南哈萨克斯坦州立大学</td><td>				Auezov South Kazakhstan State University (SKSU)</td><td>				哈萨克斯坦</td></tr><tr><td>				491</td><td>				蒙得维的亚大学</td><td>				Universidad de Montevideo (UM)</td><td>				乌拉圭</td></tr><tr><td>				491</td><td>				艾克斯 - 马赛大学</td><td>				Aix-Marseille University</td><td>				法国</td></tr><tr><td>				491</td><td>				特拉华大学</td><td>				University of Delaware</td><td>				美国</td></tr><tr><td>				491</td><td>				卡拉津哈尔科夫国立大学</td><td>				V. N. Karazin Kharkiv National University</td><td>				乌克兰</td></tr><tr><td>				498</td><td>				布拉格捷克技术大学</td><td>				Czech Technical University in Prague</td><td>				捷克</td></tr><tr><td>				498</td><td>				蒙彼利埃大学</td><td>				Université de Montpellier</td><td>				法国</td></tr><tr><td>				498</td><td>				东芬兰大学</td><td>				University of Eastern Finland</td><td>				芬兰</td></tr><tr><td>				501-510</td><td>				比尔肯特大学</td><td>				Bilkent University</td><td>				土耳其</td></tr><tr><td>				501-510</td><td>				里昂国家科学研究院</td><td>				Institut National des Sciences Appliquées de Lyon (INSA)</td><td>				法国</td></tr><tr><td>				501-510</td><td>				哈立德国王大学</td><td>				King Khalid University</td><td>				沙特阿拉伯</td></tr><tr><td>				501-510</td><td>				东南大学</td><td>				Southeast University</td><td>				中国</td></tr><tr><td>				501-510</td><td>				乌姆·库拉大学</td><td>				Umm Al-Qura University</td><td>				沙特阿拉伯</td></tr><tr><td>				501-510</td><td>				阿尔卡拉大学</td><td>				Universidad de Alcalá</td><td>				西班牙</td></tr><tr><td>				501-510</td><td>				哈瓦那大学</td><td>				Universidad de La Habana</td><td>				古巴</td></tr><tr><td>				501-510</td><td>				约翰内斯堡大学</td><td>				University of Johannesburg</td><td>				南非</td></tr><tr><td>				501-510</td><td>				塞格德大学</td><td>				University of Szeged</td><td>				匈牙利</td></tr><tr><td>				501-510</td><td>				德克萨斯大学达拉斯分校</td><td>				University of Texas Dallas</td><td>				美国</td></tr><tr><td>				511-520</td><td>				爱荷华州立大学</td><td>				Iowa State University</td><td>				美国</td></tr><tr><td>				511-520</td><td>				马丁路德·哈勒维腾贝格大学</td><td>				Martin-Luther-Universit&#228;t Halle-Wittenberg</td><td>				德国</td></tr><tr><td>				511-520</td><td>				台北科技大学</td><td>				National Taipei University of Technology</td><td>				中国台湾</td></tr><tr><td>				511-520</td><td>				真纳大学</td><td>				Quaid-i-Azam University</td><td>				巴基斯坦</td></tr><tr><td>				511-520</td><td>				泰勒大学</td><td>				Taylor's University</td><td>				马来西亚</td></tr><tr><td>				511-520</td><td>				哥斯达黎加大学</td><td>				Universidad de Costa Rica</td><td>				哥斯达黎加</td></tr><tr><td>				511-520</td><td>				格拉纳达大学</td><td>				University of Granada</td><td>				西班牙</td></tr><tr><td>				511-520</td><td>				圣心天主教大学</td><td>				Università Cattolica del Sacro Cuore</td><td>				意大利</td></tr><tr><td>				511-520</td><td>				罗马第二大学</td><td>				University of Rome "Tor Vergata"</td><td>				意大利</td></tr><tr><td>				511-520</td><td>				保罗萨巴蒂尔大学图卢兹三世大学</td><td>				Université Paul Sabatier Toulouse III</td><td>				法国</td></tr><tr><td>				511-520</td><td>				蔚山大学</td><td>				University of Ulsan</td><td>				韩国</td></tr><tr><td>				511-520</td><td>				约克大学</td><td>				York University</td><td>				加拿大</td></tr><tr><td>				521-530</td><td>				班戈大学</td><td>				Bangor University</td><td>				英国</td></tr><tr><td>				521-530</td><td>				开罗大学</td><td>				Cairo University</td><td>				埃及</td></tr><tr><td>				521-530</td><td>				仁荷大学</td><td>				Inha University</td><td>				韩国</td></tr><tr><td>				521-530</td><td>				吉森尤斯图斯-李比希大学</td><td>				Justus-Liebig-University Giessen</td><td>				德国</td></tr><tr><td>				521-530</td><td>				国家研究萨拉托夫州立大学</td><td>				National Research Saratov State University</td><td>				俄罗斯</td></tr><tr><td>				521-530</td><td>				釜山国立大学</td><td>				Pusan National University</td><td>				韩国</td></tr><tr><td>				521-530</td><td>				萨班哲大学</td><td>				Sabanci University</td><td>				土耳其</td></tr><tr><td>				521-530</td><td>				布伦瑞克工业大学</td><td>				Technische Universit&#228;t Braunschweig</td><td>				德国</td></tr><tr><td>				521-530</td><td>				不来梅大学</td><td>				Universit&#228;t Bremen</td><td>				德国</td></tr><tr><td>				521-530</td><td>				利默里克大学</td><td>				University of Limerick</td><td>				爱尔兰</td></tr><tr><td>				521-530</td><td>				华沙理工大学</td><td>				Warsaw University of Technology</td><td>				波兰</td></tr><tr><td>				531-540</td><td>				克拉克大学</td><td>				Clark University</td><td>				美国</td></tr><tr><td>				531-540</td><td>				考文垂大学</td><td>				Coventry University</td><td>				英国</td></tr><tr><td>				531-540</td><td>				华东师范大学</td><td>				East China Normal University</td><td>				中国</td></tr><tr><td>				531-540</td><td>				远东联邦大学</td><td>				Far Eastern Federal University</td><td>				俄罗斯</td></tr><tr><td>				531-540</td><td>				熊本大学</td><td>				Kumamoto University</td><td>				日本</td></tr><tr><td>				531-540</td><td>				长崎大学</td><td>				Nagasaki University</td><td>				日本</td></tr><tr><td>				531-540</td><td>				中国人民大学</td><td>				Renmin (People's) University of China</td><td>				中国</td></tr><tr><td>				531-540</td><td>				莱比锡大学</td><td>				Universit&#228;t Leipzig</td><td>				德国</td></tr><tr><td>				531-540</td><td>				巴黎第二大学</td><td>				University Paris 2 Panthéon-Assas</td><td>				法国</td></tr><tr><td>				541-550</td><td>				奥博学术大学</td><td>				Abo Akademi University</td><td>				芬兰</td></tr><tr><td>				541-550</td><td>				伊玛目滨费萨尔大学</td><td>				Imam Abdulrahman Bin Faisal University (IAU) (formerly UNIVERSITY OF DAMMAM)</td><td>				td>沙特阿拉伯</td></tr><tr><td>				541-550</td><td>				卡尔·弗朗岑斯格拉茨大学</td><td>				Karl-Franzens-Universitaet Graz</td><td>				奥地利</td></tr><tr><td>				541-550</td><td>				管理与科学大学</td><td>				Management and Science University</td><td>				马来西亚</td></tr><tr><td>				541-550</td><td>				南部联邦大学</td><td>				Southern Federal University</td><td>				俄罗斯</td></tr><tr><td>				541-550</td><td>				塔拉斯舍甫琴科基辅国立大学</td><td>				Taras Shevchenko National University of Kyiv</td><td>				乌克兰</td></tr><tr><td>				541-550</td><td>				都灵大学</td><td>				University of Turin</td><td>				意大利</td></tr><tr><td>				541-550</td><td>				拜罗伊特大学</td><td>				University of Bayreuth</td><td>				德国</td></tr><tr><td>				551-560</td><td>				巴伊兰大学</td><td>				Bar-Ilan University</td><td>				以色列</td></tr><tr><td>				551-560</td><td>				华东理工大学</td><td>				East China University of Science and Technology</td><td>				中国</td></tr><tr><td>				551-560</td><td>				哈利姆大学</td><td>				Hallym University</td><td>				韩国</td></tr><tr><td>				551-560</td><td>				利哈伊大学</td><td>				Lehigh University</td><td>				美国</td></tr><tr><td>				551-560</td><td>				马萨里克大学</td><td>				Masaryk University</td><td>				捷克</td></tr><tr><td>				551-560</td><td>				台湾政治大学</td><td>				National Chengchi University</td><td>				中国台湾</td></tr><tr><td>				551-560</td><td>				大阪市立大学</td><td>				Osaka City University</td><td>				日本</td></tr><tr><td>				551-560</td><td>				玻利瓦尔大学</td><td>				Universidad Pontificia Bolivariana</td><td>				哥伦比亚</td></tr><tr><td>				551-560</td><td>				阿威罗大学</td><td>				University of Aveiro</td><td>				葡萄牙</td></tr><tr><td>				551-560</td><td>				密苏里大学哥伦比亚分校</td><td>				University of Missouri, Columbia</td><td>				美国</td></tr><tr><td>				551-560</td><td>				比勒陀利亚大学</td><td>				University of Pretoria</td><td>				南非</td></tr><tr><td>				561-570</td><td>				塞萨洛尼基亚里士多德大学</td><td>				Aristotle University of Thessaloniki</td><td>				希腊</td></tr><tr><td>				561-570</td><td>				德雷塞尔大学</td><td>				Drexel University</td><td>				美国</td></tr><tr><td>				561-570</td><td>				阿拜哈萨克斯坦国立师范大学</td><td>				Abai Kazakh National Pedagogical University</td><td>				哈萨克斯坦</td></tr><tr><td>				561-570</td><td>				哈萨克斯坦国立研究技术大学</td><td>				Kazakh National Research Technical University after K.I. Satbayev</td><td>				哈萨克斯坦</td></tr><tr><td>				561-570</td><td>				蔚蓝海岸大学</td><td>				The New School</td><td>				美国</td></tr><tr><td>				561-570</td><td>				冈山大学</td><td>				Okayama University</td><td>				日本</td></tr><tr><td>				561-570</td><td>				安纳瓦克大学</td><td>				Universidad Anahuac</td><td>				墨西哥</td></tr><tr><td>				561-570</td><td>				魁北克大学</td><td>				Université du Québec</td><td>				加拿大</td></tr><tr><td>				561-570</td><td>				贝鲁特圣约瑟夫大学</td><td>				Saint Joseph University of Beirut (USJ)</td><td>				黎巴嫩</td></tr><tr><td>				561-570</td><td>				辛辛那提大学</td><td>				University of Cincinnati</td><td>				美国</td></tr><tr><td>				561-570</td><td>				蔚蓝海岸大学</td><td>				University of C&#244;te d'Azur</td><td>				法国</td></tr><tr><td>				561-570</td><td>				内布拉斯加大学林肯分校</td><td>				University of Nebraska-Lincoln</td><td>				美国</td></tr><tr><td>				561-570</td><td>				南卡罗来纳大学</td><td>				University of South Carolina</td><td>				美国</td></tr><tr><td>				571-580</td><td>				全北国立大学</td><td>				Chonbuk National University</td><td>				韩国</td></tr><tr><td>				571-580</td><td>				大连理工大学</td><td>				Dalian University of Technology</td><td>				中国</td></tr><tr><td>				571-580</td><td>				建国大学</td><td>				Konkuk University</td><td>				韩国</td></tr><tr><td>				571-580</td><td>				默多克大学</td><td>				Murdoch University</td><td>				澳大利亚</td></tr><tr><td>				571-580</td><td>				圭尔夫大学</td><td>				University of Guelph</td><td>				加拿大</td></tr><tr><td>				571-580</td><td>				麻省大学波士顿分校</td><td>				University of Massachusetts Boston</td><td>				美国</td></tr><tr><td>				571-580</td><td>				俄克拉荷马大学</td><td>				University of Oklahoma</td><td>				美国</td></tr><tr><td>				571-580</td><td>				佛蒙特大学</td><td>				University of Vermont</td><td>				美国</td></tr><tr><td>				581-590</td><td>				霍华德大学</td><td>				Howard University</td><td>				美国</td></tr><tr><td>				581-590</td><td>				金泽大学</td><td>				Kanazawa University</td><td>				日本</td></tr><tr><td>				581-590</td><td>				黎巴嫩美国大学</td><td>				Lebanese American University</td><td>				黎巴嫩</td></tr><tr><td>				581-590</td><td>				锡拉丘兹大学</td><td>				Syracuse University</td><td>				美国</td></tr><tr><td>				581-590</td><td>				帕维亚大学</td><td>				Università degli Studi di Pavia</td><td>				意大利</td></tr><tr><td>				581-590</td><td>				瓦伦西亚大学</td><td>				Universitat de Valencia</td><td>				西班牙</td></tr><tr><td>				581-590</td><td>				弗里堡大学</td><td>				Université de Fribourg</td><td>				瑞士</td></tr><tr><td>				581-590</td><td>				巴拉曼大学</td><td>				University of Balamand</td><td>				黎巴嫩</td></tr><tr><td>				591-600</td><td>				伦敦金斯顿大学</td><td>				Kingston University, London</td><td>				英国</td></tr><tr><td>				591-600</td><td>				香港岭南大学</td><td>				Lingnan University, Hong Kong</td><td>				中国香港</td></tr><tr><td>				591-600</td><td>				中东技术大学</td><td>				Middle East Technical University</td><td>				土耳其</td></tr><tr><td>				591-600</td><td>				拉普拉塔国立大学</td><td>				Universidad Nacional de La Plata (UNLP)</td><td>				阿根廷</td></tr><tr><td>				591-600</td><td>				拉蒙卢尔大学</td><td>				Universitat Ramon Llull</td><td>				西班牙</td></tr><tr><td>				591-600</td><td>				马来西亚北方大学</td><td>				Universiti Utara Malaysia (UUM)</td><td>				马来西亚</td></tr><tr><td>				591-600</td><td>				卢布尔雅那大学</td><td>				University of Ljubljana</td><td>				斯洛文尼亚</td></tr><tr><td>				591-600</td><td>				米兰比可卡大学</td><td>				University of Milano-Bicocca</td><td>				意大利</td></tr><tr><td>				591-600</td><td>				蒙斯大学</td><td>				University of Mons</td><td>				比利时</td></tr><tr><td>				591-600</td><td>				维尔纽斯格迪米纳斯技术大学</td><td>				Vilnius Gediminas Technical University</td><td>				立陶宛</td></tr><tr><td>				601-650</td><td>				韩国亚洲大学</td><td>				Ajou University</td><td>				韩国</td></tr><tr><td>				601-650</td><td>				美利坚大学</td><td>				American University</td><td>				美国</td></tr><tr><td>				601-650</td><td>				迪拜美国大学</td><td>				American University in Dubai</td><td>				阿联酋</td></tr><tr><td>				601-650</td><td>				马尼拉雅典耀大学</td><td>				Ateneo de Manila University</td><td>				菲律宾</td></tr><tr><td>				601-650</td><td>				茂物农业大学</td><td>				Bogor Agricultural University</td><td>				印度尼西亚</td></tr><tr><td>				601-650</td><td>				昆士兰中央大学</td><td>				Central Queensland University (CQUniversity Australia)</td><td>				澳大利亚</td></tr><tr><td>				601-650</td><td>				清迈大学</td><td>				Chiang Mai University</td><td>				泰国</td></tr><tr><td>				601-650</td><td>				纽约城市大学</td><td>				City University of New York</td><td>				美国</td></tr><tr><td>				601-650</td><td>				克拉克森大学</td><td>				Clarkson University</td><td>				美国</td></tr><tr><td>				601-650</td><td>				威廉玛丽学院</td><td>				College of William & Mary</td><td>				美国</td></tr><tr><td>				601-650</td><td>				岐阜大学</td><td>				Gifu University</td><td>				日本</td></tr><tr><td>				601-650</td><td>				卡斯利克圣灵大学</td><td>				Holy Spirit University of Kaslik</td><td>				黎巴嫩</td></tr><tr><td>				601-650</td><td>				布宜诺斯艾利斯理工学院</td><td>				Instituto Tecnológico de Buenos Aires (ITBA)</td><td>				阿根廷</td></tr><tr><td>				601-650</td><td>				伊朗科技大学</td><td>				Iran University of Science and Technology</td><td>				伊朗</td></tr><tr><td>				601-650</td><td>				基尔大学</td><td>				Keele University</td><td>				英国</td></tr><tr><td>				601-650</td><td>				庆北国立大学</td><td>				Kyungpook National University</td><td>				韩国</td></tr><tr><td>				601-650</td><td>				罗巴切夫斯基大学</td><td>				Lobachevsky University</td><td>				俄罗斯</td></tr><tr><td>				601-650</td><td>				密歇根理工大学</td><td>				Michigan Technological University</td><td>				美国</td></tr><tr><td>				601-650</td><td>				新潟大学</td><td>				Niigata University</td><td>				日本</td></tr><tr><td>				601-650</td><td>				奥洛穆茨帕拉茨基大学</td><td>				Palacky University in Olomouc</td><td>				捷克</td></tr><tr><td>				601-650</td><td>				里约热内卢天主教大学</td><td>				Pontifícia Universidade Católica do Rio de Janeiro</td><td>				巴西</td></tr><tr><td>				601-650</td><td>				四川大学</td><td>				Sichuan University</td><td>				中国</td></tr><tr><td>				601-650</td><td>				史密斯学院</td><td>				Smith College</td><td>				美国</td></tr><tr><td>				601-650</td><td>				塔林科技大学</td><td>				Tallinn University of Technology (TalTech)</td><td>				爱沙尼亚</td></tr><tr><td>				601-650</td><td>				法政大学</td><td>				Thammasat University</td><td>				泰国</td></tr><tr><td>				601-650</td><td>				东京都立大学</td><td>				Tokyo Metropolitan University</td><td>				日本</td></tr><tr><td>				601-650</td><td>				东京农工大学</td><td>				Tokyo University of Agriculture and Technology</td><td>				日本</td></tr><tr><td>				601-650</td><td>				阿尔斯特大学</td><td>				Ulster University</td><td>				英国</td></tr><tr><td>				601-650</td><td>				康塞普西翁大学</td><td>				Universidad de Concepción</td><td>				智利</td></tr><tr><td>				601-650</td><td>				萨拉曼卡大学</td><td>				University of Salamanca</td><td>				西班牙</td></tr><tr><td>				601-650</td><td>				圣安德烈斯大学</td><td>				Universidad de San Andrés - UdeSA</td><td>				阿根廷</td></tr><tr><td>				601-650</td><td>				塞维利亚大学</td><td>				Universidad de Sevilla</td><td>				西班牙</td></tr><tr><td>				601-650</td><td>				泛美大学</td><td>				Universidad Panamericana (UP)</td><td>				墨西哥</td></tr><tr><td>				601-650</td><td>				托尔夸托迪特利亚大学</td><td>				Universidad Torcuato Di Tella</td><td>				阿根廷</td></tr><tr><td>				601-650</td><td>				杜伊斯堡 - 埃森大学</td><td>				Universit&#228;t Duisburg-Essen</td><td>				德国</td></tr><tr><td>				601-650</td><td>				雷根斯堡大学</td><td>				Universit&#228;t Regensburg</td><td>				德国</td></tr><tr><td>				601-650</td><td>				布拉德福德大学</td><td>				University of Bradford</td><td>				英国</td></tr><tr><td>				601-650</td><td>				德布勒森大学</td><td>				University of Debrecen</td><td>				匈牙利</td></tr><tr><td>				601-650</td><td>				约旦大学</td><td>				University of Jordan</td><td>				约旦</td></tr><tr><td>				601-650</td><td>				肯塔基大学</td><td>				University of Kentucky</td><td>				美国</td></tr><tr><td>				601-650</td><td>				克拉根福大学</td><td>				University of Klagenfurt</td><td>				奥地利</td></tr><tr><td>				601-650</td><td>				曼尼托巴大学</td><td>				University of Manitoba</td><td>				加拿大</td></tr><tr><td>				601-650</td><td>				新墨西哥大学</td><td>				University of New Mexico</td><td>				美国</td></tr><tr><td>				601-650</td><td>				俄勒冈大学</td><td>				University of Oregon</td><td>				美国</td></tr><tr><td>				601-650</td><td>				朴茨茅斯大学</td><td>				University of Portsmouth</td><td>				英国</td></tr><tr><td>				601-650</td><td>				南佛罗里达大学</td><td>				University of South Florida</td><td>				美国</td></tr><tr><td>				601-650</td><td>				德黑兰大学</td><td>				University of Tehran</td><td>				伊朗</td></tr><tr><td>				601-650</td><td>				维多利亚大学</td><td>				Victoria University</td><td>				澳大利亚</td></tr><tr><td>				601-650</td><td>				弗吉尼亚联邦大学</td><td>				Virginia Commonwealth University</td><td>				美国</td></tr><tr><td>				601-650</td><td>				伍斯特理工学院</td><td>				Worcester Polytechnic Institute</td><td>				美国</td></tr><tr><td>				651-700</td><td>				艾尔朗加大学</td><td>				Airlangga University</td><td>				印度尼西亚</td></tr><tr><td>				651-700</td><td>				海峡大学</td><td>				Bogazi&#231;i üniversitesi</td><td>				土耳其</td></tr><tr><td>				651-700</td><td>				布尔诺理工大学</td><td>				Brno University of Technology</td><td>				捷克</td></tr><tr><td>				651-700</td><td>				卡尔顿大学</td><td>				Carleton University</td><td>				加拿大</td></tr><tr><td>				651-700</td><td>				查尔斯达尔文大学</td><td>				Charles Darwin University</td><td>				澳大利亚</td></tr><tr><td>				651-700</td><td>				中国农业大学</td><td>				China Agricultural University</td><td>				中国</td></tr><tr><td>				651-700</td><td>				伊迪丝科文大学</td><td>				Edith Cowan University</td><td>				澳大利亚</td></tr><tr><td>				651-700</td><td>				厄特沃什·罗兰大学</td><td>				E&#246;tv&#246;s Lorànd University</td><td>				匈牙利</td></tr><tr><td>				651-700</td><td>				印第安纳大学普渡大学印第安纳波利斯分校</td><td>				Indiana University–Purdue University Indianapolis</td><td>				美国</td></tr><tr><td>				651-700</td><td>				国立理工学院</td><td>				Instituto Politécnico Nacional (IPN)</td><td>				墨西哥</td></tr><tr><td>				651-700</td><td>				墨西哥自主科技学院</td><td>				Instituto Tecnológico Autónomo de México (ITAM)</td><td>				墨西哥</td></tr><tr><td>				651-700</td><td>				马来西亚国际伊斯兰大学</td><td>				International Islamic University Malaysia (IIUM)</td><td>				马来西亚</td></tr><tr><td>				651-700</td><td>				伊斯坦布尔科技大学</td><td>				Istanbul Technical University</td><td>				土耳其</td></tr><tr><td>				651-700</td><td>				贾达珀大学</td><td>				Jadavpur University</td><td>				印度</td></tr><tr><td>				651-700</td><td>				约旦科技大学</td><td>				Jordan University of Science & Technology</td><td>				约旦</td></tr><tr><td>				651-700</td><td>				鹿儿岛大学</td><td>				Kagoshima University</td><td>				日本</td></tr><tr><td>				651-700</td><td>				高雄医科大学</td><td>				Kaohsiung Medical University</td><td>				中国台湾</td></tr><tr><td>				651-700</td><td>				哈萨克斯坦国立农业大学</td><td>				Kazakh National Agrarian University KazNAU</td><td>				哈萨克斯坦</td></tr><tr><td>				651-700</td><td>				汉诺威莱布尼茨大学</td><td>				Leibniz Universit&#228;t Hannover</td><td>				德国</td></tr><tr><td>				651-700</td><td>				路易斯安那州大学</td><td>				Louisiana State University</td><td>				美国</td></tr><tr><td>				651-700</td><td>				密苏里科技大学</td><td>				Missouri University of Science and Technology</td><td>				美国</td></tr><tr><td>				651-700</td><td>				雅典国立卡波季斯特里安大学</td><td>				National and Kapodistrian University of Athens</td><td>				希腊</td></tr><tr><td>				651-700</td><td>				台湾中兴大学</td><td>				National Chung Hsing University</td><td>				中国台湾</td></tr><tr><td>				651-700</td><td>				哈尔科夫国立工业学院</td><td>				National Technical University "Kharkiv Polytechnic Institute"</td><td>				乌克兰</td></tr><tr><td>				651-700</td><td>				大阪府立大学</td><td>				Osaka Prefecture University</td><td>				日本</td></tr><tr><td>				651-700</td><td>				马尔堡菲利普大学</td><td>				Philipps-Universit&#228;t Marburg</td><td>				德国</td></tr><tr><td>				651-700</td><td>				圣保罗天主教大学</td><td>				Pontifícia Universidade Católica de S&#227;o Paulo</td><td>				巴西</td></tr><tr><td>				651-700</td><td>				罗格斯大学 - 纽瓦克州新泽西州立大学</td><td>				Rutgers - The State University of New Jersey, Newark</td><td>				美国</td></tr><tr><td>				651-700</td><td>				萨马拉国立航空航天大学（萨马拉大学）</td><td>				Samara National Research University (Samara University)</td><td>				俄罗斯</td></tr><tr><td>				651-700</td><td>				世宗大学</td><td>				Sejong University</td><td>				韩国</td></tr><tr><td>				651-700</td><td>				史蒂文斯理工学院</td><td>				Stevens Institute of Technology</td><td>				美国</td></tr><tr><td>				651-700</td><td>				天普大学</td><td>				Temple University</td><td>				美国</td></tr><tr><td>				651-700</td><td>				安蒂奥基亚大学</td><td>				Universidad de Antioquia</td><td>				哥伦比亚</td></tr><tr><td>				651-700</td><td>				巴斯克大学</td><td>				Universidad del Pais Vasco</td><td>				西班牙</td></tr><tr><td>				651-700</td><td>				伊比利亞美洲大學</td><td>				Universidad Iberoamericana IBERO</td><td>				墨西哥</td></tr><tr><td>				651-700</td><td>				圣地亚哥德孔波斯特拉大学</td><td>				Universidade de Santiago de Compostela</td><td>				西班牙</td></tr><tr><td>				651-700</td><td>				米纳斯吉拉斯联邦大学</td><td>				Universidade Federal de Minas Gerais</td><td>				巴西</td></tr><tr><td>				651-700</td><td>				南大河联邦大学</td><td>				Universidade Federal do Rio Grande Do Sul</td><td>				巴西</td></tr><tr><td>				651-700</td><td>				热那亚大学</td><td>				University of Genoa</td><td>				意大利</td></tr><tr><td>				651-700</td><td>				霍恩海姆大学</td><td>				University of Hohenheim</td><td>				德国</td></tr><tr><td>				651-700</td><td>				克劳德伯纳德里昂大学</td><td>				Université Claude Bernard Lyon 1</td><td>				法国</td></tr><tr><td>				651-700</td><td>				舍布鲁克大学</td><td>				Université de Sherbrooke</td><td>				加拿大</td></tr><tr><td>				651-700</td><td>				玛拉工艺大学</td><td>				Universiti Teknologi MARA - UiTM</td><td>				马来西亚</td></tr><tr><td>				651-700</td><td>				丹佛大学</td><td>				University of Denver</td><td>				美国</td></tr><tr><td>				651-700</td><td>				海法大学</td><td>				University of Haifa</td><td>				以色列</td></tr><tr><td>				651-700</td><td>				休斯顿大学</td><td>				University of Houston</td><td>				美国</td></tr><tr><td>				651-700</td><td>				米尼奥大学</td><td>				University of Minho</td><td>				葡萄牙</td></tr><tr><td>				651-700</td><td>				佩奇大学</td><td>				University of Pécs</td><td>				匈牙利</td></tr><tr><td>				651-700</td><td>				普利茅斯大学</td><td>				Plymouth University</td><td>				英国</td></tr><tr><td>				651-700</td><td>				首尔大学</td><td>				University of Seoul</td><td>				韩国</td></tr><tr><td>				651-700</td><td>				沙迦大学</td><td>				University of Sharjah</td><td>				阿联酋</td></tr><tr><td>				651-700</td><td>				威斯敏斯特大学</td><td>				University of Westminster</td><td>				英国</td></tr><tr><td>				651-700</td><td>				温莎大学</td><td>				University of Windsor</td><td>				加拿大</td></tr><tr><td>				651-700</td><td>				扎耶德大学</td><td>				Zayed University</td><td>				阿联酋</td></tr><tr><td>				701-750</td><td>				阿布扎比大学</td><td>				Abu Dhabi University</td><td>				阿联酋</td></tr><tr><td>				701-750</td><td>				北京交通大学</td><td>				Beijing Jiaotong University</td><td>				中国</td></tr><tr><td>				701-750</td><td>				北京工业大学</td><td>				Beijing University of Technology</td><td>				中国</td></tr><tr><td>				701-750</td><td>				伯恩茅斯大学</td><td>				Bournemouth University</td><td>				英国</td></tr><tr><td>				701-750</td><td>				中南大学</td><td>				Central South University</td><td>				中国</td></tr><tr><td>				701-750</td><td>				全南国立大学</td><td>				Chonnam National University</td><td>				韩国</td></tr><tr><td>				701-750</td><td>				忠南国立大学</td><td>				Chungnam National University</td><td>				韩国</td></tr><tr><td>				701-750</td><td>				克莱姆森大学</td><td>				Clemson University</td><td>				美国</td></tr><tr><td>				701-750</td><td>				檀国大学</td><td>				Dankook University</td><td>				韩国</td></tr><tr><td>				701-750</td><td>				佐治亚州立大学</td><td>				Georgia State University</td><td>				美国</td></tr><tr><td>				701-750</td><td>				湖南大学</td><td>				Hunan University</td><td>				中国</td></tr><tr><td>				701-750</td><td>				堪萨斯州立大学</td><td>				Kansas State University</td><td>				美国</td></tr><tr><td>				701-750</td><td>				拉合尔管理科学大学</td><td>				Lahore University of Management Sciences (LUMS)</td><td>				巴基斯坦</td></tr><tr><td>				701-750</td><td>				伦敦南岸大学</td><td>				London South Bank University</td><td>				英国</td></tr><tr><td>				701-750</td><td>				马尼帕尔高等教育学院</td><td>				Manipal Academy of Higher Education</td><td>				印度</td></tr><tr><td>				701-750</td><td>				梅努斯大学</td><td>				Maynooth University</td><td>				爱尔兰</td></tr><tr><td>				701-750</td><td>				纽芬兰纪念大学</td><td>				Memorial University of Newfoundland</td><td>				加拿大</td></tr><tr><td>				701-750</td><td>				乌克兰国立技术大学“伊戈尔西科斯基基辅理工学院”</td><td>				National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"</td><td>				乌克兰</td></tr><tr><td>				701-750</td><td>				纽卡斯尔诺桑比亚大学</td><td>				Northumbria University at Newcastle</td><td>				英国</td></tr><tr><td>				701-750</td><td>				诺丁汉特伦特大学</td><td>				Nottingham Trent University</td><td>				英国</td></tr><tr><td>				701-750</td><td>				瓦尔帕莱索天主教大学</td><td>				Pontificia Universidad Católica de Valparaíso</td><td>				智利</td></tr><tr><td>				701-750</td><td>				里加技术大学</td><td>				Riga Technical University</td><td>				拉脱维亚</td></tr><tr><td>				701-750</td><td>				罗维拉·维尔吉利大学</td><td>				Universitat Rovira i Virgili</td><td>				西班牙</td></tr><tr><td>				701-750</td><td>				深圳大学</td><td>				Shenzhen University</td><td>				中国</td></tr><tr><td>				701-750</td><td>				南卫理公会大学</td><td>				Southern Methodist University</td><td>				美国</td></tr><tr><td>				701-750</td><td>				苏梅州立大学</td><td>				Sumy State University</td><td>				乌克兰</td></tr><tr><td>				701-750</td><td>				阿道夫·伊夫内斯大学</td><td>				Universidad Adolfo Ibà&#241;ez</td><td>				智利</td></tr><tr><td>				701-750</td><td>				委内瑞拉中央大学</td><td>				Universidad Central de Venezuela</td><td>				委内瑞拉</td></tr><tr><td>				701-750</td><td>				阿利坎特大学</td><td>				Universidad de Alicante</td><td>				西班牙</td></tr><tr><td>				701-750</td><td>				瓜达拉哈拉大学</td><td>				Universidad de Guadalajara (UDG)</td><td>				墨西哥</td></tr><tr><td>				701-750</td><td>				哥伦比亚卡利伊瑟丝大学</td><td>				Universidad ICESI</td><td>				哥伦比亚</td></tr><tr><td>				701-750</td><td>				圣卡塔琳娜州联邦大学</td><td>				Universidade Federal de Santa Catarina</td><td>				巴西</td></tr><tr><td>				701-750</td><td>				锡耶纳大学</td><td>				University of Siena</td><td>				意大利</td></tr><tr><td>				701-750</td><td>				的里雅斯特大学</td><td>				University of Trieste</td><td>				意大利</td></tr><tr><td>				701-750</td><td>				波茨坦大学</td><td>				Universit&#228;t Potsdam</td><td>				德国</td></tr><tr><td>				701-750</td><td>				里尔大学</td><td>				Université de Lille</td><td>				法国</td></tr><tr><td>				701-750</td><td>				奥尔巴尼纽约州立大学</td><td>				University at Albany SUNY</td><td>				美国</td></tr><tr><td>				701-750</td><td>				马来西亚玻璃市大学</td><td>				Universiti Malaysia Perlis</td><td>				马来西亚</td></tr><tr><td>				701-750</td><td>				阿拉巴马大学</td><td>				University of Alabama</td><td>				美国</td></tr><tr><td>				701-750</td><td>				巴格达大学</td><td>				University of Baghdad</td><td>				伊拉克</td></tr><tr><td>				701-750</td><td>				中佛罗里达大学</td><td>				University of Central Florida</td><td>				美国</td></tr><tr><td>				701-750</td><td>				格林威治大学</td><td>				University of Greenwich</td><td>				英国</td></tr><tr><td>				701-750</td><td>				哈德斯菲尔德大学</td><td>				University of Huddersfield</td><td>				英国</td></tr><tr><td>				701-750</td><td>				赫尔大学</td><td>				University of Hull</td><td>				英国</td></tr><tr><td>				701-750</td><td>				帕特雷大学</td><td>				University of Patras</td><td>				希腊</td></tr><tr><td>				701-750</td><td>				塔尔萨大学</td><td>				University of Tulsa</td><td>				美国</td></tr><tr><td>				701-750</td><td>				怀俄明大学</td><td>				University of Wyoming</td><td>				美国</td></tr><tr><td>				701-750</td><td>				越南国立大学胡志明市校区</td><td>				Viet Nam National University Ho Chi Minh City (VNU-HCM)</td><td>				越南</td></tr><tr><td>				701-750</td><td>				山口大学</td><td>				Yamaguchi University</td><td>				日本</td></tr><tr><td>				751-800</td><td>				阿治曼大学</td><td>				Ajman University</td><td>				阿联酋</td></tr><tr><td>				751-800</td><td>				安娜大学</td><td>				Anna University</td><td>				印度</td></tr><tr><td>				751-800</td><td>				杨百翰大学</td><td>				Brigham Young University</td><td>				美国</td></tr><tr><td>				751-800</td><td>				重庆大学</td><td>				Chongqing University</td><td>				中国</td></tr><tr><td>				751-800</td><td>				布拉迪斯拉发的夸美纽斯大学</td><td>				Comenius University in Bratislava</td><td>				斯洛伐克</td></tr><tr><td>				751-800</td><td>				都柏林理工学院</td><td>				Dublin Institute of Technology</td><td>				爱尔兰</td></tr><tr><td>				751-800</td><td>				佛罗里达国际大学</td><td>				Florida International University</td><td>				美国</td></tr><tr><td>				751-800</td><td>				群马大学</td><td>				Gunma University</td><td>				日本</td></tr><tr><td>				751-800</td><td>				印度新德里国立伊斯兰大学</td><td>				Jamia Millia Islamia</td><td>				印度</td></tr><tr><td>				751-800</td><td>				考纳斯理工大学</td><td>				Kaunas University of Technology</td><td>				立陶宛</td></tr><tr><td>				751-800</td><td>				哈萨克 - 英国技术大学</td><td>				Kazakh-British Technical University</td><td>				哈萨克斯坦</td></tr><tr><td>				751-800</td><td>				兰州大学</td><td>				Lanzhou University</td><td>				中国</td></tr><tr><td>				751-800</td><td>				伦敦城市大学</td><td>				London Metropolitan University</td><td>				英国</td></tr><tr><td>				751-800</td><td>				芝加哥洛约拉大学</td><td>				Loyola University Chicago</td><td>				美国</td></tr><tr><td>				751-800</td><td>				曼彻斯特城市大学</td><td>				Manchester Metropolitan University</td><td>				英国</td></tr><tr><td>				751-800</td><td>				利沃夫理工大学</td><td>				Lviv Polytechnic National University</td><td>				乌克兰</td></tr><tr><td>				751-800</td><td>				新泽西理工学院</td><td>				New Jersey Institute of Technology (NJIT)</td><td>				美国</td></tr><tr><td>				751-800</td><td>				O.P.金达尔全球大学</td><td>				O.P. Jindal Global University</td><td>				印度</td></tr><tr><td>				751-800</td><td>				俄克拉荷马州立大学</td><td>				Oklahoma State University</td><td>				美国</td></tr><tr><td>				751-800</td><td>				国立巴查查兰大学</td><td>				Universitas Padjadjaran</td><td>				印度尼西亚</td></tr><tr><td>				751-800</td><td>				萨尔茨堡大学</td><td>				Paris Lodron University of Salzburg</td><td>				奥地利</td></tr><tr><td>				751-800</td><td>				普列汉诺夫俄罗斯经济大学</td><td>				Plekhanov Russian University of Economics</td><td>				俄罗斯</td></tr><tr><td>				751-800</td><td>				信州大学</td><td>				Shinshu University</td><td>				日本</td></tr><tr><td>				751-800</td><td>				斯洛伐克布拉迪斯拉发技术大学</td><td>				Slovak University of Technology in Bratislava</td><td>				斯洛伐克</td></tr><tr><td>				751-800</td><td>				索非亚大学</td><td>				Sofia University "St. Kliment Ohridski"</td><td>				保加利亚</td></tr><tr><td>				751-800</td><td>				南十字大学</td><td>				Southern Cross University</td><td>				澳大利亚</td></tr><tr><td>				751-800</td><td>				双威大学</td><td>				Sunway University</td><td>				马来西亚</td></tr><tr><td>				751-800</td><td>				利贝雷茨技术大学</td><td>				Technical University of Liberec</td><td>				捷克</td></tr><tr><td>				751-800</td><td>				多特蒙德大学</td><td>				TU Dortmund University</td><td>				德国</td></tr><tr><td>				751-800</td><td>				拉萨瓦纳大学</td><td>				Universidad de La Sabana</td><td>				哥伦比亚</td></tr><tr><td>				751-800</td><td>				普埃布拉州美洲大学</td><td>				Universidad de las Américas Puebla (UDLAP)</td><td>				墨西哥</td></tr><tr><td>				751-800</td><td>				旧金山基多大学</td><td>				Universidad San Francisco de Quito (USFQ)</td><td>				厄瓜多尔</td></tr><tr><td>				751-800</td><td>				罗萨里奥大学</td><td>				Universidad del Rosario</td><td>				哥伦比亚</td></tr><tr><td>				751-800</td><td>				威尼斯大学</td><td>				Ca' Foscari University of Venice</td><td>				意大利</td></tr><tr><td>				751-800</td><td>				摩德纳大学和雷焦艾米利亚</td><td>				University of Modena and Reggio Emilia</td><td>				意大利</td></tr><tr><td>				751-800</td><td>				佩鲁贾大学</td><td>				Università degli Studi di Perugia</td><td>				意大利</td></tr><tr><td>				751-800</td><td>				比勒费尔德大学</td><td>				Bielefeld University</td><td>				德国</td></tr><tr><td>				751-800</td><td>				杜塞尔多夫大学</td><td>				University Duesseldorf</td><td>				德国</td></tr><tr><td>				751-800</td><td>				罗斯托克大学</td><td>				Universit&#228;t Rostock</td><td>				德国</td></tr><tr><td>				751-800</td><td>				洛林大学</td><td>				University of Lorraine</td><td>				法国</td></tr><tr><td>				751-800</td><td>				马来西亚彭亨大学</td><td>				Universiti Malaysia Pahang</td><td>				马来西亚</td></tr><tr><td>				751-800</td><td>				布雷西亚大学</td><td>				University of Brescia</td><td>				意大利</td></tr><tr><td>				751-800</td><td>				克里特岛大学</td><td>				University of Crete</td><td>				希腊</td></tr><tr><td>				751-800</td><td>				东伦敦大学</td><td>				University of East London</td><td>				英国</td></tr><tr><td>				751-800</td><td>				赫特福德大学</td><td>				University of Hertfordshire</td><td>				英国</td></tr><tr><td>				751-800</td><td>				马里博尔大学</td><td>				University of Maribor</td><td>				斯洛文尼亚</td></tr><tr><td>				751-800</td><td>				南昆士兰大学</td><td>				University of Southern Queensland</td><td>				澳大利亚</td></tr><tr><td>				751-800</td><td>				英格兰西部大学</td><td>				University of the West of England</td><td>				英国</td></tr><tr><td>				751-800</td><td>				萨格勒布大学</td><td>				University of Zagreb</td><td>				克罗地亚</td></tr><tr><td>				751-800</td><td>				横滨国立大学</td><td>				Yokohama National University</td><td>				日本</td></tr><tr><td>				801-1000</td><td>				波兹南亚当密茨凯维奇大学</td><td>				Adam Mickiewicz University, Poznań</td><td>				波兰</td></tr><tr><td>				801-1000</td><td>				克拉科夫矿冶大学</td><td>				AGH University of Science and Technology</td><td>				波兰</td></tr><tr><td>				801-1000</td><td>				艾恩夏姆斯大学</td><td>				Ain Shams University</td><td>				埃及</td></tr><tr><td>				801-1000</td><td>				亚历山大大学</td><td>				Alexandria University</td><td>				埃及</td></tr><tr><td>				801-1000</td><td>				阿里格尔穆斯林大学</td><td>				Aligarh Muslim University</td><td>				印度</td></tr><tr><td>				801-1000</td><td>				甘露大学</td><td>				Amrita Vishwa Vidyapeetham (Amrita University)</td><td>				印度</td></tr><tr><td>				801-1000</td><td>				安卡拉大学</td><td>				Ankara üniversitesi</td><td>				土耳其</td></tr><tr><td>				801-1000</td><td>				艾因夏姆斯大学</td><td>				Assiut University</td><td>				埃及</td></tr><tr><td>				801-1000</td><td>				雅典经济与商业大学</td><td>				Athens University of Economics and Business</td><td>				希腊</td></tr><tr><td>				801-1000</td><td>				奥本大学</td><td>				Auburn University</td><td>				美国</td></tr><tr><td>				801-1000</td><td>				澳洲天主教大学</td><td>				Australian Catholic University</td><td>				澳大利亚</td></tr><tr><td>				801-1000</td><td>				巴比什-博雅依大学</td><td>				Babes-Bolyai University</td><td>				罗马尼亚</td></tr><tr><td>				801-1000</td><td>				巴库州立大学</td><td>				Baku State University</td><td>				阿塞拜疆</td></tr><tr><td>				801-1000</td><td>				巴纳拉斯印度大学</td><td>				Banaras Hindu University</td><td>				印度</td></tr><tr><td>				801-1000</td><td>				孟加拉国工程技术大学</td><td>				Bangladesh University of Engineering and Technology</td><td>				孟加拉国</td></tr><tr><td>				801-1000</td><td>				贝勒大学</td><td>				Baylor University</td><td>				美国</td></tr><tr><td>				801-1000</td><td>				北京外国语大学</td><td>				Beijing Foreign Studies University</td><td>				中国</td></tr><tr><td>				801-1000</td><td>				贝鲁特阿拉伯大学</td><td>				Beirut Arab University</td><td>				黎巴嫩</td></tr><tr><td>				801-1000</td><td>				白俄罗斯国立技术大学</td><td>				Belarusian National Technical University (BNTU)</td><td>				白俄罗斯</td></tr><tr><td>				801-1000</td><td>				比娜大学</td><td>				Bina Nusantara University (BINUS)</td><td>				印度尼西亚</td></tr><tr><td>				801-1000</td><td>				宾厄姆顿大学纽约州立大学</td><td>				Binghamton University SUNY</td><td>				美国</td></tr><tr><td>				801-1000</td><td>				博拉理工学院</td><td>				Birla Institute of Technology and Science, Pilani</td><td>				印度</td></tr><tr><td>				801-1000</td><td>				伯明翰城市大学</td><td>				Birmingham City University</td><td>				英国</td></tr><tr><td>				801-1000</td><td>				布达佩斯技术经济学院</td><td>				Budapest University of Technology and Economics</td><td>				匈牙利</td></tr><tr><td>				801-1000</td><td>				坎特伯雷基督教会大学</td><td>				Canterbury Christ Church University</td><td>				英国</td></tr><tr><td>				801-1000</td><td>				巴基斯坦信息技术学院</td><td>				COMSATS Institute of Information Technology</td><td>				巴基斯坦</td></tr><tr><td>				801-1000</td><td>				布达佩斯科维努斯大学</td><td>				Corvinus University of Budapest</td><td>				匈牙利</td></tr><tr><td>				801-1000</td><td>				克拉科夫科技大学</td><td>				Cracow University of Technology</td><td>				波兰</td></tr><tr><td>				801-1000</td><td>				捷克布拉格生命科学大学</td><td>				Czech University of Life Sciences in Prague</td><td>				捷克</td></tr><tr><td>				801-1000</td><td>				德拉萨尔大学</td><td>				De La Salle University</td><td>				菲律宾</td></tr><tr><td>				801-1000</td><td>				德蒙福特大学</td><td>				De Montfort University</td><td>				英国</td></tr><tr><td>				801-1000</td><td>				迪波內戈羅大學</td><td>				Diponegoro University</td><td>				印度尼西亚</td></tr><tr><td>				801-1000</td><td>				卡拉干达州立大学</td><td>				Karaganda State University named after academician E.A.Buketov</td><td>				哈萨克斯坦</td></tr><tr><td>				801-1000</td><td>				爱丁堡纳皮尔大学</td><td>				Edinburgh Napier University</td><td>				英国</td></tr><tr><td>				801-1000</td><td>				国立科技大学</td><td>				Escuela Politécnica Nacional</td><td>				厄瓜多尔</td></tr><tr><td>				801-1000</td><td>				滨海高等理工学院</td><td>				Escuela Superior Politécnica del Litoral (ESPOL)</td><td>				厄瓜多尔</td></tr><tr><td>				801-1000</td><td>				福特汉姆大学</td><td>				Fordham University</td><td>				美国</td></tr><tr><td>				801-1000</td><td>				格但斯克科技大学</td><td>				Gdansk University of Technology</td><td>				波兰</td></tr><tr><td>				801-1000</td><td>				乔治梅森大学</td><td>				George Mason University</td><td>				美国</td></tr><tr><td>				801-1000</td><td>				德国约旦大学</td><td>				German Jordanian University</td><td>				约旦</td></tr><tr><td>				801-1000</td><td>				格拉斯哥卡利多尼亚大学</td><td>				Glasgow Caledonian University</td><td>				英国</td></tr><tr><td>				801-1000</td><td>				哈西德佩大学</td><td>				Hacettepe University</td><td>				土耳其</td></tr><tr><td>				801-1000</td><td>				伊斯坦布尔大学</td><td>				Istanbul University</td><td>				土耳其</td></tr><tr><td>				801-1000</td><td>				卡拉干达国立技术大学</td><td>				Karaganda State Technical University</td><td>				哈萨克斯坦</td></tr><tr><td>				801-1000</td><td>				泰国农业大学</td><td>				Kasetsart University</td><td>				泰国</td></tr><tr><td>				801-1000</td><td>				哈萨克斯坦阿布莱汗国际关系与世界语言大学</td><td>				Kazakh Ablai Khan University of International Relations and World Languages</td><td>				哈萨克斯坦</td></tr><tr><td>				801-1000</td><td>				肯特州立大学</td><td>				Kent State University</td><td>				美国</td></tr><tr><td>				801-1000</td><td>				孔敬大学</td><td>				Khon Kaen University</td><td>				泰国</td></tr><tr><td>				801-1000</td><td>				费萨尔国王大学</td><td>				King Faisal University</td><td>				沙特阿拉伯</td></tr><tr><td>				801-1000</td><td>				国王科技大学</td><td>				King Mongkut's University of Technology Thonburi</td><td>				泰国</td></tr><tr><td>				801-1000</td><td>				科威特大学</td><td>				Kuwait University</td><td>				科威特</td></tr><tr><td>				801-1000</td><td>				京都工艺纤维大学</td><td>				Kyoto Institute of Technology</td><td>				日本</td></tr><tr><td>				801-1000</td><td>				九州工业大学</td><td>				Kyushu Institute of Technology</td><td>				日本</td></tr><tr><td>				801-1000</td><td>				利物浦约翰摩尔斯大学</td><td>				Liverpool John Moores University</td><td>				英国</td></tr><tr><td>				801-1000</td><td>				罗兹科技大学</td><td>				Lodz University of Technology</td><td>				波兰</td></tr><tr><td>				801-1000</td><td>				马凯特大学</td><td>				Marquette University</td><td>				美国</td></tr><tr><td>				801-1000</td><td>				迈阿密大学</td><td>				Miami University</td><td>				美国</td></tr><tr><td>				801-1000</td><td>				米德尔塞克斯大学</td><td>				Middlesex University</td><td>				英国</td></tr><tr><td>				801-1000</td><td>				多媒体大学</td><td>				Multimedia University (MMU)</td><td>				马来西亚</td></tr><tr><td>				801-1000</td><td>				穆坦斯里亚大学</td><td>				Mustansiriyah University</td><td>				伊拉克</td></tr><tr><td>				801-1000</td><td>				名古屋工业大学</td><td>				Nagoya Institute of Technology (NIT)</td><td>				日本</td></tr><tr><td>				801-1000</td><td>				台湾中正大学</td><td>				National Chung Cheng University</td><td>				中国台湾</td></tr><tr><td>				801-1000</td><td>				尼古拉斯哥白尼大学</td><td>				Nicolaus Copernicus University</td><td>				波兰</td></tr><tr><td>				801-1000</td><td>				圣母大学贝鲁特校区</td><td>				Notre Dame University-Louaize NDU</td><td>				黎巴嫩</td></tr><tr><td>				801-1000</td><td>				新西伯利亚国立技术大学</td><td>				Novosibirsk State Technical University</td><td>				俄罗斯</td></tr><tr><td>				801-1000</td><td>				俄亥俄大学</td><td>				Ohio University</td><td>				美国</td></tr><tr><td>				801-1000</td><td>				巴里大学</td><td>				Politecnico di Bari</td><td>				意大利</td></tr><tr><td>				801-1000</td><td>				厄瓜多尔天主教大学</td><td>				Pontificia Universidad Católica del Ecuador (PUCE)</td><td>				厄瓜多尔</td></tr><tr><td>				801-1000</td><td>				南里奥格兰德州天主教大学</td><td>				Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)</td><td>				巴西</td></tr><tr><td>				801-1000</td><td>				波兹南理工大学</td><td>				Poznań University of Technology</td><td>				波兰</td></tr><tr><td>				801-1000</td><td>				宋卡王子大学</td><td>				Prince of Songkla University</td><td>				泰国</td></tr><tr><td>				801-1000</td><td>				苏玛雅公主科技大学</td><td>				Princess Sumaya University for Technology</td><td>				约旦</td></tr><tr><td>				801-1000</td><td>				罗德斯大学</td><td>				Rhodes University</td><td>				南非</td></tr><tr><td>				801-1000</td><td>				里加斯特拉丁大学</td><td>				Riga Stradins University</td><td>				拉脱维亚</td></tr><tr><td>				801-1000</td><td>				立教大学</td><td>				Rikkyo University</td><td>				日本</td></tr><tr><td>				801-1000</td><td>				立命馆大学</td><td>				Ritsumeikan University</td><td>				日本</td></tr><tr><td>				801-1000</td><td>				瑞尔森大学</td><td>				Ryerson University</td><td>				加拿大</td></tr><tr><td>				801-1000</td><td>				埼玉大学</td><td>				Saitama University</td><td>				日本</td></tr><tr><td>				801-1000</td><td>				圣地亚哥州立大学</td><td>				San Diego State University</td><td>				美国</td></tr><tr><td>				801-1000</td><td>				萨维特里巴伊·菲利普纳大学</td><td>				Savitribai Phule Pune University</td><td>				印度</td></tr><tr><td>				801-1000</td><td>				首尔国立科技大学</td><td>				Seoul National University of Science and Technology</td><td>				韩国</td></tr><tr><td>				801-1000</td><td>				泗水理工学院</td><td>				Institute of Technology Sepuluh Nopember</td><td>				印度尼西亚</td></tr><tr><td>				801-1000</td><td>				沙希德·贝赫什提大学</td><td>				Shahid Beheshti University (SBU)</td><td>				伊朗</td></tr><tr><td>				801-1000</td><td>				上海外国语大学</td><td>				Shanghai International Studies University</td><td>				中国</td></tr><tr><td>				801-1000</td><td>				谢菲尔德哈勒姆大学</td><td>				Sheffield Hallam University</td><td>				英国</td></tr><tr><td>				801-1000</td><td>				设拉子大学</td><td>				Shiraz University</td><td>				伊朗</td></tr><tr><td>				801-1000</td><td>				上智大学</td><td>				Sophia University</td><td>				日本</td></tr><tr><td>				801-1000</td><td>				南乌拉尔州立大学（国立研究大学）</td><td>				South Ural State University (National Research University)</td><td>				俄罗斯</td></tr><tr><td>				801-1000</td><td>				塔林大学</td><td>				Tallinn University</td><td>				爱沙尼亚</td></tr><tr><td>				801-1000</td><td>				科希策技术大学</td><td>				Technical University of Kosice</td><td>				斯洛伐克</td></tr><tr><td>				801-1000</td><td>				哥斯达黎加科技大学</td><td>				Tecnológico de Costa Rica -TEC</td><td>				哥斯达黎加</td></tr><tr><td>				801-1000</td><td>				得克萨斯理工大学</td><td>				Texas Tech University</td><td>				美国</td></tr><tr><td>				801-1000</td><td>				塔帕尔工程与技术学院</td><td>				Thapar Institute of Engineering & Technology</td><td>				印度</td></tr><tr><td>				801-1000</td><td>				罗伯特戈登大学</td><td>				Robert Gordon University</td><td>				英国</td></tr><tr><td>				801-1000</td><td>				东海大学</td><td>				Tokai University</td><td>				日本</td></tr><tr><td>				801-1000</td><td>				东京理科大学</td><td>				Tokyo University of Science</td><td>				日本</td></tr><tr><td>				801-1000</td><td>				智利南方大学</td><td>				Universidad Austral de Chile</td><td>				智利</td></tr><tr><td>				801-1000</td><td>				新莱昂自治大学</td><td>				Universidad Autónoma de Nuevo León</td><td>				墨西哥</td></tr><tr><td>				801-1000</td><td>				墨西哥自治大学</td><td>				Universidad Autónoma del Estado de México (UAEMex)</td><td>				墨西哥</td></tr><tr><td>				801-1000</td><td>				城市自治大学</td><td>				Universidad Autónoma Metropolitana (UAM)</td><td>				墨西哥</td></tr><tr><td>				801-1000</td><td>				安德烈斯贝洛天主教大学</td><td>				Universidad Católica Andres Bello</td><td>				委内瑞拉</td></tr><tr><td>				801-1000</td><td>				卡斯蒂利亚 - 拉曼恰大学</td><td>				Universidad de Castilla-La Mancha</td><td>				西班牙</td></tr><tr><td>				801-1000</td><td>				共和国大学</td><td>				Universidad de la República (UdelaR)</td><td>				乌拉圭</td></tr><tr><td>				801-1000</td><td>				利马大学</td><td>				Universidad de Lima</td><td>				秘鲁</td></tr><tr><td>				801-1000</td><td>				安第斯大学-智利</td><td>				Universidad de los Andes - Chile</td><td>				智利</td></tr><tr><td>				801-1000</td><td>				安第斯大学-梅里达</td><td>				Universidad de los Andes - (ULA) Mérida</td><td>				委内瑞拉</td></tr><tr><td>				801-1000</td><td>				蒙特雷大学</td><td>				Universidad de Monterrey (UDEM)</td><td>				墨西哥</td></tr><tr><td>				801-1000</td><td>				穆尔西亚大学</td><td>				University of Murcia</td><td>				西班牙</td></tr><tr><td>				801-1000</td><td>				奥维耶多大学</td><td>				Universidad de Oviedo</td><td>				西班牙</td></tr><tr><td>				801-1000</td><td>				波多黎各大学</td><td>				Universidad de Puerto Rico</td><td>				波多黎各</td></tr><tr><td>				801-1000</td><td>				塔尔卡大学</td><td>				Universidad de Talca</td><td>				智利</td></tr><tr><td>				801-1000</td><td>				北部大学</td><td>				Universidad del Norte</td><td>				哥伦比亚</td></tr><tr><td>				801-1000</td><td>				山谷大学</td><td>				Universidad del Valle</td><td>				哥伦比亚</td></tr><tr><td>				801-1000</td><td>				迭戈波塔莱斯大学</td><td>				Universidad Diego Portales (UDP)</td><td>				智利</td></tr><tr><td>				801-1000</td><td>				麦德林大学</td><td>				Universidad EAFIT</td><td>				哥伦比亚</td></tr><tr><td>				801-1000</td><td>				国立哥斯达黎加大学</td><td>				Universidad Nacional Costa Rica</td><td>				哥斯达黎加</td></tr><tr><td>				801-1000</td><td>				国立亚松森大学</td><td>				Universidad Nacional de la Asunción</td><td>				巴拉圭</td></tr><tr><td>				801-1000</td><td>				国立科尔多瓦大学</td><td>				Universidad Nacional de Córdoba - UNC</td><td>				阿根廷</td></tr><tr><td>				801-1000</td><td>				国立马德普拉塔大学</td><td>				Universidad Nacional de Mar del Plata</td><td>				阿根廷</td></tr><tr><td>				801-1000</td><td>				国立罗萨里奥大学</td><td>				Universidad Nacional de Rosario (UNR)</td><td>				阿根廷</td></tr><tr><td>				801-1000</td><td>				秘鲁卡耶塔诺赫雷迪亚大学</td><td>				Universidad Peruana Cayetano Heredia (UPCH)</td><td>				秘鲁</td></tr><tr><td>				801-1000</td><td>				西蒙玻利瓦尔大学</td><td>				Universidad Simón Bolívar (USB)</td><td>				委内瑞拉</td></tr><tr><td>				801-1000</td><td>				圣玛利亚科技大学</td><td>				Universidad Técnica Federico Santa María (USM)</td><td>				智利</td></tr><tr><td>				801-1000</td><td>				巴拿马科技大学</td><td>				Universidad Tecnológica de Panamà&#161; (UTP)</td><td>				巴拿马</td></tr><tr><td>				801-1000</td><td>				国立科技大学</td><td>				Universidad Tecnológica Nacional (UTN)</td><td>				阿根廷</td></tr><tr><td>				801-1000</td><td>				葡萄牙天主教大学</td><td>				Universidade Católica Portuguesa - UCP</td><td>				葡萄牙</td></tr><tr><td>				801-1000</td><td>				拉科鲁尼亚大学</td><td>				Universidade da Coru&#241;a</td><td>				西班牙</td></tr><tr><td>				801-1000</td><td>				巴西利亚大学</td><td>				Universidade de Brasília</td><td>				巴西</td></tr><tr><td>				801-1000</td><td>				维哥大学</td><td>				Universidade de Vigo</td><td>				西班牙</td></tr><tr><td>				801-1000</td><td>				里约热内卢州大学</td><td>				Universidade do Estado do Rio de Janeiro (UERJ)</td><td>				巴西</td></tr><tr><td>				801-1000</td><td>				隆德里纳州立大学</td><td>				Universidade Estadual de Londrina</td><td>				巴西</td></tr><tr><td>				801-1000</td><td>				联邦圣卡洛斯大学</td><td>				Universidade Federal de S&#227;o Carlos (UFSCAR)</td><td>				巴西</td></tr><tr><td>				801-1000</td><td>				维索萨联邦大学</td><td>				Universidade Federal de Vi&#231;osa (UFV)</td><td>				巴西</td></tr><tr><td>				801-1000</td><td>				巴拉那联邦大学</td><td>				Universidade Federal do Paraná - UFPR</td><td>				巴西</td></tr><tr><td>				801-1000</td><td>				伯南布哥联邦大学</td><td>				Universidade Federal de Pernambuco (UFPE)</td><td>				巴西</td></tr><tr><td>				801-1000</td><td>				联邦弗鲁米嫩塞大学</td><td>				Universidade Federal Fluminense</td><td>				巴西</td></tr><tr><td>				801-1000</td><td>				卡塔尼亚大学</td><td>				Catania University</td><td>				意大利</td></tr><tr><td>				801-1000</td><td>				费拉拉大学</td><td>				Universita' degli Studi di Ferrara</td><td>				意大利</td></tr><tr><td>				801-1000</td><td>				萨勒诺大学</td><td>				University of Salerno</td><td>				意大利</td></tr><tr><td>				801-1000</td><td>				乌迪内大学</td><td>				Università degli Studi di Udine</td><td>				意大利</td></tr><tr><td>				801-1000</td><td>				罗马第三大学</td><td>				Università degli studi Roma Tre</td><td>				意大利</td></tr><tr><td>				801-1000</td><td>				巴勒摩大学</td><td>				University of Palermo</td><td>				意大利</td></tr><tr><td>				801-1000</td><td>				锡根大学</td><td>				Universit&#228;t Siegen</td><td>				德国</td></tr><tr><td>				801-1000</td><td>				南特大学</td><td>				Université de Nantes</td><td>				法国</td></tr><tr><td>				801-1000</td><td>				普瓦捷大学</td><td>				Université de Poitiers</td><td>				法国</td></tr><tr><td>				801-1000</td><td>				雷恩第一大学</td><td>				Université de Rennes 1</td><td>				法国</td></tr><tr><td>				801-1000</td><td>				里昂第二大学</td><td>				Université Lumière Lyon 2</td><td>				法国</td></tr><tr><td>				801-1000</td><td>				保罗 - 瓦列里蒙彼利埃第三大学</td><td>				Universit Paul-Valery Montpellier 3</td><td>				法国</td></tr><tr><td>				801-1000</td><td>				图卢兹第一大学</td><td>				Université Toulouse 1 Capitole</td><td>				法国</td></tr><tr><td>				801-1000</td><td>				马来西亚沙捞越大学</td><td>				Universiti Malaysia Sarawak (UNIMAS)</td><td>				马来西亚</td></tr><tr><td>				801-1000</td><td>				国立能源大学</td><td>				Universiti Tenaga Nasional (UNITEN)</td><td>				马来西亚</td></tr><tr><td>				801-1000</td><td>				东姑阿都拉曼大学</td><td>				Universiti Tunku Abdul Rahman (UTAR)</td><td>				马来西亚</td></tr><tr><td>				801-1000</td><td>				阿肯色大学费耶特维尔分校</td><td>				University of Arkansas Fayetteville</td><td>				美国</td></tr><tr><td>				801-1000</td><td>				巴林大学</td><td>				University of Bahrain</td><td>				巴林</td></tr><tr><td>				801-1000</td><td>				巴里大学</td><td>				University of Bari</td><td>				意大利</td></tr><tr><td>				801-1000</td><td>				贝尔格莱德大学</td><td>				University of Belgrade</td><td>				塞尔维亚</td></tr><tr><td>				801-1000</td><td>				布莱顿大学</td><td>				University of Brighton</td><td>				英国</td></tr><tr><td>				801-1000</td><td>				布加勒斯特大学</td><td>				University of Bucharest</td><td>				罗马尼亚</td></tr><tr><td>				801-1000</td><td>				加尔各答大学</td><td>				University of Calcutta</td><td>				印度</td></tr><tr><td>				801-1000</td><td>				中央兰开夏大学</td><td>				University of Central Lancashire</td><td>				英国</td></tr><tr><td>				801-1000</td><td>				达卡大学</td><td>				University of Dhaka</td><td>				孟加拉国</td></tr><tr><td>				801-1000</td><td>				拉合尔工程技术大学</td><td>				University of Engineering & Technology (UET) Lahore</td><td>				巴基斯坦</td></tr><tr><td>				801-1000</td><td>				格但斯克大学</td><td>				UNIVERSITY OF GDANSK</td><td>				波兰</td></tr><tr><td>				801-1000</td><td>				库法大学</td><td>				University of Kufa</td><td>				伊拉克</td></tr><tr><td>				801-1000</td><td>				夸祖鲁 - 纳塔尔大学</td><td>				University of Kwazulu-Natal</td><td>				南非</td></tr><tr><td>				801-1000</td><td>				拉脱维亚大学</td><td>				University of Latvia</td><td>				拉脱维亚</td></tr><tr><td>				801-1000</td><td>				林肯大学</td><td>				University of Lincoln</td><td>				英国</td></tr><tr><td>				801-1000</td><td>				罗兹大学</td><td>				University of Lodz</td><td>				波兰</td></tr><tr><td>				801-1000</td><td>				马来西亚沙巴大学</td><td>				Universiti Malaysia Sabah (UMS)</td><td>				马来西亚</td></tr><tr><td>				801-1000</td><td>				密西西比大学</td><td>				University of Mississippi</td><td>				美国</td></tr><tr><td>				801-1000</td><td>				蒙大拿州密苏拉大学</td><td>				University of Montana Missoula</td><td>				美国</td></tr><tr><td>				801-1000</td><td>				孟买大学</td><td>				University of Mumbai</td><td>				印度</td></tr><tr><td>				801-1000</td><td>				澳大利亚新英格兰大学</td><td>				University of New England Australia</td><td>				澳大利亚</td></tr><tr><td>				801-1000</td><td>				新罕布什尔大学</td><td>				University of New Hampshire</td><td>				美国</td></tr><tr><td>				801-1000</td><td>				俄斯特拉发大学</td><td>				University of Ostrava</td><td>				捷克</td></tr><tr><td>				801-1000</td><td>				帕尔马大学</td><td>				University of Parma</td><td>				意大利</td></tr><tr><td>				801-1000</td><td>				佩拉德尼亚大学</td><td>				University of Peradeniya</td><td>				斯里兰卡</td></tr><tr><td>				801-1000</td><td>				索尔福德大学</td><td>				University of Salford</td><td>				英国</td></tr><tr><td>				801-1000</td><td>				圣地亚哥大学</td><td>				University of San Diego</td><td>				美国</td></tr><tr><td>				801-1000</td><td>				旧金山大学</td><td>				University of San Francisco</td><td>				美国</td></tr><tr><td>				801-1000</td><td>				圣托马斯大学</td><td>				University of Santo Tomas</td><td>				菲律宾</td></tr><tr><td>				801-1000</td><td>				西里西亚大学</td><td>				University of Silesia</td><td>				波兰</td></tr><tr><td>				801-1000</td><td>				太平洋大学</td><td>				University of the Pacific</td><td>				美国</td></tr><tr><td>				801-1000</td><td>				旁遮普大学</td><td>				University of the Punjab</td><td>				巴基斯坦</td></tr><tr><td>				801-1000</td><td>				西开普大学</td><td>				University of the Western Cape</td><td>				南非</td></tr><tr><td>				801-1000</td><td>				弗罗茨瓦夫大学</td><td>				University of Wroclaw</td><td>				波兰</td></tr><tr><td>				801-1000</td><td>				图卢兹第二大学</td><td>				Université de Toulouse II-Le Mirail</td><td>				法国</td></tr><tr><td>				801-1000</td><td>				犹他州立大学</td><td>				Utah State University</td><td>				美国</td></tr><tr><td>				801-1000</td><td>				韦洛尔理工学院</td><td>				Vellore Institute of Technology (VIT)</td><td>				印度</td></tr><tr><td>				801-1000</td><td>				维罗纳大学</td><td>				Verona University</td><td>				意大利</td></tr><tr><td>				801-1000</td><td>				河内国立大学</td><td>				Vietnam National University, Hanoi</td><td>				越南</td></tr><tr><td>				801-1000</td><td>				沃罗涅日国立大学</td><td>				Voronezh State University</td><td>				俄罗斯</td></tr><tr><td>				801-1000</td><td>				维陶塔斯马格努斯大学</td><td>				Vytautas Magnus University</td><td>				立陶宛</td></tr><tr><td>				801-1000</td><td>				华沙生命科学大学</td><td>				Warsaw University of Life Sciences – SGGW (WULS-SGGW)</td><td>				波兰</td></tr><tr><td>				801-1000</td><td>				弗罗茨瓦夫科技大学</td><td>				Wroclaw University of Science and Technology (WRUST)</td><td>				波兰</td></tr><tr><td>				801-1000</td><td>				武汉理工大学</td><td>				Wuhan University of Technology</td><td>				中国</td></tr><tr><td>				801-1000</td><td>				西安交通大学利物浦分校</td><td>				Xi'an Jiaotong Liverpool University</td><td>				中国</td></tr><tr><td>				801-1000</td><td>				韩国岭南大学</td><td>				Yeungnam University</td><td>				韩国</td></tr></tbody></table><p>	&#160;</p></div></div></div><a name="anchor6"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2></h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p><img src="http://img.xixik.net/custom/section/qs2020/xixik-a57c0fe04410f1a5.jpeg" /></p><p><img src="http://img.xixik.net/custom/section/qs2020/xixik-d1964e52aa4c1979.jpeg?imageView&amp;thumbnail=550x0" /></p></div></div></div></div><script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script><script type="text/javascript">        var value = '281';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script><div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/qs2020/" target="_self" title="2020年QS世界大学排名_世界大学排行榜">QS世界大学排行榜</a></div><ul style="width: 960px; margin: auto; overflow: hidden;"><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shicha/"
+                title="国际时差查询 - 世界各国主要城市和北京时差对照表">时差</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证更换新政策_过期了该怎么办？">中国旅行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangye/"
+                title="2017最新国民经济行业分类与代码（GB/4754-2017）,国民经济行业分类标准">国民经济行业分类与代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国总统_美国历任总统名单_美国总统简历生卒年份及所属党派">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chicun/"
+                title="服装尺寸对照表_男士服装尺寸对照表_中国女装尺寸对照表_美版服装尺码换算">服装尺寸对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country/"
+                title="全世界有多少个国家和地区？_世界上国家和地区一览表">全世界国家和地区</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-flag/"
+                title="世界各国国旗大全 - 世界各国国旗一览表,国旗图片下载">世界各国国旗大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/festival/"
+                title="节日大全_2020年法定节假日安排">节日大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/72hou/"
+                title="月令七十二候集解_二十四节气">月令七十二候集解</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-visa/"
+                title="赴美生子诚实签攻略_赴美生子诚实签的好处_赴美生子为什么要诚实签">赴美生子诚实签攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-spending/"
+                title="赴美生子价格_去美国生孩子多少钱_费用清单">赴美生子价格</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-baoxian/"
+                title="赴美生子保险_去美国生宝宝生育险_孕中险">赴美生子保险</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-hospital/"
+                title="赴美生子医院_洛杉矶医院_洛杉矶接待华人孕妇医院价目和详细情况一览表">赴美生子医院</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-doctor/"
+                title="赴美生子医生_洛杉矶医生_赴美生子华人医生_赴美生子医生介绍">赴美生子医生</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-living/"
+                title="赴美生子选择月子中心还是DIY_去美国生孩子选择月子中心还是DIY_赴美生子DIY攻略">月子中心还是DIY</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="美宝证件_美宝需要哪些证件（美国出生纸_中国旅行证_美国护照_社会安全号_出生纸三级认证）">美宝需要哪些证件？</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-passport-ds11/"
+                title="美宝美国护照申请更新_DS-11怎么填图文">美国护照申请</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_去美国生孩子费用预算清单2020">赴美生子要多少钱</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/university/"
+                title="中国大学名单_2019年全国高等学校名单（截至2019年6月15日）">中国大学名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/ranking/"
+                title="美国总统排名_美国总统历史排名_美国最伟大的总统排行榜">美国总统排行榜</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/size/"
+                title="服装尺寸对照表_裤子尺寸_男装尺寸_女装尺寸_裙子尺寸">服装尺寸</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-uk-time-zone/"
+                title="中英时差对照表,现在英国几点?中国和英国时差怎么算?现在英国时间是几点?">中英时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_去美国生孩子要多少钱？">赴美生子费用</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 最新中国护照免签国家一览2020">中国护照免签证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-passport/"
+                title="美国护照 - 美国护照上写的什么,美国护照免签证国家">美国护照</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/henley-passport-index/"
+                title="亨氏护照指数 - 亨氏护照受限制数2019">亨氏护照指数</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-process/"
+                title="赴美生子流程 - 干货！超详细的赴美生子流程攻略2019！">赴美生子流程</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-best/"
+                title="赴美生子机构哪家好？_合法的赴美生子机构">赴美生子机构哪家好</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-regret/"
+                title="2019生个美国孩子后悔了_后悔在美国生孩子_赴美生子利与弊">生个美国宝宝后悔了揭秘</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/visa/"
+                title="美国签证_美国签证DS-160表格在线填写_美国签证预约面谈_在线缴费">美国签证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/titanic/"
+                title="泰坦尼克号沉没的真相_历史真实故事_泰坦尼克号电影_嘻嘻网">泰坦尼克号</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-flight/"
+                title="赴美生子航班怎么选_赴美航班信息大全">赴美生子航班</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/exit-and-entry-premit/"
+                title="出入境通行证_一次性出入境通行证_中华人民共和国出入境通行证">出入境通行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-prosandcons/"
+                title="赴美生子利弊_赴美生子的优势和弊端_生美籍宝宝的好处和坏处">赴美生子好处和弊端</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-born/"
+                title="赴美产子_赴美生子_去美国生孩子">赴美产子</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/14th-amendment/"
+                title="美国宪法修正案第十四条">美国宪法修正案第14条</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/greatest/"
+                title="美国最伟大的总统_美国总统排行榜">美国最伟大的总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-states/13states/"
+                title="美国13个州_北美13个殖民地_美国建国时的13个州">美国13个州</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qs2020/"
+                title="2020年QS世界大学排名_世界大学排行榜">QS世界大学排行榜</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/born-usbaby/"
+                title="去美国生孩子_去美国生孩子多少钱">去美国生孩子</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/amendments/"
+                title="美国宪法修正案_Amendments to the Constitution">美国宪法修正案</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/the-world-university-rankings/"
+                title="2020年泰晤士报世界大学排名_2020年THE世界大学排名">泰晤士世界大学排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ssn/"
+                title="美国社安号SSN_美国社安卡_美国社会安全号码">社会安全号码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/declaration-of-independence/"
+                title="《美国独立宣言》（The Declaration of Independence）">独立宣言</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/birth-certificate/"
+                title="美国出生纸（Birth Certificate）_美国出生纸三级认证">美国出生纸</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-living-cost/"
+                title="美国月子中心费用_赴美生子费用">美国月子中心费用</a></li></ul><div class="lindBox"><div class="btnGray"><div class="btnText"><a target="_self" title="2020年QS世界大学排名_世界大学排行榜" href="http://news.xixik.com/word/281/">另存为<br />                    Word格式</a></div></div></div><div class="lindBox" style="text-align: center;"><img src="http://news.xixik.com/qrcode/281/" alt="扫码手机上继续看" /><br /><br /><strong>用微信或者支付宝扫码在手机上继续观看<br />            可以保存收藏，也扫码后可以分享给好友
+        </strong></div><hr style="height: 1px; border: none; border-top: 1px dashed #999;" /><script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script><!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.--></body></html>

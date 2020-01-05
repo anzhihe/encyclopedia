@@ -1,0 +1,365 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>服装尺寸对照表_男士服装尺寸对照表_中国女装尺寸对照表_美版服装尺码换算</title><link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" /><meta name="description" content="面对市场上各式各样的衣服裤子，错综复杂的尺码，你都知道自己该穿什么样的尺码吗？你知道上面表示的是什么意见吗？面对不同的人身高，体宽等要求，需要寻找适合自己的服装尺寸。" /><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/chicun/"><meta http-equiv="Cache-Control" content="no-transform" /><meta http-equiv="Cache-Control" content="no-siteapp" /><base target="_blank" /><script>        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "chicun/";
+        }
+
+
+    </script><style>        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+            overflow:auto;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style></head><body><a name="top4"></a><div class="topBox" name="top"><div class="topMain"><div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div><div id="icoPhone"></div><div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div><div id="icoWechat"></div><div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a></div><div id="icoSina"></div><div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a></div><div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div><div class="topRight"></div></div></div><div id="showqrCode"><div><span></span></div><img src="" /><div><span></span></div></div><script type="text/javascript">        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script><div class="body"><div class="lindBox" style="position: relative;"><img src="http://img.xixik.net/custom/topic/001/chicun.jpg" alt="服装尺寸对照表_男士服装尺寸对照表_中国女装尺寸对照表_美版服装尺码换算" /><div class="title"><h1>服装尺寸对照表_男士服装尺寸对照表_中国女装尺寸对照表_美版服装尺码换算</h1></div></div><div class=" custom_border lindBox"><div class="special_content"><div class="content_text"><div class="content_daodu"></div><h2>服装尺寸对照表</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.-->                    女性服装尺寸对照表，女装服装尺寸对照表，标准中美服装尺寸对照表，男士服装尺寸对照表，男士西服尺寸对照表，女士裙子尺寸对照表，欧美服装尺寸转换。
+                </div></div></div><div class="lindBox" style="overflow: hidden;"><div class="gg1"><a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a></div><div class="guide"><div class="guideBorder" id="guideBorder"><div class="guideTitle">导读（目录）</div><ul id="guideDisplay"><li>·<a title="怎样识别服装的“号”和“型”" href="#anchor1" target="_self"> 怎样识别服装的“号”和“型”</a></li><li>·<a title="怎样识别国家统一服装号型" href="#anchor2" target="_self"> 怎样识别国家统一服装号型</a></li><li>·<a title="服装尺码对照表" href="#anchor3" target="_self"> 服装尺码对照表</a></li><li>·<a title="服装上符号的含义" href="#anchor4" target="_self"> 服装上符号的含义</a></li><li>·<a title="国际服装尺寸对照表" href="#anchor5" target="_self"> 国际服装尺寸对照表</a></li><li>·<a title="男士T恤尺码对照表" href="#anchor6" target="_self"> 男士T恤尺码对照表</a></li></ul><div class="guideOpen">展开&darr;</div></div></div><div class="guideFllow"><div class="guideFllowBorder"><div class="guideFllowTitle">导读（目录）</div><ul id="guideFllowDisplay"><li>·<a title="怎样识别服装的“号”和“型”" href="#anchor1" target="_self"> 怎样识别服装的“号”和“型”</a></li><li>·<a title="怎样识别国家统一服装号型" href="#anchor2" target="_self"> 怎样识别国家统一服装号型</a></li><li>·<a title="服装尺码对照表" href="#anchor3" target="_self"> 服装尺码对照表</a></li><li>·<a title="服装上符号的含义" href="#anchor4" target="_self"> 服装上符号的含义</a></li><li>·<a title="国际服装尺寸对照表" href="#anchor5" target="_self"> 国际服装尺寸对照表</a></li><li>·<a title="男士T恤尺码对照表" href="#anchor6" target="_self"> 男士T恤尺码对照表</a></li></ul><div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div></div></div><div class="gg2"><a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a></div></div><a name="anchor1"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        怎样识别服装的“号”和“型”</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p>	全国服装的统一号型所说的“号”，是指人身高的厘米数，它影响到的部位是衣长、袖长、裤长；所说的“型”，指的是人的体围厘米数，它影响的部位是腰围、臀围。一个人只能使用同一个“号”，而不能使用同一个“型”，因为上衣和裤子的“型”必须分开使用。</p><p>	例如你身高170厘米，基本胸围为88厘米，基本腰围为73厘米，那么就适合穿170－88号的上衣，170－73型的裤子。 “（号）／型、（体型代号）” 其中：“号”表示身高，“型”表示净体胸围或净体腰围：“体型代号”表示胸围与腰围尺寸之差，以Y、A、B、C表示。</p><div class='right_gg'><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- 336x280-114-left --><ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-3849899595029685"
+     data-ad-slot="9973132210"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><p>	A正常体 　　B偏胖体 　　C肥胖体 　　Y偏瘦体 例如：170／88A、175／96B等。</p><p>	服装新标准的实施，可使我国95％左右的消费者能买到适体服装。消费者只需记住自己的身高、胸围的体型，便可解决上、下装配套的问题。</p></div></div></div><a name="anchor2"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        怎样识别国家统一服装号型</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	从1992年4月1日起，全国开始实施统一的<strong>GB1335－1991《服装号型》国家标准</strong>，它是由纺织工业部制定、国家技术监督局批准发布的，为此，原来的GB1335－1981服装标准即行废止。 新标准全套共有男子、女子、儿童3项独立标准，其中男子和女子两项属于强制执行标准，儿童作为推荐性标准。新标准是以身高、净体胸围、净体腰围以及腰落差作为号型命名的依据，对每一个号型列出了制作服装所必须的10个关键控制部位尺寸。</p></div></div></div><a name="anchor3"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        服装尺码对照表</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p>	29码=2.2尺腰=73.5CM</p><p>	30码=2.3尺腰=77CM</p><p>	31码=2.4尺腰=80CM</p><p>	32码=2.5尺腰=83.5CM</p><p>	33码=2.6尺腰=87CM</p><p>	34码=2.7尺腰=90CM</p><p>	36码=2.8尺腰</p><p>	38码=2.9尺腰</p><p>	40码=3.0尺腰</p><p><strong>1、上装尺码为：</strong> 01码表示代码为：“XXS” 02码表示代码为：“XS” 03码表示代码为：“S” 04码表示代码为：“M” 05码表示代码为：“L” 06码表示代码为：“XL” 07码表示代码为：“XXL”</p><p><strong>2、茄克装尺码为：</strong> 70表示代码为：“48”（M） 71表示代码为：“50”（L） 72表示代码为：“52”（XL） 73表示代码为：“54”（XXL）</p><p><strong>3、裤装尺码为： </strong>26代表腰围为：“1.9尺” 27代表腰围为：“2.0尺” 28代表腰围为：“2.1尺” 29代表腰围为：“2.2尺” 30代表腰围为：“2.3尺” 31代表腰围为：“2.4尺” 32代表腰围为：“2.5尺” 33代表腰围为：“2.6尺” 34代表腰围为：“2.7尺” 36代表腰围为：“2.8尺” 38代表腰围为：“2.9尺” 40代表腰围为：“3.0尺” 42代表腰围为：“3.1尺” 44代表腰围为：“3.2尺” 50代表腰围为：“3.4尺” 52代表腰围为：“3.5尺” 54代表腰围为：“3.6尺”</p><p>	换算成CM就是(尺+7)*2.54=? ，比如你的腰围2尺，即（2尺+7=27）*2.54=68.58CM</p><p><strong>4、西服装尺码为：</strong> 80表示代码为：“145” 81表示代码为：“150” 82表示代码为：“155” 83表示代码为：“160” 84表示代码为：“165” 85表示代码为：“170” 86表示代码为：“175” 87表示代码为：“180” 88表示代码为：“185” 5、衬衣装尺码为： 60表示代码为：“38” 61表示代码为：“39” 62表示代码为：“40” 63表示代码为：“41” 64表示代码为：“42” 65表示代码为：“43” 66表示代码为：“44” 67表示代码为：“45” 68表示代码为：“46”</p></div></div></div><a name="anchor4"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        服装上符号的含义</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p>	每件衣服的上部均有标记或符号，那么这些符合各表示什么含义呢？</p><p>	（1）“L”表示大号，“m”表示中号，“s”表示小号，“xi”表示特大号，还有“xxi”也表示特大号。</p><p>	（2）“1”表示适合身高1.5米的人穿用；“2”适合身高1.55米的人的穿用，以此类推，“3”代表1.6米，“4”代表1.65米， “5”代表1.7米，“6”代表1.7米，“7”代表1.8米，“8”代表85米。</p><p>	（3）“Y”表示胸围与腰围相差16厘米，“YA”表示相差14厘米、“A”表明相差12厘米、“AB”表明相差10厘米，“B”表明相差8厘米、“BE”表明相差4厘米，“E”表明相差无几。</p></div></div></div><a name="anchor5"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        国际服装尺寸对照表</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p>	服装上的S，M，L，XL，XXL是一种表示服装大小型号的方式。S为小号，M为中号，L为大号，XL为特大号，XXL表示特特大号,其尺寸表范围根据地区和生产厂家的设计标准而有所区别。</p><p>	由于衣服的材料不同，虽然同是标注XL号，但对应的身高、衣服的大小也会有明显的变化。</p><p>	部位 S M L XL XXL</p><p>	胸部 76 82 94 96 100</p><p>	身高 155 160 170 175 180</p><p>	袖长 53 54 56 58 60</p></div></div></div><a name="anchor6"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        男士T恤尺码对照表</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p><strong>男士T恤尺码对照表上的一些尺码常识</strong></p><p>	上装尺码为： 01码表示代码为：“XXS” 02码表示代码为：“XS” 03码表示代码为：“S” 04码表示代码为：“M” 05码表示代码为：“L” 06码表示代码为：“XL” 07码表示代码为：“XXL”</p><p>	S是"small"的缩写，表示小码 M是"middle"的缩写，表示中码 L是"large"的缩写，表示大码 X是"excess"的缩写，表示超出额外的意思。</p><p><strong>怎样识别男士T恤尺码对照表里的“号”和“型”</strong></p><p>	全国服装的统一号型所说的“号”，是指人身高的厘米数，它影响到的部位是衣长、袖长、裤长；所说的“型”，指的是人的体围厘米数，它影响的部位是腰围、臀 围。一个人只能使用同一个“号”，而不能使用同一个“型”，因为上衣和裤子的“型”必须分开使用。例如你身高170厘米，基本胸围为88厘米，基本腰围为 73厘米，那么就适合穿170-88号的上衣，170-73型的裤子。</p></div></div></div></div><script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script><script type="text/javascript">        var value = '45';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script><div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/chicun/" target="_self" title="服装尺寸对照表_男士服装尺寸对照表_中国女装尺寸对照表_美版服装尺码换算">服装尺寸对照表</a></div><ul style="width: 960px; margin: auto; overflow: hidden;"><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shicha/"
+                title="国际时差查询 - 世界各国主要城市和北京时差对照表">时差</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证更换新政策_过期了该怎么办？">中国旅行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangye/"
+                title="2017最新国民经济行业分类与代码（GB/4754-2017）,国民经济行业分类标准">国民经济行业分类与代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国总统_美国历任总统名单_美国总统简历生卒年份及所属党派">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chicun/"
+                title="服装尺寸对照表_男士服装尺寸对照表_中国女装尺寸对照表_美版服装尺码换算">服装尺寸对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country/"
+                title="全世界有多少个国家和地区？_世界上国家和地区一览表">全世界国家和地区</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-flag/"
+                title="世界各国国旗大全 - 世界各国国旗一览表,国旗图片下载">世界各国国旗大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/festival/"
+                title="节日大全_2020年法定节假日安排">节日大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/72hou/"
+                title="月令七十二候集解_二十四节气">月令七十二候集解</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-visa/"
+                title="赴美生子诚实签攻略_赴美生子诚实签的好处_赴美生子为什么要诚实签">赴美生子诚实签攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-spending/"
+                title="赴美生子价格_去美国生孩子多少钱_费用清单">赴美生子价格</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-baoxian/"
+                title="赴美生子保险_去美国生宝宝生育险_孕中险">赴美生子保险</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-hospital/"
+                title="赴美生子医院_洛杉矶医院_洛杉矶接待华人孕妇医院价目和详细情况一览表">赴美生子医院</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-doctor/"
+                title="赴美生子医生_洛杉矶医生_赴美生子华人医生_赴美生子医生介绍">赴美生子医生</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-living/"
+                title="赴美生子选择月子中心还是DIY_去美国生孩子选择月子中心还是DIY_赴美生子DIY攻略">月子中心还是DIY</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="美宝证件_美宝需要哪些证件（美国出生纸_中国旅行证_美国护照_社会安全号_出生纸三级认证）">美宝需要哪些证件？</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-passport-ds11/"
+                title="美宝美国护照申请更新_DS-11怎么填图文">美国护照申请</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_去美国生孩子费用预算清单2020">赴美生子要多少钱</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/university/"
+                title="中国大学名单_2019年全国高等学校名单（截至2019年6月15日）">中国大学名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/ranking/"
+                title="美国总统排名_美国总统历史排名_美国最伟大的总统排行榜">美国总统排行榜</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/size/"
+                title="服装尺寸对照表_裤子尺寸_男装尺寸_女装尺寸_裙子尺寸">服装尺寸</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-uk-time-zone/"
+                title="中英时差对照表,现在英国几点?中国和英国时差怎么算?现在英国时间是几点?">中英时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_去美国生孩子要多少钱？">赴美生子费用</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 最新中国护照免签国家一览2020">中国护照免签证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-passport/"
+                title="美国护照 - 美国护照上写的什么,美国护照免签证国家">美国护照</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/henley-passport-index/"
+                title="亨氏护照指数 - 亨氏护照受限制数2019">亨氏护照指数</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-process/"
+                title="赴美生子流程 - 干货！超详细的赴美生子流程攻略2019！">赴美生子流程</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-best/"
+                title="赴美生子机构哪家好？_合法的赴美生子机构">赴美生子机构哪家好</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-regret/"
+                title="2019生个美国孩子后悔了_后悔在美国生孩子_赴美生子利与弊">生个美国宝宝后悔了揭秘</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/visa/"
+                title="美国签证_美国签证DS-160表格在线填写_美国签证预约面谈_在线缴费">美国签证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/titanic/"
+                title="泰坦尼克号沉没的真相_历史真实故事_泰坦尼克号电影_嘻嘻网">泰坦尼克号</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-flight/"
+                title="赴美生子航班怎么选_赴美航班信息大全">赴美生子航班</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/exit-and-entry-premit/"
+                title="出入境通行证_一次性出入境通行证_中华人民共和国出入境通行证">出入境通行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-prosandcons/"
+                title="赴美生子利弊_赴美生子的优势和弊端_生美籍宝宝的好处和坏处">赴美生子好处和弊端</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-born/"
+                title="赴美产子_赴美生子_去美国生孩子">赴美产子</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/14th-amendment/"
+                title="美国宪法修正案第十四条">美国宪法修正案第14条</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/greatest/"
+                title="美国最伟大的总统_美国总统排行榜">美国最伟大的总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-states/13states/"
+                title="美国13个州_北美13个殖民地_美国建国时的13个州">美国13个州</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qs2020/"
+                title="2020年QS世界大学排名_世界大学排行榜">QS世界大学排行榜</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/born-usbaby/"
+                title="去美国生孩子_去美国生孩子多少钱">去美国生孩子</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/amendments/"
+                title="美国宪法修正案_Amendments to the Constitution">美国宪法修正案</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/the-world-university-rankings/"
+                title="2020年泰晤士报世界大学排名_2020年THE世界大学排名">泰晤士世界大学排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ssn/"
+                title="美国社安号SSN_美国社安卡_美国社会安全号码">社会安全号码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/declaration-of-independence/"
+                title="《美国独立宣言》（The Declaration of Independence）">独立宣言</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/birth-certificate/"
+                title="美国出生纸（Birth Certificate）_美国出生纸三级认证">美国出生纸</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-living-cost/"
+                title="美国月子中心费用_赴美生子费用">美国月子中心费用</a></li></ul><div class="lindBox"><div class="btnGray"><div class="btnText"><a target="_self" title="服装尺寸对照表_男士服装尺寸对照表_中国女装尺寸对照表_美版服装尺码换算" href="http://news.xixik.com/word/45/">另存为<br />                    Word格式</a></div></div></div><div class="lindBox" style="text-align: center;"><img src="http://news.xixik.com/qrcode/45/" alt="扫码手机上继续看" /><br /><br /><strong>用微信或者支付宝扫码在手机上继续观看<br />            可以保存收藏，也扫码后可以分享给好友
+        </strong></div><hr style="height: 1px; border: none; border-top: 1px dashed #999;" /><script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script><!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.--></body></html>

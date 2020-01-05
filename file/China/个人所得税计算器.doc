@@ -1,0 +1,565 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器</title><link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" /><meta name="description" content="2018最新个税计算器,个人所得税计算器,2018年个人所得税税率表,2011年9月1日起个税起征点为3500元,教你个人所得税计算公式.2018新个税法通过起征点每月5000元，2018年10月1日起实施。" /><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/ppt/"><meta http-equiv="Cache-Control" content="no-transform" /><meta http-equiv="Cache-Control" content="no-siteapp" /><base target="_blank" /><script>        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "ppt/";
+        }
+
+
+    </script><style>        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+            overflow:auto;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style></head><body><a name="top4"></a><div class="topBox" name="top"><div class="topMain"><div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div><div id="icoPhone"></div><div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div><div id="icoWechat"></div><div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a></div><div id="icoSina"></div><div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a></div><div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div><div class="topRight"></div></div></div><div id="showqrCode"><div><span></span></div><img src="" /><div><span></span></div></div><script type="text/javascript">        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script><div class="body"><div class="lindBox" style="position: relative;"><img src="http://img.xixik.net/custom/topic/001/ppt.jpg" alt="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器" /><div class="title"><h1>个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器</h1></div></div><div class=" custom_border lindBox"><div class="special_content"><div class="content_text"><div class="content_daodu"></div><h2>个人所得税计算器</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.-->                    在现代社会，税已经成为我们日常生活的一部分且不可避免。正如美国国父之一富兰克林所说的那样：“世界上只有两件事是不可避免的，那就是税收和死亡。”<a href="http://www.xixik.com/content/f90630755b955924">人人都是纳税人，不要以为没缴纳个人所得税就不是</a>。<a href="http://114.xixik.com/ppt/" style="color#000;" title="个人所得税计算器">个税计算器</a>，2018年个人所得税税率表，2011年9月1日起个税起征点为3500元。
+                </div></div></div><div class="lindBox" style="overflow: hidden;"><div class="gg1"><a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a></div><div class="guide"><div class="guideBorder" id="guideBorder"><div class="guideTitle">导读（目录）</div><ul id="guideDisplay"><li>·<a title="个税计算器" href="#anchor1" target="_self"> 个税计算器</a></li><li>·<a title="什么是个人所得税" href="#anchor2" target="_self"> 什么是个人所得税</a></li><li>·<a title="个人所得税税率表" href="#anchor3" target="_self"> 个人所得税税率表</a></li><li>·<a title="个人所得税征税对象" href="#anchor4" target="_self"> 个人所得税征税对象</a></li><li>·<a title="中国历年个人所得税收入" href="#anchor5" target="_self"> 中国历年个人所得税收入</a></li><li>·<a title="个税改革大事记" href="#anchor6" target="_self"> 个税改革大事记</a></li><li>·<a title="中华人民共和国个人所得税法" href="#anchor7" target="_self"> 中华人民共和国个人所得税法</a></li><li>·<a title="全国税务系统网站链接" href="#anchor8" target="_self"> 全国税务系统网站链接</a></li></ul><div class="guideOpen">展开&darr;</div></div></div><div class="guideFllow"><div class="guideFllowBorder"><div class="guideFllowTitle">导读（目录）</div><ul id="guideFllowDisplay"><li>·<a title="个税计算器" href="#anchor1" target="_self"> 个税计算器</a></li><li>·<a title="什么是个人所得税" href="#anchor2" target="_self"> 什么是个人所得税</a></li><li>·<a title="个人所得税税率表" href="#anchor3" target="_self"> 个人所得税税率表</a></li><li>·<a title="个人所得税征税对象" href="#anchor4" target="_self"> 个人所得税征税对象</a></li><li>·<a title="中国历年个人所得税收入" href="#anchor5" target="_self"> 中国历年个人所得税收入</a></li><li>·<a title="个税改革大事记" href="#anchor6" target="_self"> 个税改革大事记</a></li><li>·<a title="中华人民共和国个人所得税法" href="#anchor7" target="_self"> 中华人民共和国个人所得税法</a></li><li>·<a title="全国税务系统网站链接" href="#anchor8" target="_self"> 全国税务系统网站链接</a></li></ul><div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div></div></div><div class="gg2"><a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a></div></div><a name="anchor1"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        个税计算器</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'>
+
+
+
+<style type="text/css">
+.btn_red{ 
+ 	line-height:45px;
+	height:45px;
+	width:100px;
+	color:#ffffff;
+	background-color:#ededed;
+	font-size:18px;
+	font-weight:bold;
+	font-family:"\5FAE\8F6F\96C5\9ED1","宋体","Arial Narrow";
+	background:-webkit-gradient(linear, left top, left bottom, color-start(0.05, #f24537), color-stop(1, #c62d1f));
+	background:-moz-linear-gradient(top, #f24537 5%, #c62d1f 100%);
+	background:-o-linear-gradient(top, #f24537 5%, #c62d1f 100%);
+	background:-ms-linear-gradient(top, #f24537 5%, #c62d1f 100%);
+	background:linear-gradient(to bottom, #f24537 5%, #c62d1f 100%);
+	background:-webkit-linear-gradient(top, #f24537 5%, #c62d1f 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f24537', endColorstr='#c62d1f',GradientType=0);
+	border:1px solid #d02718;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-moz-box-shadow: inset 0px 1px 0px 0px #f5978e;
+	-webkit-box-shadow: inset 0px 1px 0px 0px #f5978e;
+	box-shadow: inset 0px 1px 0px 0px #f5978e;
+	text-align:center;
+	display:inline-block;
+	text-decoration:none;
+}
+.btn_red:hover {
+	background-color:#f5f5f5;
+	background:-webkit-gradient(linear, left top, left bottom, color-start(0.05, #c62d1f), color-stop(1, #f24537));
+	background:-moz-linear-gradient(top, #c62d1f 5%, #f24537 100%);
+	background:-o-linear-gradient(top, #c62d1f 5%, #f24537 100%);
+	background:-ms-linear-gradient(top, #c62d1f 5%, #f24537 100%);
+	background:linear-gradient(to bottom, #c62d1f 5%, #f24537 100%);
+	background:-webkit-linear-gradient(top, #c62d1f 5%, #f24537 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#c62d1f', endColorstr='#f24537',GradientType=0);
+	cursor: pointer;
+
+}
+
+.btn_yellow{ 
+ 	line-height:35px;
+	height:35px;
+	width:90px;
+	color:#333333;
+	background-color:#ededed;
+	font-size:15px;
+	font-weight:bold;
+	font-family:Arial;
+	background:-webkit-gradient(linear, left top, left bottom, color-start(0.05, #ffec64), color-stop(1, #ffab23));
+	background:-moz-linear-gradient(top, #ffec64 5%, #ffab23 100%);
+	background:-o-linear-gradient(top, #ffec64 5%, #ffab23 100%);
+	background:-ms-linear-gradient(top, #ffec64 5%, #ffab23 100%);
+	background:linear-gradient(to bottom, #ffec64 5%, #ffab23 100%);
+	background:-webkit-linear-gradient(top, #ffec64 5%, #ffab23 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffec64', endColorstr='#ffab23',GradientType=0);
+	border:1px solid #ffaa22;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-moz-box-shadow: inset 0px 1px 0px 0px #fff6af;
+	-webkit-box-shadow: inset 0px 1px 0px 0px #fff6af;
+	box-shadow: inset 0px 1px 0px 0px #fff6af;
+	text-align:center;
+	display:inline-block;
+	text-decoration:none;
+}
+.btn_yellow:hover {
+	background-color:#f5f5f5;
+	background:-webkit-gradient(linear, left top, left bottom, color-start(0.05, #ffab23), color-stop(1, #ffec64));
+	background:-moz-linear-gradient(top, #ffab23 5%, #ffec64 100%);
+	background:-o-linear-gradient(top, #ffab23 5%, #ffec64 100%);
+	background:-ms-linear-gradient(top, #ffab23 5%, #ffec64 100%);
+	background:linear-gradient(to bottom, #ffab23 5%, #ffec64 100%);
+	background:-webkit-linear-gradient(top, #ffab23 5%, #ffec64 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffab23', endColorstr='#ffec64',GradientType=0);
+	cursor: pointer;
+}
+</style>
+
+
+<SCRIPT language=JavaScript><!--
+function personal_income_tax(theform)
+{
+  var checkOK = "0123456789";
+  var checkStr = theform.money.value;
+  var allValid = true;
+  var decPoints = 0;
+  var allNum = "";
+  for (i = 0;  i < checkStr.length;  i++)
+  {
+    ch = checkStr.charAt(i);
+    for (j = 0;  j < checkOK.length;  j++)
+      if (ch == checkOK.charAt(j))
+        break;
+    if (j == checkOK.length)
+    {
+      allValid = false;
+      break;
+    }
+    if (ch != ",")
+      allNum += ch;
+  }
+  if (!allValid)
+  {
+    alert("月收入中只能输入数字。");
+   
+    return (false);
+  }
+  var checkOK = "0123456789";
+  var checkStr = theform.KCmoney.value;
+  var allValid = true;
+  var decPoints = 0;
+  var allNum = "";
+  for (i = 0;  i < checkStr.length;  i++)
+  {
+    ch = checkStr.charAt(i);
+    for (j = 0;  j < checkOK.length;  j++)
+      if (ch == checkOK.charAt(j))
+        break;
+    if (j == checkOK.length)
+    {
+      allValid = false;
+      break;
+    }
+    if (ch != ",")
+      allNum += ch;
+  }
+  if (!allValid)
+  {
+    alert("起征额中只能输入数字。");
+    return (false);
+  }
+var basicm,totalmoney,cha,output;
+totalmoney=document.calculate.money.value;
+basicm=document.calculate.KCmoney.value;
+cha=(totalmoney-basicm);
+if (cha<=0) {output=0;}
+if (cha>0&&cha<=1500) {output=cha*0.03;}
+if (cha>1500&&cha<=4500) {output=cha*0.1-105;}
+if (cha>4500&&cha<=9000) {output=cha*0.2-555;}
+if (cha>9000&&cha<=35000) {output=cha*0.25-1005;}
+if (cha>35000&&cha<=55000) {output=cha*0.3-2755;}
+if (cha>55000&&cha<=80000) {output=cha*0.35-5505;}
+if (cha>80000&&cha>80000) {output=cha*0.45-13505;}
+
+document.getElementById ('output').innerHTML = Math.floor (output);
+
+
+return (false);
+}
+//--></SCRIPT>
+
+
+<table border="1" bordercolor="#cccccc" cellpadding="1" cellspacing="1" style="font-family:arial; text-align: center; margin: auto; width:40%">
+<form name=calculate onsubmit="return personal_income_tax(this)">
+<tbody>
+<tr align=center bgColor=#b61418>
+<td align=center height=40><a href="http://114.xixik.com/ppt/" style="color:#fff; font-size:18px; text-decoration: none;" title="个人所得税计算器,个人所得税税率表"><strong>个人所得税计算器</strong></a></td></tr>
+<tr>
+<td style="height:40px; background:#fbebdd; text-align:center;"><span class="fb">请输入月收入金额：<input size=18 name=money> 元</span></td></tr>
+<tr>
+<td style="height:60px; background:#fbebdd; text-align:center;"><span class="fb">个人所得税起征点：<input size=18 value=3500 name=KCmoney disabled="true" > 元</span> <br />注：<a href="http://www.xixik.com/content/72939e93b7dd59b9" title="个税起征点为3500元">2011年9月1日起，个人所得税的起征点调整为3500元。</a></span></td></tr>
+<tr>
+<td style="height:40px; background:#fbebdd; text-align:center;">您应该缴纳的个人所得税为：<span style="font-size:30px; font-weight:bold; color:#c30;" id="output"></span> 元</span> </td></tr>
+
+<tr>
+<td style="height:40px; background:#ffffff; text-align:center;">
+
+<input class="btn_yellow" type=reset value="重新输入">
+<input class="btn_red" type=submit value="计算税金" name=sub>
+<input class="btn_yellow" type="button" value="综合计算器" onclick="window.open('http://114.xixik.com/tax/')">
+</td>
+</tr>
+</form>
+</table>
+
+
+<p style="TEXT-INDENT: 2em">2018年个人所得税计算公式：应缴纳的个税＝[（应发工资－四金或三金）－3500]×税率－速算扣除数（见<a href="http://114.xixik.com/table-of-rates/" class="cc30" title="个人所得税税率表">个人所得税税率表</a>）；<a class="cc30 fb f14px" href="http://114.xixik.com/annual-bonus/">年终奖缴税计算方法</a><br /><span>纳税范围：</span>其它各种名目奖金，如半年奖、季度奖、加班奖、先进奖、考勤奖等，一律与当月工资、薪金收入合并，按税法规定缴纳个人所得税。</p>
+
+
+</div></div></div><a name="anchor2"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        什么是个人所得税</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT: 2em"><strong>什么是个人所得税：</strong> 个人所得税是对个人（自然人）取得的各项所得征收的一种所得税。个人所得税1799年首创于英国，是指对个人所得额征收的一种税。随着经济的发展，该税种所占地位越来越显著。而在中国现阶段，对个人所得税的征管并不理想。对工资薪金外个人收入难以监控，对偷税处罚不力、部门协调工作不够等等，促成个人所得税征管不力的现状。截止2018年6月，中国大陆的个人所得税起征点为3500元。</p><p style="TEXT-INDENT: 2em">	2018年8月31日，全国人大通过新个税法，新起征点从现行每月的3500元提高到每月5000元，2018年10月1日起实施。新个税法规定：居民个人的综合所得，以每一纳税年度的收入额减除费用六万元以及专项扣除、专项附加扣除和依法确定的其他扣除后的余额，为应纳税所得额。减税向中低收入倾斜。新个税法规定，历经此次修法，个税的部分税率级距进一步优化调整，扩大3%、10%、20%三档低税率的级距，缩小25%税率的级距，30%、35%、45%三档较高税率级距不变。今后计算个税，在扣除基本减除费用标准和&ldquo;三险一金&rdquo;等专项扣除外，还增加了专项附加扣除项目。新个税法规定：专项附加扣除，包括子女教育、继续教育、大病医疗、住房贷款利息或者住房租金、赡养老人等支出，具体范围、标准和实施步骤由国务院确定，并报全国人大常委会备案。</p><p style="TEXT-INDENT: 2em">	新个税法于2019年1月1日起施行，2018年10月1日起施行最新起征点和税率。新个税法规定，自2018年10月1日至2018年12月31日，纳税人的工资、薪金所得，先行以每月收入额减除费用五千元以及专项扣除和依法确定的其他扣除后的余额为应纳税所得额，依照个人所得税税率表（综合所得适用）按月换算后计算缴纳税款，并不再扣除附加减除费用。????（人民日报）阅读延伸：<a class="cc30" href="http://114.xixik.com/stamp-duty/" style="text-indent: 2em;">&rarr;印花税税率表</a></p><p style="text-indent: 2em; text-align: center;"><img src="http://img.xixik.net/custom/section/ppt/xixik-63e2385f9c8785e0.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT: 2em"><a class="fb c000 unLine" href="http://114.xixik.com/tax-scope/">个人所得税征收范围</a>： 包括工资薪金所得；个体工商户生产、经营所得；对企事业单位的承包经营、承租经营所得；劳务报酬所得；稿酬所得；特许权使用费所得；利息、股息、红利所得；财产租赁所得；财产转让所得；偶然所得；经国务院财政部门确定征税其他所得。<a href="http://114.xixik.com/tax-scope/" title="个人所得税征收范围">更多&gt;&gt;</a>、<a href="http://www.xixik.com/content/8a20c333002a35aa" title="国家税务总局下发文件 房屋转租收入需缴纳个税">房屋转租收入需缴纳个税</a>、<a href="http://www.xixik.com/content/a08f56790e68db8a,1" title="福利货币化进工资纳个人所得税 到手收入要减少">福利货币化要纳税</a></p><p style="TEXT-INDENT: 2em"><span class="fb">相关：</span><a class="cc30 fb" href="http://114.xixik.com/shebao-tax/" title="社保计算器,社保计算器">社保个税计算器</a>、<a class="cc30 fb" href="http://114.xixik.com/tax-law/" title="中华人民共和国个人所得税法">个人所得税法</a>、<a class="cc30 fb f14px" href="http://114.xixik.com/table-of-rates/" title="个人所得税税率表">个税税率表</a>、<a class="cc30 fb f14px" href="http://www.xixik.com/content/9646514b331343be" title="我国现今究竟有多少个税种？ 没有部门说得清楚">中国税种</a>、<a class="cc30 fb" href="http://114.xixik.com/labour-law/" title="新劳动法,中华人民共和国劳动合同法">劳动法</a></p><p style="TEXT-INDENT: 2em"><a href="http://114.xixik.com/files/年终奖个人所得税计算器_嘻嘻网.rar">&rarr;年终奖个税计算器</a>（Excel格式，用<a href="http://www.xunlei.com/" title="迅雷下载">迅雷</a>下载）&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://114.xixik.com/tax/">&rarr;综合个税计算器</a>（功能更强大）</p></div></div></div><a name="anchor3"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        个人所得税税率表</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="text-indent: 2em"><strong>（一）工资、薪金所得适用（2018年10月起施行）</strong></p><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="font-family:arial; text-align: center; margin: auto; width:90%"><thead><tr><th>				级数</th><th>				应纳税所得额（含税）</th><th>				应纳税所得额（不含税）</th><th>				税率（%）</th><th>				速算扣除数</th></tr></thead><tbody><tr><td>				1</td><td>				不超过30,000元的部分</td><td>				不超过28,500元的部分</td><td>				5</td><td>				0</td></tr><tr><td>				2</td><td>				超过30,000元到<br />				90,000元的部分</td><td>				超过28,500元至<br />				82,500元的部分</td><td>				10</td><td>				1500</td></tr><tr><td>				3</td><td>				超过90,000元至<br />				300,000元的部分</td><td>				超过82,500元至<br />				250,500元的部分</td><td>				20</td><td>				10,500</td></tr><tr><td>				4</td><td>				超过300,000元至<br />				500,000元的部分</td><td>				超过250,500元至<br />				390,500元的部分</td><td>				30</td><td>				40,500</td></tr><tr><td>				5</td><td>				超过500,000元的部分</td><td>				超过390,500元的部分</td><td>				35</td><td>				65,500</td></tr></tbody></table><p style="text-indent: 2em"><br /><strong>（二）个体工商户的生产、经营所得和对企事业单位的承包经营、承租经营所得适用</strong></p><table border="1" bordercolor="#c30" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width: 90%;"><tbody><tr style="color: #fff"><th style="background-color: #b61418; width: 5%">				级数</th><th style="background-color: #b61418; width: 29%">				含税级距</th><th style="background-color: #b61418; width: 29%">				不含税级距</th><th style="background-color: #b61418; width: 5%">				税率（%）</th><th style="background-color: #b61418; width: 10%">				速算扣除数</th><th style="background-color: #b61418; width: 22%">				说明</th></tr><tr><td>				1</td><td>				不超过15,000元的</td><td>				不超过14,250元的</td><td>				5</td><td>				0</td><td bgcolor="#fcfae9" rowspan="5"><p style="text-indent: 2em">					1、本表含税级距指每一纳税年度的收入总额，减除成本，费用以及损失的余额。</p><p style="text-indent: 2em">					2、含税级距适用于个体工商户的生产、经营所得和对企事业单位的承包经营承租经营所得。不含税级距适用于由他人（单位）代付税款的承包经营、承租经营所得。</p></td></tr><tr bgcolor="#fbebdd"><td>				2</td><td>				超过15,000元到30,000元的部分</td><td>				超过14,250元至27,750元的部分</td><td>				10</td><td>				750</td></tr><tr><td>				3</td><td>				超过30,000元至60,000元的部分</td><td>				超过27,750元至51,750元的部分</td><td>				20</td><td>				3,750</td></tr><tr bgcolor="#fbebdd"><td>				4</td><td>				超过60,000元至100,000元的部分</td><td>				超过51,750元至79,750元的部分</td><td>				30</td><td>				9,750</td></tr><tr><td>				5</td><td>				超过100,000元的部分</td><td>				超过79,750元的部分</td><td>				35</td><td>				14,750</td></tr></tbody></table><p><strong style="text-indent: 28px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2018最新版本：个体工商户的生产、经营所得和对企事业单位的承包经营、承租经营所得适用（10月1日起）</strong></p><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="margin: auto; width: 90%;"><tbody><tr><th style="color:#fff; background-color:#b61418; width: 5%">				级数 &nbsp;</th><th style="color:#fff; background-color:#b61418; width: 40%">				全年应纳税所得额</th><th style="color:#fff; background-color:#b61418; width: 5%">				税率（％）</th></tr><tr><td style="text-align: center;">				1</td><td style="text-align: center;">				不超过30000元的</td><td style="text-align: center;">				5</td></tr><tr><td style="text-align: center;">				2</td><td style="text-align: center;">				超过30000元至90000元的部分</td><td style="text-align: center;">				10</td></tr><tr><td style="text-align: center;">				3</td><td style="text-align: center;">				超过90000元至300000元的部分</td><td style="text-align: center;">				20</td></tr><tr><td style="text-align: center;">				4</td><td style="text-align: center;">				超过300000元至500000元的部分</td><td style="text-align: center;">				30</td></tr><tr><td style="text-align: center;">				5</td><td style="text-align: center;">				超过500000元的部分</td><td style="text-align: center;">				35</td></tr></tbody></table><p>	&nbsp; &nbsp; &nbsp; &nbsp; （注：本表所称全年应纳税所得额是指依照本法第六条的规定，以每一 纳税年度的收入总额减除成本、费用以及损失后的余额。）</p><p>	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong style="text-indent: 2em;">（三）劳务报酬所得适用</strong></p><table border="1" bordercolor="#c30" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width: 90%;"><tbody><tr style="color: #fff"><th style="background-color: #b61418; width: 5%">				级数</th><th style="background-color: #b61418; width: 29%">				含税级距</th><th style="background-color: #b61418; width: 29%">				不含税级距</th><th style="background-color: #b61418; width: 5%">				税率（%）</th><th style="background-color: #b61418; width: 10%">				速算扣除数</th><th style="background-color: #b61418; width: 22%">				说明</th></tr><tr><td>				1</td><td>				不超过20,000元的</td><td>				不超过16,000元的</td><td>				20</td><td>				0</td><td bgcolor="#fcfae9" rowspan="5"><p style="text-indent: 2em">					1、表中的含税级距、不含税级距，均为按照税法规定减除有关费用后的所得额。</p><p style="text-indent: 2em">					2、含税级距适用于由纳税人负担税款的劳务报酬所得；不含税级距适用于由他人（单位）代付税款的劳务报酬所得。</p></td></tr><tr bgcolor="#fbebdd"><td>				2</td><td>				超过20,000元到50,000元的部分</td><td>				超过16,000元至37,000元的部分</td><td>				30</td><td>				2,000</td></tr><tr><td>				3</td><td>				超过50,000元的部分</td><td>				超过37,000元的部分</td><td>				40</td><td>				7,000</td></tr></tbody></table><p style="text-indent: 2em">	问：个人所得税税率表中含税级距与不含税级距的区别是什么？</p><p style="text-indent: 2em">	答：在实际工作中，对于某些个人所得收入采用税后收入的概念，比如支付税后多少多少金额。这时，需要将税后的收入按一定公式换算为应税所得，然后再按照一般方法计算应交的税款。否则，将导致税款的少征。这里，在换算为应税所得过程中需要适用的税率及速算扣除数不能按照含税级距的税率表来套用，必须使用不含税级距的税率表。这就是不含税级距税率表产生的原因。这里的不含税级距指的是&ldquo;税后收入&rdquo;级距。</p><p style="text-indent: 2em">	至于两者之间的联系，实际上两个税率表是一回事，只是将含税级距税率表中的应税所得，按照数学方法，换算为不含税级距税率表中的税后收入，以方便对税后收入进行征税的计算工作，仅此而已。</p><p style="text-indent: 2em">	来源：<a href="http://114.xixik.com/ppt/" title="个人所得税计算器">个人所得税计算器</a>：<a href="http://114.xixik.com/ppt/" title="个税计算器">http://114.xixik.com/ppt/</a>（来源：嘻嘻网）</p></div></div></div><a name="anchor4"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        个人所得税征税对象</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em"><strong>法定对象</strong></p><p style="TEXT-INDENT:2em">	我国个人所得税的纳税义务人是在中国境内居住有所得的人，以及不在中国境内居住而从中国境内取得所得的个人，包括中国国内公民，在华取得所得的外籍人员和港、澳、台同胞。</p><p style="TEXT-INDENT:2em"><strong>居民纳税义务人</strong></p><p style="TEXT-INDENT:2em">	在中国境内有住所，或者无住所而在境内居住满1年的个人，是居民纳税义务人，应当承担无限纳税义务，即就其在中国境内和境外取得的所得，依法缴纳个人所得税。</p><p style="TEXT-INDENT:2em"><strong>非居民纳税义务人</strong></p><p style="TEXT-INDENT:2em">	在中国境内无住所又不居住或者无住所而在境内居住不满一年的个人，是非居民纳税义务人，承担有限纳税义务，仅就其从中国境内取得的所得，依法缴纳个人所得税。</p><p style="TEXT-INDENT:2em"><strong>境外人士获取中国境内所得是否征收个人所得税一览表</strong></p><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="font-family:arial; text-align: center; margin: auto; width:80%"><tbody><tr><th>				中国境内<br />				居住时间</th><th>				雇员职位</th><th>				境内所得境内<br />				支付或负担</th><th>				境内所得境外<br />				支付或负担</th><th>				境外所得境内<br />				支付或负担</th><th>				境外所得境外<br />				支付或负担</th></tr><tr><td rowspan="2" valign="center">				不超过90日或183日</td><td>				一般雇员</td><td>				征</td><td>				不征</td><td>				不征</td><td>				不征</td></tr><tr><td>				高层管理人员</td><td>				征</td><td>				不征</td><td>				征</td><td>				不征</td></tr><tr><td rowspan="2" valign="center">				超过90日或183日</td><td>				一般雇员</td><td>				征</td><td>				征</td><td>				不征</td><td>				不征</td></tr><tr><td>				高层管理人员</td><td>				征</td><td>				征</td><td>				征</td><td>				不征</td></tr><tr><td>				满1年但不满5年</td><td>				所有人</td><td>				征</td><td>				征</td><td>				征</td><td>				不征</td></tr><tr><td>				超过5年</td><td>				所有人</td><td>				征</td><td>				征</td><td>				征</td><td>				征</td></tr><tr><td colspan="6" valign="center">				高层管理人员是指：公司正、副（总）经理、各职能总师、总监及其他类似管理人员。</td></tr></tbody></table><p style="TEXT-INDENT:2em">	&#160;</p></div></div></div><a name="anchor5"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        中国历年个人所得税收入</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="text-indent: 2em; text-align: center;"><img src="http://img.xixik.net/custom/section/ppt/xixik-67acffbcc4011bbf.png" /></p><p style="text-indent: 2em; text-align: center;">	图表：中国个人所得税收入规模占税收收入的比重</p><p style="TEXT-INDENT:2em">	根据财政部公布的数据显示，<a href="http://www.xixik.com/content/33dd9a88f1a9d130">个税占税收总收入约6%左右，而欧美发达国家这一数据大概为40%</a>，中外个税比例差距较大。这不意味着中国税赋低，而是因为中国实行以间接税为主。更不能因为人没缴纳个人就不是纳税人，<a href="http://www.xixik.com/content/9f652c0de27a4b27">即便不挣一分钱，只要呼吸人人都是纳税人</a>。</p><p style="TEXT-INDENT:2em">	2019年1-6月累计，个人所得税5639亿元，同比下降30.6%。</p><p style="TEXT-INDENT:2em">	2018年财政收支情况，个人所得税13872亿元，同比增长15.9%。&nbsp;</p><p style="TEXT-INDENT:2em">	2018年1-8月财政收支情况累计，个人所得税10319亿元，同比增长21.1%，突破1万亿元大关。前八月个税收入突破1万亿，这个数字已经超过了2016年全年10089亿元的个税收入。</p><p style="TEXT-INDENT:2em"><a href="http://www.xixik.com/content/2fb9a3815892ff3c" title="2018年1-7月个人所得税9225亿元超过2015年全年">2018年1-7月财政收支情况累计，个人所得税9225亿元</a>，同比增长20.6%。这个数据已经超过了2015年全年8618亿元的个税收入。</p><p style="TEXT-INDENT:2em">	2018年4月份个人所得税5735亿元，同比增长20.8%。</p><p style="TEXT-INDENT:2em"><a href="http://www.xixik.com/content/f24f789d68d85ee3">2017年个人所得税11966亿元，同比增18.6%</a>，占税收总收入为6.9%；</p><p style="TEXT-INDENT:2em">	2016年个人所得税10089亿元，同比增长17.1%，<span style="color:#ff0000;">这是个人所得税首次突破万亿大关</span>；</p><p style="TEXT-INDENT:2em">	2015年个人所得税8618亿元，同比增长16.8%，占税收总收入的6.9%；</p><p style="TEXT-INDENT:2em"><a href="http://www.xixik.com/content/d4e963a6f0bbdbc9">2014年个人所得税7377亿元，同比增长12.9%</a>，占税收总收入的6.19%；</p><p style="TEXT-INDENT:2em">	2013年个人所得税6531亿元，同比增长12.2%，占全部税收收入的5.91%；</p><p style="TEXT-INDENT:2em"><a href="http://www.xixik.com/content/5374a998c56865d0">2012年个人所得税5820.24亿元，同比下降3.9%，比上年增速回落29.1个百分点</a>。因为从2011年9月1日起，中国个人所得税征收标准由原来的2000元提升至3500元，约有6000万人免于缴个税，也带来个人所得税收入增速大幅下降。</p><p style="TEXT-INDENT:2em">	2011年个人所得税6054.09亿元，同比增长25.2%。<br /><br />	　　2010年个人所得税4837.17亿元，同比增长22.5%；</p><p style="TEXT-INDENT:2em">	2009年个人所得税3949.27亿元；同比增长6.1%；</p><p style="TEXT-INDENT:2em">	2008年个人所得税3697亿元；</p><p style="TEXT-INDENT:2em">	2007年个人所得税3185亿元；</p><p style="TEXT-INDENT:2em">	2006年个人所得税2452亿元；</p><p style="TEXT-INDENT:2em">	2005年个人所得税2093.91亿元；</p><p style="TEXT-INDENT:2em">	2004年个人所得税1737.05亿元；</p><p style="text-indent: 2em; text-align: center;"><img src="http://img.xixik.net/custom/section/ppt/xixik-9500e66709724d60.jpg" /></p><p style="text-indent: 2em; text-align: center;">	中国社保缴费率全球列世界第13位</p><p style="text-indent: 2em;"><strong>中国月薪8000+的工薪族贡献了58%的工薪个税</strong></p><p style="text-indent: 2em;">	@崔永元 炮轰@范冰冰 &ldquo;阴阳合同&rdquo;让社会关注起了富人的缴税问题。数据显示，月均收入在8000-38500元的人占工薪人群的比例仅为8.4%，却贡献了58%的工薪个税。这8.4%的人，具有以下特征：80后，年龄在26-35岁之间；主要从事教育业、制造业、金融和IT；本科为主，受过良好的教育。北京、上海、广州的工薪阶层，是贡献个税主力军中的主力军。月均收入超过38500元的富人，对工薪个税收入的贡献不到17%。政府工作报告里也提到，提高个人所得税起征点、增加子女教育、大病医疗等专项费用扣除，合理减负，鼓励人民群众通过劳动增加收入、迈向富裕。</p><p style="text-indent: 2em;"><strong>美国20%的高收入者所交的税占整个收入所得税的80%</strong></p><p style="text-indent: 2em;">	都说美国的税收高，然而在发达国家中，美国是税率最低的国家之一。其税务原则有几个特点：收入越低，交税比例越小；子女越多，享受的税务优待越多，等于鼓励多生子女；学费可以抵税，有利教育。购买节能产品享受免税优惠等等。最终美国20%的高收入者所交的税占整个收入所得税的80%，有45.3%的人不需要缴纳收入所得税。</p><p style="text-indent: 2em; text-align: center;"><img src="http://img.xixik.net/custom/section/ppt/xixik-7c92d9e545204b95.jpeg" /></p><p style="text-indent: 2em; text-align: center;">	2017年全国各地财政收支状况</p><p style="text-indent: 2em; text-align: center;"><img src="http://img.xixik.net/custom/section/ppt/xixik-835cc546fa507213.jpg" /></p><p style="text-indent: 2em; text-align: center;">	2016年全国各地财政收支状况</p></div></div></div><a name="anchor6"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        个税改革大事记</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="text-indent: 2em; text-align: center;">	&#160;</p><p style="text-indent: 2em; text-align: center;"><img src="http://img.xixik.net/cimg/029/xixik_a7d9e8b1ijj20c80.jpg" /></p><p style="text-indent: 2em; text-align: center;">	中国个税改革简史</p><p style="TEXT-INDENT:2em">	中国试行个人所得税始于清末，1909年清政府草拟《所得税章程》，内含个人所得税内容，不过当时未能实行。</p><p style="TEXT-INDENT:2em">	1936年国民政府颁布《所得税暂行条例》，1943年出台《所得税法》，中国第一部真正意义的所得税法诞生，但由于历史政治原因，个人所得税在中国并没有真正推行。</p><p style="TEXT-INDENT:2em">	1950年7月，政务院公布的《税政实施要则》中，就曾列举有对个人所得课税的税种，当时定名为“薪给报酬所得税”。但由于中国生产力和人均收入水平低，实行低工资制，虽然设立了税种，却一直没有开征。</p><p style="TEXT-INDENT:2em">	1980年9月1日，&#160;第五届全国人民代表大会第三次会议通过并公布了<a href="http://114.xixik.com/tax-law/" title="个人所得税法">《中华人民共和国个人所得税法》</a>。我国的个人所得税制度至此方始建立。</p><p style="TEXT-INDENT:2em">	1986年9月，&#160;针对我国国内个人收入发生很大变化的情况，国务院发布了《中华人民共和国个人收入调节税暂行条例》，规定对本国公民的个人收入统一征收个人收入调节税。</p><p style="TEXT-INDENT:2em">	1993年10月31日，&#160;第八届全国人民代表大会常务委员会第四次会议通过了《关于修改＜中华人民共和国个人所得税法＞的决定》的修正案，规定不分内、外，所有中国居民和有来源于中国所得的非居民，均应依法缴纳个人所得税。</p><p style="TEXT-INDENT:2em">	1999年8月30日，&#160;第九届全国人大常务委员会第11次会议通过了《关于修改〈中华人民共和国个人所得税法〉的决定》，把个税法第四条第二款“储蓄存款利息”免征个人所得税项目删去，而开征了《个人储蓄存款利息所得税》。</p><p style="TEXT-INDENT:2em">	2002年1月1日，&#160;<a href="http://114.xixik.com/ppt/" style="color:#000;" title="个人所得税">个人所得税</a>收入实行中央与地方按比例分享。</p><p style="TEXT-INDENT:2em">	2003年7月，&#160;财政部财政科学研究所公布了一份名为《我国居民收入分配状况及财税调节政策》的报告，建议改革现行的个人所得税税制，适度提高个人所得税起征点，同时对中等收入阶层采取低税率政策。</p><p style="TEXT-INDENT:2em">	2003年10月22日，&#160;商务部提出取消征收利息税，提高个人收入所得税免征额等多项建议。</p><p style="TEXT-INDENT:2em">	2005年初，&#160;广东财政再次对个税起征点提高进行调研，以便为中央尽快出台税改政策提供参考依据。</p><p style="TEXT-INDENT:2em">	2005年07月26日，&#160;国务院召开常务会议，讨论并原则通过了《中华人民共和国个人所得税法修正案（草案）》。</p><p style="TEXT-INDENT:2em">	2005年08月23日，&#160;第十届全国人大常委会第十七次会议首次审议个人所得税法修正案草案。拟将个人所得税起征点提高到1500元。</p><p style="TEXT-INDENT:2em">	2005年10月27日，&#160;第十届全国人大常委会第十八次会议再次审议《个人所得税法修正案草案》，会议表决通过全国人大常委会关于修改个人所得税法的决定，起征点1600元于2006年1月1日起施行。</p><p style="TEXT-INDENT:2em">	2007年6月29日，&#160;第十届全国人民代表大会常务委员会第二十八次会议通过了《关于修改〈中华人民共和国个人所得税法〉的决定》，对个人所得税法进行了第四次修正。</p><p style="TEXT-INDENT:2em">	2007年12月29日，&#160;第十届全国人大常委会第三十一次会议表决通过了关于修改个人所得税法的决定。<a href="http://www.xixik.com/content/4aeef20ab790a57a" title="个人所得税起征点提高">个人所得税起征点自2008年3月1日起由1600元提高到2000元</a>。</p><p style="TEXT-INDENT:2em">	2008年10月9日，<a href="http://www.xixik.com/content/69e3f7622b92810a" title="暂免征收储蓄存款利息所得个人所得税">中国国务院决定对储蓄存款利息所得暂免征收个人所得税</a>。</p><p style="TEXT-INDENT:2em">	2009年8月17日，&#160;国家税务总局发布《<a href="http://www.xixik.com/content/ba813c6ff71c0277">关于明确个人所得税若干政策执行问题的通知</a>》，明确规定年底双薪收入不再单独作为一个月的工资薪金所得计征个人所得税。</p><p style="TEXT-INDENT:2em">	2009年11月12日，&#160;财政部下发《<a href="http://www.xixik.com/content/a08f56790e68db8a,1">关于企业加强职工福利费财务管理的通知</a>》，规定将企业职工福利补助纳入工资总额，这福利要缴个人所得税。</p><p style="TEXT-INDENT:2em">	2009年11月18日，&#160;国家税务总局下发《<a href="http://www.xixik.com/content/8a20c333002a35aa">关于个人转租房屋取得收入征收个人所得税问题的通知</a>》明确对个人转租房屋取得收入征收个人所得税。</p><p style="TEXT-INDENT:2em">	2009年12月31日，&#160;财政部、国家税务总局和证监会联合发布《<a href="http://www.xixik.com/content/bab7610b0e3f80ec">关于个人转让上市公司限售股所得征收个人所得税有关问题的通知</a>》。</p><p style="TEXT-INDENT:2em">	2011年06月30日，&#160;十一届全国人大常委会第二十一次会议表决通过关于修改个人所得税法的决定。<a href="http://www.xixik.com/content/bab7610b0e3f80ec">2011年9月1日起，个人所得税的起征点调整为3500元</a>，个人所得税税率表由原来的5%到45%的9级减少为由3%到45%的7级。</p><p style="TEXT-INDENT:2em">	2012年7月22日，中央政府有关部门已经准备在2012年启动全国地方税务系统个人信息联网工作，为“按家庭征收个人所得税”改革做好技术准备。此前业内一直呼吁的综合税制有望在未来实现。</p><p style="TEXT-INDENT:2em">	2018年6月19日，个人所得税法修正案草案提请十三届全国人大常委会第三次会议审议，这是个税法自1980年出台以来第七次大修，也将迎来一次根本性变革：工资薪金、劳务报酬、稿酬和特许权使用费等四项劳动性所得首次实行综合征税；<a href="http://www.xixik.com/content/83a260ce516f17c6" title="个税起征点拟提高至5000元 增加专项附加扣除">个税起征点由每月3500元提高至每月5000元（每年6万元）</a>；首次增加子女教育支出、继续教育支出、大病医疗支出、住房贷款利息和住房租金等专项附加扣除；优化调整税率结构，扩大较低档税率级距……</p><p style="TEXT-INDENT:2em"><strong>中国个税起征点变迁史：</strong></p><p style="TEXT-INDENT:2em">	1980年，<a href="http://114.xixik.com/ppt/" style="color:#000;" title="个税起征点">个税起征点</a>确定为800元。</p><p style="TEXT-INDENT:2em">	2006年，提高到1600元。</p><p style="TEXT-INDENT:2em">	2008年，提高到2000元。</p><p style="TEXT-INDENT:2em">	2011年，提高到3500元。</p><p style="TEXT-INDENT:2em">	个税起征点从800元到1600元，用了25年；而从1600元到2000元，不到3年。中国由此也进入到经济高速发展的快车道。</p></div></div></div><a name="anchor7"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        中华人民共和国个人所得税法</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p>	　　（1980年9月10日第五届全国人民代表大会第三次会议通过</p><p>	　　根据1993年10月31日第八届全国人民代表大会常务委员会第四次会议《关于修改〈中华人民共和国个人所得税法〉的决定》第一次修正</p><p>	　　根据1999年8月30日第九届全国人民代表大会常务委员会第十一次会议《关于修改〈中华人民共和国个人所得税法〉的决定》第二次修正</p><p>	　　根据2005年10月27日第十届全国人民代表大会常务委员会第十八次会议《关于修改〈中华人民共和国个人所得税法〉的决定》第三次修正</p><p>	　　根据2007年6月29日第十届全国人民代表大会常务委员会第二十八次会议《关于修改〈中华人民共和国个人所得税法〉的决定》第四次修正</p><p>	　　根据2007年12月29日第十届全国人民代表大会常务委员会第三十一次会议《关于修改〈中华人民共和国个人所得税法〉的决定》第五次修正</p><p>	　　根据2011年6月30日第十一届全国人民代表大会常务委员会第二十一次会议《关于修改〈中华人民共和国个人所得税法〉的决定》第六次修正）</p><p>	　　第一条 在中国境内有住所，或者无住所而在境内居住满一年的个人，从中国境内和境外取得的所得，依照本法规定缴纳个人所得税。</p><p>	　　在中国境内无住所又不居住或者无住所而在境内居住不满一年的个人，从中国境内取得的所得，依照本法规定缴纳个人所得税。</p><p>	　　第二条 下列各项个人所得，应纳个人所得税：</p><p>	　　一、工资、薪金所得;</p><p>	　　二、个体工商户的生产、经营所得;</p><p>	　　三、对企事业单位的承包经营、承租经营所得;</p><p>	　　四、劳务报酬所得;</p><p>	　　五、稿酬所得;</p><p>	　　六、特许权使用费所得;</p><p>	　　七、利息、股息、红利所得;</p><p>	　　八、财产租赁所得;</p><p>	　　九、财产转让所得;</p><p>	　　十、偶然所得;</p><p>	　　十一、经国务院财政部门确定征税的其他所得。</p><p>	　　第三条 <a href="http://114.xixik.com/table-of-rates/" title="个人所得税税率">个人所得税的税率</a>：</p><p>	　　一、工资、薪金所得，适用超额累进税率，税率为百分之三至百分之四十五（税率表附后）。</p><p>	　　二、个体工商户的生产、经营所得和对企事业单位的承包经营、承租经营所得，适用百分之五至百分之三十五的超额累进税率（税率表附后）。</p><p>	　　三、稿酬所得，适用比例税率，税率为百分之二十，并按应纳税额减征百分之三十。</p><p>	　　四、劳务报酬所得，适用比例税率，税率为百分之二十。对劳务报酬所得一次收入畸高的，可以实行加成征收，具体办法由国务院规定。</p><p>	　　五、特许权使用费所得，利息、股息、红利所得，财产租赁所得，财产转让所得，偶然所得和其他所得，适用比例税率，税率为百分之二十。</p><p>	　　第四条 下列各项个人所得，免纳个人所得税：</p><p>	　　一、省级人民政府、国务院部委和中国人民解放军军以上单位，以及外国组织、国际组织颁发的科学、教育、技术、文化、卫生、体育、环境保护等方面的奖金;</p><p>	　　二、国债和国家发行的金融债券利息;</p><p>	　　三、按照国家统一规定发给的补贴、津贴;</p><p>	　　四、福利费、抚恤金、救济金;</p><p>	　　五、保险赔款;</p><p>	　　六、军人的转业费、复员费;</p><p>	　　七、按照国家统一规定发给干部、职工的安家费、退职费、退休工资、离休工资、离休生活补助费;</p><p>	　　八、依照我国有关法律规定应予免税的各国驻华使馆、领事馆的外交代表、领事官员和其他人员的所得;</p><p>	　　九、中国政府参加的国际公约、签订的协议中规定免税的所得;</p><p>	　　十、经国务院财政部门批准免税的所得。</p><p>	　　第五条 有下列情形之一的，经批准可以减征个人所得税：</p><p>	　　一、残疾、孤老人员和烈属的所得;</p><p>	　　二、因严重自然灾害造成重大损失的;</p><p>	　　三、其他经国务院财政部门批准减税的。</p><p>	　　第六条 应纳税所得额的计算：</p><p>	　　一、工资、薪金所得，以每月收入额减除费用三千五百元后的余额，为应纳税所得额。</p><p>	　　二、个体工商户的生产、经营所得，以每一纳税年度的收入总额减除成本、费用以及损失后的余额，为应纳税所得额。</p><p>	　　三、对企事业单位的承包经营、承租经营所得，以每一纳税年度的收入总额，减除必要费用后的余额，为应纳税所得额。</p><p>	　　四、劳务报酬所得、稿酬所得、特许权使用费所得、财产租赁所得，每次收入不超过四千元的，减除费用八百元;四千元以上的，减除百分之二十的费用，其余额为应纳税所得额。</p><p>	　　五、财产转让所得，以转让财产的收入额减除财产原值和合理费用后的余额，为应纳税所得额。</p><p>	　　六、利息、股息、红利所得，偶然所得和其他所得，以每次收入额为应纳税所得额。</p><p>	　　个人将其所得对教育事业和其他公益事业捐赠的部分，按照国务院有关规定从应纳税所得中扣除。</p><p>	　　对在中国境内无住所而在中国境内取得工资、薪金所得的纳税义务人和在中国境内有住所而在中国境外取得工资、薪金所得的纳税义务人，可以根据其平均收入水平、生活水平以及汇率变化情况确定附加减除费用，附加减除费用适用的范围和标准由国务院规定。</p><p>	　　第七条纳税义务人从中国境外取得的所得，准予其在应纳税额中扣除已在境外缴纳的个人所得税税额。但扣除额不得超过该纳税义务人境外所得依照本法规定计算的应纳税额。</p><p>	　　第八条个人所得税，以所得人为纳税义务人，以支付所得的单位或者个人为扣缴义务人。个人所得超过国务院规定数额的，在两处以上取得工资、薪金所得或者没有扣缴义务人的，以及具有国务院规定的其他情形的，纳税义务人应当按照国家规定办理纳税申报。扣缴义务人应当按照国家规定办理全员全额扣缴申报。</p><p>	　　第九条扣缴义务人每月所扣的税款，自行申报纳税人每月应纳的税款，都应当在次月十五日内缴入国库，并向税务机关报送纳税申报表。</p><p>	　　工资、薪金所得应纳的税款，按月计征，由扣缴义务人或者纳税义务人在次月十五日内缴入国库，并向税务机关报送纳税申报表。特定行业的工资、薪金所得应纳的税款，可以实行按年计算、分月预缴的方式计征，具体办法由国务院规定。</p><p>	　　个体工商户的生产、经营所得应纳的税款，按年计算，分月预缴，由纳税义务人在次月十五日内预缴，年度终了后三个月内汇算清缴，多退少补。</p><p>	　　对企事业单位的承包经营、承租经营所得应纳的税款，按年计算，由纳税义务人在年度终了后三十日内缴入国库，并向税务机关报送纳税申报表。纳税义务人在一年内分次取得承包经营、承租经营所得的，应当在取得每次所得后的十五日内预缴，年度终了后三个月内汇算清缴，多退少补。</p><p>	　　从中国境外取得所得的纳税义务人，应当在年度终了后三十日内，将应纳的税款缴入国库，并向税务机关报送纳税申报表。</p><p>	　　第十条 各项所得的计算，以人民币为单位。所得为外国货币的，按照国家外汇管理机关规定的外汇牌价折合成人民币缴纳税款。</p><p>	　　第十一条 对扣缴义务人按照所扣缴的税款，付给百分之二的手续费。</p><p>	　　第十二条 对储蓄存款利息所得开征、减征、停征个人所得税及其具体办法，由国务院规定。</p><p>	　　第十三条 个人所得税的征收管理，依照《中华人民共和国税收征收管理法》的规定执行。</p><p>	　　第十四条 国务院根据本法制定实施条例。</p><p>	　　第十五条 本法自公布之日起施行。</p><p>	　　个人所得税税率表一（工资、薪金所得适用）</p><p>	　　级数 全月应纳税所得额 税率（%）</p><p>	　　1 不超过1500元的 3</p><p>	　　2 超过1500元至4500元的部分 10</p><p>	　　3 超过4500元至9000元的部分 20</p><p>	　　4 超过9000元至35000元的部分 25</p><p>	　　5 超过35000元至55000元的部分 30</p><p>	　　6 超过55000元至80000元的部分 35</p><p>	　　7 超过80000元的部分 45</p><p>	　　（注：本表所称全月应纳税所得额是指依照本法第六条的规定，以每月收入额减除费用三千五百元以及附加减除费用后的余额。）</p><p>	　　个人所得税税率表二（个体工商户的生产、经营所得和对企事业单位的承包经营、承租经营所得适用）</p><p>	　　级数 全年应纳税所得额 税率（%）</p><p>	　　1 不超过15000元的 5</p><p>	　　2 超过15000元至30000元的部分 10</p><p>	　　3 超过30000元至60000元的部分 20</p><p>	　　4 超过60000元至100000元的部分 30</p><p>	　　5 超过100000元的部分 35</p><p>	　　（注：本表所称全年应纳税所得额是指依照本法第六条的规定，以每一纳税年度的收入总额减除成本、费用以及损失后的余额。）</p></div></div></div><a name="anchor8"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        全国税务系统网站链接</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><div class="mainContainer fb" style="margin-right: auto; margin-left: auto; text-align: center; font-weight: bold; padding: 5px; color: rgb（0, 0, 0）; font-family: Helvetica, Arial, 宋体, sans-serif; line-height: 21.6px; clear: both;">	（各省、自治区、直辖市、计划单列市国家税务局、地方税务局站点）</div><div class="mainContainer" style="margin-right: auto; margin-left: auto; text-align: center; padding: 5px; color: rgb（0, 0, 0）; font-family: Helvetica, Arial, 宋体, sans-serif; line-height: 21.6px;"><div class="row" style="margin-right: auto; margin-left: auto; text-align: left; float: left; width: 225px;"><div class="relevantLink" style="margin-right: auto; margin-left: auto; padding: 5px; width: 225px;"><ul style="margin: 0px; padding-right: 0px; padding-left: 0px; border: 0px; list-style-type: none;"><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a class="fb" href="http://www.chinatax.gov.cn/" style="color: rgb（0, 101, 207）; font-weight: bold; line-height: 25.2px; font-family: arial;" title="国家税务总局">国家税务总局</a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://beijing.chinatax.gov.cn/bjswj/" title="北京市税务局"><font face="arial"><span style="line-height: 25.2px;">北京市税务局</span></font></a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://www.nm-n-tax.gov.cn/" style="line-height: 25.2px; font-family: arial;" title="内蒙古自治区税务局">内蒙古自治区税务局</a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://shanghai.chinatax.gov.cn/pub/" title="上海市税务局"><font face="arial"><span style="line-height: 25.2px;">上海市</span></font><font face="arial"><span style="line-height: 25.2px;">税务局</span></font></a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://fujian.chinatax.gov.cn/" title="福建省税务局"><font face="arial"><span style="line-height: 25.2px;">福建省</span></font><font face="arial"><span style="line-height: 25.2px;">税务局</span></font></a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://www.hb-n-tax.gov.cn/" style="line-height: 25.2px; font-family: arial;" title="湖北省税务局">湖北省税务局</a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://hainan.chinatax.gov.cn/" title="海南省税务局">海南省税务局</a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="https://etax.yunnan.chinatax.gov.cn/" title="云南省税务局"><font face="arial"><span style="line-height: 25.2px;">云南省</span></font><font face="arial"><span style="line-height: 25.2px;">税务局</span></font></a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://www.qh-n-tax.gov.cn/" style="line-height: 25.2px; font-family: arial;" title="青海省税务局">青海省税务局</a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://ningbo.chinatax.gov.cn/" title="宁波市税务局"><font face="arial"><span style="line-height: 25.2px;">宁波市</span></font><font face="arial"><span style="line-height: 25.2px;">税务局</span></font></a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;">					&nbsp;</li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;">					&nbsp;</li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;">					&nbsp;</li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;">					&nbsp;</li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;">					&nbsp;</li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;">					&nbsp;</li></ul></div></div><div class="row" style="margin-right: auto; margin-left: auto; text-align: left; float: left; width: 225px;"><div class="relevantLink" style="margin-right: auto; margin-left: auto; padding: 5px; width: 225px;"><ul style="margin: 0px; padding-right: 0px; padding-left: 0px; border: 0px; list-style-type: none;"><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a class="fb" href="http://www.ctax.org.cn/" style="color: rgb（0, 101, 207）; font-weight: bold; line-height: 25.2px; font-family: arial;" title="中国税务杂志社">中国税务杂志社</a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://tianjin.chinatax.gov.cn/" title="天津市税务局"><font face="arial"><span style="line-height: 25.2px;">天津市</span></font><font face="arial"><span style="line-height: 25.2px;">税务局</span></font></a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://liaoning.chinatax.gov.cn/" title="辽宁省税务局"><font face="arial"><span style="line-height: 25.2px;">辽宁省</span></font><font face="arial"><span style="line-height: 25.2px;">税务局</span></font></a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://www.jsgs.gov.cn/" style="line-height: 25.2px; font-family: arial;" title="江苏省税务局">江苏省税务局</a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://jiangxi.chinatax.gov.cn/" title="江西省税务局"><font face="arial"><span style="line-height: 25.2px;">江西省</span></font><font face="arial"><span style="line-height: 25.2px;">税务局</span></font></a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://www.hntax.gov.cn/" style="line-height: 25.2px; font-family: arial;" title="湖南省税务局">湖南省税务局</a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://www.cqsw.gov.cn/" style="line-height: 25.2px; font-family: arial;" title="重庆市税务局">重庆市税务局</a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://xizang.chinatax.gov.cn/" title="西藏自治区税务局"><font face="arial"><span style="line-height: 25.2px;">西藏自治</span></font><font face="arial"><span style="line-height: 25.2px;">区税务局</span></font></a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://ningxia.chinatax.gov.cn/" title="宁夏回族自治区税务局"><font face="arial"><span style="line-height: 25.2px;">宁夏回</span></font><font face="arial"><span style="line-height: 25.2px;">族自治区税务局</span></font></a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://www.xm-n-tax.gov.cn/" style="line-height: 25.2px; font-family: arial;" title="厦门市税务局">厦门市税务局</a></li></ul></div></div><div class="row" style="margin-right: auto; margin-left: auto; text-align: left; float: left; width: 225px;"><div class="relevantLink" style="margin-right: auto; margin-left: auto; padding: 5px; width: 225px;"><ul style="margin: 0px; padding-right: 0px; padding-left: 0px; border: 0px; list-style-type: none;"><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a class="fb" href="http://www.ctaxnews.net.cn/" style="color: rgb（0, 101, 207）; font-weight: bold; line-height: 25.2px; font-family: arial;" title="中国税务报社">中国税务报社</a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://www.he-n-tax.gov.cn/" style="line-height: 25.2px; font-family: arial;" title="河北省税务局">河北省税务局</a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://www.jl-n-tax.gov.cn/" style="line-height: 25.2px; font-family: arial;" title="吉林省税务局">吉林省税务局</a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://www.zjtax.gov.cn/" style="line-height: 25.2px; font-family: arial;" title="浙江省税务局">浙江省税务局</a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://www.sd-n-tax.gov.cn/" style="line-height: 25.2px; font-family: arial;" title="山东省税务局">山东省税务局</a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://portal.gd-n-tax.gov.cn/" style="line-height: 25.2px; font-family: arial;" title="广东省税务局">广东省税务局</a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://sichuan.chinatax.gov.cn/" title="四川省税务局"><font face="arial"><span style="line-height: 25.2px;">四川</span></font><font face="arial"><span style="line-height: 25.2px;">省税务局</span></font></a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://www.sn-n-tax.gov.cn/" style="line-height: 25.2px; font-family: arial;" title="陕西省税务局">陕西省税务局</a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://www.xj-n-tax.gov.cn/" style="line-height: 25.2px; font-family: arial;" title="新疆维吾尔族自治区税务局">新疆维吾尔族自治区税务局</a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://qingdao.chinatax.gov.cn/" title="青岛市税务局"><font face="arial"><span style="line-height: 25.2px;">青岛市</span></font><font face="arial"><span style="line-height: 25.2px;">税务局</span></font></a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;">					&nbsp;</li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;">					&nbsp;</li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;">					&nbsp;</li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;">					&nbsp;</li></ul></div></div><div class="row" style="margin-right: auto; margin-left: auto; text-align: left; float: left; width: 225px;"><div class="relevantLink" style="margin-right: auto; margin-left: auto; padding: 5px; width: 225px;"><ul style="margin: 0px; padding-right: 0px; padding-left: 0px; border: 0px; list-style-type: none;"><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a class="fb" href="http://www.taxation.cn/" style="color: rgb（0, 101, 207）; font-weight: bold; line-height: 25.2px; font-family: arial;" title="中国税务出版社">中国税务出版社</a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://shanxi.chinatax.gov.cn/" title="山西省税务局"><font face="arial"><span style="line-height: 25.2px;">山西省</span></font><font face="arial"><span style="line-height: 25.2px;">税务局</span></font></a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://www.hl-n-tax.gov.cn/" style="line-height: 25.2px; font-family: arial;" title="黑龙江省税务局">黑龙江省税务局</a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://anhui.chinatax.gov.cn/" title="安徽省税务局"><font face="arial"><span style="line-height: 25.2px;">安徽省</span></font><font face="arial"><span style="line-height: 25.2px;">税务局</span></font></a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://henan.chinatax.gov.cn/003/index.html?NVG=0&amp;LM_ID=1" title="河南省税务局"><font face="arial"><span style="line-height: 25.2px;">河南省</span></font><font face="arial"><span style="line-height: 25.2px;">税务局</span></font></a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://www.gxgs.gov.cn/" style="line-height: 25.2px; font-family: arial;" title="广西壮族自治区税务局">广西壮族自治区税务局</a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://www.gz-n-tax.gov.cn/" style="line-height: 25.2px; font-family: arial;" title="贵州省税务局">贵州省税务局</a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://gansu.chinatax.gov.cn/" title="甘肃省税务局"><font face="arial"><span style="line-height: 25.2px;">甘肃省</span></font><font face="arial"><span style="line-height: 25.2px;">税务局</span></font></a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://www.dl-n-tax.gov.cn/" style="line-height: 25.2px; font-family: arial;" title="大连市税务局">大连市税务局</a></li><li style="margin: 0px; padding: 3px 0px 0px 3px; border: 0px;"><a href="http://shenzhen.chinatax.gov.cn/" title="深圳市税务局"><font face="arial"><span style="line-height: 25.2px;">深圳市</span></font><font face="arial"><span style="line-height: 25.2px;">税务局</span></font></a></li></ul></div></div></div><p>	&nbsp;</p></div></div></div></div><script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script><script type="text/javascript">        var value = '19';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script><div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/ppt/" target="_self" title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a></div><ul style="width: 960px; margin: auto; overflow: hidden;"><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shicha/"
+                title="国际时差查询 - 世界各国主要城市和北京时差对照表">时差</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证更换新政策_过期了该怎么办？">中国旅行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangye/"
+                title="2017最新国民经济行业分类与代码（GB/4754-2017）,国民经济行业分类标准">国民经济行业分类与代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国总统_美国历任总统名单_美国总统简历生卒年份及所属党派">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chicun/"
+                title="服装尺寸对照表_男士服装尺寸对照表_中国女装尺寸对照表_美版服装尺码换算">服装尺寸对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country/"
+                title="全世界有多少个国家和地区？_世界上国家和地区一览表">全世界国家和地区</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-flag/"
+                title="世界各国国旗大全 - 世界各国国旗一览表,国旗图片下载">世界各国国旗大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/festival/"
+                title="节日大全_2020年法定节假日安排">节日大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/72hou/"
+                title="月令七十二候集解_二十四节气">月令七十二候集解</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-visa/"
+                title="赴美生子诚实签攻略_赴美生子诚实签的好处_赴美生子为什么要诚实签">赴美生子诚实签攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-spending/"
+                title="赴美生子价格_去美国生孩子多少钱_费用清单">赴美生子价格</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-baoxian/"
+                title="赴美生子保险_去美国生宝宝生育险_孕中险">赴美生子保险</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-hospital/"
+                title="赴美生子医院_洛杉矶医院_洛杉矶接待华人孕妇医院价目和详细情况一览表">赴美生子医院</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-doctor/"
+                title="赴美生子医生_洛杉矶医生_赴美生子华人医生_赴美生子医生介绍">赴美生子医生</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-living/"
+                title="赴美生子选择月子中心还是DIY_去美国生孩子选择月子中心还是DIY_赴美生子DIY攻略">月子中心还是DIY</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="美宝证件_美宝需要哪些证件（美国出生纸_中国旅行证_美国护照_社会安全号_出生纸三级认证）">美宝需要哪些证件？</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-passport-ds11/"
+                title="美宝美国护照申请更新_DS-11怎么填图文">美国护照申请</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_去美国生孩子费用预算清单2020">赴美生子要多少钱</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/university/"
+                title="中国大学名单_2019年全国高等学校名单（截至2019年6月15日）">中国大学名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/ranking/"
+                title="美国总统排名_美国总统历史排名_美国最伟大的总统排行榜">美国总统排行榜</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/size/"
+                title="服装尺寸对照表_裤子尺寸_男装尺寸_女装尺寸_裙子尺寸">服装尺寸</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-uk-time-zone/"
+                title="中英时差对照表,现在英国几点?中国和英国时差怎么算?现在英国时间是几点?">中英时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_去美国生孩子要多少钱？">赴美生子费用</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 最新中国护照免签国家一览2020">中国护照免签证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-passport/"
+                title="美国护照 - 美国护照上写的什么,美国护照免签证国家">美国护照</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/henley-passport-index/"
+                title="亨氏护照指数 - 亨氏护照受限制数2019">亨氏护照指数</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-process/"
+                title="赴美生子流程 - 干货！超详细的赴美生子流程攻略2019！">赴美生子流程</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-best/"
+                title="赴美生子机构哪家好？_合法的赴美生子机构">赴美生子机构哪家好</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-regret/"
+                title="2019生个美国孩子后悔了_后悔在美国生孩子_赴美生子利与弊">生个美国宝宝后悔了揭秘</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/visa/"
+                title="美国签证_美国签证DS-160表格在线填写_美国签证预约面谈_在线缴费">美国签证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/titanic/"
+                title="泰坦尼克号沉没的真相_历史真实故事_泰坦尼克号电影_嘻嘻网">泰坦尼克号</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-flight/"
+                title="赴美生子航班怎么选_赴美航班信息大全">赴美生子航班</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/exit-and-entry-premit/"
+                title="出入境通行证_一次性出入境通行证_中华人民共和国出入境通行证">出入境通行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-prosandcons/"
+                title="赴美生子利弊_赴美生子的优势和弊端_生美籍宝宝的好处和坏处">赴美生子好处和弊端</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-born/"
+                title="赴美产子_赴美生子_去美国生孩子">赴美产子</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/14th-amendment/"
+                title="美国宪法修正案第十四条">美国宪法修正案第14条</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/greatest/"
+                title="美国最伟大的总统_美国总统排行榜">美国最伟大的总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-states/13states/"
+                title="美国13个州_北美13个殖民地_美国建国时的13个州">美国13个州</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qs2020/"
+                title="2020年QS世界大学排名_世界大学排行榜">QS世界大学排行榜</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/born-usbaby/"
+                title="去美国生孩子_去美国生孩子多少钱">去美国生孩子</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/amendments/"
+                title="美国宪法修正案_Amendments to the Constitution">美国宪法修正案</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/the-world-university-rankings/"
+                title="2020年泰晤士报世界大学排名_2020年THE世界大学排名">泰晤士世界大学排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ssn/"
+                title="美国社安号SSN_美国社安卡_美国社会安全号码">社会安全号码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/declaration-of-independence/"
+                title="《美国独立宣言》（The Declaration of Independence）">独立宣言</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/birth-certificate/"
+                title="美国出生纸（Birth Certificate）_美国出生纸三级认证">美国出生纸</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-living-cost/"
+                title="美国月子中心费用_赴美生子费用">美国月子中心费用</a></li></ul><div class="lindBox"><div class="btnGray"><div class="btnText"><a target="_self" title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器" href="http://news.xixik.com/word/19/">另存为<br />                    Word格式</a></div></div></div><div class="lindBox" style="text-align: center;"><img src="http://news.xixik.com/qrcode/19/" alt="扫码手机上继续看" /><br /><br /><strong>用微信或者支付宝扫码在手机上继续观看<br />            可以保存收藏，也扫码后可以分享给好友
+        </strong></div><hr style="height: 1px; border: none; border-top: 1px dashed #999;" /><script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script><!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.--></body></html>

@@ -1,0 +1,364 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>《美国独立宣言》（The Declaration of Independence）</title><link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" /><meta name="description" content="《独立宣言》（The Declaration of Independence）是美国独立的国书之一。" /><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/declaration-of-independence/"><meta http-equiv="Cache-Control" content="no-transform" /><meta http-equiv="Cache-Control" content="no-siteapp" /><base target="_blank" /><script>        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "declaration-of-independence/";
+        }
+
+
+    </script><style>        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+            overflow:auto;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style></head><body><a name="top4"></a><div class="topBox" name="top"><div class="topMain"><div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div><div id="icoPhone"></div><div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div><div id="icoWechat"></div><div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a></div><div id="icoSina"></div><div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a></div><div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div><div class="topRight"></div></div></div><div id="showqrCode"><div><span></span></div><img src="" /><div><span></span></div></div><script type="text/javascript">        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script><div class="body"><div class="lindBox" style="position: relative;"><img src="http://img.xixik.net/custom/topic/001/declaration-of-independence.jpg" alt="《美国独立宣言》（The Declaration of Independence）" /><div class="title"><h1>《美国独立宣言》（The Declaration of Independence）</h1></div></div><div class=" custom_border lindBox"><div class="special_content"><div class="content_text"><div class="content_daodu"></div><h2>独立宣言</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--><p><strong>《独立宣言》</strong>（The Declaration of Independence），是北美洲十三个英属殖民地宣告自大不列颠王国独立，并宣明此举正当性之文告。 1776年7月4日，本宣言由第二次大陆会议(Second Continental Congress)于费城批准，这一天后成为美国独立纪念日。</p></div></div></div><div class="lindBox" style="overflow: hidden;"><div class="gg1"><a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a></div><div class="guide"><div class="guideBorder" id="guideBorder"><div class="guideTitle">导读（目录）</div><ul id="guideDisplay"><li>·<a title="《独立宣言》背景" href="#anchor1" target="_self"> 《独立宣言》背景</a></li><li>·<a title="《独立宣言》中英文对照" href="#anchor2" target="_self"> 《独立宣言》中英文对照</a></li><li>·<a title="美国独立史" href="#anchor3" target="_self"> 美国独立史</a></li></ul><div class="guideOpen">展开&darr;</div></div></div><div class="guideFllow"><div class="guideFllowBorder"><div class="guideFllowTitle">导读（目录）</div><ul id="guideFllowDisplay"><li>·<a title="《独立宣言》背景" href="#anchor1" target="_self"> 《独立宣言》背景</a></li><li>·<a title="《独立宣言》中英文对照" href="#anchor2" target="_self"> 《独立宣言》中英文对照</a></li><li>·<a title="美国独立史" href="#anchor3" target="_self"> 美国独立史</a></li></ul><div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div></div></div><div class="gg2"><a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a></div></div><a name="anchor1"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        《独立宣言》背景</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/custom/section/declaration-of-independence/xixik-7f19749d6e8be994.jpg" style="margin: 10px; float: right; width: 400px;" /></p><p style="TEXT-INDENT:2em"><strong>《独立宣言》</strong>（The Declaration of Independence）是<a href="http://114.xixik.com/us-states/13states/" title="北美十三州">北美洲十三个英属殖民地</a>宣告自大不列颠王国独立，并宣明此举正当性之文告，是美国立国文书之一。</p><div class='right_gg'><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- 336x280-114-left --><ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-3849899595029685"
+     data-ad-slot="9973132210"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><p style="TEXT-INDENT:2em">	1776年7月4日，本宣言由第二次大陆会议(Second Continental Congress)于费城批准，这一天后成为美国独立纪念日。宣言之原件由大陆会议出席代表共同签署，并永久展示于美国华盛顿特区之国家档案与文件署（National Archives and Records Administration , NARA）当中。此独立宣言为美国最重要的立国文书之一。在《独立宣言》中美洲的殖民者阐述了一系列针对英国皇室的不满，表明他们要脱离英国的统治，成立自由的独立州。</p><p style="TEXT-INDENT:2em">	1776 年 7 月 19 日，大陆会议裁示，7月4日通过的《独立宣言》应该&ldquo;采用带有标题和 stile [原文如此] 的羊皮纸用大字正体清晰地誊录：&lsquo;美利坚合众国的 13 个州一致声明&rsquo;&hellip;&hellip;而且在誊录后由大陆会议的每一位成员签字&rdquo;。誊录工作最有可能是由大陆会议秘书查尔斯&middot;汤姆森（Charles Thomson）的助手提摩西&middot;梅拉克从事的。 尽管文件上的日期是&ldquo;1776 年7月4日&rdquo;，但这份誊录的《独立宣言》是在 1776 年8月2日签署的，当时的签署人是当天出席的大陆会议成员，随后大陆会议的其他成员也签署了《独立宣言》。 最后，一共有 56 位代表签署了这份文件。</p><p style="TEXT-INDENT:2em">	《独立宣言》由四部分组成：第一部分为前言，阐述了宣言的目的；第二部分阐述政治体制思想，即自然权利学说和主权在民思想；第三部分历数英国压迫北美殖民地人民的条条罪状，说明殖民地人民是在忍无可忍的情况下被迫拿起武器的，力争独立的合法性和正义性；第四部分，也就是在宣言的最后一部分，美利坚庄严宣告独立。</p><p style="TEXT-INDENT:2em">	自由女神像手里拿的书就是《独立宣言》。</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/custom/section/declaration-of-independence/xixik-4b1408af99f2542f.jpg" style="margin: 10px; float: right; width: 400px;" /></p><p style="TEXT-INDENT:2em"><a href="http://www.xixik.com/content/55f636e4a163a5e3" title="托马斯·杰斐逊起草了《独立宣言》">托马斯&middot;杰斐逊起草了《独立宣言》的第一稿</a>，富兰克林等人又进行了润色。大陆会议对此稿又进行了长时间的、激烈的辩论，最终作出了重大的修改。特别是在佐治亚和卡罗来纳代表们的坚持下，删去了杰斐逊对英王乔治三世允许在殖民地保持奴隶制和奴隶买卖的有力谴责。这一部分的原文是这样的：</p><p style="TEXT-INDENT:2em">	他的人性本身发动了残酷的战争，侵犯了一个从未冒犯过他的远方民族的最神圣的生存权和自由权；他诱骗他们，并把他们运往另一半球充当奴隶，或使他们惨死在运送途中。</p><p style="TEXT-INDENT:2em">	托马斯&middot;杰斐逊（1743-1826），生于弗吉尼亚的一个富裕家庭。曾就读于威廉-玛丽学院。1767年成为律师，1769年当选为弗吉尼亚下院议院。他积极投身于独立运动之中，并代表弗吉尼亚出席大陆会议。他曾两次当选弗吉尼亚州长。1800年当选为美国第三任总统。在杰斐逊任职期间，他派人赴法国谈判，以期购买新奥尔良和西佛罗里达。当时，拿破仑正同英国作战，急需战争经费，便答应了条件，出售了从密西西比河到洛基山山脉的一大片土地。这宗地产交易，经过讨价还价，终于以3美分一英亩的价格成交，史称&ldquo;<a href="http://www.xixik.com/content/9b5bd3c70e5bacdf" title="美国领土扩张史">购买路易斯安那事件</a>&rdquo;（Louisiana Purchase）。这一宗买卖使美国领土扩大了一倍，占今日美国国土的22.3%。</p><p style="TEXT-INDENT:2em">	托马斯&middot;杰弗逊死后被安葬在蒙地沙罗的小山丘上，他的墓志铭上并没有提及自己美国总统的身份,而是写着：&ldquo;弗吉尼亚大学之父以及《弗吉尼亚宗教自由法》、《美国独立宣言》作者托马斯&middot;杰弗逊长眠于此。&rdquo;之所以没有提及其总统身份是因为他对政治抱有一种复杂的感情。</p><p style="text-indent: 2em;"><strong>独立宣言的基本思想</strong></p><p style="text-indent: 2em;">	独立宣言全称《美利坚合众国十三个州一致宣言》，它既不是<a href="http://114.xixik.com/us-states/13states/" title="北美十三州">13个州</a>互不联合的国家或州的宣言，也不是演变为当今联邦制体制美国的宣言，它是13个州联合为合众国的独立宣言。独立宣言一开始就宣布&ldquo;当一个民族必须解除其和另一个民族之间的政治联系，并在世界各国之间依照自然法则和上帝的意旨，接受独立和平等的地位时，出于对人类舆论的尊重，必须把他们不得不独立的原因予以宣布。&rdquo;</p><p style="text-indent: 2em;">	宣言第一部分着重阐述资产阶级民主自由哲学的天赋人权和社会契约说。宣言说：&ldquo;我们认为下面这些真理是不言而喻的：人人生而平等，造物者赋予他们若干不可剥夺的权利，其中包括生命权、自由权和追求幸福的权利。为了保障这些权利，人类才在他们之间建立政府，而政府之正当权利，是经被治理者的同意而产生的。当任何形式的政府对这些目标具有破坏作用时，人民便有权力改变或废除它，以建立一个新的政府。&rdquo;</p><p style="text-indent: 2em;">	宣言宣布&ldquo;当追逐同一目标的一连串滥用职权和强权豪夺发生，证明政府企图把人民置于专制统治之下时，那么人民就有权权利，也有义务推翻这个政府&rdquo;。在这里，宣言体现了天赋人权的平等权利原则、政权民授的民选权利原则，即人民主权的社会契约论和政权更替的革命权利原则。</p><p style="text-indent: 2em;">	宣言的第二部分历数了1763年以来英王乔治三世压迫北美殖民地的专制独裁20多条罪状，其中涉及殖民地立法权利19条。包括&ldquo;拒绝批准对公众利益最有意、最必要的法律&rdquo;、&ldquo;拒绝批准便利广大地区人民的其他法律&rdquo;、&ldquo;一再解散各州的议会&rdquo;、&ldquo;又长期拒绝另选新议会&rdquo;，&ldquo;拒绝批准建立公司法权力的法律&rdquo;、&ldquo;批准那些人炮制的各种伪法案&rdquo;等。</p><p style="text-indent: 2em;">	宣言说：&ldquo;一个君主，当他的品格已打上了暴君行为的烙印时，是不配做自由人民的统治者的。&rdquo;宣言的矛头指向英王而非国会。在大陆会议看来，殖民地与英王是臣属关系，国王侵犯下属利益，理所当然地可以不服从英王。宣言未涉及英国会通过的&ldquo;印花税法、汤森税法&rdquo;等具体法令，而代之以&ldquo;未经我们同意便向我们强行征税&rdquo;。</p><p style="text-indent: 2em;">	宣言最后以美利坚合众国代表名义郑重宣布：&ldquo;这些联合一致的殖民地从此是自由和独立的国家，并且按其权利也必须是自由和独立的国家&rdquo;，&ldquo;它们取消一切对英国王室效忠的义务，它们和大不列颠国家之间的政治关系从此全部断绝&rdquo;；&ldquo;作为自由独立的国家，它们完全有权宣战、缔和、结盟、通商和采取独立国家有权采取的一切行动。&rdquo;</p><p style="text-indent: 2em;"><strong>独立宣言的历史地位</strong></p><p style="text-indent: 2em;">	《独立宣言》充分表达了北美人民争取民主、自由、平等和民族独立的政治主张，体现了革命精神和独立革命的革命性质。它是动员和组织群众进行反英独立战争的一面旗帜，是讨英战争的战斗檄文，是美国历史上的里程碑。它是美利坚合众国独立和诞生的标志。尽管史家经过考证对独立宣言的签署日期提出质疑，对是否标志独立和诞生提出质疑，尽管独立宣言本身并未在名称上冠以独立的字样，但是今天美国政府和人民已普遍接受并选择7月4日作为独立宣言产生的标志日，并且把独立宣言看成美利坚合众国的独立和诞生的标志。</p><p style="text-indent: 2em;">	政体是指国家政权的组织形式和国家机构的组织原则，是如何统治国家的问题。美国实行的是共和制的政体，这一点首先体现在独立宣言中，而不是在联邦宪法中才确定的。再说，就中央和地方的关系而言，美国一直是复合制国家，中间经过邦联到联邦的变化，独立宣言体现最初的邦联特色，联邦宪法则改变为联邦特色。用邦联和联邦来判断独立和诞生似乎不妥。何况无论是主权在州的合众国、合州国，或主权在联邦的合众国，都是独立的主权国家。</p><p style="text-indent: 2em;">	《独立宣言》的精髓是宣扬人人生而平等的天赋人权思想、政权来自人民的政权民授主张和人民有权重组政权的革命权利。人人生而平等的政治主张来源于英国唯物主义思想家托马斯&middot;霍布斯（1588-1679）和约翰&middot;洛克（1632-1704）。霍布斯主张&ldquo;在自然状态里，人是生而平等的&rdquo;。洛克反对君权神授，提出了分权说，拥护代议制。有的学者认为：&ldquo;如果说有任何一个人统治了美国革命的政治哲学的话，他就是洛克&rdquo;。</p><p style="text-indent: 2em;">	宣言把人人生而平等作为立国原则无疑是一大进步，它是对封建主义的挑战。然而，宣言中的&ldquo;人人&rdquo;，并非指一切美国人。正如有的学者所言：&ldquo;这些人，主要地是白种人的盎格鲁-撒克逊族的信奉基督教的人，即所谓&lsquo;瓦式普&rsquo;（WASP）&rdquo;。是指以杰斐逊、亚当斯、华盛顿、富兰克林等为中心的美国人。即一切在社会条件和社会地位上和他们近似的美国人&rdquo;。&ldquo;这里的人民概念，是有起浓厚强烈的阶级内容，有其局限性和时间性的&rdquo;，&ldquo;把人民的概念夸大，抽象化，绝对化，说成超然的人民，这本身就是对美国历史的最大的歪曲。&rdquo;</p><p style="text-indent: 2em;">	宣言强调追求幸福权利脱胎于洛克的学说。洛克强调&ldquo;每一个人都被自然赋予权利，其中包括生命、自由和财产的权利&rdquo;。宣言用追求幸福权取代了&ldquo;财产&rdquo;权。</p><p style="text-indent: 2em;">	宣言还强调政权民授的思想，这比君权神授、政权君授是重大进步。这是对社会契约论的一个发展。</p><p style="TEXT-INDENT:2em"><strong>背景及影响</strong></p><p style="text-indent: 2em;">	1760年代与1770年代间，英属北美十三殖民地与大不列颠王国之间紧张关系持续升高，终在1775年爆发列克星敦和康科德战役（莱克星顿枪声）（Battle of Lexington and Concord），成为美国独立战争之先声。</p><p style="text-indent: 2em;">	早在独立前的一百多年间，欧洲启蒙思想就开始在北美传播，为《独立宣言》的发表奠定了理论基础。独立宣言不仅对欧美革命发生重大影响，而且也影响到了全世界民族独立。</p><p style="text-indent: 2em;"><strong>《独立宣言》的经典名句语录</strong></p><p style="text-indent: 2em;">	我们认为下面这些真理是不言而喻的：人人生而平等，造物者赋予他们若干不可剥夺的权利，其中包括生命权、自由权和追求幸福的权利。为了保障这些权利，人类才在他们之间建立起政府，而政府之正当权力，是经被治理者的同意而产生的。当任何形式的政府对这些目标具破坏作用时，人民便有权力改变或废除它，以建立起一个新的政府。</p><p style="text-indent: 2em;">	只要邪恶尚可容忍，人类就倾向于默然忍受。</p><p style="text-indent: 2em;">	所有的人是生而平等的。</p></div></div></div><a name="anchor2"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        《独立宣言》中英文对照</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	THE DECLARATION OF INDEPENDENCE独立宣言</p><p style="TEXT-INDENT:2em">	In Congress, July 4, 1776,</p><p style="TEXT-INDENT:2em">	大陆会议（一七七六年七月四日）</p><p style="TEXT-INDENT:2em">	THE UNANIMOUS DECLARATION OF THE THIRTEEN UNITED STATES OF AMERICA</p><p style="TEXT-INDENT:2em">	美利坚合众国十三个州一致通过的独立宣言</p><p style="TEXT-INDENT:2em">	好莱坞群星梅尔&middot;吉布森，凯文&middot;史派西，迈克尔&middot;道格拉斯，爱德华&middot;诺顿，乌比&middot;戈德堡，凯茜&middot;贝茨，蕾妮&middot;齐薇格&hellip;&hellip;<a href="http://edge.ivideo.sina.com.cn/142695754.mp4?KID=sina,viask&amp;Expires=1570118400&amp;ssig=XqRHODBqSv" title="好莱坞群星在费城独立厅朗读《独立宣言》">在费城独立厅朗读《独立宣言》</a></p><p><img src="http://img.xixik.net/custom/section/declaration-of-independence/xixik-661dcc6a28eb218e.jpeg" style="text-indent: 28px; margin: 10px; float: right; width: 400px;" /></p><p style="TEXT-INDENT:2em">	When in the Course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume among the Powers of the earth, the separate and equal station to which the Laws of Nature and of Nature&#39;s God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation.</p><p style="TEXT-INDENT:2em">	在有关人类事务的发展过程中，当一个民族必须解除其和另一个民族之间的政治联系，并在世界各国之间依照自然法则和自然之造物主的意旨，接受独立和平等的地位时，出于人类舆论的尊重，必须把他们不得不独立的原因予以宣布。</p><p style="TEXT-INDENT:2em">	We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty, and the pursuit of Happiness.</p><p style="TEXT-INDENT:2em"><span style="color:#ff0000;"><strong>我们认为这些真理是不言而喻的：人人生而平等，造物者赋予他们若干不可剥夺的权利，其中包括生命权、自由权和追求幸福的权利。</strong></span></p><p style="TEXT-INDENT:2em">	That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed.</p><p style="TEXT-INDENT:2em">	为了保障这些权利，人类才在他们之间建立政府，而政府之正当权力，是经被治理者的同意而产生的。</p><p style="TEXT-INDENT:2em">	That whenever any form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness. Prudence, indeed, will dictate that Governments long established should not be changed for light and transient causes; and accordingly all experience has shown, that mankind are more disposed to suffer, while evils are sufferable, than to right themselves by abolishing the forms to which they are accustomed. But when a long train of abuses and usurpations, pursuing invariably the same Object, evinces a design to reduce them under absolute Despotism, it is their right, it is their duty, to throw off such Government, and to provide new Guards for their future security.</p><p style="TEXT-INDENT:2em">	当任何形式的政府对这些目标具破坏作用时，人民便有权力改变或废除它，以建立一个新的政府；其赖以奠基的原则，其组织权力的方式，务使人民认为唯有这样才最可能获得他们的安全和幸福。为了慎重起见，成立多年的政府，是不应当由于轻微和短暂的原因而予以变更的。过去的一切经验也都说明，任何苦难，只要是尚能忍受，人类都宁愿容忍，而无意为了本身的权益便废除他们久已习惯了的政府。但是，当追逐同一目标的一连串滥用职权和强取豪夺发生，证明政府企图把人民置于专制统治之下时，那么人民就有权利，也有义务推翻这个政府，并为他们未来的安全建立新的保障－－</p><p style="TEXT-INDENT:2em">	Such has been the patient sufferance of these Colonies; and such is now the necessity which constrains them to alter their former Systems of Government. The history of the present King of Great Britain is a history of repeated injuries and usurpations, all having in direct object the establishment of an absolute Tyranny over these States. To prove this, let Facts be submitted to a candid world.</p><p style="TEXT-INDENT:2em">	这就是这些殖民地过去逆来顺受的情况，也是它们不得不改变政府制度的原因。大不列颠国在位国王的历史，是接连不断的伤天害理和强取豪夺的历史，这些暴行的唯一目标，就是想在这些州建立专制的暴政。为了证明所言属实，现把下列事实向公正的世界宣布－－</p><p style="TEXT-INDENT:2em">	He has refused his Assent to Laws, the most wholesome and necessary for the public good.</p><p style="TEXT-INDENT:2em">	他拒绝批准对公众利益最有益、最必要的法律。</p><p style="TEXT-INDENT:2em">	He has forbidden his Governors to pass Laws of immediate and pressing importance, unless suspended in their operation till his Assent should be obtained; and when so suspended, he has utterly neglected to attend to them.</p><p style="TEXT-INDENT:2em">	他禁止他的总督们批准迫切而极为必要的法律，要不就把这些法律搁置起来暂不生效，等待他的同意；而一旦这些法律被搁置起来，他对它们就完全置之不理。</p><p style="TEXT-INDENT:2em">	He has refused to pass other Laws for the accommodation of large districts of people, unless those people would relinquish the right of Representation in the Legislature, a right inestimable to them and formidable to tyrants only.</p><p style="TEXT-INDENT:2em">	他拒绝批准便利广大地区人民的其它法律，除非那些人民情愿放弃自己在立法机关中的代表权；但这种权利对他们有无法估量的价值，而且只有暴君才畏惧这种权利。</p><p style="TEXT-INDENT:2em">	He has called together legislative bodies at places unusual, uncomfortable, and distant from the depository of their public Records, for the sole purpose of fatiguing them into compliance with his measures.</p><p style="TEXT-INDENT:2em">	他把各州立法团体召集到异乎寻常的、极为不便的、远离它们档案库的地方去开会，唯一的目的是使他们疲于奔命，不得不顺从他的意旨。</p><p style="TEXT-INDENT:2em">	He has dissolved Representative Houses repeatedly, for opposing with manly firmness his invasions on the rights of the people.</p><p style="TEXT-INDENT:2em">	他一再解散各州的议会，因为它们以无畏的坚毅态度反对他侵犯人民的权利。</p><p style="TEXT-INDENT:2em">	He has refused for a long time, after such dissolutions, to cause others to be elected; whereby the Legislative powers, incapable of Annihilation, have returned to the People at large for their exercise; the State remaining in the mean time exposed to all the dangers of invasion from without, and convulsions within.</p><p style="TEXT-INDENT:2em">	他在解散各州议会之后，又长期拒绝另选新议会；但立法权是无法取消的，因此这项权力仍由一般人民来行使。其实各州仍然处于危险的境地，既有外来侵略之患，又有发生内乱之忧。</p><p style="TEXT-INDENT:2em">	He has endeavoured to prevent the population of these States; for that purpose obstructing the Laws of Naturalization of Foreigners; refusing to pass others to encourage their migrations hither, and raising the conditions of new Appropriations of Lands .</p><p style="TEXT-INDENT:2em">	他竭力抑制我们各州增加人口；为此目的，他阻挠外国人入籍法的通过，拒绝批准其它鼓励外国人移居各州的法律，并提高分配新土地的条件。</p><p style="TEXT-INDENT:2em">	He has obstructed the Administration of Justice, by refusing his Assent to Laws for establishing Judiciary powers.</p><p style="TEXT-INDENT:2em">	他拒绝批准建立司法权力的法律，藉以阻挠司法工作的推行。</p><p style="TEXT-INDENT:2em">	He has made Judges dependent on his Will alone, for the tenure of their offices, and the amount and payment of their salaries.</p><p style="TEXT-INDENT:2em">	他把法官的任期、薪金数额和支付，完全置于他个人意志的支配之下。</p><p style="TEXT-INDENT:2em">	He has erected a multitude of New Offices, and sent hither swarms of Officers to harass our People, and eat out their substance.</p><p style="TEXT-INDENT:2em">	他建立新官署，派遣大批官员，骚扰我们人民，并耗尽人民必要的生活物质。</p><p style="TEXT-INDENT:2em">	He has kept among us, in times of peace, Standing Armies without the Consent of our legislatures.</p><p style="TEXT-INDENT:2em">	他在和平时期，未经我们的立法机关同意，就在我们中间维持常备军。</p><p style="TEXT-INDENT:2em">	He has affected to render the Military independent of and superior to the Civil power.</p><p style="TEXT-INDENT:2em">	他力图使军队独立于民政之外，并凌驾于民政之上。</p><p style="TEXT-INDENT:2em">	He has combined with others to subject us to a jurisdiction foreign to our constitution, and unacknowledged by our laws; giving his Assent to their Acts of pretended Legislation:</p><p style="TEXT-INDENT:2em">	他同某些人勾结起来把我们置于一种不适合我们的体制且不为我们的法律所承认的管辖之下；他还批准那些人炮制的各种伪法案来达到以下目的：</p><p style="TEXT-INDENT:2em">	For quartering large bodies of armed troops among us:</p><p style="TEXT-INDENT:2em">	在我们中间驻扎大批武装部队；</p><p style="TEXT-INDENT:2em">	For protecting them, by a mock Trial, from Punishment for any Murders which they should commit on the Inhabitants of these States:</p><p style="TEXT-INDENT:2em">	用假审讯来包庇他们，使他们杀害我们各州居民而仍然逍遥法外；</p><p style="TEXT-INDENT:2em">	For cutting off our Trade with all parts of the world:</p><p style="TEXT-INDENT:2em">	切断我们同世界各地的贸易；</p><p style="TEXT-INDENT:2em">	For imposing Taxes on us without our Consent:</p><p style="TEXT-INDENT:2em">	未经我们同意便向我们强行征税；</p><p style="TEXT-INDENT:2em">	For depriving us in many cases, of the benefits of Trial by Jury:</p><p style="TEXT-INDENT:2em">	在许多案件中剥夺我们享有陪审制的权益；</p><p style="TEXT-INDENT:2em">	For transporting us beyond Seas to be tried for pretended offences:</p><p style="TEXT-INDENT:2em">	罗织罪名押送我们到海外去受审；</p><p style="TEXT-INDENT:2em">	For abolishing the free System of English Laws in a neighbouring Province, establishing therein an Arbitrary government, and enlarging its Boundaries so as to render it at once an example and fit instrument for introducing the same absolute rule into these Colonies:</p><p style="TEXT-INDENT:2em">	在一个邻省废除英国的自由法制，在那里建立专制政府，并扩大该省的疆界，企图把该省变成既是一个样板又是一个得心应手的工具，以便进而向这里的各殖民地推行同样的极权统治；</p><p style="TEXT-INDENT:2em">	For taking away our Charters, abolishing our most valuable Laws, and altering fundamentally the forms of our Governments:</p><p style="TEXT-INDENT:2em">	取消我们的宪章，废除我们最宝贵的法律，并且根本上改变我们各州政府的形式；</p><p style="TEXT-INDENT:2em">	For suspending our own Legislatures, and declaring themselves invested with power to legislate for us in all cases whatsoever.</p><p style="TEXT-INDENT:2em">	中止我们自己的立法机关行使权力，宣称他们自己有权就一切事宜为我们制定法律。</p><p style="TEXT-INDENT:2em">	He has abdicated Government here, by declaring us out of his Protection and waging War against us.</p><p style="TEXT-INDENT:2em">	他宣布我们已不属他保护之列，并对我们作战，从而放弃了在这里的政务。</p><p style="TEXT-INDENT:2em">	He has plundered our seas, ravaged our Coasts, burnt our towns, and destroyed the Lives of our people.</p><p style="TEXT-INDENT:2em">	他在我们的海域大肆掠夺，蹂躏我们沿海地区，焚烧我们的城镇，残害我们人民的生命。</p><p style="TEXT-INDENT:2em">	He is at this time transporting large armies of foreign mercenaries to compleat the works of death, desolation and tyranny, already begun with circumstances of Cruelty &amp; perfidy scarcely paralleled in the most barbarous ages, and totally unworthy the Head of a civilized nation.</p><p style="TEXT-INDENT:2em">	他此时正在运送大批外国佣兵来完成屠杀、破坏和肆虐的老勾当，这种勾当早就开始，其残酷卑劣甚至在最野蛮的时代都难以找到先例。他完全不配作为一个文明国家的元首。</p><p style="TEXT-INDENT:2em">	He has constrained our fellow Citizens taken Captive on the high Seas to bear Arms against their Country, to become the executioners of their friends and Brethren, or to fall themselves by their Hands.</p><p style="TEXT-INDENT:2em">	他在公海上俘虏我们的同胞，强迫他们拿起武器来反对自己的国家，成为残杀自己亲人和朋友的刽子手，或是死于自己的亲人和朋友的手下。</p><p style="TEXT-INDENT:2em">	He has excited domestic insurrections amongst us, and has endeavoured to bring on the inhabitants of our frontiers, the merciless Indian Savages, whose known rule of warfare, is an undistinguished destruction of all ages, sexes and conditions.</p><p style="TEXT-INDENT:2em">	他在我们中间煽动内乱，并且竭力挑唆那些残酷无情、没有开化的印第安人来杀掠我们边疆的居民；而众所周知，印第安人的作战律令是不分男女老幼，一律格杀勿论的。</p><p style="TEXT-INDENT:2em">	In every stage of these Oppressions We have Petitioned for Redress in the most humble terms: Our repeated Petitions have been answered only by repeated injury. A Prince, whose character is thus marked by every act which may define a Tyrant, is unfit to be the ruler of a free people.</p><p style="TEXT-INDENT:2em">	在这些压迫的每一阶段中，我们都是用最谦卑的言辞请愿改善；但屡次请求所得到的答复是屡次遭受损害。一个君主，当他的品格已打上了暴君行为的烙印时，是不配作自由人民的统治者的。</p><p style="TEXT-INDENT:2em">	Nor have We been wanting in attention to our British brethren. We have warned them from time to time of attempts by their legislature to extend an unwarrantable jurisdiction over us. We have reminded them of the circumstances of our emigration and settlement here. We have appealed to their native justice and magnanimity, and we have conjured them by the ties of our common kindred to disavow these usurpation, which would inevitably interrupt our connections and correspondence. They too have been deaf to the voice of justice and of consanguinity. We must, therefore, acquiesce in the necessity, which denounces our Separation, and hold them, as we hold the rest of mankind, Enemies in War, in Peace Friends.</p><p style="TEXT-INDENT:2em">	我们不是没有顾念我们英国的弟兄。我们时常提醒他们，他们的立法机关企图把无理的管辖权横加到我们的头上。我们也曾把我们移民出这里和在这里定居的情形告诉他们。我们曾经向他们天生的正义感和雅量呼吁，我们恳求他们念在同种同宗的份上，弃绝这些掠夺行为，以免影响彼此的关系和往来。但是他们却对于这种正义和血缘的呼声一直充耳不闻。因此，我们实在不得不宣布和他们脱离，并且以对待世界上其它民族一样的态度对待他们：战即为敌；和则为友。</p><p style="TEXT-INDENT:2em">	We, therefore, the Representatives of the United States of America, in General Congress, Assembled, appealing to the Supreme Judge of the world for the rectitude of our intentions, do, in the Name, and by Authority of the good People of these Colonies, solemnly publish and declare, That these United Colonies are, and of Right ought to be Free and Independent States; that they are Absolved from all Allegiance to the British Crown, and that all political connection between them and the State of Great Britain, is and ought to be totally dissolved; and that as Free and Independent States, they have full Power to levy War, conclude Peace, contract Alliances, establish Commerce, and to do all other Acts and Things which Independent States may of right do. And for the support of this Declaration, with a firm reliance on the Protection of pine Providence, we mutually pledge to each other our Lives, our Fortunes and our sacred Honor.</p><p style="TEXT-INDENT:2em">	因此，我们，在大陆会议上集会的美利坚合众国代表，以各殖民地善良人民的名义并经他们授权，向全世界最崇高的正义呼吁，说明我们的严正意向，同时郑重宣布；这些联合的殖民地是而且有权成为自由和独立的国家，它们取消一切对英国王室效忠的义务，它们和大不列颠国家之间的一切政治关系从此全部断绝，而且必须断绝；作为自由独立的国家，它们完全有权宣战、缔和、结盟、通商和独立国家有权去做的一切行动。为了支持这篇宣言，我们坚决信赖上帝的庇佑，以我们的生命、我们的财产和我们神圣的名誉，彼此宣誓。</p><p style="TEXT-INDENT:2em">	JOHN HANCOCK, President</p><p style="TEXT-INDENT:2em">	约翰&middot;汉考克，主席</p><p style="TEXT-INDENT:2em">	Attested, CHARLES THOMSON, Secretary</p><p style="TEXT-INDENT:2em">	鉴定无误，查尔斯&middot;汤森，秘书</p><p style="TEXT-INDENT:2em">	New Hampshire: JOSIAH BARTLETT, WILLIAM WHIPPLE, MATTHEW THORNTON</p><p style="TEXT-INDENT:2em">	新罕布夏：约西亚&middot;巴列特、威廉&middot;卫普、马修&middot;松顿</p><p style="TEXT-INDENT:2em">	Massachusetts-Bay: SAMUEL ADAMS, JOHN ADAMS, ROBERT TREAT PAINE, ELBRIDGE GERRY</p><p style="TEXT-INDENT:2em">	马萨诸塞：塞缪尔&middot;亚当斯、约翰&middot;亚当斯、罗伯特&middot;崔特&middot;潘恩、艾尔布里吉&middot;杰利</p><p style="TEXT-INDENT:2em">	Rhode Island: STEPHEN HOPKINS, WILLIAM ELLERY</p><p style="TEXT-INDENT:2em">	罗德岛州：史帝芬&middot;霍普金斯、威廉&middot;艾勒里</p><p style="TEXT-INDENT:2em">	Connecticut: ROGER SHERMAN, SAMUEL HUNTINGTON, WILLIAM WILLIAMS, OLIVER WOLCOTT</p><p style="TEXT-INDENT:2em">	康涅狄格州：罗杰&middot;谢尔曼、山缪&middot;杭丁顿、威廉&middot;威廉斯、奥利佛&middot;渥寇特</p><p style="TEXT-INDENT:2em">	Georgia: BUTTON GWINNETT, LYMAN HALL, GEO. WALTON</p><p style="TEXT-INDENT:2em">	乔治亚：巴顿&middot;格威内特、李曼&middot;候尔、乔治&middot;沃尔顿</p><p style="TEXT-INDENT:2em">	Maryland: SAMUEL CHASE, WILLIAM PACA, THOMAS STONE, CHARLES CARROLL OF CARROLLTON</p><p style="TEXT-INDENT:2em">	马里兰：山缪&middot;却斯、威廉&middot;帕卡、托马斯&middot;史东、卡罗顿的查尔斯&middot;卡罗</p><p style="TEXT-INDENT:2em">	Virginia: GEORGE WYTHE, RICHARD HENRY LEE, THOMAS JEFFERSON, BENJAMIN HARRISON, THOMAS NELSON, JR., FRANCIS LIGHTFOOT LEE, CARTER BRAXTON.</p><p style="TEXT-INDENT:2em">	维吉尼亚：乔治&middot;怀勒、理查&middot;亨利&middot;李、托马斯&middot;杰斐逊、本杰明&middot;哈里森、小托马斯&middot;尼尔森、法兰西斯&middot;莱富特&middot;李、卡特&middot;布瑞斯顿</p><p style="TEXT-INDENT:2em">	New York: WILLIAM FLOYD, PHILIP LIVINGSTON, FRANCIS LEWIS, LEWIS MORRIS</p><p style="TEXT-INDENT:2em">	纽约：威廉&middot;佛洛依德、菲利普&middot;李文斯顿、法兰西斯&middot;路易斯、路易斯&middot;莫里斯</p><p style="TEXT-INDENT:2em">	Pennsylvania: ROBERT MORRIS, BENJAMIN RUSH, BENJAMIN FRANKLIN, JOHN MORTON, GEORGE CLYMER, JAMES SMITH, GEORGE TAYLOR, JAMES WILSON, GEORGE ROSS</p><p style="TEXT-INDENT:2em">	宾夕法尼亚：罗伯特&middot;莫里斯、本杰明&middot;拉许、本杰明&middot;富兰克林、约翰&middot;莫顿、乔治&middot;克莱谟、詹姆斯&middot;史密斯、乔治&middot;泰勒、詹姆斯&middot;威尔森、乔治&middot;罗斯</p><p style="TEXT-INDENT:2em">	Delaware:GEORGEREAD, GUNNING BEDFORD, JOHN DICKINSON, RICHARD BASSETT, JACOB BROOM</p><p style="TEXT-INDENT:2em">	特拉华：乔治&middot;瑞德、小冈宁&middot;贝德福德、约翰&middot;迪金森、理查德&middot;巴塞特、雅各布&middot;布朗</p><p style="TEXT-INDENT:2em">	North Carolina: WILLIAM HOOPER, JOSEPH HEWES, JOHN PENN</p><p style="TEXT-INDENT:2em">	北卡罗莱那：威廉&middot;霍普、约瑟夫&middot;希维斯、约翰&middot;潘恩</p><p style="TEXT-INDENT:2em">	South Carolina: EDWARD RUTLEDGE, THOMAS HEYWARD, JR., THOMAS LYNCH, JR., ARTHUR MIDDLETON</p><p style="TEXT-INDENT:2em">	南卡罗莱那：爱德华&middot;拉特利奇、托马斯&middot;黑华、小托马斯&middot;林区、亚瑟&middot;米窦顿</p><p style="TEXT-INDENT:2em">	New Jersey: RICHARD STOCKTON, JOHN WITHERSPOON, FRANCIS HOPKINS, JOHN HART, ABRAHAM CLARK</p><p style="TEXT-INDENT:2em">	新泽西：理查&middot;史塔克顿、约翰&middot;维斯朋、法兰西斯&middot;霍普金斯、约翰&middot;哈特、亚伯拉罕&middot;克拉克</p></div></div></div><a name="anchor3"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        美国独立史</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	1774年7月，在弗吉尼亚议会第一次会议上，托马斯&middot;杰斐逊起草了《英属美洲权利综论》，主张各个殖民地没有必要承认英国议会的权力，&ldquo;我们移民到这个国家，就不再给予英格兰对我们的统治权力。&rdquo;同年夏，宾夕法尼亚律师詹姆斯&middot;威尔逊在费城出版了《英国议会权限探讨》小册子，提出反对英国议会征税权的论据，同样可以适用于反对英议会的立法权。这两个文件在第一届大陆会议上被广泛传阅。</p><p style="TEXT-INDENT:2em">	1774年6-10月，弗吉尼亚、马里兰、新罕布什尔、南卡罗来纳、新泽西、北卡罗来纳、特拉华、马萨诸塞等州，先后推翻了总督，建立了新议会。1776年1月6日，新罕布什尔州通过了新的州宪法。1月9日，托马斯&middot;潘恩在费城发表了著名的革命著作《常识》，对<a style="color:#000" title="独立宣言" href="http://114.xixik.com/declaration-of-independence/">独立宣言</a>的产生有重要影响。3月26日，南卡罗来纳州通过了新宪法，成立独立政府。</p><p style="TEXT-INDENT:2em">	1776年，弗吉尼亚议会通过了由乔治&middot;梅森草拟的《弗吉尼亚权利法案》，宣布&ldquo;所有人都是生来同样自由与独立的，并享有某些天赋权利，……享受生活与自由的权利,包括获取与拥有财产、追求和享有幸福与安全的手段。&rdquo;&ldquo;所有的权利都属于人民，因而也来自人民&rdquo;；&ldquo;长官是他们的受托人与仆人，无论何时都应服从他们&rdquo;；&ldquo;最好的政府是能够提供最大幸福和安全的政府，是能够最有效力防止弊政危险的政府&rdquo;，&ldquo;社会的大多数人&rdquo;有权&ldquo;改革、变换或废黜政府&rdquo;；&ldquo;行政官、立法者与法官等职不应世袭&rdquo;。</p><p style="TEXT-INDENT:2em">	在16条权利法案中列举了各项基本民主权利，包括选举、诉讼、人身、出版、宗教信仰等自由权。法案也规定了三权分立体制和以民兵代常备军。这一法案被认为&ldquo;不但在美国而且在国外也被广泛摹仿；它在法国特别受到欢迎，对后来的法国人权宣言也有所贡献。</p><p style="TEXT-INDENT:2em">	6月27日，弗吉尼亚州批准州宪法，并把权利法案列为宪法序言。1776年6月14-28日，特拉华、康涅狄克、新罕布什尔、马里兰先后宣布成立独立共和制政府。6月28日，杰斐逊将文件起草后，有几处经亚当斯、富兰克林修补。同日，起草委员会将宣言草稿提交大陆会议。经两天讨论，9个殖民地代表赞成，南卡罗来纳、宾夕法尼亚代表反对，特拉华两名代表意见相佐，纽约代表未获指示，不准备投票。随后两天，情况发生变化，对独立持犹豫和反对的州改变态度，纽约代表不表示反对，特拉华代表表示同意。7月2日，大会就独立问题通过了投票，没有反对票。</p><p style="TEXT-INDENT:2em">	7月4日，大陆会议正式通过了《<a style="color:#000" title="独立宣言" href="http://114.xixik.com/declaration-of-independence/">独立宣言</a>》，并决定再提交各州全体会议审议，13个殖民地的55名代表先后在宣言上签字。7月5-6日，宣言副本由主席约翰&middot;汉考克和秘书查尔斯&middot;汤姆森签署后发送各州。7月8日在费城，9日在纽约，都先后宣读了<a style="color:#000" title="独立宣言" href="http://114.xixik.com/declaration-of-independence/">独立宣言</a>，7月10日，华盛顿在部队中宣读。7月19日，大陆会议决议使用一致宣言形式。8月2日，大陆会议全体代表再次签署宣言。1777年1月19日，大陆会议首次公布<a style="color:#000" title="独立宣言" href="http://114.xixik.com/declaration-of-independence/">独立宣言</a>签署者名单。</p><p style="TEXT-INDENT:2em">	1776年4-7月，《<a style="color:#000" title="独立宣言" href="http://114.xixik.com/declaration-of-independence/">独立宣言</a>》经历了较长时间的酝酿和辩论。4月12日，北卡罗来纳代表宣布殖民地应脱离英国独立。5月4日，罗德艾兰及普罗维登斯殖民地宣布独立。5月14日，弗吉尼亚赞成独立。5月15日，弗吉尼亚议会建议大陆会议宣布&ldquo;这些联合殖民地为自由、独立的国家&rdquo;，&ldquo;解除与大不列颠国王或国会的一切隶属或依附关系&rdquo;。6月7日，弗吉尼亚代表理查德&middot;亨利&middot;李在大陆会议上提出议案，宣布&ldquo;殖民地是自由和独立的国家，并且按其权利必须是自由和独立的国家。&rdquo;大陆会议多数代表同意亨利&middot;李在大陆会议的动议，但未就宣言取得一致性意见，遂决定推迟三周讨论。6月11日，根据大陆会议决议，由5人组成宣言起草委员会：托马斯&middot;杰斐逊、约翰&middot;亚当斯、本杰明&middot;富兰克林、罗杰&middot;谢尔曼和罗伯特&middot;利文斯顿。杰斐逊为委员会的当然主席和主要执笔人。</p><p style="TEXT-INDENT:2em">	1776年的7月4日，<a style="color:#000" title="美国国会" href="http://114.xixik.com/congress/">美国国会</a>通过由13州代表签字的《<a style="color:#000" title="独立宣言" href="http://114.xixik.com/declaration-of-independence/">独立宣言</a>》，正式脱离英国的殖民统治而独立。然而，美国的独立并非由一纸宣言而体现，而是经过1775年至1783年，总共八年的血腥战争，英军战败投降，才有结果的。</p><p style="TEXT-INDENT:2em">	追求生命自由平等的《<a style="color:#000" title="独立宣言" href="http://114.xixik.com/declaration-of-independence/">独立宣言</a>》，仍然是美国以至人类历史发展的一大里程碑。</p><p style="TEXT-INDENT:2em"><strong>《<a style="color:#000" title="独立宣言" href="http://114.xixik.com/declaration-of-independence/">独立宣言</a>》的超越之旅</strong></p><p style="TEXT-INDENT:2em">	记者得未来人之助，来到签署《<a style="color:#000" title="独立宣言" href="http://114.xixik.com/declaration-of-independence/">独立宣言</a>》的大现场。</p><p style="TEXT-INDENT:2em">	美国开国元勋们经历了冗长严肃的辩论过程后，昨天终于在费城栗树街(Chestnut Street)的独立宫(Independence Hall)内，签署了脱离英国人统治的《<a style="color:#000" title="独立宣言" href="http://114.xixik.com/declaration-of-independence/">独立宣言</a>》。在这份重要的历史文件上签字的，共有56名各界人士。</p><p style="TEXT-INDENT:2em">	记者采访了起草委员会五人中的托马斯&middot;杰佛逊(ThomasJefferson)，我从1999年的资料中得知，他是美国第三任总统。</p><p style="TEXT-INDENT:2em">	当时的杰佛逊只有33岁，并且是在内心极其痛苦的情况下写出这部伟大作品，因为当时他的母亲刚刚去世，不久前又死了一个孩子，爱妻玛霞正在生病。</p><p style="TEXT-INDENT:2em">	杰佛逊中等个子，瘦长身材，淡褐色的眼睛炯炯有神，宽大的额头，薄嘴唇，尖下巴，俨然一幅智慧超群的神态。他在受访谈到《<a style="color:#000" title="独立宣言" href="http://114.xixik.com/declaration-of-independence/">独立宣言</a>》时说：&ldquo;我们认为这些真理是不辩自明的：人人生而平等，造物主赋予他们若干不可割让的权利，其中包括生命、自由和追求幸福的权利。&rdquo;</p><p style="TEXT-INDENT:2em">	他的这一番话，是《<a style="color:#000" title="独立宣言" href="http://114.xixik.com/declaration-of-independence/">独立宣言</a>》全文的精髓之处。</p><p style="TEXT-INDENT:2em">	《<a style="color:#000" title="独立宣言" href="http://114.xixik.com/declaration-of-independence/">独立宣言</a>》是在北美13个殖民地一再遭受英国政府的压迫和剥削的时代背景下的产物。它为人权奠下基调，说明人类具有的以上权利是上帝在造人时所赋予的，而人类为了保护这些权利，因此组织政府。</p><p style="TEXT-INDENT:2em">	宣言明确指出：&ldquo;为确保这些权利，推广并促进这些权利，人民起而组织政府;政府既是人民所组织的，它的权力，当然就来自人民。&rdquo;</p><p style="TEXT-INDENT:2em">	它提出一个重要原则：人民既然可以组织政府，当然也可以解散政府，并且另组一个新政府，不过，人民必须是在走投无路、忍无可忍的情况下，才能起而解除一种既有的政治联系，建立另一种政治联系。</p><p style="TEXT-INDENT:2em">	宣言确立的原则，总结了北美人民经历了英国人的压迫所获得历史经验，它也成为民主政体发展的蓝本。与此同时，英国人欺人太甚的行径，也通过宣言的阐明让后人得知。</p><p style="TEXT-INDENT:2em">	宣言中有这么一段申诉：&ldquo;任何苦难，只要是还可以忍受，他们(北美人民)是不会为了一己的权利而随意地改变久已习惯的政府的。但是，等到一连串的暴虐和掠夺莫不指往一个方面发展、证明了政府的全部意图不过是把人民置于专制的虐政之下时，那么，人民就有权利，而且，也有义务把这个政府推翻，以便为他们的未来安全寻求新的保证&hellip;&hellip;&rdquo;</p><p style="TEXT-INDENT:2em">	由此可见，英国人对待殖民地人民&ldquo;无法无天&rdquo;的行为，已到了令人发指的地步。</p><p style="TEXT-INDENT:2em">	有鉴于此，北美殖民地人民为了表明推翻英国统治，强调人权与平等的决心，杰佛逊在宣言中，义正词严数说英国人在13州倒行逆施的罪行。</p><p style="TEXT-INDENT:2em">	记者从追溯历史的过程中发现，英国人在北美洲的政治权，是根据一纸合约建立起来的，而最高主权还是操在北美洲人民手上。但是英国人却喧宾夺主，他们错误地以为主权是在自己手上，想方设法要取消合约，以为所欲为。</p><p style="TEXT-INDENT:2em">	英国人甚至发动攻势，抢夺北美洲的土地和财富，并暴虐地控制殖民地人民，面对这样的侵犯，北美殖民地人民是不能再忍气吞声了，若再不还击，北美洲人民就会完全丧失与生俱有的平等性和民主权利了。</p><p style="TEXT-INDENT:2em">	他们终于联合起来，以《<a style="color:#000" title="独立宣言" href="http://114.xixik.com/declaration-of-independence/">独立宣言</a>》作为向英国宣战的檄文，决心组成一个新国家，而乔治&middot;华盛顿获选为美国第一任总统。</p><p style="TEXT-INDENT:2em">	《<a style="color:#000" title="独立宣言" href="http://114.xixik.com/declaration-of-independence/">独立宣言</a>》是一篇气势万千的历史性文件，它谈到人权、人民和政府的关系、更数落了英国人的不是，然而，最重要的是它为人民带来了国家诞生的喜讯。</p><p style="TEXT-INDENT:2em">	《<a style="color:#000" title="独立宣言" href="http://114.xixik.com/declaration-of-independence/">独立宣言</a>》定于1776年7月8日公开发表，7月的费城虽酷热难耐，但当费城人民接获这消息时，都以极其喜悦的心情传播这项消息，不少人纷纷涌上街头载歌载舞，教堂更以彻夜不停的钟声，欢庆自由的来临。</p><p style="TEXT-INDENT:2em"><strong>英国苛捐杂税逼人太甚</strong></p><p style="TEXT-INDENT:2em">	记者昨天在独立宫外，遇到曾在《宾州新闻》(Penn-sylvaniaJournal)服务的一名老报人，他激动地说：&ldquo;今天我们有幸在这里见证国会通过《<a style="color:#000" title="独立宣言" href="http://114.xixik.com/declaration-of-independence/">独立宣言</a>》，这真是神圣庄严的一刻!&rdquo;</p><p style="TEXT-INDENT:2em">	他紧接着说：&ldquo;你知道吗?在这之前，我们的人民已忍受了不少委屈，英国人任意实行苛捐杂税，对我们巧取豪夺，什么蜜糖法案、<a style="color:#000" title="印花税" href="http://114.xixik.com/stamp-duty/">印花税</a>法案等等，样样都要钱，他们凭什么权力这样欺负人?幸好，作为传媒的一分子，我们尽了本分，扭转了局势。&rdquo;</p><p style="TEXT-INDENT:2em">	老报人说明了人民生气的原因。他说：&ldquo;你想想，这是不是很不合理啊?有权力向殖民地征税的应该是殖民地议会，而不是英国议会，更何况英国议事堂在通过征税法案的时候，并没有坐着13州人民选出的代议士啊，而他们要我们一而再缴税，以补充因战争费用沉重而趋困的国库，我们怎么可以忍受呢?&rdquo;</p><p style="TEXT-INDENT:2em">	因此，在那一年，有9州代表举行&ldquo;<a style="color:#000" title="印花税" href="http://114.xixik.com/stamp-duty/">印花税</a>法案会议&rdquo;(Stamp ActConference)，采取联合行动对付<a style="color:#000" title="印花税" href="http://114.xixik.com/stamp-duty/">印花税</a>法案，同时派代表交涉。</p><p style="TEXT-INDENT:2em">	殖民地报纸也有所反应，有些依规定贴印花，不过反对及拒贴的也不少，有些报纸反而在贴印花处或头版显要位置，贴上了一幅和&ldquo;<a style="color:#000" title="印花税" href="http://114.xixik.com/stamp-duty/">印花税</a>&rdquo;大小一般的骷髅图案。</p><p style="TEXT-INDENT:2em">	老报人透露，他保留了一份当时贴上骷髅图案的报纸，并愿意提供该份报纸供《历史大现场》报道使用。</p><p style="TEXT-INDENT:2em">	尽管如此，税务斗争是没完没了的，英国人不断玩弄手段，他们虽然在1766年取消<a style="color:#000" title="印花税" href="http://114.xixik.com/stamp-duty/">印花税</a>法案，但又保留茶税。在这样的背景和气氛下，当事态发展至1773年12月16日，波士顿市民乔装印第安人闯入海港，偷偷登上东印度公司的货轮，把它运载的茶叶一箱又一箱地丢到海里，北美人民已忍无可忍了。</p><p style="TEXT-INDENT:2em">	为了报复波士顿倾茶事件，英国议会在1774年先后通过了&ldquo;不可容忍的法案&rdquo;，采取高压性措施，英国人不但封锁波士顿港，还动武，这可激怒了北美人民。</p><p style="TEXT-INDENT:2em">	美国人于是在1776年，树立了《<a style="color:#000" title="独立宣言" href="http://114.xixik.com/declaration-of-independence/">独立宣言</a>》。</p><p style="TEXT-INDENT:2em"><strong>北美十三州的由来</strong></p><p style="TEXT-INDENT:2em">	当&ldquo;美国人&rdquo;这个概念仍未产生之前，住在北美13州土地上的居民到底是些什么人?</p><p style="TEXT-INDENT:2em">	以现代用语来说，他们都是&ldquo;外来移民&rdquo;，以英国人居多，也包括法国人、荷兰人和瑞典人。</p><p style="TEXT-INDENT:2em">	早在1585年，英国人只要获得女皇的一纸《特许状》，便有权到北美洲去开拓新天地。</p><p style="TEXT-INDENT:2em">	《特许状》赋予英国人的好处是：只要在北美洲发现和拥有土地，都会是开拓者及其后裔的私有财产。因此在伊丽沙白一世时代，英国人大量到北美洲去。</p><p style="TEXT-INDENT:2em">	然而，移民基本上有一个特点：刻意要摆脱在祖国所受到的束缚与限制，希望拥有自主的权力。</p><p style="TEXT-INDENT:2em">	17世纪，英国人在缅因(Maine)州与南北卡罗来纳州之间建立了十余个小殖民地。这些地区大都是反对英国国教的教徒避难所。例如1620年登陆新英格兰的清教徒，以及1681年定居于宾夕法尼亚州的贵格会(Quakers)信徒等。</p><p style="TEXT-INDENT:2em">	这一类由开拓者组成的小型社区，在大西洋沿岸随处可见。他们是为了建立新家园，追求更自由幸福的生活才远涉重洋的，但是，祖家的统治者，却不愿意放弃手中的枷锁，直到大西洋彼岸的觉醒。</p><p style="TEXT-INDENT:2em">	翻开《<a style="color:#000" title="独立宣言" href="http://114.xixik.com/declaration-of-independence/">独立宣言</a>》，未免感慨万分。当时一纸社会公约，便让政府和人民肃然起敬，默默遵守。政府也不敢违背超然的道德法则，因为这么做，就等于向人民毁约。此外，《<a style="color:#000" title="独立宣言" href="http://114.xixik.com/declaration-of-independence/">独立宣言</a>》酝酿的岁月，美国人也凭了对上帝的信仰，得到鼓舞，推翻了来自欧洲的殖民统治。</p><p style="TEXT-INDENT:2em"><strong>独立运动大事记</strong></p><p style="TEXT-INDENT:2em">	1775年：首次战役为列克星敦(Lexington)之役。华盛顿指挥殖民地居民组成的军队围攻波士顿内的英国人。</p><p style="TEXT-INDENT:2em">	1776年：英国人撤出波士顿;殖民地居民宣布独立。7月4日签署《<a style="color:#000" title="独立宣言" href="http://114.xixik.com/declaration-of-independence/">独立宣言</a>》。</p><p style="TEXT-INDENT:2em">	1777年：殖民地军在纽约州萨拉托加(Saratoga)取得决定性胜利，迫使英军投降。</p><p style="TEXT-INDENT:2em">	1778年：法国与美国结成联盟。</p><p style="TEXT-INDENT:2em">	1781年：华盛顿在法国的陆、海军配合下，彻底打垮敌人。英军首领康华里在弗吉尼亚州的约克敦(Yorktown)投降，战争结束。</p><p style="TEXT-INDENT:2em">	1783年：《巴黎条约》签定，英国承认美国独立。</p></div></div></div></div><script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script><script type="text/javascript">        var value = '286';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script><div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/declaration-of-independence/" target="_self" title="《美国独立宣言》（The Declaration of Independence）">独立宣言</a></div><ul style="width: 960px; margin: auto; overflow: hidden;"><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shicha/"
+                title="国际时差查询 - 世界各国主要城市和北京时差对照表">时差</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证更换新政策_过期了该怎么办？">中国旅行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangye/"
+                title="2017最新国民经济行业分类与代码（GB/4754-2017）,国民经济行业分类标准">国民经济行业分类与代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国总统_美国历任总统名单_美国总统简历生卒年份及所属党派">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chicun/"
+                title="服装尺寸对照表_男士服装尺寸对照表_中国女装尺寸对照表_美版服装尺码换算">服装尺寸对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country/"
+                title="全世界有多少个国家和地区？_世界上国家和地区一览表">全世界国家和地区</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-flag/"
+                title="世界各国国旗大全 - 世界各国国旗一览表,国旗图片下载">世界各国国旗大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/festival/"
+                title="节日大全_2020年法定节假日安排">节日大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/72hou/"
+                title="月令七十二候集解_二十四节气">月令七十二候集解</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-visa/"
+                title="赴美生子诚实签攻略_赴美生子诚实签的好处_赴美生子为什么要诚实签">赴美生子诚实签攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-spending/"
+                title="赴美生子价格_去美国生孩子多少钱_费用清单">赴美生子价格</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-baoxian/"
+                title="赴美生子保险_去美国生宝宝生育险_孕中险">赴美生子保险</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-hospital/"
+                title="赴美生子医院_洛杉矶医院_洛杉矶接待华人孕妇医院价目和详细情况一览表">赴美生子医院</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-doctor/"
+                title="赴美生子医生_洛杉矶医生_赴美生子华人医生_赴美生子医生介绍">赴美生子医生</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-living/"
+                title="赴美生子选择月子中心还是DIY_去美国生孩子选择月子中心还是DIY_赴美生子DIY攻略">月子中心还是DIY</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="美宝证件_美宝需要哪些证件（美国出生纸_中国旅行证_美国护照_社会安全号_出生纸三级认证）">美宝需要哪些证件？</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-passport-ds11/"
+                title="美宝美国护照申请更新_DS-11怎么填图文">美国护照申请</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_去美国生孩子费用预算清单2020">赴美生子要多少钱</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/university/"
+                title="中国大学名单_2019年全国高等学校名单（截至2019年6月15日）">中国大学名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/ranking/"
+                title="美国总统排名_美国总统历史排名_美国最伟大的总统排行榜">美国总统排行榜</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/size/"
+                title="服装尺寸对照表_裤子尺寸_男装尺寸_女装尺寸_裙子尺寸">服装尺寸</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-uk-time-zone/"
+                title="中英时差对照表,现在英国几点?中国和英国时差怎么算?现在英国时间是几点?">中英时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_去美国生孩子要多少钱？">赴美生子费用</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 最新中国护照免签国家一览2020">中国护照免签证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-passport/"
+                title="美国护照 - 美国护照上写的什么,美国护照免签证国家">美国护照</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/henley-passport-index/"
+                title="亨氏护照指数 - 亨氏护照受限制数2019">亨氏护照指数</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-process/"
+                title="赴美生子流程 - 干货！超详细的赴美生子流程攻略2019！">赴美生子流程</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-best/"
+                title="赴美生子机构哪家好？_合法的赴美生子机构">赴美生子机构哪家好</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-regret/"
+                title="2019生个美国孩子后悔了_后悔在美国生孩子_赴美生子利与弊">生个美国宝宝后悔了揭秘</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/visa/"
+                title="美国签证_美国签证DS-160表格在线填写_美国签证预约面谈_在线缴费">美国签证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/titanic/"
+                title="泰坦尼克号沉没的真相_历史真实故事_泰坦尼克号电影_嘻嘻网">泰坦尼克号</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-flight/"
+                title="赴美生子航班怎么选_赴美航班信息大全">赴美生子航班</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/exit-and-entry-premit/"
+                title="出入境通行证_一次性出入境通行证_中华人民共和国出入境通行证">出入境通行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-prosandcons/"
+                title="赴美生子利弊_赴美生子的优势和弊端_生美籍宝宝的好处和坏处">赴美生子好处和弊端</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-born/"
+                title="赴美产子_赴美生子_去美国生孩子">赴美产子</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/14th-amendment/"
+                title="美国宪法修正案第十四条">美国宪法修正案第14条</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/greatest/"
+                title="美国最伟大的总统_美国总统排行榜">美国最伟大的总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-states/13states/"
+                title="美国13个州_北美13个殖民地_美国建国时的13个州">美国13个州</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qs2020/"
+                title="2020年QS世界大学排名_世界大学排行榜">QS世界大学排行榜</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/born-usbaby/"
+                title="去美国生孩子_去美国生孩子多少钱">去美国生孩子</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/amendments/"
+                title="美国宪法修正案_Amendments to the Constitution">美国宪法修正案</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/the-world-university-rankings/"
+                title="2020年泰晤士报世界大学排名_2020年THE世界大学排名">泰晤士世界大学排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ssn/"
+                title="美国社安号SSN_美国社安卡_美国社会安全号码">社会安全号码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/declaration-of-independence/"
+                title="《美国独立宣言》（The Declaration of Independence）">独立宣言</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/birth-certificate/"
+                title="美国出生纸（Birth Certificate）_美国出生纸三级认证">美国出生纸</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-living-cost/"
+                title="美国月子中心费用_赴美生子费用">美国月子中心费用</a></li></ul><div class="lindBox"><div class="btnGray"><div class="btnText"><a target="_self" title="《美国独立宣言》（The Declaration of Independence）" href="http://news.xixik.com/word/286/">另存为<br />                    Word格式</a></div></div></div><div class="lindBox" style="text-align: center;"><img src="http://news.xixik.com/qrcode/286/" alt="扫码手机上继续看" /><br /><br /><strong>用微信或者支付宝扫码在手机上继续观看<br />            可以保存收藏，也扫码后可以分享给好友
+        </strong></div><hr style="height: 1px; border: none; border-top: 1px dashed #999;" /><script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script><!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.--></body></html>

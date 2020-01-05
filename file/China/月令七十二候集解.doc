@@ -1,0 +1,365 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>月令七十二候集解_二十四节气</title><link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" /><meta name="description" content="月令七十二候集解，旧本题“元吴澄撰”。其书以七十二候分属于二十四气，各训释其所以然。考《礼记·月令》，本无七十二候之说。" /><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/24jieqi/72hou/"><meta http-equiv="Cache-Control" content="no-transform" /><meta http-equiv="Cache-Control" content="no-siteapp" /><base target="_blank" /><script>        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "24jieqi/72hou/";
+        }
+
+
+    </script><style>        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+            overflow:auto;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style></head><body><a name="top4"></a><div class="topBox" name="top"><div class="topMain"><div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div><div id="icoPhone"></div><div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div><div id="icoWechat"></div><div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a></div><div id="icoSina"></div><div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a></div><div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div><div class="topRight"></div></div></div><div id="showqrCode"><div><span></span></div><img src="" /><div><span></span></div></div><script type="text/javascript">        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script><div class="body"><div class="lindBox" style="position: relative;"><img src="http://img.xixik.net/custom/topic/001/72hou.jpg" alt="月令七十二候集解_二十四节气" /><div class="title"><h1>月令七十二候集解_二十四节气</h1></div></div><div class=" custom_border lindBox"><div class="special_content"><div class="content_text"><div class="content_daodu"></div><h2>月令七十二候集解</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.-->                    旧本题“元吴澄撰”。其书以七十二候分属于二十四气，各训释其所以然。考《礼记·月令》，本无七十二候之说。中国最早的结合天文、气象、物候知识指导农事活动的历法。源于黄河流域 ，完整记载见于公元前2世纪的《逸周书·时训解》。以五日为候，三候为气，六气为时，四时为岁，一年二十四节气共七十二候。各候均以一个物候现象相应，称候应。其中植物候应有植物的幼芽萌动、开花、结实等；动物候应有动物的始振、始鸣、交配、迁徙等；非生物候应有始冻、解冻、雷始发声等。七十二候候应的依次变化，反映了一年中气候变化的一般情况。
+                </div></div></div><div class="lindBox" style="overflow: hidden;"><div class="gg1"><a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a></div><div class="guide"><div class="guideBorder" id="guideBorder"><div class="guideTitle">导读（目录）</div><ul id="guideDisplay"><li>·<a title="《月令七十二候集解》序言" href="#anchor1" target="_self"> 《月令七十二候集解》序言</a></li><li>·<a title="《月令七十二候集解》全文" href="#anchor2" target="_self"> 《月令七十二候集解》全文</a></li><li>·<a title="《月令七十二候集解》句读" href="#anchor3" target="_self"> 《月令七十二候集解》句读</a></li></ul><div class="guideOpen">展开&darr;</div></div></div><div class="guideFllow"><div class="guideFllowBorder"><div class="guideFllowTitle">导读（目录）</div><ul id="guideFllowDisplay"><li>·<a title="《月令七十二候集解》序言" href="#anchor1" target="_self"> 《月令七十二候集解》序言</a></li><li>·<a title="《月令七十二候集解》全文" href="#anchor2" target="_self"> 《月令七十二候集解》全文</a></li><li>·<a title="《月令七十二候集解》句读" href="#anchor3" target="_self"> 《月令七十二候集解》句读</a></li></ul><div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div></div></div><div class="gg2"><a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a></div></div><a name="anchor1"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        《月令七十二候集解》序言</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	夫七十二候，吕不韦载于《吕氏春秋》，汉儒入于《礼记&middot;月令》，与六经同传不朽。后魏载之于历，欲民皆知，以验气序。然其禽兽草木，多出北方，盖以汉前之儒皆江北者也。故江南老师宿儒，亦难尽识。况陈澔之注，多为谬说，而康成、颖达，亦有讹处。予因是广取诸家之解，并《说文》《埤雅》等书，而又询之农牧，似得所归。然后并将<a href="http://114.xixik.com/24-solar-terms/">二十四气</a>什之于槀，以俟博识者鉴焉。</p><p style="TEXT-INDENT:2em"><strong>七十二候</strong>是中国最早的结合天文、气象、物候知识指导农事活动的历法。源于黄河流域 ，完整记载见于公元前2世纪的《逸周书&middot;时训解》。以五日为候，三候为气，六气为时，四时为岁，一年<a href="http://114.xixik.com/24-solar-terms/" style="color:#000" title="二十四节气">二十四节气</a>共七十二候。各候均以一个物候现象相应，称候应。其中植物候应有植物的幼芽萌动、开花、结实等；动物候应有动物的始振、始鸣、交配、迁徙等；非生物候应有始冻、解冻、雷始发声等。七十二候候应的依次变化，反映了一年中气候变化的一般情况。</p><div class='right_gg'><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- 336x280-114-left --><ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-3849899595029685"
+     data-ad-slot="9973132210"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div></div><a name="anchor2"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        《月令七十二候集解》全文</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	元，崇仁吴澄伯清著</p><p style="TEXT-INDENT:2em">	夫七十二候吕不韦载于吕氏春秋汉儒入于礼记月令与六经同传不朽後魏载之于历欲民皆知以验气序然其禽兽草木多出北方盖以汉前之儒皆江北者也故江南老师宿儒亦难尽识况陈澔之注多为谬说而康成颖达亦有讹处予因是广取诸家之解并说文埤雅等书而又询之农牧似得所归然後并将二十四气什之于槀以俟博识者鉴焉</p><p style="TEXT-INDENT:2em">	一、<a style="color:#000" title="立春" href="http://114.xixik.com/24jieqi/lichun/">立春</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="立春" href="http://114.xixik.com/24jieqi/lichun/">立春</a>正月节立建始也五行之气往者过来者续于此而春木之气始至故谓之立也<a style="color:#000" title="立夏" href="http://114.xixik.com/24jieqi/lixia/">立夏</a>秋冬同东风解冻冻结于冬遇春风而解散不曰春而曰东者吕氏春秋曰东方属木木火母也然气温故解冻蛰虫始振蛰藏也振动也密藏之虫因气至而皆苏动之矣鲍氏曰动而未出至二月乃大惊而走也鱼陟负冰陟升也鱼当盛寒伏水底而遂暖至正月阳气至则上游而近冰故曰负</p><p style="TEXT-INDENT:2em">	二、<a style="color:#000" title="雨水" href="http://114.xixik.com/24jieqi/yushui/">雨水</a></p><p style="TEXT-INDENT:2em">	雨【去声】水正月中天一生水春始属木然生木者必水也故<a style="color:#000" title="立春" href="http://114.xixik.com/24jieqi/lichun/">立春</a>後继之<a style="color:#000" title="雨水" href="http://114.xixik.com/24jieqi/yushui/">雨水</a>且东风既解冻则散而为<a style="color:#000" title="雨水" href="http://114.xixik.com/24jieqi/yushui/">雨水</a>矣獭祭鱼獭一名水狗贼鱼者也祭鱼取鱼以祭天也所谓豺獭知报本岁始而鱼上游则獭初取以祭徐氏曰獭祭圆铺圆者水象也豺祭方铺方者金象也候鴈北【月令汉书作鸿鴈北】鴈知时之鸟热归塞北寒来江南沙漠乃其居也孟春阳气既达候鴈自彭蠡而北矣草木萌动天地之气交而为泰故草木萌生发动矣</p><p style="TEXT-INDENT:2em">	三、<a style="color:#000" title="惊蛰" href="http://114.xixik.com/24jieqi/jingzhe/">惊蛰</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="惊蛰" href="http://114.xixik.com/24jieqi/jingzhe/">惊蛰</a>二月节夏小正曰正月启蛰言发蛰也万物出乎震震为雷故曰<a style="color:#000" title="惊蛰" href="http://114.xixik.com/24jieqi/jingzhe/">惊蛰</a>是蛰虫惊而出走矣桃始华【吕氏春秋作桃李华】桃果名花色红是月始开仓庚鸣庚亦作鶊黄鸝也诗所谓有鸣仓庚是也章龟经曰仓清也庚新也感春阳清新之气而初出故名其名最多诗曰黄鸟齐人谓之搏黍又谓之黄袍僧家谓之金衣公子其色鵹黑而黄又名鵹黄谚曰黄栗畱黄莺莺儿皆一种也鹰化为鸠鹰鷙鸟也鹞鸇之属鸠即今之布谷章龟经曰仲春之时林木茂盛口啄尚柔不能捕鸟瞪目忍饥如痴而化故名曰鳲鸠王制曰鸠化为鹰秋时也此言鹰化为鸠春时也以生育肃杀气盛故鷙鸟感之而变耳孔氏曰化者反归旧形之谓故鹰化为鸠鸠复化为鹰如田鼠化为鴽则鴽又化为田鼠若腐草为萤鴙为蜃爵为蛤皆不言化是不再复本形者也</p><p style="TEXT-INDENT:2em">	四、<a style="color:#000" title="春分" href="http://114.xixik.com/24jieqi/chunfen/">春分</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="春分" href="http://114.xixik.com/24jieqi/chunfen/">春分</a>二月中分者半也此当九十日之半故谓之分秋同义夏冬不言分者盖天地闲二气而已方氏曰阳生于子终于午至卯而中分故春为阳中而仲月之节为<a style="color:#000" title="春分" href="http://114.xixik.com/24jieqi/chunfen/">春分</a>正阴阳适中故昼夜无长短云元鸟至元鸟燕也高诱曰<a style="color:#000" title="春分" href="http://114.xixik.com/24jieqi/chunfen/">春分</a>而来<a style="color:#000" title="秋分" href="http://114.xixik.com/24jieqi/qiufen/">秋分</a>而去也雷乃发声阴阳相薄为雷至此四阳渐盛犹有阴焉则相薄乃发声矣乃者韵会曰象气出之难也注疏曰发犹出也始电电阳光也四阳盛长值气泄时而光生焉故历解曰凡声阳也光亦阳也易曰雷电合而章公羊传曰电者雷光是也徐氏曰雷阳阴电非也盖盛夏无雷之时电亦有之可见矣</p><p style="TEXT-INDENT:2em">	五、<a style="color:#000" title="清明" href="http://114.xixik.com/24jieqi/qingming/">清明</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="清明" href="http://114.xixik.com/24jieqi/qingming/">清明</a>三月节按国语曰时有八风历独指<a style="color:#000" title="清明" href="http://114.xixik.com/24jieqi/qingming/">清明</a>风为三月节此风属巽故也万物齐乎巽物至此时皆以洁齐而<a style="color:#000" title="清明" href="http://114.xixik.com/24jieqi/qingming/">清明</a>矣桐始华桐木名有三种华而不实者曰白桐尔雅所谓荣桐木是也皮青而结实者曰梧桐一曰青桐淮南子曰梧桐断角是也生于山冈子大而有油者曰油桐毛诗所谓梧桐不生山冈者是也今始华者乃白桐耳按埤雅桐木知日月闰年每一枝生十二叶闰则十三叶与天地合气者也今造琴瑟者以花桐木是知桐为白桐也田鼠化为鴽【音如】按尔雅注曰鼫鼠形大如鼠头似兔尾有毛青黄色好在田中食粟豆谓之田鼠本草素问曰鴽鹑也似鸽而小尔雅释鸟鴽鴾母郭注酓?鸟也青州人呼为鴾母鲍氏曰鼠阴类鴽阳类阳气盛故化为鴽盖阴为阳所化也虹始见【去声】虹虹蜺也诗所谓螮蝀俗读去声也注疏曰是阴阳交会之气故先儒以为云薄漏日日照雨滴则虹生焉今以水噀日自剑视之则晕为虹朱子曰日与雨交倏然成质阴阳不当交而交者天地淫气也虹为雄色赤白蜺为雌色青白然二字皆从虫说文曰似螮蝀状诸书又云尝见虹入溪饮水其首如驴恐天地闲亦有此种物也但虹气似之借名也</p><p style="TEXT-INDENT:2em">	六、<a style="color:#000" title="谷雨" href="http://114.xixik.com/24jieqi/guyu/">谷雨</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="谷雨" href="http://114.xixik.com/24jieqi/guyu/">谷雨</a>【去声】三月中自<a style="color:#000" title="雨水" href="http://114.xixik.com/24jieqi/yushui/">雨水</a>後土膏脉动今又雨其谷于水也雨读作去声如雨我公田之雨盖谷以此时播种自上而下也故说文云雨本去声今风雨之雨在上声雨下之雨在去声也萍始生萍水草也与水相平故曰萍漂流随风故又曰漂历解曰萍阳物静以承阳也鸣鸠拂其羽鸠即鹰所化者布谷也拂过击也本草云拂羽飞而翼拍其身气使然也盖当三月之时趋农急矣鸠乃追逐而鸣鼓羽直刺上飞故俗称布谷戴胜降于桑戴胜一名戴鵀尔雅注曰头上有胜毛此时恒在于桑盖蚕将生之候矣言降者重之若天而下亦气使之然也</p><p style="TEXT-INDENT:2em">	七、<a style="color:#000" title="立夏" href="http://114.xixik.com/24jieqi/lixia/">立夏</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="立夏" href="http://114.xixik.com/24jieqi/lixia/">立夏</a>四月节立字解见春夏假也物至此时皆假大也蝼蝈鸣蝼蝈小虫生穴土中好夜出今人谓之土狗是也一名蝼蛄一名石鼠一名螜【音斛】各地方言之不同也淮南子曰蝼蝈鸣邱螾出阴气始而二物应之夏小正三月螜则鸣是也且有五能不能成一技飞不能过屋缘不能穷木泅不能渡谷穴不能覆身走不能先人故说文称鼫为五技之鼠古今注又以蝼名鼫鼠可知埤雅本草俱以为臭虫陆德明郑康成以为蛙皆非也蚯蚓出蚯蚓即地龙也【一名曲蟺】历解曰阴而屈者乘阳而伸见也王瓜生图经云王瓜处处有之生平野田宅及墙垣叶似栝楼乌药圆无丫缺有毛如刺蔓生五月开黄花花下结子如弹丸生青熟赤根似葛细而多糁又名土瓜一名落鵶瓜今药中所用也礼记郑元注曰即萆挈本草作菝葜陶隐居以辨其谬谓菝葜自有本条殊不知王瓜亦自有本条先儒当时如不检书而谩言者可笑</p><p style="TEXT-INDENT:2em">	八、<a style="color:#000" title="小满" href="http://114.xixik.com/24jieqi/xiaoman/">小满</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="小满" href="http://114.xixik.com/24jieqi/xiaoman/">小满</a>四月中<a style="color:#000" title="小满" href="http://114.xixik.com/24jieqi/xiaoman/">小满</a>者物至于此小得盈满苦菜秀埤雅以荼为苦菜毛诗曰谁谓荼苦【荼即茶也故韵今茶注本作荼】是也鲍氏曰感火之气而苦味成尔雅曰不荣而实谓之秀荣而不实谓之英此苦菜宜言英也蔡邕月令以谓苦蕒菜非靡草死郑康成鲍景翔皆云靡草葶苈之属礼记注曰草之枝叶而靡细者方氏曰凡物感阳而生者则强而立感阴而生者则柔而靡谓之靡草则至阴之所生也故不胜至阳而死麦秋至秋者百谷成熟之期此於时虽夏於麦则秋故云麦秋也</p><p style="TEXT-INDENT:2em">	九、<a style="color:#000" title="芒种" href="http://114.xixik.com/24jieqi/mangzhong/">芒种</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="芒种" href="http://114.xixik.com/24jieqi/mangzhong/">芒种</a>【上声】五月节谓有芒之种谷可稼种【去声】矣螳螂生螳螂草虫也饮风食露感一阴之气而生能捕蝉而食故又名杀虫曰天马言其飞捷如马也曰斧虫以前二足如斧也尚名不一各随其地而称之深秋生子于林木闲一壳百子至此时则破壳而出药中桑螵蛸是也鵙【音局】始鸣鵙百劳也本草作博劳朱子孟注曰博劳恶声之鸟盖枭类也曹子建恶鸟论百劳以五月鸣其声鵙鵙然故以之立名似俗称浊温故埤雅禽经注云伯劳不能翺翔直飞而已毛诗曰七月鸣鵙盖周七月夏五月也反舌无声诸书以为百舌鸟以其能反复其舌故名特注疏以为虾蟆盖蛙属之舌尖向内故名之今辨其非者以其此时正鸣不知失者也易通卦验亦名为虾蟆无声若以五月正鸣殊不知初旬见形後形亦藏矣陈氏曰螳螂鵙皆阴类感微阴而或生或鸣反舌感阳而发遇微阴而无声也</p><p style="TEXT-INDENT:2em">	十、<a style="color:#000" title="夏至" href="http://114.xixik.com/24jieqi/xiazhi/">夏至</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="夏至" href="http://114.xixik.com/24jieqi/xiazhi/">夏至</a>五月中韵会曰夏假也至极也万物于此皆假大而至极也鹿角解【音骇】鹿形小山兽也属阳角支向前与黄牛一同麋形大泽兽也属阴角支向後与水牛一同<a style="color:#000" title="夏至" href="http://114.xixik.com/24jieqi/xiazhi/">夏至</a>一阴生感阴气而鹿角解解角退落也<a style="color:#000" title="冬至" href="http://114.xixik.com/24jieqi/dongzhi/">冬至</a>一阳生麋感阳气而角解矣是<a style="color:#000" title="夏至" href="http://114.xixik.com/24jieqi/xiazhi/">夏至</a>阳之极<a style="color:#000" title="冬至" href="http://114.xixik.com/24jieqi/dongzhi/">冬至</a>阴之极也蜩【音调】始鸣【月令注疏作蝉始鸣】蜩蝉之大而黑色者蜣螂脱壳而成雄者能鸣雌者无声今俗称知了是也按蝉乃总名鸣于夏者曰蜩即庄子云蟪蛄不知春秋者是也盖蟪蛄夏蝉故不知春秋鸣于秋者曰寒蜩即楚辞所谓寒螿也故风土记曰蟪蛄鸣朝寒螿鸣夕今秋初夕阳之际小而绿色声急疾者俗称都了是也故埤雅各释其义然此物生於盛阳感阴而鸣半夏生半夏药名居夏之半而生故名</p><p style="TEXT-INDENT:2em">	十一、<a style="color:#000" title="小暑" href="http://114.xixik.com/24jieqi/xiaoshu/">小暑</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="小暑" href="http://114.xixik.com/24jieqi/xiaoshu/">小暑</a>六月节说文曰暑热也就热之中分为大小月初为小月中为大今则热气犹小也温风至至极也温热之风至此而极矣蟋【音悉】蟀【音率】居壁一名蛬【音拱】一名蜻蛚即今之促织也礼记注曰生土中此时羽翼稍成居穴之壁至七月则远飞而在野矣盖肃杀之气初生则在穴感之深则在野而鬬鹰始击【礼记作鹰乃学习】击搏击也应氏曰杀气未肃鷙猛之鸟始习于击迎杀气也</p><p style="TEXT-INDENT:2em">	十二、<a style="color:#000" title="大暑" href="http://114.xixik.com/24jieqi/dashu/">大暑</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="大暑" href="http://114.xixik.com/24jieqi/dashu/">大暑</a>六月中解见<a style="color:#000" title="小暑" href="http://114.xixik.com/24jieqi/xiaoshu/">小暑</a>腐草为萤曰丹良曰丹鸟曰夜光曰宵烛皆萤之别名离明之极则幽阴至微之物亦化而为明也毛诗曰熠燿宵行另一种也形如米虫尾亦有火不言化者不复原形解见前土润溽【音辱】暑溽湿也土之气润故蒸郁而为湿暑俗称龌龊热是也大雨时行前候湿暑之气蒸郁今候则大雨时行以退暑也</p><p style="TEXT-INDENT:2em">	十三、<a style="color:#000" title="立秋" href="http://114.xixik.com/24jieqi/liqiu/">立秋</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="立秋" href="http://114.xixik.com/24jieqi/liqiu/">立秋</a>七月节立字解见春秋揫也物于此而揫敛也凉风至【礼记作盲风至】西方凄清之风曰凉风温变而凉气始肃也周语曰火见而清风戒寒是也<a style="color:#000" title="白露" href="http://114.xixik.com/24jieqi/bailu/">白露</a>降大雨之後清凉风来而天气下降茫茫而白者尚未凝珠故曰<a style="color:#000" title="白露" href="http://114.xixik.com/24jieqi/bailu/">白露</a>降示秋金之白色也寒蝉鸣寒蝉尔雅曰寒螿蝉小而青紫者马氏曰物生于暑者其声变之矣</p><p style="TEXT-INDENT:2em">	十四、<a style="color:#000" title="处暑" href="http://114.xixik.com/24jieqi/chushu/">处暑</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="处暑" href="http://114.xixik.com/24jieqi/chushu/">处暑</a>七月中处止也暑气至此而止矣鹰乃祭鸟鹰义禽也秋令属金五行为义金气肃杀鹰感其气始捕击诸鸟然必先祭之犹人饮食祭先代为之者也不击有胎之禽故谓之义天地始肃秋者阴之始故曰天地始肃禾乃登禾者谷连藁秸之总名又稻秫苽粱之属皆禾也成热曰登</p><p style="TEXT-INDENT:2em">	十五、<a style="color:#000" title="白露" href="http://114.xixik.com/24jieqi/bailu/">白露</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="白露" href="http://114.xixik.com/24jieqi/bailu/">白露</a>八月节秋属金金色白阴气渐重露凝而白也鸿【淮南子作候】鴈来鸿大鴈小自北而来南也不谓南乡非其居耳详见<a style="color:#000" title="雨水" href="http://114.xixik.com/24jieqi/yushui/">雨水</a>节下元鸟归元鸟解见前此时自南而往北也燕乃北方之鸟故曰归羣鸟养羞【淮南子作羣鸟翔】三人以上为众三兽以上为羣羣众也礼记注曰羞者所羹之食养羞者藏之以备冬月之养也</p><p style="TEXT-INDENT:2em">	十六、<a style="color:#000" title="秋分" href="http://114.xixik.com/24jieqi/qiufen/">秋分</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="秋分" href="http://114.xixik.com/24jieqi/qiufen/">秋分</a>八月中解见<a style="color:#000" title="春分" href="http://114.xixik.com/24jieqi/chunfen/">春分</a>雷始收声鲍氏曰雷二月阳中发声八月阴中收声入地则万物随入也蛰虫坏【音培】户淘瓦之泥曰坏细泥也按礼记注曰坏益其蛰穴之户使通明处稍小至寒甚乃墐塞之也水始涸礼记注曰水本气之所为春夏气至故长秋冬气返故涸也</p><p style="TEXT-INDENT:2em">	十七、<a style="color:#000" title="寒露" href="http://114.xixik.com/24jieqi/hanlu/">寒露</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="寒露" href="http://114.xixik.com/24jieqi/hanlu/">寒露</a>九月节露气寒冷将凝结也鸿鴈来宾鴈以仲秋先至者为主季秋後至者为宾通书作来滨滨水际也亦通雀入大水为蛤雀小鸟也其类不一此为黄雀大水海也国语云雀入大海为蛤盖寒风严肃多入于海变之为蛤此飞物化为潜物也蛤蚌属此小者也菊有黄华草木皆华于阳独菊华于阴故言有桃桐之华皆不言色而独菊言者其色正应季秋土旺之时也</p><p style="TEXT-INDENT:2em">	十八、<a style="color:#000" title="霜降" href="http://114.xixik.com/24jieqi/shuangjiang/">霜降</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="霜降" href="http://114.xixik.com/24jieqi/shuangjiang/">霜降</a>九月中气肃而凝露结为霜矣周语曰驷见而陨霜豺祭兽【月令作豺乃祭兽戮禽】祭兽以兽而祭天报本也方铺而祭秋金之义草木黄落色黄而摇落也蛰虫咸俯【淮南子作俛】咸皆也俯垂头也此时寒气肃凛虫皆垂头而不食矣</p><p style="TEXT-INDENT:2em">	十九、<a style="color:#000" title="立冬" href="http://114.xixik.com/24jieqi/lidong/">立冬</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="立冬" href="http://114.xixik.com/24jieqi/lidong/">立冬</a>十月节立字解见前冬终也万物收藏也水始冰水面初凝未至于坚也地始冻土气凝寒未至于拆雉入大水为蜃雉野鸡郑康成淮南子高诱俱注蜃为大蛤玉篇亦曰蜃大蛤也墨子又曰蚌一名蜃蚌非蛤类乎礼记之注曰蛟属埤雅又以蚌蜃各释似非蛤类然按本草车螯之条曰车螯是大蛤一名蜃能吐气为楼台又尝闻海旁蜃气成楼垣章龟经曰蜃大者为车轮岛屿月闲吐气成楼与蛟龙同也则知此为蛤明矣况尔雅翼引周礼诸家辩蜃为蛤甚明礼记之注以谓雉由于蛇化之说故以雉子为蜃埤雅既曰似蛇而大腹下尽逆鳞知之悉矣然复疑之一曰状似螭龙有耳有角则亦闻而识之不若本草章龟经为是即一物耳大水淮也晋语曰雉入于淮为蜃</p><p style="TEXT-INDENT:2em">	二十、<a style="color:#000" title="小雪" href="http://114.xixik.com/24jieqi/xiaoxue/">小雪</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="小雪" href="http://114.xixik.com/24jieqi/xiaoxue/">小雪</a>十月中雨下而为寒气所薄故凝而为雪小者未盛之辞虹藏不见礼记注曰阴阳气交而为虹此时阴阳极乎辨故虹伏虹非有质而曰藏亦言其气之下伏耳天气上升地气下降闭塞而成冬天地变而各正其位不交则不通不通则闭塞而时之所以为冬也</p><p style="TEXT-INDENT:2em">	二十一、<a style="color:#000" title="大雪" href="http://114.xixik.com/24jieqi/daxue/">大雪</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="大雪" href="http://114.xixik.com/24jieqi/daxue/">大雪</a>十一月节大者盛也至此而雪盛矣鶡鴠不鸣禽经曰鶡毅鸟也似雉而大有毛角鬬死方休古人取为勇士冠名可知矣汉书音义亦然埤雅云黄黑色故名为鶡据此本阳鸟感六阴之极不鸣矣若郭璞方言似鸡冬无毛昼夜鸣即寒号虫陈澔与方氏亦曰求旦之鸟皆非也夜既鸣何为不鸣耶丹铅馀录作鴈亦恐不然淮南子作鳱鴠诗注作渴旦虎始交虎猛兽故本草曰能避恶魅今感微阳气益甚也故相与而交荔挺出荔本草谓之蠡实即马薤也郑康臣蔡邕高诱皆云马薤况说文云荔似蒲而小根可为刷与本草同但陈澔注为香草附和者即以为零陵香殊不知零陵香自生于三月也</p><p style="TEXT-INDENT:2em">	二十二、<a style="color:#000" title="冬至" href="http://114.xixik.com/24jieqi/dongzhi/">冬至</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="冬至" href="http://114.xixik.com/24jieqi/dongzhi/">冬至</a>十一月中终藏之气至此而极也蚯蚓结六阴寒极之时蚯蚓交相结而如绳也麋角解说见鹿角解下水泉动水者天一之阳所生阳生而动今一阳初生故云耳</p><p style="TEXT-INDENT:2em">	二十三、<a style="color:#000" title="小寒" href="http://114.xixik.com/24jieqi/xiaohan/">小寒</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="小寒" href="http://114.xixik.com/24jieqi/xiaohan/">小寒</a>十二月节月初寒尚小故云月半则大矣鴈北乡【去声】乡向导之义二阳之候鴈将避热而回今则乡北飞之至<a style="color:#000" title="立春" href="http://114.xixik.com/24jieqi/lichun/">立春</a>後皆归矣禽鸟得气之先故也鹊始巢喜鹊也鹊巢之门每向太岁<a style="color:#000" title="冬至" href="http://114.xixik.com/24jieqi/dongzhi/">冬至</a>天元之始至後二阳已得来年之节气鹊遂可为巢知所向也雉雊【音姤】雉文明之禽阳鸟也雊雌雄之同鸣也感于阳而後有声</p><p style="TEXT-INDENT:2em">	二十四、<a style="color:#000" title="大寒" href="http://114.xixik.com/24jieqi/dahan/">大寒</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="大寒" href="http://114.xixik.com/24jieqi/dahan/">大寒</a>十二月中解见前鸡乳育也马氏曰鸡木畜丽于阳而有形故乳在<a style="color:#000" title="立春" href="http://114.xixik.com/24jieqi/lichun/">立春</a>节也征鸟厉疾征伐也杀伐之鸟乃鹰隼之属至此而猛厉迅疾也水泽腹坚陈氏曰冰之初凝水面而已至此则彻上下皆凝故云腹坚腹犹内也</p><p style="TEXT-INDENT:2em">	《<a style="color:#000" title="月令七十二候集解" href="http://114.xixik.com/24jieqi/72hou/">月令七十二候集解</a>》附录</p><p style="TEXT-INDENT:2em"><a style="color:#000" title="月令七十二候集解" href="http://114.xixik.com/24jieqi/72hou/">月令七十二候集解</a>一卷（通行本）</p><p style="TEXT-INDENT:2em">	旧本题元吴澄撰其书以七十二候分属於二十四气各训释其所以然考礼记月令本无七十二候之说逸周书时训解乃以五日为一候澄作礼记纂言亦引唐月令分著五日一候之义然不闻更有此书其说以经文所记多指北方非南方之所习见乃博考说文埤雅诸书兼访之於农牧著为此编然考证名物罕所发明又旣以蝼蝈为土狗又载鼯鼠五技之说自相矛盾旣以虹为日映雨气又引虹首如驴之说兼采杂书亦乖解经之法疑托名也（四库全书总目&middot;经部&middot;礼类存目）</p></div></div></div><a name="anchor3"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        《月令七十二候集解》句读</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	元　崇仁吴澄伯清著</p><p style="TEXT-INDENT:2em">	夫七十二候，吕不韦载于《吕氏春秋》，汉儒入于《礼记&middot;月令》，与六经同传不朽。后魏载之于历，欲民皆知，以验气序。然其禽兽草木，多出北方，盖以汉前之儒皆江北者也。故江南老师宿儒，亦难尽识。况陈澔之注，多为谬说，而康成、颖达，亦有讹处。予因是广取诸家之解，并《说文》《埤雅》等书，而又询之农牧，似得所归。然后并将二十四气什之于槁，以俟博识者鉴焉。</p><p style="TEXT-INDENT:2em">	○<a style="color:#000" title="立春" href="http://114.xixik.com/24jieqi/lichun/">立春</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="立春" href="http://114.xixik.com/24jieqi/lichun/">立春</a>，正月节。立，建始也。五行之气往者过来者续于此。而春木之气始至，故谓之立也。<a style="color:#000" title="立夏" href="http://114.xixik.com/24jieqi/lixia/">立夏</a>、秋、冬同。东风解冻。冻结于冬，遇春风而解散；不曰春而曰东者，《吕氏春秋》曰：东方属木，木，火母也。然气温，故解冻。蛰虫始振。蛰，藏也；振，动也。密藏之虫，因气至，而皆苏动之矣。鲍氏曰：动而未出，至二月，乃大惊而走也。鱼陟负冰。陟，升也。鱼当盛寒伏水底而遂暖，至正月阳气至，则上游而近冰，故曰负。</p><p style="TEXT-INDENT:2em">	○<a style="color:#000" title="雨水" href="http://114.xixik.com/24jieqi/yushui/">雨水</a></p><p style="TEXT-INDENT:2em">	雨【去声】水，正月中。天一生水，春始属木，然生木者，必水也，故<a style="color:#000" title="立春" href="http://114.xixik.com/24jieqi/lichun/">立春</a>后继之<a style="color:#000" title="雨水" href="http://114.xixik.com/24jieqi/yushui/">雨水</a>，且东风既解冻，则散而为<a style="color:#000" title="雨水" href="http://114.xixik.com/24jieqi/yushui/">雨水</a>矣。獭祭鱼。獭，一名水狗，贼鱼者也。祭鱼，取鱼以祭天也。所谓豺獭知报本，岁始而鱼上游，则獭初取以祭。徐氏曰：獭祭圆铺，圆者，水象也；豺祭方铺，方者，金象也。候雁北【《月令》、《汉书》作鸿雁北】。雁，知时之鸟。热归塞北，寒来江南，沙漠乃其居也。孟春阳气既达，候雁自彭蠡而北矣。草木萌动。天地之气交而为泰，故草木萌生发动矣。</p><p style="TEXT-INDENT:2em">	○<a style="color:#000" title="惊蛰" href="http://114.xixik.com/24jieqi/jingzhe/">惊蛰</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="惊蛰" href="http://114.xixik.com/24jieqi/jingzhe/">惊蛰</a>，二月节。《夏小正》曰：正月启蛰，言发蛰也。万物出乎震，震为雷，故曰<a style="color:#000" title="惊蛰" href="http://114.xixik.com/24jieqi/jingzhe/">惊蛰</a>。是蛰虫惊而出走矣。桃始华【《吕氏春秋》作桃李华】。桃，果名，花色红，是月始开。仓庚鸣，庚亦作鹒，黄鹂也。诗所谓&lsquo;有鸣仓庚&rsquo;是也。《章龟经》曰：仓，清也；庚，新也；感春阳清新之气而初出，故名。其名最多，《诗》曰黄鸟，齐人谓之搏黍，又谓之黄袍，僧家谓之金衣公子，其色鵹黑而黄，又名鵹黄。谚曰黄栗留、黄莺莺儿，皆一种也。鹰化为鸠。鹰，鸷鸟也，鹞鹯之属。鸠，即今之布谷，《章龟经》曰：仲春之时，林木茂盛，口啄尚柔，不能捕鸟，瞪目忍饥如痴而化，故名曰鸤鸠。《王制》曰鸠化为鹰，秋时也。此言鹰化为鸠，春时也。以生育肃杀气盛，故鸷鸟感之而变耳。孔氏曰：化者，反归旧形之谓。故鹰化为鸠，鸠复化为鹰，如田鼠化为鴽，则鴽又化为田鼠。若腐草为萤，鴙为蜃，爵为蛤，皆不言化，是不再复本形者也。</p><p style="TEXT-INDENT:2em">	○<a style="color:#000" title="春分" href="http://114.xixik.com/24jieqi/chunfen/">春分</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="春分" href="http://114.xixik.com/24jieqi/chunfen/">春分</a>，二月中。分者，半也。此当九十日之半，故谓之分。秋同义。夏、冬不言分者，盖天地闲二气而已。方氏曰：阳生于子，终于午，至卯而中分，故春为阳中，而仲月之节为<a style="color:#000" title="春分" href="http://114.xixik.com/24jieqi/chunfen/">春分</a>，正阴阳适中，故昼夜无长短云。元鸟至。元鸟，燕也。高诱曰：<a style="color:#000" title="春分" href="http://114.xixik.com/24jieqi/chunfen/">春分</a>而来，<a style="color:#000" title="秋分" href="http://114.xixik.com/24jieqi/qiufen/">秋分</a>而去也。雷乃发声。阴阳相薄为雷，至此，四阳渐盛，犹有阴焉，则相薄乃发声矣。乃者，《韵会》曰：象气出之难也。注疏曰：发，犹出也。始电。电，阳光也，四阳盛长，值气泄时而光生焉，故《历解》曰：凡声阳也，光亦阳也。《易》曰：雷电合而章。《公羊传》曰：电者，雷光是也。《徐氏》曰：雷阳阴电，非也。盖盛夏无雷之时，电亦有之，可见矣。</p><p style="TEXT-INDENT:2em">	○<a style="color:#000" title="清明" href="http://114.xixik.com/24jieqi/qingming/">清明</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="清明" href="http://114.xixik.com/24jieqi/qingming/">清明</a>，三月节。按《国语》曰：时有八风。历独指<a style="color:#000" title="清明" href="http://114.xixik.com/24jieqi/qingming/">清明</a>风为三月节，此风属巽故也。万物齐乎巽，物至此时皆以洁齐而<a style="color:#000" title="清明" href="http://114.xixik.com/24jieqi/qingming/">清明</a>矣。桐始华。桐，木名。有三种：华而不实者曰白桐，《尔雅》所谓荣桐木是也；皮青而结实者曰梧桐，一曰青桐，《淮南子》曰梧桐断角是也；生于山冈、子大而有油者曰油桐，毛诗所谓梧桐不生山冈者是也。今始华者，乃白桐耳。按《埤雅》：桐木知日月、闰年，每一枝生十二叶，闰则十三叶，与天地合气者也。今造琴瑟者，以花桐木，是知桐为白桐也。田鼠化为鴽【音如】。按《尔雅》注曰：鼫鼠，形大如鼠，头似兔，尾有毛，青黄色，好在田中食粟豆，谓之田鼠。《本草》《素问》曰：鴽，鹑也，似鸽而小。《尔雅?释鸟》：鴽，鴾母。郭注：{酓鸟}也，青州人呼为鴾母。鲍氏曰：鼠，阴类；鴽，阳类；阳气盛故化为鴽，盖阴为阳所化也。虹始见【去声】。虹，虹霓也，诗所谓?蝀，俗读去声也。注疏曰：是阴阳交会之气，故先儒以为云薄漏日，日照雨滴则虹生焉，今以水噀日，自剑视之则晕为虹。朱子曰：日与雨交，倏然成质，阴阳不当交而交者，天地淫气也。虹为雄，色赤白，霓为雌，色青白，然二字皆从虫。《说文》曰：似?蝀状。诸书又云：尝见虹入溪饮水，其首如驴。恐天地闲亦有此种物也，但虹气似之借名也。</p><p style="TEXT-INDENT:2em">	○<a style="color:#000" title="谷雨" href="http://114.xixik.com/24jieqi/guyu/">谷雨</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="谷雨" href="http://114.xixik.com/24jieqi/guyu/">谷雨</a>【去声】，三月中。自<a style="color:#000" title="雨水" href="http://114.xixik.com/24jieqi/yushui/">雨水</a>后，土膏脉动，今又雨其谷于水也。雨读作去声，如&lsquo;雨我公田&rsquo;之雨，盖谷以此时播种自上而下也。故《说文》云雨本去声，今风雨之雨在上声，雨下之雨在去声也。萍始生。萍，水草也，与水相平，故曰萍。漂流随风，故又曰漂。《历解》曰：萍阳物，静以承阳也。鸣鸠拂其羽。鸠，即鹰所化者，布谷也。拂，过击也；《本草》云：拂羽飞而翼拍其身，气使然也。盖当三月之时，趋农急矣，鸠乃追逐而鸣，鼓羽直刺上飞，故俗称布谷。戴胜降于桑。戴胜一名戴鵀，《尔雅注》曰：头上有胜毛。此时恒在于桑，盖蚕将生之候矣。言降者，重之若天而下，亦气使之然也。</p><p style="TEXT-INDENT:2em">	○<a style="color:#000" title="立夏" href="http://114.xixik.com/24jieqi/lixia/">立夏</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="立夏" href="http://114.xixik.com/24jieqi/lixia/">立夏</a>，四月节。立字解见春。夏，假也。物至此时皆假大也。蝼蝈鸣。蝼蝈，小虫，生穴土中，好夜出，今人谓之土狗是也；一名蝼蛄，一名石鼠，一名螜【音斛】，各地方言之不同也。《淮南子》曰：蝼蝈鸣，邱蚓出，阴气始而二物应之。《夏小正》：三月螜则鸣是也。且有五能，不能成一技：飞不能过屋；缘不能穷木；泅不能渡谷；穴不能覆身；走不能先人。故《说文》称鼫为五技之鼠。《古今注》又以蝼名鼫，鼠可知。《埤雅》《本草》俱以为臭虫，陆德明、郑康成以为蛙，皆非也。蚯蚓出。蚯蚓即地龙也【一名曲蟺】，《历解》曰：阴而屈者，乘阳而伸见也。王瓜生。《图经》云：王瓜处处有之，生平野、田宅及墙垣，叶似栝楼、乌药，圆无丫缺，有毛如刺，蔓生，五月开黄花，花下结子如弹丸，生青熟赤，根似葛，细而多糁，又名土瓜，一名落鸦瓜，今药中所用也。《礼记》郑元注曰：即萆挈。《本草》作菝葜，陶隐居以辨其谬，谓菝葜自有本条，殊不知王瓜亦自有本条，先儒当时如不检书而谩言者，可笑。</p><p style="TEXT-INDENT:2em">	○<a style="color:#000" title="小满" href="http://114.xixik.com/24jieqi/xiaoman/">小满</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="小满" href="http://114.xixik.com/24jieqi/xiaoman/">小满</a>，四月中。<a style="color:#000" title="小满" href="http://114.xixik.com/24jieqi/xiaoman/">小满</a>者，物至于此小得盈满。苦菜秀。《埤雅》以荼为苦菜，《毛诗》曰：谁谓荼苦【荼即茶也，故韵今茶注本作荼】。是也。鲍氏曰：感火之气而苦味成。《尔雅》曰：不荣而实，谓之秀，荣而不实，谓之英。此苦菜宜言英也。蔡邕《月令》以谓苦荬菜，非。靡草死。郑康成、鲍景翔皆云靡草葶苈之属，《礼记注》曰：草之枝叶而靡细者。方氏曰：凡物感阳而生者则强而立，感阴而生者则柔而靡，谓之靡草，则至阴之所生也，故不胜至阳而死。麦秋至。秋者，百谷成熟之期，此于时虽夏，于麦则秋，故云麦秋也。</p><p style="TEXT-INDENT:2em">	○<a style="color:#000" title="芒种" href="http://114.xixik.com/24jieqi/mangzhong/">芒种</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="芒种" href="http://114.xixik.com/24jieqi/mangzhong/">芒种</a>【上声】，五月节。谓有芒之种谷可稼种【去声】矣。螳螂生。螳螂，草虫也，饮风食露，感一阴之气而生，能捕蝉而食，故又名杀虫；曰天马，言其飞捷如马也；曰斧虫，以前二足如斧也，尚名不一，各随其地而称之。深秋生子于林木闲，一壳百子，至此时则破壳而出，药中桑螵蛸是也。鵙【音局】始鸣。鵙，百劳也，《本草》作博劳；朱子《孟》注曰：博劳，恶声之鸟，盖枭类也。曹子建《恶鸟论》：百劳以五月鸣，其声鵙鵙然，故以之立名，似俗称浊温。故《埤雅》禽经注云：伯劳不能翺翔，直飞而已。《毛诗》曰：七月鸣鵙。盖周七月夏五月也。反舌无声。诸书以为百舌鸟，以其能反复其舌故名，特注疏以为虾蟆，盖蛙属之舌尖向内，故名之。今辨其非者，以其此时正鸣，不知失者也，《易通卦验》亦名为虾蟆无声，若以五月正鸣，殊不知初旬见形后，形亦藏矣。陈氏曰：螳螂、鵙皆阴类，感微阴而或生或鸣，反舌感阳而发，遇微阴而无声也。</p><p style="TEXT-INDENT:2em">	○<a style="color:#000" title="夏至" href="http://114.xixik.com/24jieqi/xiazhi/">夏至</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="夏至" href="http://114.xixik.com/24jieqi/xiazhi/">夏至</a>，五月中。《韵会》曰：夏，假也；至，极也；万物于此皆假大而至极也。鹿角解【音骇】。鹿，形小山兽也，属阳，角支向前与黄牛一同；麋，形大泽兽也，属阴，角支向后与水牛一同。<a style="color:#000" title="夏至" href="http://114.xixik.com/24jieqi/xiazhi/">夏至</a>一阴生，感阴气而鹿角解。解，角退落也。<a style="color:#000" title="冬至" href="http://114.xixik.com/24jieqi/dongzhi/">冬至</a>一阳生，麋感阳气而角解矣，是<a style="color:#000" title="夏至" href="http://114.xixik.com/24jieqi/xiazhi/">夏至</a>阳之极，<a style="color:#000" title="冬至" href="http://114.xixik.com/24jieqi/dongzhi/">冬至</a>阴之极也。蜩【音调】始鸣【《月令》注疏作蝉始鸣】。蜩，蝉之大而黑色者，蜣螂脱壳而成，雄者能鸣，雌者无声，今俗称知了是也。按蝉乃总名，鸣于夏者曰蜩，即《庄子》云&lsquo;蟪蛄不知春秋者&rsquo;是也。盖蟪蛄夏蝉，故不知春秋。鸣于秋者曰寒蜩，即楚辞所谓寒螀也。故《风土记》曰：蟪蛄鸣朝，寒螀鸣夕。今秋初夕阳之际，小而绿色声急疾者俗称都了是也。故《埤雅》各释其义，然此物生于盛阳，感阴而鸣。半夏生。半夏，药名，居夏之半而生，故名。</p><p style="TEXT-INDENT:2em">	○小暑</p><p style="TEXT-INDENT:2em">	小暑，六月节。《说文》曰：暑，热也。就热之中，分为大小，月初为小，月中为大，今则热气犹小也。温风至。至，极也，温热之风至此而极矣。蟋【音悉】蟀【音率】居壁。一名蛬【音拱】，一名蜻蛚，即今之促织也。《礼记注》曰：生土中。此时羽翼稍成，居穴之壁，至七月则远飞而在野矣。盖肃杀之气初生则在穴，感之深则在野而鬬。鹰始击【《礼记》作鹰乃学习】。击，搏击也。应氏曰：杀气未肃，鸷猛之鸟始习于击，迎杀气也。</p><p style="TEXT-INDENT:2em">	○<a style="color:#000" title="大暑" href="http://114.xixik.com/24jieqi/dashu/">大暑</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="大暑" href="http://114.xixik.com/24jieqi/dashu/">大暑</a>，六月中。解见小暑。腐草为萤。曰丹良，曰丹鸟，曰夜光，曰宵烛，皆萤之别名。离明之极，则幽阴至微之物亦化而为明也。《毛诗》曰：熠耀宵行。另一种也，形如米虫，尾亦有火，不言化者，不复原形，解见前。土润溽【音辱】暑。溽，湿也，土之气润，故蒸郁而为湿；暑，俗称龌龊，热是也。大雨时行。前候湿暑之气蒸郁，今候则大雨时行，以退暑也。</p><p style="TEXT-INDENT:2em">	○<a style="color:#000" title="立秋" href="http://114.xixik.com/24jieqi/liqiu/">立秋</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="立秋" href="http://114.xixik.com/24jieqi/liqiu/">立秋</a>，七月节。立字解见春。秋，揪也。物于此而揪敛也。凉风至【礼记作盲风至】。西方凄清之风曰凉风，温变而凉气始肃也。《周语》曰火见而清风戒寒是也。<a style="color:#000" title="白露" href="http://114.xixik.com/24jieqi/bailu/">白露</a>降。大雨之后，清凉风来，而天气下降，茫茫而白者，尚未凝珠，故曰<a style="color:#000" title="白露" href="http://114.xixik.com/24jieqi/bailu/">白露</a>。降示秋金之白色也。寒蝉鸣。寒蝉，《尔雅》曰寒螀，蝉小而青紫者。马氏曰：物生于暑者，其声变之矣。</p><p style="TEXT-INDENT:2em">	○<a style="color:#000" title="处暑" href="http://114.xixik.com/24jieqi/chushu/">处暑</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="处暑" href="http://114.xixik.com/24jieqi/chushu/">处暑</a>，七月中。处，止也。暑气至此而止矣。鹰乃祭鸟，鹰，义禽也。秋令属金，五行为义，金气肃杀，鹰感其气始捕击诸鸟，然必先祭之，犹人饮食祭先代为之者也。不击有胎之禽，故谓之义。天地始肃秋者，阴之始，故曰天地始肃。 禾乃登。禾者。谷连藁秸之总名。又，稻秫苽粱之属皆禾也。成热曰登。</p><p style="TEXT-INDENT:2em">	○<a style="color:#000" title="白露" href="http://114.xixik.com/24jieqi/bailu/">白露</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="白露" href="http://114.xixik.com/24jieqi/bailu/">白露</a>，八月节。秋属金，金色白，阴气渐重，露凝而白也。鸿【淮南子作候】雁来。鸿大雁小，自北而来南也。不谓南乡，非其居耳。详见<a style="color:#000" title="雨水" href="http://114.xixik.com/24jieqi/yushui/">雨水</a>节下。元鸟归。元鸟，解见前，此时自南而往北也。燕乃北方之鸟，故曰归。 群鸟养羞【淮南子作群鸟翔】。三人以上为众，三兽以上为群；群，众也。《礼记注》曰：羞者，所羹之食；养羞者，藏之以备冬月之养也。</p><p style="TEXT-INDENT:2em">	○<a style="color:#000" title="秋分" href="http://114.xixik.com/24jieqi/qiufen/">秋分</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="秋分" href="http://114.xixik.com/24jieqi/qiufen/">秋分</a>，八月中。解见<a style="color:#000" title="春分" href="http://114.xixik.com/24jieqi/chunfen/">春分</a>。 雷始收声。鲍氏曰：雷二月阳中发声，八月阴中收声入地，则万物随入也。蛰虫坏【音培】户。淘瓦之泥曰坏，细泥也。按《礼记注》曰：坏益其蛰穴之户，使通明处稍小，至寒甚乃墐塞之也。水始涸。《礼记注》曰：水本气之所为，春夏气至故长，秋冬气返故涸也。</p><p style="TEXT-INDENT:2em">	○<a style="color:#000" title="寒露" href="http://114.xixik.com/24jieqi/hanlu/">寒露</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="寒露" href="http://114.xixik.com/24jieqi/hanlu/">寒露</a>，九月节。露气寒冷，将凝结也。 鸿雁来宾。雁以仲秋先至者为主，季秋后至者为宾。《通书》作来滨。滨，水际也，亦通。雀入大水为蛤。雀，小鸟也，其类不一，此为黄雀。大水，海也，《国语》云：雀入大海为蛤。盖寒风严肃，多入于海。变之为蛤，此飞物化为潜物也。蛤，蚌属，此小者也。菊有黄华。草木皆华于阳，独菊华于阴，故言有桃桐之华皆不言色，而独菊言者，其色正应季秋土旺之时也。</p><p style="TEXT-INDENT:2em">	○<a style="color:#000" title="霜降" href="http://114.xixik.com/24jieqi/shuangjiang/">霜降</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="霜降" href="http://114.xixik.com/24jieqi/shuangjiang/">霜降</a>，九月中。气肃而凝露结为霜矣。《周语》曰：驷见而陨霜。豺祭兽【《月令》作豺乃祭兽戮禽】。祭兽，以兽而祭天，报本也。方铺而祭，秋金之义。 草木黄落。色黄而摇落也。蛰虫咸俯【淮南子作俛】。咸，皆也；俯，垂头也。此时寒气肃凛，虫皆垂头而不食矣。</p><p style="TEXT-INDENT:2em">	○<a style="color:#000" title="立冬" href="http://114.xixik.com/24jieqi/lidong/">立冬</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="立冬" href="http://114.xixik.com/24jieqi/lidong/">立冬</a>，十月节。立字解见前。冬，终也，万物收藏也。 水始冰。水面初凝，未至于坚也。 地始冻。土气凝寒，未至于拆。雉入大水为蜃。雉，野鸡；郑康成、《淮南子》、高诱俱注蜃为大蛤。《玉篇》亦曰：蜃，大蛤也。《墨子》又曰：蚌，一名蜃，蚌非蛤类乎？《礼记之注》曰蛟属，《埤雅》又以蚌、蜃各释，似非蛤类。然按《本草》车螯之条曰：车螯，是大蛤，一名蜃，能吐气为楼台，又尝闻海旁蜃气成楼垣。《章龟经》曰：蜃大者为车轮岛屿，月闲吐气成楼，与蛟龙同也。则知此为蛤，明矣。况《尔雅翼》引周礼诸家，辩蜃为蛤甚明。《礼记之注》以谓雉，由于蛇化之说，故以雉子为蜃，《埤雅》既曰似蛇而大，腹下尽逆鳞，知之悉矣，然复疑之：一曰状似螭龙，有耳，有角，则亦闻而识之，不若《本草》、《章龟经》为是，即一物耳。大水，淮也，晋语曰：雉入于淮为蜃。</p><p style="TEXT-INDENT:2em">	○<a style="color:#000" title="小雪" href="http://114.xixik.com/24jieqi/xiaoxue/">小雪</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="小雪" href="http://114.xixik.com/24jieqi/xiaoxue/">小雪</a>，十月中。雨下而为寒气所薄，故凝而为雪。小者，未盛之辞。虹藏不见。《礼记注》曰：阴阳气交而为虹，此时阴阳极乎辨，故虹伏。虹非有质，而曰藏，亦言其气之下伏耳。 天气上升，地气下降。闭塞而成冬。天地变而各正其位，不交则不通，不通则闭塞，而时之所以为冬也。</p><p style="TEXT-INDENT:2em">	○<a style="color:#000" title="大雪" href="http://114.xixik.com/24jieqi/daxue/">大雪</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="大雪" href="http://114.xixik.com/24jieqi/daxue/">大雪</a>，十一月节。大者，盛也。至此而雪盛矣。鹖鴠不鸣。《禽经》曰：鹖，毅鸟也。似雉而大，有毛角，鬬死方休，古人取为勇士，冠名可知矣，《汉书音义》亦然。《埤雅》云：黄黑色，故名为鹖。据此，本阳鸟，感六阴之极不鸣矣。若郭璞《方言》：似鸡，冬无毛，昼夜鸣，即寒号虫。陈澔与方氏亦曰求旦之鸟，皆非也。夜既鸣，何为不鸣耶？《丹铅余录》作雁，亦恐不然。《淮南子》作鳱鴠，《诗》注作渴旦。虎始交。虎，猛兽。故《本草》曰能避恶魅，今感微阳气，益甚也，故相与而交。荔挺出。荔，《本草》谓之蠡，实即马薤也。郑康成、蔡邕、高诱皆云马薤，况《说文》云：荔似蒲而小，根可为刷，与《本草》同。但陈澔注为香草，附和者即以为零陵香，殊不知零陵香自生于三月也。</p><p style="TEXT-INDENT:2em">	○<a style="color:#000" title="冬至" href="http://114.xixik.com/24jieqi/dongzhi/">冬至</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="冬至" href="http://114.xixik.com/24jieqi/dongzhi/">冬至</a>，十一月中。终藏之气至此而极也。 蚯蚓结。六阴寒极之时，蚯蚓交相结而如绳也。 麋角解。说见鹿角解下。水泉动。水者，天一之阳所生，阳生而动，今一阳初生故云耳。</p><p style="TEXT-INDENT:2em">	○<a style="color:#000" title="小寒" href="http://114.xixik.com/24jieqi/xiaohan/">小寒</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="小寒" href="http://114.xixik.com/24jieqi/xiaohan/">小寒</a>，十二月节。月初寒尚小，故云。月半则大矣。雁北乡【去声】。乡，向导之义。二阳之候，雁将避热而回，今则乡北飞之，至<a style="color:#000" title="立春" href="http://114.xixik.com/24jieqi/lichun/">立春</a>后皆归矣，禽鸟得气之先故也。鹊始巢。喜鹊也，鹊巢之门每向太岁，<a style="color:#000" title="冬至" href="http://114.xixik.com/24jieqi/dongzhi/">冬至</a>天元之始，至后二阳已得来年之<a style="color:#000" title="节气" href="http://114.xixik.com/jieqi/">节气</a>，鹊遂可为巢，知所向也。雉雊【音姤】。雉，文明之禽，阳鸟也；雊，雌雄之同鸣也，感于阳而后有声。</p><p style="TEXT-INDENT:2em">	○<a style="color:#000" title="大寒" href="http://114.xixik.com/24jieqi/dahan/">大寒</a></p><p style="TEXT-INDENT:2em"><a style="color:#000" title="大寒" href="http://114.xixik.com/24jieqi/dahan/">大寒</a>，十二月中。解见前。</p><p style="TEXT-INDENT:2em">	初候，鸡乳育也。鸡，水畜也，得阳气而卵育，故云乳。马氏曰，鸡，木畜丽于阳而有形，故乳在<a style="color:#000" title="立春" href="http://114.xixik.com/24jieqi/lichun/">立春</a>节也。</p><p style="TEXT-INDENT:2em">	二候，征鸟厉疾。征，伐也，杀伐之鸟，乃鹰隼之属。至此而猛厉迅疾也。</p><p style="TEXT-INDENT:2em">	三候，水泽腹坚。阳气未达，东风未至，故水泽正结而坚。陈氏曰，冰之初凝，水面而已，至此则彻上下皆凝，故云腹坚，腹犹内也。</p></div></div></div></div><script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script><script type="text/javascript">        var value = '120';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script><div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/24jieqi/72hou/" target="_self" title="月令七十二候集解_二十四节气">月令七十二候集解</a></div><ul style="width: 960px; margin: auto; overflow: hidden;"><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shicha/"
+                title="国际时差查询 - 世界各国主要城市和北京时差对照表">时差</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证更换新政策_过期了该怎么办？">中国旅行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangye/"
+                title="2017最新国民经济行业分类与代码（GB/4754-2017）,国民经济行业分类标准">国民经济行业分类与代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国总统_美国历任总统名单_美国总统简历生卒年份及所属党派">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chicun/"
+                title="服装尺寸对照表_男士服装尺寸对照表_中国女装尺寸对照表_美版服装尺码换算">服装尺寸对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country/"
+                title="全世界有多少个国家和地区？_世界上国家和地区一览表">全世界国家和地区</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-flag/"
+                title="世界各国国旗大全 - 世界各国国旗一览表,国旗图片下载">世界各国国旗大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/festival/"
+                title="节日大全_2020年法定节假日安排">节日大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/72hou/"
+                title="月令七十二候集解_二十四节气">月令七十二候集解</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-visa/"
+                title="赴美生子诚实签攻略_赴美生子诚实签的好处_赴美生子为什么要诚实签">赴美生子诚实签攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-spending/"
+                title="赴美生子价格_去美国生孩子多少钱_费用清单">赴美生子价格</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-baoxian/"
+                title="赴美生子保险_去美国生宝宝生育险_孕中险">赴美生子保险</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-hospital/"
+                title="赴美生子医院_洛杉矶医院_洛杉矶接待华人孕妇医院价目和详细情况一览表">赴美生子医院</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-doctor/"
+                title="赴美生子医生_洛杉矶医生_赴美生子华人医生_赴美生子医生介绍">赴美生子医生</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-living/"
+                title="赴美生子选择月子中心还是DIY_去美国生孩子选择月子中心还是DIY_赴美生子DIY攻略">月子中心还是DIY</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="美宝证件_美宝需要哪些证件（美国出生纸_中国旅行证_美国护照_社会安全号_出生纸三级认证）">美宝需要哪些证件？</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-passport-ds11/"
+                title="美宝美国护照申请更新_DS-11怎么填图文">美国护照申请</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_去美国生孩子费用预算清单2020">赴美生子要多少钱</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/university/"
+                title="中国大学名单_2019年全国高等学校名单（截至2019年6月15日）">中国大学名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/ranking/"
+                title="美国总统排名_美国总统历史排名_美国最伟大的总统排行榜">美国总统排行榜</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/size/"
+                title="服装尺寸对照表_裤子尺寸_男装尺寸_女装尺寸_裙子尺寸">服装尺寸</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-uk-time-zone/"
+                title="中英时差对照表,现在英国几点?中国和英国时差怎么算?现在英国时间是几点?">中英时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_去美国生孩子要多少钱？">赴美生子费用</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 最新中国护照免签国家一览2020">中国护照免签证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-passport/"
+                title="美国护照 - 美国护照上写的什么,美国护照免签证国家">美国护照</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/henley-passport-index/"
+                title="亨氏护照指数 - 亨氏护照受限制数2019">亨氏护照指数</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-process/"
+                title="赴美生子流程 - 干货！超详细的赴美生子流程攻略2019！">赴美生子流程</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-best/"
+                title="赴美生子机构哪家好？_合法的赴美生子机构">赴美生子机构哪家好</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-regret/"
+                title="2019生个美国孩子后悔了_后悔在美国生孩子_赴美生子利与弊">生个美国宝宝后悔了揭秘</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/visa/"
+                title="美国签证_美国签证DS-160表格在线填写_美国签证预约面谈_在线缴费">美国签证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/titanic/"
+                title="泰坦尼克号沉没的真相_历史真实故事_泰坦尼克号电影_嘻嘻网">泰坦尼克号</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-flight/"
+                title="赴美生子航班怎么选_赴美航班信息大全">赴美生子航班</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/exit-and-entry-premit/"
+                title="出入境通行证_一次性出入境通行证_中华人民共和国出入境通行证">出入境通行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-prosandcons/"
+                title="赴美生子利弊_赴美生子的优势和弊端_生美籍宝宝的好处和坏处">赴美生子好处和弊端</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-born/"
+                title="赴美产子_赴美生子_去美国生孩子">赴美产子</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/14th-amendment/"
+                title="美国宪法修正案第十四条">美国宪法修正案第14条</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/greatest/"
+                title="美国最伟大的总统_美国总统排行榜">美国最伟大的总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-states/13states/"
+                title="美国13个州_北美13个殖民地_美国建国时的13个州">美国13个州</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qs2020/"
+                title="2020年QS世界大学排名_世界大学排行榜">QS世界大学排行榜</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/born-usbaby/"
+                title="去美国生孩子_去美国生孩子多少钱">去美国生孩子</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/amendments/"
+                title="美国宪法修正案_Amendments to the Constitution">美国宪法修正案</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/the-world-university-rankings/"
+                title="2020年泰晤士报世界大学排名_2020年THE世界大学排名">泰晤士世界大学排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ssn/"
+                title="美国社安号SSN_美国社安卡_美国社会安全号码">社会安全号码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/declaration-of-independence/"
+                title="《美国独立宣言》（The Declaration of Independence）">独立宣言</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/birth-certificate/"
+                title="美国出生纸（Birth Certificate）_美国出生纸三级认证">美国出生纸</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-living-cost/"
+                title="美国月子中心费用_赴美生子费用">美国月子中心费用</a></li></ul><div class="lindBox"><div class="btnGray"><div class="btnText"><a target="_self" title="月令七十二候集解_二十四节气" href="http://news.xixik.com/word/120/">另存为<br />                    Word格式</a></div></div></div><div class="lindBox" style="text-align: center;"><img src="http://news.xixik.com/qrcode/120/" alt="扫码手机上继续看" /><br /><br /><strong>用微信或者支付宝扫码在手机上继续观看<br />            可以保存收藏，也扫码后可以分享给好友
+        </strong></div><hr style="height: 1px; border: none; border-top: 1px dashed #999;" /><script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script><!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.--></body></html>

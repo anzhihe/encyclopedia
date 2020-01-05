@@ -1,0 +1,364 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>美国签证_美国签证DS-160表格在线填写_美国签证预约面谈_在线缴费</title><link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" /><meta name="description" content="美国签证攻略：美国签证DS-160表格在线填写，美国签证预约面谈时间，美国签证中信银行在线缴费，美国签证状态查询，美国签证后护照状态追踪，美国签证EVUS登记。" /><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/visa/"><meta http-equiv="Cache-Control" content="no-transform" /><meta http-equiv="Cache-Control" content="no-siteapp" /><base target="_blank" /><script>        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "visa/";
+        }
+
+
+    </script><style>        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+            overflow:auto;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style></head><body><a name="top4"></a><div class="topBox" name="top"><div class="topMain"><div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div><div id="icoPhone"></div><div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div><div id="icoWechat"></div><div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a></div><div id="icoSina"></div><div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a></div><div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div><div class="topRight"></div></div></div><div id="showqrCode"><div><span></span></div><img src="" /><div><span></span></div></div><script type="text/javascript">        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script><div class="body"><div class="lindBox" style="position: relative;"><img src="http://img.xixik.net/custom/topic/001/visa.jpg" alt="美国签证_美国签证DS-160表格在线填写_美国签证预约面谈_在线缴费" /><div class="title"><h1>美国签证_美国签证DS-160表格在线填写_美国签证预约面谈_在线缴费</h1></div></div><div class=" custom_border lindBox"><div class="special_content"><div class="content_text"><div class="content_daodu"></div><h2>美国签证</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--><p><strong>嘻嘻网<a href="http://114.xixik.com/visa/" style="color:#000;" title="美国签证流程攻略">美国签证流程攻略</a></strong>：<br />	【签证前】<a href="https://ceac.state.gov/genniv/" title="美国签证DS-160表格在线填写">美国签证DS-160表格在线填写</a>，<a href="https://etrade.citicbank.com/portalweb/USA_visaPayF.html" title="美国签证中信银行在线缴费">美国签证中信银行在线缴费</a>，<a href="https://cgifederal.secure.force.com/?language=Chinese%20(Simplified)&amp;country=China" title="美国签证预约面谈时间">美国签证预约面谈时间</a>；<br />	【签证后】<a href="https://ceac.state.gov/ceacstattracker/status.aspx" title="美国签证状态查询">美国签证状态查询</a>，<a href="http://114.xixik.com/visa/#anchor4" title="美国签证后护照状态追踪">美国签证后护照状态追踪</a>，<a href="http://114.xixik.com/evus/" title="美国签证evus登记">美国签证EVUS登记</a>。<br /><strong>专业美国签证，美国签证拒签再签证服务，<a href="http://www.xixik.com/content/c8e6d119f3d95f33" title="美国签证预约加急"><span style="color:#ff0000;">美国签证预约加急</span></a>：Ada出生在美国（微信号：Ada-usbaby）</strong></p></div></div></div><div class="lindBox" style="overflow: hidden;"><div class="gg1"><a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a></div><div class="guide"><div class="guideBorder" id="guideBorder"><div class="guideTitle">导读（目录）</div><ul id="guideDisplay"><li>·<a title="美国签证DS-160表格在线填写" href="#anchor1" target="_self"> 美国签证DS-160表格在线填写</a></li><li>·<a title="美国签证预约面谈时间" href="#anchor2" target="_self"> 美国签证预约面谈时间</a></li><li>·<a title="美国签证中信银行在线缴费" href="#anchor3" target="_self"> 美国签证中信银行在线缴费</a></li><li>·<a title="美国签证状态查询" href="#anchor4" target="_self"> 美国签证状态查询</a></li><li>·<a title="美国签证后护照状态追踪" href="#anchor5" target="_self"> 美国签证后护照状态追踪</a></li><li>·<a title="美国签证EVUS登记" href="#anchor6" target="_self"> 美国签证EVUS登记</a></li></ul><div class="guideOpen">展开&darr;</div></div></div><div class="guideFllow"><div class="guideFllowBorder"><div class="guideFllowTitle">导读（目录）</div><ul id="guideFllowDisplay"><li>·<a title="美国签证DS-160表格在线填写" href="#anchor1" target="_self"> 美国签证DS-160表格在线填写</a></li><li>·<a title="美国签证预约面谈时间" href="#anchor2" target="_self"> 美国签证预约面谈时间</a></li><li>·<a title="美国签证中信银行在线缴费" href="#anchor3" target="_self"> 美国签证中信银行在线缴费</a></li><li>·<a title="美国签证状态查询" href="#anchor4" target="_self"> 美国签证状态查询</a></li><li>·<a title="美国签证后护照状态追踪" href="#anchor5" target="_self"> 美国签证后护照状态追踪</a></li><li>·<a title="美国签证EVUS登记" href="#anchor6" target="_self"> 美国签证EVUS登记</a></li></ul><div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div></div></div><div class="gg2"><a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a></div></div><a name="anchor1"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        美国签证DS-160表格在线填写</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em"><a href="http://www.xixik.com/content/83cbd4a6edfd778f" style="text-indent: 2em;" target="_blank" title="手把手教你办美国签证 DS-160填表指南(内含图文) "><strong>手把手教你办美国签证 DS-160填表指南</strong>(内含图文)</a></p><p style="text-align: center;"><img src="http://img.xixik.net/custom/section/visa/xixik-14da729336cbc02c.jpg" /></p><div class='right_gg'><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- 336x280-114-left --><ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-3849899595029685"
+     data-ad-slot="9973132210"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><p style="TEXT-INDENT:2em">	申请美国签证，在预约大使馆或总领事馆面谈之前，首先须在线提交DS-160申请表。自2010年3月1日起，在中华人民共和国境内申请美国非移民签证的申请人都需填写<a href="http://ceac.state.gov/genniv/" title="美国签证DS-160表格在线填写">在线非移民签证申请表（DS-160）</a></p><p style="TEXT-INDENT:2em">	在填写申请表的过程中，<strong>如果未操作时长超过20分钟，申请流程将被终止</strong>。除非已记录申请编号或已将申请存入电脑文件，否则必须重新开始。请记下页面右上角显示的申请编号。如果您需要在提交申请前关闭浏览器，则您将需要使用该申请编号继续进行申请。</p><p style="TEXT-INDENT:2em">	1、在开始申请前，上传已经准备好的数码照片（<a href="http://www.xixik.com/content/cd1e21200e2b729b" title="美国签证照片要求">美国签证照片要求</a>：2*2英寸，约51mm*51mm，24位彩色JPEG 格式的文件，文件不得超过240千字节，拍摄照片的时间不得超过6个月，拍照背景必须为纯色），通过测试，继续下一步。</p><p style="TEXT-INDENT:2em">	2、按照提示一步步的填写在线申请。</p><p style="TEXT-INDENT:2em">	（1）开始填写申请时，你会看到含有正式说明的&ldquo;非移民签证申请&rdquo;界面。申请表必须在英文状态下填写。可以选择专业机构代为填写（Ada出生在美国微信：<strong>Ada-usbaby</strong>）</p><p style="TEXT-INDENT:2em">	（2）如果选择在上海申请美国非移民签证，所以要先在申请地点界面时选择&ldquo;SHANGHAI, CHINA（中国上海）&rdquo;。如果你在其他领事馆申请，也要确保选择了正确的地点。</p><p style="TEXT-INDENT:2em">	（3）填写在线申请时，每一页都最好点击&ldquo;Save(保存)&rdquo;键。因为为了保护个人隐私，在线申请表会在闲置大约20分钟后自动&ldquo;超时&rdquo;。当申请&ldquo;超时&rdquo;，所有填写的信息都会丢失。而点击&ldquo;Save(保存)&rdquo;键可以暂时保存申请。如果需要永久保存申请，选择&ldquo;Save Application to File（保存申请至文件）&rdquo;键，然后选定电脑上的空间来保存申请文件。</p><p style="TEXT-INDENT:2em">	在那之后，可以使用&ldquo;Getting Started（准备开始）&rdquo;界面的&ldquo;Import Application Data（引入申请数据）&rdquo;功能来上传那些之前输入的信息数据。建议在电脑上保存一份申请备份，这样的话，一旦申请不完整或不正确，可以快速获取并改正。</p><p style="TEXT-INDENT:2em">	（4）填写之前最好准备好以下资料，填写时都会用到：姓名（与护照上列示完全一致）、国籍、护照号码（有效期必须一年以上）、性别、出生日期、出生国家、旅行目的/签证类型选择（与电话预约时一致）、身份证号码、婚姻状况（和/或）配偶信息、现任雇主/职务（当申请表要求时请填写前任雇主信息）、家庭地址/城市/国家、家庭/工作/移动电话号码（和/或）邮件地址、父母姓名（和/或）出生日期、以往赴美旅游/以往美国签证信息、以往签证拒签纪录、访问行程、到达美国后住宿地址等。</p><p style="TEXT-INDENT:2em">	（5）所有问题都应当用英文回答，只能使用英文字母。（只有一个问题除外，即需要使用本国文字填写姓名时，您必须用中国汉字或其他非英文字母作答，必须填写中文全名及相对应的中文电报码）</p><p style="text-align: center;"><img src="http://img.xixik.net/custom/section/visa/xixik-a9a8a9f66ceb41d1.jpg" /></p><p style="TEXT-INDENT:2em">	当申请人完成并正确填写了在线申请确认提交后会生成标有字母加数字格式的条形码确认页，需要打印，上面涵盖了一些个人信息和一个印有确认号的条形码。</p><p style="TEXT-INDENT:2em">	签证面谈时必须携带此确认页，非常重要，请务必打印清楚，最好用激光打印。</p><p style="TEXT-INDENT:2em">	3、如果你未被美国拒签过，有一个有效的签证或是签证过期时间不超过一年，并且这次申请的签证类型和上次的一样，那就可以使用中信银行的&ldquo;续办签证/代传递&rdquo;功能，符合条件的申请人无需入馆和签证官员面谈，但是也同样需要提交此确认页。<strong>美国签证代传递不用预约时间。</strong></p><p style="TEXT-INDENT:2em"><strong>签证代传递条件</strong></p><p style="TEXT-INDENT:2em">	1、年龄14周岁以下，80岁后的人未拒签记录，可以代传递；</p><p style="TEXT-INDENT:2em">	2、已经持有美国签证，或者持有美国签证过期时间未超过1年，未有拒签记录，可以代传递；</p><p style="TEXT-INDENT:2em">	14周岁以下的孩子申请非移民签证时不必亲自到使馆来递交申请。如果父母中至少有一人持有效的美国非移民签证，此年龄段的孩子可以通过免面谈代传递服务申请签证；如果14周岁以下孩子的父母或父母中的一人也需要申请签证，那么可以由父母(或父母中的一人)在前来面谈时同时携带孩子的签证申请材料替孩子一起申请。</p><p style="TEXT-INDENT:2em"><strong>美国签证代传递步骤</strong></p><p style="TEXT-INDENT:2em">	1.填写非移民签证电子申请表DS-160表格，必须选美国驻广州领事馆。</p><p style="TEXT-INDENT:2em">	2.进入面谈预约系统，建立个人档案并交纳签证费用。选择预约面谈，在接下来的流程中会遇到相关免面谈的问题，回答此类问题后系统会自动认知是否符合免面谈要求。</p><p style="TEXT-INDENT:2em">	3.在回答相关免面谈符合条件的问题后系统会提示直接支付签证费，如果符合免面谈的各项要求，直接打印代传递确认信，里面包含选择收取护照/文件的地址。</p><p style="TEXT-INDENT:2em">	4.收集好所有文件：DS-160电子申请表的填写完整确认函，可机读签证费用收据，现在及以前的护照，彩色近照，此次旅行目的和行程安排的说明书。根据签证申请类型不同，所需收集的文件和应缴费用也会有所不同。</p><p style="TEXT-INDENT:2em">	5.将代传递确认信及上述文件放入信封交给银行。</p><p style="TEXT-INDENT:2em">	6.银行会将文件转交到美国领事馆。</p><p style="TEXT-INDENT:2em">	7.签证审核过程结束后领事馆会将文件传送到在建立个人档案时选择的文件收取地址。文件离开使馆时会收到一封邮件显示可以追踪文件进程的号码，可以登录个人档案更改文件收取地址。</p><p style="TEXT-INDENT:2em"><strong>美国签证FAQ</strong></p><p style="TEXT-INDENT:2em">	问：我的旧护照已过期，但是里面的美国签证仍在有效期内，我需要用新护照重新申请签证吗？</p><p style="TEXT-INDENT:2em">	答：不需要。如果您的签证仍然有效，您可以使用新旧两本护照到美国旅行，前提是签证未损坏，且旅行主要目的与签证类型相符。另外，两本护照必须是同一国家签发的同一类型护照。当您到达美国入境处时，海关与边境保护局入境官员会检查您旧护照上的签证，如果他/她批准您入境， 他们会在您的新护照上盖入境章并备注&ldquo;VIOPP&rdquo;（签证在其他护照上）。请不要试图把旧护照上的签证撕下来贴到新护照上，否则该签证被视为无效。</p></div></div></div><a name="anchor2"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        美国签证预约面谈时间</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em"><strong><a href="https://cgifederal.secure.force.com/?language=Chinese%20(Simplified)&country=China" title="Nonimmigrant Visa">美国签证预约面谈时间</a></strong></p><p style="TEXT-INDENT:2em">	当您在线预约面谈时间时，请确保填写的条形码与您将要带来面谈的DS-160申请表上的条形码一致。特别需要注意一些相似的数字和字母，如“I”和“ 1”，“O”和“0”，“S”和“8”等。</p><p style="TEXT-INDENT:2em">	每年的签证旺季，经常很多人在网上询问：<a href="http://www.xixik.com/content/c8e6d119f3d95f33">美国签证重新预约面谈时间能加急吗</a>？</p><p style="TEXT-INDENT:2em">	1、要去美国留学的学生，学校的OFFER已经发下来了，但美国预约都没约到。</p><p style="TEXT-INDENT:2em">	2、要<a href="http://114.xixik.com/usbaby-born/" style="color:#000;" title="去美国生孩子">去美国生孩子</a>，已经30周了，<a href="http://114.xixik.com/visa/" style="color:#000;" title="美国签证">美国签证</a>却预约到2个月后，在获得<a href="http://114.xixik.com/visa/" style="color:#000;" title="美国签证">美国签证</a>前，就已经在国内生了……</p><p style="TEXT-INDENT:2em">	3、要去美国参加朋友婚礼，可预约的时间人家蜜月都度完了……</p><p style="TEXT-INDENT:2em">	那么有没有什么办法可以解决签证来不及这个现象呢？</p><p style="TEXT-INDENT:2em">	有的！我们<a href="http://www.usbabyada.com/" style="color:#000;" title="Ada出生在美国">Ada出生在美国</a>（<strong>微信：Ada-usbaby</strong>）有办法：我们可以快速办理<a href="http://114.xixik.com/visa/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="美国签证">美国签证</a>加急预约，我们会根据申请人的具体情况尽快安排预约的时间，最快一天，一般周期在1-3天，不成功不收费。申请签证加急预约地区：北京，上海，广州，沈阳，成都各领区均可受理。<strong style="text-indent: 2em;"><a href="http://www.xixik.com/content/c8e6d119f3d95f33" style="color:#000;" title="美国签证"><span style="color:#ff0000;">美国签证加急号</span></a></strong><span style="text-indent: 2em; color: rgb(255, 0, 0);">，</span>不成功不收费。约号有保证，通过专业渠道，承诺保证<strong style="text-indent: 2em;"><a href="http://www.xixik.com/content/c8e6d119f3d95f33" title="美国签证"><span style="color:#ff0000;">美国签证预约加急</span></a></strong>，100%成功，不成功不收费。</p><p style="TEXT-INDENT:2em"><strong>确保使用最新的并且有效的DS-160条形码进行预约</strong></p><p style="TEXT-INDENT:2em">	在你进行签证面试预约时，你必须确保已经提交了完整的DS-160申请表格并且成功上传照片至你的表格。如果你曾经申请过美国签证，请确保你使用的是最新的并且有效的DS-160条形码进行预约。否则你不仅会被禁止进入大使馆或领事馆，而且你会被要求重新进行面试预约。你只能在DS-160确认页及面试预约确认页上显示的地点申请签证。如果申请人提交的申请表格没有填写完整或者是预约后申请表格信息有所变更， 那么你也会被要求重新进行签证面试的预约。</p><p style="TEXT-INDENT:2em"><strong>面谈预约时使用的条形码与申请表不符怎么办？</strong></p><p style="TEXT-INDENT:2em">	要面谈时收到领事馆发的短信：由于您进行签证面谈预约时使用的条形码与DS-160申请表上不符，很抱歉我们这次无法处理您的申请。在预约面谈日，您不必前往美国驻xx总领事馆面谈。 您的收据将在面谈日的晚上被解锁，请在原预约日的第二天使用正确的条形码号码重新预约新的面谈时间。</p><p style="TEXT-INDENT:2em">	美国签证遇到任何麻烦，任何美国签证疑难问题，请联系专业的赴美机构<a href="http://www.usbabyada.com/" style="color: rgb(0, 0, 0);" title="Ada出生在美国">Ada出生在美国</a>（<strong>微信：Ada-usbaby</strong>）解决难题，我们不是雷锋，适当收取服务费用。相信专业的，只会让您更省钱更省心。</p></div></div></div><a name="anchor3"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        美国签证中信银行在线缴费</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em"><a href="https://etrade.citicbank.com/portalweb/USA_visaPayF.html" title="美国签证中信银行在线缴费">美国签证中信银行在线缴费</a></p></div></div></div><a name="anchor4"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        美国签证状态查询</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em"><a href="https://ceac.state.gov/ceacstattracker/status.aspx" title="Visa Status Check">美国签证状态查询</a></p><p style="TEXT-INDENT:2em">	1、No Status，无状态，输入错误或者没有进入预约流程的申请.</p><p style="TEXT-INDENT:2em">	2、Administrative Processing，行政审查</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/006/xixik_cd7a997bd9401fda.jpg" /></p><p style="TEXT-INDENT:2em">	3、Issued，批签状态，使馆批准了签证申请.</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/006/xixik_1adef0ea697d3acf.jpg" /></p><p style="TEXT-INDENT:2em">	4、Refused，拒签，使馆拒绝了你的申请。&#160;</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/006/xixik_54f45b7cafeea469.jpg" /></p><p style="TEXT-INDENT:2em">	更多<a href="http://www.xixik.com/content/d88777d0914a739a" title="美国签证状态和护照状态在线查询方法及进度含义">美国签证状态和护照状态在线查询方法及进度含义</a></p><p style="TEXT-INDENT:2em">	签证通过了后，那就回家等邮寄到付或者中信银行电话自取吧。现在美国签证都很快，一般网上1-2天就能查到状态了，3-7天取护照，效率真的是惊人地快。</p><p style="TEXT-INDENT:2em"><strong>美国签证</strong><strong>代传递</strong><strong style="text-indent: 2em;">怎么知道办理结果？</strong></p><p style="TEXT-INDENT:2em">	申请者递交代传递申请，并通过中信银行提交申请资料之后，在签证审核过程结束后，美国驻广州总领事馆会根据申请者所选择的文件递送方式，免费到中信领取或者付费寄送到家，将申请者的文件退回。</p><p style="TEXT-INDENT:2em">	当护照可以领取时，申请者的护照状态会被更新，并且申请者将会收到一封包含护照追踪号码的电子邮件。如果签证获得签发，将会贴在申请者的护照上。</p><p style="TEXT-INDENT:2em">	如果美国驻广州总领事馆在接受申请者的代传递申请之后，依旧要求申请者参加面签，也会通过邮件或电话的方式通知申请者。</p></div></div></div><a name="anchor5"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        美国签证后护照状态追踪</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p><a href="http://cgifederal.force.com/passporttracker?country=China&language=zh_CN" title="美国签证后护照状态追踪">美国签证后护照状态追踪</a></p><iframe src="http://cgifederal.force.com/passporttracker?country=China&language=zh_CN" width="100%" height="120" frameborder="0" ></iframe><p style="TEXT-INDENT:2em">状态解释</p><p style="TEXT-INDENT:2em">1、there is no status update available for the passport number submitted，代表您提交的护照号码领事馆系统查不到，可能是您输错了。</p><p style="TEXT-INDENT:2em">2、your passport is still with post，代表您的护照还在领馆。</p><p style="TEXT-INDENT:2em">3、origination scan，代表您的护照已经离开了领事馆，可是还没有到达领取的支行。</p><p style="TEXT-INDENT:2em">4、ready for pick up，您可以去您选择的支行领取您的护照。</p><p style="TEXT-INDENT:2em">5、picked up，您的护照已经被领取。</p><p>	或者发邮件查询：发送邮件至<a href="mailto:passportstatus@ustraveldocs.com">passportstatus@ustraveldocs.com</a>，并在主题和/或正文中输入有效的护照号码，该号码应与预约面谈时输入的号码一致。不要输入任何其他文本。您将收到有关投递状态的自动回复。</p></div></div></div><a name="anchor6"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        美国签证EVUS登记</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em"><strong><a href="http://114.xixik.com/evus/" style="color: rgb(0, 0, 0);" title="美国签证EVUS登记">美国签证EVUS登记</a></strong></p><p style="TEXT-INDENT:2em">	自2016年11月起，所有持有中华人民共和国护照并同时持有十年有效期B1/B2, B1 或者 B2 美国签证的旅行者须进入签证更新系统EVUS网站进行信息登记，则将无法入境美国。 更多相关信息， 请访问&#160;<a href="http://www.cbp.gov/EVUS">www.cbp.gov/EVUS</a></p><p style="TEXT-INDENT:2em"><a href="http://114.xixik.com/evus/"><img src="http://img.xixik.net/custom/topic/xixik_c31927bc2b2fdb6b.jpg" /></a></p><p style="TEXT-INDENT:2em">	签证更新电子系统（<a href="http://114.xixik.com/evus/" style="color: rgb(0, 0, 0);" title="EVUS">EVUS</a>）是指持有10年期B1/B2、B1或B2（访问者）签证的中华人民共和国公民所使用的个人基本信息在线定期更新系统，以协助其赴美旅行。也就是说获得<a href="http://114.xixik.com/visa/" style="color: rgb(0, 0, 0);" title="美国签证">美国签证</a>，入境前多了一道审核门槛。&#160;</p><p style="TEXT-INDENT:2em">	1、如果获得<a href="http://114.xixik.com/visa/" style="color: rgb(0, 0, 0);" title="美国签证">美国签证</a>后，暂时不去美国就无需理会<a href="http://114.xixik.com/evus/" style="color: rgb(0, 0, 0);" title="EVUS">EVUS</a>，不影响<a href="http://114.xixik.com/visa/" style="color: rgb(0, 0, 0);" title="美国签证">美国签证</a>的有效性；&#160;</p><p style="TEXT-INDENT:2em">	2、如果需要去美国就登记<a href="http://114.xixik.com/evus/" style="color: rgb(0, 0, 0);" title="EVUS">EVUS</a>，一次登记后基本信息不变，那么两年内有效，下次去美国无需再次登陆<a href="http://114.xixik.com/evus/" style="color: rgb(0, 0, 0);" title="EVUS">EVUS</a>申报。&#160;</p><p style="TEXT-INDENT:2em">	3、即便登记的<a href="http://114.xixik.com/evus/" style="color: rgb(0, 0, 0);" title="EVUS">EVUS</a>还在两年有效期内，但是<a href="http://114.xixik.com/evus/" style="color: rgb(0, 0, 0);" title="EVUS">EVUS</a>所需的基本信息发生变化，就需要重新提交，否则会影响你入境。&#160;</p><p style="TEXT-INDENT:2em">	4、在<a href="http://114.xixik.com/evus/" style="color: rgb(0, 0, 0);" title="EVUS">EVUS</a>两年有效期内，旅客的签证过期，<a href="http://news.xixik.com/zt/passport/" style="color: rgb(0, 0, 0);" title="护照">护照</a>过期任何一项过期，已经登记的<a href="http://114.xixik.com/evus/" style="color: rgb(0, 0, 0);" title="EVUS">EVUS</a>即失效。&#160;</p><p style="TEXT-INDENT:2em">	5、下次赴美时距离上次提交<a href="http://114.xixik.com/evus/" style="color: rgb(0, 0, 0);" title="EVUS">EVUS</a>超过两年，那就需要再次提交<a href="http://114.xixik.com/evus/" style="color: rgb(0, 0, 0);" title="EVUS">EVUS</a>，即使你的信息没有任何变更。</p><p style="TEXT-INDENT:2em">	之前预告EVUS登记费用为8美金（约55人民币），但网站上线后，CBP表示目前暂时不会收取登记费用。预期登记收费最终会实施，现在尚未落实执行的时间。 重点是，目前这个系统是免费的。</p><p style="TEXT-INDENT:2em"><strong>如何做EVUS登记？</strong></p><p style="TEXT-INDENT:2em">	首先，打开EVUS系统的网站：</p><p style="TEXT-INDENT:2em"><a href="https://www.evus.gov/evus/">https://www.evus.gov/evus/</a></p><p style="TEXT-INDENT:2em">	第一步：点击右上角“中国”，选择中文系统（英文不好者的福音），但是里面的内容还要用英文填写。</p><p style="TEXT-INDENT:2em">	第二步：点击“新登记申请”</p><p style="TEXT-INDENT:2em">	第三步：选择“个人登记”，如有同行的人，可选择“团体登记”。请确保已拥有登记所需的前提材料</p><p style="TEXT-INDENT:2em">	第四步：点击同意免责声明，点击“下一步”。</p><p style="TEXT-INDENT:2em">	第五步：填写旅行文件信息，点击“下一步”</p><p style="TEXT-INDENT:2em">	第六步：填写登记者相关信息。</p><p style="TEXT-INDENT:2em">	第七步：填写旅行信息，如果在美国没有联系人，可以写unknown。</p><p style="TEXT-INDENT:2em">	第八步：资格问题，如实填写。</p><p style="TEXT-INDENT:2em">	第九步：检查登记，全面检查一下信息是否正确。</p><p style="TEXT-INDENT:2em">	第十步：提交登记申请。如果没有问题，就可以点击“提交”申请。</p><p style="TEXT-INDENT:2em">	第十一步：等待处理</p><p style="TEXT-INDENT:2em">	第十二步：查询EVUS申请状态。</p><p style="TEXT-INDENT:2em">	第十三步：登记成功。递交申请后，一般会在24-72小时内收到回复告知结果。</p></div></div></div></div><script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script><script type="text/javascript">        var value = '246';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script><div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/visa/" target="_self" title="美国签证_美国签证DS-160表格在线填写_美国签证预约面谈_在线缴费">美国签证</a></div><ul style="width: 960px; margin: auto; overflow: hidden;"><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shicha/"
+                title="国际时差查询 - 世界各国主要城市和北京时差对照表">时差</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证更换新政策_过期了该怎么办？">中国旅行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangye/"
+                title="2017最新国民经济行业分类与代码（GB/4754-2017）,国民经济行业分类标准">国民经济行业分类与代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国总统_美国历任总统名单_美国总统简历生卒年份及所属党派">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chicun/"
+                title="服装尺寸对照表_男士服装尺寸对照表_中国女装尺寸对照表_美版服装尺码换算">服装尺寸对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country/"
+                title="全世界有多少个国家和地区？_世界上国家和地区一览表">全世界国家和地区</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-flag/"
+                title="世界各国国旗大全 - 世界各国国旗一览表,国旗图片下载">世界各国国旗大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/festival/"
+                title="节日大全_2020年法定节假日安排">节日大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/72hou/"
+                title="月令七十二候集解_二十四节气">月令七十二候集解</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-visa/"
+                title="赴美生子诚实签攻略_赴美生子诚实签的好处_赴美生子为什么要诚实签">赴美生子诚实签攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-spending/"
+                title="赴美生子价格_去美国生孩子多少钱_费用清单">赴美生子价格</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-baoxian/"
+                title="赴美生子保险_去美国生宝宝生育险_孕中险">赴美生子保险</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-hospital/"
+                title="赴美生子医院_洛杉矶医院_洛杉矶接待华人孕妇医院价目和详细情况一览表">赴美生子医院</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-doctor/"
+                title="赴美生子医生_洛杉矶医生_赴美生子华人医生_赴美生子医生介绍">赴美生子医生</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-living/"
+                title="赴美生子选择月子中心还是DIY_去美国生孩子选择月子中心还是DIY_赴美生子DIY攻略">月子中心还是DIY</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="美宝证件_美宝需要哪些证件（美国出生纸_中国旅行证_美国护照_社会安全号_出生纸三级认证）">美宝需要哪些证件？</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-passport-ds11/"
+                title="美宝美国护照申请更新_DS-11怎么填图文">美国护照申请</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_去美国生孩子费用预算清单2020">赴美生子要多少钱</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/university/"
+                title="中国大学名单_2019年全国高等学校名单（截至2019年6月15日）">中国大学名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/ranking/"
+                title="美国总统排名_美国总统历史排名_美国最伟大的总统排行榜">美国总统排行榜</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/size/"
+                title="服装尺寸对照表_裤子尺寸_男装尺寸_女装尺寸_裙子尺寸">服装尺寸</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-uk-time-zone/"
+                title="中英时差对照表,现在英国几点?中国和英国时差怎么算?现在英国时间是几点?">中英时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_去美国生孩子要多少钱？">赴美生子费用</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 最新中国护照免签国家一览2020">中国护照免签证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-passport/"
+                title="美国护照 - 美国护照上写的什么,美国护照免签证国家">美国护照</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/henley-passport-index/"
+                title="亨氏护照指数 - 亨氏护照受限制数2019">亨氏护照指数</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-process/"
+                title="赴美生子流程 - 干货！超详细的赴美生子流程攻略2019！">赴美生子流程</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-best/"
+                title="赴美生子机构哪家好？_合法的赴美生子机构">赴美生子机构哪家好</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-regret/"
+                title="2019生个美国孩子后悔了_后悔在美国生孩子_赴美生子利与弊">生个美国宝宝后悔了揭秘</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/visa/"
+                title="美国签证_美国签证DS-160表格在线填写_美国签证预约面谈_在线缴费">美国签证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/titanic/"
+                title="泰坦尼克号沉没的真相_历史真实故事_泰坦尼克号电影_嘻嘻网">泰坦尼克号</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-flight/"
+                title="赴美生子航班怎么选_赴美航班信息大全">赴美生子航班</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/exit-and-entry-premit/"
+                title="出入境通行证_一次性出入境通行证_中华人民共和国出入境通行证">出入境通行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-prosandcons/"
+                title="赴美生子利弊_赴美生子的优势和弊端_生美籍宝宝的好处和坏处">赴美生子好处和弊端</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-born/"
+                title="赴美产子_赴美生子_去美国生孩子">赴美产子</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/14th-amendment/"
+                title="美国宪法修正案第十四条">美国宪法修正案第14条</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/greatest/"
+                title="美国最伟大的总统_美国总统排行榜">美国最伟大的总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-states/13states/"
+                title="美国13个州_北美13个殖民地_美国建国时的13个州">美国13个州</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qs2020/"
+                title="2020年QS世界大学排名_世界大学排行榜">QS世界大学排行榜</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/born-usbaby/"
+                title="去美国生孩子_去美国生孩子多少钱">去美国生孩子</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/amendments/"
+                title="美国宪法修正案_Amendments to the Constitution">美国宪法修正案</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/the-world-university-rankings/"
+                title="2020年泰晤士报世界大学排名_2020年THE世界大学排名">泰晤士世界大学排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ssn/"
+                title="美国社安号SSN_美国社安卡_美国社会安全号码">社会安全号码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/declaration-of-independence/"
+                title="《美国独立宣言》（The Declaration of Independence）">独立宣言</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/birth-certificate/"
+                title="美国出生纸（Birth Certificate）_美国出生纸三级认证">美国出生纸</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-living-cost/"
+                title="美国月子中心费用_赴美生子费用">美国月子中心费用</a></li></ul><div class="lindBox"><div class="btnGray"><div class="btnText"><a target="_self" title="美国签证_美国签证DS-160表格在线填写_美国签证预约面谈_在线缴费" href="http://news.xixik.com/word/246/">另存为<br />                    Word格式</a></div></div></div><div class="lindBox" style="text-align: center;"><img src="http://news.xixik.com/qrcode/246/" alt="扫码手机上继续看" /><br /><br /><strong>用微信或者支付宝扫码在手机上继续观看<br />            可以保存收藏，也扫码后可以分享给好友
+        </strong></div><hr style="height: 1px; border: none; border-top: 1px dashed #999;" /><script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script><!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.--></body></html>

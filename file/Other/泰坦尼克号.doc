@@ -1,0 +1,2851 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <title>泰坦尼克号沉没的真相_历史真实故事_泰坦尼克号电影_嘻嘻网</title>
+    <link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" />
+    <meta name="description" content="泰坦尼克号,泰坦尼克号史实,泰坦尼克号沉没真相,titanic,铁达尼克号,泰坦尼克号3D,说不尽的泰坦尼克号." />
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/titanic/">
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <base target="_blank" />
+    
+    <script>
+        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "titanic/";
+        }
+
+
+    </script>
+    <style>
+        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+            overflow:auto;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style>
+</head>
+<body>
+    <a name="top4"></a>
+    <div class="topBox" name="top">
+        <div class="topMain">
+            <div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div>
+            <div id="icoPhone"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div>
+            <div id="icoWechat"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a> </div>
+            <div id="icoSina"></div>
+            <div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a>  </div>
+            <div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div>
+            <div class="topRight">
+            </div>
+        </div>
+    </div>
+
+    <div id="showqrCode">
+        <div><span></span></div>
+        <img src="" /><div><span></span></div>
+    </div>
+    <script type="text/javascript">
+        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script>
+    <div class="body">
+        
+        <div class="lindBox" style="position: relative;">
+            <img src="http://img.xixik.net/custom/topic/001/titanic.jpg" alt="泰坦尼克号沉没的真相_历史真实故事_泰坦尼克号电影_嘻嘻网" />
+            <div class="title">
+                <h1>泰坦尼克号沉没的真相_历史真实故事_泰坦尼克号电影_嘻嘻网</h1>
+            </div>
+        </div>
+        
+
+        <div class=" custom_border lindBox">
+            <div class="special_content">
+                <div class="content_text">
+                    <div class="content_daodu">
+                    </div>
+                    <h2>泰坦尼克号</h2>
+                    <p>
+	<a href="http://114.xixik.com/titanic/" style="color:#000;">泰坦尼克号</a>（RMS Titanic）是20世纪初由英国白星航运公司制造的当时世界上最大的豪华邮轮，被称为是&ldquo;永不沉没的&rdquo;或是&ldquo;梦幻客轮&rdquo;。1912年4月10日，泰坦尼克号从英国南安普顿驶往美国纽约的处女航途中撞上冰山，两小时四十分钟后沉没，1500多人葬身大海。泰坦尼克号沉没是当时人类和平时期航海史上最大的灾难，震惊世界。</p>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="lindBox" style="overflow: hidden;">
+            <div class="gg1">
+                <a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a>
+            </div>
+            <div class="guide">
+                <div class="guideBorder" id="guideBorder">
+                    <div class="guideTitle">导读（目录）</div>
+                    <ul id="guideDisplay">
+                        
+                                <li>·<a title="泰坦尼克号史实" href="#anchor1" target="_self"> 泰坦尼克号史实</a></li>
+                            
+                                <li>·<a title="泰坦尼克号的种种遗憾" href="#anchor2" target="_self"> 泰坦尼克号的种种遗憾</a></li>
+                            
+                                <li>·<a title="泰坦尼克号沉没之迷" href="#anchor3" target="_self"> 泰坦尼克号沉没之迷</a></li>
+                            
+                                <li>·<a title="1997年2D版《泰坦尼克号》" href="#anchor4" target="_self"> 1997年2D版《泰坦尼克号》</a></li>
+                            
+                                <li>·<a title="《泰坦尼克号》3D版在泰坦尼克号下水100周年上映" href="#anchor5" target="_self"> 《泰坦尼克号》3D版在泰坦尼克号下水100周年上映</a></li>
+                            
+                                <li>·<a title="荧幕上的泰坦尼克号" href="#anchor6" target="_self"> 荧幕上的泰坦尼克号</a></li>
+                            
+                                <li>·<a title="泰坦尼克号数据" href="#anchor7" target="_self"> 泰坦尼克号数据</a></li>
+                            
+                                <li>·<a title="泰坦尼克号的沉没详解" href="#anchor8" target="_self"> 泰坦尼克号的沉没详解</a></li>
+                            
+                                <li>·<a title="救命恩人：卡帕西亚号" href="#anchor9" target="_self"> 救命恩人：卡帕西亚号</a></li>
+                            
+                                <li>·<a title="泰坦尼克号事故的后果和影响 " href="#anchor10" target="_self"> 泰坦尼克号事故的后果和影响 </a></li>
+                            
+                                <li>·<a title="白星三姊妹" href="#anchor11" target="_self"> 白星三姊妹</a></li>
+                            
+                                <li>·<a title="泰坦尼克号的乘客们" href="#anchor12" target="_self"> 泰坦尼克号的乘客们</a></li>
+                            
+                                <li>·<a title="泰坦尼克号的高级船员们" href="#anchor13" target="_self"> 泰坦尼克号的高级船员们</a></li>
+                            
+                                <li>·<a title="泰坦尼克号花絮" href="#anchor14" target="_self"> 泰坦尼克号花絮</a></li>
+                            
+                                <li>·<a title="泰坦尼克号的误解和真相" href="#anchor15" target="_self"> 泰坦尼克号的误解和真相</a></li>
+                            
+                                <li>·<a title="泰坦尼克号的隐喻" href="#anchor16" target="_self"> 泰坦尼克号的隐喻</a></li>
+                            
+                                <li>·<a title="现在移民美国可以更轻松的" href="#anchor17" target="_self"> 现在移民美国可以更轻松的</a></li>
+                            
+                    </ul>
+                    <div class="guideOpen">展开&darr;</div>
+                </div>
+            </div>
+
+            <div class="guideFllow">
+                <div class="guideFllowBorder">
+                    <div class="guideFllowTitle">导读（目录）</div>
+                    <ul id="guideFllowDisplay">
+                        
+                                <li>·<a title="泰坦尼克号史实" href="#anchor1" target="_self"> 泰坦尼克号史实</a></li>
+                            
+                                <li>·<a title="泰坦尼克号的种种遗憾" href="#anchor2" target="_self"> 泰坦尼克号的种种遗憾</a></li>
+                            
+                                <li>·<a title="泰坦尼克号沉没之迷" href="#anchor3" target="_self"> 泰坦尼克号沉没之迷</a></li>
+                            
+                                <li>·<a title="1997年2D版《泰坦尼克号》" href="#anchor4" target="_self"> 1997年2D版《泰坦尼克号》</a></li>
+                            
+                                <li>·<a title="《泰坦尼克号》3D版在泰坦尼克号下水100周年上映" href="#anchor5" target="_self"> 《泰坦尼克号》3D版在泰坦尼克号下水100周年上映</a></li>
+                            
+                                <li>·<a title="荧幕上的泰坦尼克号" href="#anchor6" target="_self"> 荧幕上的泰坦尼克号</a></li>
+                            
+                                <li>·<a title="泰坦尼克号数据" href="#anchor7" target="_self"> 泰坦尼克号数据</a></li>
+                            
+                                <li>·<a title="泰坦尼克号的沉没详解" href="#anchor8" target="_self"> 泰坦尼克号的沉没详解</a></li>
+                            
+                                <li>·<a title="救命恩人：卡帕西亚号" href="#anchor9" target="_self"> 救命恩人：卡帕西亚号</a></li>
+                            
+                                <li>·<a title="泰坦尼克号事故的后果和影响 " href="#anchor10" target="_self"> 泰坦尼克号事故的后果和影响 </a></li>
+                            
+                                <li>·<a title="白星三姊妹" href="#anchor11" target="_self"> 白星三姊妹</a></li>
+                            
+                                <li>·<a title="泰坦尼克号的乘客们" href="#anchor12" target="_self"> 泰坦尼克号的乘客们</a></li>
+                            
+                                <li>·<a title="泰坦尼克号的高级船员们" href="#anchor13" target="_self"> 泰坦尼克号的高级船员们</a></li>
+                            
+                                <li>·<a title="泰坦尼克号花絮" href="#anchor14" target="_self"> 泰坦尼克号花絮</a></li>
+                            
+                                <li>·<a title="泰坦尼克号的误解和真相" href="#anchor15" target="_self"> 泰坦尼克号的误解和真相</a></li>
+                            
+                                <li>·<a title="泰坦尼克号的隐喻" href="#anchor16" target="_self"> 泰坦尼克号的隐喻</a></li>
+                            
+                                <li>·<a title="现在移民美国可以更轻松的" href="#anchor17" target="_self"> 现在移民美国可以更轻松的</a></li>
+                            
+                    </ul>
+                    <div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div>
+                </div>
+            </div>
+
+
+            <div class="gg2">
+                <a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a>
+            </div>
+        </div>
+        
+        <a name="anchor1"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        泰坦尼克号史实</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<strong>沉于处女航</strong></p><p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/titanic/" style="color:#000;"><strong>泰坦尼克号</strong></a>（RMS Titanic）是英国白星轮船公司下辖的<a href="http://www.xixik.com/content/542a4a7c5e8a2dfa">三艘奥林匹克级邮轮</a>的第二艘，是当时世界上体积最庞大、内部设施最豪华的客运轮船。&ldquo;泰坦尼克号&rdquo;为TITANIC常用的翻译，TITAN是古希腊神话中的巨人泰坦，象征着无比巨大和无穷力量。&ldquo;IC&rdquo;是英国白星公司船名专用后缀，港澳台、新加坡及广东等地译为&ldquo;铁达尼号&rdquo;。泰坦尼克号由总设计师托马斯&middot;安德鲁斯（Thomas Andrews）以及总经理亚历山大&middot;卡利斯勒（Alexander Carlisle）设计。泰坦尼克号的建设资金来自J&middot;P&middot;摩根和他的国际商业海运公司。<a href="http://www.xixik.com/content/93e200c36f7cd9df">1909年3月31日在爱尔兰贝尔法斯特港的哈兰德&middot;沃尔夫造船厂动工建造</a>，1911年5月31日下水，1912年4月2日完工试航。</p><div class='right_gg'><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 336x280-114-left -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-3849899595029685"
+     data-ad-slot="9973132210"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><p style="TEXT-INDENT:2em">
+	<a href="http://img.xixik.net/custom/section/titanic/xixik-e08ca5c164ec71ef.jpg" title="泰坦尼克号沉没地点"><img src="http://img.xixik.net/special/Section/p/001/xixik-titanic-e776a1a27f7dc1bb.jpg" style="margin: 10px; float: right; width: 500px;" /></a></p><p style="TEXT-INDENT:2em">
+	<strong>泰坦尼克号</strong>有&ldquo;永不沉没&rdquo;的美誉 。然而讽刺的是在她的处女航中便遭厄运&mdash;&mdash;1912年4月10日上午11点，29台锅炉中的25台开始依次生火，中午12点整，泰坦尼克号离开英国南安普敦码头，途经法国瑟堡-奥克特维尔以及爱尔兰昆士敦，驶向美国纽约。4月14日23时40分左右，泰坦尼克号与离纽芬兰640千米左右的一处冰山相撞（大约在41&deg;43&#39;55.66&quot;N 49&deg;56&#39;45.02&quot;W附近），造成右舷船艏至船中部破裂，五座水密舱进水。4月15日凌晨2时20分左右，泰坦尼克号船体断裂成两截后沉入大西洋底3700米处。由于只有20艘救生艇，2224名船员及乘客中，逾1523人丧生，其中仅333具罹难者遗体被寻回。泰坦尼克号沉没事故为和平时期死伤人数最惨重的海难之一。<strong>泰坦尼克号起航多长时间沉没？</strong>四天半左右。</p><p style="TEXT-INDENT:2em">
+	<strong><a href="http://www.xixik.com/content/b05097a9380870aa">巨轮的诞生源于竞争</a></strong></p><p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/special/Section/p/001/xixik-titanic-58ca8c0673b3c4a7.jpeg" style="width: 280px; float:left;margin:10px;" /></p><p style="TEXT-INDENT:2em">
+	为了与竞争对手卡纳德航运（Cunard Line，又译作冠达）旗下的豪华客轮<a href="http://www.xixik.com/content/770f5b35194cb46c">卢西塔尼亚号（RMS Lusitania）</a>以及毛里塔尼亚号（RMS Mauretania）竞争，白星航运公司（White Star Line）于北爱尔兰最大城市贝尔法斯特的哈兰德与沃尔夫造船厂兴建泰坦尼克号以及她的两艘姐妹船&mdash;&mdash;同级的奥林匹克号以及建设中的巨人号。&ldquo;巨人号&rdquo;顾名思义是巨大的（Gigantic），在泰坦尼克号沉没后改为&ldquo;不列颠号&rdquo;（RMS Britannic）。</p><p style="TEXT-INDENT:2em">
+	1908年的一天晚上，贝尔法斯特的哈兰德&middot;沃尔夫造船厂（Harland&nbsp;&amp;&nbsp;Wolff）老板威廉&middot;皮列里（William Pirrie）勋爵和白星航运公司主席布鲁斯&middot;伊斯梅（Bruce Ismay），在皮尔里勋爵位于伦敦贝尔格莱维亚区的大宅中共进晚餐。哈兰德&middot;沃尔夫造船厂从1871年起就是白星公司的忠诚合作伙伴。他们谈到了卡纳德公司的两艘新船&mdash;&mdash;卢西塔尼亚号和毛里塔尼亚号。伊斯梅提出在哈兰德&middot;沃尔夫造船厂建造两艘空前规模的巨轮，每艘有三座烟囱，吨位要超出卡纳德公司两艘新船15000吨左右。随着两人在皮列里的书房里喝得酒酣耳热，两艘船变成了三艘，三个烟囱变成了四个烟囱，这三艘史无前例的巨船，将成为无可争议的大西洋航线霸主，不光是在吨位上，而且也在速度和豪华程度上。为白星航运公司的乘客们提供快速且舒适的跨大西洋旅行。新船将拥有高度跨三层甲板的头等餐厅，甚至三等舱的装潢也将远比其他的邮船要舒适高级。至此，拉开了一段跨越百年的不朽奥林匹克级巨轮传奇：奥林匹克号（RMS&nbsp;Olympic）、泰坦尼克号（RMS&nbsp;Titanic）和巨人号（RMS&nbsp;Gigantic，泰坦尼克号海难后改名不列颠尼克，RMS&nbsp;Britannic）<wbr />&nbsp;。<a href="http://www.xixik.com/content/f92ed7efbe95d056" target="_blank" title="那些不输于泰坦尼克号的全球十大顶级豪华邮轮">那些不输于泰坦尼克号的全球十大顶级豪华邮轮</a></p><p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/special/Section/p/001/xixik-titanic-5ed15ec669d222b5.jpg" style="float:right; width:400px;magin:10px;" title="1911年5月13日，泰坦尼克号在贝尔法斯特下水" /></p><p style="TEXT-INDENT:2em">
+	<strong>泰坦尼克号的尺寸</strong></p><p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/titanic/" style="color:#000;"><strong>泰坦尼克号</strong></a>全长269.06米（882.75英呎），宽28.19米（92.5英呎），标准排水量为46,328吨，吃水线到甲板的高度为18.3米（60英呎），动力50000匹马力（37MW），航速每小时23～24浬。动力装置包括两台往复式四缸三胀倒缸蒸汽机以及一台低压蒸汽轮机，驱动三个螺旋桨。</p><p style="TEXT-INDENT:2em">
+	船上的25五台双端以及四台单端锅炉的动力来自159台煤炭熔炉，强大的动力使泰坦尼克号的最大速度达到23节（43千米/小时）。<a href="http://www.xixik.com/content/8f069c135b7d5a3a" title="你知道泰坦尼克号的4个烟囱里有一个是假的吗？">四个19米（63英尺）高的烟囱中只有前3个用来排烟</a>，剩下的一个属于陪衬，唯一的实际用途是作为主厨房的烟囱。泰坦尼克号总共可搭载3547名乘客和船员，<a href="http://www.xixik.com/content/f1b4ec22924fd0ac" title="邮轮的历史与演进">由于它也运送邮件，船名加上了&ldquo;皇家邮轮&rdquo;（Royal Mail Steamer，RMS）的前缀</a>。</p><p style="TEXT-INDENT:2em">
+	泰坦尼克号被认为是航海技术史上的一个里程碑，<a href="http://www.xixik.com/content/48f6c8f9eb0bc8c4">《造船专家》（The Shipbuilder）杂志认为其&ldquo;根本不可能沉没（&quot;The ship is unsinkable.&quot;）</a>&rdquo;。泰坦尼克号航行过程中，一位船员对二等舱女乘客西尔维亚&middot;考德威尔说：&ldquo;就是上帝亲自来，他也弄不沉这艘船。&rdquo;全船分为16个水密舱，连接各舱的水密门可通过电开关统一关闭。泰坦尼克号良好的防水措施，使得它在任何4个水密舱进水的情况下都不会沉没。然而防水壁并没有穿过整个甲板，仅仅达到了E层甲板，更遗憾的是当晚有5个水密舱进水。</p><p style="TEXT-INDENT:2em">
+	<strong>雄心勃勃的白星航运</strong></p><p style="TEXT-INDENT:2em">
+	各家邮轮公司都有自己的特色及偏向性：如卡纳德在20世纪中前期过于注重速度，而白星则是极其重视内部的装饰和乘船的舒适感；法兰西航运的船则以内外兼修著称：简约的甲板布置，现代的艺术装饰给予邮轮一种现代化和摩登的感觉；德国船往往带着一些统治者的政治野心&hellip;&hellip;</p><p style="TEXT-INDENT:2em">
+	白星航运公司成立于1845年，最初致力于澳洲金矿贸易的运输。因为经营管理不善等原因，白星航运在1867年面临破产，并挂牌出售。后来，北爱尔兰哈兰德&middot;沃尔夫造船厂的创始人之一哈兰德和商人伊斯梅成为合作伙伴，投资购买了白星航运公司。双方签署了具有排他性的协议：哈兰德&middot;沃尔夫船厂将建造白星航运未来所有的船舶，并且不为任何白星航运的竞争对手建造船只；同样，白星航运将不向任何哈兰德&middot;沃尔夫船厂的竞争对手下达造船的订单。</p><p style="TEXT-INDENT:2em">
+	<strong>巨轮的真正主人</strong></p><p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/special/Section/p/001/xixik-titanic-ba4585969afbe1af.jpeg" style="margin: 10px; float: right; width: 400px;" /></p><p style="TEXT-INDENT:2em">
+	白星航运随后推出了&ldquo;四大船&rdquo;&mdash;&mdash;海洋号、大西洋号、波罗的海号、共和号投入运营。在泰坦尼克号发生海难事故约半个世纪前的1873年，白星航运的大西洋号，就因船长玩忽职守导致触礁，近600名乘客丧生。面对20世纪初航运领域的激烈竞争，1901年，白星航运接受了美国财阀约翰&middot;皮尔庞特&middot;摩根（JP&middot;摩根）执掌的航运巨头&mdash;&mdash;国际商业海运公司（International Mercantile Marine Co.）的收购。所以，绰号&ldquo;华尔街的拿破仑&rdquo;的<a href="http://www.xixik.com/content/d55ef0854e19c297" style="text-indent: 2em;" title="泰坦尼克号主人约翰·皮尔庞特·摩根">74岁的JP&middot;摩根才是泰塔尼克号真正的主人</a>。他曾协助创立了通用电气和美国钢铁，他被公认为在1907年的金融大恐慌中独挽狂澜，拯救了美国银行体系。JP&middot;摩根出席了1911年泰坦尼克号的下水仪式，并在船上拥有自己的私人套间，内有自己的私人散步甲板和装备特殊设计烟嘴的浴缸。据报道，有人为他预订好了处女航，但他没有成行，而是留在了法国度假胜地艾克斯，享受他的早间按摩和硫磺浴。</p><p style="TEXT-INDENT:2em">
+	而白星航运的竞争对手卡纳德公司，在1907年推出了两艘首次使用大型蒸汽轮机的巨型快船&mdash;&mdash;<a href="http://www.xixik.com/content/770f5b35194cb46c" style="text-indent: 2em;">卢西塔尼亚号（RMS Lusitania）</a>以及毛里塔尼亚号（RMS Mauretania）。在同名影片97版《泰坦尼克号》中开场，露丝就拿毛里塔尼亚号和泰坦尼克号对比。泰坦尼克号正是白星航运为了赶超卡纳德航运公司，而推出的奥林匹克级邮轮之一。1909年3月31日，<a href="http://www.xixik.com/content/a8074f6dd91c0dfb">耗资7500万英镑在哈兰德&middot;沃尔夫造船厂开工建造泰坦尼克号</a>，船体在1911年5月31日下水。除了哈兰德&middot;沃尔夫造船厂的船长、总设计师以及总经理，主管设计之外，白星航运公司的常务董事布鲁斯&middot;伊斯梅，也在设计过程中提供了很多意见。不过正是他，为了使泰坦尼克号的顶层甲板更为宽敞，将救生艇的数量从原来的48艘削减成20艘；为了使头等舱更为奢华，降低了船身中段的隔水板高度。这跟泰坦尼克最终的沉没，或许脱不了干系。</p><p style="TEXT-INDENT:2em">
+	<strong>白星三姊妹的霉运</strong></p><p style="TEXT-INDENT:2em">
+	当时，白星航运公司还推出了另外两艘奥林匹克级邮轮，也就是奥林匹克号和不列颠尼克号。奥林匹克号在1935年10月11日被拆毁，不列颠尼克号则在1916年11月21日的第五十次航行中，被撞出一个大洞，进水沉没。在泰坦尼克号沉没之后，白星航运有些衰败。不过，按照当时国际商业海运公司与英国海军部的协议，白星航运的船舶在战争时期可以被海军部征用，所以白星航运在一战期间还是有所获利，并接收了一些作为战争赔偿的德国船。但是，战后经济萧条，航运业比较低迷。由于自身管理不善，加上20世纪30年代经济危机的冲击，白星航运再度走上下坡路，最终在1934年，被英国政府下令，并入老对手卡纳德公司，更名为卡纳德&mdash;白星航运公司。卡纳德1998年被嘉年华邮轮公司收购了，如今他们都在嘉年华公司旗下。</p><p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/37ccec8bd2f9b3e0" title="白星航运缔造泰坦尼克号辉煌 最终却悲情落幕"><strong>白星航运终于被竞争对手收购</strong></a></p><p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/special/Section/p/001/xixik-titanic-f04a235c7eb523a9.jpg" style="margin: 10px; float: right; width: 400px;" title="卡纳德公司的卡帕西亚号是泰坦尼克号的救命恩人" /></p><p style="TEXT-INDENT:2em">
+	1947年，白星航运剩余的股份和船舶被卡纳德公司全部购买，悬挂船旗的白星旗部分被取消。十年之后，连公司名称中的白星字样也被去掉。有戏剧性的是，当时泰坦尼克号海难事故发生之后，最先赶到现场救援的卡帕西亚号（喀尔巴阡号）也是卡纳德公司的。今天，白星航运的老对手卡纳德航运公司和老合作伙伴哈兰德&middot;沃尔夫船厂都还在，而白星航运早已成为历史。卡纳德航运公司现在已经变成游轮公司，隶属于嘉年华公司，<a href="http://www.xixik.com/content/cbc4ee3524ccf035" style="text-indent: 2em;" title="">现在该公司船队中有著名的三女王（王后）</a>：玛丽王后2号（Queen Mary 2）、伊丽莎白王后2号（Queen Elizaberth2）、维多利亚女王号（Queen Victoria）。</p><p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/1b8b4b0438505c0a"><strong>残骸73年后才被发现</strong></a></p><p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/titanic/" style="color:#000;"><strong>泰坦尼克号沉没</strong></a>后，人们只是知道其沉没的大概经纬度位置。当年，古根海姆家族曾经与其他几位名门望族联合尝试打捞泰坦尼克号的残骸，他们的设想是把炸药施放到海底，把船体炸碎，然后让船壳等碎片浮上来，后来均以失败而告终。1980年，某探险小组声明发现了泰坦尼克号的螺旋桨残骸，但后来证实其实只是一块海底岩石。</p><p style="TEXT-INDENT:2em">
+	另一方面，泰坦尼克号的沉船形式亦有很多说法。包括全船沉没；船身近第2及第3支烟囱中间折开，然后各自以垂直沉没；船身近第3及第4支烟囱中间折开，然后前船身部分拖着船尾，船尾垂直下沉。不少生还者都表示见到下沉时第3及第4支烟囱中间折开，但是负责调查的英美两国当局坚称全船沉没。</p><p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/titanic/xixik-5dce1b46d4c4d9e3.png" style="margin: 10px; float: right; width: 400px;" /></p><p style="TEXT-INDENT:2em">
+	1985年9月1日，时隔73年之久后，水下考古学家罗伯特&middot;巴拉德通过美国军方的考察船&ldquo;诺尔&rdquo;号上在为美国海军寻找两艘沉没的核潜艇之际，顺便发现了泰坦尼克号的锅炉残片和主体：分别是前2支烟囱的船头部分，以及第四支烟囱之后的船尾部分，就初步证明了第3个理论。而这个理论在其后<a href="http://www.xixik.com/content/54c0ad93997a11fa" style="text-indent: 2em;">由詹姆斯&middot;卡梅隆执导的电影《泰坦尼克号》体现出来</a>。当时大家都认为，由于第3支烟囱的船身部分已经被炸毁成碎片，永远找不到这一部分。但是在2005年8月由History Channel赞助的考古队伍，在船尾残骸后500米找到这船身部分，残骸约12米乘27米，船底的红色油漆还清楚可见。部分科学家相信，泰坦尼克号是折开3截后沉没。</p><p style="TEXT-INDENT:2em">
+	那么既然已经发现了<a href="http://www.xixik.com/content/3d918c70d380d32b">泰坦尼克号遗骸</a>，为什么不把遗骸打捞上来？首先，泰坦尼克号的残骸已经在深达4000米的海水中浸泡了100年了，再加上残骸高速撞击海床时的撞击力，长时间的巨大水压和海底微生物的侵蚀下严重锈蚀，使得泰坦尼克号的残骸已经非常脆弱了，实际上船底已经和海床融为一体，或许一打捞就散架了，还不如让他留在海底，成为一段纪念。当然最重要的一点是，根据2009年生效的《保护水下文化遗产公约》，沉没百年的泰坦尼克号残骸早已成为联合国教科文组织水下文化遗产的一部分，并且有相关法律规定禁止打捞残骸。</p>
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor2"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        泰坦尼克号的种种遗憾</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<strong style="text-indent: 2em;"><a href="http://www.xixik.com/content/6bd7d1a08da4919b">“见死不救”的加州人号</a></strong></p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/cimg/010/xixik_cdb41165fc1d00af.jpg" style="margin: 10px; float: right; width: 400px;" title="加州人号是当时距离泰坦尼克号最近的船只" /></p>
+<p style="TEXT-INDENT:2em">
+	4月15日0点15分，泰坦尼克号发出了“CQD MGY”的呼救信号。CQD是当时通用的遇险信号，MGY是泰坦尼克号的无线电呼叫代号。不久又发出了新近被国际海事协会确定的<a href="http://www.xixik.com/content/b45d76e5c3b4d7e8" title="SOS求救信号在泰坦尼克灾难后成名">SOS求救信号</a>。很多大西洋上的船只都收到了求救电报。加拿大太平洋公司的圣殿山号、卡纳德公司的卡帕西亚号（Carpathia）、俄国货船缅甸号，还有法兰克福号、弗吉尼亚号、奥林匹克号……都在加速向出事地点赶来。</p>
+<p style="TEXT-INDENT:2em">
+	而这时有一条离“泰坦尼克号”最近的船，就在18海里外的不定期货轮加州人号（又译加利福尼亚号，Californian），最多是一个小时的航程。她的发报员则在夜里11点30分关掉电报机睡觉去了，导致没有收到12点05分泰坦尼克号发出的求救信号。这艘船已经被浮冰困了将近一天，船上一晚上都没什么大事，好像也不会发生什么大事。而在此前泰坦尼克号电报员菲利浦收到从加州人号发出的警告，但其播音相当刺耳，所以他中断讯号并以粗鲁的语句回应；此船如果在收到电报后全速救援，可以赶在沉船前到达现场，可惜它没有。“加州人号”是一艘往返伦敦和波士顿之间的不定期货轮，属于莱伦德公司（Leyland IJne），也是摩根跨国集团下属的航运公司，和白星航运公司说起来还是自家兄弟。泰坦尼克悲剧催生出规范化的海上通信协议和国际海上通信标准，要求所有海上船只无线电全天候开着。</p>
+<p style="TEXT-INDENT:2em">
+	不止一名船员因此目睹泰坦尼克号发射的全部9枚火箭（其实是礼花弹），并在2点5分非常清楚地向船长报告全部火箭都是白色的，乃求救信号，然而船长却按兵不动。由于没有考虑到船的沉没，所以只携带了礼花弹。这也是距离她最近的加州人号船员看了后无法确定其险情而错失救援的一个因素。10分钟后，泰坦尼克号徐徐滑入冰海，超过1500人遇难。加州人号4月15日上午8点半才到达沉船地点。其时，突破自身最高时速、<a href="http://www.xixik.com/content/fb03103dcd48530b" title="“泰坦尼克号”的救命恩人卡帕西亚号冰海驰援">从58英里之外赶到的卡帕西亚号正救起最后一只救生艇</a>，随后满载700多名幸存者前往纽约。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/special/Section/p/001/xixik-titanic-c7f4030fcbdd872f.jpg" style="margin: 10px; float: right; width: 400px;" title="泰坦尼克号沉没地点" /></p>
+<p style="TEXT-INDENT:2em">
+	<strong>为了速度无视冰山警告</strong></p>
+<p style="TEXT-INDENT:2em">
+	<span arial="" style="color: rgb（0, 0, 0）; font-family: SimSun, ">泰坦尼克号驶入冰山密集区域，先后收到六个清晰的冰山危险信号，均被伊斯梅截留，数小时后才转给泰坦尼克号航海图绘制人员。期间，在伊斯梅的怂恿下，包活船长爱德华·史密斯在内都无视冰山信号警告，继续以22.3节的速度超速行驶，以实现伊斯梅提出的缩短一天到达纽约的目标上头条的目标，直至撞击冰山。伊斯梅和史密斯是船上最重要的两个人物，一直对冰山漫不经心，因为泰坦尼克号是英国白星轮船公司的骄傲，这个骄傲同样刺激着他们的中枢神经，他们也因此而骄傲不已。</span></p>
+<p style="TEXT-INDENT:2em">
+	<strong><span arial="" style="color: rgb（0, 0, 0）; font-family: SimSun, ">无线电发报机坏了7个小时</span></strong></p>
+<p style="TEXT-INDENT:2em">
+	在泰坦尼克号上，装备有马可尼公司制造的无线电报设备。按理来说，通过无线电设备，它有足够的能力获取各种有关信息，使自己摆脱险境。即使是无法挽回沉船之厄运，也能唤来“援兵”、使船上的生命获救。可是，“泰坦尼克号”触冰当天，无线电发报机却碰巧出了故障。船上的报务员菲利浦和他的助手布兰德整整检修了7个小时。如果马可尼的在场，历史将会被改写。因为沉船事件与电报机的故障有关。而在马可尼面前，电报故障定会“手到病除”。收报机正常了，有关海上险情的警告就能听到，或许碰冰山的灾难压根儿不会发生……</p>
+<p style="TEXT-INDENT:2em">
+	等到设备修复，乘客待发的电报已堆积如山。当时，海上冰山和流冰十分活跃，可谓危机四伏。对于这类险情，航船之间经常在通过无线电报交流。而“泰坦尼克号”却充“耳”不闻，直至最后进入危急时刻而仍未察觉。它成了一个与外界隔绝的“聋子”，在险情丛生的大海中独自漂泊。可怕的事情终于发生了。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>因没有钥匙瞭望员而拿不到望远镜？</strong></p>
+<p style="TEXT-INDENT:2em">
+	那么大一艘船，怎么会没有望远镜呢？因为望远镜锁在柜子里面。而柜子的钥匙当时却不在船上。当年这把钥匙的主人是泰坦尼克号原定的冰山观测员大卫· 布莱尔，但临起航时，白星轮船公司的老板突然改变了主意，决定从别的船上调来一位经验更加丰富的冰山观测员来代替他。布莱尔在匆忙下船时把锁着望远镜的钥匙随手放在了自己的衣服口袋里。泰坦尼克号生还者，冰山观测员费雷德· 费利特在接受法庭调查时曾说：如果有望远镜的话，他肯定可以早一点看到冰山，足够让客轮避开冰山。这种“钥匙论”的说法在电影《冰海沉船》和《泰坦尼克号》中得到了统一。由于没有钥匙，冰山观测员费雷德·费利特就只能在漆黑的大西洋上用肉眼观测冰山的情况了。另外当日光线微弱，加上瞭望员的双眼暴露在低温之中，影响他们的视力。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/cimg/006/xixik_de6d35a7d611a337.jpg" style="width:400px; float:right;margin:10px;" /><strong style="text-indent: 2em;">如果不转向，直接撞击就不会沉？</strong></p>
+<p style="TEXT-INDENT:2em">
+	泰坦尼克号沉没的原因最流行的说法是冰山撞上船头后大量进水，船体“头重脚轻”，船尾翘起，船身最终裂成两半。美国探险家对“泰坦尼克号”残骸的底部结构进行检查，结果发现“泰坦尼克号”残骸底部的切口非常整齐，而这样的切口不可能是断裂形成，而应是由一种特殊的外来压力造成的。换句话说，“泰坦尼克号”是因为被冰山撞中了船身，而非船头；巨大的冲击力使“泰坦尼克号”裂成两半，转瞬沉入水底。</p>
+<p style="TEXT-INDENT:2em">
+	有人提出如果船体垂直撞向冰山，还会沉没吗？回答拐弯应该是他们犯下的重大错误之一，泰坦尼克号可以在正面撞击下存活下来，但这很可能会导致大量2等舱和3等舱的乘客死亡。有科学家假设，如果船员们没有转舵，而是让“泰坦尼克号”和冰山迎头相撞，那么船上的所有乘客也许都能生还。“如果‘泰坦尼克号’按照原来航线行驶，和冰山头对头相撞，那么船会在震动中停泊下来就会搁浅在冰山上。因为冰山只有一小部分是露出海面，其余部分则于海底下，而船上的人都可以转移到冰山上等候救援。</p>
+<p style="TEXT-INDENT:2em">
+	船头会被撞碎，但它同时也会对整艘船起到缓冲作用，乘客们会被撞翻在地板上，船上的瓷器也会落地碎裂，但这场撞击并不会导致船只沉没。船员们重新密封好破裂的船首舱，就可以继续原来的航程。所有乘客都能活着回家。泰坦尼克号船员的错误决定导致船的最终沉没。船员发现冰山后，显得惊慌失措。在惊慌中，机组人员下令将引擎反转，这是一个错误的决定。由于泰坦尼克的方向舵很小，只有高速动力才能确保它有效转向，但当时明显缺乏足够动力，只能眼睁睁地看着船身撞向冰山。冰山撕裂了该船的大部分，海水冲向引擎室、冲向货舱室、冲向该船本来应该保持干燥的部分。</p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://www.xixik.com/content/7c5fdd93bd42ef7a" title="泰坦尼克号二副莱特勒后人：舵手听错命令致沉船">舵手误解指令转错方向？</a></strong></p>
+<p style="TEXT-INDENT:2em">
+	泰坦尼克号有两套截然相反的操作系统，分别针对帆船模式和蒸汽船模式，出事当晚，邮轮不断地在两种模式变换下航行。一副默多克在3公里外就发现冰山，并下令“右满舵”，在旧系统中，其意思是向右转舵，在新系统下则是向左转。舵手希契斯误解指令，向右转舵，虽然他很快便被告知并纠正错误，但为时已晚。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>“雪上加霜”的命令加速“泰坦尼克号”下沉</strong></p>
+<p style="TEXT-INDENT:2em">
+	据悉，当“泰坦尼克号”撞上冰山后，“泰坦尼克号”的老板、白星航运公司主席布鲁斯·伊斯梅竟说服船长史密斯继续驾船航行，于是“泰坦尼克号”又在大西洋上继续慢慢航行了10分钟！这一错误行为导致海水通过损坏的船壳更快地涌进船舱中，从而大大加速了邮轮的下沉速度！如果“泰坦尼克号”撞上冰山后立即停船，根据一开始的下沉速度<span arial="">，它完全可以赢得好几个小时时间，并等到救援船只的到来。伊斯梅后来乘救生艇逃过了沉船灾难，他也被伦敦社会称做是历史上“最大的懦夫”之一。</span></p>
+<p style="TEXT-INDENT:2em">
+	<span arial="" style="color: rgb（0, 0, 0）; font-family: SimSun, ">伊斯梅坚持要求“泰坦尼克号”继续航行，毫无疑问是因为担心他会失去自己的投资，损坏公司的声誉。最近的救援船只在4小时的距离外，如果当时立即停船不动，“泰坦尼克号”可能就会在海面上静静漂浮，并一直等到救援船的到来。</span></p>
+<p style="TEXT-INDENT:2em">
+	<strong>有什么可以阻止泰坦尼克号沉没这场惨剧？</strong></p>
+<p style="TEXT-INDENT:2em">
+	泰坦尼克号沉没后的一百多年，后人除了不断对其沉没原因进行探究之外，也对他的沉没表现出无限的惋惜与感慨。“永不沉没之船”突然沉没，对于白星轮船公司及许多人来说不可思议，100年来都在思考同一个问题，“如果”船体铆钉强度足够、“如果”当时船长选择减速的同时用船头撞向冰上、“如果”带着望远镜钥匙的大卫·布莱尔没有下船，“如果”泰坦尼克在贝尔法斯特先扑灭煤火，“如果”可以等完工后再起航，“如果”造船采用的钢铁硫含量更低些、“如果”船长和电报员认真对待冰山警报、“如果”加州人号电报员发送的电报前加上“致船长”、“如果”进入冰山区域放慢船速、“如果”放弃提前一天到达纽约的目标、“如果”嘹望及时、“如果”配备了足够的救生艇、“如果”逃生引导得当且救生艇满载、“如果”加州人号电报员没有去睡觉、“如果”加州人号认真应对泰坦尼克发出的求救火箭、 “如果”求救信号及早使用新的SOS信号，“如果”……。如果没有这么多的“如果”，或许泰坦尼克号的结局是喜剧而不是悲剧。当然，再多的“如果”，再多的“或许”，也都无济于事了。在“泰坦尼克号”沉没的历史事实面前，所有这一切都只能化作一声长叹、万缕哀思。因此，所有的“如果”只能永远记载、停留和封存在泰坦尼克号的历史档案之中。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor3"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        泰坦尼克号沉没之迷</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/special/section/c/001/xixik-titanic-c3a80db0b8b2b3ab.jpg" style="float:right; margin:10px; width:550px;" title="你能区分地出哪艘是泰坦尼克号？哪艘是奥林匹克号？左边是奥林匹克号，右边是泰坦尼克号。也正因为此，泰坦尼克号“调包论”很有市场。" /></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/436aa55373822c01"><strong>“阴谋论”：船只保险诈骗的牺牲品</strong></a></p>
+<p style="TEXT-INDENT:2em">
+	关于泰坦尼克号沉没的原因，其中最耸人听闻的就是所谓“阴谋论”。2004年，英国研究者罗宾·加迪诺和安德鲁·牛顿两人在接受英国电视台采访时，提出了一个石破天惊的泰坦尼克号沉船阴谋论。遇难的1503名乘客和船员都是一起船只保险诈骗案的牺牲品。他们找到很多证据能够证明当年在大西洋上沉没的并不是泰坦尼克号，而是白星轮船公司另一艘外形相似的姊妹船“奥林匹克”号。并且安排一场意外事故，让加州人号去营救，从而领取一笔巨额保险金。但是“英国泰坦尼克协会”发言人斯蒂夫·里格比对这个说法嗤之以鼻∶“我毫不怀疑，躺在北大西洋海底的船只正是泰坦尼克号。”</p>
+<p style="TEXT-INDENT:2em">
+	不过掉包阴谋计是最经不起推敲的。且不说把奥林匹克号偷梁换柱的复杂性，就光人多嘴杂啊，油漆要重新粉刷，多少会有人传出去？但是到最后判决的时候，保险公司问这艘船是不是泰坦尼克，居然没有人出来作证，难道他们真能吧参与的工人都买通？一辈子的生活保障啊。</p>
+<p style="TEXT-INDENT:2em">
+	被认为安排到泰坦尼克号附近进行救援的加州人号虽然同属JP摩根旗下（但所属公司不同），加州人号是6000多吨，长度仅130米的货运，而根据计算，泰坦尼克号上2228人甚至其中的一半想完全挤在加州人号上都是一件艰巨无比的事情。派遣这样一条小船去充当救援船只，那么很多乘客会选择扒在桅杆上。</p>
+<p style="TEXT-INDENT:2em">
+	之前奥林匹克号被撞的时候螺旋桨掉了一片，轴也弯了，两间密封仓漏水，只用两个桨是开不到20节的，要是骗局，那么怎么解释在这么短的时间内把船开到沉没地点呢？</p>
+<p style="TEXT-INDENT:2em">
+	调包计反对声音最高的肯定就是泰坦尼克号总设计师安德鲁，没有哪个设计师愿意把自己的杰作拿去乱撞，就像一个人苦心的画不容人在上面乱抹一样，更何况他就在船上。还有就是船长，他愿意用他的最后一次航行来这么天大的玩笑么？船撞冰山的时候又不是船长值的班。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/06d4d23091389226" title="神秘小说《徒劳无功》预言泰坦尼克号沉没"><strong>“宿命论”：14年前就有人预言</strong></a></p>
+<p style="TEXT-INDENT:2em">
+	1898年，英国作家摩根·罗伯逊写了一本名叫《徒劳无功》（又译泰坦）的小说。小说写了一艘号称永不沉没的豪华巨轮，名为泰坦号（Titan），4月从英国首航驶向大洋彼岸的美国。这是人类航海史上空前巨大也是最豪华的客轮，船上装备了当时力所能及的一切华贵设施，满船装载的都是有钱的乘客，人们在这巨轮上尽情地享受着。但是，这艘巨轮首次出航就在途中撞上冰山，悲惨地沉没，许多乘客葬身海底。</p>
+<p style="TEXT-INDENT:2em">
+	14年后，泰坦尼克号悲剧发生后，有人想起<wbr />这篇小说，发现除了船<wbr />的名字几乎相同外，两<wbr />者还有众多的极其相似<wbr />之处：两船都是初次出<wbr />航就沉没，其原因都是<wbr />撞上冰山；肇事地点都<wbr />在北大西洋。；两船航<wbr />行的时间都是在四月份<wbr />，航线都是从英国到美<wbr />国； “泰坦号”所写的乘客<wbr />和船员人数为三千人，<wbr />“泰坦尼克号”乘客和<wbr />船员人数为近三千人；<wbr />&#160;“泰坦号”设想重量为<wbr />7万吨，“泰坦尼克号<wbr />”实际重量为6万6千<wbr />吨。；“泰坦号”长度<wbr />为800英尺，“泰坦<wbr />尼克号”长度略多于8<wbr />00英尺；两船的螺旋<wbr />浆数均为三个，碰撞冰<wbr />山的时速均为23里；<wbr />&#160;还有一点相同的是，两<wbr />船出事后乘客伤亡惨重<wbr />的原因都是因为船上的<wbr />救生艇不够。于是，这本14年前默默无闻的小说，在泰坦尼克号沉没之后，一夜之间立刻成了公众注目的焦点，一时间洛阳纸贵。</p>
+<p style="TEXT-INDENT:2em">
+	另外罗伯逊收到数百名来自船难遗孤的哭诉信，指责是他小说的恶毒诅咒才使得他们的亲人遭此劫难。1915年3月24日，在美国新泽西州阿多兰迪市的罗伯逊离奇自杀，时年53岁。他自杀的原因众说纷纭，有人说是枪杀，有人说是服用了过多的药物，莫衷一是，无从考证，死因成谜。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>“救生艇论”：救生艇数量不够致灾难扩大</strong></p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/special/Section/p/001/xixik-titanic-4b0b10b945b06cb4.jpg" style="margin: 10px; float: right; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	长期以来，危难关头泰坦尼克号上的人们面对生死的态度，一直是文艺作品中乐于表现的主题。而泰坦尼克号上的救生艇配置的数量，也一直是世人最为关注的话题之一。泰坦尼克号上仅有20只救生艇，这是不是太少了呢？实际上，它的救生船数量是符合英国法律规定的，当时国际通用的海事安全规则是，救生艇的搭载人数是船上总人数的三分之一，而泰坦尼克号的救生艇可以搭载一半乘客，白星公司为这种“对乘客安全高度负责”的额外配置没有引起公众注意而感到不平。该项法律所定的数量并非基于乘客数量，而是基于船的吨位。当时所有船只的救生船数量都远低于需要的数量，目的并不是用来装下全体乘客；它们只是用来从一艘下沉的船上转移乘客到另一艘救援船上。泰坦尼克号的沉没永久性地改变了这种救生策略。事实上，即使它已经装下更多的救生船可以用来装载所有的乘客，仍然有可能无法确保会有更多的人获救，因为在它下沉时，船员们没有时间来放下所有的救生船。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/91854c93e8a0e132"><strong>“铆钉论”：劣质铆钉酿成大祸</strong></a></p>
+<p style="TEXT-INDENT:2em">
+	2004年，《“泰坦尼克”沉没真相》一书的作者福克和麦凯特，在书中提出了关于泰坦尼克号沉没的另一种说法：铆钉论。他们称，哈兰德-沃尔夫造船厂因为要为白星轮船公司同时建造几艘巨轮而不堪重负。当时每艘在建的巨型轮船都需要300万个铆钉，它们就像胶水一样将船身各部分固定在一起。但由于资金紧缺，造船厂最终以低价购买了一批含杂质很多的3型铁铆钉，而不是优质的4型铁铆钉。劣质的3型铆钉因为含有大量矿渣会形成无数的小洞，它可以使铆钉变脆并且容易折断。而哈兰德·沃尔夫造船厂方面对此坚决否认在泰坦尼克号的建造或者用材上绝对没有任何错误和不当。他们的理由是，与泰坦尼克号同时建造的“奥林匹克”号航行了24年，直到退休也没有任何事故发生。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>“</strong><strong>钢板说</strong><strong style="text-indent: 2em;">”：钢板非常生硬，一碰就碎</strong></p>
+<p style="TEXT-INDENT:2em">
+	这个铆钉论差不多，说泰坦尼克号的材质不行。加拿大自然资源部海底地质学家史蒂夫·布拉斯科通过对泰坦尼克号残骸的钢板研究发现，在海底找到的钢板残片没有丝毫的弯曲，而是锯齿状的，就像是瓷器的碎片，也就是说在碰撞的瞬间直接折断，所用钢板非常生硬，一碰就碎，不具备非常好的弹性和顺延性，通过与现代造船材料进行多种对照试验，得出泰坦尼克号船体使用的材料是假冒伪劣的结论。虽然有人质疑泰坦尼克号所用钢板已经在海底静躺了近一百多年，长期受到低温和海水严重腐蚀，可是，谁都无法证明100年前这些钢板在出厂的时候就是合格的。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>“电报论”：没有收到冰山预警电报</strong></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/03dd6a92adda40a3">1958年，英国导演罗伊·贝克在电影《冰海沉船》</a>中，提出了这种说法。在泰坦尼克号撞击冰山前，电报员菲利普斯正忙着帮船上的有钱人发送昂贵的私人股票交易电报。4月14日晚上9时左右，附近加州人号的电报员伊利斯向泰坦尼克号发送了一份冰山预警电报。但由于加州人号的电报声音太大，菲利普斯一气之下就把这封电报截断了。而这艘加州人号客船已经被浮冰困了将近一天，电报员伊利斯觉得也不会再有什么事儿，所以给泰坦尼克号发送了一遍预警电报后就关掉电报机睡觉去了。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/0c4a9c8ec257bd34"><strong>“钥匙论”：因没有钥匙而拿不到望远镜？</strong></a></p>
+<p style="TEXT-INDENT:2em">
+	泰坦尼克号生还者，冰山观测员费雷德·费利特在接受法庭调查时曾说：如果有望远镜的话，他肯定可以早一点看到冰山，足够让客轮避开冰山。因为望远镜锁在柜子里面。而柜子的钥匙当时却不在船上。当年这把钥匙的主人是大卫·布莱尔。他是泰坦尼克号原定的冰山观测员，但临起航时，白星轮船公司的老板突然改变了主意，决定从别的船上调来一位经验更加丰富的冰山观测员来代替他。布莱尔在匆忙下船时把锁着望远镜的钥匙随手放在了自己的衣服口袋里。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/78efeae8ff06d574"><strong>“月亮论”：都是月亮惹的祸</strong></a></p>
+<p style="TEXT-INDENT:2em">
+	美国得克萨斯州大学物理学家唐·奥尔森和鲁塞尔·多谢尔在美国天文学杂志《天空和望远镜》上撰文提出，导致泰坦尼克号撞上冰山沉没悲剧的“罪魁祸首”，其实可能是天上的月亮。</p>
+<p style="TEXT-INDENT:2em">
+	1912年1月4日，地球和太阳、月球形成了一条直线，那一天，月球距地球的“近地点”距离是1400年时间间隔中最近的距离。月球千年一遇的罕见“近距离”对海洋潮汐形成了强大的影响，导致月球对海洋潮汐的引力影响比平时至少增强了74%。美国得克萨斯州大学的科学家们相信，这一罕见的天文现象导致海洋潮汐异常升高，而正是不断起伏的强大海洋潮汐导致撞上泰坦尼克号的那块冰山在1912年1月4日那天脱离它所在的格陵兰岛冰川，最后漂向北大西洋，并最终导致了泰坦尼克号的沉没。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>“战争论”：被德国潜艇击沉或撞沉</strong></p>
+<p style="TEXT-INDENT:2em">
+	英格兰默西赛德海事博物馆的历史学家罗伯茨认为泰坦尼克号很可能是被一艘德国潜艇击沉或撞沉的。“在检验了所有生还者提供的证据后，我们唯一能确定的是，泰坦尼克号确实曾与一座冰山擦身而过，但却没有与之碰撞。对泰坦尼克号船身的底层剖面图像检测证明，其被损情况并不如人们认为的那样严重，因此肯定另有原因导致了它的沉没。”罗伯茨说。1912年德国海军已完成了德国潜艇的设计与制造。“泰坦尼克号遇难时，第一次世界大战一触即发，德国也已开始出动潜艇在北大西洋巡逻。事故发生后，泰坦尼克号的船员和乘客一致声称，他们是在轮船经过冰山后才听到船身内部有爆炸声的。据当晚许多挤在救生艇上的生还者称，他们曾在出事现场见到过一艘船，它发出像探照灯一样奇怪的光芒，他们曾希望这艘船来营救，但它没有。之所以没有实施救援，原因只有一个：它就是德国潜艇，它刚刚与泰坦尼克号相撞，或是它发射鱼雷击沉了泰坦尼克号。”</p>
+<p style="TEXT-INDENT:2em">
+	<strong>日本二战鱼雷穿越时空击沉</strong></p>
+<p style="TEXT-INDENT:2em">
+	这是最离奇的一种说法：1945年一艘日本潜艇发射的鱼雷穿越时空隧道击沉了1912年起航的泰坦尼克号，为此他们已搜集了证据：另一枚打有日本标记的鱼雷尚未爆炸，静卧在命运乖舛的泰坦尼克号的锅炉房里。据说，这种说法的源头来自英国、日本科学家的一份研究。有人引述了以下研究内容：</p>
+<p style="TEXT-INDENT:2em">
+	“我们发现的证据毋庸质疑，这枚未爆炸、印有日本标志的鱼雷只能是二战时期的产物，现在仍'安卧'在泰坦尼克号里。</p>
+<p style="TEXT-INDENT:2em">
+	“鱼雷击穿泰坦尼克号时留下的洞，使我们确信其并非在事件发生后才放置在那里的，这枚鱼雷是一艘日本潜艇上发射的。</p>
+<p style="TEXT-INDENT:2em">
+	“然而1912年当泰坦尼克号从英格兰首航驶向纽约时，那艘潜艇尚未问世。</p>
+<p style="TEXT-INDENT:2em">
+	“那艘潜艇是1939年才设计的，鱼雷上的标记证明1943年这艘潜艇才下水，其潜在含义有些骇人。“过去世人认为泰坦尼克号撞上冰山后沉没，我们的发现证明这一切有误。</p>
+<p style="TEXT-INDENT:2em">
+	“我们也拿到了有力的证据来证明，过去、现在和将来其实是同时存在的。</p>
+<p style="TEXT-INDENT:2em">
+	“这表明有一天我们能在时空中邀游，随心所欲地改变过去、现在和未来。</p>
+<p style="TEXT-INDENT:2em">
+	“我们甚至可以返回到1912年或1943年，拯救泰坦尼克号。”</p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://www.xixik.com/content/4d3486f001438f91">“UFO论”：水下UFO击沉泰坦尼克号</a></strong></p>
+<p>
+	<img src="http://img.xixik.net/special/Section/p/001/xixik-titanic-7754b0290c7c31f4.jpg" style="text-indent: 28px; float: right; width: 500px; margin: 10px;" /></p>
+<p style="TEXT-INDENT:2em">
+	科学家们按照泰坦尼克号残骸考察计划，在对船体拍摄的6幅水下照片中，发现8个来历不明的神奇发光体。最初，研究人员认为，这可能是某种深水鱼群，不过，当研究人员借助电脑再次对这些水下照片进行更详细分析后发现，确实有一些来历不明的人造发光体围绕着泰坦尼克号游弋。海洋学家确认海洋中再也找不到跟这些神奇发光体类似的东西了，它们很像在空中飞行的那些UFO，但是又不是那种典型的飞碟，而是类似世界各地的许多目击者见过的那种能量凝聚体。 科学家由此得出一个令人震惊的结论：泰坦尼克号是意外遭到UFO射出的激光束的攻击而进水翻沉的。</p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://www.xixik.com/content/b98d149f2d31c688">“起火论”：一开始船上就着火了数周未灭</a></strong></p>
+<p style="TEXT-INDENT:2em">
+	研究泰坦尼克号沉船事故30年的英国记者莫洛尼称，造成当年最大远洋客轮泰坦尼克号沉没的原因可能是油舱着火。莫洛尼认为，在泰坦尼克号离开南安普敦之前，船上就着火了，数周时间里，大火都未能被成功扑灭。经过分析泰坦尼克”号出航前的照片发现，后来撞击冰山受损的船身上有被烧过的焦黑痕迹。专家们证实，这些痕迹极有可能是由于一个油舱着火所致。莫洛尼认为，船主知道发生了火灾，但对乘客隐瞒了这一信息。大火让船体温度达到1000摄氏度，使得船身外壳钢铁十分脆弱。泰坦尼克号航行第五日撞上冰山时，船身支持不住，船上出现巨大裂口。</p>
+<p style="TEXT-INDENT:2em">
+	尽管泰坦尼克号的沉没流传着许多版本，但都不能完全肯定泰坦尼克号真正沉没的原因，不过，透过这些猜测，可以得出一个的基本结论，那就是“人祸”。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor4"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        1997年2D版《泰坦尼克号》</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p>
+	<img src="http://img.xixik.net/special/section/c/001/xixik-titanic-a2d86fa09bd39ca1.jpg" style="float:right; margin:10px; width:400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	1912年，白星邮轮公司创造了史上最大的豪华游轮泰坦尼克号，号称永不沉没的&ldquo;梦之船&rdquo;，但却在它首航的第4天意外沉没于冰冷的北大西洋海域，共造成1500多名乘客罹难，成为当时最轰动的灾难事情。导演詹姆斯&middot;卡梅隆以这一事件为背景拍摄的凄美爱情电影《泰坦尼克号》在1997年上映，获得了全球18.354亿美金的票房（北美地区为6亿美元，中国3.6亿人民币），成为全球最卖座的电影。这部影片奇迹般地、空前地卖座使它成为好莱坞20世纪末的象征（也许就像当年的《飘》一样），詹姆斯&middot;卡梅隆已经登上了世界商业电影的最高峰。直到2009年卡梅隆的另一部3D作品《阿凡达》才打破这一纪录，这一作品也为卡梅隆赢得了3D之父的美誉。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>剧情介绍</strong></p>
+<p style="TEXT-INDENT:2em">
+	1912年4月10日，号称 &ldquo;世界工业史上的奇迹&rdquo;的豪华客轮泰坦尼克号开始了自己的处女航，从英国的南安普顿出发驶往美国纽约。富家少女露丝（凯特&bull;温丝莱特饰）与母亲及未婚夫卡尔坐上了头等舱；另一边，放荡不羁的少年画家杰克（莱昂纳多&middot;迪卡普里奥饰）也在码头的一场赌博中赢得了下等舱的船票。</p>
+<p style="TEXT-INDENT:2em">
+	露丝厌倦了上流社会虚伪的生活，不愿嫁给卡尔，打算投海自尽，被杰克救起。很快，美丽活泼的露丝与英俊开朗的杰克相爱，杰克带露丝参加下等舱的舞会、为她画像，二人的感情逐渐升温。</p>
+<p style="TEXT-INDENT:2em">
+	1912年4月14日，星期天晚上，一个风平浪静的夜晚，他们在邮件仓库刚温存完。泰坦尼克号撞上了冰山，&ldquo;永不沉没的&rdquo;泰坦尼克号面临沉船的命运，露丝和杰克刚萌芽的爱情也将经历生死的考验。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>大片的诞生</strong></p>
+<p style="TEXT-INDENT:2em">
+	影片开头具有特殊意义的开场戏是导演在剪辑工作的后期冥思苦想20个小时以后的成果，而在开头泰坦尼克号在海底的残骸镜头有一部分是真实的，而有一部分则是利用模型来拍摄的，区分的办法是当镜头中有两艘潜艇时是模型，只有一艘潜艇时则是真正的泰坦尼克号的残骸。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/e1538fb6c45901d5" target="_blank" title="为了拍摄电影《泰坦尼克号》 几乎重建了邮轮">为了拍摄电影《泰坦尼克号》 几乎重建了邮轮</a></p>
+<p style="TEXT-INDENT:2em">
+	&middot;Jack第一次在影片中出现时的抽烟镜头遭到了非议，认为会误导小孩子们，但卡梅隆解释说在当时吸烟是很普遍的现象，如果不加入抽烟的镜头反而会让影片显得不真实。</p>
+<p style="TEXT-INDENT:2em">
+	&middot;凯特&middot;温斯莱特一次次不厌其烦地向卡梅隆寄上自荐书，信中还夹有玫瑰花，附上&ldquo;我就是你要找的Rose&rdquo;这样的话，而最终获得了这部世纪之作中露丝这一角色。她在拍摄过程中还患上过肺炎。</p>
+<p style="TEXT-INDENT:2em">
+	&middot;起航的镜头是在一个停车场上搭的绿屏前拍摄的。沉船的画面是模型加上电脑特效（如海浪、乘客）模拟出来的。演员对着绿屏幕表演，特技小组再将冰川的画面合成。导演在告诉演员们应该看什么地方，他们必须假想那里有Titanic在下沉。</p>
+<p style="TEXT-INDENT:2em">
+	&middot;救生艇搜寻生还者的镜头是在装满超过350,000加仑水的大水槽内拍摄的。</p>
+<p style="TEXT-INDENT:2em">
+	&middot;片中大部分的&ldquo;海洋&rdquo;其实只有3英尺深。</p>
+<p style="TEXT-INDENT:2em">
+	&middot;片中经典台词「I&#39;m the king of the world!」其实是小李子即兴发挥的创意，这句话甚至还入选美国电影学院AFI的影史上百大最佳电影台词。后来卡梅隆在奥斯卡颁奖仪式上也喊出了这句话。</p>
+<p style="TEXT-INDENT:2em">
+	&middot;&ldquo;杰克&rdquo;口误被保留。同样是画像那场戏，按照剧本上的台词，莱昂纳多应该说：&ldquo;躺到沙发上。&rdquo;但是拍摄时他不小心说成了：&ldquo;躺到床上&hellip;&hellip;哦，我是说沙发上。&rdquo;卡梅隆很喜欢这一&ldquo;坦率的口误&rdquo;，将其保留到正片之中。</p>
+<p style="TEXT-INDENT:2em">
+	&middot;谁的爱更多一点？有热心的影迷统计了一个有意思的数据，《泰坦尼克号》中露丝叫了80次&ldquo;杰克&rdquo;，还不算叫他&ldquo;Mr. Dawson&rdquo;的次数，而杰克叫了&ldquo;露丝&rdquo;50次。</p>
+<p style="TEXT-INDENT:2em">
+	&middot;阴差阳错铸成经典的还有那首《My heart will go on》，作曲是霍纳和威尔&middot;詹宁斯，本来卡梅隆不想在谢幕中使用歌曲，但霍纳没有告诉卡梅隆就已经与詹宁斯作曲。最后霍纳给卡梅隆听这支歌时，卡梅隆决定把这支后来获奥斯卡奖和格莱美奖的歌放在谢幕中。</p>
+<p style="TEXT-INDENT:2em">
+	&middot;因为全尺寸的泰坦尼克号模型只有右半边是全部完工的，所以导演特地想出了用相反文字的道具来拍摄，再将影片左右颠倒放映，所以船上如果有需要文字的道具，都需要做正反两套。</p>
+<p style="text-indent: 2em; text-align: center;">
+	<img src="http://img.xixik.net/special/Section/p/001/xixik-titanic-6de4a4e76476f686.gif" /></p>
+<p style="TEXT-INDENT:2em">
+	&middot;片中素描露丝的那双手，当然不是小李子的！猜得到吗？那居然是本片编导詹姆斯卡梅隆的手！但由于卡梅隆是左撇子，而小李子则惯用右手，因此电影上的画面还特地经过镜像反转处理。</p>
+<p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/titanic/xixik-0bab10cef45b7e3f.jpg" style="text-align: center;" title="为拍摄《泰坦尼克号》设计的豪华邮船制造现场" /></p>
+<p style="text-indent: 2em;">
+	&middot;泰坦尼克号道具的制作周期并不长，福斯巴哈片厂的摄影棚于1996年5月30日开始建造，它涵盖了一个40英亩的海滩，有超大水箱，32000平方英尺的大舞台，还配备了制作办公室、道具仓库、发电厂、焊接车间，更衣室和其他辅助设施。大约花了100天的时间，一艘非常雄伟壮丽的&ldquo;泰坦尼克号&rdquo;便屹立在墨西哥海岸线，主要的拍摄也开始了。这艘长达775英尺的船只只比真实的泰坦尼克号小10%左右。</p>
+<p style="TEXT-INDENT:2em">
+	&middot;造价2亿多美元的《泰坦尼克号》是当时成本最为昂贵的影片。影片拍摄制作过程长达五年。拍摄结束后整个布景都被卖了废铁。</p>
+<p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/titanic/xixik-9b27b3eee790ef18.jpg" style="width: 90%; max-width: 90%;" /></p>
+<p style="TEXT-INDENT:2em">
+	在影片拍摄中，最具挑战的便是重现沉船的场景。卡梅隆本着一个宗旨，那就是这些场景要如同时光倒流一样，让人感到身临其境。在一个半月的时间里，卡梅隆指导了一系列视觉预览研究，主创人员制作了轮船的研究模型，并用摄影机围绕取景，从而获知了泰坦尼克号的结构布局和最美妙、最壮观的取景角度。随着研究的进展，建造布景也成为当务之急。</p>
+<p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/titanic/xixik-83fe74277829bae4.jpg" title="为拍摄《泰坦尼克号》搭建的豪华邮船客房" /></p>
+<p style="TEXT-INDENT:2em">
+	卡梅隆说：&ldquo;你不可能只搭建一个布景，因为影片中的这艘大船总在变化角度，不同的角度需要相应的布景。&rdquo;</p>
+<p style="TEXT-INDENT:2em">
+	在严格的工程技术和安全措施的保障下，影片大部分在室内和室外的水槽中拍摄完成。其中一等舱餐厅和三层大楼梯都按实物尺寸建造，并搭建在2号摄影棚30英尺深的室内水槽的液压平台上，这个液压平台可以改变角度，剧组从几码远的海边引入500万加仑海水，经过过滤的海水将逐渐淹没液压平台上的景观。</p>
+<p style="TEXT-INDENT:2em">
+	拉蒙在研究中发现，D甲板餐厅和会客室使用的地毯的制造商依然健在，而且这家公司仍然保存着地毯的样式，可以重新制作当时的染料。制片方立即开始定购。</p>
+<p style="TEXT-INDENT:2em">
+	拉蒙回忆说：&ldquo;在将近一年的时间里，我们在墨西哥城、纽约和洛杉矶制作布景和各种家具、饰品，按照真实数量复制了甲板椅、桌灯、瓷器、皮箱、救生衣和航海零件等等，总计有数千件。建造775英尺长的拍摄外景虽然方式不同，却与真实的泰坦尼克号一样复杂，而且只能用十分之一的时间来完成。&rdquo;</p>
+<p style="TEXT-INDENT:2em">
+	另外，由于泰坦尼克号是在处女航时沉没，而当时的内部装修没能全部完成，并且鲜有照片资料。通过充分的研究和顾问的帮助，拉蒙率领制作团队根据仅存的几张泰坦尼克号内景照片及其姊妹船奥林匹克号的照片精确重现了头等舱餐厅、会客室、头等舱吸烟室、步道区、下午茶厅、健身房和多个特等舱。</p>
+<p style="TEXT-INDENT:2em">
+	卡梅隆说：&ldquo;你无法想象泰坦尼克号有多大，我们也是花了很长一段时间才真正意识到，它有882英尺长，48000吨的排水量，实际的钢铁重量将近60000吨，简单讲，它是一个庞然大物。 &rdquo;</p>
+<p style="TEXT-INDENT:2em">
+	为了造成泰坦尼克号正在海上航行的假相，船体的布景和水槽都是沿着海岸线建造，从而呈现出白天和夜间一望无际的海平面地平线。在拍摄夜间场景时，由于船体在水平位置时甲板有45英尺高，而且沉没时船尾高高耸起，所以现场的照明效果需要塔吊帮助完成。</p>
+<p style="TEXT-INDENT:2em">
+	为便于拍摄高大船身上的场景，卡梅隆使用了先进的拍摄器材--遥控升降摇臂（Akela Crane）。这是当今世界上最大的摄影机摇臂，臂展可达80英尺。不过，要将全部场景都纳入镜中，卡梅隆仍要依赖于巨大的塔吊。他说：&ldquo;我们建造的大型塔吊可以达到200英尺，我们沿着水槽中的船体侧面铺设了导轨，从船头到船尾只需5分钟，这样取景就可以随心所欲。&rdquo;在进行拍摄时，卡梅隆也会被悬吊在布景上空，同摄影指导拉塞尔&middot;卡朋特（Russell Carpenter）一起使用陀螺稳定摄影机取景。</p>
+<p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/titanic/xixik-3815705b49761460.jpg" style="width: 90%; max-width: 90%;" /></p>
+<p style="TEXT-INDENT:2em">
+	经过三周的圣诞假期之后，摄制组利用全部完成的两个甲板平台去拍摄逐渐剧烈的沉船场景。在灾难的最后阶段，船体断为两截，前半部分沉入水下40英尺。在真实事件发生时，船上的救生艇仅能容纳不到一半的乘客，而由于船员未能填满每只救生艇，最终获救的乘客只有三分之一。在拍摄中使用的救生艇吊艇架由为真正的泰坦尼克号提供相同配件的同一家公司制造，韦兰公司根据过去的图纸生产出的吊艇架与泰坦尼克号上的分毫不差。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>后期制作</strong></p>
+<p style="TEXT-INDENT:2em">
+	美国Digital Domain数字工作室的Rob Legato先生在谈及此部影片的制作时，他最常用的词就是&ldquo;逼真&rdquo;。&ldquo;在我开始这部影片的制作以前，我根本不能想象沉船的那个可怕的夜晚会是怎样的景象。&quot;Legato先生是为派拉蒙电影公司工作的视觉效果制作总监，他说&ldquo;你可以看到人们从230英尺的高度坠下摔断了胳膊和腿，烟筒落在了他们身上，绳索发出了噼叭的声音并断开，轮船的一头正在迅速下沉，惊慌失措的人们是这样害怕，不明白发生了什么&hellip;&hellip;这种惊人的视觉效果技术再创了当时可怕的情景&rdquo;。</p>
+<p style="TEXT-INDENT:2em">
+	美国Avid公司开发的三维动画创作系统Softimage|3D被重点地应用在这部影片的动画制作上。三维动画的工作被分成五个工作小组。由Matthew Butler领导的工作组主要负责做摄像机的跟踪，在电脑中确定实拍镜头中的物体位置和摄像机的位置，然后把这个数据提供给制作海洋、轮船、人物和其他场景的小组。这些数据使得由三维动画制作的乘客的脚能够接触到甲板、行走在走廊上或倚靠在栏杆上；由电脑动画制作的海水能够冲刷船体；烟雾能够从烟筒中冒出来等。这些工作非常艰巨，需要来自以不同规格建立的模型的运动控制数据，并进行运动匹配。由Richard Kidd领导的小组主要负责利用三维动画制作海洋，这个工作将建立一些用于时辰、风速、海浪起伏、太阳位置以及反射的参数，使之更接近实拍镜头中的海洋，或用于创建一个完整的数字化的海洋，在其中挖出一个区域，将作好的船体模型镜头替换这个区域，再制作轮船驶过时留在水面的余迹，并利用运动虚化使海洋显得更有力。 　</p>
+<p style="TEXT-INDENT:2em">
+	Richard Payne领导的小组主要负责轮船的三维动画制作，他们首先制作了一个长45英尺、比例为1/20的轮船模型，然后把所拍摄的轮船模型镜头合成在由三维动画制作的海洋中挖好的区域里，同时与制作的许多不同的模型轮船外景进行合成。由Kelly Port领导的小组主要负责用三维动画制作除了人物以外的所有布景，如：海鸥、旗子、鱼、天空中的星星、撞船时从船上落下的碎片、海水与轮船之间溅起的浪花、绳子、烟雾、波动的船帆、冰山、甲板上的冰块、撞碎的玻璃等等。当这些制作与实拍镜头合成时，可以想象上千个电脑制作的人物将最具吸引力，由Keiji amaguchi领导的小组利用了动作捕获系统捕捉演员表演的各种动作，并把数据应用到三维动画制作的人物模型中。当与轮船模型合成后，使人难以相信这些如此具有生命力的人物是用视觉效果制作的。在影片中的夜晚沉船场景中，制作人员在来自演员表演的动作捕获中增加了关键帧动画，因为没有人愿意模拟从230英尺高度跳入大海。这种带有正常运动曲线的关键帧动画是很容易修改和扩展的，当你看到船尾开始倾斜到90度，上千人绝望地惊叫着逃命的场景，其中85%的动画都是使用了关键帧动画技术完成的。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>所获荣誉</strong></p>
+<p style="TEXT-INDENT:2em">
+	1998年 第七十届奥斯卡 最佳影片；</p>
+<p style="TEXT-INDENT:2em">
+	1998年 第七十届奥斯卡 最佳导演 詹姆斯&middot;卡梅隆； 　</p>
+<p style="TEXT-INDENT:2em">
+	1998年 第七十届奥斯卡 最佳摄影 罗素&middot;卡彭特；</p>
+<p style="TEXT-INDENT:2em">
+	1998年 第七十届奥斯卡 最佳艺术指导；</p>
+<p style="TEXT-INDENT:2em">
+	1998年 第七十届奥斯卡 最佳服装设计；</p>
+<p style="TEXT-INDENT:2em">
+	1998年 第七十届奥斯卡 最佳剪辑</p>
+<p style="TEXT-INDENT:2em">
+	1998年 第七十届奥斯卡 最佳音响；</p>
+<p style="TEXT-INDENT:2em">
+	1998年 第七十届奥斯卡 最佳效果（视效及其他）； 　</p>
+<p style="TEXT-INDENT:2em">
+	1998年 第七十届奥斯卡 最佳电影歌曲 席琳&middot;迪翁《我心依旧》；</p>
+<p style="TEXT-INDENT:2em">
+	1998年 第七十届奥斯卡 最佳音效剪辑；</p>
+<p style="TEXT-INDENT:2em">
+	1998年 第七十届奥斯卡 最佳原创音乐奖；</p>
+<p style="TEXT-INDENT:2em">
+	1998年 第五十五届金球奖最佳电影（剧情类）； 　</p>
+<p style="TEXT-INDENT:2em">
+	1998年 第五十五届金球奖最佳导演 詹姆斯&middot;卡梅隆；</p>
+<p style="TEXT-INDENT:2em">
+	1998年 第五十五届金球奖 最佳电影音乐；</p>
+<p style="TEXT-INDENT:2em">
+	1998年 第十一届欧洲电影奖最佳女演员 凯特&middot;温斯莱特；</p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://www.xixik.com/content/38a7fc4117a80da2" target="_blank" title="泰坦尼克号生死恋情确有其事 美国绅士作家上演真人版">泰坦尼克号生死恋情确有其事</a></strong></p>
+<p style="text-indent: 2em;">
+	多次观看电影《泰坦尼克号》，里面的沉船过程是相当遵照历史的，船的构造也是&hellip;&hellip;尽量最大限度地去还原历史真相。</p>
+<p style="text-indent: 2em;">
+	当然，主人公Jack和Rose的角色是虚构的，但是类似的故事也曾经在TITANIC上发生。</p>
+<p style="text-indent: 2em;">
+	真实故事的男女主角，分别是时年60岁的艺术家爱德华&middot;肯特和53岁的离异女作家兼记者海伦&middot;邱吉尔&middot;康迪。</p>
+<p style="text-indent: 2em;">
+	1912年4月，素不相识的两人登上从英国南安普敦港出发驶往纽约的泰坦尼克号。和电影《泰坦尼克号》中的穷小子杰克和富家女露丝相似，爱德华和海伦相遇并一见钟情，多次在船上的豪华餐厅约会。</p>
+<p style="text-indent: 2em;">
+	4月14日晚11时30分，泰坦尼克号撞上冰山，&ldquo;撞击就发生在我的船舱下部，巨大的冲力使我跌倒在地，舱门也被掀开&rdquo;。</p>
+<p style="text-indent: 2em;">
+	不久，爱德华找到海伦，要带着她逃生。由于救生艇数目不够，海伦和其他女乘客一起登上6号救生艇逃生，爱德华自己留在船上。永别之际，海伦交给爱德华一个银制小酒瓶和一张她母亲的袖珍画像，作为定情物。&ldquo;他沉默地拿着我的礼物，站在泰坦尼克号的栏杆旁向我挥手告别。那是我最后一次见到他。&rdquo;海伦在日记中写道。</p>
+<p style="text-indent: 2em;">
+	15日凌晨2时25分，爱德华和1500多名其他乘客一起，随泰坦尼克号一起沉入冰冷大海，而海伦则作为700多名幸存乘客之一，目睹了泰坦尼克号沉没的恐怖过程。</p>
+<p style="text-indent: 2em;">
+	&ldquo;倾斜的船身慢慢沉没，灯光一盏接一盏地滑入海水。船尾的空间越来越少，人们安静地等待着。再也没有无线电呼救声，也没有发射火箭求救。船上的人以超然的勇气等待死亡，没有尖叫和悲号，相反，所有人的恐惧和绝望全都化为一声沉重的呻吟。&rdquo;</p>
+<p style="text-indent: 2em;">
+	当爱德华的遗体从海中打捞出来后，其家人在他的夹克口袋里发现了海伦送给他的定情物，并在小酒瓶上发现一行题字&ldquo;忠诚但不幸&rdquo;&mdash;&mdash;&mdash;这行字正是海伦所在的&ldquo;丘吉尔家族&rdquo;的座右铭。根据这一线索，爱德华的妹妹夏洛特几经周折，终于在一年后找到了居住在纽约&ldquo;第五大道&rdquo;的海伦，并亲手将两件遗物交给她。</p>
+<p style="text-indent: 2em;">
+	尘封94年后，海伦所写的这份36页&ldquo;沉船日记&rdquo;日前首次曝光。2006年4月29日，该日记将和海伦赠给爱德华的遗物之一&mdash;&mdash;&mdash;其母亲的画像共同拍卖。另一件海伦赠给爱德华的遗物&mdash;&mdash;&mdash;银酒瓶已在2005年10月以3.4万英镑高价被拍卖。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor5"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        《泰坦尼克号》3D版在泰坦尼克号下水100周年上映</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/special/section/c/001/xixik-titanic-7a26d7e051eab48b.jpg" style="float:right; margin:10px; width:400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	1998年4月3日，《泰坦尼克号》登陆中国内地，立刻引起轰动，甚至连盲人也去观看。这部电影在中国拿走了3.6亿元的总票房，在几代人的成长中留下了深刻的记忆痕迹。时隔14年，2012年4月10日，在泰坦尼克号下水100周年的纪念日，詹姆斯·卡梅隆执导的经典作品《泰坦尼克号》3D修复版（3D和IMAX 3D两个版本）在中国内地公映。影片除了保留了原版电影的迷人魅力外，还以最高水准，对电影进行了3D化复。</p>
+<p style="TEXT-INDENT:2em">
+	3D效果获得好评新版《泰坦尼克号》的剧情，长度、画面与原版几乎完全一样。最大的变化就是电影的3D效果。导演詹姆斯-卡梅隆亲自挂帅，与300位工程师奋战了60多周才将工作完成。其中为了完成最完美的3D效果，卡梅隆不惜花费重金，利用三维特效重新绘制了部分镜头，使得电影的3D效果更加逼真，也避免了模型大船在3D画面里显得过于虚假的问题。卡梅隆承诺，这次精心转制的3D版《泰坦尼克号》会令观众“不仅视觉上更加震撼，情感上也会更加融入”。尤其是影片的水下摄影，以及极具魄力的大场面，都体现了3D转制技术的最高水准。卡梅隆表示，如果当时3D技术成熟的话，他宁愿用3D摄影机完成这部作品，因为转换画面所耗费的精力太大了。</p>
+<p style="TEXT-INDENT:2em">
+	温斯莱特裸戏被删值得一提的是，片中莱昂纳多饰演的杰克为温斯莱特饰演的露丝画裸体写生的一幕，是当年《泰坦尼克号》经典的一幕。而在新版《泰坦尼克号》的这一段中，凯特·温斯莱特的露点镜头遭到了删减，这也是影片唯一的一处删减。[<a href="http://video.sina.com.cn/p/ent/m/f/2012-04-15/124161721855.html">&#160;导演卡梅隆吐槽泰坦尼克号3D裸戏被删</a>]</p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://www.xixik.com/content/a604a07ca94314b5" title="《泰坦尼克号》舶来记 长者钦点推荐不用剪辑">长者的高度评价 让此片裸戏没有被删</a></strong></p>
+<p style="TEXT-INDENT:2em">
+	1998年，在《泰坦尼克号》在中国上映前，内含几秒钟露丝全裸戏必须要删除是死板的广电肿菊既定做法。那时候还没微博，也没朋友圈，根本没法引发社会热议。然而很快地，事态有了意想不到的大转变。在当年3月9日上午九届人大一次会议上，长者与广东代表团会谈时突然高度的评价泰坦尼克号：“我们不要以为资本主义就没有思想交流的东西。最近要上演一部叫《铁达尼号》（注：即《泰坦尼克号》）的电影，过去叫《冰海沉船》，花了两亿五拍的这部电影，现在收入已经十亿，这也是风险投资啊。这部片子把金钱与爱情的关系，贫与富的关系，在危难当中每一种人的表现描绘得淋漓尽致。新中国成立以前，我在上海看了不少好莱坞的片子，好的片子有《乱世佳人》《一曲难忘》《魂断蓝桥》。这次我请政治局的同志也去看一看，不是说我们要知己知彼，才能百战百胜。切不可以为我们才会做思想工作。”东风吹来满眼春，最高领导肯定最终让我们看到了无删减的泰坦尼克号了。1998年4月3日，《泰坦尼克号》登陆中国内地后立刻引起轰动，甚至连盲人也去观看。3.6亿元的总票房创下纪录，更在几代人的成长中留下了深刻的记忆痕迹。然而，16年后《武媚娘传奇》被删城武大头，拍晚了，生不逢时啊。[泪] 更令人想不到的是19年后的清晨，长者题词的石碑一声巨响，《泰坦尼克号》男主角昂纳多在奥斯卡称帝……至此泰坦尼克号沉没105周年之际，再次纪念。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>经典重映，看的是3D还是回忆？</strong></p>
+<p style="TEXT-INDENT:2em">
+	技术控的卡梅隆导演谈到3D转制时表示： “《泰坦尼克号》是我的宝贝，所以我一定是挽起袖子，亲身参与这次全新上映的每个细节。3D效果将人类微小的情感交流变得更加生动，感受会更强烈。”而他也在3D的转制过程中，倾注了不亚于重拍一遍的心力。“当时拍摄的环境下，没有3D摄影的技术，因此，我们要重新创造出很多东西，才有办法完成。我希望能打造出与3D摄影下同等超质感的效果。如果我要做成3D，我就要达到那样的水平：画面出来就有如身临其境，好像我们在船板上，看到华丽又壮观的景象一样，或者，一起跟杰克与露丝共同经历这场生离死别。”</p>
+<p style="TEXT-INDENT:2em">
+	2012年在中国的微博以及SNS互动平台上，《泰坦尼克号》重映已经成为热门话题，“14，15年前你是在哪看的《泰坦尼克号》？跟谁看的？2012年4月，你会牵着谁的手一起看？”这些话题勾起了很多人对于那些年我们爱过电影，爱过谁的种种回忆。有网友说：“我是买碟看的《泰坦尼克号》，当时看了好多遍，每一次都有流泪，我希望这次能带我的女朋友一起去看。”也有女网友在微博上说：“97年我和男朋友还没在一起，错过了泰坦尼克号，现在我们可以一起牵手去看，重温这个故事，一起去相信誓死不渝的爱情。”</p>
+<p style="TEXT-INDENT:2em">
+	卡梅隆表示：“我认为，对十四、十五年前看过《泰坦尼克号》的人来说，经历过更多人生成长后，再来看这部电影，意义将会截然不同。他们中有的人或许已经结婚生孩子，他们现在看待人生、爱情的角度会不一样，他们所体会到的可能就不只是年少时代憧憬的浪漫爱情，而是一种责任感以及我们生存的目的，还有人与人之间彼此的意义。《泰坦尼克号》永远可以带给你新的感受，不管你在人生的哪个阶段。”</p>
+<p style="TEXT-INDENT:2em">
+	<strong>卡梅隆称15年前拍摄时被嘲笑</strong></p>
+<p style="TEXT-INDENT:2em">
+	在15年前（时年2012年），电影《泰坦尼克号》奇迹般地风靡全球，狂捞18亿美元票房，横扫11项奥斯卡大奖。直到2009年，该片票房才被卡梅隆执导的另一部电影《阿凡达》打败，票房屈居全球影史第二。</p>
+<p style="TEXT-INDENT:2em">
+	不过，当年这部全球最贵的电影在上映前并不被人们所看好。“我们是好莱坞史上最大的笨蛋，大家都等着看这部片失败，那种沉船的感觉 。”卡梅隆对当年的报道至今记忆犹新。“《综艺日报》每天的头版都有一个 观察泰坦尼克的小专栏，详细报导我们的最新意外事件和预算状况。那些都是我们拍片过程中发生的事，比如我睡在剪接室里，比如我在计算机屏幕上贴着刀片，上面写 要是电影很烂就拿来用 等等。直到影片的预告片出来后，情况才有一点点转变。但是，大家依旧说这部片不会赚钱。”</p>
+<p style="TEXT-INDENT:2em">
+	“我花了很久的时间说服电影公司做这件事。”卡梅隆透露，300位计算机工程师为制作3D版辛苦了超过一年的时间，“他们画出每个物体以及每个角色的脸部轮廓，放进正确的3D景深位置，然后清理画面。”</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor6"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        荧幕上的泰坦尼克号</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/special/Section/p/001/xixik-titanic-14a28570c57e3b02.jpeg" style="float:right; width: 400px; margin:10px;" />《在黑夜与冰山》，成片于1912年6月的一部德国无声电影，导演Mime Misu；</p>
+<p style="TEXT-INDENT:2em">
+	《泰坦尼克号劫后余生记》，成片于1914年5月14日，美国新泽西州埃克莱电影公司拍摄；</p>
+<p style="TEXT-INDENT:2em">
+	《TITANIC》（《泰坦尼克号》） ，成片于1943年，由德国导演Werner Klingler和Herbert Selpin拍摄；处于二战，被纳粹用着反英宣传片。主角是德国籍大副（连人家国籍都改了），因英国资本家的无能，令他无法挽救泰坦尼克号沉没的命运。&#160;</p>
+<p style="TEXT-INDENT:2em">
+	《TITANIC》（《泰坦尼克号》） ，成片于1953年，导演Jean Negulesco，该片又名为《走近我主》和《乘客名单》，此片获奥斯卡最佳电影剧本奖；影片的前半部用了大量的对白交待人物。影片后半段紧张刺激的场面接踵而来，面对生离死别，亦不乏感人的场面。&#160;</p>
+<p style="TEXT-INDENT:2em">
+	《A NIGHT TO A REMEMBER&#160;》（《刻骨铭心的夜晚》）1958英国电影，中译片名字《冰海沉船》；这是一部载入史册的影片，影响着后世关于泰坦尼克号的电影。以群戏方式描写邮船遇险过程的影片，没有人是主角。影片在开始后半小时就到了沉船的戏，花80分钟描写乘客仓皇逃命的过程。救生船上惊惶脸孔场面是全片的精华。本片被誉为有关泰坦尼克号的最佳影片。&#160;</p>
+<p style="TEXT-INDENT:2em">
+	《S.O.S.&#160;泰坦尼克号》（《泰坦尼克号邮船遇险记》），成片于1979年，本片是电视制片长片，以纪录戏剧形式拍摄。集中在人物性格的刻划上，虽然没有惊天动地的沉船灾难场面，但导演细腻的手法却值得观赏。</p>
+<p style="text-indent: 2em;">
+	《RAISE THE TITANIC》（《泰坦尼克邮船重见天日》） ，成片于1980年。本片有一个不错的构想：在泰坦尼克邮船遇险后70年，终于将它捞出水面，从船上的蛛丝马迹，重组失事过程。&#160;&#160;</p>
+<p style="TEXT-INDENT:2em">
+	《打捞泰坦尼克号》，成片于1980年，为作家Clive Cussler写的小说改编电影；</p>
+<p style="TEXT-INDENT:2em">
+	《TITANIC:A QUESTION OF MURDER》（《泰坦尼克号：一个谋杀？》美国 1983年拍摄。纪录片。&#160;</p>
+<p style="text-indent: 2em;">
+	《TITANIC:THE NIGHT AND THE DREAM》（《泰坦尼克号：夜与梦》）&#160;美国 1986年拍摄。纪录片。&#160;</p>
+<p style="text-indent: 2em;">
+	《TITANIC》（《泰坦尼克号》）&#160;美国 1995年拍摄。纪录片。&#160;</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/special/Section/p/001/xixik-titanic-807aa2b842cdfbb7.jpeg" style="width: 400px; float:left;margin:10px;" /></p>
+<p style="TEXT-INDENT:2em">
+	《泰坦尼克号》，成片于1996年，导演RobertLieberman；</p>
+<p style="text-indent: 2em;">
+	《Titanic:Anatomy of a Disaster》《泰坦尼克号沉船记》）&#160;美国 1997年拍摄。纪录片。</p>
+<p style="TEXT-INDENT:2em">
+	《泰坦尼克号》，1997年的好莱坞大片，导演是詹姆斯·卡梅隆，主演莱昂纳多·迪卡普里奥和凯特·温斯莱特。</p>
+<p style="text-indent: 2em;">
+	《Titanic: Birth of a Legend》（《泰坦尼克号--一个神话的诞生》）&#160;英国 2005年拍摄。纪录片。&#160;</p>
+<p style="TEXT-INDENT:2em">
+	《泰坦尼克号&#160;（3D）》，2012年4月4日上映的内容与1997年《泰坦尼克号》电影内容相同的3D版本。</p>
+<p style="TEXT-INDENT:2em">
+	1958年英国电影《A NIGHT TO REMEMBER》海报</p>
+<p style="TEXT-INDENT:2em">
+	1997年美国电影《泰坦尼克号》海报</p>
+<p style="TEXT-INDENT:2em">
+	<strong>58年版《冰海沉船》与97年版《泰坦尼克号》没可比性</strong></p>
+<p style="TEXT-INDENT:2em">
+	首先，《冰海沉船》是一部灾难的纪实类电影，精彩的演示了当时的灾难场景，冰海沉船虽然没有像97版《泰坦尼克号》一样完美的剧情，但是这部篇片是拍摄泰坦尼克号的基础。而且它是一部全方位描写沉船细节、人物的影片。而且本片的上映时间为1958年，能够拍摄出这样精彩的电影在当时可以算是很了不起。由于当时人们没有发现泰坦尼克号残骸，所以也无法确定船体的确切沉没过程，所以在当时人们普遍认为泰坦尼克号是全船整体沉没的，直到1985年9月，美国探险家罗伯特巴拉德博士发现残骸后才确认船体是断裂沉没的，这一点无法怪罪当时的人们。反而，这部片他们拍摄的非常认真（当然，一些错误的出现也是难免的）。</p>
+<p style="TEXT-INDENT:2em">
+	再看看97版《泰坦尼克号》虽说是经典之作，但是这是一部爱情灾难类电影，以泰坦尼克号沉船这场灾难为背景，主要为了突出Jack与Rose 的爱情。这部片与《冰海沉船》的风格截然不同。并且，如果当初不是电影导演卡梅隆看过了《冰海沉船》这部片，他可能根本不会想到要去拍摄电影，所以说没有《冰海沉船》就没有《泰坦尼克号》。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor7"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        泰坦尼克号数据</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p>
+	<img src="http://img.xixik.net/special/section/c/001/xixik-titanic-a31b5195123a9d5c.jpg" style="float:right; margin:10px; width:400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	<strong>泰坦尼克号尺寸规格参数</strong></p>
+<p style="TEXT-INDENT:2em">
+	泰坦尼克号不但有餐厅、酒吧、咖啡厅、游艺室、电影院，还第一次有了游泳池和健身馆。餐厅和咖啡厅请的都是法国厨师和法国侍应。</p>
+<p style="TEXT-INDENT:2em">
+	泰坦尼克号耗时3年建成，共耗资7,500万英镑（1912年的价钱）；</p>
+<p style="TEXT-INDENT:2em">
+	船体一共使用了300万颗铆钉；</p>
+<p style="TEXT-INDENT:2em">
+	吨位46328吨，净重21,831吨，排水量52,310 英吨；</p>
+<p style="TEXT-INDENT:2em">
+	全长<span style="text-indent: 2em; white-space: pre;"> </span>882英尺9英寸（269.1米）</p>
+<p style="TEXT-INDENT:2em">
+	全宽92英尺6英寸（28.2米）</p>
+<p style="TEXT-INDENT:2em">
+	高度175英尺（53.3米）（龙骨到烟囱顶部）</p>
+<p style="TEXT-INDENT:2em">
+	吃水34英尺7英寸（10.5米）</p>
+<p style="TEXT-INDENT:2em">
+	吃水线到甲板的高度为60英尺（18.3米）</p>
+<p style="TEXT-INDENT:2em">
+	深度64英尺6英寸（19.7米）</p>
+<p style="TEXT-INDENT:2em">
+	动力来源24台双端及5台单端锅炉。动力装置包括两台往复式四缸三胀蒸汽机及一台低压蒸汽轮机（不可反转），驱动三个螺旋桨。</p>
+<p style="TEXT-INDENT:2em">
+	动力50000匹马力（37MW），航速每小时23-24海里；</p>
+<p style="TEXT-INDENT:2em">
+	它前后上下有9个甲板，烟囱大得可以同时穿过两列火车。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/special/Section/p/001/xixik-titanic-9a569ffd22d2f99b.jpg" /></p>
+<p style="TEXT-INDENT:2em">
+	它的3个锚共重31吨，9个锅炉，每个重100吨，3台螺旋桨，中间那台16英尺，另两台18英尺。</p>
+<p style="TEXT-INDENT:2em">
+	船上有4台电梯，3台在一等舱，1台在二等舱。以前二等舱都是没电梯的。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>速度<span style="white-space: pre;"> </span></strong></p>
+<p style="TEXT-INDENT:2em">
+	当产生15,000匹马力于蒸汽机与产生16,000匹马力于蒸汽轮机时，船身外部双3叶螺旋桨及单4叶螺旋桨各别以每分钟75转（3叶）与每分钟165转（4叶）一共总输出约为50,000匹马力，即为服务船速 : 21 节。</p>
+<p style="TEXT-INDENT:2em">
+	当产生17,000匹马力于蒸汽机与产生18,000匹马力于蒸汽轮机时，船身外部双3叶螺旋桨及单4叶螺旋桨各别以每分钟83转（3叶）与每分钟173转（4叶）一共总输出约为59,000匹马力，即为极限船速 : 24 节。</p>
+<p style="TEXT-INDENT:2em">
+	日航行消耗煤炭825吨，在巨轮为期一周的行程里，消耗将近6000吨的煤。</p>
+<p style="TEXT-INDENT:2em">
+	日淡水消耗量为14000加仑</p>
+<p style="TEXT-INDENT:2em">
+	57600个陶器餐具</p>
+<p style="TEXT-INDENT:2em">
+	29000个玻璃器皿</p>
+<p style="TEXT-INDENT:2em">
+	44000件刀叉餐具，</p>
+<p style="TEXT-INDENT:2em">
+	总重量超过4000磅</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/42d14eee1e4e4ae0"><strong>泰坦尼克号上的食品</strong></a></p>
+<p style="TEXT-INDENT:2em">
+	和现在的豪华游轮一样，泰坦尼克号的设计初衷就是要作为一艘巨大的&ldquo;派对之舟&rdquo;，泰坦尼克号从一开始，<a href="http://www.xixik.com/content/aab2b411b5680520">就是本着布鲁斯&middot;伊斯麦所提出的&ldquo;世界上最大、最快、最豪华&rdquo;的宗旨来建造的</a>。并提出了&ldquo;尽情享受&rdquo;（Gettil&nbsp;<wbr />There is&nbsp;<wbr />Full&nbsp;<wbr />of&nbsp;<wbr />Fun!）的口号。因此，船上真的可以说是应有尽有。船上其他货物重达559吨，散件物品多达11524件。淡水、食品、新鲜水果蔬菜更不计其数、具体数目如下（注：1磅=0.45359公斤）：</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/special/Section/p/001/xixik-titanic-1b49331899e11822.jpg" style="margin: 10px; float: right; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	肉类75000磅，</p>
+<p style="TEXT-INDENT:2em">
+	鱼类11000磅，</p>
+<p style="TEXT-INDENT:2em">
+	鱼干4000磅，</p>
+<p style="TEXT-INDENT:2em">
+	<wbr />火腿7500磅，</p>
+<p style="TEXT-INDENT:2em">
+	<wbr />鸡蛋40000个，</p>
+<p style="TEXT-INDENT:2em">
+	<wbr />香肠2500磅 ，</p>
+<p style="TEXT-INDENT:2em">
+	<wbr />土豆40吨，</p>
+<p style="TEXT-INDENT:2em">
+	<wbr />洋葱3500磅，</p>
+<p style="TEXT-INDENT:2em">
+	<wbr />西红柿3500磅，</p>
+<p style="TEXT-INDENT:2em">
+	<wbr />茶800磅，</p>
+<p style="TEXT-INDENT:2em">
+	豌豆2500磅，</p>
+<p style="TEXT-INDENT:2em">
+	<wbr />面粉250桶，</p>
+<p style="TEXT-INDENT:2em">
+	<wbr />瑞士面包1000个，</p>
+<p style="TEXT-INDENT:2em">
+	<wbr />苹果36000个，</p>
+<p style="TEXT-INDENT:2em">
+	<wbr />冰淇淋1750磅，</p>
+<p style="TEXT-INDENT:2em">
+	<wbr />橘子36000个 &nbsp;</p>
+<p style="TEXT-INDENT:2em">
+	<wbr />咖啡2200磅，</p>
+<p style="TEXT-INDENT:2em">
+	<wbr />柠檬16000个；</p>
+<p style="TEXT-INDENT:2em">
+	酒在泰坦尼克号的上扮演的角色可想而知。而根据船上的清单，泰坦尼克号所下的饮品订单包括了1500瓶葡萄酒，15000个香槟杯，20000瓶啤酒和至少850瓶烈酒。而后来披露的货仓存货单表明，仓库还存有17箱法国白兰地、70箱葡萄酒以及191箱烈性酒。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/42d14eee1e4e4ae0" target="_blank" title="泰坦尼克号菜单:头等舱熏鳕鱼,二等舱烤火鸡,三等舱煮燕麦">泰坦尼克号菜单：头等舱熏鳕鱼、二等舱烤火鸡、三等舱煮燕麦</a></p>
+<p style="TEXT-INDENT:2em">
+	<strong>泰坦尼克号乘客和船员</strong></p>
+<p style="TEXT-INDENT:2em">
+	头等舱329人，二等舱285人，三等舱710人；合计客舱数2223人。</p>
+<p style="TEXT-INDENT:2em">
+	船员885人，船上的20艘救生艇仅能供1178人使用，而船上总人数达2227人。</p>
+<p style="text-indent: 2em;">
+	最大载客乘客：2435（头等舱833人，二等舱614人，三等舱1,006人。合计客舱数2,453人），船员：892。总数：3327（或根据其他来源的3547）。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>泰坦尼克号船票多少钱？</strong></p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width: 50%;">
+	<tbody>
+		<tr>
+			<th>
+				舱位</th>
+			<th>
+				<span style="text-indent: 28px;">英镑</span></th>
+			<th>
+				美元</th>
+			<th>
+				相当于1997年美元比价</th>
+		</tr>
+		<tr>
+			<td>
+				头等舱（豪华）</td>
+			<td>
+				<span style="text-indent: 28px;">870</span></td>
+			<td>
+				4350</td>
+			<td>
+				50000</td>
+		</tr>
+		<tr>
+			<td>
+				头等舱（普通）</td>
+			<td>
+				30</td>
+			<td>
+				150</td>
+			<td>
+				1724</td>
+		</tr>
+		<tr>
+			<td>
+				二等舱</td>
+			<td>
+				12</td>
+			<td>
+				60</td>
+			<td>
+				690</td>
+		</tr>
+		<tr>
+			<td>
+				三等舱</td>
+			<td>
+				3~8</td>
+			<td>
+				15~40</td>
+			<td>
+				172~460</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-indent: 2em;">
+	头等舱单独铺位的票价最低价格是30英镑（约合今天的2515英镑），带私人阳台的套房票价高达870英镑（约合今天的7.2万英镑），相当于当时一辆豪华轿车的价钱，其乘客可以享用头等舱专用的温水游泳池、健身房、壁球场、土耳其&nbsp;浴室、日光浴甲板等豪华设施，甚至连宠物狗也有专门的狗舍。这些设施都位于轮船的最上面几层甲板。头等舱乘客大多是经常往来于欧美之间的富豪贵族和社会名流，比如亿万富翁约翰&middot;阿斯特和本杰明&middot;古根海姆，以及纽约梅西百货公司老板斯特劳斯夫妇、费城电车业巨头韦德纳父子、宾州铁路公司副总裁约翰&middot;泰耶等人。</p>
+<p style="text-indent: 2em;">
+	由于泰坦尼克号称是当时世界上最大、最先进、最舒适的邮轮，又是第一次横渡大西洋，许多有钱人都想先试为快。他们拖儿带女，甚至带上佣人，浩浩荡荡一家子上船旅行。其中有位叫威廉&middot;卡特的先生把他的&ldquo;雷诺&rdquo; 轿车也带上了船。尽管&ldquo;泰坦尼克&rdquo;可乘坐2000多人，但想坐船尝鲜的阔佬太多，搞得船票很紧张。许多人都是提前几个月预订的。</p>
+<p style="text-indent: 2em;">
+	泰坦尼克号二等舱的票价是13英镑（约合今天的1090英镑），其乘客以英美中产阶级为主，包括作家、记者、医生、律师、教师、店主、神职人员，以及头等舱乘客的男仆、女佣、保姆、司机等等。二等舱乘客可以享用船上的吸烟室，他们的孩子可以从图书馆里借书。</p>
+<p style="text-indent: 2em;">
+	三等舱的票价在7英镑到9英镑之间（约合今天的587到754英镑），儿童票价是3英镑。其乘客主要是来自英国、爱尔兰&nbsp;、北欧、意大利&nbsp;、俄国、巴尔干国家和土耳其等地的移民。三等舱通常是上下铺，六到八人一个房间，有自己的盥洗室、餐厅和公共会堂，都位于轮船的下层。从横截面看上去，泰坦尼克号和其他邮船的乘客住舱分布恰好是当时社会阶层划分的一个缩影。此外，由于从美国前往欧洲的三等舱乘客人数很少，许多东航的邮船利用三等舱餐厅等空间装运一些小包装货物。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/f3f3bce1ac5212f2">后来一张&ldquo;泰坦尼克号&rdquo;的船票以65772美元被一名美国收藏家拍得</a>。这张船票来自当时最后一位记得那场沉船灾难的幸存者。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>泰坦尼克号救生艇清单</strong></p>
+<p style="TEXT-INDENT:2em">
+	在船的左舷，二副莱托勒命令救生船只载妇女和儿童，这种死板做法使得很多救生艇没装够人就放下。在右舷，一副默多克则在妇女优先逃生之后允许男性登艇。所以，在右舷获救的人数比在左舷获救的多。来自丹佛市的伊文斯夫人把救生艇座位让给一个孩子的母亲，而白星公司主席伊斯梅则抛下他的乘客、他的船员、他的船，在最后一刻跳进救生艇。人性的善与恶，在这里被揭露无遗。</p>
+<p style="TEXT-INDENT:2em">
+	泰坦尼克号的沉没之所以造成了如此巨大的人员伤亡，一个最主要的原因就在救生艇的数量上。按照美国当时的规定，像泰坦尼克号这样大的超级客轮，需携42只救生艇；而按英国的规定，只需携带16只即可。TITANIC总共配有20只救生艇，因此按照英国的法律，已经可以投入运营。而事实上，这20条救生艇只可装载下整艘船不到1/2的乘客。但白星公司认为，泰坦尼克号用不了带那么多的救生艇，因为它&ldquo;本身就是救生艇&rdquo;，世界上最大的救生艇&hellip;&hellip;这20支救生艇被分为三类，它们是：</p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<th>
+				类型</th>
+			<th>
+				数量</th>
+			<th>
+				长度（英尺）</th>
+			<th>
+				宽度（英尺）</th>
+			<th>
+				吃水深度（英尺）</th>
+		</tr>
+		<tr>
+			<td>
+				紧急救生艇</td>
+			<td>
+				2</td>
+			<td>
+				25.2</td>
+			<td>
+				7.2</td>
+			<td>
+				3</td>
+		</tr>
+		<tr>
+			<td>
+				常规救生艇</td>
+			<td>
+				14</td>
+			<td>
+				30</td>
+			<td>
+				9.1</td>
+			<td>
+				4</td>
+		</tr>
+		<tr>
+			<td>
+				帆布折叠艇</td>
+			<td>
+				4</td>
+			<td>
+				27.5</td>
+			<td>
+				8</td>
+			<td>
+				3</td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT:2em">
+	<strong>泰坦尼克号救生艇下放情况 </strong></p>
+<p style="TEXT-INDENT:2em">
+	4月15日00点45分，泰坦尼克号开始自救。20只救生艇被依次放下。按照最初的设计，这20支救生艇总共可容纳1200余人（即全部乘客的一半），但由于现场的慌乱和危急很多救生艇都没有坐满就被匆匆地放下海了。因此，最终坐上救生艇逃生的仅仅有六、七百人而已。这里是20艘救生艇全部的下放情况（注：A、B、C、D号为可折叠小艇）&nbsp;：</p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width: 50%;">
+	<tbody>
+		<tr>
+			<td>
+				<strong>艇号</strong></td>
+			<td>
+				<strong>&nbsp;<wbr />下放时间</strong></td>
+			<td>
+				<strong>可容纳人数</strong></td>
+			<td>
+				<strong>实际乘坐人数</strong></td>
+		</tr>
+		<tr>
+			<td>
+				7</td>
+			<td>
+				12：25</td>
+			<td>
+				65</td>
+			<td>
+				28</td>
+		</tr>
+		<tr>
+			<td>
+				4</td>
+			<td>
+				12：30</td>
+			<td>
+				40</td>
+			<td>
+				40</td>
+		</tr>
+		<tr>
+			<td>
+				6</td>
+			<td>
+				12：55</td>
+			<td>
+				65</td>
+			<td>
+				28</td>
+		</tr>
+		<tr>
+			<td>
+				5</td>
+			<td>
+				12：55&nbsp;</td>
+			<td>
+				65</td>
+			<td>
+				41</td>
+		</tr>
+		<tr>
+			<td>
+				3</td>
+			<td>
+				1：00</td>
+			<td>
+				40</td>
+			<td>
+				32</td>
+		</tr>
+		<tr>
+			<td>
+				1</td>
+			<td>
+				1：10</td>
+			<td>
+				40</td>
+			<td>
+				12</td>
+		</tr>
+		<tr>
+			<td>
+				8</td>
+			<td>
+				1：10</td>
+			<td>
+				65</td>
+			<td>
+				39</td>
+		</tr>
+		<tr>
+			<td>
+				9</td>
+			<td>
+				1：15</td>
+			<td>
+				65</td>
+			<td>
+				56</td>
+		</tr>
+		<tr>
+			<td>
+				12</td>
+			<td>
+				1：25</td>
+			<td>
+				65</td>
+			<td>
+				40</td>
+		</tr>
+		<tr>
+			<td>
+				14</td>
+			<td>
+				1：30</td>
+			<td>
+				65</td>
+			<td>
+				60</td>
+		</tr>
+		<tr>
+			<td>
+				16</td>
+			<td>
+				1：35</td>
+			<td>
+				65</td>
+			<td>
+				50</td>
+		</tr>
+		<tr>
+			<td>
+				13</td>
+			<td>
+				1：35</td>
+			<td>
+				65</td>
+			<td>
+				64</td>
+		</tr>
+		<tr>
+			<td>
+				15</td>
+			<td>
+				1：35</td>
+			<td>
+				65</td>
+			<td>
+				70</td>
+		</tr>
+		<tr>
+			<td>
+				C</td>
+			<td>
+				1：40</td>
+			<td>
+				40</td>
+			<td>
+				39</td>
+		</tr>
+		<tr>
+			<td>
+				2</td>
+			<td>
+				1：45</td>
+			<td>
+				40</td>
+			<td>
+				25</td>
+		</tr>
+		<tr>
+			<td>
+				D</td>
+			<td>
+				2：05</td>
+			<td>
+				40</td>
+			<td>
+				44</td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT:2em">
+	&nbsp; 其余四艘救生艇（A、B两艘折叠艇和10、11号救生艇）来不及被放下。 &nbsp;<wbr />除10号艇后来自动浮起并上了一些人外，其余三支均随船沉入了海底。</p>
+<p style="TEXT-INDENT:2em">
+	指挥第14救生艇的第五副官哈罗德&middot;戈弗雷&middot;罗伊召来附近的几艘救生艇，把吓得要死的妇女儿童转移走，然后自己轻装上阵回去救援漂浮在海面上的人，但是转移工作花了不少时间，导致罗伊最后只从水里捞起了6个人（其中1个很快就死了），稍后他又从快下沉的几艘折叠艇上救走了所有幸存者。罗伊因为组织了那天晚上唯一的一场救援因而被人们视为英雄，他后来继续航海，直到1944年病逝，享年61岁。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/1bb503e1fba9c905" title="泰坦尼克号幸存者数量统计"><strong>泰坦尼克号乘客幸存率</strong></a></p>
+<p>
+	<img src="http://img.xixik.net/special/Section/p/001/xixik-titanic-32642e6ac3c79436.jpg" style="text-indent: 28px; margin: 10px; float: right; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	头等舱有乘客319人，200人幸存下来，幸存率为63%；</p>
+<p style="TEXT-INDENT:2em">
+	二等舱有乘客269人，117人幸存下来，幸存率为43%；</p>
+<p style="TEXT-INDENT:2em">
+	三等舱有乘客699人，172人幸存下来，幸存率为25%.</p>
+<p style="TEXT-INDENT:2em">
+	所有乘客中，69%的妇女和儿童活了下来，而且头等舱妇女儿童生还率最高，而男乘客只有17%得以生还。据统计，<a href="http://www.xixik.com/content/98bab34ada9fdb4c">头等、二等和三等舱内成年男性的获救率分别为33%、8%和16%</a>。幸存总人数：713人。<a href="http://www.xixik.com/content/dab9eca0219dd592">最年轻的乘客是两个月大的米莉维娜&middot;迪恩，也成为了最后一位幸存者直到2009年去世</a>。</p>
+<p style="TEXT-INDENT:2em">
+	另外一组数据：乘客和船员总人数2228人，幸存者705人，丧生1523人。</p>
+<p style="TEXT-INDENT:2em">
+	899名船员中有687人像船长一样永远地留在了泰坦尼克号上，也就是说有76％的船员葬身海底，占整个死亡人数的45.7%。但谁都知道，船员在船上，无论就经验、还是条件，比乘客更有机会逃生。</p>
+<p style="text-indent: 2em; text-align: center;">
+	<strong>泰坦尼克号各船舱获救比例，死亡比例</strong></p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<th>
+				成员</th>
+			<th>
+				成员级别</th>
+			<th>
+				乘员总人数</th>
+			<th>
+				获救比率</th>
+			<th>
+				死亡比率</th>
+			<th>
+				获救人数</th>
+			<th>
+				死亡人数</th>
+		</tr>
+		<tr>
+			<td rowspan="3">
+				儿童</td>
+			<td>
+				头等舱</td>
+			<td>
+				6</td>
+			<td>
+				83%</td>
+			<td>
+				17%</td>
+			<td>
+				5</td>
+			<td>
+				1</td>
+		</tr>
+		<tr>
+			<td>
+				二等舱</td>
+			<td>
+				24</td>
+			<td>
+				100%</td>
+			<td>
+				0%</td>
+			<td>
+				24</td>
+			<td>
+				0</td>
+		</tr>
+		<tr>
+			<td>
+				三等舱</td>
+			<td>
+				79</td>
+			<td>
+				34%</td>
+			<td>
+				66%</td>
+			<td>
+				27</td>
+			<td>
+				52</td>
+		</tr>
+		<tr>
+			<td rowspan="4">
+				女子</td>
+			<td>
+				头等舱</td>
+			<td>
+				144</td>
+			<td>
+				97%</td>
+			<td>
+				3%</td>
+			<td>
+				140</td>
+			<td>
+				4</td>
+		</tr>
+		<tr>
+			<td>
+				二等舱</td>
+			<td>
+				93</td>
+			<td>
+				86%</td>
+			<td>
+				14%</td>
+			<td>
+				80</td>
+			<td>
+				13</td>
+		</tr>
+		<tr>
+			<td>
+				三等舱</td>
+			<td>
+				165</td>
+			<td>
+				46%</td>
+			<td>
+				54%</td>
+			<td>
+				76</td>
+			<td>
+				89</td>
+		</tr>
+		<tr>
+			<td>
+				船员</td>
+			<td>
+				23</td>
+			<td>
+				87%</td>
+			<td>
+				13%</td>
+			<td>
+				20</td>
+			<td>
+				3</td>
+		</tr>
+		<tr>
+			<td rowspan="4">
+				男子</td>
+			<td>
+				头等舱</td>
+			<td>
+				175</td>
+			<td>
+				33%</td>
+			<td>
+				67%</td>
+			<td>
+				57</td>
+			<td>
+				118</td>
+		</tr>
+		<tr>
+			<td>
+				二等舱</td>
+			<td>
+				168</td>
+			<td>
+				8%</td>
+			<td>
+				92%</td>
+			<td>
+				14</td>
+			<td>
+				154</td>
+		</tr>
+		<tr>
+			<td>
+				三等舱</td>
+			<td>
+				462</td>
+			<td>
+				16%</td>
+			<td>
+				84%</td>
+			<td>
+				75</td>
+			<td>
+				387</td>
+		</tr>
+		<tr>
+			<td>
+				船员</td>
+			<td>
+				885</td>
+			<td>
+				22%</td>
+			<td>
+				78%</td>
+			<td>
+				192</td>
+			<td>
+				693</td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT:2em">
+	没能上救生船的有1500多人全部落水，只有一艘救生船回来救人，救上来六个人，总共有705人生还。&ldquo;泰坦尼克号&rdquo;沉船死了1500多人，那么那些活下来的人呢？日本一位名叫野细正文的铁路局官员，美国一对死里逃生的贵族夫妇，在船难发生一年之内决定离婚，因为美国上流社会传言丈夫是厚颜无耻才拣回了一条命，太太因为受不了这些谣言所以决定离婚。 根据&ldquo;泰坦尼克号&rdquo;的伤亡记载，头等舱中的妇女143人中死了4个人（其中3个人志愿留在船上），二等舱的妇女93人中死了15人，而三等舱的妇女179人中死了81位。但是在小孩方面，虽然二等舱的30位幼童中只有一位小孩子葬身海底，但三等舱的76名小孩中却有53个人死亡。据了解，有4名头等舱的男乘客因为偷偷穿上女人的衣服，才终于等上了救生艇而逃脱，虽然这些人求生的行为并无罪过，但是他们仍然受到社会舆论的谴责。嘻嘻网备注：由于数据出处不同，上述数据与表格略有偏差。</p>
+<p style="TEXT-INDENT:2em">
+	<span style="color: rgb(51, 51, 51); font-family: &quot;PingFang SC&quot;, &quot;Lantinghei SC&quot;, &quot;Microsoft YaHei&quot;, arial, 宋体, sans-serif, tahoma;">关于泰坦尼克上具体有多少人，各路媒体说法不一&hellip;&hellip;</span>船上载有1324乘客和892名工作人员。&hellip;&hellip;当时载满2223名乘客，除了登上救生艇的711人幸存外，共有1513人葬身冰海。&ldquo;泰坦尼克号&rdquo;共载运2207人，其中乘客1316人，船员891人。船难发生后，究竟有多少人葬身海底呢？各方面的统计不一。某些消息来源说是1635人，美国调查庭说是1517人，英国调查庭说时1490人，而英国贸易局则说是1503人，这其中，以后者的数字似乎最为可信。</p>
+<p style="TEXT-INDENT:2em">
+	来源：说不尽的泰坦尼克号&nbsp;<a href="http://news.xixik.com/zt/titanic/">http://114.xixik.com/titanic/</a></p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor8"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        泰坦尼克号的沉没详解</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p>
+	<img src="http://img.xixik.net/special/section/c/001/xixik-titanic-7828e9e3883332b4.jpg" style="float:right; margin:10px; width:400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	<strong>1912年4月14日，星期日</strong></p>
+<p style="TEXT-INDENT:2em">
+	上午9时：泰坦尼克号收到自卡路尼亚号（Caronia）发出的冰山警告无线电信号，代表冰山位置在北纬42度，西经49~51之间。</p>
+<p style="TEXT-INDENT:2em">
+	上午11时40分：荷兰邮轮诺丹号（Noordam）报告以上位置有大量冰块（"much ice"）。</p>
+<p style="TEXT-INDENT:2em">
+	正午：一切如常，高级船员们在舰桥上集合，以六分仪计算是日航行位置，结论为“自周六正午迄今，共航了546浬（Since noon Saturday, 546miles）”。</p>
+<p style="TEXT-INDENT:2em">
+	下午1时42分：自波的号（Baltic）收到冰山警告：于北纬41度51分，西经49度52分，距泰坦尼克号250浬处有“大量冰场（Large quantities of field ice）”。消息由史密斯船长收到，之后他通知伊斯梅（J.Bruce Ismay）。伊斯梅还把该便条放入他的口袋中。</p>
+<p style="TEXT-INDENT:2em">
+	1时45分：收到自德国邮轮亚美利加号（Amerika）大型冰山（Large iceberg）警告信号（41°27'N, 50°8'W），但并没有通知舰桥船员。</p>
+<p style="TEXT-INDENT:2em">
+	5时30分至晚上7时30分：气温骤降10度，此时室外温度为华氏33度（摄氏1度）。</p>
+<p style="TEXT-INDENT:2em">
+	5时30分：史密斯船长下命自原来航向略作西北方向改变，或者是为了避免遇上冰山。</p>
+<p style="TEXT-INDENT:2em">
+	晚上7时30分：<a href="http://www.xixik.com/content/6bd7d1a08da4919b" title="加州人号近在咫尺为何没去营救？">加州人号（Californian，加利福尼亚人号）获得三个有关冰山的警告</a>（42°3'N,49°9'W），讯息上达舰桥，此时船长出席晚餐派对，此时冰山距泰坦尼克号50浬。</p>
+<p style="TEXT-INDENT:2em">
+	8时40分：此时海水开始凝结，舰桥船员接到留意海水对船的行动的影响。</p>
+<p style="TEXT-INDENT:2em">
+	8时55分：船长自派对中途退出返回舰桥塔，和舰桥船员讨论当时明朗的天色及冰山在夜航时的能见度等问题。</p>
+<p style="TEXT-INDENT:2em">
+	9时20分：船长下班，并下令“如果情况变差（"If it becomes at all doubtful……"）便通知他”。</p>
+<p style="TEXT-INDENT:2em">
+	9时30分：舰桥向遥望台发出指示直至翌日清晨前必须小心留意冰山。</p>
+<p style="TEXT-INDENT:2em">
+	9时40分：收到自美莎巴号（Mesaba）发出的巨型冰块及冰山警告（42°N至41°25'N,49°至50°30'W）。讯息被忽略，电报员此时正为乘客收发私人讯息。</p>
+<p style="TEXT-INDENT:2em">
+	10时：舰桥及遥望台人员换班，交更备要：密切留意出现在航道上冰山，气温为华氏32度。天朗气清（Warning to watch for icebergs passed between the watches, Temperature is 32℉, sky cloudless, air clear.）。</p>
+<p style="TEXT-INDENT:2em">
+	10时30分：海面温度降至华氏31度。</p>
+<p style="TEXT-INDENT:2em">
+	10时55分：加州人号于距泰坦尼克号以北10至19浬处的冰场前面停下，船长罗德下令停止航行，抛锚过夜，并向附近的所有航行船只发出警告，当无线电信号抵达泰坦尼克号时，冰山警告却被中断并被粗鲁的回应：“勿搔扰！住口吧！你已经干扰我的信号了！我正向瑞斯角（位于纽芬兰）发电报！（Keep out! Shut up! You're jamming my signal, I'm working Cape Race!）”，晚上11时30分，加州人号电报员关掉电报机下班，如乘客一样无职般休息。</p>
+<p style="TEXT-INDENT:2em">
+	11时30分：瞭望台人员发现船首处有微量雾状物迎头接近。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/titanic/xixik-b524e55b314a475d.jpeg" style="margin: 10px; float: right; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	11时40分：泰坦尼克号以20.5节的航速继续前进，瞭望台人员骤然发现高55~60英尺冰山就出现在前面500码范围之内，他们直接鸣起三向警告铃声及致电舰桥：“冰山，就在前面！（Iceberg right ahead.）”，六副穆迪（Moody）获知会并立即转达给一副默多克（Murdoch），他向舵手惊叫道“右满舵（Hard-a-starboard）”，并命令机房关闭引擎然后向后驶，之后他把吃水线的水闸关上。舵手全速转动船舵，数秒之后，泰坦尼克号便向左舷改变方向，但冰山在黑夜中已正面撞向右舷弓并沿船侧擦身而过。此次撞击所发出的声响，虽然仅为船首工作的船员听到，而大部分乘客根本察觉不到，撞击发生后的37秒淡然过去。</p>
+<p style="TEXT-INDENT:2em">
+	11时50分：撞击后首个10分钟，水位自龙骨上升了14英尺，船首的前五个水闸开始有水涌入，六号锅炉室被8英尺高的水位淹没。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>1912年4月15日，星期一</strong></p>
+<p style="TEXT-INDENT:2em">
+	凌晨12时：比龙骨高24英尺的邮件房，积水足以浮动邮袋。船员向身处舰桥的史密斯船长报告：水已浸没第1、2、3号闸室及6号锅炉室，他立即找设计者安德鲁斯（Thomas Andrews）评估损毁情况。经过一番计算后，安德鲁斯表示船仅能支持1.5小时，此时泰坦尼克号前舷开始下沉，她必会沉没的命运已定。船长要求电报员发出CQD求救信号（Come Quick, Danger），当时泰坦尼克的位置为北纬41度46分，西经50度14分。锅炉运作中断，船上的烟管和烟囱分离而脱落，发出巨大的声响。</p>
+<p style="TEXT-INDENT:2em">
+	凌晨12时05分：海水已淹没32英尺高的船头部分，船上的救生艇仅能供1178人使用，而船上总人数达2227人。</p>
+<p style="TEXT-INDENT:2em">
+	12时10分至50分：距泰坦尼克号约10至19浬的加州人号船员，发现了泰坦尼克号，甚至能看见她的蒸汽机烟囱上的灯光，他们企图与之联络，但因摩斯电码灯故障，无法进行。而且不止一名船员目睹泰坦尼克号发射了共9枚的白色求救火箭，但加州人号船长罗德下令按兵不动，暂不要救援。</p>
+<p style="TEXT-INDENT:2em">
+	凌晨12时15分至2时17分：期间有更多船只收到泰坦尼克号的求救信号，包括位于泰坦尼克号500浬之外，她的姊妹船奥林匹克号（Olympic）、Mount Temple号（位于49浬外）、法兰克福号（Frankfort, 位于135浬外）、毕亚马号（Birma, 位于70浬外）、波的海号（Baltic, 位于243浬外）、弗吉尼亚号（Virginian, 位于170浬外）以及卡帕西亚号（Carpathia, 位于80浬外）等，并即时向现场行驶，准备救援。</p>
+<p style="TEXT-INDENT:2em">
+	凌晨12时15分：船上甲板A为头等乘客服务的乐队，前往救生艇入口的梯级附近为撤离中的乘客继续演奏。</p>
+<p style="TEXT-INDENT:2em">
+	凌晨12时20分：海水已浸没48英尺高的海员室。</p>
+<p style="TEXT-INDENT:2em">
+	凌晨12时25分：船长下令先让妇孺登上救生艇。而在她东南方58浬的卡柏菲亚号正全速前来援救。</p>
+<p style="TEXT-INDENT:2em">
+	凌晨12时45分：位于右舷七号的第一艘救生艇首先放出，本可搭载68名乘客，但仅有28人登上。泰坦尼克号发射了第一支求救火箭，之后共发射了8个。四号救生艇在00:30至00:45分之间上客之后并放落海上。</p>
+<p style="TEXT-INDENT:2em">
+	凌晨12时55分：六号救生艇仅载了玛格丽特·布朗（Margaret Brown）及Peuchen少校等共28人便被放到海上；伊斯梅（Ismay）要求船员给他先登艇而被责，同时五号救生艇被放落海上。</p>
+<p style="TEXT-INDENT:2em">
+	1时：位于右舷的三号救生艇搭载了32人，包括11名船员，自泰坦尼克号放出。</p>
+<p style="TEXT-INDENT:2em">
+	1时10分：位于右舷的一号三号救生艇放出，它可搭载40人，但仅有12人能登上，包括高士莫爵士（Sir Cosmo）及哥顿女士（Lady Duff Gordon），以及7名船员。同时舱侧的八号救生艇搭载了39人放出，由罗斯伯爵夫人（Countess of Rothes）掌舵。</p>
+<p style="TEXT-INDENT:2em">
+	1时15分：水位已浸到泰坦尼克号的名字铭牌处，向水平面下倾斜的船首更加严重。从这时开始救生艇载客量到了充分利用（即满客）才放出。同时右舷的九号艇放出时载客56人。</p>
+<p style="TEXT-INDENT:2em">
+	1时25分：舱侧十二号艇搭载妇孺40人，由2名船员作指挥。</p>
+<p style="TEXT-INDENT:2em">
+	1时30分：此时船上的人开始变得慌张，当舱侧十四号救生艇搭载了60人准备放出时，部份人群企图跳入艇中，被身处艇中的五副劳尔（Lowe）向天开枪吓止。留在泰坦尼克号的人开始绝望。</p>
+<p style="TEXT-INDENT:2em">
+	1时35分：二等及三等的妇孺乘客分别逃生，舱侧十六号艇搭载多于50人，右舷十三号艇搭载64人，30秒之后，右舷十五号艇上有70人被放出。</p>
+<p style="TEXT-INDENT:2em">
+	1时40分：大多数救生艇已驶离泰坦尼克号很远，（以防被沉船产生的涡流把救生艇卷入水下），此时伊斯梅才登上可折叠式救生艇C（共有39名乘客），右舷的最后一艘救生艇已下水，船首继续下沉。</p>
+<p style="TEXT-INDENT:2em">
+	1时45分：舱侧可载40人的二号艇仅载了25人便下水。</p>
+<p style="TEXT-INDENT:2em">
+	1时50分：舱侧四号艇搭载妇孺乘客40人下水。</p>
+<p style="TEXT-INDENT:2em">
+	2时：此时水位已达到散步甲板以下10英尺处。</p>
+<p style="TEXT-INDENT:2em">
+	2时05分：1500人仍留在快将沉的船上，船员竭力维持秩序使妇孺乘客能进入救生艇，当44人登上可折叠式救生艇D后，所有艇只已用完。泰坦尼克号的船首及前舷已浸入水中。</p>
+<p style="TEXT-INDENT:2em">
+	2时10分：史密斯船长示意电报员布兰德（Bride）及菲利普（Philips）可离开岗位。</p>
+<p style="TEXT-INDENT:2em">
+	2时17分：菲利普继续发布无线电讯息。史密斯船长对船员说：“现在各位要依靠自己（逃生）了（It's every man for himself）”，之后步往舰桥，等候和泰坦尼克号同归于尽。有人见设计者安德鲁斯独自呆坐在头等吸烟室中。船上的乐队停止演奏，此刻很多乘客及船员跳进水中，尝试逃生。但前烟囱倒塌，当场压毙了很多在洋中正慌张逃命中的乘客。可折叠式救生艇A因翻艇把大约24人掉进冰冷的海水中，舱侧十四号救生艇上的五副劳尔救了近半数跌落海的人。其他的人埋身在大洋中。</p>
+<p style="TEXT-INDENT:2em">
+	2时18分：一声巨响，所有船内的可动物件似乎同时沉入水中，船上所有灯光眨动了一下便完全熄灭了，很多目击者称它此时已经断为两截，船首那边己沉入水底。</p>
+<p style="TEXT-INDENT:2em">
+	2时20分：泰坦尼克号的船尾部分在水面悬浮了一会，便缓慢地在水面消失，1500人随着它的消失而葬身大西洋中。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor9"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        救命恩人：卡帕西亚号</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	1912年15日凌晨0点5分，史密斯船长下令准备放救生艇。0点15分，<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>开发出了“CQD MGY”的呼救信号。CQD是当时通用的遇险信号，MGY是<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>开的无线电呼叫代号。不久<a href="http://www.xixik.com/content/f447fd088811cc81">又发出了新近被国际海事协会确定的SOS求救信号</a>。事后证实大多数接收到信号的船只都只得到了SOS求救信号。</p>
+<p style="TEXT-INDENT:2em">
+	当“<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>开”的求救呼号发出后，有许多船都收到了，外围至少有十六艘船听到了泰坦尼克绝望的求救信号。最焦急的要算她的姐妹船“奥林匹克号”（Olympic）了，但此时她尚在500英里远处，从纽约返回英国，鞭长莫及。奥林匹克号的船长赫伯特·詹姆斯·阿道克（看过丁丁历险记的朋友，竖起你的耳朵！）发出电报：“贵船是否正在往回行驶？是否需要我船与贵船会合？”，史密斯船长则发电报回答：“我船正将妇女送上救生艇”。阿道克船长立刻下令所有的锅炉生火，全速驶往泰坦尼克号的出事地点——离他们还有一天的航程。与此同时，奥林匹克号上的无线电室负担起转发和整理无线电信息的任务，为后续救援行动的顺利实施打下了坚实基础。</p>
+<p style="TEXT-INDENT:2em">
+	其他船只的距离分别为：</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/special/Section/p/001/xixik-titanic-eeef8ea3ee45c859.jpg" style="margin: 10px; float: right; width: 400px;" title="受到求救信号的各艘船距离泰坦尼克号距离" /></p>
+<p style="TEXT-INDENT:2em">
+	“波罗的海号”（RMS&#160;Baltic），243英里；</p>
+<p style="TEXT-INDENT:2em">
+	“法兰克福号”（SS&#160;Frankfort），153英里；</p>
+<p style="TEXT-INDENT:2em">
+	“弗古尼亚号”（SS&#160;Virginian，又译“维珍尼亚人号”），170英里；</p>
+<p style="TEXT-INDENT:2em">
+	“缅甸号”（SS Birma，又译“毕亚马号”，俄国货轮），70英里；</p>
+<p style="TEXT-INDENT:2em">
+	“卡帕西亚号”（又译“喀尔巴阡号”，“卡佩西亚号”，RMS Carpathia），58英里；</p>
+<p style="TEXT-INDENT:2em">
+	“圣殿山号”（又译“坦布耳山号”，SS Mount Temple），49英里；</p>
+<p style="TEXT-INDENT:2em">
+	他们都无不接到呼号，但远水不解近渴，不能马上赶到。</p>
+<p style="TEXT-INDENT:2em">
+	其他船只行动缓慢，由于种种原因未能及时赶到出事现场并实施有效救援。一直到3点30分，卡纳德公司的客船卡帕西亚号最先赶到了出事现场。此时的<a href="http://114.xixik.com/titanic/" style="color: rgb（0, 0, 0）;" title="泰坦尼克号">泰坦尼克号</a>开已经完全沉入海底。船员们只看到海面上漂浮着各种货物、木材和尸体。4点钟，卡帕西亚号船员在北大西洋黎明的微光下发现了第一艘救生艇，船员们放下缆绳将救生艇拉了上去。</p>
+<p style="TEXT-INDENT:2em">
+	“我们当时在狭小救生艇里挤成一团相互取暖，突然看到了远处隐约有一排灯光和黑色烟雾，并且烟雾越来越大，此时大家已经察觉到有一艘蒸汽船在靠近。”7号救生艇的乘客罗西 吉普森说。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/mimg/002/xixik_4e57935ed525a9ea.jpeg" style="margin: 10px; float: right; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	“大家顿时看到了希望，伸出冻僵的手，奋力地滑起船桨。”当海面上露出阳光时，罗西看到海面上漂浮着一些绿色的垫子，她认出这些是<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>开上的沙发。6点钟左右，7号救生艇靠近卡怕西亚号，罗西顺着绳梯爬上了船。</p>
+<p style="TEXT-INDENT:2em">
+	“谢天谢地，终于有人来救我们了。”卡怕西亚号船员立即为浑身湿透的罗西提供毛毯、食物、热水等，还尽快找来医生为其他伤者治疗、包扎。随后，罗西进入一间船舱，一觉睡了26个小时。</p>
+<p style="TEXT-INDENT:2em">
+	经过4个半小时的搜救，救援工作一直持续到早上8点30分，第12号救生艇被系上救援缆绳。加上从其他漂浮物上救起的人员，<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>开上2208名船员和旅客中，只有705人生还。卡帕西亚号的船长和牧师在大餐厅主持了一次悼念仪式。8点50分，掉头返回纽约。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>奥林匹克号：我来晚了……</strong></p>
+<p style="TEXT-INDENT:2em">
+	当奥林匹克号在第二天与搭载幸存者的卡帕提亚号相遇的时候，奥林匹克号让卡帕西亚号把一部分乘客转移到它上面来。卡帕西亚号的船长亚瑟·罗士强（Arthur Rostron）拒绝了，因为奥林匹克号与泰坦尼克号的外观和内部装潢几乎一模一样，他不想让饱受刺激的乘客再次看到仿佛泰坦尼克号鬼魂从海中浮出的场面。4月21日，奥林匹克号回到了举国震惊的英格兰。</p>
+<p style="TEXT-INDENT:2em">
+	不过，在后续的沉船事故调查中，奥林匹克号则实打实地当了一回姊妹舰的替身——调查人员在奥林匹克号上反复进行多次测试，最终推断出了泰坦尼克号沉没的原因。完成调查之后，奥林匹克号继续在跨大西洋航线上航行了2年，直至1914年8月4日，第一次世界大战开始为止。</p>
+<p style="TEXT-INDENT:2em">
+	4月18日，卡帕西亚号抵达纽约港。经过自由女神像时，上万人在曼哈顿岛的巴特雷海岸观看。在54号码头，大约3万人伫立在雨水中默默地迎接<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>开上的幸存者。<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>开沉没的消息震惊了整个西方世界。泰坦尼克号沉没的消息震惊了整个西方世界。当时人们的震惊程度，不亚于本世纪美国的9.11事件。大西洋两岸许多地方降了半旗。英国国王乔治五世和美国总统塔夫脱互致唁电。德皇威廉二世也拍发了吊唁电报。</p>
+<p style="TEXT-INDENT:2em">
+	卡帕西亚号（R.M.S. Carpathia）是英国卡纳德公司的客轮，卡帕西亚号于1902年8月6号建造。由于建造后工人罢工，导致卡帕西亚号的处女航推迟到了1903年5月5号，但她成功地从英国的利物浦出发，到达了美国的波士顿。在1912年4月14号夜晚的<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>开（R.M.S.&#160;Titanic）海难中，驶往地中海的卡帕西亚号收到求救信号后，船长亚瑟·罗士强（Arthur Rostron）下达了前去救援的命令。卡帕西亚号是收到求救信号的20多艘船只中全速最先赶往事发地点救人的船只。1918年7月17日，一战期间，卡帕西亚号在前往波士顿的途中被德军舰艇鱼雷击沉。</p>
+<p style="TEXT-INDENT:2em">
+	船长：558 英尺</p>
+<p style="TEXT-INDENT:2em">
+	船宽：64 英尺</p>
+<p>
+	<img src="http://img.xixik.net/special/Section/p/001/xixik-titanic-95718a50844ea9c6.jpg" style="text-indent: 28px; margin: 10px; float: right; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	吨位：13555 英吨</p>
+<p style="TEXT-INDENT:2em">
+	引擎：两个蒸汽发动机（带动两个三叶螺旋桨）</p>
+<p style="TEXT-INDENT:2em">
+	操作航速：13.5 节</p>
+<p style="TEXT-INDENT:2em">
+	成员：1720 人</p>
+<p style="TEXT-INDENT:2em">
+	对<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>开的营救让卡帕西亚号和她的时任船长亚瑟·罗士强（Arthur H Rostron）闻名世界。由于他到达泰坦尼克号沉没地之前，积极努力，他有效的准备和幸存者的救援行为赢得广泛赞誉，然而也要感谢那位无线电报员。</p>
+<p style="TEXT-INDENT:2em">
+	1912年4月15日凌晨0：15，原本驶往地中海的卡帕西亚号邮轮收到了附近来自当时世界上最大邮轮——<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>开的求救信号。<a href="http://www.xixik.com/content/6ecc3f5fa30ff2c4" style="text-indent: 2em;">当时21岁的无线电报员罗尔德·考特姆</a>（Harold Cottam）正准备结束工作，上床睡觉。完成了当天的工作后，考特姆想再“随便收集些信息”。突然间，他收到似乎是来自<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>的电报信息。由于知道<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>上的电报员习惯“连轴转”，考特姆尝试着与其取得联系。事后证明，考特姆的这一闪念决定了<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>幸存者的命运。他随即收到来自<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>这一闻名世界求救信号：&#160;“Come at once. We have struck an iceberg. Latitude 41.46 North, Longitude 50.14 West.（立马过来，我们撞到冰山了。北纬41.46，西经50.14）”</p>
+<p style="TEXT-INDENT:2em">
+	考特姆收到的求救信息来自<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>上的电报员菲利普斯。他当时说：“我问他’是不是很严重’，菲利普斯说，是的老东西，这是无线求救信号。这是我们所处的位置，赶快报告，尽快赶来。”</p>
+<p style="text-indent: 2em;">
+	考特姆随后即刻与当晚负责观测的邮轮负责人报告了此事。但由于当时电报还是个“新玩意儿”，而<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>被号称为“永不沉没”，整个“卡帕西亚号”上的值班船员对这条信息满腹狐疑。</p>
+<p style="text-indent: 2em;">
+	考特姆说：“那条信息似乎没有说明白，泰坦尼克怎么那么快就沉船了。”</p>
+<p style="text-indent: 2em;">
+	考特姆说：“我然后马上冲到船长的卧舱，看见还没熄灯，我就一下子冲了进去。船长亚瑟·罗士强说’你说的是哪艘船？’我回答到’是<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>撞上冰了，先生。现在这艘船在求救，这是它的方位’。”</p>
+<p style="text-indent: 2em;">
+	考特姆回忆说，船长亚瑟·罗士强要过了电报，然后披上大衣出来，没有犹豫立刻命令船只掉头，全速驶往事发地点，那一晚卡帕西亚号达到了她航行史上的最高航速——17节，远超其预定航速。但尽管如此，卡帕西亚号依旧花费了4个小时才赶到了事发地点。</p>
+<p style="TEXT-INDENT:2em">
+	4月15日上午接近9点时，卡帕西亚号船长亚瑟·罗士强下令船只开往美国纽约并于18日晚间到达纽约的54号港口，所有的<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>开幸存者登岸。两天以后的20日，船长亚瑟·罗士强又再次下令重新驶向原先目的地地中海。</p>
+<p style="TEXT-INDENT:2em">
+	“卡帕西亚号”的全体船员受到表彰，船长亚瑟·罗士强还被封为“爵士”，并荣获美国国会金质奖章，1926年被任命为大英帝国的骑士指挥官，成为了卡纳德舰队司令，并于1931年退休，1940年去世。无线电报员考特姆1984年在老家路德汉姆去世，享年93岁，好人长命。</p>
+<p style="TEXT-INDENT:2em">
+	1947年，白星航运剩余的股份和船舶被竞争对手卡纳德公司全部购买，悬挂船旗的白星旗部分被取消。十年之后，连公司名称中的白星字样也被去掉。有戏剧性的是，当时<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>开海难事故发生之后，最先赶到现场救援的卡帕西亚号也是卡纳德公司旗下的。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor10"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        泰坦尼克号事故的后果和影响 </h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p>
+	<img src="http://img.xixik.net/special/section/c/001/xixik-titanic-ebc979fb4d35881d.jpg" style="float:right; margin:10px; width:400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>是人类的美好梦想达到顶峰时的产物，反映了人类掌握世界的强大自信心。她的沉没，向人类展示了大自然的神秘力量，以及命运的不可预测。到<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>沉没那天为止，西方世界的人们已经享受了100年的安稳和太平。科技稳定地进步，工业迅速地发展，人们对未来信心十足。<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>的沉没惊醒了这一切。这艘“永不沉没的轮船”——埃菲尔铁塔之后最大的人工钢铁构造物，工业时代的伟大成就，因为对自然的威力掉以轻心，满不在乎，所以在第一次处女航中就沉没了。<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>将永远让人们牢记人类的傲慢自信所付出的代价。人们永远也忘不了这幅画面：<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>在海底昂着头，残破和污迹也掩盖不了她的高贵。这就是她的归宿。历史就这样演变成了传奇。</p>
+<p style="TEXT-INDENT:2em">
+	“就是上帝亲自来，也弄不沉这艘船”，这是当时一个船员的直白，恐怕也是白星轮船公司自上而下的共识，如此狂躁与愚妄，表面看是“自信”，实质上是“骄傲、自大、狂妄、愚昧、浮躁、贪婪”的浓缩。当然，白星轮船公司为此所付出的惨重代价也就不足为奇了。这场灾难震惊了国际社会。因为它向一些人证明了：人和人们的技术成就无法于自然的力量相比。在当时的炼钢技术并不十分成熟，炼出的钢铁在现代的标准根本不能造船。<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>上所使用的钢板含有许多化学杂质硫化锌，加上长期浸泡在冰冷的海水中，使得钢板更加脆弱。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>沉没时的确使用了国际通用的摩尔斯电码遇难信号SOS，但这不是SOS 最早使用的例子。1909年美国汽船阿拉帕霍号成为第一艘发出SOS信号获救的海船。在1906年的柏林外的国际无线电通讯会议第一次提议了SOS信号。1908年国际社会认可了这个提议并慢慢开始广泛使用，这已经是<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>沉没的四年前了。然而，英国的无线电操作员很少使用SOS信号，他们更喜欢老式的CQD遇难信号。<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>的无线电首席官员约翰·乔治·菲利普一直在发送CQD遇难信号，直到下级无线电操作员哈罗德·布莱德建议他：发送SOS吧，这是新的呼叫信号，这也可能是你最后的机会来发送它了！然后菲利普在传统的CQD求救信号中夹杂SOS信号直到<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>沉没。求救信号最终在第二天早上被加利福尼亚号人收到错过了营救，因为她并没有24小时都监听无线电。不过，<a href="http://www.xixik.com/content/5068b8bb36121391" title="泰坦尼克号的激情与初生无线电通信的“冷漠”">求救信息幸运地被远在纽约的一位叫萨洛夫的人接收到</a>。他果断地通过无线电广播向全世界通报了这一消息。直到次日黎明，距离泰坦尼克号很远的“卡帕西亚号”才闻讯赶到。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>的沉没极大的影响了船的制造和无线电电报通讯。1913年12月12日，英国伦敦因此召开了第一届海上生命安全国际大会。大会制定的《国际海上生命安全公约》导致了国际冰山检测组织的形成和资金投入。该组织为美国海岸警卫队的下属部门，直到今天她还在检测和报告北大西洋的可能威胁航船的冰山。条约也一致达成一个新规定：所有的载人船只应该有足够的救生船来装载所有的在船上的人，并且适当的相关训练也应该进行。还有就是无线电通讯应该24小时开通，加上一个2级备用电源，这样就不会漏掉呼救的信号。条约也同意：从船上发送任何火箭必须被解释为一种求救信号。1914年1月，国际冰山巡逻队建立。监控重要航运路线的冰山情况。自从<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>海难后，北大西洋再未出现过轮船被冰山撞沉的事故。<a href="http://114.xixik.com/titanic/" style="color:#000" title="泰坦尼克号">泰坦尼克号</a>用血的教训让人们知道发展造船技术、钢铁材料技术的重要性，它甚至促进很多国家修改了航海条例，于人类文明的贡献不可斗量。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor11"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        白星三姊妹</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/special/section/c/001/xixik-titanic-bf232b3fd6144c36.jpg" style="float:right; width:400px;margin:10px;" /></p>
+<p style="TEXT-INDENT:2em">
+	第一艘新船在1908年12月16日在哈兰·沃尔夫船厂开工。与其他公司新船下水前名字保密的做法不同，白星公司很快公布了三艘船的名字——奥林匹克号（RMS Olympic）、泰坦尼克号（RMS Titanic）和巨人号（RMS Gigantic，泰坦尼克号海难后改名不列颠尼克，RMS Britannic）</p>
+<p style="TEXT-INDENT:2em">
+	<strong>“奥林匹克”号</strong></p>
+<p style="TEXT-INDENT:2em">
+	长度 882.90英尺（269.68 米）</p>
+<p style="TEXT-INDENT:2em">
+	宽度 92.60英尺（28.19 米）</p>
+<p style="TEXT-INDENT:2em">
+	吃水 34.40英尺（10.51 米）</p>
+<p style="TEXT-INDENT:2em">
+	吨位 45,324 载重吨/46,349 载重吨（1911/1913）</p>
+<p style="TEXT-INDENT:2em">
+	动力 24台双端及5台单端锅炉；2台往复式四缸三胀倒缸蒸汽机及一台低压蒸汽轮机，三螺旋桨，46000匹马力</p>
+<p style="TEXT-INDENT:2em">
+	航速 服务船速：21 节，极速：23 节</p>
+<p style="TEXT-INDENT:2em">
+	乘客 2764人（含船员）</p>
+<p style="TEXT-INDENT:2em">
+	<strong>泰坦尼克号</strong></p>
+<p style="TEXT-INDENT:2em">
+	长度 882.75英尺（269.06米）</p>
+<p style="TEXT-INDENT:2em">
+	宽度 92.50英尺（28.19米）</p>
+<p style="TEXT-INDENT:2em">
+	吃水 34.58英尺（10.54米）</p>
+<p style="TEXT-INDENT:2em">
+	吨位 46,328 载重吨</p>
+<p style="TEXT-INDENT:2em">
+	动力 24台双端及5台单端锅炉；2台往复式四缸三胀倒缸蒸汽机及一台低压蒸汽轮机，三螺旋桨，46,000匹马力</p>
+<p style="TEXT-INDENT:2em">
+	<span style="color:#ff0000;">航速 服务船速：21 节，极速：23 节</span></p>
+<p style="TEXT-INDENT:2em">
+	乘客 2435人（含船员）</p>
+<p style="TEXT-INDENT:2em">
+	<strong>“不列颠尼克”号</strong></p>
+<p style="TEXT-INDENT:2em">
+	<span style="color:#ff0000;">长度 903 英尺（275.8 米）</span></p>
+<p style="TEXT-INDENT:2em">
+	<span style="color:#ff0000;">宽度 94 英尺（28.7 米）</span></p>
+<p style="TEXT-INDENT:2em">
+	<span style="color:#ff0000;">吃水 34.8 英尺（10.9 米）</span></p>
+<p style="TEXT-INDENT:2em">
+	<span style="color:#ff0000;">吨位 48,158 载重吨</span></p>
+<p style="TEXT-INDENT:2em">
+	动力 两座三胀往复蒸汽机和一座蒸汽轮机，三螺旋桨&#160;</p>
+<p style="TEXT-INDENT:2em">
+	航速 21 节&#160;</p>
+<p style="TEXT-INDENT:2em">
+	<span style="color:#ff0000;">乘客 3069人（含船员）</span></p>
+<p style="TEXT-INDENT:2em">
+	嘻嘻网备注：<span style="color:#ff0000;">文字加红</span>，表示三者对比最大者。</p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://www.xixik.com/content/436aa55373822c01">奥林匹克号和泰坦尼克号调包绝无可能</a></strong></p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/cimg/027/xixik_1906e498a6a6bdf2.jpg" style="margin: 10px; float: right; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	在泰坦尼克号沉没的阴谋论里，奥林匹克号和泰坦尼克号调包很有市场，其最重要的原因是，<a href="http://www.xixik.com/content/a8074f6dd91c0dfb">这俩姊妹实在是太像了</a>。但这是外行人的看法，对于奥林匹克号和泰坦尼克号迷们来说实在是太好区分了。比如：奥林匹克号B甲板是散步走廊，而泰坦尼克号B甲板的散步走廊则改成了私人阳台，A层和B层的外观泰坦尼克号和奥林匹克号是不一样的，奥林匹克号A层走廊全部由廊柱支撑，而泰坦尼克号A层走廊一多半由廊柱支撑，其余的是舷窗。奥林匹克号B层散步甲板廊柱支撑部分多于泰坦尼克号。 诚然两者的很多的内部结构是一模一样的，但是细节与部分的地方还是有区别的。当保险公司傻么？</p>
+<p style="TEXT-INDENT:2em">
+	所以沉在大西洋的是泰坦尼克号绝对没错，第一第二，这个是英国某电视节目搞出的阴谋论而已。另外白星公司根本没必要把两船互换，奥林匹克号也是1911年左右下的水，奥林匹克级可是白星航运的新血，当年奥级邮轮可是白星航运的宝贝，要骗保险为什么不拿荷马时代号，亚得里亚海号去骗？没事干为什么要无缘无故牺牲一艘自己船队的大的新船？保险赔付除了弥补损失，赔偿死难家属，还能落下几个钱？商誉呢？</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/2f466a90ee2630fc"><strong>神勇无敌的奥林匹克号传奇</strong></a></p>
+<p style="TEXT-INDENT:2em">
+	在服役的20多年间奥林匹克号，不但屡屡搭救落难船只，而且还撞击过多艘商船和军舰，甚至还撞沉过敌军潜艇这样的传奇故事。</p>
+<p style="TEXT-INDENT:2em">
+	1918年4月24日，处在一战尾声，奥林匹克号从纽约返回英国，进行第22次运送士兵的任务。其时美国已经参战。5月6日在英吉利海峡，船上瞭望员突然发现右舷有一艘德国潜艇——U103号。由于迷彩伪装的缘故，潜艇长并未及时发现奥林匹克号。奥林匹克号向U103开炮，惊动了德国人。艇长鲁克尉下令紧急下潜。但是动作慢了些。46539吨的奥林匹克号很快追上，尖利的船头把这艘800吨的潜艇劈成了两半，算为被德国潜艇击沉的不列颠尼克号报了仇。U103沉没之后，奥林匹克号扬长而去，附近的美国驱逐舰戴维斯号闻讯赶来，捞起了31名德国幸存者。这次，海斯船长和发现德国潜艇的瞭望员受到了英国官方的表彰。</p>
+<p style="TEXT-INDENT:2em">
+	在所有的这些“撞船对决”中，奥林匹克号均取得全胜。她是三姊妹中唯一善终的，是被拆解，而不是沉没。1935年，奥林匹克号拆解后，船上的豪华装饰出售给英国的一家旅馆。现在，在英格兰阿尔尼克的“白天鹅旅馆”，人们还可以看到昔日奥林匹克号上面的一些东西——头等舱的沙发，雕花的铅玻璃窗子、铜柱大床、窗帘和帷幔等等。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/542a4a7c5e8a2dfa" title="白星三姊妹：奥林匹克、泰坦尼克、不列颠尼克"><strong>白星三姐妹的命运</strong></a></p>
+<p style="TEXT-INDENT:2em">
+	泰坦尼克号（RMS Titanic）：1912年04月15日，处女航中，因撞上冰山而沉没于大西洋；</p>
+<p style="TEXT-INDENT:2em">
+	奥林匹克号（RMS Olympic）：1935年10月11日，被拆解，船上的豪华装饰出售给英国“白天鹅旅馆”。</p>
+<p style="TEXT-INDENT:2em">
+	不列颠尼克号（RMS Britannic）：1916年11月21日，在它的第五十次航行中被撞出一个大洞，在55分钟内进水沉没于地中海。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor12"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        泰坦尼克号的乘客们</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="text-indent: 2em;">
+	为头等舱乘客服务的8人乐队在指挥华莱士·哈特利的带领下，站在救生艇入口的阶梯附近为撤离泰坦尼克号的乘客继续演奏轻快的爵士乐和庄严的圣歌《上帝与我们同在》，以安抚这些绝望的人们，直到最后一刻。</p>
+<p style="text-indent: 2em;">
+	<a href="http://www.xixik.com/content/0b7c298ab50293ad" title="1997版《泰坦尼克号》海难亲历者的真实人生"><strong>97版电影《泰坦尼克号》中的名流与史实</strong></a></p>
+<p style="text-indent: 2em;">
+	<span arial="" style="color: rgb（0, 0, 0）; font-family: SimSun, ">泰坦尼克号船上的乘客包括像百万富翁约翰·雅各布·阿斯托四世，本杰明·古根海姆及伊西斯特劳斯这样世界上最富的一些人，也有来自爱尔兰，斯堪的纳维亚半岛及其他地方要去美国寻找新生活的移民。这一灾难震惊全世界，面对巨大的死亡人数人们震怒了，管理及经营上的失败导致了这一灾难。</span></p>
+<p style="text-indent: 2em;">
+	而电影《泰坦尼克号》中除了Jack和Rose一家以及和他们有关的仆人等，其余人物基本都是真的。包括船长爱德华史密斯（其形象还原度极高），设计师托马斯安德鲁斯，白星客轮公司常务董事布鲁斯·伊斯梅（最后趁机溜上救生艇的那位，历史上的他生还后饱受社会舆论谴责，在孤独中度过余生），大副默多克（最后面向人群自杀的那位），那个new money布朗女士（最后在救生船上呼吁大家救人的，真有其事，她一直被誉为"永不沉没的布朗"），另外，Rose向Jack介绍的名流全部是真实存在的。</p>
+<p style="text-indent: 2em;">
+	1、约翰·雅各布·阿斯托四世（John Jacob Astor IV）</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/special/Section/p/001/xixik-titanic-634929dade11e5fd.jpg" style="margin: 10px; float: right; width: 400px;" /></p>
+<p style="text-indent: 2em;">
+	他就是那个带着”试图掩饰怀孕的”年轻妻子乘船的先生，是泰坦尼克号上唯一的亿万富翁，也是当时全世界最富的人之一。他当时拥有的资产大约是8700万美元，相当于现在的21.3亿美元。他的妻子玛德琳·塔尔梅奇（Madeleine Talmage Force），是他的第二任妻子，他们结婚的时候阿斯托已经47岁了，他比妻子大29岁。这段婚姻在当时饱受争议，自1911年9月结婚以来一直在到处游历，夫妻俩决定先去欧洲度蜜月，<span arial="" style="color: rgb（0, 0, 0）; font-family: SimSun, ">希望美国本土对“老牛吃嫩草”的风言风语能够尽快过去</span>再回国。可是<span arial="" style="color: rgb（0, 0, 0）; font-family: SimSun, ">玛德琳</span>在欧洲怀孕了，他们希望自己的孩子在美国出生（那时候就希望赴美生子了？不过，确实符合美国宪法），于是准备乘泰坦尼克号回国。在船上的美国名流中，只有Margaret Brown对他俩很友善。当灾难来临的时候，他询问负责救生艇的船员可否陪同正怀着身孕的妻子马德琳上艇，船员说了一句“妇孺先上”之后，他就像一个真正的绅士一样，回到甲板，安静地坐在那里，直到轮船沉没。</p>
+<p style="text-indent: 2em;">
+	几天之后，在“泰坦尼克号”沉没的那段大西洋海面上，人们发现了约翰·雅各布·阿斯托的尸体，浑身都是煤烟，而且已被砸扁了。人们猜测可能他被船上倒下的大烟囱砸著了。在他的上衣兜里，还揣著2500美元现金兑现支票。这2500美元，对于船员来说是天文数字，当时船上一个水手的月薪还不到20美元。但阿斯德没有用这些钱去贿赂任何船员以上艇逃生。而即使他那么做，大概也不会有水手接受。</p>
+<p style="text-indent: 2em;">
+	幸存者、船上理发师奥古斯特·韦科曼回忆，当时他和阿斯托先生在甲板上呆了一会儿，聊着只有在理发椅上才谈的小事情。临别时，韦科曼问阿斯托：“你介不介意我和你握个手？”阿斯托说：“我很高兴。”这是乘客们听到的这个亿万富翁的最后一句话。</p>
+<p style="text-indent: 2em;">
+	可是，他的死却造成了他妻子一生的痛苦。因为在他的遗嘱上曾经有这样一条规定，如果他妻子玛德琳在他死后改嫁他人，则她将不会继承到他的任何遗产。他没有想到，自己这么快就死了。后来，玛德琳还是改嫁了，但是第二次的婚姻最终以失败告终。在随后的第三次婚姻中，她又成了家暴的受害者，成为一名意大利拳击手的家用沙包。在1940年孤独死去之前，她曾经对人们说：“泰坦尼克之殇已经深入我的骨髓。”她最终自杀离世。</p>
+<p style="text-indent: 2em;">
+	<a href="http://www.xixik.com/content/df4d6c7a72dca4fd" target="_blank" title="泰坦尼克号沉没百年纪 历史真实或没那么感人">泰坦尼克号沉没百年纪 历史真实或没那么感人</a></p>
+<p style="text-indent: 2em;">
+	2、本杰明·古根海姆（Benjamin Guggenhein）</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/001/xixik_80841b5d985395c1.jpg" /></p>
+<p style="text-indent: 2em;">
+	当人们惊慌的向外逃窜的时候，他穿着最好的衣服逆人流而行，回到大楼梯，向侍者索要一杯白兰地。他是世界著名管道大亨本杰明·古根海姆。看到这一幕的时候大家一定对这个人物充满敬佩。而真实的他是一样的沉着坚毅。刚开始和所有人一样，他大大低估了船受损的程度，但是当他意识到沉没不可避免时，他带着他的男仆回到包间，换上了全套的晚礼服来到大楼梯，说出了电影中的那句台词："We've dressed up in our best and are prepared to go down like gentlemen."他还让一个幸存者捎信给他的妻子："告诉我的妻子，要是我和我秘书的注定要淹死，那我只能奉陪到底。告诉她，没有哪一个女人会因为我是一个胆小怕死的懦夫而被赶下救生艇！"</p>
+<p style="text-indent: 2em;">
+	3、伊西斯·斯特劳斯（Isidor Straus）</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/cimg/001/xixik_1ec315b36f2ca2b6.jpg" style="height: 531px; width: 400px;" /></p>
+<p style="text-indent: 2em;">
+	下面个镜头一定令人印象深刻，这是轮船沉没时的一组特写中的一个——电影《泰坦尼克号》中躺在正在入水的套房床上相互拥抱的老年夫妇，原型就是斯特劳斯夫妇——伊西斯·斯特劳斯（Isidor Straus）和他的妻子罗莎莉（Rosalie Ida Blun）。斯特劳斯是美国梅西百货的创始人，地位就不必赘述了。63岁的斯特劳斯夫人刚上8号救生艇，又马上改变主意，回来和斯特劳斯先生待在一起。“这么多年来我们都生活在一起，你要去的地方，我也去！”她把自己在艇里的位置给了一个年轻的女佣，并把自己的皮毛大衣甩给她，说：“我再也用不着它了！”当有人向67岁的斯特劳斯先生提出，“我保证不会有人反对像您这样的老先生上小艇……”斯特劳斯坚定地回答：“我绝不会在别的男人之前上救生艇。”太太拒绝登上8号救生艇，她说，：我不会离开我的丈夫。我们一同生活，也让我们一同死去。"（I will not be separated from my husband. As we have lived, so will we die, together." ）目击者形容，"这是对爱和奉献最好的表达。"然后这位老先生挽着太太的手臂，一对老夫妇蹒跚地走到甲板的藤椅上坐下，等待着最后的时刻。</p>
+<p style="text-indent: 2em;">
+	纽约市布朗区矗立着一座为斯特劳斯夫妇修建的纪念碑，上面刻着：“再多的海水都不能淹没的爱（Many waters cannot quench love, neither can the floods drown it）。”</p>
+<p style="text-indent: 2em;">
+	4、玛格丽特·布朗（Margaret Brown）</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/special/Section/p/001/xixik-titanic-9b93deafb1a8feab.jpg" style="width: 400px; height: 601px;" /></p>
+<p style="text-indent: 2em;">
+	她可能是泰坦尼克上最有名的乘客了。她在灾难面前表现出来的沉着和善意温暖不仅拯救了很多乘客的生命，也温暖了许多后世的人。几乎所有的泰坦尼克号题材的影视作品都会忠实的还原这个人，1997年的《泰坦尼克号》也是一样，而帮Jack找衣服的桥段更是丰富了她善良和蔼的形象。被人们称为 永不沉没的毛莉·布朗。"the Unsinkable Molly Brown."</p>
+<p style="text-indent: 2em;">
+	<strong>5、艾丽诺·魏登纳</strong></p>
+<p style="text-indent: 2em;">
+	为悼念遇难的儿子和丈夫，艾丽诺·魏登纳太太在1914年以儿子的名义捐赠给哈佛大学200万美元（这在当今大概相当于20亿美元），建立一座现代化的图书馆（Harry Elkins Widener Memorial Library）。这在当时是一笔巨额捐款，到现在为止，哈佛大学图书馆仍然是世界上最大的大学图书馆，藏书多达1500万卷。</p>
+<p style="text-indent: 2em;">
+	魏登纳太太对于捐款附带了三个条件，其中一条是要求所有使用过魏登纳图书馆的学生在毕业时必须通过学校的游泳考试。因为魏登纳太太认为，如果自己的儿子会游泳，则有可能生还的。这条规定一直到60年代才被废除，因为它对残疾人很不公平。</p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://www.xixik.com/content/2df05de23ae3d9e2">他们躲过了泰坦尼克号的灾难</a></strong></p>
+<p style="TEXT-INDENT:2em">
+	泰坦尼克号的沉没，夺走了约1500条生命，其中不乏一些20世纪初的名流大亨。工业巨头约翰·雅各布·阿斯特四世和本杰明·古根海姆都与船俱殒，同遭不幸的还有梅西百货的共同所有人伊西多·施特劳斯及其妻子（她拒绝离开他的左右）。深受欢迎的美国推理作家杰克·福翠尔、美国画家雕塑家弗朗西斯·米勒、时任美国总统塔夫脱的好友兼侍从阿奇博尔德·布特少校、资深报人斯特德、炮兵少校巴特、著名工程师罗布尔等都罹难。</p>
+<p style="TEXT-INDENT:2em">
+	不过也有一些本来要乘坐泰坦尼克号的名人因某些原因未能上船，从而躲过了这场悲惨的事故。这些幸运的名人包括：</p>
+<p style="TEXT-INDENT:2em">
+	<strong>西奥多·德莱赛</strong></p>
+<p style="TEXT-INDENT:2em">
+	德莱赛是美国著名现实主义小说家，代表作有《嘉莉妹妹》、《珍妮姑娘》、《美国悲剧》。1912年4月，40岁的德莱赛准备乘坐泰坦尼克号从欧洲返回美国，一名英国出版商劝说他放弃这个计划，乘坐更为便宜的游轮。1913年，德莱赛在回忆录《40岁的旅行者》中提到了这一事件。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>古列尔莫·马可尼</strong></p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/special/Section/p/001/xixik-titanic-57f98cf683a56fd7.png" /></p>
+<p style="TEXT-INDENT:2em">
+	马可尼电报以意大利发明家吉列尔莫·马可尼（Guglielmo Marconi）命名。马可尼是无线电报的先驱，1909年诺贝尔物理学奖获得者，当时航船配备无线电通讯室，便以马可尼命名，称马可尼室；“马可尼”与“无线电报”几乎是同义词。白星航运公司为这位发明家提供泰坦尼克免费处女航船票，他却因工作原因搭乘另一艘游轮，侥幸躲过一劫。然而他的发明挽救了泰坦尼克号约七百乘客的生命，所以事后更获“英雄发明家”殊荣。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>弥尔顿·斯内夫利·赫尔希</strong></p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/special/Section/p/001/xixik-titanic-42a9e924d2bb9176.png" /></p>
+<p style="TEXT-INDENT:2em">
+	赫尔希是好时巧克力公司的创始人，1912年他计划乘坐泰坦尼克号从法国返美，还曾在1911年12月预付了一部分船票。幸运的是，赫尔希在美国的生意出了问题，他和妻子乘坐早些出发的亚美利加号返回美国。亚美利加号是在泰坦尼克号沉船事故发生前，向泰坦尼克号发出冰山预警的几艘游轮之一。&#160;</p>
+<p style="TEXT-INDENT:2em">
+	<strong>J·皮尔庞特·摩根</strong></p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/special/Section/p/001/xixik-titanic-d9e18e6289dd38c6.jpg" /></p>
+<p style="TEXT-INDENT:2em">
+	摩根有“华尔街的拿破仑”之称，曾帮助建立了通用电气公司和美国钢铁公司，几乎在1907年金融危机中只手拯救了美国银行业。摩根在泰坦尼克号处女航的名单之上，但他没有登船，而是在法国度假。对了，J·皮尔庞特·摩根是泰坦尼克号真正的主人。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>亨利·克莱·弗里克</strong></p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/special/Section/p/001/xixik-titanic-7262fe2a62051a68.png" /></p>
+<p style="TEXT-INDENT:2em">
+	弗里克是彼得堡钢铁业大亨，也是摩根的商业合伙人。弗里克取消了泰坦尼克号的行程，因为他的妻子扭伤了脚踝，不得不在意大利住院。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>阿尔弗雷德·范德比尔特</strong></p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/special/Section/p/001/xixik-titanic-1066a77e9dabfcaf.png" style="height: 540px; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	1912年，34岁的范德比尔特是千万富翁，范德比尔特制船和铁道帝国的继承人。当时他准备从欧洲返回美国，在泰坦尼克号起航前一刻取消了行程，因此一些比较早的事故报道将他列在了遇难者名单里。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>约翰·R·莫特</strong></p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/special/Section/p/001/xixik-titanic-bb198ce5a2d68667.jpg" /></p>
+<p style="TEXT-INDENT:2em">
+	莫特，世界青年基督联合会主席，著名传教士，1946年获诺贝尔和平奖。一位对他们的工作颇感兴趣的白星航运公司官员为他及其同事提供了免费的泰坦尼克号之旅，但他们拒绝了好意，而是搭乘了更低廉的邮轮“拉普兰德”号。莫特后来认为，“这一切都是上帝的旨意”，“仁慈的上帝一定还有更多的工作留给我们去做”。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>乔里·奥昆纳</strong></p>
+<p style="TEXT-INDENT:2em">
+	乔里·奥昆纳，英国著名的实业大亨。他在泰坦尼克号启航前一周放弃泰坦尼克号的首航船票，原因是做了一怪梦，梦中看见泰坦尼克号翻沉了，乘客和船员在船四周的水里游泳求生。大家听了都十分好笑，奥昆纳相信自己的预感，最终也没再次申请买船票。</p>
+<p style="TEXT-INDENT:2em">
+	海难发生的下午，加拿大的墨根牧师因为准备礼拜内容而打盹，也作了和乔里那一样的梦：巨轮航行于黑暗的海面，突然，天空转暗，在迷雾中撞上冰山，甲板上充满了挣扎，嚎啕的人们，大家争先恐后的登上救生艇，最后，巨轮倾斜着沉入海底，甲板上传出赞美歌。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>订了该船下一航次的著名乘客</strong></p>
+<p style="TEXT-INDENT:2em">
+	按计划，泰坦尼克号的返英之旅将于4月20日启航。更多著名人物显然预订好了此旅，他们中有：</p>
+<p style="TEXT-INDENT:2em">
+	1、亨利·亚当斯，祖上出过两位美国总统，《亨利·亚当斯的教育》的作者。</p>
+<p style="TEXT-INDENT:2em">
+	2、约翰·埃尔登·迪克斯，纽约州州长。</p>
+<p style="TEXT-INDENT:2em">
+	3、布鲁斯·伊斯梅，白星航运公司常务董事。泰坦尼克号海难的幸存者，在诸多报道中，伊斯梅都被描写成一个恶棍，一是因为该船救生艇不足，二是因为他上艇自保。</p>
+<p style="TEXT-INDENT:2em">
+	4、马可尼。由于错过了处女航，马可尼显然不会再错过第二次机会。</p>
+<p style="TEXT-INDENT:2em">
+	5、弗兰克·塞柏林，固特异轮胎橡胶公司的创始人。</p>
+<p style="TEXT-INDENT:2em">
+	其他一些将要成行的乘客甚至预订了更后的航次。例如，JC·彭尼（J.C. Penny）是以其名字命名的百货连锁店的创始人，他就准备在泰坦尼克号下一次从英国渡海来美国时乘坐。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor13"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        泰坦尼克号的高级船员们</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	“泰坦尼克号”共载运2207人，其中乘客1316人，船员891人。除了登上救生艇的711人幸存外，其余1796人葬身冰海。</p>
+<p style="text-indent: 2em; text-align: center;">
+	<img src="http://img.xixik.net/special/Section/p/001/xixik-titanic-0f00bf8e05278772.jpg" /></p>
+<p style="text-indent: 2em; text-align: center;">
+	在<a href="http://news.xixik.com/zt/titanic/" style="color: #000;" title="泰坦尼克号">泰坦尼克号</a>出行前，船长和众高级船员合影，这也是他们此生最后一次合影</p>
+<p style="TEXT-INDENT:2em">
+	<strong>船长：爱德华·史密斯</strong>（Edward Smith）</p>
+<p style="TEXT-INDENT:2em">
+	白星公司声孚众望的老船长，有37年的海龄，他曾是“奥林匹克号”的船长，本该退休，但按公司的老规矩，“泰坦尼克号”的首航还是由他来掌舵。</p>
+<p style="TEXT-INDENT:2em">
+	4月15日凌晨2时17分，此时离泰坦尼克号被撞击已经过去了两个半小时，史密斯船长对船员说：“现在大家要靠自己了。”之后步往舰桥，等候与泰坦尼克号同归于尽。在对泰坦尼克号的的研究中，昆士兰理工大学行为经济学家大卫·萨维奇发现，很多英国乘客为了保持绅士风度，排队等候救生艇，结果失去最后的机会而葬身大海。爱德华七世时代是社会上推崇绅士风度的巅峰时代。即使在最后关头，史密斯船长还大声提醒英国男人：“男人们，别忘了我们是英国人！”后来他殉船身亡，人们对他的评价也毁誉不一，有人说他是个英雄，也有人说他狂傲自负，才酝此惨祸。爱德华死后，人们在他的家乡为他立了一尊雕像。</p>
+<p style="TEXT-INDENT:2em">
+	船长外的高级船员，按照行业规矩，分别为：大副、一副、二副、三副、四副、五副、六副。</p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<th>
+				职位</th>
+			<th>
+				英文名</th>
+			<th>
+				中文名</th>
+			<th>
+				英文名</th>
+		</tr>
+		<tr>
+			<td>
+				船长</td>
+			<td>
+				Captain&#160;Offier</td>
+			<td>
+				爱德华·约翰·史密斯</td>
+			<td>
+				Edward John Smith</td>
+		</tr>
+		<tr>
+			<td>
+				大副</td>
+			<td>
+				Chief Offier</td>
+			<td>
+				亨利·廷尔·怀尔德</td>
+			<td>
+				Henry Tingle Wilde</td>
+		</tr>
+		<tr>
+			<td>
+				一副</td>
+			<td>
+				First Officer</td>
+			<td>
+				威廉·麦克马斯特·默多克</td>
+			<td>
+				William McMaster Murdoch</td>
+		</tr>
+		<tr>
+			<td>
+				二副</td>
+			<td>
+				Second Officer</td>
+			<td>
+				莱托勒</td>
+			<td>
+				C.Lightoler</td>
+		</tr>
+		<tr>
+			<td>
+				三副</td>
+			<td>
+				Third Officer</td>
+			<td>
+				皮特曼</td>
+			<td>
+				H.Pitman</td>
+		</tr>
+		<tr>
+			<td>
+				四副</td>
+			<td>
+				Fourth Officer</td>
+			<td>
+				巴斯赫</td>
+			<td>
+				J.Boxhall</td>
+		</tr>
+		<tr>
+			<td>
+				五副</td>
+			<td>
+				Fifth Officer</td>
+			<td>
+				罗伊</td>
+			<td>
+				M.lowe</td>
+		</tr>
+		<tr>
+			<td>
+				六副</td>
+			<td>
+				Sixth Officer</td>
+			<td>
+				穆迪</td>
+			<td>
+				Crsied Moddy</td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT:2em">
+	<strong>大副：亨利·怀尔德</strong>（又译王尔德，Henry Tingle Wilde ）</p>
+<p style="TEXT-INDENT:2em">
+	时年39岁，怀尔德在利物浦长大，他最初在一家公司的帆船上工作，获得二副证书后在马兰汉汽船公司工作，最后他作为一名高级船员去了白星公司，大多数时候跑从利物浦到纽约的航线。他曾在Merdic号上工作（一副和二副也上过这艘船），最后他来到奥林匹克号上。他本来不会登上泰坦尼克号，但临时的人事调动让他成了大副，于是他经历了这场海难，沉船时不幸身亡，尸体未被发现。他在1910年失去了他的妻子玛丽和一对双胞胎儿子。之后一直没能再次结婚，最后留下四个孩子。另外证明怀尔德给船员发枪的决定被证明是正确的，乘客一旦失控，后果不堪设想。</p>
+<p style="TEXT-INDENT:2em">
+	很多资料把默多克当作大副，事实上是一副。</p>
+<p>
+	<img src="http://img.xixik.net/special/Section/p/001/xixik-titanic-eab53f2c45853ae1.jpg" style="text-indent: 28px; margin: 10px; float: right; width: 400px;" title="船长Edward John Smith在出发前的留影，，他与这艘梦之船一起沉入了冰冷的大西洋" /></p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://www.xixik.com/content/fe1ebc8d3ca31dc1">一副：默多克·威廉</a></strong>（又译莫道克，William McMaster Murdoch）&#160;&#160;</p>
+<p style="TEXT-INDENT:2em">
+	时年39岁，苏格兰人，沉船时不幸身亡。默多克出生于苏格兰的一个海员世家，他的父亲、爷爷和他祖父辈的四个兄弟都是船长。他在结束学业后就南下利物浦当了水手，他本来要在一艘帆船上干五年，但在他的第四年，他就以一次通过的方式考到了二副证书。他曾遭遇过海上飓风，也跟随轮船跑过纽约到上海的航线。后来他加入白星公司，在Merdic号上遇到莱托勒。他在泰坦尼克之前的最后一艘船也是奥林匹克号。他的在Runicin号上遇到了他的妻子艾达，她是新西兰人，搭乘去悉尼的船，中途在英国停留。在默多克去世后，艾达回到新西兰的基督城，和父亲、妹妹住在一起。他的昵称是“威尔”和“威利”。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>二副：赖托勒</strong>（C.Lightoler）&#160;</p>
+<p style="TEXT-INDENT:2em">
+	时年38岁，英格兰兰开夏郡人，幸存获救。在“泰坦尼克号”行将沉没时，乘最后一艘救生艇离开甲板，并组织有效的救援工作。</p>
+<p style="TEXT-INDENT:2em">
+	莱托勒13岁时做了水手，在几次险情中幸存，并且考取了高级船员的证书。在1898年他离开了海员行业去加拿大淘金，还在短暂的一段时间内做过牛仔，不过他（似乎）事业不顺，又回到英国捡起了水手的行当，在1900年加入白星公司。他是泰坦尼克号海难中幸存的最高级别的船员，在海难后他参加了一战。他在二战的敦刻尔克大撤退中帮着救出了一些士兵，他在二战中失去了两个儿子。他本人死于1952年的伦敦烟雾，死因是心脏病。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>三副：皮特曼</strong>（H.Pitman）&#160;</p>
+<p style="TEXT-INDENT:2em">
+	&#160;时年34岁，英格兰索梅塞特郡人，指挥5号救生艇，后幸免于难。皮特曼原本立即命令回去救人，但是受到乘客的阻拦作罢。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>四副：巴斯赫</strong>（J.Boxhall）&#160;&#160;</p>
+<p style="TEXT-INDENT:2em">
+	&#160;时年28岁，后来获救。1958年被麦克奎特相中，应邀担任影片《冰海沉船》的技术顾问。巴斯赫于1967年去世。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>五副：哈罗德·戈弗雷·罗伊</strong>（又译洛维，Harold Godfrey Lowe）</p>
+<p style="TEXT-INDENT:2em">
+	时年29岁，英国威尔士人，后来获救。&#160;14岁时，他的父亲坚持要他去经商，但罗伊却一心想出海，于是他偷偷离家出走，如愿以偿地加入了英国商船队。1908年，他进入白星公司，并于1912年被调到泰坦尼克号上。虽然之前已经当了多年的海员，但这次却是他的第一次跨大西洋航行。五副罗伊当时也不当班，他睡得很死，撞船的振动也没有影响到他，是舱外的嘈杂声把他吵醒，他迅速来到甲板上参与了救生艇的释放工作。当罗伊和穆迪正准备放下14号和16号救生艇时，一大群绝望的男乘客蜂拥而上想要抢先逃跑，于是莱托勒命令两人各自负责一条艇，而穆迪则让罗伊指挥14号艇先走。罗伊一边让妇孺上船，一边掏出莱托勒给他的手枪朝天开了三枪，暂时缓和了局面。</p>
+<p style="TEXT-INDENT:2em">
+	罗伊在泰坦尼克号海难事件中最让人钦佩的是后来船沉没后也跟皮特曼一样立即命令回去救人，但是同样受到乘客的阻拦，不过罗伊没有被难住：他急中生智，将4号、10号、12号、14号救生艇和D号折叠艇集中在一起，腾出14号艇轻装上阵去救人。但是转移工作花了不少时间，导致罗伊最后只从水里捞起了6个人（其中1个很快就死了），稍后他又从快下沉的几艘折叠艇上救走了所有幸存者。他指挥的14号救生艇是唯一返回沉船现场进行施救的救生艇。由此他被人们视为英雄</p>
+<p style="TEXT-INDENT:2em">
+	当罗伊回到他的家乡小镇巴茅斯时，有1300人出席了为他举行欢迎会。一个纪念金表上面写着“向哈罗德·戈弗雷·罗伊，向泰坦尼克上的五副致敬”。次年他结婚，他后来继续航海，一战爆发后，罗伊出任英国皇家海军储备。升任到指挥官军衔后退役。直到1944年5月12日因高血压病逝安葬在兰德里洛威尔士教区教堂，享年61岁。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>六副：穆迪</strong>（Crsied Moddy）&#160;</p>
+<p style="TEXT-INDENT:2em">
+	时年25岁，实习高级船员，不幸身亡。五副罗伊能活下来是因为六副穆迪把位置让给他了。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>无线电报报务员 ：</strong>杰克·菲利普斯（Jack Philips）&#160;</p>
+<p style="TEXT-INDENT:2em">
+	时年25岁，马可尼电报公司的资深职员，曾在多艘轮船上做过报务员，他穿着马可尼电报公司的制服，并不享受船员的特遇。</p>
+<p style="TEXT-INDENT:2em">
+	当船体下沉速度明显加快，舰桥即将被淹没，船长示意电报员离开岗位逃生，而电报员菲利普斯无动于衷，继续向着茫茫大海发送SOS求救信号。直到生命的最后一刻，他也重复着这个动作，任凭海水没过指尖，没过胸前。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>邮轮总设计师：托马斯·安德鲁</strong></p>
+<p style="TEXT-INDENT:2em">
+	船上第三号最高管理者、造船师安德鲁斯，毫无逃生的意念，他在最后的时刻，还痛悔地对一个女服务员说：“孩子，我没有给你造一条不会沉没的船。”虽然他并不是设计师，沉船并不是他的责任。但面对那么多妇女儿童和船员要随着“<a href="http://news.xixik.com/zt/titanic/" style="color: #000;" title="泰坦尼克号">泰坦尼克号</a>”沉入海底，作为一个男人，一个具有拯救责任的男子汉，他无法再活下去，他要用生命这样巨大的代价，表达他的痛悔，他的尊严，他的负责到底的人道情怀。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/9ac21b8645fdc417"><strong>白星航运公司常务董事：布鲁斯·伊斯梅</strong></a></p>
+<p style="TEXT-INDENT:2em">
+	白星航运公司（泰坦尼克号的船东）的常务董事约瑟夫·布鲁斯·伊斯梅（J. Bruce Ismay）在船只下沉时，挤上了右舷倒数第三只载着妇女儿童的救生艇，这使他随后成为了“世上最受争议的人”，这使他的下半辈子背负了永久的骂名。可恶的是伊斯梅后来还坚称，待他坐上救生艇时，泰坦尼克号的甲板上已经空无一人了，这更让他遗臭万年。</p>
+<p style="TEXT-INDENT:2em">
+	在<a href="http://news.xixik.com/zt/titanic/" style="color: #000;" title="泰坦尼克号">泰坦尼克号</a>上，是否具有存活的权利在于乘客本人的身份。伊斯梅辩称自己既不是船长，也不是船上的工作人员，而只是一个普通的头等舱乘客，因此，他有权利拯救自己。然而，当人们发现他既没有为船票付钱，同时又是以终身董事的身份登船时，他的这份辩解顿时显得苍白无力。根据英国听证会对泰坦尼克号的调查，伊斯梅当时是该船的“名誉船长”。</p>
+<p style="TEXT-INDENT:2em">
+	在前来救援的卡帕西亚号上，当其他获救者在地板上或者桌面上休息的时候，他则在一间单独的船舱内，黯然神伤，浑身颤抖。在这之后，他的夫人在他面前再也不能提到有关“泰坦尼克”的字眼，他变得郁郁寡欢，过起了隐居的生活。有人曾看见他租了一整节车厢去旅行，也有人看到他在公园的长椅上与那些流浪汉聊天。1937年10月17日，因为脑血栓发作，伊斯梅于伦敦梅费尔去世。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor14"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        泰坦尼克号花絮</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p>
+	<img src="http://img.xixik.net/special/section/c/001/xixik-titanic-412e2e331e2f1b48.jpg" style="float:right; margin:10px; width:400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/8f069c135b7d5a3a" title="你知道泰坦尼克号的4个烟囱里有一个是假的吗？"><strong>泰坦尼克号四个烟囱中一个是装饰</strong></a></p>
+<p style="TEXT-INDENT:2em">
+	泰坦尼克的四个烟囱是在别处建造的，然后运抵造船厂安装到泰坦尼克的上面。四个大烟囱中前面三个是用来排放烟和废气的，而离船尾最近的那一个是用来排放餐厅、厨房的废气的，可以说没有什么作用（看图，第四个烟囱并不冒烟），但是英国人为了显示泰坦尼克号的雄伟和强大（毕竟那是蒸汽机时代），和自己国家强大的造船技术，就加了一个烟囱，其实就是为了展示自己的国力。毕竟那时候英国还是“日不落帝国”。为了航行过程中排烟顺畅，烟囱呈现80度的倾斜角，而且四根烟囱高度全部不同，三号烟囱最高，四号烟囱稍矮于三号，其次是二号烟囱，一号烟囱最矮。</p>
+<p style="TEXT-INDENT:2em">
+	其实烟囱是个落后的产物，比如后来泰坦尼克号姊妹船奥林匹克号的动力由燃煤改为燃油后。29个大锅炉被拆了下来，换成油柜——从此再也不会有煤灰落到头等舱乘客的脸上，随船医生的工作也清闲了很多，因为他以前的主要工作就是从满是眼泪的乘客眼睛中弄掉煤灰。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/46aef98e72772bf6" title="泰坦尼克号上有8名中国人 6人获救1个还受尊重"><strong>泰坦尼克号上有8名中国人 6个人获救</strong></a></p>
+<p style="TEXT-INDENT:2em">
+	白星公司记下了所有乘客的姓名。八个中国人的名字如下：Fang Lang、Lee Bing、Ali Lam、Chang Chip、Choong Foo、Lee Ling、Ling Lee和Len Lam。但长久以来，国外媒体对八个中国乘客的英文名字拼法争议不断。直到记者在美国国家档案馆里查到他们的繁体中文签名，但只有四份，分别是：钟捷、李炳、炳新、Choong Foo（签名以两个“+”代替）。他们都是香港籍男子，最小的24岁，最大的37岁。显示他们的职业都是船上的锅炉工。花絮的花絮：<a href="http://www.xixik.com/content/59c3862f20b5072c" target="_blank" title="《泰坦尼克号》上的中国人不是跑龙套 原是著名制作">《泰坦尼克号》上的中国人不是跑龙套 原是著名制作</a>。</p>
+<p style="text-indent: 2em;">
+	<strong>活着比死了还痛苦</strong></p>
+<p style="text-indent: 2em;">
+	<a href="http://www.xixik.com/content/2855080dfa79cf8a">细野正文是泰坦尼克号上唯一的日籍生还者</a>&#160;（也是船上唯一的日籍人士） ，他回国后却被指控是一名懦夫，因为他没有跟其他乘客一起死，甚至连学校教科书都把他描述为不名誉的范本。</p>
+<p style="text-indent: 2em;">
+	可以不要这样吗？要不然你来啊，来来来！</p>
+<p style="TEXT-INDENT:2em">
+	<strong>勇敢的纽芬兰犬</strong></p>
+<p style="TEXT-INDENT:2em">
+	就在泰坦尼克号最后沉没的瞬间，有一条纽芬兰犬在冰凉的海水中勇敢地泅游。它是船上一位航海官的爱犬，名叫瑞吉。它在沉船附近快速地游着，呼唤那不会再出现的主人。此时，离出事地点最近的卡帕西亚号已接到求救信号，正以高速驶来，搜寻抢救目标。然而，夜海茫茫，风急浪高，目标难见。就在人们将要和救生船擦肩而过之际，奋力泅水的瑞吉开始不停地、声嘶力竭地狂吠，终于引起卡帕西亚号船长的注意。于是，船长下令停下所有的引擎，并放下跳板……从此，纽芬兰犬因为瑞吉的英雄事迹而扬名天下。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>喝醉酒的面包师</strong></p>
+<p style="TEXT-INDENT:2em">
+	查尔斯·乔因是泰坦尼克号上的首席面包师，在很多关于泰坦尼克号的作品中，查尔斯·乔因都被描写为一个整天酗酒醉醺醺的人。而他广为流传的故事是泰坦尼克号沉没后，他靠威士忌暖身在冰冷的海水中浸泡近3小时后得救，连头发都没怎么弄湿。更为离奇的是，查尔斯·乔因正是依靠一瓶威士忌暖身，在冰冷的海水中支撑到获救。</p>
+<p style="TEXT-INDENT:2em">
+	在泰坦尼克号撞上冰山到沉没的这段时间里，乔因和其他厨师一起搬运食物和其他补给品到救生船上；他冒险去了顶层甲板，协助乘客坐上救生船，却没有趁机自己也爬上去；他还往海里扔椅子等物品，以期让那些落水的人有些可以辅助漂浮的东西。很多描述似乎都忽略了这一点，而仅仅把他描写为一个步履蹒跚的醉汉，却对他在事发时的冷静应对只字不提。</p>
+<p style="TEXT-INDENT:2em">
+	在一封写给《A Night to Remember》（《此夜永难忘：泰坦尼克号沉没记》）的作者沃尔特·洛德的信中，乔因写道：“很多作品中描述的令人毛骨悚然的场景事实上并未发生，除了最后时刻所有被留在船上的人都疯狂地跑向他们所认为相对安全的地方———船尾楼甲板。幸运的是，我反其道而行，当船往下沉的时候，我跨过A甲板的右舷扶手跳下水，虽然感觉到某种吸力，但幸好没有被彻底吸入水中，自始至终我的头都保留在水面上。” 所以历史上他就没有趴在船尾，97版《泰坦尼克号》毕竟是电影嘛。</p>
+<p style="TEXT-INDENT:2em">
+	1956年，查尔斯·乔因在新泽西州逝世，享年78岁。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>杰克和露丝的故事真的演绎过</strong></p>
+<p style="text-indent: 2em;">
+	<a href="http://www.xixik.com/content/38a7fc4117a80da2">在泰坦尼克号上不但有杰克和露丝的真人版故事</a>，还真的有一颗很像“海洋之心”的蓝宝石，是凯特 （Kate Florence Philips） 的爱慕者亨利 （Henry Morley） 送她的礼物。19岁的凯特跟她40岁的老板坠入爱河，亨利抛家弃子并决定跟她逃到加州开始新生活，但亨利不幸没搭到救生艇。后来凯特生下女儿，取名艾伦 （Ellen） ，她说她仍保有那条项链，还有泰坦尼克号客舱的钥匙。</p>
+<p style="text-indent: 2em;">
+	<strong>在瞭望员发现冰山到船头撞击冰山只经过了短短 37秒</strong></p>
+<p>
+	<img src="http://img.xixik.net/special/Section/p/001/xixik-titanic-f2b12fa2324e8d2c.jpg" style="text-indent: 28px; margin: 10px; float: right; width: 400px;" title="泰坦尼克号撞到的冰山" /></p>
+<p style="text-indent: 2em;">
+	泰坦尼克号上原本是有望远镜的，但是却被二副布莱尔锁在了柜子里，而这位二副最后并没有上船。因未能找到望远镜， 瞭望员不得不用 肉眼观测。 4月14日23点40分，瞭望员弗雷德·弗利特（后来生还）发现远处有“两张桌子大小” 的一块黑影，以很快的速度变大。他敲了下驾驶台的警 钟，抓起电话：“正前方有冰山！”。接电话的六副穆迪抓起电话： 正前方有冰山！ 通知了旁边的一副默多克。默多克立刻下令 打响车钟： 所有引擎减速！左满舵！ 打响车钟：“所有引擎减速！左满舵！三号螺旋桨倒车！ ”这期间，只有短短37秒钟，泰坦尼克号的右舷便和冰山相撞。<a href="http://www.xixik.com/content/7c5fdd93bd42ef7a">而事后证明这是一个最愚蠢的决定</a>。 当时最好的选择是所有引擎减速的同时用坚固的船头去撞冰山。这样泰坦尼克号只会船头受损，不会下沉。</p>
+<p style="text-indent: 2em;">
+	<strong>97版本《泰坦尼克号》和沉没时间相同</strong></p>
+<p style="text-indent: 2em;">
+	卡梅隆97版本《泰坦尼克号》长达3小时14分钟，但如果把电影中“现在”的戏全拿掉，只留下1912年的戏，那么电影的长度就正好是泰坦尼克号沉没的时间：2小时40分钟。</p>
+<p style="text-indent: 2em;">
+	<strong>泰坦尼克号报纸</strong></p>
+<p style="text-indent: 2em;">
+	泰坦尼克号上竟然有发行报纸，叫做《大西洋日报》 （Atlantic Daily Bulletin） ，上面有广告、股票价格、赛马结果、花边新闻及每日菜单。在无互联网的时代，毫无疑问《大西洋日报》是靠无线电传递信息的。</p>
+<p style="text-indent: 2em;">
+	<strong>浴缸的等级</strong></p>
+<p style="text-indent: 2em;">
+	头等舱的客人们有独立的浴缸，而三等舱的700多名乘客就只能共用2个浴缸，分为男用，女用。这没法怪白星公司，在当时的西方，穷人经常洗澡被认为是引发肺病的重要原因。</p>
+<p style="text-indent: 2em;">
+	<strong>随时随地 努力送达</strong></p>
+<p style="text-indent: 2em;">
+	泰坦尼克号事实上是一艘皇家邮船，他们有责任要帮英国邮务送信。船上的5名邮差要负责3,246袋信件，也就是7百万封信。虽然这些信当然都没送出，但如果有任何信件的碎片被发现，美国邮务还是会努力帮忙送达。</p>
+<p style="text-indent: 2em;">
+	<strong>《纽约时报》这样出名了</strong></p>
+<p style="text-indent: 2em;">
+	在泰坦尼克号沉船后一天，《世界报》 （The World） 跟《伦敦每日邮报》 （London Daily Mail） 在报导中写：“泰坦尼克号沉没，无人身亡。”</p>
+<p style="text-indent: 2em;">
+	但是沉船一周后，《纽约时报》用整整75页的篇幅报导这次事件。《纽约时报》关于泰坦尼克号报到最有名的头版。列出幸存乘客名单以及史密斯船长和泰坦尼克号的两张照片。《纽约时报》也因为报道泰坦尼克号沉没事件成为全美最有影响力的报纸。</p>
+<p style="text-indent: 2em;">
+	<strong>命运躲不过</strong></p>
+<p style="text-indent: 2em;">
+	害泰坦尼克号沉船的冰山，可能是在公元前1000年就从北大西洋慢慢飘过去的。这就是命运吗？</p>
+<p style="text-indent: 2em; text-align: center;">
+	<img src="http://img.xixik.net/cimg/019/xixik_2b1013fc234e5721.jpg" /></p>
+<p style="text-indent: 2em; text-align: center;">
+	<a href="http://www.xixik.com/content/be4eefb81b1a1d39">S S 伊顿尼安上校拍摄的撞沉泰坦尼克号的冰山的照片被拍卖</a></p>
+<p style="text-indent: 2em;">
+	照片正面有一段手写说明：“蓝色冰山，由古德 S S 伊顿尼安上校摄于1912年4月12日，西经41度50分，北纬49度50分。1912年4月14日，泰坦尼克号撞击冰山，并于3小时后沉没。”这座冰山形成于15000年前，科学家相信，它于1909年从极地冰川上脱落的，1912年漂流到大西洋上的船舶航线上。当它与“泰坦尼克号”相撞后，也迎来了自己的噩运。两周后，这座冰山就漂向更温暖的海域，渐渐融化掉。</p>
+<p style="text-indent: 2em;">
+	<strong>闻到冰山的味道</strong></p>
+<p style="text-indent: 2em;">
+	船上的乘客伊莉莎白·夏慈 （Elizabeth Shutes） 在沉船当夜，因为冰块的味道而被烦到睡不着。她声称那味道让她想到以前去过的冰窟。</p>
+<p style="text-indent: 2em;">
+	<strong>用生命演奏到最后一刻的乐队</strong></p>
+<p style="text-indent: 2em;">
+	到4月15日1点40分，最后一艘折叠救生艇被放下海面。船上的乐队共8人在乐队指挥华莱士哈特利的带领继续为乘客们演奏音乐，以平复这些注定要在几十分钟后死去的人们，他们一直演奏到最后一刻，一共持续了2小时5分。</p>
+<p style="text-indent: 2em;">
+	<strong>船上一共有13对正在度蜜月的新婚夫妇</strong></p>
+<p style="text-indent: 2em;">
+	比如当时世界首富47岁的John Jacob Astor IV和他18岁年轻妻子Madeleine Talmage Force。</p>
+<p style="text-indent: 2em;">
+	<strong>舵手误听命令转错舵 二副隐瞒</strong></p>
+<p style="text-indent: 2em;">
+	事件过后，美国和英国的的调查都指出船速过快，如果开慢一点的话它或许就能避过冰山。路易丝·帕顿 （Louise Patton） 指称她的外祖父，也就是二副查尔斯·莱托勒 （Charles Lightholler） 在侦讯时串供并隐瞒舵手希契斯失误，担心会影响白金航运公司的名誉。</p>
+<p style="text-indent: 2em;">
+	舵手希契斯发生“转错方向舵”的低级错误才导致撞船，是因为当时航海业正从帆船时代转到蒸汽船时代，这一巨大的改变导致产生了两种完全不同的掌舵系统和掌舵指令。</p>
+<p style="text-indent: 2em;">
+	以前的帆船使用的是古老的“舵柄指令”，而先进的蒸汽船使用的却是更为现代的“方向舵指令”，可最关键的是，这两种掌舵系统的指令含义有时是完全相反的！譬如一个“右满舵”命令，在帆船的“舵柄指令”中意味着将船头往右转，可在当时蒸汽船的“方向舵指令”中，这个命令的含义却是控制船只向左转。</p>
+<p style="text-indent: 2em;">
+	当“泰坦尼克号”一副默多克发现远在两英里外的冰山时，他立即向“泰坦尼克号”舵手希契斯发出了“右满舵”的命令，如果希契斯按照指令正确操作，“泰坦尼克号”完全有足够时间避开迎面而来的冰山。然而，希契斯在慌乱之中，竟理解错了默多克的“指令”转错了方向舵。当“泰坦尼克号”再次向左拐弯时，已经来不及了。</p>
+<p style="text-indent: 2em;">
+	<strong>取消了演习</strong></p>
+<p style="text-indent: 2em;">
+	原本在意外发生前一天，船上预定举行一场演习，但不知为何，史密斯船长取消了预定计划。很多人相信如果事前有举行演习，就不会死那么多人。</p>
+<p style="text-indent: 2em;">
+	<strong>船长的“好名声”</strong></p>
+<p style="text-indent: 2em;">
+	<span arial="" style="color: rgb（0, 0, 0）; font-family: SimSun, ">船长爱德华·史密斯</span>&#160;（Edward John Smith）<span arial="" style="text-indent: 2em; color: rgb（0, 0, 0）; font-family: SimSun, ">是白星轮船公司的高级雇员，当时是世界上收入最多的海员。</span>船长爱德华·约翰·史密斯 第一次做海军测验时，其实没有通过，但他终于通过后，还赢得了“百万富翁的船长”的称号，因为他良好的名声，上流阶层的人常指名坐他开的船。<span arial="" style="text-indent: 2em; color: rgb（0, 0, 0）; font-family: SimSun, ">史密斯指挥着所有白星轮船公司航船的处女航，奥林匹克号两次撞船，史密斯均在现场，而且一次担任船长，一次负责指挥。为了保证泰坦尼克首航成功，白星轮船公司又请出了史密斯，最后一次担任泰坦尼克号处女航的船长，并答应跑完这一趟后便让他退休。当泰坦尼克号离开南安普顿港时，因史密斯控制的起航速度太快，要不是对方那艘纽约轮船紧急鸣笛，撞船事故在所难免。蹊跷的是危机接连不断，就在泰坦尼克号首航的第四天不幸撞上冰山而沉没，史密斯也因此而成为家喻户晓的新闻人物。</span>而综合泰坦尼克号种种失误，船长史密斯难辞其咎。</p>
+<p style="text-indent: 2em;">
+	<strong>网球选手不截肢还上哈佛上奥运</strong></p>
+<p style="text-indent: 2em;">
+	理查德·威廉姆斯上船时已经是世界知名的网球选手。海难发生后，他在冰冷的海水里泡了几个小时被救起。获救后，船上的医生告诉他必须截去两腿才能保命，他拒绝了，坚持每隔两小时就起来走一走，终于保住了双腿。获救几个月后，他被哈佛大学录取，在当年的美国网球公开赛上打入八强，并在1924年的巴黎奥运会上夺得混双金牌。</p>
+<p style="text-indent: 2em;">
+	<a href="http://www.xixik.com/content/fc110a2208bdbd4a"><strong>324个家庭14239英镑保险赔偿</strong></a></p>
+<p style="text-indent: 2em;">
+	当大西洋冰冷的海水吞噬了1500多个鲜活的生命，把1000多个家庭从对新大陆新生活的憧憬中推向破碎与绝望。灾难发生后，当时英国最大的保险公司保诚保险迅速做出反应，在巨轮沉没仅仅24天后发表公告对海难事件中罹难的客户进行理赔，最终为324名乘客和船员赔付14239英镑，价值相当于今天的110万英镑，这笔在当时看来的巨额赔偿为324个破碎的家庭带去了温暖和安慰。</p>
+<p style="text-indent: 2em;">
+	<a href="http://www.xixik.com/content/73f378108cdbd30a"><strong>泰坦尼克号幸存者全部去世</strong></a></p>
+<p style="text-indent: 2em;">
+	泰坦尼克号最后存活于世的3名皆为女性。2006年5月6日，一名见证事件的生还者逝世，终年99岁，事发当时5岁。2007年10月16日，另外一位生还者逝世，终年96岁，事发当时她不足一岁，因此对事件没有回忆。2009年5月31日，泰坦尼克号最后一名幸存者英国人米莉维娜·迪恩在英国一家养老院中逝世，享年97岁。但她在意外时只有两个月大，同样对事件没有回忆。</p>
+<p style="text-indent: 2em;">
+	<a href="http://www.xixik.com/content/e04767628ac1c681"><strong>在白星三姊妹出事时都在场的人</strong></a></p>
+<p style="text-indent: 2em;">
+	1910年10月20日，23岁的维内特·康斯坦斯·杰索普（Violet Constance Jessop）被白星公司聘用，并被安排到当时世界上最大奥林匹克号邮轮上当服务员。就在杰索普被分配到奥林匹克号不到一年的时间内也就是1911年9月20日，奥林匹克号在怀特岛附近水域与皇家海军豪克号装甲巡洋舰相撞，豪克号舰艏全毁，而奥林匹克号也不得不入坞维修，为了尽快修好奥林匹克号哈兰德·沃尔夫船厂不得不推迟<a href="http://news.xixik.com/zt/titanic/" style="color:#000;" title="泰坦尼克号">泰坦尼克号</a>的建造并将<a href="http://news.xixik.com/zt/titanic/" style="color:#000;" title="泰坦尼克号">泰坦尼克号</a>的轴用在奥林匹克号上。奥林匹克号在1912年2月又因丢失螺旋桨再次入坞，而船厂不得不再次从<a href="http://news.xixik.com/zt/titanic/" style="color:#000;" title="泰坦尼克号">泰坦尼克号</a>的建造队伍中抽调人手和物资，同时<a href="http://news.xixik.com/zt/titanic/" style="color:#000;" title="泰坦尼克号">泰坦尼克号</a>的首航时间也由1912年3月20日推迟至1912年4月12日。<a href="http://news.xixik.com/zt/titanic/" style="color:#000;" title="泰坦尼克号">泰坦尼克号</a>首航时，杰索普被分配到船上当服务员，1912年4月14日晚杰索普被船员安排到第6号救生艇，次日被卡帕西亚号救起。1914年一次大战爆发后维内特参加了英国红十字会，1916年不列颠尼克号在爱琴海触雷时杰索普正好在船上当护士。杰索普是目前已知的唯一一个在白星三姊妹上服过役的人，也是已知的唯一一个在白星三姊妹出事时都在场的人。</p>
+<p style="text-indent: 2em;">
+	<strong>遇难者真的有“杰克·道森”</strong></p>
+<p style="text-indent: 2em;">
+	在创造出虚构的男主角杰克·道森之后，编导詹姆斯卡梅隆才赫然发现，当年泰坦尼克号上也有一位缩写也正巧是J. Dawson的罹难乘客Joseph Dawson。他与其他罹难乘客都长眠于加拿大新斯科细亚省的公墓，当中最多人拜访的当然就是J. Dawson的坟墓了。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor15"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        泰坦尼克号的误解和真相</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="text-indent: 2em;">
+	泰坦尼克号的短暂一生缔造了无数小说、歌曲、影视、纪录片、歌剧、百老汇音乐剧，还有遍布三大洲的各种机构、官方调查及法律纠纷，<a href="http://www.xixik.com/content/c1aacdfb3687181f" target="_blank" title="泰坦尼克号的点点滴滴 没有一艘船让人如此铭记">从没有一艘船让人如此铭记</a>）。对泰坦尼克号沉没事件的调查在出事几天内就开始了，它的罹难也孕育了新的海上安全法规。</p>
+<p style="text-indent: 2em;">
+	不过，无论是泰坦尼克号本身，还是它的船员和乘客，总有不曾解开的谜团。以下就为你揭开这艘世界巨轮不为人知的10个事实：</p>
+<p style="text-indent: 2em;">
+	<strong>1、这是一艘英国建造的美国邮轮：</strong>虽然泰坦尼克号上飘扬着英国国旗，但它却是美国人的邮轮。1902年，美国金融家约翰·皮尔庞特·摩根（John Pierpont Morgan Sr.）收购了英国白星航运公司（White Star Line），合并组建成了国际海运公司（IMM），因此这是一家老板是美国人的邮轮。</p>
+<p style="text-indent: 2em;">
+	<strong>2、没有香槟命名仪式</strong></p>
+<p style="text-indent: 2em;">
+	在1958年以泰坦尼克号为主题的影片《冰海沉船》（又名“《铭记的夜晚》”）中，一位女士在船头开了瓶香槟酒，并为这艘邮轮取名为“泰坦尼克号”。这就是西方新船下水的传统洗礼仪式。洗礼下水仪式通常还会与命名仪式重合，不过一般是先命名，后洗礼，再下水。所谓命名式，其实就是一个揭幕新船的新闻发布会而已，依传统，正式命名时也要开香槟庆祝或砸香槟瓶。然而白星航运公司特立独行，向来不信邪，所以并非只有泰坦尼克号，白星当时旗下的所有航船全部未经洗礼，命名式上也都不曾砸过香槟。因此白星公司否认了《冰海沉船》影片中的场景，表示旗下没有一艘船舰举行过这样的命名仪式。</p>
+<p style="text-indent: 2em;">
+	<strong>3、<a href="http://www.xixik.com/content/542a4a7c5e8a2dfa" title="白星三姊妹：奥林匹克、泰坦尼克、不列颠尼克">泰坦尼克号非独一无二、史无前例</a></strong></p>
+<p style="text-indent: 2em;">
+	很多人都误以为泰坦尼克号是当时世界上最大最豪华的邮轮，其实不然。当时，白星公司计划建造三艘大西洋航线邮轮。这三艘奥林匹克级的姊妹舰就是：1910年10月起航的“奥林匹克号”，1912年4月起航的“泰坦尼克号”，以及1915年的“巨人号”（即“不列颠尼克号”）。泰坦尼克号也绝非“史无前例”，它的整体设计几乎完全模仿了奥林匹克号，并沿袭了白星公司以往船舰的风格。泰坦尼克号唯一与众不同的是：在那个年代，它是世界最大邮轮，比奥林匹克号还要重1000吨。正因为泰坦尼克号和奥林匹克号太像了，<a href="http://www.xixik.com/content/436aa55373822c01" title="学者新论：泰坦尼克号被偷梁换柱 并未沉没">以至于调包阴谋论非常有市场</a>。人们一直以为，泰坦尼克号会“打破大西洋航行传奇记录”。其实1909年9月，卡纳德公司的毛利塔尼亚号时速早已达到26海里，20年来无出其右。而泰坦尼克号从法国瑟堡到昆士敦最大时速也不过23海里。因此泰坦尼克号并非无与伦比，速度不是她的专长，奢华才是她的主打。</p>
+<p style="text-indent: 2em;">
+	<strong>4、船头“展臂高飞”绝对不可能</strong></p>
+<p style="text-indent: 2em; text-align: center;">
+	<img src="http://img.xixik.net/special/Section/p/001/xixik-titanic-2e70cd639229bf4b.jpg" /></p>
+<p style="text-indent: 2em;">
+	泰坦尼克号中最经典的画面，便是杰克和露丝在船头振臂高飞。但事实上，这是不被容许的。在泰坦尼克号上，任何游客都不允许靠近船头。</p>
+<p style="text-indent: 2em;">
+	一位幸存者说：“当时我确实想象过站在船头和我心爱的人享受那种乘风破浪、一往无前的感觉，但是我的爱人并不愿意那么做，于是我曾偷偷地跑到了船头上，幻想和他一起乘风破浪的感觉，而且船上的水手们更不会允许我那么做，他们准会以为我是疯了，在我到达船头之前就已经阻止了我的幻想。”</p>
+<p style="text-indent: 2em;">
+	<strong>5、并非藏宝无数 也没木乃伊诅咒</strong></p>
+<p style="text-indent: 2em;">
+	虽然泰坦尼克号的乘客不乏工业巨亨、富家子弟、乃至电影明星，但船上并没剩下多少无价之宝。费城的埃莉诺·威德纳已为一条珍珠项链投保了10万美金；船一失事，头等舱女士们就从事务办公室取回了自己的珠宝。唯一“价值连城”的是奥马·海亚姆的《鲁拜集》，伦敦拍卖会上却只卖了2000美元——连竞拍价一半都不到。船上的货物也很普通。从储物单上看，仓库有些鸦片，其余便是一般商品了：鞋子、威廉·卡特的35马力雷诺跑车、橡木梁，还有老式飞机引擎。反倒<a href="http://www.xixik.com/content/0c4a9c8ec257bd34">据称是导致泰坦尼克号沉没的钥匙被拍卖出了7.8万英镑</a>，然从购买方来看纯属一场商业炒作。<a href="http://www.xixik.com/content/98c203d7bc747cbc">还有广为流传的木乃伊诅咒——泰坦尼克号因为载着木乃伊而遭到诅咒</a>，但是货物名单上根本没有上述物件。至于<a href="http://www.xixik.com/content/308361a1b07bc550">泰坦尼克号船长和女乘客在90年代再现这些愚人节的玩笑就不用再细说了</a>。</p>
+<p style="text-indent: 2em;">
+	<strong>6、<a href="http://www.xixik.com/content/3f22b34450934ea4">没有倾斜45° 裂缝没有300英尺长</a></strong></p>
+<p style="text-indent: 2em;">
+	《泰坦尼克号》中沉船的经典一幕，相信每个观众仍历历在目，大家都以为撞山后船头入水令船尾升起，船身一直倾斜至45度才折断沉没，但历史频道和一家美国电影公司2007年前派人潜到泰坦尼克号残骸的位置，拍下以往从未曝光的珍贵影片，其后研究队伍对片段进行详细分析，计算出当年泰坦尼克号原来只倾斜了10度便断开两截，这使船上的乘客有种错误的安全感，当船头进满水之后，船体一分为二并很快沉入海中。在电影拍摄时，导演卡梅隆坚守这个时间，保证最大限度还原历史。电影中轮船沉没方式是"两截式"，即轮船从中间断开，分开沉没。这在电影拍摄时是公认的沉没方式。但是在2003年，新的研究结果表明当时泰坦尼克号船尾发生爆炸，轮船以三段沉没，即"三截式"，电影展现的是她的时代最真实的东西。这部电影绝对算得上是影史上的杰作，其细节令当时的泰坦尼克研究协会表示“很惊讶”。</p>
+<p style="text-indent: 2em;">
+	在这部电影里，这艘近275米的豪华客轮，被迎面漂来的冰山撞开了约92米（300英尺）长的裂缝后，船舱进水，很快沉没。如果冰山撞下的豁口真有当时报道的92米那么长，那么泰坦尼克号几分钟就玩完了。然而这次探测表明泰坦尼克号并不是被迎面漂来的大冰山撞开一个大裂口而沉没的，声波探测仪找到了船的伤口，伤口并不是92米那么长，而是有6处小伤口，总的损坏面积仅有3.7米—4米。研究人员为了增强这种说法的可信度，利用那些数据在计算机上模拟了灾难发生的过程，结论是肯定的。当时进水的6个舱室并不是平均进水的，有的进水量大，有的进水量小，这说明撞开的洞口有大有小。其实在当时该船的设计师爱德华·威尔丁已经提出了这个情况，计算出豁口总共12平方英尺，零星分布在船舷边上。可是这个非常重要的证言被有意或无意地忽略了。因为当时的人们很难接受这样一个事实：一艘如此精良的巨轮只撞了6个小洞就沉没了。最可敬的……要数煤火工了，他们在船体撞冰山后，继续给锅炉填煤，让船保持动力，直至船体断裂。</p>
+<p style="text-indent: 2em;">
+	<strong>7、三等舱乘客被锁在下面？</strong></p>
+<p style="text-indent: 2em;">
+	几乎每部泰坦尼克号电影都展现了三等舱乘客被锁困在下面的场景。后来，人们仔细检查了奥林匹克号和泰坦尼克号构造，发现乘客区根本没有这种隔离门。泰坦尼克号上只有齐腰高的隔离门，边上有乘务员防止乘客随便穿越。但大撤离时，门边上没人看守。救生艇腾出来后，大批三等舱乘客都涌到了甲板上。从三等舱到甲板，至少有20条通道吧。相反，许多三等舱内的人因坚信泰坦尼克号无论如何不会下沉而拒绝逃生。</p>
+<p style="text-indent: 2em;">
+	<strong>8、<a href="http://www.xixik.com/content/7c5fdd93bd42ef7a" title="泰坦尼克号二副莱特勒后人：舵手听错命令致沉船">愚蠢的“左满舵”命令</a></strong></p>
+<p style="text-indent: 2em;">
+	泰坦尼克号一直延伸到甲板的大楼梯将船分成了左右两部分。失事后，头等舱男乘客只能呆在左舷等死；二副查尔斯·赖托勒严肃表示“妇孺优先”，只留一名男乘客上救生艇摇船。而那些爬上右舷楼梯顶的乘客尚有一线生机；可是，一副威廉·默多克强硬表示：“妇孺优先，所有妇女全都上救生艇后，才有男人的份。”</p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/special/Section/p/001/xixik-titanic-2c2634636e3df154.jpg" style="float:right; width: 400px; margin:10px;" /></p>
+<p style="text-indent: 2em;">
+	<strong>9、多一点救生艇可以改变命运？</strong></p>
+<p style="text-indent: 2em;">
+	<a href="http://www.xixik.com/content/b63885e0d7c260cc">泰坦尼克号上的救生船不足</a>。实际上，它的救生船数量是符合英国法律规定的，该项法律所定的数量并非基于乘客数量，而是基于船的吨位。虽然泰坦尼克号能容纳3547名乘客及船员，但英国政府规定的救生艇数量只能满足960位乘客。其实泰坦尼克号还超出限额，配备了可供1178人使用的救生艇。当时所有船只的救生船数量都远低于需要的数量，目的并不是用来装下全体乘客；它们只是用来从一艘下沉的船上转移乘客到另一艘救援船上。泰坦尼克号的沉没永久性地改变了这种救生策略。事实上，即使它已经装下更多的救生船可以用来装载所有的乘客，仍然有可能无法确保会有更多的人获救，因为在它下沉时，船员们没有时间来放下所有的救生船。可运载1178名乘客的救生艇，有465个座位完全没用上。</p>
+<p style="text-indent: 2em;">
+	<strong>10、<a href="http://www.xixik.com/content/fe1ebc8d3ca31dc1">一副没有收受贿赂不是谋杀犯 而是英雄</a></strong></p>
+<p style="text-indent: 2em;">
+	首先很多报道都把威廉·默多克误认为是大副，其实威廉·默多克是一副（肩章上是二道杠），泰坦尼克号的大副是亨利·怀尔德（肩章上是三道杠）。一般都是大副后面直接二副，而泰坦尼克号算是比较特殊的，确实是真有 “一副”，“一副”这个职位严格来讲并不存在。因此很多人都把大副和一副搞混了，甚至直接忽略前者的存在。<a href="http://www.xixik.com/content/6490fe0c1335b1b5">泰坦尼克号高级船员职位分配是“船长--大副---一副---二副……六副”</a>。</p>
+<p style="text-indent: 2em;">
+	泰坦尼克号上的一副威廉·默多克，在他的家乡苏格兰达尔比蒂被尊为当地的英雄，但在影片《泰坦尼克号》中，他被描绘成一个胆小鬼和谋杀犯，接受了英国富商的贿赂，并开枪打死了一名企图跳上救生艇逃生的三等舱的乘客，最后以开枪自杀了结了自己的生命。这与史实大相径庭。默多克在整个沉船过程中，将自己的生命置之度外，竭尽全力营救船上的乘客。他引导大家上救生艇，并奋力将甲板上的椅子抛向海中，以便使那些在刺骨的海水中挣扎的人们抓到一根“救命草”，自己却溺水身亡。为弥补影片中的“过错”，在泰坦尼克号沉没的第86个纪念日庆典上，二十世纪福斯影片公司执行总裁还向为纪念默多克并以他的名字命名的基金会捐赠了5000英镑（8000美元）的支票，作为对其后人的道歉。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor16"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        泰坦尼克号的隐喻</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	<img  src="http://img.xixik.net/special/Section/p/001/xixik-titanic-e006212173ee6bc6.jpg" style="float:right;widrh:400px; margin:10px;" /></p>
+<p style="TEXT-INDENT:2em">
+	有观众说回看电影《泰坦尼克号》，也很喜欢这部电影，不论是配乐和演员。感觉这段爱情故事很动人，可是又觉得它的剧情的确是有点俗的。女主角不选富二代选了穷小子，好不容易幸福了一几分钟结果穷小子就死了。好韩剧化的模式啊……</p>
+<p style="TEXT-INDENT:2em">
+	泰坦尼克号不仅仅是一艘船而已，卡梅隆导演为了拍这部电影花了10年的时间来做准备工作。97年过度解读一部电影的观众还不多，如果泰坦尼克号在今天上映，一定会有人认为这艘船是在隐喻欧洲文明走向衰落，泰坦尼克号这艘被当时的人们称为连上帝都不能使之沉没的巨轮。这反映了欧洲社会对自身情况的盲目乐观。这种狂妄情绪你从这艘船的名字也能看出来，TITANIC：本意是像泰坦一般，泰坦可是希腊神话里统治世界的上古之神。结果不可一世的Titanic被大自然的力量轻易击败。而这艘船的内部也是一个社会缩影，大船最底部的工人，三等舱的老百姓，上等舱的贵族阶级。</p>
+<p style="TEXT-INDENT:2em">
+	1912年和一战爆发仅相隔2年，很快欧洲社会各阶层就如同这艘巨轮里的大多数人一样迅速陨落了。隐喻了当战争爆发的时候每个阶层的人其实都在一条船上，没有人能独善其身吧，海难最后的幸存者大都是一等舱的乘客和妇女儿童，和现实也挺接近的。导演在叙事时又很巧妙的通过男女主角之间的互动，把这几个阶层一一串联起来，反映出各个阶层的社会问题，每个阶级的人物和于他们相关的情节都令人映像深刻，一副20世纪初欧洲社会的众生相，如果去看227分钟完整版，你们还能看到卡梅隆拍了许多留着长辫子的清朝人在三等舱和主角互动的情节，原来导演查过资料，当时泰坦尼克号上确实有清朝移民，而且还很幸运的和Rose一样在船沉后被救起，这种小细节都要拍，卡梅隆想还原历史的野心可见一斑。史诗感就是通过这些细节才得以营造出。所以说这个电影还是内涵丰富的。</p>
+<p style="TEXT-INDENT:2em">
+	这是观众过度解读了这部电影吗？在一个纪录片《詹姆斯·卡梅隆：再见泰坦尼克》里面有卡梅隆导演自己对这部电影的理解，可见上述不是过度解读，而是境界不够，没他想的远，卡梅隆隐喻的不仅仅是当时欧洲人的狂妄固执，而是隐喻人类现在社会制度的缺陷，富人拥有财富和权利，恣意妄为，结果让全社会如同一艘巨轮一样无可避免地向冰山高速驶去，最后苦的还是底层老百姓，而富人阶层的人仍能找到办法脱身。</p>
+<p style="TEXT-INDENT:2em">
+	泰坦尼克号的部分寓意是对狂妄自大的一种影射，影射一些观念过于顽固，无法改变。这话是不是似曾相识？曾经有一种人类制度，就像一大巨大的机器，他动力十足，全力前进，无法逆转，无法及时停下避免灾难，当今世界也是如此。这个人类制度也可以体现在这艘船上，可以把这条船看作世界的缩影，船舱被分为不同等 级，有头等舱 二等舱 三等舱。而相应地，当今世界也分发达国家和不发达国家，数百万人食不果腹。而碰到冰山的时候，这些人也是受影响最严重的群体。现实中的下一个变化就是气候变化。这座冰山其实就在我们前方，但我们无力扭转。我们无力，是因为这个制度势头过猛，政治势头，经济势头等等。有太多的人从这一制度中获益。而这些人，说白了，同时也掌握着权力的杠杆，他们不愿就此放手。而他们不放手，我们就不能改变方向，也就无法绕过冰山而只能迎头撞上去了。撞上之后， 富人还是有办法获取食物 耕地 水源等等。而穷人，那些最底层的劳动者，才是真正受苦的，这就跟泰坦尼克号一样。我想这就是为什么这个故事会一直让人着迷下去，它装进了整个世界，保罗了社会万象。但是，只有在生命受到直接威胁，真理真正被揭示的时刻，我们才会知道自己会怎么做。</p>
+<p style="TEXT-INDENT:2em">
+	吴宇森去拍《太平轮》就有模仿《泰坦尼克号》的意味在里面，太平轮也是一个特殊历史时期，承载着不同阶层人的巨轮，结果也沉了。很多让你对此片的关注点在主人公的爱情线上了。</p>
+<p style="TEXT-INDENT:2em">
+	那么关于主人公的爱情线是不是很俗，我感觉还好，里面三角关系处理的很有看头，Rose的未婚夫卡尔很长时间都被人当成大反派，但是现在回过头来看卡尔只是一个正常人而已，在20世纪初那个女权运动刚有起色的时代，上层社会还是很保守的，卡尔会有可能像Jack那样开明？天哪！你被绿了难道不想爆Jack头？就因为他帅？ 很多细节都能发现他对于Rose的爱是真的，至少是有付出，比如他愿意花大价钱让Rose收集各种他都搞不懂的油画，愿意为了Rose高兴而在上等舱餐厅答谢Jack，两次为了找Rose而不去上救生艇，看到Tose在等救生船时很冷，就给她披上他的大衣，却忘了海洋之心就在里面。</p>
+<p style="TEXT-INDENT:2em">
+	所以最后卡尔去找Rose 的时候是为了找Rose本人还是为了找回丢掉的海洋之心？这个问题影片里没有答案，留给观众深思吧。不过不管是公映版还是227分钟的完整版都有太多细节可以证明卡尔对Rose的感情。</p>
+<p style="TEXT-INDENT:2em">
+	当年觉得泰坦尼克号是一部很商业很烂俗的片子，现在，我只能说是当年的自己太简单，这部片子看似是在呈现杰克和肉丝生情大爱玛丽苏的情节，但其实讲述的是人性的坚强和勇气，生活注定不是平坦大道，每张不再年轻的面孔下，都带着时光刻下的伤痕，可他们仍会选择勇敢地朝前走，追寻光明与幸福，不管在哪里，选择过什么样的生活，都应该……看见阳光和希望。</p>
+<p style="TEXT-INDENT:2em">
+	你觉得泰坦尼克号的爱情是套路，可能因为你不懂多少套路取之于泰坦尼克号。</p>
+<p style="TEXT-INDENT:2em">
+	你觉得泰坦尼克号的剧情俗，可能因为上一条，你仅仅关注了爱情。</p>
+                </div>
+            </div>
+        </div>
+
+        
+        <a name="anchor17"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        现在移民美国可以更轻松的</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                    <p style="TEXT-INDENT:2em">
+	100多年前，泰坦尼克号船上的乘客有百万富翁，当时世界上最富的一些人，也有来自爱尔兰，斯堪的纳维亚半岛及其他地方要去美国寻找新生活的移民。<a href="http://www.xixik.com/content/d0287968d7a4a022" title="移民成就美国大熔炉 三次移民潮带美国走向强大">融入新力量，新思想的美国迅速取代英国成为世界第一大强国。</a>由此移民美国的门槛也越来越高，对很多人而言已经是高不可及，投资移民（EB5）不但投资大，风险更大。那么有没一种低收入，低风险的移民美国之路呢？这听起来有点像天方夜谭，但是，这道门却一直为人们敞开着——<a href="http://www.usbabyada.com/" title="赴美生子">赴美生子</a>，把孩子出生在美国，落地就是美国公民领先一步，拿美国护照，享受全球免签证便利。孩子满21岁为全家办理依亲移民，全家团聚在美利坚。With Your U.S. Passport, The World is Yours!&#160;</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/special/Section/p/001/xixik-usbaby-002ce69547c1df55.jpg" style="margin: 10px; float: right; width: 300px;" />去美国生孩子（<a href="http://www.usbabyada.com/" title="赴美生子">赴美生子</a>）话题一直是海外华文媒体的热点，《世界日报》、《美国侨报》等总是有意无意地用华人屌丝的心态对赴美生子群体冷嘲热讽。尤其是2015年“3·3月子中心大风暴”，导致很多孕妈咪开始担心入境美国。事实上，美国政府从没有反对赴美生子，只要遵循“专门谈赴美生子的知名微博”@<strong>Ada出生在美国</strong>” 多年来在微博上倡导“诚实签证，诚实入境，自费生产 ，按时回国”赴美生子十六字方针。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>究竟谁赴美生子？</strong></p>
+<p style="TEXT-INDENT:2em">
+	1、类似于《北京遇上西雅图》中的文佳佳，生在美国完美解决了孩子的身份问题；</p>
+<p style="TEXT-INDENT:2em">
+	2、明星们：比如台湾明星洪晓蕾，林志颖，伊能静等，大陆明星何洁，王宝强，王学兵，姚明，柴静，章子怡，范志毅等；</p>
+<p style="TEXT-INDENT:2em">
+	3、外企国企机关事业单位中上层；</p>
+<p style="TEXT-INDENT:2em">
+	4、家境颇丰的私营企业主为孩子留学考虑，或作为移民预备役；</p>
+<p style="TEXT-INDENT:2em">
+	<strong>其实你想，你也可以赴美生子！</strong></p>
+<p style="TEXT-INDENT:2em">
+	其实不仅只有富豪名人、央视主持、体育明星、娱乐明星、官宦子弟才能把后代生在美帝。你想你也可以！专门谈赴美生子的知名达人@<strong>Ada出生在美国</strong>（@艾达出生在美国） 为精英白领赴美生子带盐！数千诚实签证成功案例，@月子中心 专业团队贴心服务。@<strong>Ada出生在美国</strong>是“诚实合法赴美生子”的践行者：诚实签证＋诚实入境，妈咪们完全没有后顾之忧。想了解美国月子中心更多细节，猛戳，私信呆萌的月子君（微信：<strong>Ada-usbaby</strong>，电话：<strong>4000-365-545，15336510105</strong>） 吧，很乐意为妈咪们服务噢。</p>
+<p style="TEXT-INDENT:2em">
+	赴美生子要多少钱？美国签证怎么办？美宝证件怎么办理？赴美生子流程不知从何下手？交给专业的<a href="http://www.usbabyada.com/" title="赴美生子">赴美生子</a>机构——艾达国际，我们为客户们<a href="http://www.usbabyada.com/" title="赴美生子">赴美生子</a>提供全程服务，指导你合法获得美国签证，顺利入境美国，三个月母婴会所待产月子，服务21年直到依亲移民。选择了专业，让你的赴美生子更加顺利，免除一切后顾之忧。在中美两地拥有注册公司的直营机构，非中介，安全可靠。</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+    </div>
+    <script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        var value = '250';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script>
+    <div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/titanic/" target="_self" title="泰坦尼克号沉没的真相_历史真实故事_泰坦尼克号电影_嘻嘻网">泰坦尼克号</a></div>
+    <ul style="width: 960px; margin: auto; overflow: hidden;">
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/shicha/"
+                title="国际时差查询 - 世界各国主要城市和北京时差对照表">时差</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证更换新政策_过期了该怎么办？">中国旅行证</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangye/"
+                title="2017最新国民经济行业分类与代码（GB/4754-2017）,国民经济行业分类标准">国民经济行业分类与代码</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/yimiao/"
+                title="儿童疫苗接种时间表 - 儿童预防疫苗接种时间表,宝宝疫苗接种时间表">儿童疫苗接种表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国总统_美国历任总统名单_美国总统简历生卒年份及所属党派">美国历任总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2019年二十四节气">二十四节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chicun/"
+                title="服装尺寸对照表_男士服装尺寸对照表_中国女装尺寸对照表_美版服装尺码换算">服装尺寸对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/country/"
+                title="全世界有多少个国家和地区？_世界上国家和地区一览表">全世界国家和地区</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/country-flag/"
+                title="世界各国国旗大全 - 世界各国国旗一览表,国旗图片下载">世界各国国旗大全</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/festival/"
+                title="节日大全_2020年法定节假日安排">节日大全</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24jieqi/72hou/"
+                title="月令七十二候集解_二十四节气">月令七十二候集解</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-visa/"
+                title="赴美生子诚实签攻略_赴美生子诚实签的好处_赴美生子为什么要诚实签">赴美生子诚实签攻略</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-spending/"
+                title="赴美生子价格_去美国生孩子多少钱_费用清单">赴美生子价格</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-baoxian/"
+                title="赴美生子保险_去美国生宝宝生育险_孕中险">赴美生子保险</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-hospital/"
+                title="赴美生子医院_洛杉矶医院_洛杉矶接待华人孕妇医院价目和详细情况一览表">赴美生子医院</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-doctor/"
+                title="赴美生子医生_洛杉矶医生_赴美生子华人医生_赴美生子医生介绍">赴美生子医生</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-living/"
+                title="赴美生子选择月子中心还是DIY_去美国生孩子选择月子中心还是DIY_赴美生子DIY攻略">月子中心还是DIY</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="美宝证件_美宝需要哪些证件（美国出生纸_中国旅行证_美国护照_社会安全号_出生纸三级认证）">美宝需要哪些证件？</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-passport-ds11/"
+                title="美宝美国护照申请更新_DS-11怎么填图文">美国护照申请</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_去美国生孩子费用预算清单2020">赴美生子要多少钱</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/university/"
+                title="中国大学名单_2019年全国高等学校名单（截至2019年6月15日）">中国大学名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/ranking/"
+                title="美国总统排名_美国总统历史排名_美国最伟大的总统排行榜">美国总统排行榜</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/size/"
+                title="服装尺寸对照表_裤子尺寸_男装尺寸_女装尺寸_裙子尺寸">服装尺寸</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/cn-uk-time-zone/"
+                title="中英时差对照表,现在英国几点?中国和英国时差怎么算?现在英国时间是几点?">中英时差对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_去美国生孩子要多少钱？">赴美生子费用</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 最新中国护照免签国家一览2020">中国护照免签证</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-passport/"
+                title="美国护照 - 美国护照上写的什么,美国护照免签证国家">美国护照</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/henley-passport-index/"
+                title="亨氏护照指数 - 亨氏护照受限制数2019">亨氏护照指数</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-process/"
+                title="赴美生子流程 - 干货！超详细的赴美生子流程攻略2019！">赴美生子流程</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-best/"
+                title="赴美生子机构哪家好？_合法的赴美生子机构">赴美生子机构哪家好</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-regret/"
+                title="2019生个美国孩子后悔了_后悔在美国生孩子_赴美生子利与弊">生个美国宝宝后悔了揭秘</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/visa/"
+                title="美国签证_美国签证DS-160表格在线填写_美国签证预约面谈_在线缴费">美国签证</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/titanic/"
+                title="泰坦尼克号沉没的真相_历史真实故事_泰坦尼克号电影_嘻嘻网">泰坦尼克号</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-flight/"
+                title="赴美生子航班怎么选_赴美航班信息大全">赴美生子航班</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/exit-and-entry-premit/"
+                title="出入境通行证_一次性出入境通行证_中华人民共和国出入境通行证">出入境通行证</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-prosandcons/"
+                title="赴美生子利弊_赴美生子的优势和弊端_生美籍宝宝的好处和坏处">赴美生子好处和弊端</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-born/"
+                title="赴美产子_赴美生子_去美国生孩子">赴美产子</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-constitution/14th-amendment/"
+                title="美国宪法修正案第十四条">美国宪法修正案第14条</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/greatest/"
+                title="美国最伟大的总统_美国总统排行榜">美国最伟大的总统</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-states/13states/"
+                title="美国13个州_北美13个殖民地_美国建国时的13个州">美国13个州</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/qs2020/"
+                title="2020年QS世界大学排名_世界大学排行榜">QS世界大学排行榜</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/born-usbaby/"
+                title="去美国生孩子_去美国生孩子多少钱">去美国生孩子</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-constitution/amendments/"
+                title="美国宪法修正案_Amendments to the Constitution">美国宪法修正案</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/the-world-university-rankings/"
+                title="2020年泰晤士报世界大学排名_2020年THE世界大学排名">泰晤士世界大学排名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/ssn/"
+                title="美国社安号SSN_美国社安卡_美国社会安全号码">社会安全号码</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/declaration-of-independence/"
+                title="《美国独立宣言》（The Declaration of Independence）">独立宣言</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/birth-certificate/"
+                title="美国出生纸（Birth Certificate）_美国出生纸三级认证">美国出生纸</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-living-cost/"
+                title="美国月子中心费用_赴美生子费用">美国月子中心费用</a> </li>
+        
+    </ul>
+
+    <div class="lindBox">
+        <div class="btnGray">
+            <div class="btnText">
+                <a target="_self" title="泰坦尼克号沉没的真相_历史真实故事_泰坦尼克号电影_嘻嘻网" href="http://news.xixik.com/word/250/">另存为<br />
+                    Word格式</a>
+            </div>
+        </div>
+    </div>
+    <div class="lindBox" style="text-align: center;">
+        <img src="http://news.xixik.com/qrcode/250/" alt="扫码手机上继续看" /><br />
+        <br />
+        <strong>用微信或者支付宝扫码在手机上继续观看<br />
+            可以保存收藏，也扫码后可以分享给好友
+        </strong>
+    </div>
+    <hr style="height: 1px; border: none; border-top: 1px dashed #999;" />
+    <script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script>
+<!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.-->
+
+</body></html>
