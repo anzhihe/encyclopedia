@@ -1,0 +1,363 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>美国最伟大的总统_美国总统排行榜</title><link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" /><meta name="description" content="美国最伟大的总统：华盛顿、林肯、罗斯福。the greatest Presidents of America. Abraham Lincoln is considered as one of the greatest Presidents of United States." /><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/us-president/greatest/"><meta http-equiv="Cache-Control" content="no-transform" /><meta http-equiv="Cache-Control" content="no-siteapp" /><base target="_blank" /><script>        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "us-president/greatest/";
+        }
+
+        
+    </script><style>        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+            overflow:auto;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style></head><body><a name="top4"></a><div class="topBox" name="top"><div class="topMain"><div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div><div id="icoPhone"></div><div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div><div id="icoWechat"></div><div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a></div><div id="icoSina"></div><div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a></div><div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div><div class="topRight"></div></div></div><div id="showqrCode"><div><span></span></div><img src="" /><div><span></span></div></div><script type="text/javascript">        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);<a href="Model1.aspx">Model1.aspx</a>            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script><div class="body"><div class="lindBox" style="position: relative;"><img src="http://img.xixik.net/custom/topic/001/us-president-greatest.jpg" alt="美国最伟大的总统_美国总统排行榜" /><div class="title"><h1>美国最伟大的总统_美国总统排行榜</h1></div></div><div class=" custom_border lindBox"><div class="special_content"><div class="content_text"><div class="content_daodu"></div><h2>美国最伟大的总统</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--><p>	从1948年第一份<strong>美国总统排行榜</strong>出炉以来，美国人品评历届总统的历史已有70多年。几乎每一份排行榜都会引起争议，但美国人仍热衷于此。因为，<a href="http://114.xixik.com/us-president/greatest/" title="美国最伟大的总统"><strong>美国最伟大的总统</strong></a>排行榜就如同一面镜子，可以让民众认识到总统的功过得失，在漫长而复杂的历史中，得以从容把握住认识历史的线索。华盛顿、林肯、罗斯福是公认的<strong>美国最伟大的三位总统</strong>。</p></div></div></div><div class="lindBox" style="overflow: hidden;"><div class="gg1"><a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a></div><div class="guide"><div class="guideBorder" id="guideBorder"><div class="guideTitle">导读（目录）</div><ul id="guideDisplay"><li>·<a title="美国最伟大的总统" href="#anchor1" target="_self"> 美国最伟大的总统</a></li><li>·<a title="民意较高的美国总统" href="#anchor2" target="_self"> 民意较高的美国总统</a></li><li>·<a title="历史学家又恨又爱的美国总统" href="#anchor3" target="_self"> 历史学家又恨又爱的美国总统</a></li><li>·<a title="美国最差的总统" href="#anchor4" target="_self"> 美国最差的总统</a></li></ul><div class="guideOpen">展开&darr;</div></div></div><div class="guideFllow"><div class="guideFllowBorder"><div class="guideFllowTitle">导读（目录）</div><ul id="guideFllowDisplay"><li>·<a title="美国最伟大的总统" href="#anchor1" target="_self"> 美国最伟大的总统</a></li><li>·<a title="民意较高的美国总统" href="#anchor2" target="_self"> 民意较高的美国总统</a></li><li>·<a title="历史学家又恨又爱的美国总统" href="#anchor3" target="_self"> 历史学家又恨又爱的美国总统</a></li><li>·<a title="美国最差的总统" href="#anchor4" target="_self"> 美国最差的总统</a></li></ul><div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div></div></div><div class="gg2"><a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a></div></div><a name="anchor1"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        美国最伟大的总统</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	美国的建立和发展在世界文明史上有着举足轻重的作用，二百多年的发展迅速变为一个超级大国，不能不使我们惊叹。美国的建立和发展经历了曲折，有这样几位总统在关键时候力挽狂澜，让她得以生存和发展。</p><p style="TEXT-INDENT:2em">	在2018年的<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>日，美国政治学会发布了最新的“<a href="http://www.xixik.com/content/a98cb41194729e55" title="美国最伟大的总统排名">美国最伟大的总统排名</a>”。林肯以废除奴隶制，带领国家复苏的杰出贡献当选第一，而国父华盛顿则屈居第二，罗斯福排名第三。而卸任不久的<a href="http://114.xixik.com/us-president/obama/" style="color:#000" title="奥巴马">奥巴马</a>也进入了这份榜单，排在第八位。</p><div class='right_gg'><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- 336x280-114-left --><ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-3849899595029685"
+     data-ad-slot="9973132210"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><p style="TEXT-INDENT:2em"><strong>美国最伟大的总统排行榜</strong></p><p style="TEXT-INDENT:2em">	1、亚伯拉罕·林肯。2、乔治·华盛顿。3、富兰克林·D·罗斯福。4、西奥多·罗斯福。5、托马斯·杰斐逊。6、哈里·S·杜鲁门。7、德怀特·戴维·艾森豪威尔。8、贝拉克·侯赛因·<a href="http://114.xixik.com/us-president/obama/" style="color:#000" title="奥巴马">奥巴马</a>。9、罗纳德·威尔逊·里根。10、林登·约翰逊。</p><p style="TEXT-INDENT:2em"><strong>第一名：亚伯拉罕·林肯</strong>（1809年－1865年），美国第十六任总统（1861年到1865年任），共和党人。</p><p style="TEXT-INDENT:2em"><strong><img border="0" data-bd-imgshare-binded="1" hspace="0" src="http://img.xixik.net/custom/section/us-president/greatest/xixik-839a1aaf85bd3e0a.jpg" title="一、亚伯拉罕·林肯.jpg" vspace="0" /></strong></p><p style="TEXT-INDENT:2em">	亚伯拉罕·林肯（Abraham Lincoln，1809年2月12日－1865年4月15日），共和党人，黑人奴隶制的废除者。不论是从任期内的贡献，还是从美国政治学者和民众的呼声来看，亚伯拉罕·林肯都是当之无愧的“美国第一总统”。他出生于贫苦家庭，从小就帮着家里种地、干农活，根本读不起书。18岁后四处为生，一边打工一边看书学习，在渐渐走上了从政之路。尽管他仅在边疆受过一点儿初级教育，担任公职的经验也很少，然而，他那敏锐的洞察力和深厚的人道主义意识，使他成了美国历史上最伟大的总统。</p><p style="TEXT-INDENT:2em">	美国独立战争虽然打碎了殖民枷锁，走上了资本主义发展道路，但不彻底，因为政权是资产阶级和种植园主的联合专政，即存在奴隶制度与自由劳动制度之间的斗争。反对奴隶制的林肯在1860年11月当选总统，这也是共和党首次执政。在他上任后爆发了南北战争，南方种植园主制造分裂，发动了叛乱，为了扭转战局，林肯先后颁布《宅地法》《解放黑人奴隶宣言》，调动了广大人民群众的斗争积极性，扭转了战局，使南方军队彻底陷入了绝境。1865年4月北方胜利，并废除了奴隶制，战争结束。林肯以革命的方式摧毁了奴隶制，维护了国家统一，废除奴隶制为资本主义的发展扫除了又一障碍，为推动美国社会向前发展做出了巨大贡献。然而还没等林肯把他的战后政策付诸实施就在华盛顿福特剧院被枪杀了。美国人们始终怀念、景仰他的正直和人道主义，现在的5美元纸币上印的就是林肯的头像。</p><p style="TEXT-INDENT:2em"><strong>第二名：乔治·华盛顿</strong>（1732年2月22日—1799年12月14日），美国第一任总统（1789年到1797年），无党派。</p><p style="TEXT-INDENT:2em"><strong><img border="0" data-bd-imgshare-binded="1" hspace="0" src="http://img.xixik.net/custom/section/us-president/greatest/xixik-ee19119190d56b88.jpg" title="二、乔治·华盛顿.jpg" vspace="0" /></strong></p><p style="TEXT-INDENT:2em">	乔治·华盛顿（George Washington，1732年2月22日—1799年12月14日）。1775年至1783年美国独立战争时殖民地军的总司令。通过特伦顿、普林斯顿和约克德等战役，击败英军，取得了北美独立战争的胜利。1783 年，英国承认美国独立，美国诞生。独立后的美国在1787年制订了<a href="http://114.xixik.com/us-constitution/" style="color: rgb(0, 0, 0);" title="美国宪法">美国宪法</a>，确立了共和政体，并根据宪法建立和完善民主法制，组建内阁，完善司法，巩固联邦。成立联邦最高法院、国家银行，并为自由土地制度的打下了基矗。1789年成为美国第一任总统（其同时也成为全世界第一位以“总统”为称号的国家元首），在接连两次选举中都获得了全体选举团无异议支持，一直担任总统直到1797年。由于他扮演了美国独立战争和建国中最重要的角色，华盛顿通常被称为美国开国元勋，美国国父。</p><p style="TEXT-INDENT:2em">	作为美利坚合众国的奠基人，华盛顿的名字家喻户晓，从殖民地到取得国家独立，华盛顿的贡献功不可没。美国的独立战争为美国的发展奠定了基础。他的政策也被后来的历任总统沿用至今。</p><p style="TEXT-INDENT:2em"><strong>第三名：富兰克林·德拉诺·罗斯福</strong>（1882年－1945年），美国第三十二任总统（1933年到1945年），民主党人。</p><p style="TEXT-INDENT:2em"><strong><img border="0" data-bd-imgshare-binded="1" hspace="0" src="http://img.xixik.net/custom/section/us-president/greatest/xixik-abd52ba39398b5d9.jpg" title="三、富兰克林·D·罗斯福.jpg" vspace="0" /></strong></p><p style="TEXT-INDENT:2em">	富兰克林·德拉诺·罗斯福（Franklin D.Roosevelt，1882年1月30日－1945年4月12日），史称“小罗斯福”，是美国第三十二任总统。是美国历史上唯一连任超过两届的总统（连任三届，担任四届，病逝于第四届任期中）。罗斯福在1932年参选提出了新政以提供失业救济来复苏经济，最终在首次电视直播竞选中击败胡佛当选。罗斯福推行新政以加强国家宏观调控，提供失业救济与复苏经济，并成立众多机构来改革经济和银行体系，从经济危机的深渊中挽救了美国，也恢复了公民的对联邦政府的信任。二战初期美国保持中立，在日本偷袭珍珠港后，罗斯福对日本宣战，领导同盟国抗击法西斯，并且向同盟国出售军火。二战结束后，其他国家百废待兴，而美国的实力则达到了巅峰。罗斯福是第二次世界大战期间同盟国阵营的重要领导人之一。</p><p style="TEXT-INDENT:2em">	1929年到1933年，是资本主义经济大危机时期，美国首当其冲，经济濒临崩溃、社会动荡不安，陷入极为严重的经济和社会危机中，这场持续至1933年的经济危机发生后，罗斯福取代了焦头烂额的胡佛，当选为美国第32届总统，临危受命的罗斯福总统利用国家干预手段，提出了一系列缓解危机的经济和社会改革措施，史称“罗斯福新政”。新政缓和了大萧条对美国经济的严重破坏，促进了社会生产力的恢复，改善了中下层民众的经济和社会地位，缓和了社会矛盾，稳定了资本主义民主政体，使危机中的美国避免出现激烈的社会动荡。其开创的“福利国家”至今仍不失为垄断资本调节劳资矛盾、巩固资本统治的重要手段，新政的很多政策与法律也为构筑现代美国政治经济体系夯实了坚实的制度框架基础，新政为美国投入二战及战后资本主义国家的经济腾飞和国家垄断资本主义的快速发展奠定了物资基础，为资本主义生产力的发展创造了更大的空间。新政的成功，标志着垄断资本维护自身统治的政策趋于成熟，对全世界具有深远影响。富兰克林·罗斯福也因此成为继林肯以来最受美国和世界公众欢迎的总统。</p><p style="TEXT-INDENT:2em"><strong>三位总统之所以伟大的原因</strong></p><p style="TEXT-INDENT:2em">	18世纪的美国独立战争在华盛顿的领导下摧毁了英国的殖民枷锁，获得了国家独立，北美独立战争既是一次民族解放运动，也是一场资产阶级革命，为美国资本主义发展开辟了道路；美国南北战争在林肯的指挥下摧毁了奴隶制，是美国历史上第二次资产阶级革命，最终北方胜利，维护了国家的统一，为美国资本主义的进一步发展扫清了道路，并为美国跻身于世界强国奠定了基础。1929年到1933年经济大危机给美国造成严重的破坏，罗斯福任总统后实施新政，缓和了经济危机，美国生产力得到恢复，社会得到了稳定，巩固了资本主义统治。开创了国家干预经济的先例，为以后世界资本主义国家经济发展提供了借鉴。它是对资本主义生产关系的局部调整，因而不能从根本上消除经济危机。这是美国发展史上三次重大事件，华盛顿，林肯，罗斯福，都起了至关重要的作用，他们受到了美国民众的尊敬，正是他们的努力，美国才可能发展成为一个超级大国。</p><p style="TEXT-INDENT:2em"><strong>美国总统山为何没小罗斯福？</strong></p><p style="TEXT-INDENT:2em"><img data-url="http://img.xixik.net/cimg/019/xixik_11c37826038160a5.jpg" src="http://img.xixik.net/cimg/019/xixik_11c37826038160a5.jpg" /></p><p style="TEXT-INDENT:2em">	美国总统山全称“拉什莫尔山国家纪念公园”（Mount Rushmore National Memorial），雕刻着美国历史上著名的前总统头像，他们分别是华盛顿、杰斐逊、老罗斯福和林肯。总统山为什么没有富兰克·林罗斯福？因为<a href="http://www.xixik.com/content/4037dc9f377f2bb8" style="color:#000;">总统山</a>在建设时，富兰克林·罗斯福还未当选总统，他还只是律师。</p></div></div></div><a name="anchor2"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        民意较高的美国总统</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em"><strong>杰斐逊</strong></p><p style="TEXT-INDENT:2em">	上榜理由：美国民主传统奠基人</p><p style="TEXT-INDENT:2em">	购买路易斯安那地区，使美国的面积翻了一番。确保联邦政府的权力掌握在民众的手中。如果杰弗逊愿意的话，他还可以再次当选为总统。但是他总是担心，如果一个总统的任期太长的话，他就有可能试图成为一名独裁者。美国人民推崇杰弗逊，并不是因为他是开国元勋之一，而是因为他是美国民主传统奠基人，他的民主思想始终是争取进步的推动力量。</p><p style="TEXT-INDENT:2em"><strong>西奥多-罗斯福</strong></p><p style="TEXT-INDENT:2em">	理由：现代美国的缔造者</p><p style="TEXT-INDENT:2em">	坐镇白宫7年，针对国内出现的一系列严重的经济、政治与社会问题，励精图治，遏制垄断；面对纷扰激荡的世界局势，使美国以一个政治强国形象登上国际舞台。西奥多·罗斯福实现了那个时代一个美国人所能梦想的一切，也因此被一些人看做“美国梦”的化身。<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>山四位著名的总统中，即有西奥多·罗斯福。这是人们对他最好的评价。</p><p style="TEXT-INDENT:2em"><strong>里根</strong></p><p style="TEXT-INDENT:2em">	理由：二流演员 一流总统</p><p style="TEXT-INDENT:2em">	2005年，美国在线探索频道组织评选“最伟大的美国人”，将近240万美国人通过电邮、电话等方式，选出心目中的偶像。结果里根名列第一。有意思的是，很多投票者认为，里根的功绩在于提出“星球大战”计划，大搞军备竞赛而拖垮了前苏联。里根的两届任期正是美国经济空前增长的时代，这使得美国从越战的泥潭抽身后，能够重拾信心。</p><p style="TEXT-INDENT:2em"><strong>肯尼迪</strong></p><p style="TEXT-INDENT:2em">	理由：非凡魅力和领袖气质</p><p style="TEXT-INDENT:2em">	肯尼迪对美国的影响绝不止他在位的那1000天。肯尼迪对美国的影响也不主要是由于他的政绩。几十年过去了，他留给美国和世人的依然是一个强有力的形象。这不仅是因为他死时很年轻，更重要的是自肯尼迪之后，人们再没有看到一个能像他一样拥有非凡领袖气质的总统。他和夫人杰奎琳已成为美国永远的偶像。</p><p style="TEXT-INDENT:2em"><strong><a href="http://114.xixik.com/us-president/bill-clinton/" style="color:#000" title="克林顿">克林顿</a></strong></p><p style="TEXT-INDENT:2em">	理由：经济成就显赫</p><p style="TEXT-INDENT:2em">	莱温斯基当年险将<a href="http://114.xixik.com/us-president/bill-clinton/" style="color:#000" title="克林顿">克林顿</a>拉下马，但时至今日，当全球金融危机到来，美国人恐怕最怀念的人是他。就连<a href="http://114.xixik.com/us-president/obama/" style="color:#000" title="奥巴马">奥巴马</a>都常说，自己要向<a href="http://114.xixik.com/us-president/bill-clinton/" style="color:#000" title="克林顿">克林顿</a>的经济贡献看齐。福布斯2004年曾出台美发展经济表现总统排行榜，<a href="http://114.xixik.com/us-president/bill-clinton/" style="color:#000" title="克林顿">克林顿</a>独占鳌头。05年一份盖洛普民调显示，<a href="http://114.xixik.com/us-president/bill-clinton/" style="color:#000" title="克林顿">克林顿</a>成为美国人心目中最伟大总统第二名。丑闻远去，政绩留声，这句话对<a href="http://114.xixik.com/us-president/bill-clinton/" style="color:#000" title="克林顿">克林顿</a>来说再合适不过。</p></div></div></div><a name="anchor3"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        历史学家又恨又爱的美国总统</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em"><strong>最有争议的<a href="http://114.xixik.com/us-president/" style="color:#000" title="美国总统">美国总统</a>——尼克松</strong></p><p style="TEXT-INDENT:2em"><img  src="http://img.xixik.net/custom/section/us-president/greatest/xixik-fad49cc63cab8b4a.jpg" /></p><p style="TEXT-INDENT:2em">	尼克松是美国最有争议总统之一。也是美国第一个因丑闻辞职总统。水门事件后，尼克松每天生活在反思中，“我是自己最好的批评家”成为他的名言。终于他的行为赢得了美国人的感动和尊重。</p><p style="TEXT-INDENT:2em">	历史学家亚兰·布林克雷表示：“有的总统既可以被视为失败的总统，也可以被称作伟大或者接近伟大的总统，比如尼克松。”还有学者如此评价尼克松，“人们该如何评价一个如此特殊的总统呢，他如此地才华横溢，却又在道德方面存在如此的缺失？</p><p style="TEXT-INDENT:2em"><strong>接近伟大的总统——杜鲁门</strong></p><p style="TEXT-INDENT:2em"><img  src="http://img.xixik.net/custom/section/us-president/greatest/xixik-788719895ce5a4fa.jpg" style="width: 632px; height: 464px;" /></p><p style="TEXT-INDENT:2em">	朝鲜战争导致杜鲁门声望下跌，他在1952年创下民调新低，施政不满度为六成七。但进入20世纪70年代，声望窜高，一些历史学家对其评价颇高，并称其“接近伟大”总统行列。这是为什么？</p><p style="TEXT-INDENT:2em">	1953年杜鲁门卸任时，几乎没有一个美国人对此表示伤心。然而，随着时间推移，杜鲁门在美国人心目中的地位不断升高，坦率且负责任的执政态度经受时间的考验，并以强硬果敢的作风获青睐。人们认为他诚实地说他认为正确的话，做他认为正确的事情。</p></div></div></div><a name="anchor4"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        美国最差的总统</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em"><strong>美国最差的总统：詹姆斯·布坎南</strong></p><p style="TEXT-INDENT:2em">	——为美国内战的爆发埋下种子</p><p style="TEXT-INDENT:2em">	目前为止，历史学界比较公认的看法是，美国历史上最差的总统是第15任总统：詹姆斯·布坎南。布坎南之所以被后人诟病，主要原因是他纵容奴隶制进入美国西部各州，南北冲突在他的任期内被大大激化了。虽然美国的南北战争是在林肯上任过后才爆发的，但其实在1860年林肯当选总统而布坎南尚未卸任时，南卡罗莱纳州就首先退出了联邦，隔一个月又有六个州退出。布坎南对这些州的脱离仍采用怀柔政策，导致全体阁员反对而集体呈辞，为美国内战的爆发埋下种子。不过，布坎南自己认为，宪法并未授权他采取措施对付分裂势力，直到临死前，他依然认为，历史将给予他好评，因为他履行了宪法职责。但他显然错了。</p><p style="TEXT-INDENT:2em"><img h="376" src="http://img.xixik.net/custom/section/us-president/greatest/xixik-ed709a7c56ac9a21.jpg" w="550" wh="1.46" /></p><p style="TEXT-INDENT:2em">	当布坎南离开白宫时，民主党已一分为二，由道格拉斯领导的北方民主党支持维护联邦统一，南方民主党则脱离联邦，十一个允许奴隶制的州在布坎南卸任仅一个月即发动叛乱，由此美国南北内战正式爆发。布坎南未能调解南北冲突，导致他的声望臭名昭著。顺便一提，布坎南也是美国历史上唯一一个gay总统（或至少双性恋）。他终身未婚，年轻时订有婚约，后废除。晚年他长期和富兰克林&#8226;皮尔斯总统副总统的威廉·金同居，从后续的信件中，历史学家发觉两人的情侣关系。</p><p style="TEXT-INDENT:2em"><img h="382" src="http://img.xixik.net/custom/section/us-president/greatest/xixik-d4e48978567ad010.jpg" w="542" wh="1.42" /></p><p style="TEXT-INDENT:2em"><a href="http://www.xixik.com/content/b104e8f1d60fe731" title="美国最差的总统：沃伦·哈丁"><strong>美国最差的总统：沃伦·哈丁</strong></a></p><p style="TEXT-INDENT:2em">	——政府中任人唯亲，腐败盛行</p><p style="TEXT-INDENT:2em">	美国第29任总统——沃伦·哈丁（1921~1923）任期。他之所以当选最差，是因为他不称职。他自己就曾说过，“我不适合这个职位，我本就不该担任总统。”他的父亲曾对他说，幸亏他不是女孩，“要不然你就得永远呆在家里，还不能说不。”或许，当年共和党的大佬们提名他竞选美国总统时，他就该拒绝。入主白宫后，他沉迷于打高尔夫球、打牌以及和情妇在一起，他的政府中任人唯亲，腐败盛行。在他去世10年后，他当年任命的司法部长曾宣称，哈丁“是当代的林肯，他的名字和声望将永垂不朽”。但如今，哈丁的名字几乎早就被遗忘了。</p><p style="TEXT-INDENT:2em"><strong>美国最差的总统：安德鲁-约翰逊</strong></p><p style="TEXT-INDENT:2em">	实施系列重建南方反动措施</p><p style="TEXT-INDENT:2em">	美国第17任总统安德鲁·杰克逊（任期：1865~1869）是林肯被刺杀后接任总统。在美国内战初期，南部各州宣布脱离联邦后，他是坚持留在联邦参议院的唯一一名南方议员。他对联邦的忠诚赢得了林肯的青睐。</p><p style="TEXT-INDENT:2em">	他不仅有自身的腐败问题，更是一个积极的印第安人排除政策的倡导人。在他的任内，美国向西部蛮荒之地迁徙了超过45,000多印第安人，导致印第安人各族悲苦，甚至死亡事件频发。</p><p style="TEXT-INDENT:2em">	因为在南方重建问题上采取妥协政策，成为第一个被国会提出弹劾议案的总统。虽然最终因为参院审判时以一票之差被宣告无罪侥幸免于被弹劾的命运，但其在美国民众中的声望也由此一直不佳。</p><p style="TEXT-INDENT:2em"><strong>“美国最差总统”怎么评？</strong></p><p style="TEXT-INDENT:2em">	在谁是美国史上最差总统的问题上，学术界是否有共识？什么样的总统才是最差总统，他们应该有哪些特征？最差总统排行榜真的能帮世人了解总统的领导能力和功过吗？</p><p style="TEXT-INDENT:2em">	批评者说，种种总统排名充满偏见，完全取决于排名者的立场。有人指出，在战争期间或者重大经济危机期间任职的总统，比起那些处于相对和平与繁荣时期的总统占有优势。另外，时间的流逝也会影响到总统的排名，因为新的研究和资料会改变世人对某个总统的看法。</p><p style="TEXT-INDENT:2em">	不过，即使总统排名存在种种争议，美国的总统排名热仍然难以消除。排名可能存在种种偏颇，但在很多人看来，它仍是一个了解总统功过得失的不错的方式</p></div></div></div></div><script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script><script type="text/javascript">        var value = '277';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script><div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/us-president/greatest/" target="_self" title="美国最伟大的总统_美国总统排行榜">美国最伟大的总统</a></div><ul style="width: 960px; margin: auto; overflow: hidden;"><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shicha/"
+                title="国际时差查询 - 世界各国主要城市和北京时差对照表">时差</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证更换新政策_过期了该怎么办？">中国旅行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangye/"
+                title="2017最新国民经济行业分类与代码（GB/4754-2017）,国民经济行业分类标准">国民经济行业分类与代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/yimiao/"
+                title="疫苗接种时间表 - 中国儿童预防疫苗接种时间表">儿童疫苗接种表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国历任总统名单_美国历届总统大全_美国总统">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2020年二十四节气">二十四节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chicun/"
+                title="服装尺寸对照表_男士服装尺寸对照表_中国女装尺寸对照表_美版服装尺码换算">服装尺寸对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country/"
+                title="全世界有多少个国家和地区？_世界上国家和地区一览表">全世界国家和地区</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-flag/"
+                title="世界各国国旗大全 - 世界各国国旗一览表,国旗图片下载">世界各国国旗大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/festival/"
+                title="节日大全_2020年法定节假日安排">节日大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/72hou/"
+                title="月令七十二候集解_二十四节气">月令七十二候集解</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-visa/"
+                title="赴美生子诚实签攻略_赴美生子诚实签的好处_赴美生子为什么要诚实签">赴美生子诚实签攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-spending/"
+                title="赴美生子价格_去美国生孩子多少钱_费用清单">赴美生子价格</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-baoxian/"
+                title="赴美生子保险_去美国生宝宝生育险_孕中险">赴美生子保险</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-hospital/"
+                title="赴美生子医院_洛杉矶医院_洛杉矶接待华人孕妇医院价目和详细情况一览表">赴美生子医院</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-doctor/"
+                title="赴美生子医生_洛杉矶医生_赴美生子华人医生_赴美生子医生介绍">赴美生子医生</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-living/"
+                title="赴美生子DIY可行吗？_赴美生子DIY攻略">月子中心还是DIY</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="美宝证件_美宝需要哪些证件（美国出生纸_中国旅行证_美国护照_社会安全号_出生纸三级认证）">美宝需要哪些证件？</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-passport-ds11/"
+                title="美宝美国护照申请更新_DS-11怎么填图文">美国护照申请</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_去美国生孩子费用预算清单2020">赴美生子要多少钱</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/university/"
+                title="中国大学名单_2019年全国高等学校名单（截至2019年6月15日）">中国大学名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/ranking/"
+                title="美国总统排名_美国总统历史排名_美国最伟大的总统排行榜">美国总统排行榜</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/size/"
+                title="服装尺寸对照表_裤子尺寸_男装尺寸_女装尺寸_裙子尺寸">服装尺寸</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-uk-time-zone/"
+                title="中英时差对照表,现在英国几点?中国和英国时差怎么算?现在英国时间是几点?">中英时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_去美国生孩子要多少钱？">赴美生子费用</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 最新中国护照免签国家一览2020">中国护照免签证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-passport/"
+                title="美国护照 - 美国护照上写的什么,美国护照免签证国家">美国护照</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/henley-passport-index/"
+                title="亨氏护照指数 - 亨氏护照受限制数2019">亨氏护照指数</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-process/"
+                title="赴美生子流程 - 干货！超详细的赴美生子流程攻略2020！">赴美生子流程</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-best/"
+                title="赴美生子机构哪家好？_合法的赴美生子机构">赴美生子机构哪家好</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-regret/"
+                title="2019生个美国孩子后悔了_后悔在美国生孩子_赴美生子利与弊">生个美国宝宝后悔了揭秘</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/visa/"
+                title="美国签证_美国签证DS-160表格在线填写_美国签证预约面谈_在线缴费">美国签证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/titanic/"
+                title="泰坦尼克号_沉没真相真实历史_泰坦尼克号电影_嘻嘻网">泰坦尼克号</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-flight/"
+                title="赴美生子航班怎么选_去美国生孩子中美航班信息大全">赴美生子航班</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/exit-and-entry-premit/"
+                title="出入境通行证_一次性出入境通行证_中华人民共和国出入境通行证">出入境通行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-prosandcons/"
+                title="赴美生子利弊_赴美生子的优势和弊端_生美籍宝宝的好处和坏处">赴美生子好处和弊端</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-born/"
+                title="赴美产子_赴美生子_去美国生孩子">赴美产子</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/14th-amendment/"
+                title="美国宪法修正案第十四条">美国宪法修正案第14条</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/greatest/"
+                title="美国最伟大的总统_美国总统排行榜">美国最伟大的总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-states/13states/"
+                title="美国13个州_北美13个殖民地_美国建国时的13个州">美国13个州</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qs2020/"
+                title="2020年QS世界大学排名_世界大学排行榜">QS世界大学排行榜</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/born-usbaby/"
+                title="去美国生孩子_去美国生孩子多少钱">去美国生孩子</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/amendments/"
+                title="美国宪法修正案_Amendments to the Constitution">美国宪法修正案</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/the-world-university-rankings/"
+                title="2020年泰晤士报世界大学排名_2020年THE世界大学排名">泰晤士世界大学排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ssn/"
+                title="美国社安号SSN_美国社安卡_美国社会安全号码">社会安全号码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/declaration-of-independence/"
+                title="《美国独立宣言》（The Declaration of Independence）">独立宣言</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/birth-certificate/"
+                title="美国出生纸（Birth Certificate）_美国出生纸三级认证">美国出生纸</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-living-cost/"
+                title="美国月子中心费用_赴美生子费用">美国月子中心费用</a></li></ul><div class="lindBox"><div class="btnGray"><div class="btnText"><a target="_self" title="美国最伟大的总统_美国总统排行榜" href="http://news.xixik.com/word/277/">另存为<br />                    Word格式</a></div></div></div><div class="lindBox" style="text-align: center;"><img src="http://news.xixik.com/qrcode/277/" alt="扫码手机上继续看" /><br /><br /><strong>用微信或者支付宝扫码在手机上继续观看<br />            可以保存收藏，也扫码后可以分享给好友
+        </strong></div><hr style="height: 1px; border: none; border-top: 1px dashed #999;" /><script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script><!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.--></body></html>
