@@ -161,6 +161,7 @@ encyclopedia
         ├── 论信望爱[古罗马]奥古斯丁.许一新译.三联书店(2009).pdf
         ├── 神曲(三册)意大利-但丁-田德望译.pdf
         ├── Chinese Quran Inside Text.pdf
+        ├── 论自愿为奴.pdf 
         └── 看过的电影推荐清单.md
 ```
 
