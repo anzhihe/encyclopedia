@@ -142,7 +142,9 @@ encyclopedia
     │   ├── 邓小平文选.exe
     │   ├── 邓小平时代.pdf（https://pan.baidu.com/s/1cEiEzMHjea4wwSdNfovIRQ）
     │   ├── 周恩来年谱1898-1976.pdf
-    │   └── 《周恩来传》_[英]迪克·威尔逊+著.pdf
+    │   ├── 《周恩来传》_[英]迪克·威尔逊+著.pdf
+    │   ├── 论自愿为奴.pdf
+    │   └── 乌合之众：大众心理研究.pdf
     └── religion
         ├── [圣经（中文、英文原版及NIV朗读版）].新世界.扫描版.zip
         ├── 《圣经》完整版.txt
@@ -161,7 +163,6 @@ encyclopedia
         ├── 论信望爱[古罗马]奥古斯丁.许一新译.三联书店(2009).pdf
         ├── 神曲(三册)意大利-但丁-田德望译.pdf
         ├── Chinese Quran Inside Text.pdf
-        ├── 论自愿为奴.pdf 
         └── 看过的电影推荐清单.md
 ```
 
