@@ -1,0 +1,1312 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <title>国旗大全_世界各国国旗</title>
+    <link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" />
+    <meta name="description" content="国旗(National flag)是国家的一种标志性旗帜，是国家的象征，它通过一定的样式、色彩和图案反映一个国家政治特色和历史文化传统。本专题国旗大全，展示全世界所有国家的国旗。" />
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/guoqi/">
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <base target="_blank" />
+    
+    <script>
+        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "guoqi/";
+        }
+
+        
+    </script>
+    <style>
+        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+            overflow:auto;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style>
+</head>
+<body>
+    <a name="top4"></a>
+    <div class="topBox" name="top">
+        <div class="topMain">
+            <div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div>
+            <div id="icoPhone"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div>
+            <div id="icoWechat"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a> </div>
+            <div id="icoSina"></div>
+            <div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a>  </div>
+            <div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div>
+            <div class="topRight">
+            </div>
+        </div>
+    </div>
+
+    <div id="showqrCode">
+        <div><span></span></div>
+        <img src="" /><div><span></span></div>
+    </div>
+    <script type="text/javascript">
+        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);<a href="Model1.aspx">Model1.aspx</a>
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script>
+    <div class="body">
+        
+        <div class="lindBox" style="position: relative;">
+            <img src="http://img.xixik.net/custom/topic/001/guoqi.jpg" alt="国旗大全_世界各国国旗" />
+            <div class="title">
+                <h1>国旗大全_世界各国国旗</h1>
+            </div>
+        </div>
+        
+
+        <div class=" custom_border lindBox">
+            <div class="special_content">
+                <div class="content_text">
+                    <div class="content_daodu">
+                    </div>
+                    <h2>国旗大全</h2>
+                    <p>
+	本专题国旗大全，展示世界各国国旗。 国旗(National flag)是国家的一种标志性旗帜，是国家的象征，它通过一定的样式、色彩和图案反映一个国家政治特色和历史文化传统。</p>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="lindBox" style="overflow: hidden;">
+            <div class="gg1">
+                <a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a>
+            </div>
+            <div class="guide">
+                <div class="guideBorder" id="guideBorder">
+                    <div class="guideTitle">导读（目录）</div>
+                    <ul id="guideDisplay">
+                        
+                                <li>·<a title="世界各国国旗 " href="#anchor1" target="_self"> 世界各国国旗 </a></li>
+                            
+                                <li>·<a title="五星红旗外38面备选国旗" href="#anchor2" target="_self"> 五星红旗外38面备选国旗</a></li>
+                            
+                                <li>·<a title="怎样建立一个国家？" href="#anchor3" target="_self"> 怎样建立一个国家？</a></li>
+                            
+                    </ul>
+                    <div class="guideOpen">展开&darr;</div>
+                </div>
+            </div>
+
+            <div class="guideFllow">
+                <div class="guideFllowBorder">
+                    <div class="guideFllowTitle">导读（目录）</div>
+                    <ul id="guideFllowDisplay">
+                        
+                                <li>·<a title="世界各国国旗 " href="#anchor1" target="_self"> 世界各国国旗 </a></li>
+                            
+                                <li>·<a title="五星红旗外38面备选国旗" href="#anchor2" target="_self"> 五星红旗外38面备选国旗</a></li>
+                            
+                                <li>·<a title="怎样建立一个国家？" href="#anchor3" target="_self"> 怎样建立一个国家？</a></li>
+                            
+                    </ul>
+                    <div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div>
+                </div>
+            </div>
+
+
+            <div class="gg2">
+                <a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a>
+            </div>
+        </div>
+        
+        <a name="anchor1"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        世界各国国旗 </h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                   
+                    <p style="TEXT-INDENT:2em">
+	在诸多代表国家的标识中，<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>算是最具代表性、使用范围最广的一种。奥运会开幕式上，那些色彩斑斓、各具特色的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>，更是一大看点。当然，其实也不是每一面能在奥运会上呈现的旗帜，都能够被称为&ldquo;<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>&rdquo;，比如朝鲜半岛朝韩两国的&ldquo;半岛旗&rdquo;。</p><p style="text-indent: 2em; text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-574a5224b1a70f95.jpg" style="width: 90%; max-width: 90%;" title="世界各国国旗" /></p><div class='right_gg'><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 336x280-114-left -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-3849899595029685"
+     data-ad-slot="9973132210"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><p style="text-indent: 2em; text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-735c0f15f128266f.png" style="width: 90%; max-width: 90%;" title="世界各国国旗" /></p><p style="text-indent: 2em; text-align: center;">
+	全世界240个国家和地区国旗圆形版</p><p style="text-indent: 2em; text-align: center;">
+	<img src="http://img.xixik.net/mimg/003/xixik_a6d22ba3251504bb.gif" style="width: 90%; max-width: 90%;" /></p><p style="text-indent: 2em; text-align: center;">
+	图：<a href="http://114.xixik.com/country-flag/" title="世界各国国旗大全">世界各国国旗大全</a></p><p style="text-indent: 2em;">
+	那么问题来了，每当这些赛事，飘扬在现场的五彩缤纷的国旗成为了大家的认知障碍。也许在世界杯上可以分清楚惹眼的球星们，他们背后的国旗老傻傻分不清。</p><p style="TEXT-INDENT:2em">
+	方寸之间的一面<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>，象征着国家主权。同时，<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>的演变历程、设计样式、色彩和图案等也承载了许多国家和<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>的历史记忆和璀璨文化。</p><p style="TEXT-INDENT:2em">
+	国旗之所以难认，是因为世界上的国旗有很多都长的非常相似，举个例子：</p><p style="text-indent: 2em; text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-701d892e6282e571.png" /></p><p style="TEXT-INDENT:2em">
+	为了能够在短时间内提升&ldquo;国旗小白&rdquo;的认知能力，嘻嘻网<a href="http://114.xixik.com/country-flag/" style="color: rgb(0, 0, 0);" title="国旗">国旗</a>专题总结出国旗上一些有意思的知识点，配以超过五十张的地图和图表，并带您了解<a href="http://114.xixik.com/country-flag/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="国旗">国旗</a>的前世今生和传奇故事。</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-bfbca1b946040955.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	<strong><a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>溯源</strong></p><p style="TEXT-INDENT:2em">
+	单从&ldquo;<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>&rdquo;的标识功能来说，每个古代国家都可能有属于自己的标识。像现在伊斯兰国家最喜欢用的&ldquo;星月旗&rdquo;，最早就是奥斯曼帝国的标志。中国人也不例外，不过中国历代王朝，包括军队在使用旗帜作为标识时，有一个非常简便的办法，那就是书写一个政治封号，或者将领的姓氏，比如说<a href="http://114.xixik.com/chaodai/tang/" style="color:#000" title="唐朝">唐朝</a>在大旗上写个&ldquo;唐&rdquo;字，岳家军在军旗上写个&ldquo;岳&rdquo;字。</p><p style="TEXT-INDENT:2em">
+	一字胜千言，汉字的表意文字属性，加上华夏文化中一直以来的&ldquo;家国天下&rdquo;理念，使得一面&ldquo;汉字旗&rdquo;便完美的承载了&ldquo;徽旗&rdquo;、&ldquo;信仰旗&rdquo;的两大功能。只不过在<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>行将结束之时，为了对接西方引领的世界，你光在旗上写个&ldquo;清&rdquo;字，外国人也理解不了，于是参照西方的形制，清王朝在19世纪末将传承已久的&ldquo;龙旗&rdquo;变身成为了中国最早的法定<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>（大清黄龙旗）。<a href="http://www.xixik.com/content/07bf6e225dafee43" target="_blank" title="中国国旗变迁史：从黄龙旗到五色旗再五星红旗">中国国旗变迁史：从黄龙旗到五色旗再五星红旗</a>。</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-e91dd21c396dd47a.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="text-indent: 2em; text-align: center;">
+	大清黄龙旗</p><p style="TEXT-INDENT:2em">
+	为什么是&ldquo;<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>&rdquo;？或者说，<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>是什么时候成为一个国家最重要的身份标识的呢？就身份识别这件事来说，战场是最重要的场景，民间一般是用不着的。像纹章、十字旗的出现，都与战争有着密切的关联。可以这样说，现代意义上的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>，很大程度是从军旗演变过来的。</p><p style="TEXT-INDENT:2em">
+	不过在战场上，旗帜虽是重要敌我识别标志，但却不是唯一的标志，甚至不是最重要的。在战争中，服色才是区别敌我的重要标志，条件再差也可头上扎个黄头巾、红头巾，或者脖子上、胳膊上系条丝带做身份识别。</p><p style="TEXT-INDENT:2em">
+	大航海时代的开启，是&ldquo;<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>&rdquo;法律地位确立的开端。与陆地不同的是，你很难简单通过船型或者涂装，来判断一艘船只的身份。茫茫大海之上，旗帜几乎是识别船只身份的唯一标识。事实上，<a href="http://114.xixik.com/chaodai/qing/" style="color:#000" title="清朝">清朝</a>设计<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>的初衷，便是仿效西方的做法，为自己的水师确立一个代表国籍归属的法定标识。</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-afef2f961db3e3b0.jpeg" /></p><p style="TEXT-INDENT:2em">
+	在西方通过海洋来征服世界的时代，作为一种战争礼仪，你可以在接近对方船只前，悬挂别<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>帜进行伪装，但却必须在接战之前升起自己的旗帜（海盗们则在战时升起&ldquo;海盗旗&rdquo;）。另外，在大航海时代初期，商船和军舰本身并没有严格的区别。及至后来分门别类，商船为了表明身份，悬挂<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>也成为了一种通例。这意味着，旗帜的运用场景，开始由军用向民用扩张，军旗由此升级为&ldquo;<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>&rdquo;。长此以往<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>便渐渐成为了一个国家最重要的身份标识，并获得重要的法定地位。</p><p style="TEXT-INDENT:2em">
+	<strong>图腾</strong></p><p style="TEXT-INDENT:2em">
+	作为国家的象征，<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>需要通过一定的样式、色彩和图案反映一个国家政治特色和历史文化传统。虽然说&ldquo;<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>&rdquo;现在算是最重要的政治标识，但它肯定不是最早的政治标志。原因很简单，要想做一面旗帜，你首先得纺出能飘起来的布。在人类社会发展的过程中，最早承担这一职责的是&ldquo;图腾&rdquo;。图腾的话，大家应该都不会感到陌生，在全球很多有原始氏族文化遗存的地区，都能够看到这种雕刻于木、石材上的象征性图案。很多时候，充作图腾的都是一些艺术加工过的动物形象。</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-036ab2fe94ae0092.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	<strong>龙图腾</strong></p><p style="TEXT-INDENT:2em">
+	&ldquo;图腾&rdquo;一词，据称源自于北美印第安语&ldquo;totem&rdquo;，意思为&ldquo;他的亲属&rdquo;，&ldquo;他的标记&rdquo;，这一释意精准的表明了图腾的内涵和作用。在原始氏族文化中，图腾所起到的作用，本质与现在的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>无异，甚至要更加的神圣。那些被图腾化的动、植物，或者非生物，会被视为氏族的祖先或者保护神。在祖先崇拜的习惯之下，&ldquo;祖先&rdquo;和&ldquo;保护神&rdquo;的概念是统一的。就这点来说，中国人应该不会感到陌生。华夏文明中的&ldquo;龙&rdquo;&ldquo;凤&rdquo;崇拜，包括主体<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>自称为&ldquo;龙的传人&rdquo;，说到底都是源自于祖先崇拜。</p><p style="TEXT-INDENT:2em">
+	<strong>纹章</strong></p><p style="TEXT-INDENT:2em">
+	欧洲人是在地理大发现后，才开启图腾文化研究的。不过图腾信仰，在欧洲其实一直都非常有市场，并且长期充当政治识别物。大家在看展现欧洲中世纪骑士文化的影视作品时，应该注意到过，那些印在贵族盔甲、衣服、兵器等器物上的&ldquo;纹章&rdquo;。从本质来说，纹章就是一种图腾。与那些原始图腾一样，动物形象也是欧洲&ldquo;纹章&rdquo;的最爱。</p><p style="TEXT-INDENT:2em">
+	中世纪的欧洲贵族，是在12世纪时开始为自己设计纹章的，这些专属于某个家族或团体的&ldquo;纹章&rdquo;的作用，最初的作用是在战场上，将自己和对手（包括友军）区别开来，进而成为一种承载家族、团体荣誉的标识。有趣的是，在同样呈现封建割据状态的日本，同时期也发展出了被称之为&ldquo;家纹&rdquo;的纹章文化，只不过日本的&ldquo;家纹&rdquo;多采用植物形象（这跟日本文化有关）。从这一点更能看出，纹章这类特定识别物，是人类社会发展的必然产物。</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-0060fb99c1ef82ab.jpeg" /></p><p style="text-indent: 2em; text-align: center;">
+	日本家纹之龙胆纹</p><p style="TEXT-INDENT:2em">
+	<strong>徽旗</strong></p><p style="TEXT-INDENT:2em">
+	单纯从充当标识物的角度来说，纹章、盾徽、国徽这些徽章形象，应该说是挺合适的了。将之印在旗帜上，便可变身为&ldquo;<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>&rdquo;的形象。很多欧洲古代王国的&ldquo;<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>&rdquo;，就是把王族的纹章印在旗帜上的&ldquo;王旗&rdquo;。直至现代，我们依然可以看见，这种把纹章印在旗帜上，以体现国家历史和独特性的做法。比如在南斯拉夫分裂之后，塞尔维亚、克罗地亚等前南国家在设计新<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>时，就是把代表古代塞尔维亚王国、克罗地亚王国的盾徽，加印在泛斯拉夫国家最喜欢使用的红、蓝、白三色旗上。这种类型的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>，我们不妨称之为&ldquo;徽旗&rdquo;。</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-4c75ab81b0acfbc8.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-8ef8ff10637dae45.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="text-indent: 2em; text-align: center;">
+	&ldquo;徽旗&rdquo;国家分布示意图</p><p style="TEXT-INDENT:2em">
+	尽管国徽能够包含很多信息，并且可以简单的移植到旗帜上变身为&ldquo;徽旗&rdquo;，但其信息的复杂性恰恰也是徽旗的短板。一方面，国徽和徽旗包含的信息再多，也可能不够全面。比如刚才说到的英国国徽，盾徽外圈和下面还印有两条法文，以代表英国历史上曾经被从法国而来的诺曼人所征服。问题是，英国历史上还被丹麦人征服过呢。要是按这个逻辑，其实也应该印一句丹麦文；另一方面，&ldquo;徽旗&rdquo;在设计上也实在是太过复杂了。这一缘于贵族荣誉感的标识物，在设计理念上往往秉持着越复杂越有特色的原则。在现代国家中，<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>的使用场景非常之广，太复杂的设计并不利于传播和使用。于是塞尔维亚、西班牙等使用&ldquo;徽旗&rdquo;的国家，会特别设定有去除掉国徽标志的&ldquo;民用旗&rdquo;。</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-e03088d1ccf30044.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	从构筑归属感上来说，&ldquo;徽旗&rdquo;也有它明显的短板。这是因为，现代国家大都是多<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>国家，可能还会有很多移民加入。在这种情况下，缘自于贵族纹章的&ldquo;徽旗&rdquo;，在建立国民认同感上，便会有很大问题。简单点说，国徽所承载的历史，未必是所有国民的历史。在纹章开始成为欧洲贵族标识的12世纪，已经有人意识到，贵族标识并无法在普通民众心目中建立认同感。</p><p style="TEXT-INDENT:2em">
+	<strong>信仰旗</strong></p><p style="TEXT-INDENT:2em">
+	将宗教标识加入<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>的设计理念，也影响了很多国家。尤其在宗教色彩依然浓厚的伊斯兰国家，体现宗教存在的&ldquo;星月&rdquo;标志，成为了最普遍的设计元素。这种类型的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>，我们可以称之为&ldquo;信仰旗&rdquo;，以区别于之前所说的&ldquo;徽旗&rdquo;。</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-691f0c0cf782550d.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	含有星月的信仰旗所属国家分布示意图</p><p style="TEXT-INDENT:2em">
+	<strong>三色旗</strong></p><p style="TEXT-INDENT:2em">
+	1789年的法国资产阶级革命（法国大革命），是现代社会和现代国家的起点。受这场大革命影响，国家形态在政治、宗教、经济等多方面，发生了翻天覆地的变化。在这一背景下，之前那种王权、教权意味浓厚的&ldquo;徽旗&rdquo;、&ldquo;信仰旗&rdquo;就不太适合新时代了。当时的法国革命者，以及后来的效仿者们，需要一种更简单、更具普世价值的设计，来体现时代的需要，由此诞生了著名的&ldquo;三色旗&rdquo;设计。</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-331e944d15b5d1b2.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="text-indent: 2em; text-align: center;">
+	法国<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a></p><p style="TEXT-INDENT:2em">
+	在三色旗的设计中，每一种颜色都被所在国赋予了不同的含义，并且可以随着时代的需要进行重新解释。像法国三色旗中的&ldquo;白色&rdquo;，最早是代表着法国王室，现在则寓意为&ldquo;平等&rdquo;。今天，三色旗的设计，成为了欧洲<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>最普遍采用的形式。只是颜色毕竟有限，难免还是会出现傻傻分不清的情况。比如法国<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>和俄罗斯<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>，都是红、白、蓝三色。区别在于，法国<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>是：蓝、白、红顺序的左右排列；俄罗斯<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>是白、蓝、红顺序的上下排列。更要命的是，荷兰<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>跟法国<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>颜色和排列顺序都是一样的，区别只在于一个是左右排列，一个是上下排列。</p><p style="TEXT-INDENT:2em">
+	说起来，也不能怪这些国家都那么偏爱：红、白、蓝三色。毕竟作为暖色调、中色调、冷色调中的代表色，这三种颜色放在一起，在美学上的确是挺赏心悦目的。虽说<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>是政治产物，但设计感也是很重要的。</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-292acabdbd4e3b85.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="text-indent: 2em; text-align: center;">
+	红白蓝三色<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>所属国家分布示意图</p><p style="TEXT-INDENT:2em">
+	可以这样说，法国&ldquo;三色旗&rdquo;是对现代<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>形成影响最大的一面旗帜。除了各色&ldquo;条纹三色旗&rdquo;，还变形出其它数量，或者几何图形的色块组合形式。比如在民国初年，寓意&ldquo;五族共和&rdquo;理念的&ldquo;五色旗&rdquo;，就一度成为中国的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>。这种为不同颜色赋予不同含义的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>，我们可以称之为&ldquo;色块旗&rdquo;。事实上，即使五星红旗这样的单一底色<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>，颜色也同样被赋予了特殊的含义。从这一点来说，理念上同样源出于三色旗的设计。</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-4f1e3ca3c40cb8b7.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="text-indent: 2em; text-align: center;">
+	中华民国第一面<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>&mdash;&mdash;五色旗</p><p style="TEXT-INDENT:2em">
+	下面我们从形状、结构、颜色、图案及其它等五个方面，向大家展示<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>那些有意思的小知识。</p><p style="TEXT-INDENT:2em">
+	<strong>形状</strong></p><p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>都是长方形的么？</p><p style="TEXT-INDENT:2em">
+	在一般的认知中，<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>应该都是长方形的。而偏偏有三个国家的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>特立独行，它们分别是：正方形的瑞士、正方形的梵蒂冈、还有世界上唯一三角形形状的尼泊尔。</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-9a80d34c10fbc14d.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="text-indent: 2em; text-align: center;">
+	全球最独特国旗的形状</p><p style="TEXT-INDENT:2em">
+	&nbsp;</p><p style="text-indent: 2em;">
+	但为什么世界上大多数国旗都是长方形的呢？有两种说法，一种说法是长方形的旗帜方便悬挂，且易于飘扬，仔细想想无可反驳。而另一种说法是长方形的长宽比更接近于黄金分割比例0.618，这种样式看起来才最舒服。</p><p style="text-indent: 2em;">
+	有意思，验证一下：</p><p style="text-indent: 2em;">
+	建议横屏观看&darr;</p><p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-8ddb8aee9d6c2415.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="text-indent: 2em;">
+	从图中可以看出最接近0.618这个数字的有两种比例：</p><p style="text-indent: 2em;">
+	11:18=0.6111</p><p style="text-indent: 2em;">
+	5:8=0.625</p><p style="text-indent: 2em;">
+	但这两种比例的国旗加起来只有五幅。反而另外三种比例的国旗脱颖而出，分别是：</p><p style="text-indent: 2em;">
+	1:2=0.5</p><p style="text-indent: 2em;">
+	3:5=0.6</p><p style="text-indent: 2em;">
+	2:3=0.6667</p><p style="text-indent: 2em;">
+	后两种较接近0.618，而1:2的比例与黄金分割线的数字相差甚远，可见也不是所有国家设计国旗的时候都有这种想法。</p><p style="text-indent: 2em;">
+		Tips</p><p style="text-indent: 2em;">
+		（1）中国国旗比例为2:3</p><p style="text-indent: 2em;">
+		（2）世界上唯一一面宽比长还长的国旗是尼泊尔，没错，三角形的那个尼泊尔。</p><p style="TEXT-INDENT:2em">
+	<strong>II 结构</strong></p><p style="TEXT-INDENT:2em">
+	世界上国旗的样式看似五花八门，不过如果按照结构来区分，我们可以把他们分成二十种样式。</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-e2d08a82461d9ef0.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	这二十个样式中，占比多的说了也不一定能记住，就贴出有几个独树一帜的吧。</p><p style="TEXT-INDENT:2em">
+	No.1 对称十字</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-1ce925c72c912452.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	这三面<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>中的十字代表的都是基督教信仰，多米尼加和多米尼克是位于加勒比海的两个岛国，可以叫他们&ldquo;夹克组合&rdquo;。而位于欧亚分界线的格鲁吉亚，<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上的十字还有个特定的名称&mdash;&mdash;圣乔治十字。</p><p style="text-indent: 2em; text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-18cdebcd6d50b444.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="text-indent: 2em; text-align: center;">
+	英格兰圣乔治十字旗</p><p style="TEXT-INDENT:2em">
+	No.2 北欧十字</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-b4cb6d492dba8bd3.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	无一例外，拥有北欧十字结构的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>都分布在北欧。最根正苗红的当属丹麦，据丹麦史诗记载，公元1219年，丹麦国王率领军队向爱沙尼亚的异教徒征战。在一场战斗中，丹麦军队陷入困境。突然，天上飘来一面带有白色十字的红旗，并且伴随着一个响亮的声音：&ldquo;抓住这面旗帜就是胜利！&rdquo;在这面旗帜的鼓舞下，丹麦士兵们奋勇作战，转败为胜！于是，白色十字红旗就成为了丹麦王国的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>。由于丹麦经历了一段辉煌的强盛时期，受其影响，周边的几个国家<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>也均有北欧十字的图案。</p><p style="TEXT-INDENT:2em">
+	No.3 中心十字</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-db13cb2e67203dac.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	上面说形状的时候也出现过瑞士，正方形的旗面象征国家在外交上采取的公正和中立的政策，白色的十字象征着和平、公正和光明。此结构全世界仅此一面。</p><p style="TEXT-INDENT:2em">
+	No.4 横Y形</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-9669185c27525860.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	南非位于非洲南部，横Y形象征<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>和解、<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>团结。瓦努阿图是位于大洋洲的岛国，横Y形则表示的是该国岛屿的分布形状。</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-e3e2cbd31b1519e1.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	瓦努阿图示意图</p><p style="TEXT-INDENT:2em">
+	No.5 X形</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-c6741eb5bf09b146.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	布隆迪位于非洲中东部，牙买加是加勒比海地区的岛国，两国<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>的X形都没有具体的意义。牙买加<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>的识别度会更高一些，记住博尔特的配色就记住了<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>的样子。剩下那个就是布隆迪了。</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-574abbbd7a21bd3c.jpg" /></p><p style="TEXT-INDENT:2em">
+	博尔特</p><p style="TEXT-INDENT:2em">
+	No.6 米字形</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-2a2d7b00b3b713ba.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	英国位于欧洲大陆的西北部，作为出现频次较多的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>对于大多数人来说并不陌生，但<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上的米字形却值得一说。</p><p style="TEXT-INDENT:2em">
+	英国作为一个联合王国，是由英格兰、威尔士、苏格兰、北爱尔兰以及一系列附属岛屿共同组成，<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上的米字就是由其中的英格兰、苏格兰和北爱尔兰的旗帜叠加而成的。</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-4cff2dd860ef6b92.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	此结构全世界仅此一面</p><p style="TEXT-INDENT:2em">
+	No.7 锯齿形</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-7988e3ca967f1cda.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	两个位于波斯湾的相邻小国，巴林<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上五个锯齿表示伊斯兰教的五功&mdash;&mdash;念功、拜功、课功、斋功、朝功，而卡塔尔<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上的九个锯齿代表卡塔尔国是由九个酋长国组成的。区别这两个<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>的方法是，谁国家名长，<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>越长，锯齿越多，颜色越深。</p><p style="TEXT-INDENT:2em">
+	No.8 正v形</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-97323215484b8f7e.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	安提瓜和巴布达是位于加勒比海地区的岛国，<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>中v字象征的是人民的力量和取得的胜利。V字中有半轮旭日从加勒比海上冉冉升起。从视觉上这面旗帜仿佛穿着一件深V礼服，应该被评为最性感的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>，只是国家名不太好记。</p><p style="TEXT-INDENT:2em">
+	No.9 横梯形</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-95c1875905714abc.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	科威特紧邻波斯湾，横放的梯形没有具体的含义，此结构全世界仅此一面。</p><p style="TEXT-INDENT:2em">
+	No.10 四等分</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-99f182abb81c7ddc.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	巴拿马位于中美洲，最令人熟知的一定是作为南北美洲分界线的巴拿马运河。而<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上四等分的设计，象征的是巴拿马位于南美洲、北美洲、大西洋、太平洋四个区域的交界处，看地图尤其有助于记忆。此结构全世界仅此一面。</p><p style="TEXT-INDENT:2em">
+	No.11 右下方格</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-dbe181c668335f24.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	赞比亚位于非洲中南部，<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>右下角方格由红、黑、橙三色组成，分别象征为自由而斗争、赞比亚人和国家矿藏。此结构全世界仅此一面。</p><p style="TEXT-INDENT:2em">
+	No.12 三角形</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-86a0f311552627b6.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	这个，不多说了。</p><p style="TEXT-INDENT:2em">
+	最后，介绍一款最包容的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>，挪威。它把其他六个国家的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>融合在了一起，完美！</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-23a9d9fa194743b8.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	<strong>颜色</strong></p><p style="TEXT-INDENT:2em">
+	把全世界的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>放在一起，五彩斑斓。</p><p style="text-align: center;">
+	<a href="http://114.xixik.com/country-flag/" title="世界各国国旗"><img src="http://img.xixik.net/custom/section/guoqi/xixik-212d85298d9ec782.jpeg" style="width: 90%; max-width: 90%;" /></a></p><p style="text-align: center;">
+	<a href="http://114.xixik.com/country-flag/" title="世界各国国旗">世界各国国旗</a></p><p style="TEXT-INDENT:2em">
+	有没有想过<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上哪种颜色出现的次数最多呢？</p><p style="TEXT-INDENT:2em">
+	我们将<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上出现的所有颜色都记录了下来，最终确认出现了：红色、蓝色、浅蓝色、白色、橙色、黄色、绿色、咖啡色、紫红色、灰色、黑色，共计11种颜色。</p><p style="TEXT-INDENT:2em">
+	他们出现的频率如下表所示：</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-a1ab4726a55be2f6.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	红色以微弱优势领先白色拔得了头筹。紫色和灰色看起来最没有存在感。<a href="http://www.xixik.com/content/364440598cd7a922" title="为何世界各国国旗几乎没紫色？">国旗有使用紫色</a>。</p><p style="TEXT-INDENT:2em">
+	大多数<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上的颜色都代表着一些特定的含义，比如红色代表鲜血、革命，蓝色代表蓝天、海洋等等。</p><p style="TEXT-INDENT:2em">
+	另外，在世界上的所有<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>中，每面<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>出现的颜色都是两种或两种以上，看起来拥有三色搭配的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>比较多，那么到底几色搭配的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>更多些呢？</p><p style="TEXT-INDENT:2em">
+	统计如下：</p><p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>色彩组合中出现了从二色到八色的不同种搭配，<strong>三色搭配的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>以73次之多占据了榜首</strong>。</p><p style="TEXT-INDENT:2em">
+	说到这，又出现了一个问题，为什么三色这么受欢迎？是哪三种颜色出现的频次最多呢？</p><p style="TEXT-INDENT:2em">
+	经过统计，三色搭配中最受青睐的是红、白、蓝三种颜色。一些国家因为信仰、地域等原因选择相同的几种<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>配色，以表示各国家之间隐藏的一些内在联系。这其中包括了三种配色，分别是泛非色、泛阿拉伯色和泛斯拉夫色。</p><p style="TEXT-INDENT:2em">
+	<strong>泛非色</strong></p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-174a3582790b9642.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	泛非色指的是两种<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>色彩组合。分别是绿、黄、红和红、绿、黑。绿、黄、红三色最早来自于埃塞俄比亚<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>的颜色，而红、绿、黑三色则是世界黑人改良协会所提倡的泛非颜色。所有以泛非色为主色调的国家均分布在非洲。</p><p style="TEXT-INDENT:2em">
+	<strong>泛阿拉伯色</strong></p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-5440bdb959753524.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	泛阿拉伯色起源于阿拉伯大起义旗，广泛被阿拉伯国家选为<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>的颜色。包括红、黑、白、绿四种主色。</p><p style="TEXT-INDENT:2em">
+	<strong>泛斯拉夫色</strong></p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-cb4c72afbb7103bb.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	泛斯拉夫色指的是红、蓝、白三色。这三种颜色被广泛使用在以斯拉夫人为主体<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>的国家<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>中。泛斯拉夫色起源于俄罗斯<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>。世界上还有很多国家采用红、白、蓝三色作为<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>色彩，但其含义有不少都来自于法国<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>中的&ldquo;自由、平等、博爱&rdquo;。</p><p style="TEXT-INDENT:2em">
+	<strong>国旗的图案</strong></p><p style="TEXT-INDENT:2em">
+	为了给<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>赋予更多的意义，很多国家都会在<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上设计一些图案。比如月亮、星星、鹰、狮子之类。跟选择颜色一样，很多国家也会对特定的几种图案情有独钟，到这里还可以再猜想一下，哪种图案是<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上出现频次最多的？由于图案元素过多，这里没有完整的统计图表，但可以确认星星图案以出现在69面<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上、共计293个之多排在了榜首。</p><p style="TEXT-INDENT:2em">
+	<strong>No.1 国旗上的星星</strong></p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-fa4ea9eec33792c7.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="text-indent: 2em; text-align: center;">
+	带有星星的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>所属国家分布示意图</p><p style="TEXT-INDENT:2em">
+	在<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上出现的所有星星，也不是都长一个模样。</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-04b518e142b8be18.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-c1fa5175a7f86900.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-1c813b512f7acdc9.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	白色星星看起来最受欢迎，其中美国和巴西都贡献了不少。</p><p style="TEXT-INDENT:2em">
+	<strong>No.2 国旗上的太阳</strong></p><p style="TEXT-INDENT:2em">
+	除了星星，太阳也是<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上的常客。</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-b1780f21d87fc7ca.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上的太阳都长什么样子？</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-679ff1c5016613d1.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	阿根廷和乌拉圭这两个栩栩如生的太阳图案最让人印象深刻，从他们在南美洲相邻的位置也可以看出一些端倪，两个国家在历史上曾经组成过一个国家，所以两面<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>颜色和图案都较为接近。</p><p style="TEXT-INDENT:2em">
+	<strong>No.3 国旗上的月亮</strong></p><p style="TEXT-INDENT:2em">
+	月亮也出现了不少次。</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-1c1cbfe6e50081d7.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上的月亮都长什么样子？</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-6e46e0d17df8af51.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	最有特点的非帕劳莫属，作为太平洋上的群岛国家，象征海洋的蓝色铺满了整面<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>，加上象征<a href="http://114.xixik.com/minority/" style="color:#000" title="民族">民族</a>团结和结束外国统治的黄色月亮，颇有些海上生明月的意境。</p><p style="TEXT-INDENT:2em">
+	<strong>No.4 国旗上的星月组合</strong></p><p style="TEXT-INDENT:2em">
+	在这些天体图案中又有两种组合比较有特点，一个是星月组合，即星星和月亮同时出现，在全世界<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>中一共出现过13次。</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-d3af542b4efbefbd.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	而其中<strong>除了新加坡和尼泊尔外，所有的星月组合都有象征伊斯兰教的含义。</strong></p><p style="TEXT-INDENT:2em">
+	Tips</p><p style="TEXT-INDENT:2em">
+	新加坡的新月象征国家，五颗星代表国家建立民主、和平、进步、正义和平等的思想。</p><p style="TEXT-INDENT:2em">
+	尼泊尔<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上，上面的三角形旗中是白色弯月、星图案，代表皇室；下面三角形旗中的白色太阳图案来自拉纳家族的标志。太阳和月亮图案也代表尼泊尔人民祈盼国家象日月一样长存的美好愿望。两个旗角表示喜马拉雅山脉的两个山峰。</p><p style="TEXT-INDENT:2em">
+	<strong>No.5 国旗上的南十字星座组合</strong></p><p style="TEXT-INDENT:2em">
+	另外一种组合是南十字星座组合。南十字星座是全天88个星座中最小的星座，位于半人马座(Centaurus)与苍蝇座(Mosca)之间的银河。星座中主要的亮星组成一个&ldquo;十&rdquo;字形。在北回归线以南的地方皆可看到整个星座。而所有含有南十字星座的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>所属的国家位置也都在北回归线以南。</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-cb09d68bc1dc3919.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-4477139e4c04c138.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	这其中最值得一提的是巴西<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>。它的背景绿色代表茂密的丛林，中央黄色菱形代表丰富的矿产资源，中央蓝色球体代表天球，没错，是天球不是地球，这也是巴西在设计<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>时最厉害的地方。</p><p style="TEXT-INDENT:2em">
+	巴西<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上的南十字星座和其他几面<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上的南十字星座稍显不一。它在结构上做了一个镜面的对称。而这也是设计的精妙之处，它的视角是从宇宙的角度来看天球，简单说就是上帝视角。</p><p style="TEXT-INDENT:2em">
+	蓝色天球中央的条带代表了黄道，标语Ordem eProgresso是葡萄牙语，意思是秩序与进步。大家在巴西的地图上寻找南十字星座会稍觉费力，是因为巴西的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上设计了9个星座共计27颗星，而这27颗星也对应着他的27个行政区。</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-65406e028fd1f9e2.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	No.6 行政对应</p><p style="TEXT-INDENT:2em">
+	巴西<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上的星星数目对应着国家的行政区，另一个被人熟知的案例应该是<a href="http://www.xixik.com/content/c089e9b3ca1aeef3" title="美国的星条旗上的50颗星星">美国的星条旗上的50颗星星</a>，那么，还有没有其他<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上也有类似这种设计呢？</p><p style="TEXT-INDENT:2em">
+	统计如下：</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-86d2c26afe3a982d.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+		1、菲律宾<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上太阳最长的八个光束代表最初起义的8个省，其它光芒代表其他省，三颗黄色五角星代表菲律宾的三大地区：吕宋、米沙鄢和棉兰老。</p><p style="TEXT-INDENT:2em">
+		2、卡塔尔<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上九个锯齿代表该国由九个酋长国组成。</p><p style="TEXT-INDENT:2em">
+		3、索马里<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上白色五角星的五个角代表该国的五个地区。</p><p style="TEXT-INDENT:2em">
+		4、圣多美和普林西比两颗黑色五角星代表圣多美、普林西比两个大岛。</p><p style="TEXT-INDENT:2em">
+		5、科摩罗<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上的四个白色五角星和四横条都象征科摩罗群岛的四个主要岛屿。</p><p style="TEXT-INDENT:2em">
+		6、克罗地亚<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上的国徽来自9世纪的克罗地亚古老王国的标志，五个小盾象征当时王国的五个省区。</p><p style="TEXT-INDENT:2em">
+		7、澳大利亚<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上最大的白色七角星象征组成该国的六个州和联邦区。</p><p style="TEXT-INDENT:2em">
+		8、所罗门群岛<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上的白色五角星代表该国的五个区域，东、西、中央、马莱塔和其他外围岛屿。</p><p style="TEXT-INDENT:2em">
+		9、瑙鲁<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上的白色十二角星象征该国原来的12个部落。</p><p style="TEXT-INDENT:2em">
+		10、图瓦卢<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上的9颗黄色五角星代表该国的九个环形珊瑚岛。</p><p style="TEXT-INDENT:2em">
+		11、马绍尔群岛<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上的太阳的24道光芒象征该国的24个市政区域。</p><p style="TEXT-INDENT:2em">
+		12、密克罗尼西亚联邦<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上的4个白色五角星代表该国的四个州。</p><p style="TEXT-INDENT:2em">
+		13、美国<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上13道红白相间的宽条代表最早发动独立战争并取得胜利的13个州，50个白色五角星代表美国的<a href="http://114.xixik.com/states/" style="color:#000" title="美国50个州">50个州</a>。</p><p style="TEXT-INDENT:2em">
+		14、多米尼克<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上的10颗五角星代表该国的10个地区。</p><p style="TEXT-INDENT:2em">
+		15、圣基茨和尼维斯<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上两颗白色五角星象征圣基茨岛和尼维斯岛。</p><p style="TEXT-INDENT:2em">
+		16、格林纳达<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上的七颗五角星代表全国的七个行政区。</p><p style="TEXT-INDENT:2em">
+		17、委内瑞拉<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上的七颗星代表1811年委内瑞拉联邦的七个省，在时任总统查韦斯的推动下，2006年3月7日，委内瑞拉国民议会通过了对<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>和国徽的修改意见，决定把<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上7颗星增加为8颗。新增加的一颗星代表1817年摆脱西班牙统治、并入委内瑞拉的圭亚那省。</p><p style="TEXT-INDENT:2em">
+		18、乌拉圭历史上曾同阿根廷组成一个国家，<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上的九道宽条代表当时组成共和国的九个政治区域。</p><p style="TEXT-INDENT:2em">
+		19、巴西<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上的27颗白色星星代表巴西26个州和一个联邦区。</p><p style="TEXT-INDENT:2em">
+		20、马来西亚<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上的14道红白横条和14角星象征马来西亚的13个州和一个联邦直辖区。</p><p style="TEXT-INDENT:2em">
+		21、多米尼克<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上的红色圆地象征该国所执行的社会发展计划，10颗五角星代表该国的10个地区。</p><p style="TEXT-INDENT:2em">
+		22、库克群岛<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上的十五颗星星构成的圆环代表了组成库克群岛的15个岛屿。</p><p style="TEXT-INDENT:2em">
+		23、赤道几内亚<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上的六颗黄色六角星象征该国原来的六个区域。</p><p style="TEXT-INDENT:2em">
+		24、玻利维亚<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上的十颗五角星代表组成玻利维亚的九个省和在1879年在与智利交战中逝去的唯一的沿海省份。</p><p style="TEXT-INDENT:2em">
+	<strong>No.7 国旗上的地图</strong></p><p style="TEXT-INDENT:2em">
+	除了代表行政区的，世界上还有一个国家的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上印上了自己的地图。它就是塞浦路斯。</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-90320d19f13792d5.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	<strong>No.8 国旗上的米字图案</strong></p><p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上除了上述几个带有行政或疆域意义的图案外，还有一些带有殖民色彩的图案，这其中最有名的当属英国的米字图案。<a href="http://www.xixik.com/content/c6469dafa0016703" target="_blank" title="真正的日不落帝国 历史上英国曾侵略过90%国家">英国是曾经的日不落帝国，英国侵略过90%国家</a>，殖民地遍布全球，而各个殖民地的旗帜也因为和英国的关系加上了米字。现今<a href="http://www.xixik.com/content/005a8c794b6c1da7" title="带米字旗的六个国家">世界上带有米字图案的国家国旗有6个国家</a>：</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-41503f6751a042f0.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	<strong>No.9 国旗上的动物</strong></p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-461dcd7443c43624.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	为了有更直观的视觉效果，我们把所有的动物都从<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上抠下来，放在一起看。</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-66e232eb9e21e1af.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-cbe8c2a6433aff6b.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-ae5b61cacd10e024.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	很明显，鹰出现的次数最多，可见对自由的向往是全世界各族人民所共有的美好愿望。</p><p style="TEXT-INDENT:2em">
+	<strong>No.10 国旗上的植物</strong></p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-cc1e5923740fc54f.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	还是抠出来放在一起看。</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-12a6838c99f9362b.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-379c7eb32963d61b.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-b23382c16ac76304.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-82c8d97799a82919.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	植物中出现最多的是月桂树枝，月桂传说是献给太阳神阿波罗的神圣植物，自远古时代就是欢乐的象征。月桂编织成的花冠被佩戴在诗人的头顶，月桂树枝则作为胜利的标志，经常出现在庆祝凯旋的场合中。</p><p style="TEXT-INDENT:2em">
+	<strong>No.11 国旗上的建筑物</strong></p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-735e6971332265c9.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	全世界只有四面<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上拥有建筑物，它们长这样。</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-94041def29fbdd26.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	<strong>No.12 国旗上的武器</strong></p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-4291b2f0812f1a23.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	它们长这样：</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-38020463d8e6b3ac.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	冷、热兵器还都有，莫桑比克的AK47和海地的大炮尤其抢眼。</p><p style="TEXT-INDENT:2em">
+	<strong>No.13 国旗上的文字</strong></p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-a73543d73f6c2a3a.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	国旗上的文字翻译如下：</p><p style="TEXT-INDENT:2em">
+		文莱：&ldquo;永远在真主指导下，万事如意&rdquo;&ldquo;和平之城&mdash;&mdash;文莱&rdquo;</p><p style="TEXT-INDENT:2em">
+		伊朗：&ldquo;真主伟大&rdquo;</p><p style="TEXT-INDENT:2em">
+		阿富汗：&ldquo;万物非主，唯有真主，穆罕默德是安拉的使者&rdquo;国名与&ldquo;1298&rdquo;</p><p style="TEXT-INDENT:2em">
+		伊拉克：&ldquo;真主至高无上&rdquo;</p><p style="TEXT-INDENT:2em">
+		沙特阿拉伯：&ldquo;万物非主，唯有真主，穆罕默德是安拉的使者&rdquo;</p><p style="TEXT-INDENT:2em">
+		西班牙：&ldquo;海外还有大陆&rdquo;</p><p style="TEXT-INDENT:2em">
+		圣马力诺：&ldquo;自由&rdquo;</p><p style="TEXT-INDENT:2em">
+		埃及：&ldquo;阿拉伯埃及共和国&rdquo;</p><p style="TEXT-INDENT:2em">
+		赤道几内亚：&ldquo;团结、和平、正义&rdquo;</p><p style="TEXT-INDENT:2em">
+		危地马拉：&ldquo;1821年9月15日，自由&rdquo;</p><p style="TEXT-INDENT:2em">
+		伯利兹：&ldquo;我在林荫中繁荣昌盛&ldquo;&rdquo;</p><p style="TEXT-INDENT:2em">
+		萨尔瓦多：&ldquo;1821年9月15日，自由&rdquo;&ldquo;上帝、团结、自由&rdquo;&ldquo;中美洲萨尔瓦多共和国&rdquo;</p><p style="TEXT-INDENT:2em">
+		尼加拉瓜：&ldquo;中美洲尼加拉瓜共和国&rdquo;</p><p style="TEXT-INDENT:2em">
+		海地：&ldquo;团结就是力量&rdquo;</p><p style="TEXT-INDENT:2em">
+		多米尼加：&ldquo;上帝、祖国、自由&rdquo;&ldquo;多米尼加共和国&rdquo;</p><p style="TEXT-INDENT:2em">
+		委内瑞拉：&ldquo;1810年4月19日独立&rdquo;&ldquo;1859年2月20日联邦&rdquo;&ldquo;委内瑞拉共和国&rdquo;</p><p style="TEXT-INDENT:2em">
+		玻利维亚：&ldquo;玻利维亚&rdquo;</p><p style="TEXT-INDENT:2em">
+		巴拉圭：正面-&ldquo;巴拉圭共和国&rdquo;，背面-&ldquo;和平与正义&rdquo;</p><p style="TEXT-INDENT:2em">
+		巴西：&ldquo;秩序与进步&rdquo;</p><p style="TEXT-INDENT:2em">
+		马耳他：&ldquo;团结增强力量&rdquo;</p><p style="TEXT-INDENT:2em">
+	其他</p><p style="TEXT-INDENT:2em">
+	除了上面我们所提到的相同颜色组合，<strong><a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>中还有一些，在面相上不是亲生胜似亲生的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>。</strong></p><p style="TEXT-INDENT:2em">
+	<strong>No.1 国旗上的星条旗系列</strong></p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-14a98bdc4fc38902.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-0368def60db251ea.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	美国星条旗是美国国旗的俗称。美国的国旗上有13条红白相间的横条和50颗蓝底白星，称为星条旗。最初，星条旗上只有13条横条和13颗星星，代表了独立之初美国的13个州，它们分别是北美大西洋沿岸的罗得岛、康涅狄格、纽约、新泽西、宾夕法尼亚、马里兰、特拉华、弗吉尼亚、北卡罗来纳、南卡罗来纳和佐治亚。</p><p style="TEXT-INDENT:2em">
+	马来西亚国旗的旗地颜色是红白相间的十四道相等的横条。靠旗杆一边的左上方为深蓝色长方形，上有一弯新月和颗十四个尖角的星 。马来西亚国旗的14道红、白横条象征马来西亚的13个州和政府，新月象征马来西亚人民对伊斯兰教的信仰，14个尖角的太阳星象征马来西亚13个州和政府的团结。蓝色长方形代表人民的团结，并表明马来西亚与英联邦的关系（英国国旗以蓝色为旗面），黄色则是国家元首的象征。</p><p style="TEXT-INDENT:2em">
+	利比里亚国旗由红、白相间的11道平行横条组成，左上角为蓝色正方形，内有一白色五角星。11道红白条纹是纪念利比里亚独立宣言的11个签字者。红色象征勇气，白色象征美德，蓝色象征非洲大陆，正方形表达利比里亚人民渴望自由、和平、民主和博爱的美好愿望；五角星象征当时非洲唯一的黑人共和国。</p><p style="TEXT-INDENT:2em">
+	<strong>No.2 国旗上的大饼（太阳）系列</strong></p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-aade3f501ce1a024.png" style="width: 90%; max-width: 90%;" /></p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-c7239963f790c229.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	<strong>No.3 国旗上的明星系列</strong></p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-782005badff9eaa4.png" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	这三面<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>中越南有比较标准的共产主义配色；摩洛哥地处北非，绿色的星星带有伊斯兰教的含义。索马里<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上的蓝色是为纪念联合国协助索马里从意大利独立，选择了和联合<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>帜一样的颜色，白色五角星分别代表原索马里的五个地区。</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-93b79838ce182088.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	<strong>No.4 国旗上的不可描述系列</strong></p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-da8ff4970337049d.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	这个，真分不清楚啊&hellip;&hellip;印刷厂一个色差就差十万八千里了。</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-218c5e8cb210a3bb.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-a8b9df25dfd0114a.jpeg" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">
+	这个，不把两面<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>放一块，真分不清楚啊。尺寸一个误差就&hellip;&hellip;</p><p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-f9c1b2c729678a9e.jpeg" style="width: 90%; max-width: 90%;" /></p>
+<p style="TEXT-INDENT:2em">来源：<a title="世界各国国旗 " style="color:#000;" href="http://114.xixik.com/guoqi/"><strong>世界各国国旗 </strong></a>：<a title="世界各国国旗 " href="http://114.xixik.com/guoqi/">http://114.xixik.com/guoqi/</a></p>
+                </div>
+            </div>
+        </div>
+        
+        
+        <a name="anchor2"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        五星红旗外38面备选国旗</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                   
+                    <p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-0701e2796173b1c2.jpg" /></p>
+<p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-f9c0cdfe6f704170.jpeg" /></p>
+<p style="text-align: center;">
+	2020年4月19日，瑞士采尔马特市旅游局用灯光将一面中国国旗投射到附近阿尔卑斯山脉最美、最震撼人心的山峰&mdash;&mdash;马特洪峰。</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-af033b5dc310560d.png" style="width: 90%; max-width: 90%;" /></p>
+<p style="TEXT-INDENT:2em">
+	中华人民共和国（People&#39;s Republic of China）的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>是五星红旗。 但你又是否知道，其实，当初毛ZD最中意的并不是五星红旗，而且，原来方案中的五星红旗，其实并不是现在这样。而且当时备选方案中有38副<a href="http://114.xixik.com/country-flag/" style="color: rgb(0, 0, 0);" title="国旗">国旗</a>样式。</p>
+<p style="TEXT-INDENT:2em">
+	1949年6月16日，新政协筹备会决定成立国旗、国徽图案初选委员会，并于当年7月14日－8月15日在《人民日报》等报纸上发表征求启事。1949年9月中国人民政治协商会议第一届全体会议期间，初选委员会将收到的3012幅图案选了38幅印发全体代表讨论。经全体代表分组讨论后，9月25日晚，毛ZD召开国旗、国徽、国歌、纪年、国都协商座谈会。关于国旗的问题，毛ZD指出，五星红旗这个图案表现我们革命人民大团结，将来也要大团结，因此，现在也好，将来也好，又是团结，又是革命。毛的讲话博得了热烈的掌声。1949年9月27日，全国政协第一届全体会议代表通过了以五星红旗为国旗的议案。</p>
+<p style="TEXT-INDENT:2em">
+	中华人民共和国国旗的解读：红色象征革命。旗上的五颗五角星及其相互关系象征CPC领导下的革命人民大团结。五角星用黄色是为了在红地上显出光明，黄色较白色明亮美丽，四颗小五角星各有一尖正对着大星的中心点，这是表示围绕着一个中心而团结，在形式上也显得紧凑美观。</p>
+<p style="TEXT-INDENT:2em">
+	当时备选方案中有38副<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>样式，那这些<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>样式又长什么样呢？这些备选的国旗在颜色上毫无例外都是红色，对应了CPC的主色（模仿苏联），辅以黄色为多。图案上均以各种星星的样式为主，斧头镰刀为辅。</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-c2b4d33de1ae2e28.png" style="width: 90%; max-width: 90%;" /></p>
+<p style="TEXT-INDENT:2em">
+	这就是五星红旗最初的版本，该<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>样式由曾联松设计，刚开始该<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>方案并未被采纳，<a href="http://www.xixik.com/content/a2fb369fdb2aa2a1" title="五星红旗原稿太像苏联国旗 差点被否决田汉力保">后来在田汉的主张下才被收入</a>，去除了类似苏联<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>的锤子镰刀的标志。当时毛中意的是一颗星一条横杠图案，但张治中认为一条横杠有分裂国土、分裂革命之嫌，他坦诚直言：&ldquo;我反对用这个图案，红色是代表国家和革命的，中间这一杠，把红旗劈为两半。不变成分裂国家、分裂革命了吗？同时，以一杠代表黄河也不科学，像孙猴子的金箍棒。&rdquo;这大概是他留在大陆唯一一次直言吧。华侨陈嘉庚也反对，毛采纳建议，遂采用五星红旗。</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-ec23dce50dd10768.png" style="width: 90%; max-width: 90%;" /></p>
+<p style="TEXT-INDENT:2em">
+	这幅就是当年差点打败五星红旗的另一个<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>方案，也是毛泽东开始比较中意的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>样式。 中间的横杠代表黄河。但是由于黄杠切红地，有分裂的即视感，所以受到张治中的反对，陈嘉庚也持类似意见，后来毛采纳该建议，转而支持五星红旗。</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-05d1866bdc7c3cd3.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	这款<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>样式很明显是受了民国&ldquo;青天白日满地红&rdquo;<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>的影响，把左上角的青天白日改成青天红星。很明显，这是一面不讲政治的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>方案，所以很快被否了。</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-1bd011bdfaa7f03c.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	这面<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>跟上面那面最大的不同，就是多了麦穗和三颗星星，不过，都说了，我D不喜欢青天白日满地红，所以这面<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>的命运跟上面一个一样，当场被毙掉。</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-35006bcd4a70d45a.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	这是上面2号备选<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>方案的变种，一条斜杠不是代表黄河吗？那不还有长江嘛，所以就再划一条杠&hellip;&hellip;（这样没有创意的滥竽充数真的好么？）</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-b102476cb39b7b95.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	这个方案跟上面一个一样，也是非常没有创意的，多加了一杠，据说是代表松花江！（珠江表示不服！）</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-b7f02f27ae40cb43.png" /></p>
+<p style="TEXT-INDENT:2em">
+	我已经被这款打败了&hellip;&hellip;这没有画完的直线是怎么回事？代表黄河源头在我国西部，然后全境都在国内？请问跟上面2号的那款主要区别在哪里？</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-63af68b3225ddec3.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	看来一杠黄的设计还是比较受大众欢迎的，不过我不是很明白这一杠黄从五星中穿过是几个意思，难道是代表我D率领的队伍在黄河咆哮吗？</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-b0803ea5bc9b3a06.png" /></p>
+<p style="TEXT-INDENT:2em">
+	这款<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>样式的黄杠粗地我开始怀疑人生，这是代表黄河吗？看这<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>有种全国三分之一的土地都在黄泛区的即视感&hellip;&hellip;</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-eb224ea18ceac8b3.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	这款<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>方案一看就很不严肃，五色旗加镰刀锤子再加满地红，不伦不类，还不如青天红星满地红呢&hellip;&hellip;</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-be9fedc86086b4eb.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	为什么我总感觉中间这个镰刀锤子好像摆放错了位置&hellip;&hellip;其实，这个方案内容还是比较丰富的，不过，为什么又是这么粗粗的一道黄杠啊！建国时的人们为什么对黄河感情这么深啊！！为什么这么多副<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>方案总是绕不过这条黄杠啊！啊！啊！啊！就没人想起长江吗？</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-7fe14f046008caa3.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	这有点类似国徽放中间，但问题是，我们的国徽根本不是你好吧，所以，这款<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>也就默默地飘过了&hellip;&hellip;</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-eba7f15725902f8b.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	这款<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>相对而言，请注意，是相对而言，是稍微有创意的，至少用了一个三角形。 其实我挺喜欢这款的，它让我想起了过年红包&hellip;&hellip;</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-c370a897000e3920.png" /></p>
+<p style="TEXT-INDENT:2em">
+	这款<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>，让我想到了信封。 没错，还是那种贯彻落实社会主义核心价值观的信封！富强、民主、文明、和谐，倡导自由、平等、公正、法治，倡导爱国、敬业、诚信、友善！</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-817ef2bbaa764568.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	完全没办法理解中国的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>为什么要用十字架，肯定是信基督的同志设计的！而且还有点倾斜。开玩笑，我D可是无神论者！</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-2804b23575632cc7.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	这款跟上一款没有本质的区别，我搞不懂为什么方案里面有这么多相似的创意！不过感觉是这里面最时尚的。</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-52ca59ee133db0c4.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	额，贵D是以发动农民革命，农村包围城市取胜的，工人怎么可以独占鳌头呢？不过很多人看到这面<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>方案时第一时间想到的是工商银行&hellip;&hellip;ICBC！</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-fb30c76773dd3886.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	这个齿轮，很明显是代表了工人阶级&hellip;&hellip;我党都被齿轮包围了&hellip;&hellip;但是真的要图案，贵D肯定要麦穗，农民嘛。</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-3cc10457de2f02a2.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	这款在样式上很明显比上面那款要漂亮很多。不过&hellip;&hellip;为什么这颜色让我想到了纳粹？</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-02426193065e65e7.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	三颗小星星对阵大齿轮，有种瞬间碾压的即视感&hellip;&hellip;</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-3ef4f5639ad68d99.png" /></p>
+<p style="TEXT-INDENT:2em">
+	这款逼格明显与其他的不同，你看，人家都是镰刀锤子，它是斧头锤子！果然斧头比镰刀更有杀气！</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-b1e17deb7f197289.png" /></p>
+<p style="TEXT-INDENT:2em">
+	看来当时的人们对齿轮也是情有独钟&hellip;&hellip;工人阶级果然地位很高啊！</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-13cbdd2b0cd143a6.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	这里<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>方案的画风开始变了，加上了白色，红白配，是不是有点像后来的新加坡<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>？哦！不，新加坡国旗或许借鉴了这款呢。</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-48069004c74be036.png" /></p>
+<p style="TEXT-INDENT:2em">
+	从青天红星满地红变成了白天红星满地红，只是颜色变了，但感觉完全不一样了&hellip;&hellip;请原谅我，我想到了医院&hellip;&hellip;</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-439255b8ad8b967b.png" /></p>
+<p style="TEXT-INDENT:2em">
+	好长的一条白条&hellip;&hellip;</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-0b5a33c0db9d648b.png" /></p>
+<p style="TEXT-INDENT:2em">
+	其实我党一直都反对白色恐怖，<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>里再体现红星在白带里，这个政治寓意就不吉利&hellip;&hellip;所以也PASS掉了</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-0b0d3d4d57ede196.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	这条白天红星满地红旗多了两个黑杠，瞬间有种海军的格调了&hellip;&hellip;不过，依然没有给人眼前一亮的感觉，创意！idea！在哪里？</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-09ed0bbb97ca7e82.png" /></p>
+<p style="TEXT-INDENT:2em">
+	所以这就是创意了吗？满满的带你装逼带你飞的即视感，两个麦穗带了齿轮飞，还要带上一颗星星，哥，不超载吗？</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-fb97469a0829b246.png" /></p>
+<p style="TEXT-INDENT:2em">
+	基调还是红白，但是还是两杠，实在不明白当时的人们为什么一定要把长江黄河放到<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>上，你让珠江怎么想？求珠江的心理阴影面积&hellip;&hellip;</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-342c6661c6177220.png" /></p>
+<p style="TEXT-INDENT:2em">
+	这个竖着的黄带我确实不明白什么意思。我觉得当时的人们能在这么一堆<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>方案中挑<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>，真的是难为他们了！终于知道为什么五星红旗那么闪闪发光了，有对比啊！</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-c3d2d74ba14dbf4e.png" /></p>
+<p style="TEXT-INDENT:2em">
+	这款<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>样式给人大革命时期红军的感觉&hellip;&hellip;不过当时的我们似乎有意强调和老大哥苏联的区别，所以对镰刀锤子标志似乎不怎么感冒。</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-6172e225f259f205.png" /></p>
+<p style="TEXT-INDENT:2em">
+	这个我就不吐槽了，估计意思就是东方红，太阳升，太阳里面有个红星星&hellip;&hellip;</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-a2513beb3095641b.png" /></p>
+<p style="TEXT-INDENT:2em">
+	都说对镰刀锤子不怎么感冒了，还整这么大个镰刀锤子，这不给我党添堵吗？而且苏联的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>就是镰刀锤子加五星，这款<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>元素跟苏联<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>完全一样，只是位置不同，当然不能选了！</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-cad83cb527fd8970.png" /></p>
+<p style="TEXT-INDENT:2em">
+	好吧，谁能告诉我六芒星在<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>中是什么意思？我只知道佐助的六芒星万花筒写轮眼&hellip;&hellip;</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-a0221e38b998d352.png" /></p>
+<p style="TEXT-INDENT:2em">
+	这款<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>样式其实是1933年&ldquo;中华共和国&rdquo;的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>，是19路军的陈铭枢、李济深在福建反对老蒋，建立的中华共和国人民革命政府后使用的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>，上红下蓝，中嵌黄色五角星，红色代表工人、蓝色代表农民、黄色代表正大光明、五角星则代表生产人民的大联合。 用过的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>，肯定不能再作为新中国的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>了。不过个人觉得这面旗还是蛮好看的，融合了国共两党的某些元素。</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-3c901483baa2d440.png" /></p>
+<p style="TEXT-INDENT:2em">
+	请让我脑补一下，伟大的党（镰刀锤子）带领着后面五颗代表着全国人民的小星星，一路释放光波武器，消灭邪恶的势力，终于取得了伟大的通关胜利&hellip;&hellip;</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-7db1a179709dd8b1.jpeg" /></p>
+<p style="TEXT-INDENT:2em">
+	这两条杠应该是指长江黄河，只是颜色换成蓝色，看来当时的人们对蓝色还是有所眷恋啊！</p>
+<p style="text-align: center;">
+	<img max-width="600" src="http://img.xixik.net/custom/section/guoqi/xixik-3a86f583b74323b7.png" /></p>
+<p style="TEXT-INDENT:2em">
+	不得不说，这是最具国际视野的<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>方案，把红底去掉，镰刀锤子去掉，再把五星去掉，这整就是一个高仿的联合国<a href="http://114.xixik.com/country-flag/" style="color:#000" title="国旗">国旗</a>啊！</p>
+
+<p style="TEXT-INDENT:2em">来源：<a title="五星红旗外38面备选国旗" style="color:#000;" href="http://114.xixik.com/guoqi/"><strong>五星红旗外38面备选国旗</strong></a>：<a title="五星红旗外38面备选国旗" href="http://114.xixik.com/guoqi/">http://114.xixik.com/guoqi/</a></p>
+                </div>
+            </div>
+        </div>
+        
+        
+        <a name="anchor3"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        怎样建立一个国家？</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                   
+                    <p style="TEXT-INDENT:2em">
+	经常看到某某土豪在海外购买岛屿永久使用权的新闻，不禁会想：有了土地（岛屿）是不是就可以建立一个国家了？</p>
+<p style="TEXT-INDENT:2em">
+	首先就要明白国家的要素（国土、人民、文化和政府），所以不是有了土地就能建立国家，如果人民、文化、政府都齐全了，是不是？</p>
+<p style="TEXT-INDENT:2em">
+	你以为开发商盖章呢？如果这么容易，以后中国人相亲就不问：你买房了么？而是问：你建国了么？</p>
+<p style="TEXT-INDENT:2em">
+	国家的建立是要被世界所认可的。</p>
+<p style="TEXT-INDENT:2em">
+	不少人都做过圈地为王的美梦，只有少部分人真正为此付诸行动。那些勇敢的梦想家们对着地图苦苦搜索，以求发现地球上至今仍无主的那一小方土地，并通过国际上承认的合法途径将其据为己有。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>格林痛失加罗林国</strong></p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-db83c8ac9b2b30a9.jpg" style="width: 927.891px; max-width: 90%;" /></p>
+<p style="TEXT-INDENT:2em">
+	概念派艺术家格雷戈里·格林一直想找一块无国之土，自创一个国家。格林认为，这样一块土地，必须满足三个条件，一是无人居住，二是没有任何证据表明现有的哪个土著的祖先曾经定居于此，三是没有哪个国家宣称拥有过它，也没有卷入任何国家的领土纷争中。按照这种理论，格林成功地找到太平洋中央的一小块珊瑚礁，并于1994年在此建立了“加罗林新自由国”。格林随后写信给联合国和其他一些国际组织告知加罗林国的成立，并招募了2000名国民。他还设计了国旗，在世界主要城市设立大使馆。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/guoqi/xixik-6e6b43f3aff4052e.jpg" style="text-indent: 2em;" /></p>
+<p style="text-indent: 2em;">
+	基里巴斯国航拍图</p>
+<p style="TEXT-INDENT:2em">
+	遗憾的是，5年后，格林与基里巴斯打官司时却输掉了对这块珊瑚礁的法定管护权，不得不将这个“国家”拱手让给1979年才成立的基里巴斯国。虽然格林感到异常伤心，不过仍没有放弃自己的梦想，他已准备好重整锣鼓，再下一步声明对两个印度洋小岛的所有权。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>贝茨成功创立海国</strong></p>
+<p style="TEXT-INDENT:2em">
+	相对而言，最成功的自创国家可能要数海国。它位于距离英国海岸11公里外一个废弃二战炮台，由英国人罗伊·贝茨在1967年创立。贝茨宣称该地为独立国家，并将自己命名为海国王子罗伊。</p>
+<p style="TEXT-INDENT:2em">
+	此后不久，贝茨为了证明海国的主权而向经过的英国海军浮标补给舰开枪，这一行为使他被告上了英国法庭。不过，当时的一名法官却拒绝受理此案，理由是海国位于英国的领海之外。</p>
+<p style="TEXT-INDENT:2em">
+	很难说这些无国之土的爱好者们是不是认真的。只是，实际上这些自创国家只存在其公民的脑海中。</p>
+
+<p style="TEXT-INDENT:2em">来源：<a title="怎样建立一个国家？" style="color:#000;" href="http://114.xixik.com/guoqi/"><strong>怎样建立一个国家？</strong></a>：<a title="怎样建立一个国家？" href="http://114.xixik.com/guoqi/">http://114.xixik.com/guoqi/</a></p>
+                </div>
+            </div>
+        </div>
+        
+        
+    </div>
+  
+    <script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+      
+
+    <script type="text/javascript">
+        var value = '291';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script>
+    <div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/guoqi/" target="_self" title="国旗大全_世界各国国旗">国旗大全</a></div>
+    <ul style="width: 960px; margin: auto; overflow: hidden;">
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/shicha/"
+                title="国际时差查询 - 世界各国主要城市和北京时差对照表">时差</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证更换新政策_过期了该怎么办？">中国旅行证</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangye/"
+                title="2017最新国民经济行业分类与代码（GB/4754-2017）,国民经济行业分类标准">国民经济行业分类与代码</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/yimiao/"
+                title="疫苗接种时间表 - 中国儿童预防疫苗接种时间表">儿童疫苗接种表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国总统_美国历任总统名单_美国历届总统大全">美国历任总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2020年二十四节气">二十四节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chicun/"
+                title="服装尺寸对照表_男士服装尺寸对照表_中国女装尺寸对照表_美版服装尺码换算">服装尺寸对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/country/"
+                title="全世界有多少个国家和地区？_世界上国家和地区一览表">全世界国家和地区</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/country-flag/"
+                title="世界各国国旗大全 - 世界各国国旗一览表,国旗图片下载">世界各国国旗大全</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/festival/"
+                title="节日大全_2020年法定节假日安排">节日大全</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24jieqi/72hou/"
+                title="月令七十二候集解_二十四节气">月令七十二候集解</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_历任美国总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-visa/"
+                title="赴美生子诚实签攻略_赴美生子诚实签的好处_赴美生子为什么要诚实签">赴美生子诚实签攻略</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-spending/"
+                title="赴美生子价格_去美国生孩子多少钱_费用清单">赴美生子价格</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-baoxian/"
+                title="赴美生子保险_去美国生宝宝生育险_孕中险">赴美生子保险</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-hospital/"
+                title="赴美生子医院_洛杉矶医院_洛杉矶接待华人孕妇医院价目和详细情况一览表">赴美生子医院</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-doctor/"
+                title="赴美生子医生_洛杉矶医生_赴美生子华人医生_赴美生子医生介绍">赴美生子医生</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-living/"
+                title="赴美生子DIY可行吗？_赴美生子DIY攻略">月子中心还是DIY</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="美宝证件_美宝需要哪些证件（美国出生纸_中国旅行证_美国护照_社会安全号_出生纸三级认证）">美宝需要哪些证件？</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-passport-ds11/"
+                title="美宝美国护照申请更新_DS-11怎么填图文">美国护照申请</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_去美国生孩子费用预算清单2020">赴美生子要多少钱</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/university/"
+                title="中国大学名单_2019年全国高等学校名单（截至2019年6月15日）">中国大学名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/ranking/"
+                title="美国总统排名_美国总统历史排名_美国最伟大的总统排行榜">美国总统排行榜</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/size/"
+                title="服装尺寸对照表_裤子尺寸_男装尺寸_女装尺寸_裙子尺寸">服装尺寸</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/cn-uk-time-zone/"
+                title="中英时差对照表,现在英国几点?中国和英国时差怎么算?现在英国时间是几点?">中英时差对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_去美国生孩子要多少钱？">赴美生子费用</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 最新中国护照免签国家一览2020">中国护照免签证</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-passport/"
+                title="美国护照 - 美国护照上写的什么,美国护照免签证国家">美国护照</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/henley-passport-index/"
+                title="亨氏护照指数 - 亨氏护照受限制数2019">亨氏护照指数</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-process/"
+                title="赴美生子流程 - 干货！超详细的赴美生子流程攻略2020！">赴美生子流程</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-best/"
+                title="赴美生子机构哪家好？_合法的赴美生子机构">赴美生子机构哪家好</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-regret/"
+                title="2020生个美国孩子后悔了_后悔在美国生孩子_赴美生子利与弊">生个美国宝宝后悔了揭秘</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/visa/"
+                title="美国签证_美国签证DS-160表格在线填写_美国签证预约面谈_在线缴费">美国签证</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/titanic/"
+                title="泰坦尼克号真实历史_沉没之谜_泰坦尼克号电影_嘻嘻网">泰坦尼克号</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-flight/"
+                title="赴美生子航班怎么选_去美国生孩子中美航班信息大全">赴美生子航班</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/exit-and-entry-premit/"
+                title="出入境通行证_一次性出入境通行证_中华人民共和国出入境通行证">出入境通行证</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-prosandcons/"
+                title="赴美生子利弊_赴美生子的优势和弊端_生美籍宝宝的好处和坏处">赴美生子好处和弊端</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-born/"
+                title="赴美产子_赴美生子_去美国生孩子">赴美产子</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-constitution/14th-amendment/"
+                title="美国宪法修正案第十四条">美国宪法修正案第14条</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/greatest/"
+                title="美国最伟大的总统_美国总统排行榜">美国最伟大的总统</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-states/13states/"
+                title="美国13个州_北美13个殖民地_美国建国时的13个州">美国13个州</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/qs2020/"
+                title="2020年QS世界大学排名_世界大学排行榜">QS世界大学排行榜</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/born-usbaby/"
+                title="去美国生孩子_去美国生孩子多少钱">去美国生孩子</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-constitution/amendments/"
+                title="美国宪法修正案_Amendments to the Constitution">美国宪法修正案</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/the-world-university-rankings/"
+                title="2020年泰晤士报世界大学排名_2020年THE世界大学排名">泰晤士世界大学排名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/ssn/"
+                title="美国社安号SSN_美国社安卡_美国社会安全号码">社会安全号码</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/declaration-of-independence/"
+                title="《美国独立宣言》（The Declaration of Independence）">独立宣言</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/birth-certificate/"
+                title="美国出生纸（Birth Certificate）_美国出生纸三级认证">美国出生纸</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-living-cost/"
+                title="美国月子中心费用_赴美生子费用">美国月子中心费用</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/guoqi/"
+                title="国旗大全_世界各国国旗">国旗大全</a> </li>
+        
+    </ul>
+
+    <div class="lindBox">
+        <div class="btnGray">
+            <div class="btnText">
+                <a target="_self" title="国旗大全_世界各国国旗" href="http://news.xixik.com/word/291/">另存为<br />
+                    Word格式</a>
+            </div>
+        </div>
+    </div>
+    <div class="lindBox" style="text-align: center;">
+        <img src="http://news.xixik.com/qrcode/291/" alt="扫码手机上继续看" /><br />
+        <br />
+        <strong>用微信或者支付宝扫码在手机上继续观看<br />
+            可以保存收藏，也扫码后可以分享给好友
+        </strong>
+    </div>
+    <hr style="height: 1px; border: none; border-top: 1px dashed #999;" />
+    <script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script>
+<!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.-->
+
+</body></html>
