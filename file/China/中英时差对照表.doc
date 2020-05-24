@@ -1,0 +1,4616 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <title>中英时差对照表,现在英国几点?中国和英国时差怎么算?现在英国时间是几点?</title>
+    <link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" />
+    <meta name="description" content="英国与中国时间对照表,现在英国几点,中英时差换算?" />
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/cn-uk-time-zone/">
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <base target="_blank" />
+    
+    <script>
+        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "cn-uk-time-zone/";
+        }
+
+        
+    </script>
+    <style>
+        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+            overflow:auto;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style>
+</head>
+<body>
+    <a name="top4"></a>
+    <div class="topBox" name="top">
+        <div class="topMain">
+            <div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div>
+            <div id="icoPhone"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div>
+            <div id="icoWechat"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a> </div>
+            <div id="icoSina"></div>
+            <div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a>  </div>
+            <div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div>
+            <div class="topRight">
+            </div>
+        </div>
+    </div>
+
+    <div id="showqrCode">
+        <div><span></span></div>
+        <img src="" /><div><span></span></div>
+    </div>
+    <script type="text/javascript">
+        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);<a href="Model1.aspx">Model1.aspx</a>
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script>
+    <div class="body">
+        
+        <div class="lindBox" style="position: relative;">
+            <img src="http://img.xixik.net/custom/topic/001/cn-uk-time-zone.jpg" alt="中英时差对照表,现在英国几点?中国和英国时差怎么算?现在英国时间是几点?" />
+            <div class="title">
+                <h1>中英时差对照表,现在英国几点?中国和英国时差怎么算?现在英国时间是几点?</h1>
+            </div>
+        </div>
+        
+
+        <div class=" custom_border lindBox">
+            <div class="special_content">
+                <div class="content_text">
+                    <div class="content_daodu">
+                    </div>
+                    <h2>中英时差对照表</h2>
+                    <p>
+	英国使用0时区也叫中时区的区时；中国使用北京时间，是东8区的区时。 两地相差8－0＝8个时区，对应时差是8个小时，北京在东边，比英国早8个小时。 英国时间又叫格林威治标准时间，<strong>英国和中国的时差</strong>是8小时，即中国比英国早8小时，也就是英国的晚上8点是中国的第二天的凌晨4点。</p>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="lindBox" style="overflow: hidden;">
+            <div class="gg1">
+                <a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a>
+            </div>
+            <div class="guide">
+                <div class="guideBorder" id="guideBorder">
+                    <div class="guideTitle">导读（目录）</div>
+                    <ul id="guideDisplay">
+                        
+                                <li>·<a title="英国和中国的时差是多少？" href="#anchor1" target="_self"> 英国和中国的时差是多少？</a></li>
+                            
+                                <li>·<a title="世界时差标准的由来" href="#anchor2" target="_self"> 世界时差标准的由来</a></li>
+                            
+                                <li>·<a title="全世界国家和地区时差一览表" href="#anchor3" target="_self"> 全世界国家和地区时差一览表</a></li>
+                            
+                                <li>·<a title="移民到哪个国家没时差？" href="#anchor4" target="_self"> 移民到哪个国家没时差？</a></li>
+                            
+                    </ul>
+                    <div class="guideOpen">展开&darr;</div>
+                </div>
+            </div>
+
+            <div class="guideFllow">
+                <div class="guideFllowBorder">
+                    <div class="guideFllowTitle">导读（目录）</div>
+                    <ul id="guideFllowDisplay">
+                        
+                                <li>·<a title="英国和中国的时差是多少？" href="#anchor1" target="_self"> 英国和中国的时差是多少？</a></li>
+                            
+                                <li>·<a title="世界时差标准的由来" href="#anchor2" target="_self"> 世界时差标准的由来</a></li>
+                            
+                                <li>·<a title="全世界国家和地区时差一览表" href="#anchor3" target="_self"> 全世界国家和地区时差一览表</a></li>
+                            
+                                <li>·<a title="移民到哪个国家没时差？" href="#anchor4" target="_self"> 移民到哪个国家没时差？</a></li>
+                            
+                    </ul>
+                    <div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div>
+                </div>
+            </div>
+
+
+            <div class="gg2">
+                <a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a>
+            </div>
+        </div>
+        
+        <a name="anchor1"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        英国和中国的时差是多少？</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                   
+                    <p style="TEXT-INDENT:2em">
+	英国时间又叫格林尼治标准时间（零时区，GMT+0:00），世界性的时间定位标准，中国时间是北京时间（东八区，GMT+8:00），因此英国和中国的时差是8小时，即中国比英国早8小时。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>英国的夏令时</strong></p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/cn-uk-time-zone/xixik-3659eeaf0f41db28.jpg" style="margin: 10px; float: right; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	有夏令时（Daylight Saving Times）就会有冬令时，那么，什么是夏令时？什么又是冬令时呢？很简单，我们平常用的格林威治标准时间（又译：格林尼治标准时间，Greenwich Mean Time），到了三月，就在格林威治标准时的基础上拨快一个小时，新的时间就是夏令时。到了十月，又在夏令时的基础上拨慢一个小时，就形成冬令时了，说的再简单点，冬令时就是格林威治标准时。</p>
+<p style="TEXT-INDENT:2em">
+	英国在每年3月最后一个星期天到10月最后一个星期天采用British Summer Time（BST），又称London Time或者Big Ben Time，这就是所谓的夏令时，它相当于是GMT+1:00。从每年10月的最后一个星期天到第二年3月的最后一个星期天。<strong>2019年英国夏令时</strong>从3月31日01:00:00开始，到10月27日02:00:00结束。</p>
+<p style="TEXT-INDENT:2em">
+	格林威治在哪里？格林威治指的是格林威治天文台，现位于伦敦的格林威治公园内。格林威治时间既指格林威治的地方时，也指格林威治所在时区的区时，全球共有24个时区，每一个时区都以格林威治的区时为基础进行加减。</p>
+<p style="TEXT-INDENT:2em">
+	1675年，由于英国海上势力的扩张，国王查理二世便决定在格林威治山顶的瞭望台处建立皇家天文台，主要用于确定地球的经度。到公元1767年，天文学家们摸清了主要天体的运行规律，船员得以通过星星的位置确定航船的方位。也是在那时，世界上第一张航海图诞生了。1884年，国际子午线会议通过表决，以通过格林威治的天文台的经线为本初子午线。子午线就是经线，本初子午线就是零度经线。这就是为什么24个时区都以格林威治的区时为基础进行加减的原因。</p>
+<p style="TEXT-INDENT:2em">
+	格林威治公园现在也是对外开放的，除了格林威治天文台，公园还包括旧皇家海军学院和国家航海博物馆，它们都在世界文化遗产名录之内。</p>
+<p style="text-indent: 2em;">
+	<strong>中国和英国的时差为多少？</strong></p>
+<p style="text-indent: 2em;">
+	<img src="http://img.xixik.net/custom/section/cn-uk-time-zone/xixik-bc2996c4135fe060.jpg" style="margin: 10px; float: right; width: 400px;" /></p>
+<p style="text-indent: 2em;">
+	简单粗暴地给大家举例解释：夏令时，中国和英国的时间相差7个小时，如北京时间为早上10：00，伦敦时间为凌晨3：00；冬令时，中国和英国时差为8个小时，如北京时间为早上10：00，英国时间为凌晨2：00。如此简单的加减，你会换算了吗？</p>
+<p style="TEXT-INDENT:2em">
+	当英国使用夏令时的时候，英国比中国晚7小时。</p>
+<p style="TEXT-INDENT:2em">
+	当英国使用格林尼治标准时间的时候，就比中国晚8小时。</p>
+<p style="TEXT-INDENT:2em">
+	举个例子：北京时间16点17分，英国现在是处于冬令时阶段，就是8点17分；如果是处于夏令时阶段，就是9点17分。</p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="font-family:arial; text-align: center; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<th colspan="26">
+				英国 英格兰 伦敦时间与北京时间24小时时差对照表</th>
+		</tr>
+		<tr>
+			<td>
+				北京时间</td>
+			<td>
+				0</td>
+			<td>
+				1</td>
+			<td>
+				2</td>
+			<td>
+				3</td>
+			<td>
+				4</td>
+			<td>
+				5</td>
+			<td>
+				6</td>
+			<td>
+				7</td>
+			<td>
+				8</td>
+			<td>
+				9</td>
+			<td>
+				10</td>
+			<td>
+				11</td>
+			<td>
+				12</td>
+			<td>
+				13</td>
+			<td>
+				14</td>
+			<td>
+				15</td>
+			<td>
+				16</td>
+			<td>
+				17</td>
+			<td>
+				18</td>
+			<td>
+				19</td>
+			<td>
+				20</td>
+			<td>
+				21</td>
+			<td>
+				22</td>
+			<td>
+				23</td>
+		</tr>
+		<tr>
+			<td>
+				伦敦时间</td>
+			<td>
+				16</td>
+			<td>
+				17</td>
+			<td>
+				18</td>
+			<td>
+				19</td>
+			<td>
+				20</td>
+			<td>
+				21</td>
+			<td>
+				22</td>
+			<td>
+				23</td>
+			<td>
+				0</td>
+			<td>
+				1</td>
+			<td>
+				2</td>
+			<td>
+				3</td>
+			<td>
+				4</td>
+			<td>
+				5</td>
+			<td>
+				6</td>
+			<td>
+				7</td>
+			<td>
+				8</td>
+			<td>
+				9</td>
+			<td>
+				10</td>
+			<td>
+				11</td>
+			<td>
+				12</td>
+			<td>
+				13</td>
+			<td>
+				14</td>
+			<td>
+				15</td>
+		</tr>
+	</tbody>
+</table>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="font-family:arial; text-align: center; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<th colspan="26">
+				英国 英格兰 伦敦冬令时时间与北京时间24小时时差对照表</th>
+		</tr>
+		<tr>
+			<th colspan="26">
+				冬令时开始时间：2019年10月27日&nbsp; &nbsp;冬令时结束时间：2020年3月29日</th>
+		</tr>
+		<tr>
+			<td>
+				北京时间</td>
+			<td>
+				0</td>
+			<td>
+				1</td>
+			<td>
+				2</td>
+			<td>
+				3</td>
+			<td>
+				4</td>
+			<td>
+				5</td>
+			<td>
+				6</td>
+			<td>
+				7</td>
+			<td>
+				8</td>
+			<td>
+				9</td>
+			<td>
+				10</td>
+			<td>
+				11</td>
+			<td>
+				12</td>
+			<td>
+				13</td>
+			<td>
+				14</td>
+			<td>
+				15</td>
+			<td>
+				16</td>
+			<td>
+				17</td>
+			<td>
+				18</td>
+			<td>
+				19</td>
+			<td>
+				20</td>
+			<td>
+				21</td>
+			<td>
+				22</td>
+			<td>
+				23</td>
+		</tr>
+		<tr>
+			<td>
+				伦敦时间</td>
+			<td>
+				16</td>
+			<td>
+				17</td>
+			<td>
+				18</td>
+			<td>
+				19</td>
+			<td>
+				20</td>
+			<td>
+				21</td>
+			<td>
+				22</td>
+			<td>
+				23</td>
+			<td>
+				0</td>
+			<td>
+				1</td>
+			<td>
+				2</td>
+			<td>
+				3</td>
+			<td>
+				4</td>
+			<td>
+				5</td>
+			<td>
+				6</td>
+			<td>
+				7</td>
+			<td>
+				8</td>
+			<td>
+				9</td>
+			<td>
+				10</td>
+			<td>
+				11</td>
+			<td>
+				12</td>
+			<td>
+				13</td>
+			<td>
+				14</td>
+			<td>
+				15</td>
+		</tr>
+	</tbody>
+</table>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="margin: auto; width: 90%">
+	<tbody>
+		<tr>
+			<th>
+				中国北京时间</th>
+			<th>
+				英国夏令时</th>
+			<th>
+				英国标准时间（冬令时）</th>
+		</tr>
+		<tr>
+			<td>
+				06:00</td>
+			<td>
+				23:00</td>
+			<td>
+				22:00</td>
+		</tr>
+		<tr>
+			<td>
+				07:00</td>
+			<td>
+				00:00</td>
+			<td>
+				23:00</td>
+		</tr>
+		<tr>
+			<td>
+				08:00</td>
+			<td>
+				01:00</td>
+			<td>
+				00:00</td>
+		</tr>
+		<tr>
+			<td>
+				09:00</td>
+			<td>
+				02:00</td>
+			<td>
+				01:00</td>
+		</tr>
+		<tr>
+			<td>
+				10:00</td>
+			<td>
+				03:00</td>
+			<td>
+				02:00</td>
+		</tr>
+		<tr>
+			<td>
+				11:00</td>
+			<td>
+				04:00</td>
+			<td>
+				03:00</td>
+		</tr>
+		<tr>
+			<td>
+				12:00</td>
+			<td>
+				05:00</td>
+			<td>
+				04:00</td>
+		</tr>
+		<tr>
+			<td>
+				13:00</td>
+			<td>
+				06:00</td>
+			<td>
+				05:00</td>
+		</tr>
+		<tr>
+			<td>
+				14:00</td>
+			<td>
+				07:00</td>
+			<td>
+				06:00</td>
+		</tr>
+		<tr>
+			<td>
+				15:00</td>
+			<td>
+				08:00</td>
+			<td>
+				07:00</td>
+		</tr>
+		<tr>
+			<td>
+				16:00</td>
+			<td>
+				09:00</td>
+			<td>
+				08:00</td>
+		</tr>
+		<tr>
+			<td>
+				17:00</td>
+			<td>
+				10:00</td>
+			<td>
+				09:00</td>
+		</tr>
+		<tr>
+			<td>
+				18:00</td>
+			<td>
+				11:00</td>
+			<td>
+				10:00</td>
+		</tr>
+		<tr>
+			<td>
+				19:00</td>
+			<td>
+				12:00</td>
+			<td>
+				11:00</td>
+		</tr>
+		<tr>
+			<td>
+				20:00</td>
+			<td>
+				13:00</td>
+			<td>
+				12:00</td>
+		</tr>
+		<tr>
+			<td>
+				21:00</td>
+			<td>
+				14:00</td>
+			<td>
+				13:00</td>
+		</tr>
+		<tr>
+			<td>
+				22:00</td>
+			<td>
+				15:00</td>
+			<td>
+				14:00</td>
+		</tr>
+		<tr>
+			<td>
+				23:00</td>
+			<td>
+				16:00</td>
+			<td>
+				15:00</td>
+		</tr>
+		<tr>
+			<td>
+				00:00</td>
+			<td>
+				17:00</td>
+			<td>
+				16:00</td>
+		</tr>
+		<tr>
+			<td>
+				01:00</td>
+			<td>
+				18:00</td>
+			<td>
+				17:00</td>
+		</tr>
+		<tr>
+			<td>
+				02:00</td>
+			<td>
+				19:00</td>
+			<td>
+				18:00</td>
+		</tr>
+		<tr>
+			<td>
+				03:00</td>
+			<td>
+				20:00</td>
+			<td>
+				19:00</td>
+		</tr>
+		<tr>
+			<td>
+				04:00</td>
+			<td>
+				21:00</td>
+			<td>
+				20:00</td>
+		</tr>
+		<tr>
+			<td>
+				05:00</td>
+			<td>
+				22:00</td>
+			<td>
+				21:00</td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT:2em">
+	<strong>夏令时与冬令时</strong></p>
+<p style="TEXT-INDENT:2em">
+	目前，全球约有70个国家和地区实行夏令时和冬令时，欧盟从3月最后一个星期天到10月最后一个星期天实行夏令时。美国和加拿大从3月的第二个星期天至11月的第一个星期天实行夏令时，其中美国的亚利桑那州大部分地区、夏威夷州、波多黎各和维京群岛、美属萨摩亚、关岛和北马里亚纳群岛不实行夏令时，加拿大的萨斯喀彻温省大部分地区也不实行。新西兰会在9月最后一个星期天到4月第一个星期天实行夏令时。俄罗斯则从2014年起永久实行冬令时，莫斯科与北京的时差也将达到5个小时。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>为什么要实行夏令时与冬令时</strong></p>
+<p style="TEXT-INDENT:2em">
+	在昼长夜短的季节将时间调快一个小时，有利于充分利用阳光，缩短照明时间，从而达到节能减排的效果。根据法国能源与环境控制署2010年发布的调查报告显示，2009年夏令时的实施节约了至少440亿度电，这相当于法国80万个家庭一年的用电量。同时，夏令时也旨在提醒人们早起早睡，养成良好的生活习惯，提高生活质量。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>如何平稳过渡冬夏令时交替</strong></p>
+<p style="TEXT-INDENT:2em">
+	虽然不同季节不同令时有利于节能减排，似乎很是绿色环保。但过渡时期那一个小时的时差将人们的生物钟彻底扰乱，紊乱的生物钟将会使人们出现睡眠障碍，影响工作和学习，也会造成人体内分泌失调、免疫力下降，甚至出现中风。法国的研究者调查发现，在冬夏时令交替之际，心脏病的发病率明显偏高，季节性忧郁症患者也明显偏多，自杀率也会上升。德国研究者也发现，冬夏令时交替将诱发心肌梗塞。介于冬夏令时交替的危害和操作的复杂性，冬令时和夏令时还有没有必要实行，目前已引起了广泛的争议。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>夏令时与冬令时</strong></p>
+<p style="TEXT-INDENT:2em">
+	那么，我们该如何平稳过渡冬夏令时的交替呢？首先，每天早起时拉开窗帘，让阳光帮助调节生物钟。然后，中午小憩半个小时有助于缓解疲劳，提高工作和学习效率，但不宜睡得太久，午睡太久会让人更加疲劳。其次，还应该尽量减少酒精和咖啡因的摄入。晚饭也可以比往常提前，这样将有助于消化，保持肠胃畅通。晚上也应比平常更早睡觉，以保证充足的睡眠。</p>
+
+<p style="TEXT-INDENT:2em">来源：<a title="英国和中国的时差是多少？" style="color:#000;" href="http://114.xixik.com/cn-uk-time-zone/"><strong>英国和中国的时差是多少？</strong></a>：<a title="英国和中国的时差是多少？" href="http://114.xixik.com/cn-uk-time-zone/">http://114.xixik.com/cn-uk-time-zone/</a></p>
+                </div>
+            </div>
+        </div>
+        
+        
+        <a name="anchor2"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        世界时差标准的由来</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                   
+                    <p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/cn-uk-time-zone/xixik-18d490bf7703330f.jpg" /></p>
+<p style="TEXT-INDENT:2em">
+	现今全球共分为24个时区。由于实用上常常1个国家，或1个省份同时跨着2个或更多时区，为了照顾到行政上的方便，常将1个国家或1个省份划在一起。所以时区并不严格按南北直线来划分，而是按自然条件来划分。例如，中国幅员宽广，差不多跨5个时区，但为了使用方便简单，实际上在只用东八时区的标准时即北京时间为准。</p>
+<p style="TEXT-INDENT:2em">
+	目前，为了照顾到各地区的使用方便，又使其他地方的人容易将本地的时间换算到别的地方时间上去。有关国际会议决定将地球表面按经线从东到西，划成一个个区域，并且规定相邻区域的时间相差1小时。在同一区域内的东端和西端的人看到太阳升起的时间最多相差不过1小时。当人们跨过一个区域，就将自己的时钟校正1小时（向西减1小时，向东加1小时），跨过几个区域就加或减几小时。这样调正起来使用就很方便了。</p>
+
+<p style="TEXT-INDENT:2em">来源：<a title="世界时差标准的由来" style="color:#000;" href="http://114.xixik.com/cn-uk-time-zone/"><strong>世界时差标准的由来</strong></a>：<a title="世界时差标准的由来" href="http://114.xixik.com/cn-uk-time-zone/">http://114.xixik.com/cn-uk-time-zone/</a></p>
+                </div>
+            </div>
+        </div>
+        
+        
+        <a name="anchor3"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        全世界国家和地区时差一览表</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                   
+                    <p style="text-align: center;">
+	<img src="http://img.xixik.net/custom/section/cn-uk-time-zone/xixik-278f51570bd21ee6.jpg" style="width: 800px; height: 584px;" /></p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<th>
+				&#160;</th>
+			<th>
+				Countries and Regions</th>
+			<th width="20%">
+				<a href="http://114.xixik.com/guojia/" style="color:#000" title="国家或地区">国家或地区</a></th>
+			<th>
+				首都</th>
+			<th>
+				国际<a href="http://114.xixik.com/domain/" style="color:#000" title="域名,域名后缀的含义">域名</a>缩写</th>
+			<th>
+				电话代码</th>
+			<th>
+				时差</th>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Angola</td>
+			<td>
+				安哥拉</td>
+			<td x:str="  罗安达 Luanda ">
+				&#160; 罗安达 Luanda&#160;</td>
+			<td>
+				AO</td>
+			<td x:num="">
+				244</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Afghanistan</td>
+			<td>
+				阿富汗</td>
+			<td x:str=" 喀布尔 Kabul ">
+				&#160;喀布尔 Kabul&#160;</td>
+			<td>
+				AF</td>
+			<td x:num="">
+				93</td>
+			<td x:num="">
+				0</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Albania</td>
+			<td>
+				阿尔巴尼亚</td>
+			<td x:str="  地拉那 Tirana ">
+				&#160; 地拉那 Tirana&#160;</td>
+			<td>
+				AL</td>
+			<td x:num="">
+				355</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Algeria</td>
+			<td>
+				阿尔及利亚</td>
+			<td x:str="阿尔及尔 Algiers ">
+				阿尔及尔 Algiers&#160;</td>
+			<td>
+				DZ</td>
+			<td x:num="">
+				213</td>
+			<td x:num="">
+				-8</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Andorra</td>
+			<td>
+				安道尔共和国</td>
+			<td>
+				安道尔城 Andorra la Vella</td>
+			<td>
+				AD</td>
+			<td x:num="">
+				376</td>
+			<td x:num="">
+				-8</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Anguilla</td>
+			<td>
+				安圭拉岛</td>
+			<td x:str="The Valley ">
+				The Valley&#160;</td>
+			<td>
+				AI</td>
+			<td x:num="">
+				1264</td>
+			<td x:num="">
+				-12</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Antigua and Barbuda</td>
+			<td>
+				安提瓜和巴布达</td>
+			<td x:str="圣约翰 Saint John's ">
+				圣约翰 Saint John's&#160;</td>
+			<td>
+				AG</td>
+			<td x:num="">
+				1268</td>
+			<td x:num="">
+				-12</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Argentina</td>
+			<td>
+				阿根廷</td>
+			<td x:str="布宜诺斯艾利斯 Buenos Aires ">
+				布宜诺斯艾利斯 Buenos Aires&#160;</td>
+			<td>
+				AR</td>
+			<td x:num="">
+				54</td>
+			<td x:num="">
+				-11</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Armenia</td>
+			<td>
+				亚美尼亚</td>
+			<td>
+				　埃里温 Yerevan</td>
+			<td>
+				AM</td>
+			<td x:num="">
+				374</td>
+			<td x:num="">
+				-6</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Ascension</td>
+			<td>
+				阿森松</td>
+			<td>
+				　</td>
+			<td>
+				　</td>
+			<td x:num="">
+				247</td>
+			<td x:num="">
+				-8</td>
+		</tr>
+		<tr>
+			<td>
+				　</td>
+			<td>
+				Australia</td>
+			<td>
+				澳大利亚</td>
+			<td x:str="堪培拉 Canberra ">
+				堪培拉 Canberra&#160;</td>
+			<td>
+				AU</td>
+			<td x:num="">
+				61</td>
+			<td x:num="">
+				2</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Austria</td>
+			<td>
+				奥地利</td>
+			<td x:str="  维也纳 Vienna ">
+				&#160; 维也纳 Vienna&#160;</td>
+			<td>
+				AT</td>
+			<td x:num="">
+				43</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Azerbaijan</td>
+			<td>
+				阿塞拜疆</td>
+			<td>
+				巴库（Baku）</td>
+			<td>
+				AZ</td>
+			<td x:num="">
+				994</td>
+			<td x:num="">
+				-5</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td colspan="6">
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Bahamas</td>
+			<td>
+				巴哈马</td>
+			<td x:str="拿骚 Nassau ">
+				拿骚 Nassau&#160;</td>
+			<td>
+				BS</td>
+			<td x:num="">
+				1242</td>
+			<td x:num="">
+				-13</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Bahrain</td>
+			<td>
+				巴林</td>
+			<td>
+				麦纳麦 Manama</td>
+			<td>
+				BH</td>
+			<td x:num="">
+				973</td>
+			<td x:num="">
+				-5</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Bangladesh</td>
+			<td>
+				孟加拉国</td>
+			<td>
+				达卡 Dhaka</td>
+			<td>
+				BD</td>
+			<td x:num="">
+				880</td>
+			<td x:num="">
+				-2</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Barbados</td>
+			<td>
+				巴巴多斯</td>
+			<td x:str="布里奇顿 Bridgetown ">
+				布里奇顿 Bridgetown&#160;</td>
+			<td>
+				BB</td>
+			<td x:num="">
+				1246</td>
+			<td x:num="">
+				-12</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Belarus</td>
+			<td>
+				白俄罗斯</td>
+			<td>
+				明斯克（Minsk</td>
+			<td>
+				BY</td>
+			<td x:num="">
+				375</td>
+			<td x:num="">
+				-6</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Belgium</td>
+			<td>
+				比利时</td>
+			<td x:str="布鲁塞尔 Brussels ">
+				布鲁塞尔 Brussels&#160;</td>
+			<td>
+				BE</td>
+			<td x:num="">
+				32</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Belize</td>
+			<td>
+				伯利兹</td>
+			<td x:str="贝尔莫潘 Belmopan ">
+				贝尔莫潘 Belmopan&#160;</td>
+			<td>
+				BZ</td>
+			<td x:num="">
+				501</td>
+			<td x:num="">
+				-14</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Benin</td>
+			<td>
+				贝宁</td>
+			<td x:str="波多诺夫 Porto-Novo ">
+				波多诺夫 Porto-Novo&#160;</td>
+			<td>
+				BJ</td>
+			<td x:num="">
+				229</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				BermudaIs.</td>
+			<td>
+				百慕大群岛</td>
+			<td x:str=" 哈密尔顿 Hamilton ">
+				&#160;哈密尔顿 Hamilton&#160;</td>
+			<td>
+				BM</td>
+			<td x:num="">
+				1441</td>
+			<td x:num="">
+				-12</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Bolivia</td>
+			<td>
+				玻利维亚</td>
+			<td x:str="拉巴斯 La Paz ">
+				拉巴斯 La Paz&#160;</td>
+			<td>
+				BO</td>
+			<td x:num="">
+				591</td>
+			<td x:num="">
+				-12</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Botswana</td>
+			<td>
+				博茨瓦纳</td>
+			<td x:str="哈伯罗内 Gaborone ">
+				哈伯罗内 Gaborone&#160;</td>
+			<td>
+				BW</td>
+			<td x:num="">
+				267</td>
+			<td x:num="">
+				-6</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Brazil</td>
+			<td>
+				巴西</td>
+			<td x:str="巴西利亚 Brasilia ">
+				巴西利亚 Brasilia&#160;</td>
+			<td>
+				BR</td>
+			<td x:num="">
+				55</td>
+			<td x:num="">
+				-11</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Brunei</td>
+			<td>
+				文莱</td>
+			<td x:str=" 斯里巴加湾市Bandar Seri Begawan ">
+				&#160;斯里巴加湾市Bandar Seri Begawan&#160;</td>
+			<td>
+				BN</td>
+			<td x:num="">
+				673</td>
+			<td x:num="">
+				0</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Bulgaria</td>
+			<td>
+				保加利亚</td>
+			<td x:str="索非亚 Sofia ">
+				索非亚 Sofia&#160;</td>
+			<td>
+				BG</td>
+			<td x:num="">
+				359</td>
+			<td x:num="">
+				-6</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Burkina-faso</td>
+			<td>
+				布基纳法索</td>
+			<td>
+				瓦加杜古 Ouagadougou&#160;</td>
+			<td>
+				BF</td>
+			<td x:num="">
+				226</td>
+			<td x:num="">
+				-8</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Burma</td>
+			<td>
+				缅甸</td>
+			<td x:str=" 仰光 Rangoon ">
+				&#160;仰光 Rangoon&#160;</td>
+			<td>
+				MM</td>
+			<td x:num="">
+				95</td>
+			<td x:num="">
+				-1.3</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Burundi</td>
+			<td>
+				布隆迪</td>
+			<td x:str="布琼布拉 Bujumbura ">
+				布琼布拉 Bujumbura&#160;</td>
+			<td>
+				BI</td>
+			<td x:num="">
+				257</td>
+			<td x:num="">
+				-6</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td colspan="6">
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Cameroon</td>
+			<td>
+				喀麦隆</td>
+			<td x:str="雅温得 Yaounde ">
+				雅温得 Yaounde&#160;</td>
+			<td>
+				CM</td>
+			<td x:num="">
+				237</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Canada</td>
+			<td>
+				加拿大</td>
+			<td x:str="  渥太华 Ottawa ">
+				&#160; 渥太华 Ottawa&#160;</td>
+			<td>
+				CA</td>
+			<td x:num="">
+				1</td>
+			<td x:num="">
+				-13</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Cayman Is.</td>
+			<td>
+				开曼群岛</td>
+			<td>
+				　</td>
+			<td>
+				　</td>
+			<td x:num="">
+				1345</td>
+			<td x:num="">
+				-13</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Central African Republic</td>
+			<td>
+				中非共和国</td>
+			<td x:str="班吉 Bangui ">
+				班吉 Bangui&#160;</td>
+			<td>
+				CF</td>
+			<td x:num="">
+				236</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Chad</td>
+			<td>
+				乍得</td>
+			<td x:str="恩贾梅纳 N'Djamena ">
+				恩贾梅纳 N'Djamena&#160;</td>
+			<td>
+				TD</td>
+			<td x:num="">
+				235</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Chile</td>
+			<td>
+				智利</td>
+			<td x:str="圣地亚哥 Santiago ">
+				圣地亚哥 Santiago&#160;</td>
+			<td>
+				CL</td>
+			<td x:num="">
+				56</td>
+			<td x:num="">
+				-13</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				China</td>
+			<td>
+				中国</td>
+			<td>
+				&#160;北京 Beijing</td>
+			<td>
+				CN</td>
+			<td x:num="">
+				86</td>
+			<td x:num="">
+				0</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Colombia</td>
+			<td>
+				哥伦比亚</td>
+			<td x:str=" 波哥达 Bogota ">
+				&#160;波哥达 Bogota&#160;</td>
+			<td>
+				CO</td>
+			<td x:num="">
+				57</td>
+			<td x:num="">
+				0</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Congo Rep.</td>
+			<td>
+				刚果共和国</td>
+			<td x:str="布拉柴维尔 Brazzaville ">
+				布拉柴维尔 Brazzaville&#160;</td>
+			<td>
+				CG</td>
+			<td x:num="">
+				242</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Cook Is.</td>
+			<td>
+				库克群岛</td>
+			<td>
+				　</td>
+			<td>
+				CK</td>
+			<td x:num="">
+				682</td>
+			<td x:num="">
+				-18.3</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Costa Rica</td>
+			<td>
+				哥斯达黎加</td>
+			<td x:str="圣约瑟 San Jose ">
+				圣约瑟 San Jose&#160;</td>
+			<td>
+				CR</td>
+			<td x:num="">
+				506</td>
+			<td x:num="">
+				-14</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Cuba</td>
+			<td>
+				古巴</td>
+			<td x:str="哈瓦那 Havana ">
+				哈瓦那 Havana&#160;</td>
+			<td>
+				CU</td>
+			<td x:num="">
+				53</td>
+			<td x:num="">
+				-13</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Cyprus</td>
+			<td>
+				塞浦路斯</td>
+			<td x:str="尼克西亚 Nicosia ">
+				尼克西亚 Nicosia&#160;</td>
+			<td>
+				CY</td>
+			<td x:num="">
+				357</td>
+			<td x:num="">
+				-6</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Czech Republic</td>
+			<td>
+				捷克</td>
+			<td>
+				　</td>
+			<td>
+				CZ</td>
+			<td x:num="">
+				420</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td colspan="6">
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Denmark</td>
+			<td>
+				丹麦</td>
+			<td x:str="哥本哈根 Copenhagen ">
+				哥本哈根 Copenhagen&#160;</td>
+			<td>
+				DK</td>
+			<td x:num="">
+				45</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Djibouti</td>
+			<td>
+				吉布提共和国</td>
+			<td x:str=" 吉布提 Djibouti ">
+				&#160;吉布提 Djibouti&#160;</td>
+			<td>
+				DJ</td>
+			<td x:num="">
+				253</td>
+			<td x:num="">
+				-5</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Dominica Rep.</td>
+			<td>
+				多米尼加共和国</td>
+			<td x:str="圣多明各 Santo Domingo ">
+				圣多明各 Santo Domingo&#160;</td>
+			<td>
+				DO</td>
+			<td x:num="">
+				1809</td>
+			<td x:num="">
+				-13</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td colspan="6">
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Ecuador</td>
+			<td>
+				厄瓜多尔</td>
+			<td x:str=" 基多 Quito ">
+				&#160;基多 Quito&#160;</td>
+			<td>
+				EC</td>
+			<td x:num="">
+				593</td>
+			<td x:num="">
+				-13</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Egypt</td>
+			<td>
+				埃及</td>
+			<td x:str=" 开罗 Cairo ">
+				&#160;开罗 Cairo&#160;</td>
+			<td>
+				EG</td>
+			<td x:num="">
+				20</td>
+			<td x:num="">
+				-6</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				EISalvador</td>
+			<td>
+				萨尔瓦多</td>
+			<td x:str="圣萨尔瓦多 San Salvador ">
+				圣萨尔瓦多 San Salvador&#160;</td>
+			<td>
+				SV</td>
+			<td x:num="">
+				503</td>
+			<td x:num="">
+				-14</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Estonia</td>
+			<td>
+				爱沙尼亚</td>
+			<td>
+				　</td>
+			<td>
+				EE</td>
+			<td x:num="">
+				372</td>
+			<td x:num="">
+				-5</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Ethiopia</td>
+			<td>
+				埃塞俄比亚</td>
+			<td x:str="亚的斯亚贝巴 Addis Ababa ">
+				亚的斯亚贝巴 Addis Ababa&#160;</td>
+			<td>
+				ET</td>
+			<td x:num="">
+				251</td>
+			<td x:num="">
+				-5</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td colspan="6">
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Fiji</td>
+			<td>
+				斐济</td>
+			<td x:str="苏瓦 Suva ">
+				苏瓦 Suva&#160;</td>
+			<td>
+				FJ</td>
+			<td x:num="">
+				679</td>
+			<td x:num="">
+				4</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Finland</td>
+			<td>
+				芬兰</td>
+			<td x:str="赫尔辛基 Helsinki ">
+				赫尔辛基 Helsinki&#160;</td>
+			<td>
+				FI</td>
+			<td x:num="">
+				358</td>
+			<td x:num="">
+				-6</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				France</td>
+			<td>
+				法国</td>
+			<td x:str="巴黎 Paris ">
+				巴黎 Paris&#160;</td>
+			<td>
+				FR</td>
+			<td x:num="">
+				33</td>
+			<td x:num="">
+				-8</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				French Guiana</td>
+			<td>
+				法属圭亚那</td>
+			<td>
+				　</td>
+			<td>
+				GF</td>
+			<td x:num="">
+				594</td>
+			<td x:num="">
+				-12</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td colspan="6">
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Gabon</td>
+			<td>
+				加蓬</td>
+			<td x:str="利伯维尔 Libreville ">
+				利伯维尔 Libreville&#160;</td>
+			<td>
+				GA</td>
+			<td x:num="">
+				241</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Gambia</td>
+			<td>
+				冈比亚</td>
+			<td x:str="班珠尔 Banjul ">
+				班珠尔 Banjul&#160;</td>
+			<td>
+				GM</td>
+			<td x:num="">
+				220</td>
+			<td x:num="">
+				-8</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Georgia</td>
+			<td>
+				格鲁吉亚</td>
+			<td>
+				&#160;</td>
+			<td>
+				GE</td>
+			<td x:num="">
+				995</td>
+			<td x:num="">
+				0</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Germany</td>
+			<td>
+				德国</td>
+			<td x:str="柏林 Berlin ">
+				柏林 Berlin&#160;</td>
+			<td>
+				DE</td>
+			<td x:num="">
+				49</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Ghana</td>
+			<td>
+				加纳</td>
+			<td x:str="阿克拉 Accra ">
+				阿克拉 Accra&#160;</td>
+			<td>
+				GH</td>
+			<td x:num="">
+				233</td>
+			<td x:num="">
+				-8</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Gibraltar</td>
+			<td>
+				直布罗陀</td>
+			<td>
+				　</td>
+			<td>
+				GI</td>
+			<td x:num="">
+				350</td>
+			<td x:num="">
+				-8</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Greece</td>
+			<td>
+				希腊</td>
+			<td x:str=" 雅典 Athens ">
+				&#160;雅典 Athens&#160;</td>
+			<td>
+				GR</td>
+			<td x:num="">
+				30</td>
+			<td x:num="">
+				-6</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Grenada</td>
+			<td>
+				格林纳达</td>
+			<td x:str="圣乔治 Saint George's ">
+				圣乔治 Saint George's&#160;</td>
+			<td>
+				GD</td>
+			<td x:num="">
+				1809</td>
+			<td x:num="">
+				-14</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Guam</td>
+			<td>
+				关岛</td>
+			<td x:str="   阿加尼亚 Hagatna （Agana） ">
+				&#160;&#160; 阿加尼亚 Hagatna （Agana）&#160;</td>
+			<td>
+				GU</td>
+			<td x:num="">
+				1671</td>
+			<td x:num="">
+				2</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Guatemala</td>
+			<td>
+				危地马拉</td>
+			<td x:str="危地马拉 Guatemala ">
+				危地马拉 Guatemala&#160;</td>
+			<td>
+				GT</td>
+			<td x:num="">
+				502</td>
+			<td x:num="">
+				-14</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Guinea</td>
+			<td>
+				几内亚</td>
+			<td x:str=" 科纳克里 Conakry ">
+				&#160;科纳克里 Conakry&#160;</td>
+			<td>
+				GN</td>
+			<td x:num="">
+				224</td>
+			<td x:num="">
+				-8</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Guyana</td>
+			<td>
+				圭亚那</td>
+			<td x:str="乔治敦 Georgetown ">
+				乔治敦 Georgetown&#160;</td>
+			<td>
+				GY</td>
+			<td x:num="">
+				592</td>
+			<td x:num="">
+				-11</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td colspan="6">
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Haiti</td>
+			<td>
+				海地</td>
+			<td x:str="  太子港 Port-au-Prince ">
+				&#160; 太子港 Port-au-Prince&#160;</td>
+			<td>
+				HT</td>
+			<td x:num="">
+				509</td>
+			<td x:num="">
+				-13</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Honduras</td>
+			<td>
+				洪都拉斯</td>
+			<td x:str="  特古巴加尔巴 Tegucigalpa ">
+				&#160; 特古巴加尔巴 Tegucigalpa&#160;</td>
+			<td>
+				HN</td>
+			<td x:num="">
+				504</td>
+			<td x:num="">
+				-14</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Hongkong</td>
+			<td>
+				香港</td>
+			<td>
+				　</td>
+			<td>
+				HK</td>
+			<td x:num="">
+				852</td>
+			<td x:num="">
+				0</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Hungary</td>
+			<td>
+				匈牙利</td>
+			<td x:str="布达佩斯 Budapest ">
+				布达佩斯 Budapest&#160;</td>
+			<td>
+				HU</td>
+			<td x:num="">
+				36</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td colspan="6">
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Iceland</td>
+			<td>
+				冰岛</td>
+			<td x:str="雷克亚未克 Reykjavik ">
+				雷克亚未克 Reykjavik&#160;</td>
+			<td>
+				IS</td>
+			<td x:num="">
+				354</td>
+			<td x:num="">
+				-9</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				India</td>
+			<td>
+				印度</td>
+			<td x:str="新德里 New Delhi ">
+				新德里 New Delhi&#160;</td>
+			<td>
+				IN</td>
+			<td x:num="">
+				91</td>
+			<td x:num="-2.3">
+				-2.3</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Indonesia</td>
+			<td>
+				印度尼西亚</td>
+			<td x:str=" 雅加达 Jakarta ">
+				&#160;雅加达 Jakarta&#160;</td>
+			<td>
+				ID</td>
+			<td x:num="">
+				62</td>
+			<td x:num="">
+				-0.3</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Iran</td>
+			<td>
+				伊朗</td>
+			<td>
+				　</td>
+			<td>
+				IR</td>
+			<td x:num="">
+				98</td>
+			<td x:num="">
+				-4.3</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Iraq</td>
+			<td>
+				伊拉克</td>
+			<td>
+				　</td>
+			<td>
+				IQ</td>
+			<td x:num="">
+				964</td>
+			<td x:num="">
+				-5</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Ireland</td>
+			<td>
+				爱尔兰</td>
+			<td x:str="都柏林 Dublin ">
+				都柏林 Dublin&#160;</td>
+			<td>
+				IE</td>
+			<td x:num="">
+				353</td>
+			<td x:num="">
+				-4.3</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Israel</td>
+			<td>
+				以色列</td>
+			<td>
+				　</td>
+			<td>
+				IL</td>
+			<td x:num="">
+				972</td>
+			<td x:num="">
+				-6</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Italy</td>
+			<td>
+				意大利</td>
+			<td x:str="罗马 Rome ">
+				罗马 Rome&#160;</td>
+			<td>
+				IT</td>
+			<td x:num="">
+				39</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				IvoryCoast</td>
+			<td>
+				科特迪瓦</td>
+			<td>
+				　</td>
+			<td>
+				　</td>
+			<td x:num="">
+				225</td>
+			<td x:num="">
+				-6</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td colspan="6">
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Jamaica</td>
+			<td>
+				牙买加</td>
+			<td x:str="金斯敦 Kingston ">
+				金斯敦 Kingston&#160;</td>
+			<td>
+				JM</td>
+			<td x:num="">
+				1876</td>
+			<td x:num="">
+				-12</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Japan</td>
+			<td>
+				日本</td>
+			<td x:str="东京 Tokyo ">
+				东京 Tokyo&#160;</td>
+			<td>
+				JP</td>
+			<td x:num="">
+				81</td>
+			<td x:num="">
+				1</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Jordan</td>
+			<td>
+				约旦</td>
+			<td>
+				　</td>
+			<td>
+				JO</td>
+			<td x:num="">
+				962</td>
+			<td x:num="">
+				-6</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td colspan="6">
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Kampuchea （Cambodia ）</td>
+			<td>
+				柬埔寨</td>
+			<td x:str="金边 Phnom Penh ">
+				金边 Phnom Penh&#160;</td>
+			<td>
+				KH</td>
+			<td x:num="">
+				855</td>
+			<td x:num="">
+				-1</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Kazakstan</td>
+			<td>
+				哈萨克斯坦</td>
+			<td>
+				　</td>
+			<td>
+				KZ</td>
+			<td x:num="">
+				327</td>
+			<td x:num="">
+				-5</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Kenya</td>
+			<td>
+				肯尼亚</td>
+			<td x:str="  内罗毕 Nairobi ">
+				&#160; 内罗毕 Nairobi&#160;</td>
+			<td>
+				KE</td>
+			<td x:num="">
+				254</td>
+			<td x:num="">
+				-5</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Korea</td>
+			<td>
+				韩国</td>
+			<td x:str="  汉城 Seoul ">
+				&#160; 首尔&#160;Seoul&#160;</td>
+			<td>
+				KR</td>
+			<td x:num="">
+				82</td>
+			<td x:num="">
+				1</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Kuwait</td>
+			<td>
+				科威特</td>
+			<td>
+				　</td>
+			<td>
+				KW</td>
+			<td x:num="">
+				965</td>
+			<td x:num="">
+				-5</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Kyrgyzstan</td>
+			<td>
+				吉尔吉斯坦</td>
+			<td>
+				　</td>
+			<td>
+				KG</td>
+			<td x:num="">
+				331</td>
+			<td x:num="">
+				-5</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td colspan="6">
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Laos</td>
+			<td>
+				老挝</td>
+			<td x:str="万象 Vientiane ">
+				万象 Vientiane&#160;</td>
+			<td>
+				LA</td>
+			<td x:num="">
+				856</td>
+			<td x:num="">
+				-1</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Latvia</td>
+			<td>
+				拉脱维亚</td>
+			<td>
+				　</td>
+			<td>
+				LV</td>
+			<td x:num="">
+				371</td>
+			<td x:num="">
+				-5</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Lebanon</td>
+			<td>
+				黎巴嫩</td>
+			<td>
+				　</td>
+			<td>
+				LB</td>
+			<td x:num="">
+				961</td>
+			<td x:num="">
+				-6</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Lesotho</td>
+			<td>
+				莱索托</td>
+			<td x:str="马塞卢 Maseru ">
+				马塞卢 Maseru&#160;</td>
+			<td>
+				LS</td>
+			<td x:num="">
+				266</td>
+			<td x:num="">
+				-6</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Liberia</td>
+			<td>
+				利比里亚</td>
+			<td x:str="蒙罗维亚 Monrovia ">
+				蒙罗维亚 Monrovia&#160;</td>
+			<td>
+				LR</td>
+			<td x:num="">
+				231</td>
+			<td x:num="">
+				-8</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Libya</td>
+			<td>
+				利比亚</td>
+			<td x:str="的黎波里 Tripoli ">
+				的黎波里 Tripoli&#160;</td>
+			<td>
+				LY</td>
+			<td x:num="">
+				218</td>
+			<td x:num="">
+				-6</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Liechtenstein</td>
+			<td>
+				列支敦士登</td>
+			<td x:str="瓦杜兹 Vaduz ">
+				瓦杜兹 Vaduz&#160;</td>
+			<td>
+				LI</td>
+			<td x:num="">
+				423</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Lithuania</td>
+			<td>
+				立陶宛</td>
+			<td>
+				　</td>
+			<td>
+				LT</td>
+			<td x:num="">
+				370</td>
+			<td x:num="">
+				-5</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Luxembourg</td>
+			<td>
+				卢森堡</td>
+			<td x:str=" 卢森堡 Luxembourg ">
+				&#160;卢森堡 Luxembourg&#160;</td>
+			<td>
+				LU</td>
+			<td x:num="">
+				352</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td colspan="6">
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Macao</td>
+			<td>
+				澳门</td>
+			<td>
+				　</td>
+			<td>
+				MO</td>
+			<td x:num="">
+				853</td>
+			<td x:num="">
+				0</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Madagascar</td>
+			<td>
+				马达加斯加</td>
+			<td x:str="安塔那利佛 Antananarivo ">
+				安塔那利佛 Antananarivo&#160;</td>
+			<td>
+				MG</td>
+			<td x:num="">
+				261</td>
+			<td x:num="">
+				-5</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Malawi</td>
+			<td>
+				马拉维</td>
+			<td x:str="利隆圭 Lilongwe ">
+				利隆圭 Lilongwe&#160;</td>
+			<td>
+				MW</td>
+			<td x:num="">
+				265</td>
+			<td x:num="">
+				-6</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Malaysia</td>
+			<td>
+				马来西亚</td>
+			<td x:str=" 吉隆坡 Kuala Lumpur ">
+				&#160;吉隆坡 Kuala Lumpur&#160;</td>
+			<td>
+				MY</td>
+			<td x:num="">
+				60</td>
+			<td x:num="">
+				-0.5</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Maldives</td>
+			<td>
+				马尔代夫</td>
+			<td x:str="马累 Male （Maale） ">
+				马累 Male （Maale）&#160;</td>
+			<td>
+				MV</td>
+			<td x:num="">
+				960</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Mali</td>
+			<td>
+				马里</td>
+			<td x:str="巴马科 Bamako ">
+				巴马科 Bamako&#160;</td>
+			<td>
+				ML</td>
+			<td x:num="">
+				223</td>
+			<td x:num="">
+				-8</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Malta</td>
+			<td>
+				马耳他</td>
+			<td x:str="瓦莱塔 Valletta ">
+				瓦莱塔 Valletta&#160;</td>
+			<td>
+				MT</td>
+			<td x:num="">
+				356</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Mariana Is</td>
+			<td>
+				马里亚那群岛</td>
+			<td x:str="  塞班 Saipan ">
+				&#160; 塞班 Saipan&#160;</td>
+			<td>
+				　</td>
+			<td x:num="">
+				1670</td>
+			<td x:num="">
+				1</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Martinique</td>
+			<td>
+				马提尼克</td>
+			<td x:str="法兰西堡 Fort-de-France ">
+				法兰西堡 Fort-de-France&#160;</td>
+			<td>
+				　</td>
+			<td x:num="">
+				596</td>
+			<td x:num="">
+				-12</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Mauritius</td>
+			<td>
+				毛里求斯</td>
+			<td x:str="路易港 Port Louis ">
+				路易港 Port Louis&#160;</td>
+			<td>
+				MU</td>
+			<td x:num="">
+				230</td>
+			<td x:num="">
+				-4</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Mexico</td>
+			<td>
+				墨西哥</td>
+			<td x:str=" 墨西哥城 Mexico ">
+				&#160;墨西哥城 Mexico&#160;</td>
+			<td>
+				MX</td>
+			<td x:num="">
+				52</td>
+			<td x:num="">
+				-15</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Moldova, Republic of</td>
+			<td>
+				摩尔多瓦</td>
+			<td>
+				　</td>
+			<td>
+				MD</td>
+			<td x:num="">
+				373</td>
+			<td x:num="">
+				-5</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Monaco</td>
+			<td>
+				摩纳哥</td>
+			<td x:str=" 摩纳哥 Monaco ">
+				&#160;摩纳哥 Monaco&#160;</td>
+			<td>
+				MC</td>
+			<td x:num="">
+				377</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Mongolia</td>
+			<td>
+				蒙古</td>
+			<td x:str="乌兰巴托 Ulaanbaatar ">
+				乌兰巴托 Ulaanbaatar&#160;</td>
+			<td>
+				MN</td>
+			<td x:num="">
+				976</td>
+			<td x:num="">
+				0</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Montserrat Is</td>
+			<td>
+				蒙特塞拉特岛</td>
+			<td x:str="普利茅斯 Plymouth ">
+				普利茅斯 Plymouth&#160;</td>
+			<td>
+				MS</td>
+			<td x:num="">
+				1664</td>
+			<td x:num="">
+				-12</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Morocco</td>
+			<td>
+				摩洛哥</td>
+			<td x:str="拉巴特 Rabat ">
+				拉巴特 Rabat&#160;</td>
+			<td>
+				MA</td>
+			<td x:num="">
+				212</td>
+			<td x:num="">
+				-6</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Mozambique</td>
+			<td>
+				莫桑比克</td>
+			<td x:str="马普托 Maputo ">
+				马普托 Maputo&#160;</td>
+			<td>
+				MZ</td>
+			<td x:num="">
+				258</td>
+			<td x:num="">
+				-6</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td colspan="6">
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Namibia</td>
+			<td>
+				纳米比亚</td>
+			<td x:str=" 温得和克 Windhoek ">
+				&#160;温得和克 Windhoek&#160;</td>
+			<td>
+				NA</td>
+			<td x:num="">
+				264</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Nauru</td>
+			<td>
+				瑙鲁</td>
+			<td x:str=" government offices in Yaren District ">
+				&#160;government offices in Yaren District&#160;</td>
+			<td>
+				NR</td>
+			<td x:num="">
+				674</td>
+			<td x:num="">
+				4</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Nepal</td>
+			<td>
+				尼泊尔</td>
+			<td x:str=" 加德满都 Kathmandu ">
+				&#160;加德满都 Kathmandu&#160;</td>
+			<td>
+				NP</td>
+			<td x:num="">
+				977</td>
+			<td x:num="-2.3">
+				-2.3</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Netheriands Antilles</td>
+			<td>
+				荷属安的列斯</td>
+			<td>
+				　</td>
+			<td>
+				　</td>
+			<td x:num="">
+				599</td>
+			<td x:num="">
+				-12</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Netherlands</td>
+			<td>
+				荷兰</td>
+			<td x:str="阿姆斯特丹 Amsterdam ">
+				阿姆斯特丹 Amsterdam&#160;</td>
+			<td>
+				NL</td>
+			<td x:num="">
+				31</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				　</td>
+			<td>
+				NewZealand</td>
+			<td>
+				新西兰</td>
+			<td x:str=" 惠灵顿 Wellington ">
+				&#160;惠灵顿 Wellington&#160;</td>
+			<td>
+				NZ</td>
+			<td x:num="">
+				64</td>
+			<td x:num="">
+				4</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Nicaragua</td>
+			<td>
+				尼加拉瓜</td>
+			<td x:str="马那瓜 Managua ">
+				马那瓜 Managua&#160;</td>
+			<td>
+				NI</td>
+			<td x:num="">
+				505</td>
+			<td x:num="">
+				-14</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Niger</td>
+			<td>
+				尼日尔</td>
+			<td x:str="尼亚美 Niamey ">
+				尼亚美 Niamey&#160;</td>
+			<td>
+				NE</td>
+			<td x:num="">
+				227</td>
+			<td x:num="">
+				-8</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Nigeria</td>
+			<td>
+				尼日利亚</td>
+			<td x:str="拉各斯 Abuja ">
+				拉各斯 Abuja&#160;</td>
+			<td>
+				NG</td>
+			<td x:num="">
+				234</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				North Korea</td>
+			<td>
+				朝鲜</td>
+			<td x:str="平壤 P'yongyang ">
+				平壤 P'yongyang&#160;</td>
+			<td>
+				KP</td>
+			<td x:num="">
+				850</td>
+			<td x:num="">
+				1</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Norway</td>
+			<td>
+				挪威</td>
+			<td x:str="奥斯陆 Oslo ">
+				奥斯陆 Oslo&#160;</td>
+			<td>
+				NO</td>
+			<td x:num="">
+				47</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td colspan="6">
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Oman</td>
+			<td>
+				阿曼</td>
+			<td>
+				　</td>
+			<td>
+				OM</td>
+			<td x:num="">
+				968</td>
+			<td x:num="">
+				-4</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td colspan="6">
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Pakistan</td>
+			<td>
+				巴基斯坦</td>
+			<td>
+				伊斯兰堡 Islamabad</td>
+			<td>
+				PK</td>
+			<td x:num="">
+				92</td>
+			<td x:num="-2.3">
+				-2.3</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Panama</td>
+			<td>
+				巴拿马</td>
+			<td x:str="巴拿马城 Panama ">
+				巴拿马城 Panama&#160;</td>
+			<td>
+				PA</td>
+			<td x:num="">
+				507</td>
+			<td x:num="">
+				-13</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Papua New Cuinea</td>
+			<td>
+				巴布亚新几内亚</td>
+			<td x:str="莫尔兹比港 Port Moresby ">
+				莫尔兹比港 Port Moresby&#160;</td>
+			<td>
+				PG</td>
+			<td x:num="">
+				675</td>
+			<td x:num="">
+				2</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Paraguay</td>
+			<td>
+				巴拉圭</td>
+			<td x:str="亚松森 Asuncion ">
+				亚松森 Asuncion&#160;</td>
+			<td>
+				PY</td>
+			<td x:num="">
+				595</td>
+			<td x:num="">
+				-12</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Peru</td>
+			<td>
+				秘鲁</td>
+			<td x:str="  利马 Lima ">
+				&#160; 利马 Lima&#160;</td>
+			<td>
+				PE</td>
+			<td x:num="">
+				51</td>
+			<td x:num="">
+				-13</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Philippines</td>
+			<td>
+				菲律宾共和国</td>
+			<td x:str="马尼拉 Manila ">
+				马尼拉 Manila&#160;</td>
+			<td>
+				PH</td>
+			<td x:num="">
+				63</td>
+			<td x:num="">
+				0</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Poland</td>
+			<td>
+				波兰</td>
+			<td x:str=" 华沙 Warsaw ">
+				&#160;华沙 Warsaw&#160;</td>
+			<td>
+				PL</td>
+			<td x:num="">
+				48</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				French Polynesia</td>
+			<td>
+				法属玻利尼西亚</td>
+			<td x:str="帕皮提 Papeete ">
+				帕皮提 Papeete&#160;</td>
+			<td>
+				PF</td>
+			<td x:num="">
+				689</td>
+			<td x:num="">
+				3</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Portugal</td>
+			<td>
+				葡萄牙</td>
+			<td x:str="里斯本 Lisbon ">
+				里斯本 Lisbon&#160;</td>
+			<td>
+				PT</td>
+			<td x:num="">
+				351</td>
+			<td x:num="">
+				-8</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				PuertoRico</td>
+			<td>
+				波多黎各</td>
+			<td x:str="圣胡安 San Juan ">
+				圣胡安 San Juan&#160;</td>
+			<td>
+				PR</td>
+			<td x:num="">
+				1787</td>
+			<td x:num="">
+				-12</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td colspan="6">
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Qatar</td>
+			<td>
+				卡塔尔</td>
+			<td>
+				　</td>
+			<td>
+				QA</td>
+			<td x:num="">
+				974</td>
+			<td x:num="">
+				-5</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td colspan="6">
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Reunion</td>
+			<td>
+				留尼旺</td>
+			<td x:str=" 圣但尼 Saint-Denis ">
+				&#160;圣但尼 Saint-Denis&#160;</td>
+			<td>
+				　</td>
+			<td x:num="">
+				262</td>
+			<td x:num="">
+				-4</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Romania</td>
+			<td>
+				罗马尼亚</td>
+			<td x:str=" 布加勒斯特 Bucharest ">
+				&#160;布加勒斯特 Bucharest&#160;</td>
+			<td>
+				RO</td>
+			<td x:num="">
+				40</td>
+			<td x:num="">
+				-6</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Russia</td>
+			<td>
+				俄罗斯</td>
+			<td x:str="莫斯科 Moscow ">
+				莫斯科 Moscow&#160;</td>
+			<td>
+				RU</td>
+			<td x:num="">
+				7</td>
+			<td x:num="">
+				-5</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td colspan="6">
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Saint Lueia</td>
+			<td>
+				圣卢西亚</td>
+			<td x:str="卡斯特里 Castries ">
+				卡斯特里 Castries&#160;</td>
+			<td>
+				LC</td>
+			<td x:num="">
+				1758</td>
+			<td x:num="">
+				-12</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Saint Vincent</td>
+			<td>
+				圣文森特岛</td>
+			<td>
+				金斯敦 Kingstown</td>
+			<td>
+				VC</td>
+			<td x:num="">
+				1784</td>
+			<td x:num="">
+				-12</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Samoa Eastern</td>
+			<td>
+				东萨摩亚（美）</td>
+			<td>
+				&#160;</td>
+			<td>
+				　</td>
+			<td x:num="">
+				684</td>
+			<td x:num="">
+				-19</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Samoa Western</td>
+			<td>
+				西萨摩亚</td>
+			<td x:str="阿皮亚 Apia ">
+				阿皮亚 Apia&#160;</td>
+			<td>
+				　</td>
+			<td x:num="">
+				685</td>
+			<td x:num="">
+				-19</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				San Marino</td>
+			<td>
+				圣马力诺</td>
+			<td x:str="圣马力诺 San Marino ">
+				圣马力诺 San Marino&#160;</td>
+			<td>
+				SM</td>
+			<td x:num="">
+				378</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Sao Tome and Principe</td>
+			<td>
+				圣多美和普林西比</td>
+			<td>
+				　</td>
+			<td>
+				ST</td>
+			<td x:num="">
+				239</td>
+			<td x:num="">
+				-8</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Saudi Arabia</td>
+			<td>
+				沙特阿拉伯</td>
+			<td>
+				　</td>
+			<td>
+				SA</td>
+			<td x:num="">
+				966</td>
+			<td x:num="">
+				-5</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Senegal</td>
+			<td>
+				塞内加尔</td>
+			<td>
+				　</td>
+			<td>
+				SN</td>
+			<td x:num="">
+				221</td>
+			<td x:num="">
+				-8</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Seychelles</td>
+			<td>
+				塞舌尔</td>
+			<td>
+				　</td>
+			<td>
+				SC</td>
+			<td x:num="">
+				248</td>
+			<td x:num="">
+				-4</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Sierra Leone</td>
+			<td>
+				塞拉利昂</td>
+			<td>
+				　</td>
+			<td>
+				SL</td>
+			<td x:num="">
+				232</td>
+			<td x:num="">
+				-8</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Singapore</td>
+			<td>
+				新加坡</td>
+			<td x:str="   新加坡 Singapore ">
+				&#160;&#160; 新加坡 Singapore&#160;</td>
+			<td>
+				SG</td>
+			<td x:num="">
+				65</td>
+			<td x:num="">
+				0.3</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Slovakia</td>
+			<td>
+				斯洛伐克</td>
+			<td>
+				&#160;</td>
+			<td>
+				SK</td>
+			<td x:num="">
+				421</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Slovenia</td>
+			<td>
+				斯洛文尼亚</td>
+			<td x:str="Ljubljana ">
+				Ljubljana&#160;</td>
+			<td>
+				SI</td>
+			<td x:num="">
+				386</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Solomon Is</td>
+			<td>
+				所罗门群岛</td>
+			<td>
+				　</td>
+			<td>
+				SB</td>
+			<td x:num="">
+				677</td>
+			<td x:num="">
+				3</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Somali</td>
+			<td>
+				索马里</td>
+			<td>
+				　</td>
+			<td>
+				SO</td>
+			<td x:num="">
+				252</td>
+			<td x:num="">
+				-5</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				South Africa</td>
+			<td>
+				南非</td>
+			<td>
+				　</td>
+			<td>
+				ZA</td>
+			<td x:num="">
+				27</td>
+			<td x:num="">
+				-6</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Spain</td>
+			<td>
+				西班牙</td>
+			<td x:str="马德里 Madrid ">
+				马德里 Madrid&#160;</td>
+			<td>
+				ES</td>
+			<td x:num="">
+				34</td>
+			<td x:num="">
+				-8</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Sri Lanka</td>
+			<td>
+				斯里兰卡</td>
+			<td x:str="科伦坡 Colombo ">
+				科伦坡 Colombo&#160;</td>
+			<td>
+				LK</td>
+			<td x:num="">
+				94</td>
+			<td x:num="">
+				0</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				St.Lucia</td>
+			<td>
+				圣卢西亚岛</td>
+			<td x:str=" 卡斯特里 Castries ">
+				&#160;卡斯特里 Castries&#160;</td>
+			<td>
+				LC</td>
+			<td x:num="">
+				1758</td>
+			<td x:num="">
+				-12</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				St.Vincent</td>
+			<td>
+				圣文森特</td>
+			<td x:str="金斯敦 Kingstown ">
+				金斯敦 Kingstown&#160;</td>
+			<td>
+				VC</td>
+			<td x:num="">
+				1784</td>
+			<td x:num="">
+				-12</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Sudan</td>
+			<td>
+				苏丹</td>
+			<td>
+				　</td>
+			<td>
+				SD</td>
+			<td x:num="">
+				249</td>
+			<td x:num="">
+				-6</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Suriname</td>
+			<td>
+				苏里南</td>
+			<td x:str="帕拉马里博 Paramaribo ">
+				帕拉马里博 Paramaribo&#160;</td>
+			<td>
+				SR</td>
+			<td x:num="">
+				597</td>
+			<td x:num="">
+				-11.3</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Swaziland</td>
+			<td>
+				斯威士兰</td>
+			<td>
+				　</td>
+			<td>
+				SZ</td>
+			<td x:num="">
+				268</td>
+			<td x:num="">
+				-6</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Sweden</td>
+			<td>
+				瑞典</td>
+			<td x:str="斯德哥尔摩 Stockholm ">
+				斯德哥尔摩 Stockholm&#160;</td>
+			<td>
+				SE</td>
+			<td x:num="">
+				46</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Switzerland</td>
+			<td>
+				瑞士</td>
+			<td x:str=" 伯尔尼 Bern ">
+				&#160;伯尔尼 Bern&#160;</td>
+			<td>
+				CH</td>
+			<td x:num="">
+				41</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Syria</td>
+			<td>
+				叙利亚</td>
+			<td>
+				　</td>
+			<td>
+				SY</td>
+			<td x:num="">
+				963</td>
+			<td x:num="">
+				-6</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td colspan="6">
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Taiwan</td>
+			<td>
+				台湾</td>
+			<td>
+				　</td>
+			<td>
+				TW</td>
+			<td x:num="">
+				886</td>
+			<td x:num="">
+				0</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Tajikstan</td>
+			<td>
+				塔吉克斯坦</td>
+			<td>
+				　</td>
+			<td>
+				TJ</td>
+			<td x:num="">
+				992</td>
+			<td x:num="">
+				-5</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Tanzania</td>
+			<td>
+				坦桑尼亚</td>
+			<td>
+				　</td>
+			<td>
+				TZ</td>
+			<td x:num="">
+				255</td>
+			<td x:num="">
+				-5</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Thailand</td>
+			<td>
+				泰国</td>
+			<td>
+				&#160;曼谷Bangkok</td>
+			<td>
+				TH</td>
+			<td x:num="">
+				66</td>
+			<td x:num="">
+				-1</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Togo</td>
+			<td>
+				多哥</td>
+			<td>
+				　</td>
+			<td>
+				TG</td>
+			<td x:num="">
+				228</td>
+			<td x:num="">
+				-8</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Tonga</td>
+			<td>
+				汤加</td>
+			<td>
+				　</td>
+			<td>
+				TO</td>
+			<td x:num="">
+				676</td>
+			<td x:num="">
+				4</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Trinidad and Tobago</td>
+			<td>
+				特立尼达和多巴哥</td>
+			<td x:str="西班牙港 Port-of-Spain ">
+				西班牙港 Port-of-Spain&#160;</td>
+			<td>
+				TT</td>
+			<td x:num="">
+				1809</td>
+			<td x:num="">
+				-12</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Tunisia</td>
+			<td>
+				突尼斯</td>
+			<td>
+				　</td>
+			<td>
+				TN</td>
+			<td x:num="">
+				216</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Turkey</td>
+			<td>
+				土耳其</td>
+			<td x:str="安卡拉 Ankara ">
+				安卡拉 Ankara&#160;</td>
+			<td>
+				TR</td>
+			<td x:num="">
+				90</td>
+			<td x:num="">
+				-6</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Turkmenistan</td>
+			<td>
+				土库曼斯坦</td>
+			<td>
+				　</td>
+			<td>
+				TM</td>
+			<td x:num="">
+				993</td>
+			<td x:num="">
+				-5</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td colspan="6">
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Uganda</td>
+			<td>
+				乌干达</td>
+			<td>
+				　</td>
+			<td>
+				UG</td>
+			<td x:num="">
+				256</td>
+			<td x:num="">
+				-5</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Ukraine</td>
+			<td>
+				乌克兰</td>
+			<td>
+				　</td>
+			<td>
+				UA</td>
+			<td x:num="">
+				380</td>
+			<td x:num="">
+				-5</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				United Arab Emirates</td>
+			<td>
+				阿拉伯联合酋长国</td>
+			<td>
+				　</td>
+			<td>
+				AE</td>
+			<td x:num="">
+				971</td>
+			<td x:num="">
+				-4</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				United Kiongdom</td>
+			<td>
+				英国</td>
+			<td>
+				　</td>
+			<td>
+				GB</td>
+			<td x:num="">
+				44</td>
+			<td x:num="">
+				-8</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				United States of America</td>
+			<td>
+				美国</td>
+			<td x:str="华盛顿 Washington, DC ">
+				华盛顿 Washington, DC&#160;</td>
+			<td>
+				US</td>
+			<td x:num="">
+				1</td>
+			<td x:num="">
+				-13</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Uruguay</td>
+			<td>
+				乌拉圭</td>
+			<td x:str=" 蒙得维的亚 Montevideo ">
+				&#160;蒙得维的亚 Montevideo&#160;</td>
+			<td>
+				UY</td>
+			<td x:num="">
+				598</td>
+			<td x:num="">
+				-10.3</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Uzbekistan</td>
+			<td>
+				乌兹别克斯坦</td>
+			<td>
+				塔什干 Toshkent　</td>
+			<td>
+				UZ</td>
+			<td x:num="">
+				233</td>
+			<td x:num="">
+				-5</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td colspan="6">
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Venezuela</td>
+			<td>
+				委内瑞拉</td>
+			<td x:str=" 加拉加斯 Caracas ">
+				&#160;加拉加斯 Caracas&#160;</td>
+			<td>
+				VE</td>
+			<td x:num="">
+				58</td>
+			<td x:num="">
+				-12.3</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Vietnam</td>
+			<td>
+				越南</td>
+			<td x:str="河内 Hanoi ">
+				河内 Hanoi&#160;</td>
+			<td>
+				VN</td>
+			<td x:num="">
+				84</td>
+			<td x:num="">
+				-1</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td colspan="6">
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Yemen</td>
+			<td>
+				也门</td>
+			<td>
+				　</td>
+			<td>
+				YE</td>
+			<td x:num="">
+				967</td>
+			<td x:num="">
+				-5</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Yugoslavia</td>
+			<td>
+				南斯拉夫</td>
+			<td>
+				　</td>
+			<td>
+				YU</td>
+			<td x:num="">
+				381</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td colspan="6">
+				　</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				South Africa</td>
+			<td>
+				南非</td>
+			<td>
+				<p>
+					行政首都：比勒陀利亚（Pletolia）<br />
+					现已更名为茨瓦内（Tshwane）、<br />
+					立法首都：开普敦（Kape Town）、<br />
+					司法首都：布隆方丹（Bloemfontein）</p>
+			</td>
+			<td>
+				ZA</td>
+			<td x:num="">
+				27</td>
+			<td x:num="">
+				2</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Zimbabwe</td>
+			<td>
+				津巴布韦</td>
+			<td>
+				哈拉雷（Harare）</td>
+			<td>
+				ZW</td>
+			<td x:num="">
+				263</td>
+			<td x:num="">
+				-6</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Zaire</td>
+			<td>
+				扎伊尔（刚果金）</td>
+			<td>
+				　金沙萨（Kinshasa</td>
+			<td>
+				ZR</td>
+			<td x:num="">
+				243</td>
+			<td x:num="">
+				-7</td>
+		</tr>
+		<tr>
+			<td>
+				&#160;</td>
+			<td>
+				Zambia</td>
+			<td>
+				赞比亚</td>
+			<td>
+				卢萨卡（Lusaka</td>
+			<td>
+				ZM</td>
+			<td x:num="">
+				260</td>
+			<td x:num="">
+				-6</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&#160;</p>
+
+<p style="TEXT-INDENT:2em">来源：<a title="全世界国家和地区时差一览表" style="color:#000;" href="http://114.xixik.com/cn-uk-time-zone/"><strong>全世界国家和地区时差一览表</strong></a>：<a title="全世界国家和地区时差一览表" href="http://114.xixik.com/cn-uk-time-zone/">http://114.xixik.com/cn-uk-time-zone/</a></p>
+                </div>
+            </div>
+        </div>
+        
+        
+        <a name="anchor4"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        移民到哪个国家没时差？</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                   
+                    <p style="TEXT-INDENT:2em">
+	客户办移民关心的问题有哪些？子女教育？养老环境？食品安全？答案不一而足，若你要问我客户最关心的问题是什么？看看我们的移民客户主要群体不就知道了吗？移民客户群体？还用问吗？不是企业家就是高管，要不就是&ldquo;继承者们&rdquo;啊。作为这类客户，最最最关心的问题当然是：我的生意！</p>
+<p style="TEXT-INDENT:2em">
+	记得一位客户问我的问题：移民办哪个国家没有时差？我当时一愣，难道客户问的真的是东八区西八区这个时差？后来明白客户想问的是，我移民之后，怎么才能无时间障碍打理我的生意！</p>
+<p style="TEXT-INDENT:2em">
+	嘿嘿，那我只能不谦虚的告诉您了：英国无时差！</p>
+<p style="TEXT-INDENT:2em">
+	此话怎讲？有图有真相！</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/cn-uk-time-zone/xixik-7f88d407a61f75d3.png" /></p>
+<p style="TEXT-INDENT:2em">
+	英国时间早9点 中国北京时间16:00，澳洲悉尼时间18:00，到了总结一天工作的时间； 此时和中国和澳洲的工作伙伴沟通，并开启英国一天的工作。&nbsp;&nbsp;</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/cn-uk-time-zone/xixik-6dade847ef80c301.png" /></p>
+<p style="TEXT-INDENT:2em">
+	午餐休息后时间 中午14:00</p>
+<p style="TEXT-INDENT:2em">
+	美国纽约时间早9:00，正好到了工作时间。</p>
+<p style="TEXT-INDENT:2em">
+	此时和美洲的生意伙伴沟通，时间刚刚好！</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/cn-uk-time-zone/xixik-e8d78e7386d22c60.png" /></p>
+<p style="TEXT-INDENT:2em">
+	下午17:00，英国一天的工作结束了；</p>
+<p style="TEXT-INDENT:2em">
+	如果还有需要沟通和部署美洲的工作也是可以的呦。</p>
+<p style="TEXT-INDENT:2em">
+	Oh! 不要忘了，在英国，和巴黎、柏林、罗马、雅典、马德里、里斯本、哥本哈根&hellip;&hellip;</p>
+<p style="TEXT-INDENT:2em">
+	等所有的欧洲国家城市全部都同步工作，时间上完全无缝对接。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/cn-uk-time-zone/xixik-d99105a548d87ae2.png" /></p>
+<p style="TEXT-INDENT:2em">
+	这才叫无时差，这才是全球化，这才是解决客户关心的生意问题的终极密码。</p>
+
+<p style="TEXT-INDENT:2em">来源：<a title="移民到哪个国家没时差？" style="color:#000;" href="http://114.xixik.com/cn-uk-time-zone/"><strong>移民到哪个国家没时差？</strong></a>：<a title="移民到哪个国家没时差？" href="http://114.xixik.com/cn-uk-time-zone/">http://114.xixik.com/cn-uk-time-zone/</a></p>
+                </div>
+            </div>
+        </div>
+        
+        
+    </div>
+  
+    <script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+      
+
+    <script type="text/javascript">
+        var value = '215';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script>
+    <div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/cn-uk-time-zone/" target="_self" title="中英时差对照表,现在英国几点?中国和英国时差怎么算?现在英国时间是几点?">中英时差对照表</a></div>
+    <ul style="width: 960px; margin: auto; overflow: hidden;">
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/shicha/"
+                title="国际时差查询 - 世界各国主要城市和北京时差对照表">时差</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证更换新政策_过期了该怎么办？">中国旅行证</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangye/"
+                title="2017最新国民经济行业分类与代码（GB/4754-2017）,国民经济行业分类标准">国民经济行业分类与代码</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/yimiao/"
+                title="疫苗接种时间表 - 中国儿童预防疫苗接种时间表">儿童疫苗接种表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国总统_美国历任总统名单_美国历届总统大全">美国历任总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2020年二十四节气">二十四节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chicun/"
+                title="服装尺寸对照表_男士服装尺寸对照表_中国女装尺寸对照表_美版服装尺码换算">服装尺寸对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/country/"
+                title="全世界有多少个国家和地区？_世界上国家和地区一览表">全世界国家和地区</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/country-flag/"
+                title="世界各国国旗大全 - 世界各国国旗一览表,国旗图片下载">世界各国国旗大全</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/festival/"
+                title="节日大全_2020年法定节假日安排">节日大全</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24jieqi/72hou/"
+                title="月令七十二候集解_二十四节气">月令七十二候集解</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_历任美国总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-visa/"
+                title="赴美生子诚实签攻略_赴美生子诚实签的好处_赴美生子为什么要诚实签">赴美生子诚实签攻略</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-spending/"
+                title="赴美生子价格_去美国生孩子多少钱_费用清单">赴美生子价格</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-baoxian/"
+                title="赴美生子保险_去美国生宝宝生育险_孕中险">赴美生子保险</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-hospital/"
+                title="赴美生子医院_洛杉矶医院_洛杉矶接待华人孕妇医院价目和详细情况一览表">赴美生子医院</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-doctor/"
+                title="赴美生子医生_洛杉矶医生_赴美生子华人医生_赴美生子医生介绍">赴美生子医生</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-living/"
+                title="赴美生子DIY可行吗？_赴美生子DIY攻略">月子中心还是DIY</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="美宝证件_美宝需要哪些证件（美国出生纸_中国旅行证_美国护照_社会安全号_出生纸三级认证）">美宝需要哪些证件？</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-passport-ds11/"
+                title="美宝美国护照申请更新_DS-11怎么填图文">美国护照申请</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_去美国生孩子费用预算清单2020">赴美生子要多少钱</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/university/"
+                title="中国大学名单_2019年全国高等学校名单（截至2019年6月15日）">中国大学名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/ranking/"
+                title="美国总统排名_美国总统历史排名_美国最伟大的总统排行榜">美国总统排行榜</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/size/"
+                title="服装尺寸对照表_裤子尺寸_男装尺寸_女装尺寸_裙子尺寸">服装尺寸</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/cn-uk-time-zone/"
+                title="中英时差对照表,现在英国几点?中国和英国时差怎么算?现在英国时间是几点?">中英时差对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_去美国生孩子要多少钱？">赴美生子费用</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 最新中国护照免签国家一览2020">中国护照免签证</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-passport/"
+                title="美国护照 - 美国护照上写的什么,美国护照免签证国家">美国护照</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/henley-passport-index/"
+                title="亨氏护照指数 - 亨氏护照受限制数2019">亨氏护照指数</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-process/"
+                title="赴美生子流程 - 干货！超详细的赴美生子流程攻略2020！">赴美生子流程</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-best/"
+                title="赴美生子机构哪家好？_合法的赴美生子机构">赴美生子机构哪家好</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-regret/"
+                title="2020生个美国孩子后悔了_后悔在美国生孩子_赴美生子利与弊">生个美国宝宝后悔了揭秘</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/visa/"
+                title="美国签证_美国签证DS-160表格在线填写_美国签证预约面谈_在线缴费">美国签证</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/titanic/"
+                title="泰坦尼克号真实历史_沉没之谜_泰坦尼克号电影_嘻嘻网">泰坦尼克号</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-flight/"
+                title="赴美生子航班怎么选_去美国生孩子中美航班信息大全">赴美生子航班</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/exit-and-entry-premit/"
+                title="出入境通行证_一次性出入境通行证_中华人民共和国出入境通行证">出入境通行证</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-prosandcons/"
+                title="赴美生子利弊_赴美生子的优势和弊端_生美籍宝宝的好处和坏处">赴美生子好处和弊端</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-born/"
+                title="赴美产子_赴美生子_去美国生孩子">赴美产子</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-constitution/14th-amendment/"
+                title="美国宪法修正案第十四条">美国宪法修正案第14条</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/greatest/"
+                title="美国最伟大的总统_美国总统排行榜">美国最伟大的总统</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-states/13states/"
+                title="美国13个州_北美13个殖民地_美国建国时的13个州">美国13个州</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/qs2020/"
+                title="2020年QS世界大学排名_世界大学排行榜">QS世界大学排行榜</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/born-usbaby/"
+                title="去美国生孩子_去美国生孩子多少钱">去美国生孩子</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-constitution/amendments/"
+                title="美国宪法修正案_Amendments to the Constitution">美国宪法修正案</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/the-world-university-rankings/"
+                title="2020年泰晤士报世界大学排名_2020年THE世界大学排名">泰晤士世界大学排名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/ssn/"
+                title="美国社安号SSN_美国社安卡_美国社会安全号码">社会安全号码</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/declaration-of-independence/"
+                title="《美国独立宣言》（The Declaration of Independence）">独立宣言</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/birth-certificate/"
+                title="美国出生纸（Birth Certificate）_美国出生纸三级认证">美国出生纸</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-living-cost/"
+                title="美国月子中心费用_赴美生子费用">美国月子中心费用</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/guoqi/"
+                title="国旗大全_世界各国国旗">国旗大全</a> </li>
+        
+    </ul>
+
+    <div class="lindBox">
+        <div class="btnGray">
+            <div class="btnText">
+                <a target="_self" title="中英时差对照表,现在英国几点?中国和英国时差怎么算?现在英国时间是几点?" href="http://news.xixik.com/word/215/">另存为<br />
+                    Word格式</a>
+            </div>
+        </div>
+    </div>
+    <div class="lindBox" style="text-align: center;">
+        <img src="http://news.xixik.com/qrcode/215/" alt="扫码手机上继续看" /><br />
+        <br />
+        <strong>用微信或者支付宝扫码在手机上继续观看<br />
+            可以保存收藏，也扫码后可以分享给好友
+        </strong>
+    </div>
+    <hr style="height: 1px; border: none; border-top: 1px dashed #999;" />
+    <script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script>
+<!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.-->
+
+</body></html>
