@@ -1,0 +1,368 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>美国宪法修正案第十四条</title><link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" /><meta name="description" content="1868年生效的美国《宪法》修正案第十四条第一条规定，不论他们的父母来自哪个国家，在美国国土上出生的孩子都会自动成为美国公民。the Fourteenth Amendment to the US Constitution, children born on US soil automatically become US citizens, regardless of where their parents hail from.这构成了赴美生子合法性的法律基础。" /><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/us-constitution/14th-amendment/"><meta http-equiv="Cache-Control" content="no-transform" /><meta http-equiv="Cache-Control" content="no-siteapp" /><base target="_blank" /><script>        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "us-constitution/14th-amendment/";
+        }
+
+        
+    </script><style>        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+            overflow:auto;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style></head><body><a name="top4"></a><div class="topBox" name="top"><div class="topMain"><div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div><div id="icoPhone"></div><div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div><div id="icoWechat"></div><div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a></div><div id="icoSina"></div><div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a></div><div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div><div class="topRight"></div></div></div><div id="showqrCode"><div><span></span></div><img src="" /><div><span></span></div></div><script type="text/javascript">        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);<a href="Model1.aspx">Model1.aspx</a>            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script><div class="body"><div class="lindBox" style="position: relative;"><img src="http://img.xixik.net/custom/topic/001/us-constitution-14th-amendment.jpg" alt="美国宪法修正案第十四条" /><div class="title"><h1>美国宪法修正案第十四条</h1></div></div><div class=" custom_border lindBox"><div class="special_content"><div class="content_text"><div class="content_daodu"></div><h2>美国宪法修正案第14条</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--><p><strong>美国宪法修正案第十四条</strong>第一款：所有出生或归化，在美国，并受司法管辖的人，是美国和他们居住的国家，其中公民。 任何国家均不得作出或执行任何法律，这将缩短美国公民的特权或豁免权;任何国家也不得未经法律正当程序剥夺任何人的生命，自由或财产，也不拒绝任何人在其司法管辖区的法律的平等保护。这是合法<strong><a href="http://114.xixik.com/usbaby-cost/" title="赴美生子多少钱">赴美生子</a></strong>法律的基础。</p></div></div></div><div class="lindBox" style="overflow: hidden;"><div class="gg1"><a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a></div><div class="guide"><div class="guideBorder" id="guideBorder"><div class="guideTitle">导读（目录）</div><ul id="guideDisplay"><li>·<a title="美国宪法修正案第十四条" href="#anchor1" target="_self"> 美国宪法修正案第十四条</a></li><li>·<a title="美国落地公民权前世今生" href="#anchor2" target="_self"> 美国落地公民权前世今生</a></li><li>·<a title="特朗普妄图取消落地国籍的可笑" href="#anchor3" target="_self"> 特朗普妄图取消落地国籍的可笑</a></li><li>·<a title="美国宪法修正案（27个）" href="#anchor4" target="_self"> 美国宪法修正案（27个）</a></li></ul><div class="guideOpen">展开&darr;</div></div></div><div class="guideFllow"><div class="guideFllowBorder"><div class="guideFllowTitle">导读（目录）</div><ul id="guideFllowDisplay"><li>·<a title="美国宪法修正案第十四条" href="#anchor1" target="_self"> 美国宪法修正案第十四条</a></li><li>·<a title="美国落地公民权前世今生" href="#anchor2" target="_self"> 美国落地公民权前世今生</a></li><li>·<a title="特朗普妄图取消落地国籍的可笑" href="#anchor3" target="_self"> 特朗普妄图取消落地国籍的可笑</a></li><li>·<a title="美国宪法修正案（27个）" href="#anchor4" target="_self"> 美国宪法修正案（27个）</a></li></ul><div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div></div></div><div class="gg2"><a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a></div></div><a name="anchor1"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        美国宪法修正案第十四条</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em"><a style="color:#000" title="美国宪法修正案第十四条" href="http://114.xixik.com/us-constitution/14th-amendment/">美国宪法修正案第十四条</a>（第十四修订 ） ，1866年6月13日提出，1868年7月9日通过了关于为一体的重建修订 。</p><p style="TEXT-INDENT:2em">	公民条款规定了公民广泛的定义，推翻了斯科特诉桑福德 （1857年）认为黑人不能成为美国公民。</p><div class='right_gg'><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- 336x280-114-left --><ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-3849899595029685"
+     data-ad-slot="9973132210"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><p style="TEXT-INDENT:2em">	其应有的程序条款禁止州和地方政府所采取的某些步骤，以确保公平没有剥夺人的生命，自由，或财产。 这项条文已使用的大多数国家适用的 人权法案 ，以及承认的实质性和程序性权利。</p><p style="TEXT-INDENT:2em">	它的平等保护条款，要求每个国家提供平等的法律保护下，所有的人在其管辖范围。 这项条文的依据布朗诉教育委员会案 （1954年），最高法院的决定，沉淀拆除在美国的种族隔离。 在里德诉里德 （1971年），最高法院首次裁定，擅自要求性别歧视的法律违反了平等保护条款。</p><p style="TEXT-INDENT:2em">	该修正案还包括若干条款的处理与邦联及其官员。</p><p style="TEXT-INDENT:2em"><strong><a style="color:#000" title="美国宪法修正案第十四条" href="http://114.xixik.com/us-constitution/14th-amendment/">美国宪法修正案第十四条</a>第一款内容</strong></p><p style="text-indent: 2em; text-align: center;"><img src="http://img.xixik.net/custom/section/us-constitution/14th-amendment/xixik-7be2dfcf74978276.png" style="width: 90%; max-width: 90%;" /></p><p style="TEXT-INDENT:2em">	Section 1. All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.</p><p style="TEXT-INDENT:2em">	第一款　所有在合众国出生或归化合众国并受其管辖的人，都是合众国的和他们居住州的公民。任何一州，都不得制定或实施限制合众国公民的特权或豁免权的法律；不经正当法律程序，不得剥夺任何人的生命、自由或财产；在州管辖范围内，也不得拒绝给予任何人以平等法律保护。</p><p style="TEXT-INDENT:2em"><a style="color:#000" title="美国宪法修正案第十四条" href="http://114.xixik.com/us-constitution/14th-amendment/">美国宪法修正案第十四条</a>其他条款</p><p style="TEXT-INDENT:2em">	Section 2. Representatives shall be apportioned among the several States according to their respective numbers, counting the whole number of persons in each State, excluding Indians not taxed. But when the right to vote at any election for the choice of electors for President and Vice President of the United States, Representatives in Congress, the Executive and Judicial officers of a State, or the members of the Legislature thereof, is denied to any of the male inhabitants of such State, being twenty-one years of age, and citizens of the United States, or in any way abridged, except for participation in rebellion, or other crime, the basis of representation therein shall be reduced in the proportion which the number of such male citizens shall bear to the whole number of male citizens twenty-one years of age in such State.</p><p style="TEXT-INDENT:2em">	第二款　众议员名额，应按各州人口比例进行分配，此人口数包括一州的全部人口数，但不包括未被征税的印第安人。但在选举合众国总统和<a style="color:#000" title="副总统" href="http://114.xixik.com/vice-president/">副总统</a>选举人、<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>众议员、州行政和司法官员或州议会议员的任何选举中，一州的年满21岁并且是合众国公民的任何男性居民，除因参加叛乱或其他犯罪外，如其选举权遭到拒绝或受到任何方式的限制，则该州代表权的基础，应按以上男性公民的人数同该州年满21岁男性公民总人数的比例予以削减。</p><p style="TEXT-INDENT:2em">	Section 3. No one shall be a Senator or Representative in Congress, or elector of President and Vice President, or hold any office, civil or military, under the United States, or under any State, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion against the same, or given aid or comfort to the enemies thereof. But Congress may by a vote of two-thirds of each House, remove such disability.</p><p style="TEXT-INDENT:2em">	第三款　无论何人，凡先前曾以<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>议员、或合众国官员、或任何州议会议员、或任何州行政或司法官员的身份宣誓维护合众国宪法，以后又对合众国作乱或反叛，或给予合众国敌人帮助或鼓励，都不得担任<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>参议员或众议员、或总统和<a style="color:#000" title="副总统" href="http://114.xixik.com/vice-president/">副总统</a>选举人，或担任合众国或任何州属下的任何文职或军职官员。但<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>得以两院各三分之二的票数取消此种限制。</p><p style="TEXT-INDENT:2em">	Section 4. The validity of the public debt of the United States, authorized by law, including debts incurred for payment of pensions and bounties for services in suppressing insurrection or rebellion, shall not be questioned. But neither the United States nor any State shall assume or pay any debt or obligation incurred in aid of insurrection or rebellion against the United States, or any claim for the loss or emancipation of any slave; but all such debts, obligations and claims shall be held illegal and void.</p><p style="TEXT-INDENT:2em">	第四款　对于法律批准的合众国公共债务，包括因支付平定作乱或反叛有功人员的年金而产生的债务，其效力不得有所怀疑。但无论合众国或任何一州，都不得承担或偿付因援助对合众国的作乱或反叛而产生的任何债务或义务，或因丧失或解放任何奴隶而提出的任何赔偿要求；所有这类债务、义务和要求，都应被认为是非法和无效的。</p><p style="TEXT-INDENT:2em">	Section 5. The Congress shall have power to enforce, by appropriate legislation, the provisions of this article.</p><p style="TEXT-INDENT:2em">	第五款　<a style="color:#000" title="国会" href="http://114.xixik.com/congress/">国会</a>有权以适当立法实施本条规定。</p></div></div></div><a name="anchor2"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        美国落地公民权前世今生</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	在美国成立之初，情况却大相径庭。美国建国初期，组成美利坚合众国的原英属各北美殖民地变为美国的各州，但美国到底采用什么样的国家制度尚未底定，各州与国家之间的关系也没有明确，在公民权和国籍问题上自行其是。1817年，最高法院才明确规定，在关于国籍的问题上，联邦政府拥有排他的权力，结束了联邦和州之间的管辖权分歧。</p><p style="TEXT-INDENT:2em">	1790年通过的美国第一部<a style="color:#000" title="国籍法" href="http://114.xixik.com/nationality/">国籍法</a>（《1790年归化法案》）规定，只有品行良好的自由白人移民才可以归化为美国人。这就把当时人口中的相当一部分排除在外，主要是印第安人、白人契约奴、黑人奴隶和自由黑人。亚裔也同样没有资格归化为<a style="color:#000" title="美国公民" href="http://114.xixik.com/us-citizens/">美国公民</a>。</p><p style="TEXT-INDENT:2em">	该法还规定，<a style="color:#000" title="美国公民" href="http://114.xixik.com/us-citizens/">美国公民</a>在美国之外出生的子女天然拥有<a style="color:#000" title="美籍，美国国籍" href="http://114.xixik.com/us-nationality/">美国国籍</a>，除了那些父亲从未在美国定居的孩子。而在美国出生的人是否能自动获得<a style="color:#000" title="美国公民" href="http://114.xixik.com/us-citizens/">美国公民</a>权，实际上还是个悬而未决的问题。1844年的茱莉亚·林奇诉克拉克（Julia Lynch v. Clarke）一案中，纽约衡平法院的法官被要求决定“外国（爱尔兰）父母短暂逗留期间生下”的林奇是不是<a style="color:#000" title="美国公民" href="http://114.xixik.com/us-citizens/">美国公民</a>时，不是以当时的美国联邦法律或者宪法，而是依据普通法原则判决：所有出生在美国的人都是<a style="color:#000" title="美国公民" href="http://114.xixik.com/us-citizens/">美国公民</a>，而不论他/她的父母身份如何（但不包括外国大使的子女）。直到此时，出生公民权这个在成文法中并未直接表述的问题才真正通过判例在美国司法实践中得到明确的落实。</p><p style="TEXT-INDENT:2em">	然而，在北方的杰斐逊党人和杰克逊时代的南方民主党人心目中，美国是一个“白种男人的共和国”，所以他们的政策在拒绝非白人移民的公民权方面一脉相承。</p><p style="TEXT-INDENT:2em">	南方政府和立法机构尤其害怕黑人拥有公民权，从而赢得平等的政治地位。1857年，美国国内关于奴隶制的分歧已经日益白热化，黑奴斯科特诉桑福德 （Dred Scott v. Sandford）要求自由一案正逢其时，成为整个国家政治走向的风向标，有人甚至认为该案是引起美国内战的关键原因之一。最终，主要由南方出身的大法官组成的最高法院判斯科特败诉。在联邦最高法院首席大法官坦尼（Roger Taney） 撰写的多数意见中，甚至认为即使斯科特是自由的，也不可能成为<a style="color:#000" title="美国公民" href="http://114.xixik.com/us-citizens/">美国公民</a>，赤裸裸地否定了黑人的公民权。这也反映了158年前美国法律实践中保守势力之强大。</p><p style="TEXT-INDENT:2em">	内战之后，尽管奴隶制作为一种公开合法的种族压迫制度已被全面废除，但是在实际的政治和社会生活中，输掉了战争的传统南方势力仍竭力维持战前的做法。</p><p style="TEXT-INDENT:2em">	美国南北战争的硝烟刚刚散去不久。1866年，<a style="color:#000" title="美国国会" href="http://114.xixik.com/congress/">美国国会</a>通过《1866年民权法案》，明确规定：包括获得解放的黑人奴隶在内，“除了未被征税的印第安人外，所有在美国出生且非任何外国人势力的人”都是<a style="color:#000" title="美国公民" href="http://114.xixik.com/us-citizens/">美国公民</a>。来自新兴的共和党的雅各布·霍华德（Jacob Merrit Howard）参议员为了防止该法案被将来的国会废除，或是被最高法院裁定违宪，继续漠视黑人和其他少数族裔的权利，以此为基础提出第十四修正案（1866）。经过在联邦立法机构内两年的努力，修正案最终于1868年得以通过，其中第一款写道：</p><p style="TEXT-INDENT:2em">	所有在合众国出生或归化合众国并受其管辖的人，都是合众国的和他们居住州的公民。任何一州，都不得制定或实施限制合众国公民的特权或豁免权的法律；不经正当法律程序，不得剥夺任何人的生命、自由或财产；在州管辖范围内，也不得拒绝给予任何人以平等法律保护。</p><p style="TEXT-INDENT:2em">	第十四修正案第一次从宪法的层次明确规定了出生公民权的合法地位，也是今天众多父母<a style="color:#000" title="赴美生子" href="http://www.usbabyada.com/">赴美生子</a>的产物——“锚孩”的法律基础。该宪法修正案推翻了美国最高法院于1857年对德雷德斯科特案做出的裁决（又被称为“德雷德决议”），在该案中，法院否认非裔美国人拥有<a style="color:#000" title="美国公民" href="http://114.xixik.com/us-citizens/">美国公民</a>权。</p><p style="TEXT-INDENT:2em"><img src="http://img.xixik.net/cimg/024/xixik_913d0fbe9d8c6102.png" /></p><p style="TEXT-INDENT:2em">	洛杉矶最早的唐人街，华人多以苦力、洗衣、开小杂货店和种菜为生。1887年被白人纵火烧为灰烬。</p><p style="TEXT-INDENT:2em"><strong>改变<a style="color:#000" title="美国移民" href="http://114.xixik.com/us-immigration/">美国移民</a>史的中国人</strong></p><p style="TEXT-INDENT:2em">	中国人真正大规模进入美国要从1848年开始的“淘金热”算起。到19世纪60年代之前，华人甚至成了当时加州最大的移民群体。在那里，华人是最吃苦耐劳的劳动力，为加州和美国的开发建设做出了很大贡献，也付出了汗和血的代价。</p><p style="TEXT-INDENT:2em">	华人踏上美国的土地后，主要由于文化与价值观的差异，很快就受到了白人的敌视、骚扰、驱逐甚至屠杀。排华势力认为华人不道德不卫生，不可能融入美国社会，而且压低工资进行不正当竞争，抢了美国工人的饭碗。加利福尼亚州政府在1881年甚至宣布将当年3月6日作为公共假日，以发动大规模游行支持排华法案的制定。</p><p style="TEXT-INDENT:2em">	1882年5月6日，<a style="color:#000" title="美国国会" href="http://114.xixik.com/congress/">美国国会</a>最终通过了臭名昭著的《排华法案》，这是美国历史上针对某一特定种族移民的最严厉限制。已经进入美国的华人可以继续生活，但他们没有资格入籍，并且当他们离开美国之后再回来时，需重新申请并获得批准。法案中还特别禁止华人劳工和矿工进入或返回美国。在这种背景下，陆天先（Look Tin Sing）案（1884）和黄金德（Wong Kim Ark）案（1898）就成了美国司法实践中很有影响的关于第十四修正案的违宪案件。</p><p style="TEXT-INDENT:2em">	陆天先1873年生于加州门多西诺（Mendocino）县，父母是来自中国的移民。1884年去中国探亲后返美，在旧金山由于没有根据《排华法案》要求的特殊入境许可被地方政府拒绝入境。审理此案的巡回法庭法官菲尔德则认为如果否认陆天先的<a style="color:#000" title="美籍，美国国籍" href="http://114.xixik.com/us-nationality/">美国国籍</a>显然是违反第十四修正案的，于是召集了当地的所有律师讨论该案，最后判决陆天先是<a style="color:#000" title="美国公民" href="http://114.xixik.com/us-citizens/">美国公民</a>，应准许入境。这是第十四修正案颁布以后华人第一次成功维护自己出生公民权的案例，但是因为陆天先对判决满意所以没有上诉到最高法院，该案的知名度不如黄金德案。</p><p style="TEXT-INDENT:2em">	黄金德的情况与陆天先大同小异，也在回国省亲后于旧金山被移民局根据《排华法案》拒绝入境。不同的是，这次案件上诉到了美国最高法院。法院再次面临这样的选择，公民权的裁定到底是基于出生地还是血统？即“出生地主义（jus soli）”与“血统主义（jus sanguinis）”之争。通俗地讲，一个人只要出生在美国就能成为<a style="color:#000" title="美国公民" href="http://114.xixik.com/us-citizens/">美国公民</a>，还是只有<a style="color:#000" title="美国公民" href="http://114.xixik.com/us-citizens/">美国公民</a>的孩子才能自动获得公民身份？这个事关<a style="color:#000" title="美国公民" href="http://114.xixik.com/us-citizens/">美国公民</a>权的叩问在1898年美国诉黄金德一案中得到了回答。负责撰写多数派意见的格雷法官认为，就该案来说，黄金德确实是<a style="color:#000" title="美国公民" href="http://114.xixik.com/us-citizens/">美国公民</a>。国会不能撤销一个归化的美国人的公民权，因为该项权利是由宪法所明确的。因此排华法案也许对黄金德的父母适用，但不适用此案。黄金德案成为后来被援引最多的关于第十四修正案出生公民权的判例，影响巨大。今天，尽管美国法律界还有一些人对此案的判决提出异议，但是主流意见已经普遍接受了该案所确立的出生公民权原则，即无论一个人的父母是何种身份，只要他/她在美国出生，就自动拥有<a style="color:#000" title="美国公民" href="http://114.xixik.com/us-citizens/">美国公民</a>权。</p></div></div></div><a name="anchor3"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        特朗普妄图取消落地国籍的可笑</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="text-indent: 2em;"><strong>特朗普说有意用行政命令取消落地公民权</strong></p><p style="text-indent: 2em;">	在美国新闻网站Axios2018年10月30日发布的视频专访中，<a href="http://114.xixik.com/us-president/" style="color: rgb(0, 0, 0);" title="美国总统">美国总统</a><a href="http://114.xixik.com/us-president/trump/" style="color: rgb(0, 0, 0);" title="特朗普">特朗普</a>称，他有意颁布总统行政令，取消今后在美国出生的非公民子女和非法移民子女的公民身份。</p><p style="text-indent: 2em;"><a href="http://114.xixik.com/us-president/trump/" style="color: rgb(0, 0, 0);" title="特朗普">特朗普</a>表态旋即在华盛顿及美国社会引发关注和争论。其实<a href="http://114.xixik.com/us-president/trump/" style="color: rgb(0, 0, 0);" title="特朗普">特朗普</a>在中期选举前一周抛出这个&ldquo;重磅炸弹&rdquo;，意在迎合对非法移民问题严重关切的保守派选民，但因触及宪法且挑战美国政界和法学界的主流认知，会比他此前强推的移民政策遭遇更强烈反对、也更难实现。</p><p style="text-indent: 2em;"><strong>法律顾问说行&nbsp;<a href="http://114.xixik.com/us-president/trump/" style="color: rgb(0, 0, 0);" title="特朗普">特朗普</a>就打算&ldquo;绕&rdquo;过国会</strong></p><p style="text-indent: 2em;">	在视频专访节选中，<a href="http://114.xixik.com/us-president/trump/" style="color: rgb(0, 0, 0);" title="特朗普">特朗普</a>说：&ldquo;美国是世界唯一一个允许有人来美国生孩子、这个孩子还可以自动获得公民身份的国家。&rdquo;</p><p style="text-indent: 2em;"><img src="http://img.xixik.net/cimg/036/xixik_02995de8aca0b740.jpg" /></p><p style="text-indent: 2em;">	（Axios对<a href="http://114.xixik.com/us-president/trump/" style="color: rgb(0, 0, 0);" title="特朗普">特朗普</a>专访视频的截屏）</p><p style="text-indent: 2em;"><a href="http://114.xixik.com/us-president/trump/" style="color: rgb(0, 0, 0);" title="特朗普">特朗普</a>认定，美国不应再给予在美国出生的非公民子女和非法移民子女公民身份。&ldquo;这实在荒谬，必须要停止。&rdquo;</p><p style="text-indent: 2em;">	他说，自己知道可以通过立法手段实现，但他会选择签署行政令，他已就此咨询了法律顾问，计划正在推进之中。</p><p style="text-indent: 2em;">	美国国会1868年通过宪法第十四修正案，规定&ldquo;所有在美国出生或归化美国并受其管辖的人都是美国及他们居住州的公民。&rdquo;<a href="http://114.xixik.com/us-president/trump/" style="color: rgb(0, 0, 0);" title="特朗普">特朗普</a>此举是否违宪，立即引发激烈争论。</p><p style="text-indent: 2em;">	包括一些共和党政客和保守派学者在内的支持者认为，宪法修正案此前一直被&ldquo;误读&rdquo;，其实不应适用于非法入境者或持合法签证的外国公民。</p><p style="text-indent: 2em;">	批评人士认为，<a href="http://114.xixik.com/us-president/trump/" style="color: rgb(0, 0, 0);" title="特朗普">特朗普</a>无权仅凭总统行政令就重新解释或修改宪法条款，其中不乏共和党人士。</p><p style="text-indent: 2em;">	美国民权联盟发表声明说，<a href="http://114.xixik.com/us-president/trump/" style="color: rgb(0, 0, 0);" title="特朗普">特朗普</a>此举属于&ldquo;违宪&rdquo;，行政令盖不过宪法。</p><p style="text-indent: 2em;">	来自共和党的众议院议长保罗&middot;瑞安（Paul Ryan）说，很明显<a href="http://114.xixik.com/us-president/trump/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="特朗普">特朗普</a>不能靠行政令来废除出生公民权，宪法第十四修正案的表述已很明确。他说：&ldquo;作为保守人士，我们应该尊重宪法。&rdquo;</p><p style="text-indent: 2em;">	被<a href="http://114.xixik.com/us-president/trump/" style="color: rgb(0, 0, 0);" title="特朗普">特朗普</a>政府提名担任联邦巡回上诉法庭法官的詹姆斯&middot;何认为，反对非法移民的人不能一边宣称拥护法律又一边提出违宪的提议。</p><p style="text-indent: 2em;">	此外，与<a href="http://114.xixik.com/us-president/trump/" style="color: rgb(0, 0, 0);" title="特朗普">特朗普</a>所言不同的是，据美国智库移民研究中心调查，全球有30个国家允许在本国出生者享有出生公民权。</p><p style="text-indent: 2em;">	此外，加州RSMC医院的一名华人试管婴儿技术专家告诉记者，尽管其针对目标主要是非法移民，但<a href="http://114.xixik.com/us-president/trump/" style="color: rgb(0, 0, 0);" title="特朗普">特朗普</a>政府趋紧的移民政策、特别是危及出生公民权，也会对有跨国产子需求的外籍人士产生影响，当地一些试管婴儿、代孕、月子中心等机构会密切关注并评估影响，以决定是否调整市场重心。</p><p style="text-indent: 2em;"><strong>强推行政令 或吃官司</strong></p><p style="text-indent: 2em;">	2018年是<a href="http://114.xixik.com/us-constitution/" style="color: rgb(0, 0, 0);" title="美国宪法">美国宪法</a>第十四修正案通过150年。据<a href="http://114.xixik.com/us-constitution/" style="color: rgb(0, 0, 0);" title="美国宪法">美国宪法</a>专家约翰&middot;伊斯特曼介绍，该修正案经过了一个漫长的司法实践过程，近40年来承认所有在美国出生者享有公民身份已成为主流认知。</p><p style="text-indent: 2em;">	根据美国宪法规定，想要修宪须国会参众两院三分之二议员或三分之二州议会同意提出修改建议，最后还须得到四分之三州立法机构批准，正常走立法流程显然不容易，此前也有共和党人尝试过通过立法改变对第十四修正案的诠释但没成功，<a href="http://114.xixik.com/us-president/trump/" style="color: rgb(0, 0, 0);" title="特朗普">特朗普</a>试图强行改用行政令&ldquo;闯关&rdquo;就更有争议性，会面临各方强烈挑战。</p><p style="text-indent: 2em;">	美国圣安塞尔姆学院助理教授克里斯托弗&bull;加尔迪耶里说，如果<a href="http://114.xixik.com/us-president/trump/" style="color: rgb(0, 0, 0);" title="特朗普">特朗普</a>执意签署行政令，将会面临起诉，很可能直接被叫停；就算官司能打到联邦最高法院，要说服大法官总统行政权力能重新定义宪法条款也非易事。</p><p style="text-indent: 2em;">	美国智库布鲁金斯学会高级研究员达雷尔&bull;韦斯特说，<a href="http://114.xixik.com/us-president/trump/" style="color: rgb(0, 0, 0);" title="特朗普">特朗普</a>此举还是在打&ldquo;移民牌&rdquo;，意在煽动保守派选民的情绪，为共和党候选人拉票。</p><p style="text-indent: 2em;"><strong>行政令好用也不能当成法律</strong></p><p style="text-indent: 2em;">	在&ldquo;移民牌&rdquo;助力下入主白宫，<a href="http://114.xixik.com/us-president/trump/" style="color: rgb(0, 0, 0);" title="特朗普">特朗普</a>一年多来先后推出&ldquo;入境限制令&rdquo;、美墨边境修建隔离墙计划、对非法移民实施&ldquo;骨肉分离&rdquo;等强硬移民政策，在美国引发巨大争议和抗议，也在国际社会激起不少批评。</p><p style="text-indent: 2em;">	如果&ldquo;移民牌&rdquo;好打就打到烂、行政令好用就当成&ldquo;法&rdquo;，美国这个移民社会恐怕会更撕裂，也会吸引力减弱。</p><p style="text-indent: 2em;">	知名的赴美生子大咖<a href="http://www.usbabyada.com/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="Ada出生在美国">Ada出生在美国</a>认为赴美生子的客户群体并非非法移民，在申请签证的时候也是通过诚实告知<a href="http://www.usbabyada.com/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="赴美生子首选Ada出生在美国">赴美生子</a>目的的！<a href="http://www.usbabyada.com/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="赴美生子首选Ada出生在美国">赴美生子</a>专业的，就找Ada出生在美国（微信：<strong style="text-indent: 2em;">Ada-usbaby</strong>）。更多<a href="http://www.usbabyada.com/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="赴美生子首选Ada出生在美国">赴美生子</a>信息，如<a href="http://114.xixik.com/expenses-of-usbaby/" style="text-indent: 2em;" title="赴美生子费用">赴美生子费用</a>、<a href="http://www.usbabyada.com/" style="text-indent: 2em;" title="赴美生子机构">赴美生子机构</a>等问题，欢迎添加微信（<strong>Ada-usbaby</strong>）或扫描下方二维码进行咨询，Ada出生在美国专业服务于信任我们的客户。</p><p style="text-indent: 2em;"><img src="http://img.xixik.net/mimg/005/xixik_ac433141f05382d6.png" /></p><p style="text-indent: 2em;"><strong>误读美国移民局的新政策 再次引发赴美生子恐慌</strong></p><p style="text-indent: 2em;"><img src="http://img.xixik.net/cimg/075/xixik_177ae2b3665d6d4d.jpg" /></p><p style="text-indent: 2em;">	2019年10月29日晚，<a href="http://www.usbabyada.com/" style="color:#000" title="赴美生子">赴美生子</a>圈又出大新闻&mdash;&mdash;据外媒报道，从10月29日起，若父母为外籍人士，在美国出生的新生儿不自动拥有<a href="http://114.xixik.com/us-nationality/" style="color:#000" title="美籍，美国国籍">美国国籍</a>。同时，父母为美国籍，在海外出生的新生儿也不自动拥有美国籍。</p><p style="text-indent: 2em;">	仅仅一张模糊的截图，PS地又不咋地&hellip;&hellip;这回难道真相了？呃，谁叫@<a href="http://www.usbabyada.com/" style="color:#000" title="Ada出生在美国">Ada出生在美国</a>（微信号：<strong>Ada-usbaby</strong>）日常的主要工作是辟谣呢，那么就来打打这些假新闻的脸。</p><p style="text-indent: 2em;"><img src="http://img.xixik.net/cimg/075/xixik_896c467a428337a7.jpg" style="width: 927.891px; max-width: 90%;" /></p><p style="text-indent: 2em;">	首先公布真相&mdash;&mdash;这项行政命令跟现行地<a href="http://www.usbabyada.com/" style="color:#000" title="赴美生子">赴美生子</a>一点关系都没有。2019年10月29日施行的行政命令（其实早在2019年8月29日就签发了）只是规定美国军人，政府工作人员子女出生在海外，一些情况下父母需要申请才能为其获得<a href="http://114.xixik.com/us-nationality/" style="color:#000" title="美籍，美国国籍">美国国籍</a>。看清楚是&ldquo;一些情况下&rdquo;。</p><p style="text-indent: 2em;">	而之前只要办理了美国《海外出生领事报告》（Consular Report of Birth Abroad，简称CRBA）就是美籍。什么是美国《海外出生领事报告》，就是出生在美国之外的公民地孩子自然是不获得美国出生纸（Birth Certificate）的，那么如何来证明孩子的美国国籍呢？现行的做法是出生在美国海外的子女，其美国籍父母根据孩子海外出生地的资料到大<a href="http://114.xixik.com/embassy/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="使馆">使馆</a>或总领事馆进行登记，美国驻外使领馆会为新生儿出具一份报告即《海外出生领事报告》，并签发<a href="http://114.xixik.com/us-passport/" style="text-indent: 2em; color: rgb(0, 0, 0);" title="美国护照">美国护照</a>已备日后离境之需。《海外出生领事报告》是一份可以在美国使用的相当于出生证明的证明文件。</p><p style="text-indent: 2em;"><strong style="color: rgb(0, 0, 0); font-family: 微软雅黑, 宋体, Arail;">修改前对Residence的定义</strong></p><p style="text-indent: 2em;">	此番美国公民与移民局（USCIS）只是修改前对Residence的定义以往，美国公民在海外出生的子女，被认为是&ldquo;在美国有住所（Residence）&rdquo;，根据美国宪法修正案第十四条，任何一个在美国境内出生的孩子都是美国公民。因此，这些孩子虽然在海外出生，但&ldquo;在美国有住所&rdquo;，美国就自动视他们为本国公民。</p><p style="text-indent: 2em;"><strong style="color: rgb(0, 0, 0); font-family: 微软雅黑, 宋体, Arail;">修改后对Residence的定义</strong></p><p style="text-indent: 2em;"><span style="color: rgb(0, 0, 0); font-family: 微软雅黑, 宋体, Arail;">在这份8月28日的新政下，部分美国公民（如：常住海外的公务人员、军人等）在海外出生的子女不再被自动认为是&ldquo;在美国有住所（Residence）&rdquo;，因此不再自动视为美国公民，他们的父母需要在孩子18岁之前递交申请并且满足一定的条件，才能为孩子取得美国公民身份。</span></p><p style="text-indent: 2em;">	怕公众误解，美国公民与移民局（USCIS）在其官方推特上也发布了声明：</p><p style="text-indent: 2em;"><img src="http://img.xixik.net/cimg/075/xixik_6643a33a16ac829e.jpg" style="width: 90%; max-width: 90%;" /></p><p style="text-indent: 2em;"><strong>译文：</strong>我们关于&ldquo;公民权&rdquo;的政策更新不影响出生在美国的宝宝的公民权，该政策只针对美国境外出生的非美国公民宝宝，不影响&ldquo;出生公民权&rdquo;。</p><p style="text-indent: 2em;"><strong>划重点：</strong></p><p style="text-indent: 2em;">	1、美国军人和政府工作人员的子女。</p><p style="text-indent: 2em;">	2、出生在美国之外。</p><p style="text-indent: 2em;">	其实，美国公民移民局的这项政策都不一定能顺利执行，这个政策严重影响了在美国领土外工作的美国军人和政府工作人员，给他们境外出生的子女造成了很大的不便。如果上述到联邦法院，判决输掉的几率极大。美国社会整体对这项政策也不看好。</p><p style="text-indent: 2em;"><img src="http://img.xixik.net/mimg/009/xixik_bf0fc074f5cd35cb.gif" /></p><p style="text-indent: 2em;">	另外，有些人截图有扯到什么&ldquo;父母在美国居住满5年，其中有2年需要在14岁以后&rdquo;的说法。请注意，这是《美国海外出生领事报告》的内容，讲的是美国公民在海外生子的事情。</p><p style="text-indent: 2em;">	划重点：</p><p style="text-indent: 2em;">	1、美国公民的子女。</p><p style="text-indent: 2em;">	2、出生在美国之外。</p><p style="text-indent: 2em;">	而出生在美国，遵循的是<a href="http://114.xixik.com/us-constitution/14th-amendment/" style="color:#000" title="美国宪法修正案第十四条">美国宪法修正案第十四条</a>&mdash;&mdash;&ldquo;凡在美国出生或归化美国的人，均为合众国和他们所居住州的公民。&rdquo;</p><p style="text-indent: 2em;">	划重点：</p><p style="text-indent: 2em;">	1、任何人的子女。</p><p style="text-indent: 2em;">	2、出生在美国。</p><p style="text-indent: 2em;">	这完全是3个事情&hellip;&hellip;</p><p style="text-indent: 2em;">	信息封闭的朋友圈，加上不懂装懂的人士的解读，自以为了解了个大新闻，想看我们的笑话。真的是图样，你们啊，Too young too simple sometimes&nbsp;navie。</p><p style="text-indent: 2em;">	请各位吃瓜群众想这么一个简单的问题&mdash;&mdash;美国修改落地国籍这么大的事情，我们作为专业的境外生子机构不是第一时间获得，而是从你们嘴里获知，那么我们难道我们是吃白饭的么？</p><p style="text-indent: 2em;">	另外，诸位能否自由上网，就说谷歌英文吧，这个新闻真伪，你们能否上去搜下？是否知道用什么关键词？能否看明白那些长篇的英文原版？我们能！</p><p style="text-indent: 2em;">	就这么简单的美国修改军人，政府雇员的孩子出生在海外的条款，能够被讹传成美国修改落地国籍，出生在美国不再是美国公民。诸位想想，中文信息圈都被污染成啥样了？大家还好意思拿朋友圈的信息当真相？记得有问题还是先加我们的微信号（<strong>Ada-usbaby</strong>）哦，我们这里只有专业的解读和事情的真相！</p><p style="text-indent: 2em;"><strong>落地公民权Birth Right不可动摇</strong></p><p style="text-indent: 2em;">	特朗普总统想仅凭一纸总统行政令，就想绕过国会，直接取消出生公民权Birth Right，做那门子的春秋白日梦呢？他这么能，干嘛不出个行政命令让国会不要对他进行弹劾调查呢？真要取消落地公民权，就要修改宪法，这流程有多复杂&hellip;&hellip;不是一个总统两届任期能够搞定的。</p><p style="text-indent: 2em;"><strong>自身难保了还作恶？</strong></p><p style="text-indent: 2em;"><img src="http://img.xixik.net/mimg/009/xixik_46b40a1ae2c171fb.jpg" style="width: 90%; max-width: 90%;" /></p><p style="text-indent: 2em;">	当地时间2019年10月31日上午，美国国会众议院投票，通过对特朗普的弹劾调查程序。在投票中，共有232票赞成，196票反对。美国众议长佩洛西宣布决议通过。特朗普还是关心下自己的位置能否坐的住吧。</p><p style="text-indent: 2em;"><strong>为什么这么个简单的事情会被如此讹传呢？</strong></p><p style="text-indent: 2em;"><img src="http://img.xixik.net/cimg/075/xixik_7689bc9cd5548bf5.jpg" /></p><p style="text-indent: 2em;">	1、没了谷歌&hellip;&hellip;获得信息渠道局限，具体就不细说了，啥都百度一下，不掉到坑里才怪。而今还有了更愚昧的朋友圈&mdash;&mdash;封闭的信息圈，不像微博还会有人反驳，都能看得见。</p><p style="text-indent: 2em;"><img src="http://img.xixik.net/cimg/075/xixik_add0eb10661e6af4.jpeg" /></p><p style="text-indent: 2em;">	所以这件事情，在微博上传播就很少，而且有也被人举报标注是造谣了。而朋友圈呢？单一的信息渠道，他发布，你看，别人反驳的留言你看不到。</p><p style="text-indent: 2em;"><img src="http://img.xixik.net/cimg/075/xixik_5b66ffaf7d5fcf2f.jpg" /></p><p style="text-indent: 2em;">	2、英文差。别不承认，虽然诸位读过大学，也获得了三级四级的英文考级，但是扪心自问，有几个能够自如阅读外文的？还是那个问题，在英文世界甄别此新闻真伪，用什么关键词知道吗？</p><p style="text-indent: 2em;"><img src="http://img.xixik.net/cimg/075/xixik_4bdb5122646d0c30.gif" /></p><p style="text-indent: 2em;">	3、心理酸葡萄&mdash;&mdash;国人见不得别人好。所以传播此类信息的几乎<strong>都是自己没把孩子生在国外的，发给已经把孩子生在国外的，即将准备把孩子生在国外的&hellip;&hellip;</strong>这是啥心理？很直白&mdash;&mdash;我见不得你好，表面看是跟你分享信息，实则我希望你也不要去，这样你就可以跟我一样了。这样的朋友不要也罢。</p><p style="text-indent: 2em;"><img src="http://img.xixik.net/cimg/075/xixik_9239ccefc5e5869e.jpg" style="width: 90%; max-width: 90%;" /></p><p style="text-indent: 2em;">	4、利益冲突，看这个做赴加生子的中介为了招揽生意&hellip;&hellip;直接信口开河，他们断章取义，偷换概念，解析地头头是道，却不敢放上官网的英文政策截图。</p><p style="text-indent: 2em;">	最后Ada出生在美国感谢不管是怀着善意和恶意的人士热心的传播，再次让<a href="http://www.usbabyada.com/" style="color:#000" title="赴美生子">赴美生子</a>成为社会舆论热点，还不用广告费，谢谢哈。</p><p style="text-indent: 2em;"><img src="http://img.xixik.net/cimg/075/xixik_7b3f997955111fff.png" /></p><p style="text-indent: 2em;">	总结<a a="" href="http://www.usbabyada.com/" style="color:#000" title="赴美生子">赴美生子</a>的宝宝在美国出生，完全不受此政策影响。<a href="http://www.usbabyada.com/" style="color:#000" title="赴美生子">赴美生子</a>政策没有任何变化，计划或已经<a a="" href="http://www.usbabyada.com/" style="color:#000" title="赴美生子">赴美生子</a>的家庭完全不必担心，要认准官方消息，认准第一手消息。当然未雨绸缪，早日成行是最好不过的，毕竟美国签证的门槛越来越高了，<a href="http://www.usbabyada.com/" style="color:#000" title="赴美生子">赴美生子</a>要安心放心就找专业的机构&mdash;&mdash;<a href="http://www.usbabyada.com/" style="color:#000" title="Ada出生在美国">Ada出生在美国</a>（<strong>微信号：Ada-usbaby，电话：15336510105</strong>），添加我们微信号，关注我们朋友圈，我们这里只有关于赴美生子的理性表述和事件的真相。</p></div></div></div><a name="anchor4"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        美国宪法修正案（27个）</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em"><strong>美国宪法修正案</strong>（Amendments to the Constitution of the United States）是美国宪法规定的正式改变宪法的形式之一（另一形式是召开另一次制宪会议，但并未被使用过），是美国宪法的重要组成部分，代表了美国宪法制度的基本发展方向。其中具有重大影响的是关于公民权利的宪法前10条修正案（即“权利法案”）。</p><p style="TEXT-INDENT:2em">	自宪法签署完成后，已有二十七项修正案经批准，其中前十项统称权利法案。对美国宪法的修正程序受美国宪法第五条所规定。另有其他许多已向国会提议，但是未向各州提交的美国宪法修正提议。</p><p style="TEXT-INDENT:2em"><strong>美国宪法修正案</strong>在生效之前，须经国会参众两院的三分之二表决通过，或是由三分之二的州会议（称作宪法第五条会议）的要求，而后才能提呈给各州，并经过四分之三州份或其会议的批准，批准的方式是由国会在提案时决定。迄今为止，没有任何一个修正案是由州会议的要求而提出。只有1933年的第二十一修正案，是采行州会议的方式来批准。</p><p style="TEXT-INDENT:2em">	目前<strong>美国宪法共存在27个有效的修正案</strong>。其中，最初的10个修正案是一次性被通过的，因为其主要规定了人民的权利和对政府的限制，因此被统称为权利法案。此后的17个修正案则是逐次获得通过的。</p><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%"><tbody><tr><th width="14%">				顺序</th><th>				修正案</th><th width="14%">				提出日期</th><th width="14%">				生效日期</th></tr><tr><td>				第一修正案</td><td>				保护言论自由、信仰自由、出版自由，以及集会的权利、抗议的权利和请愿的权利</td><td>				1789年09月25日</td><td>				1791年12月15日</td></tr><tr><td>				第二修正案</td><td>				保护持有与携带武器的权利</td><td>				1789年09月25日</td><td>				1791年12月15日</td></tr><tr><td>				第三修正案</td><td>				在和平时期，未经房主同意，士兵不得在民房驻扎；除依法律规定的方式，战时也不允许如此。</td><td>				1789年09月25日</td><td>				1791年12月15日</td></tr><tr><td>				第四修正案</td><td>				禁止不合理的收押，并载明须有基于相当理由，由中立的法官或裁判官裁定的搜索票</td><td>				1789年09月25日</td><td>				1791年12月15日</td></tr><tr><td>				第五修正案</td><td>				载明公诉须经由大陪审团起诉与征收的规则，保护正当程序的权利，并禁止自证己罪和双重审判</td><td>				1789年09月25日</td><td>				1791年12月15日</td></tr><tr><td>				第六修正案</td><td>				保护接受迅速、公平、公开及由陪审团审判的权利，包括告知被指控之罪、与原告对质、取得证人与聘请律师的权利</td><td>				1789年09月25日</td><td>				1791年12月15日</td></tr><tr><td>				第七修正案</td><td>				根据普通法，规定在特定民事案件中由陪审团审判的权利</td><td>				1789年09月25日</td><td>				1791年12月15日</td></tr><tr><td>				第八修正案</td><td>				禁止过高的罚款与过高的保释金，及禁止施予残酷且不寻常的惩罚</td><td>				1789年09月25日</td><td>				1791年12月15日</td></tr><tr><td>				第九修正案</td><td>				保护在宪法中未列举的权利</td><td>				1789年09月25日</td><td>				1791年12月15日</td></tr><tr><td>				第十修正案</td><td>				将宪法未授予美国联邦政府的权利保留给各州</td><td>				1789年09月25日</td><td>				1791年12月15日</td></tr><tr><td>				第十一修正案</td><td>				使各州免受他州公民或不住在州内的外国人起诉，奠定主权豁免的基础</td><td>				1794年03月04日</td><td>				1795年02月07日</td></tr><tr><td>				第十二修正案</td><td>				修改总统选举的程序</td><td>				1803年12月09日</td><td>				1804年06月15日</td></tr><tr><td>				第十三修正案</td><td>				废除奴隶制和强迫劳役，除非是作为犯罪的惩罚</td><td>				1865年01月31日</td><td>				1865年12月06日</td></tr><tr><td>				第十四修正案</td><td>				定义公民权，包含特权或豁免权条款、正当程序条款、平等保护条款，并处理内战后的问题</td><td>				1866年06月13日</td><td>				1868年07月09日</td></tr><tr><td>				第十五修正案</td><td>				选举权不能由于种族、肤色、或以前曾服劳役而遭受剥夺，此时尚不包括性别</td><td>				1869年02月26日</td><td>				1870年02月03日</td></tr><tr><td>				第十六修正案</td><td>				允许联邦政府征收所得税</td><td>				1909年07月12日</td><td>				1913年02月03日</td></tr><tr><td>				第十七修正案</td><td>				确立代表各州的美国参议员必须由民众直接选举</td><td>				1912年05月13日</td><td>				1913年04月08日</td></tr><tr><td>				第十八修正案</td><td>				制定禁酒令，禁止在美国国内制造、运输酒类（后被第二十一修正案废止）</td><td>				1917年12月18日</td><td>				1919年01月16日</td></tr><tr><td>				第十九修正案</td><td>				公民的选举权不因性别而受限，即确立女性的选举权</td><td>				1919年06月04日</td><td>				1920年08月18日</td></tr><tr><td>				第二十修正案</td><td>				修正国会与总统的上任日期与任期（前者在1月3日，后者在1月20日），被称作“跛脚鸭修正案”</td><td>				1932年03月02日</td><td>				1933年01月23日</td></tr><tr><td>				第二十一修正案</td><td>				废除第十八修正案，并禁止违反关于酒精的州法律</td><td>				1933年02月20日</td><td>				1933年12月05日</td></tr><tr><td>				第二十二修正案</td><td>				限制一个人可以被选为总统的次数：一人不能被选为总统超过两次，以及在他人当选任期中担任了两年以上者，不能当选超过一次</td><td>				1947年03月24日</td><td>				1951年02月27日</td></tr><tr><td>				第二十三修正案</td><td>				规定首都华盛顿特区在选举人团中指派代表的方法</td><td>				1960年06月16日</td><td>				1961年03月29日</td></tr><tr><td>				第二十四修正案</td><td>				禁止因为没有支付人头税而撤销投票权</td><td>				1962年09月14日</td><td>				1964年01月23日</td></tr><tr><td>				第二十五修正案</td><td>				将泰勒先例编纂成为法例，定义总统继任的程序</td><td>				1965年07月06日</td><td>				1967年02月10日</td></tr><tr><td>				第二十六修正案</td><td>				确立年龄18岁以上之人的投票权</td><td>				1971年03月23日</td><td>				1971年07月01日</td></tr><tr><td>				第二十七修正案</td><td>				防止影响国会薪资的法律生效，直到下一任的代表被选出</td><td>				1789年09月25日</td><td>				1992年05月07日</td></tr></tbody></table><p style="TEXT-INDENT:2em"><strong>未通过的宪法修正案</strong></p><p style="TEXT-INDENT:2em">	有六个修正案已通过国会，但之后却没有得到适当数量的州议会所批准。其中四项修正案在技术上还有待州议员的决定，其中一项已经过了自己的期限，又其中一项已经过了提出该修正案的决议案的期限（虽然这有争议）。</p><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%"><tbody><tr><th width="15%">				修正案</th><th width="12%">				提出日期</th><th>				状态</th><th width="20%">				主题</th></tr><tr><td>				国会配额修正案</td><td>				1789年9月25日</td><td>				有待州议员决定</td><td>				美国众议员的配额</td></tr><tr><td>				贵族头衔修正案</td><td>				1810年5月1日</td><td>				有待州议员决定</td><td>				禁止贵族头衔</td></tr><tr><td>				科尔文修正案</td><td>				1861年3月2日</td><td>				有待州议员决定</td><td>				保留奴隶制</td></tr><tr><td>				儿童劳工修正案</td><td>				1924年6月2日</td><td>				有待州议员决定</td><td>				国会有权规范童工</td></tr><tr><td>				平等权利修正案</td><td>				1972年3月22日</td><td>				在1979或1982年过期（有些学者不同意），然而还是有可能会被批准，因为期限在先前已被延长，且期限没有写进修正案的本文中</td><td>				禁止男女不平等</td></tr><tr><td>				哥伦比亚特区投票权修正案</td><td>				1978年8月22日</td><td>				在1985年过期，由于最后期限被写进修正案的本文中，故无法复活</td><td>				华盛顿特区的投票权</td></tr></tbody></table><p style="TEXT-INDENT:2em">	美国宪法修正案：<a href="http://114.xixik.com/us-constitution/14th-amendment/">http://114.xixik.com/us-constitution/14th-amendment/</a></p></div></div></div></div><script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script><div id="share" style="position:fixed;margin:auto;left:0px;right:0px;top:0px;bottom:0px;width:318px;height:388px;display:none;"><div  style="position:absolute; clear:both; width:100%;height:388px; overflow:hidden;background :url('http://news.images.xixik.net/content/windows/bg-windows-pc.gif');"><div id="close" onclick="$('#share').hide();" style="float:right;background:url('http://news.images.xixik.net/content/windows/icon-windows-closed.gif');width:14px;height:14px;margin:10px;cursor:pointer;"></div><div id="account" style="font-size:16px;font-family:Arial;width:90px;height:40px; margin-left:140px; margin-top:117px;-webkit-touch-callout:all;-webkit-user-select:all;" >Ada-usbaby</div><img src="http://news.images.xixik.net/content/windows/banner-windows-QR-code.gif" style="width:144px;height:144px; margin:auto;margin-top:15px;display:block" /></div></div><script type="text/javascript">
+       setTimeout(function () {
+           $("#share").show();
+       }, 1000 * 10);
+
+   </script><script type="text/javascript">        var value = '276';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script><div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/us-constitution/14th-amendment/" target="_self" title="美国宪法修正案第十四条">美国宪法修正案第14条</a></div><ul style="width: 960px; margin: auto; overflow: hidden;"><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shicha/"
+                title="国际时差查询 - 世界各国主要城市和北京时差对照表">时差</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证更换新政策_过期了该怎么办？">中国旅行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangye/"
+                title="2017最新国民经济行业分类与代码（GB/4754-2017）,国民经济行业分类标准">国民经济行业分类与代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/yimiao/"
+                title="疫苗接种时间表 - 中国儿童预防疫苗接种时间表">儿童疫苗接种表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国历任总统名单_美国历届总统大全_美国总统">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2020年二十四节气">二十四节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chicun/"
+                title="服装尺寸对照表_男士服装尺寸对照表_中国女装尺寸对照表_美版服装尺码换算">服装尺寸对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country/"
+                title="全世界有多少个国家和地区？_世界上国家和地区一览表">全世界国家和地区</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-flag/"
+                title="世界各国国旗大全 - 世界各国国旗一览表,国旗图片下载">世界各国国旗大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/festival/"
+                title="节日大全_2020年法定节假日安排">节日大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/72hou/"
+                title="月令七十二候集解_二十四节气">月令七十二候集解</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-visa/"
+                title="赴美生子诚实签攻略_赴美生子诚实签的好处_赴美生子为什么要诚实签">赴美生子诚实签攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-spending/"
+                title="赴美生子价格_去美国生孩子多少钱_费用清单">赴美生子价格</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-baoxian/"
+                title="赴美生子保险_去美国生宝宝生育险_孕中险">赴美生子保险</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-hospital/"
+                title="赴美生子医院_洛杉矶医院_洛杉矶接待华人孕妇医院价目和详细情况一览表">赴美生子医院</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-doctor/"
+                title="赴美生子医生_洛杉矶医生_赴美生子华人医生_赴美生子医生介绍">赴美生子医生</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-living/"
+                title="赴美生子DIY可行吗？_赴美生子DIY攻略">月子中心还是DIY</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="美宝证件_美宝需要哪些证件（美国出生纸_中国旅行证_美国护照_社会安全号_出生纸三级认证）">美宝需要哪些证件？</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-passport-ds11/"
+                title="美宝美国护照申请更新_DS-11怎么填图文">美国护照申请</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_去美国生孩子费用预算清单2020">赴美生子要多少钱</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/university/"
+                title="中国大学名单_2019年全国高等学校名单（截至2019年6月15日）">中国大学名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/ranking/"
+                title="美国总统排名_美国总统历史排名_美国最伟大的总统排行榜">美国总统排行榜</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/size/"
+                title="服装尺寸对照表_裤子尺寸_男装尺寸_女装尺寸_裙子尺寸">服装尺寸</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-uk-time-zone/"
+                title="中英时差对照表,现在英国几点?中国和英国时差怎么算?现在英国时间是几点?">中英时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_去美国生孩子要多少钱？">赴美生子费用</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 最新中国护照免签国家一览2020">中国护照免签证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-passport/"
+                title="美国护照 - 美国护照上写的什么,美国护照免签证国家">美国护照</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/henley-passport-index/"
+                title="亨氏护照指数 - 亨氏护照受限制数2019">亨氏护照指数</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-process/"
+                title="赴美生子流程 - 干货！超详细的赴美生子流程攻略2020！">赴美生子流程</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-best/"
+                title="赴美生子机构哪家好？_合法的赴美生子机构">赴美生子机构哪家好</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-regret/"
+                title="2019生个美国孩子后悔了_后悔在美国生孩子_赴美生子利与弊">生个美国宝宝后悔了揭秘</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/visa/"
+                title="美国签证_美国签证DS-160表格在线填写_美国签证预约面谈_在线缴费">美国签证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/titanic/"
+                title="泰坦尼克号_沉没真相真实历史_泰坦尼克号电影_嘻嘻网">泰坦尼克号</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-flight/"
+                title="赴美生子航班怎么选_去美国生孩子中美航班信息大全">赴美生子航班</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/exit-and-entry-premit/"
+                title="出入境通行证_一次性出入境通行证_中华人民共和国出入境通行证">出入境通行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-prosandcons/"
+                title="赴美生子利弊_赴美生子的优势和弊端_生美籍宝宝的好处和坏处">赴美生子好处和弊端</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-born/"
+                title="赴美产子_赴美生子_去美国生孩子">赴美产子</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/14th-amendment/"
+                title="美国宪法修正案第十四条">美国宪法修正案第14条</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/greatest/"
+                title="美国最伟大的总统_美国总统排行榜">美国最伟大的总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-states/13states/"
+                title="美国13个州_北美13个殖民地_美国建国时的13个州">美国13个州</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qs2020/"
+                title="2020年QS世界大学排名_世界大学排行榜">QS世界大学排行榜</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/born-usbaby/"
+                title="去美国生孩子_去美国生孩子多少钱">去美国生孩子</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/amendments/"
+                title="美国宪法修正案_Amendments to the Constitution">美国宪法修正案</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/the-world-university-rankings/"
+                title="2020年泰晤士报世界大学排名_2020年THE世界大学排名">泰晤士世界大学排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ssn/"
+                title="美国社安号SSN_美国社安卡_美国社会安全号码">社会安全号码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/declaration-of-independence/"
+                title="《美国独立宣言》（The Declaration of Independence）">独立宣言</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/birth-certificate/"
+                title="美国出生纸（Birth Certificate）_美国出生纸三级认证">美国出生纸</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-living-cost/"
+                title="美国月子中心费用_赴美生子费用">美国月子中心费用</a></li></ul><div class="lindBox"><div class="btnGray"><div class="btnText"><a target="_self" title="美国宪法修正案第十四条" href="http://news.xixik.com/word/276/">另存为<br />                    Word格式</a></div></div></div><div class="lindBox" style="text-align: center;"><img src="http://news.xixik.com/qrcode/276/" alt="扫码手机上继续看" /><br /><br /><strong>用微信或者支付宝扫码在手机上继续观看<br />            可以保存收藏，也扫码后可以分享给好友
+        </strong></div><hr style="height: 1px; border: none; border-top: 1px dashed #999;" /><script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script><!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.--></body></html>
