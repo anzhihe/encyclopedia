@@ -1,0 +1,365 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>美国50州_美国各州_美国行政区划</title><link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" /><meta name="description" content="美国50州,简称,缩写,首府州府,各州主要城市,美国州有哪些?美国行政区划。" /><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/50states/"><meta http-equiv="Cache-Control" content="no-transform" /><meta http-equiv="Cache-Control" content="no-siteapp" /><base target="_blank" /><script>        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "50states/";
+        }
+
+        
+    </script><style>        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+            overflow:auto;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style></head><body><a name="top4"></a><div class="topBox" name="top"><div class="topMain"><div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div><div id="icoPhone"></div><div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div><div id="icoWechat"></div><div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a></div><div id="icoSina"></div><div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a></div><div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div><div class="topRight"></div></div></div><div id="showqrCode"><div><span></span></div><img src="" /><div><span></span></div></div><script type="text/javascript">        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);<a href="Model1.aspx">Model1.aspx</a>            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script><div class="body"><div class="lindBox" style="position: relative;"><img src="http://img.xixik.net/custom/topic/001/50states.jpg" alt="美国50州_美国各州_美国行政区划" /><div class="title"><h1>美国50州_美国各州_美国行政区划</h1></div></div><div class=" custom_border lindBox"><div class="special_content"><div class="content_text"><div class="content_daodu"></div><h2>美国行政区划</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.-->                    美利坚合众国（United States of America，简称美国）由<a href="http://114.xixik.com/50states/" title="美国50州">50个州</a>，1个直辖特区（首都所在地华盛顿哥伦比亚特区），5个岛屿自由邦和十多个其它远洋小岛组成。按照不同的理论，美国本土的48个州可以划分为七大或九大或十大区域。其中最传统的划分方式为：新英格兰，中大西洋地区，东南地区，南方地区，中西部地区，上密西西比-五大湖区，落基山区，太平洋沿岸地区，西南地区。
+                </div></div></div><div class="lindBox" style="overflow: hidden;"><div class="gg1"><a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a></div><div class="guide"><div class="guideBorder" id="guideBorder"><div class="guideTitle">导读（目录）</div><ul id="guideDisplay"><li>·<a title="美国行政区划" href="#anchor1" target="_self"> 美国行政区划</a></li><li>·<a title="新英格兰地区" href="#anchor2" target="_self"> 新英格兰地区</a></li><li>·<a title="中大西洋地区" href="#anchor3" target="_self"> 中大西洋地区</a></li><li>·<a title="东南地区" href="#anchor4" target="_self"> 东南地区</a></li><li>·<a title="上密西西比河谷地区（五大湖区）" href="#anchor5" target="_self"> 上密西西比河谷地区（五大湖区）</a></li><li>·<a title="南方地区" href="#anchor6" target="_self"> 南方地区</a></li><li>·<a title="中西部地区（大平原地区）" href="#anchor7" target="_self"> 中西部地区（大平原地区）</a></li><li>·<a title="落基山区" href="#anchor8" target="_self"> 落基山区</a></li><li>·<a title="太平洋海岸区" href="#anchor9" target="_self"> 太平洋海岸区</a></li><li>·<a title="西南地区" href="#anchor10" target="_self"> 西南地区</a></li><li>·<a title="美国各州及首府" href="#anchor11" target="_self"> 美国各州及首府</a></li><li>·<a title="美国海外领地" href="#anchor12" target="_self"> 美国海外领地</a></li><li>·<a title="美国的行政区划制度" href="#anchor13" target="_self"> 美国的行政区划制度</a></li><li>·<a title="美国的蓝州和红州" href="#anchor14" target="_self"> 美国的蓝州和红州</a></li></ul><div class="guideOpen">展开&darr;</div></div></div><div class="guideFllow"><div class="guideFllowBorder"><div class="guideFllowTitle">导读（目录）</div><ul id="guideFllowDisplay"><li>·<a title="美国行政区划" href="#anchor1" target="_self"> 美国行政区划</a></li><li>·<a title="新英格兰地区" href="#anchor2" target="_self"> 新英格兰地区</a></li><li>·<a title="中大西洋地区" href="#anchor3" target="_self"> 中大西洋地区</a></li><li>·<a title="东南地区" href="#anchor4" target="_self"> 东南地区</a></li><li>·<a title="上密西西比河谷地区（五大湖区）" href="#anchor5" target="_self"> 上密西西比河谷地区（五大湖区）</a></li><li>·<a title="南方地区" href="#anchor6" target="_self"> 南方地区</a></li><li>·<a title="中西部地区（大平原地区）" href="#anchor7" target="_self"> 中西部地区（大平原地区）</a></li><li>·<a title="落基山区" href="#anchor8" target="_self"> 落基山区</a></li><li>·<a title="太平洋海岸区" href="#anchor9" target="_self"> 太平洋海岸区</a></li><li>·<a title="西南地区" href="#anchor10" target="_self"> 西南地区</a></li><li>·<a title="美国各州及首府" href="#anchor11" target="_self"> 美国各州及首府</a></li><li>·<a title="美国海外领地" href="#anchor12" target="_self"> 美国海外领地</a></li><li>·<a title="美国的行政区划制度" href="#anchor13" target="_self"> 美国的行政区划制度</a></li><li>·<a title="美国的蓝州和红州" href="#anchor14" target="_self"> 美国的蓝州和红州</a></li></ul><div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div></div></div><div class="gg2"><a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a></div></div><a name="anchor1"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        美国行政区划</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p><img src="http://img.xixik.net/custom/topic/xixik_e68726e826d4209c.jpeg" style="margin: 10px; float: right; width: 600px;" title="美国50州" /></p><p style="text-indent: 2em"><a href="http://114.xixik.com/usa-stats/" title="美国州">美国每个州</a>都是一个独立的邦国，有自己的宪法。联邦政府的权利，由各州政府授予。没有授予联邦政府的权利，仍然由各州自行拥有。每个州都有自己的立法、司法、行政体系。州议员和州长都由普选产生。另有印第安保留区和公立大学系统等特殊行政单位。美国人口普查局把全国划分为九大地区，而地理学界常把美国划分为七大地区、九大地区或十大地区。它们并不是真正的行政区划，但是对美国的行政有着一些影响，因此经常被列在行政区划里。其中最传统的<strong>美国行政区划</strong>划分方式为：新英格兰，中大西洋地区，东南地区，南方地区，中西部地区，上密西西比-五大湖区，落基山区，太平洋沿岸地区，西南地区。</p><p style="text-indent: 2em"><strong><a href="http://114.xixik.com/50states/" title="美国行政区划">美国行政区划</a></strong>架构为：</p><p style="text-indent: 2em"><strong>五十个州</strong>，下设县和区，在依都会结构下设市、乡、镇、村及其他基层政区。除了最初的十三个殖民地外，其他各州依据美国国会法案成为美利坚合众国的一部份。</p><p style="text-indent: 2em"><strong>哥伦比亚特区</strong>即为首都华盛顿市，虽然哥伦比亚特区不是一个州，且在众议院仅有一名无投票权的代表，在参议院则无代表，但是特区居民仍能参与投票选举总统，在选举人团中也有投票代表。</p><p style="text-indent: 2em"><strong>印第安保留地</strong>拥有准独立地位，虽然各保留地是所在州的一部份，同样投票选举州长及必须缴交州税，但所在州的法令对各保留地则不完全适用。</p><p style="text-indent: 2em"><strong>美国海外领地</strong>。</p><p style="text-indent: 2em"><strong>海外军事基地</strong>。</p><p style="text-indent: 2em"><strong>生态保留区</strong>或<strong>学区</strong>之类的准行政区。</p><p style="text-indent: 2em;"><b>美国十</b><b>个行政区域比较：</b></p><p style="text-indent: 2em;"><b>1</b><b>） 东海岸（中大西洋）地区 </b><b> &mdash;&mdash;</b><b>美国象征；</b></p><p style="text-indent: 2em;"><b>2</b><b>） 新英格兰地区 </b><b>&mdash;&mdash;</b><b>生活乐园；</b></p><p style="text-indent: 2em;"><b>3</b><b>） 西海岸（太平洋沿岸）地区</b><b> &mdash;&mdash;</b><b>阳光地带；</b></p><p style="text-indent: 2em;"><b>4</b><b>） 五大湖周遍地区 </b><b>&mdash;&mdash;</b><b>制造中心；</b></p><p style="text-indent: 2em;"><b>5</b><b>） 阿巴拉契亚山地区 </b><b> &mdash;&mdash;</b><b>南北结合；</b></p><p style="text-indent: 2em;"><b>6</b><b>） 东南部地区 </b><b>&mdash;&mdash;</b><b>热烈海岸；</b></p><p style="text-indent: 2em;"><b>7</b><b>） 西南部地区 </b><b>&mdash;&mdash;</b><b>激情领地；</b></p><p style="text-indent: 2em;"><b>8</b><b>） 中央平原地区 </b><b>&mdash;&mdash;</b><b>天下粮仓；</b></p><p style="text-indent: 2em;"><b>9</b><b>） 高山地区 </b><b>&mdash;&mdash;</b><b>丰富多彩；</b></p><p style="text-indent: 2em;"><b>10</b><b>） 大本土以外地区 </b><b>&mdash;&mdash;</b><b>无与伦比。</b>（夏威夷和阿拉斯加）</p><p style="text-indent: 2em;">	经济发达地区一般被认为： 1）、2）、3）、4）（也就是沿海地区和五大湖区）</p><p style="text-indent: 2em;">	教育质量一般被认为的排序： 2）、3）、1）、4）、5）、8）、7）、6）、9）、10）</p><p style="text-indent: 2em;">	毕业就业一般被认为的排序： 1）、2）、3）、4）、5）、9）、7）、6）、8）、10）</p><p style="text-indent: 2em;">	社会治安一般被认为的排序： 8）、9）、2）、5）、10）、7）、3）、4）、6）、1）</p><p style="text-indent: 2em;"><b>人种分布</b></p><p style="text-indent: 2em;"><b>白人（欧洲后裔）人口密度较大的依次是</b>：新英格兰地区、五大湖周遍地区、阿巴拉契亚山地区、中央平原地区、东海岸（中大西洋）地区</p><p style="text-indent: 2em;"><b>亚洲人人口密度较大的依次是</b>：西海岸（太平洋沿岸）地区、东海岸（中大西洋）地区的纽约、夏威夷</p><p style="text-indent: 2em;"><b>西班牙语系（包括南美移民）人口密度较大的依次是</b>：东南部地区、西南部地区</p><p style="text-indent: 2em;">	墨西哥人和印地安人人口密度较大的依次是：论西南部地区、西海岸（太平洋沿岸）地区、高山地区</p><p style="text-indent: 2em;"><b>黑人人口密度较大的依次是</b>：纽约、洛杉矶和芝加哥等大城市、南部沿海（包括东南部地区和西南部地区的沿海部分）</p><p style="text-indent: 2em;">	纽约、洛杉矶是人种最杂乱、最国际多样花的城市！可以说是&ldquo;外国人&rdquo;的城市！（这些大城市都有华人区和黑人区，有通常所认为的贫民地带）</p><p style="text-indent: 2em;"><strong>美国行政区划表</strong></p><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%"><tbody><tr><th>				联邦50州</th><td><table style="text-align: left; margin: auto; width:100%"><tbody><tr><td>								亚拉巴马州</td><td>								夏威夷州</td><td>								马萨诸塞州</td><td>								新墨西哥州</td></tr><tr><td>								南达科他州</td><td>								阿拉斯加州</td><td>								爱达荷州</td><td>								密歇根州</td></tr><tr><td>								纽约州</td><td>								田纳西州</td><td>								亚利桑那州</td><td>								伊利诺伊州</td></tr><tr><td>								明尼苏达州</td><td>								北卡罗来纳州</td><td>								得克萨斯州</td><td>								阿肯色州</td></tr><tr><td>								印第安纳州</td><td>								密西西比州</td><td>								北达科他州</td><td>								犹他州</td></tr><tr><td>								加利福尼亚州</td><td>								艾奥瓦州</td><td>								密苏里州</td><td>								俄亥俄州</td></tr><tr><td>								佛蒙特州</td><td>								科罗拉多州</td><td>								堪萨斯州</td><td>								蒙大拿州</td></tr><tr><td>								俄克拉何马州</td><td>								弗吉尼亚州</td><td>								康涅狄格州</td><td>								肯塔基州</td></tr><tr><td>								内布拉斯加州</td><td>								俄勒冈州</td><td>								华盛顿州</td><td>								特拉华州</td></tr><tr><td>								路易斯安那州</td><td>								内华达州</td><td>								宾夕法尼亚州</td><td>								西弗吉尼亚州</td></tr><tr><td>								佛罗里达州</td><td>								缅因州</td><td>								新罕布什尔州</td><td>								罗得岛州</td></tr><tr><td>								威斯康星州</td><td>								佐治亚州</td><td>								马里兰州</td><td>								新泽西州</td></tr><tr><td>								南卡罗来纳州</td><td>								怀俄明州</td><td>								&nbsp;</td><td>								&nbsp;</td></tr></tbody></table></td></tr><tr><th>				特区</th><td><table style="text-align: left; margin: auto; width:100%"><tbody><tr><td>								华盛顿哥伦比亚特区（Washington D.C.）</td></tr></tbody></table></td></tr><tr><th>				岛屿地区</th><td><table style="text-align: left; margin: auto; width:100%"><tbody><tr><td>								美属萨摩亚</td><td>								关岛</td><td>								北马里亚纳群岛邦</td><td>								波多黎各自治邦</td></tr><tr><td>								美属维尔京群岛</td><td>								&nbsp;</td><td>								&nbsp;</td><td>								&nbsp;</td></tr></tbody></table></td></tr><tr><th>				岛礁</th><td><table style="text-align: left; margin: auto; width:100%"><tbody><tr><td>								贝克岛</td><td>								豪兰岛</td><td>								贾维斯岛</td><td>								约翰斯顿环礁</td></tr><tr><td>								金曼礁</td><td>								中途岛</td><td>								纳弗沙岛</td><td>								巴尔米拉环礁</td></tr><tr><td>								威克岛</td><td>								&nbsp;</td><td>								&nbsp;</td><td>								&nbsp;</td></tr></tbody></table></td></tr></tbody></table><p>	来源：<a href="http://114.xixik.com/50states/">美国50州</a>，<a href="http://114.xixik.com/50states/">美国行政区划</a>：<a href="http://114.xixik.com/50states/">http://114.xixik.com/50states/</a></p></div></div></div><a name="anchor2"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        新英格兰地区</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p><img src="http://img.xixik.net/custom/topic/xixik_2441ca10358eaa16.jpg" /></p><p>新英格兰地区（New England） （6个州）</p><p>包含州：缅因州、新罕布什尔州、佛蒙特州、罗德岛州、康涅狄格州、马萨诸塞州。</p><p> 主要城市：波士顿、纽黑文、普罗维登斯、曼彻斯特、奥古斯丁。</p><p> 主要名胜：普利茅斯港、波士顿公园、瓦尔登湖、列克星敦、哈佛大学、麻省理工学院、耶鲁大学。</p></div></div></div><a name="anchor3"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        中大西洋地区</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p><img src="http://img.xixik.net/custom/topic/xixik_d71dcbb6805e7d9b.jpg" style="width: 750px; height: 385px;" /></p><p>	中大西洋地区（Middle Atlantic）（7个州、1个特区）</p><p>	包含州：纽约州、宾夕法尼亚州、新泽西州、特拉华州、马里兰州、弗吉尼亚州、西弗吉尼亚州、华盛顿特区。></p><p>	主要城市：费城、纽约城、匹兹堡、里士满、巴尔地摩、华盛顿特区、查尔斯顿、布法罗、弗吉尼亚比奇。 主要名胜：尼亚加拉大瀑布、自由女神、帝国大厦、大都会博物馆、中央公园、华盛顿博物馆群、林肯纪念堂、白宫、阿灵顿山、落水山庄、巴尔地摩港口、詹姆斯顿、蓝山山脉、盖蒂斯堡、普林斯顿大学、独立钟、威廉玛丽学院、弗吉尼亚大学。 ></p></div></div></div><a name="anchor4"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        东南地区</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p><img src="http://img.xixik.net/custom/topic/xixik_7ba05484f213338a.jpg" style="width: 750px; height: 373px;" /></p><p>	东南地区（Southeast ）（4个州） 包含州：北卡罗来纳州、南卡罗来纳州、佐治亚州、佛罗里达州。主要城市：夏洛特、亚特兰大、哥伦比亚、萨凡纳、杰克逊维尔、坦帕、迈阿密、奥兰多。</p><p>	主要名胜：奥兰多迪斯尼、奥兰多环球影城、迈阿密海滩、南卡罗来纳查尔斯顿、坦帕海滩、基韦斯特城、大雾山国家公园。</p></div></div></div><a name="anchor5"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        上密西西比河谷地区（五大湖区）</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p><img src="http://img.xixik.net/custom/topic/xixik_5d3f699969703d37.jpg" style="width: 750px; height: 363px;" /></p><p>	上密西西比河谷地区（五大湖区）Upper Mississippi（Great Lakes）（5个州） 包含州：密歇根州、俄亥俄州、印第安纳州、伊利诺伊州、威斯康星州</p><p>	主要城市：底特律、芝加哥、辛辛那提、克利夫兰、哥伦布、密尔沃基、大急流城。 主要名胜：五大湖、画岩国家公园、马奎特国家纪念区、芝加哥市景、芝加哥大学</p></div></div></div><a name="anchor6"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        南方地区</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p><img src="http://img.xixik.net/custom/topic/xixik_8cb440008b578b79.jpg" style="width: 750px; height: 358px;" /></p><p>	南方地区（South）（6个州） 所含州：肯塔基州、田纳西州、亚拉巴马州、密西西比州、阿肯色州、路易斯安那州。主要城市：小石城、纳什维尔、孟菲斯、新奥尔良。 主要名胜：纳什维尔音乐城、田纳西河河谷、密西西比三角洲、石河战场、梅尔罗斯纳国家公园</p></div></div></div><a name="anchor7"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        中西部地区（大平原地区）</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p><img src="http://img.xixik.net/custom/topic/xixik_f0f1e60099681aba.jpg" style="width: 750px; height: 376px;" /></p><p>	中西部地区（大平原地区）（Mid-west）（8个州） 所含州：明尼苏达州、爱荷华州、密苏里州、堪萨斯州、俄克拉荷马州、内布拉斯加州、南达科他州、北达科他州。</p><p>	主要城市：堪萨斯城、明尼阿波利斯、圣路易斯、俄克拉荷马城、林肯、俾斯麦。 主要名胜：总统头像山、大玉米地、烟斗石国家纪念园、风洞国家公园、刀河印第安村落、阿盖特化石区、圣路易斯大拱门</p></div></div></div><a name="anchor8"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        落基山区</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p><img src="http://img.xixik.net/custom/topic/xixik_ff8706564b65a167.jpg" style="width: 750px; height: 362px;" /></p><p>	落基山区（Rocky Mountain States）（6个州） 所含州：蒙大拿州、爱达荷州、内华达州、怀俄明州、科罗拉多州、犹他州。</p><p>	主要城市：盐湖城、拉斯维加斯、雷诺、丹佛。</p><p>	主要名胜：黄石公园、大提顿国家公园、大盐湖、摩门教圣殿、杰克逊镇、拉斯维加斯市景、落基山国家公园、布莱斯峡谷国家公园、锡安国家公园、拱门国家公园、太浩湖</p></div></div></div><a name="anchor9"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        太平洋海岸区</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p><img src="http://img.xixik.net/custom/topic/xixik_c84d1a2c6d4e71bf.jpg" style="width: 750px; height: 370px;" /></p><p>	太平洋海岸区（Pacific Coast）所含州：华盛顿州、俄勒冈州、加利福尼亚州。</p><p>	主要城市：西雅图、波特兰、旧金山、洛杉矶、圣迭戈。</p><p>	主要名胜：奥林匹亚山、雷尼尔山、火山口湖国家公园、约赛米蒂国家公园、金门大桥、圣迭戈科罗纳多军港、洛马角、斯坦福大学</p></div></div></div><a name="anchor10"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        西南地区</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p>西南地区（Southwest）所含州：亚利桑那州，新墨西哥州，德克萨斯州。</p><p>主要城市：凤凰城，圣菲，达拉斯，休斯顿。</p><p>名胜：墨西哥湾，太空城。</p></div></div></div><a name="anchor11"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        美国各州及首府</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="text-align: center"><strong>美国50个州</strong></p><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width: 95%; font-family: arial"><tbody><tr><th>    州名中译</th><th>    州名原文</th><th>    缩写</th><th>    加入联邦日期</th><th>    总面积</th><th>    人口</th><th>    GDP</th><th>    首府</th><th>    最多人口城市</th></tr><tr><td>    亚拉巴马州</td><td>    Alabama</td><td>    AL</td><td>    1819年12月14日</td><td>    52,419 sq mi （135,765 km）</td><td>    4,822,023</td><td>    $174,400</td><td>    蒙哥马利</td><td>    伯明翰</td></tr><tr><td>    阿拉斯加州</td><td>    Alaska</td><td>    AK</td><td>    1959年1月3日</td><td>    663,267 sq mi （1,717,854 km）</td><td>    731,449</td><td>    $45,600</td><td>    朱诺</td><td>    安克雷奇</td></tr><tr><td>    亚利桑那州</td><td>    Arizona</td><td>    AZ</td><td>    1912年2月14日</td><td>    113,998 sq mi （295,254 km）</td><td>    6,553,255</td><td>    $261,300</td><td>    菲尼克斯（凤凰城）</td><td>    菲尼克斯（凤凰城）</td></tr><tr><td>    阿肯色州</td><td>    Arkansas</td><td>    AR</td><td>    1836年6月15日</td><td>    52,897 sq mi （137,002 km）</td><td>    2,949,131</td><td>    $105,800</td><td>    小石城</td><td>    小石城</td></tr><tr><td>    加利福尼亚州</td><td>    California</td><td>    CA</td><td>    1850年9月9日</td><td>    163,700 sq mi （423,970 km）</td><td>    38,041,430</td><td>    $1,936,400</td><td>    萨克拉门托</td><td>    洛杉矶</td></tr><tr><td>    科罗拉多州</td><td>    Colorado</td><td>    CO</td><td>    1876年8月1日</td><td>    104,185 sq mi （269,837 km）</td><td>    5,187,582</td><td>    $259,700</td><td>    丹佛</td><td>    丹佛</td></tr><tr><td>    康涅狄格州</td><td>    Connecticut</td><td>    CT</td><td>    1788年1月9日</td><td>    5,543sq mi （14,356 km）</td><td>    3,590,347</td><td>    $233,400</td><td>    哈特福德</td><td>    布里奇波特</td></tr><tr><td>    特拉华州</td><td>    Delaware</td><td>    DE</td><td>    1787年12月7日</td><td>    2,491sq mi （6,452 km）</td><td>    917,092</td><td>    $62,700</td><td>    多佛</td><td>    威尔明顿</td></tr><tr><td>    佛罗里达州</td><td>    Florida</td><td>    FL</td><td>    1845年3月3日</td><td>    65,755 sq mi （170,304 km）</td><td>    19,317,568</td><td>    $754,000</td><td>    塔拉哈西</td><td>    杰克逊维尔</td></tr><tr><td>    佐治亚州</td><td>    Georgia</td><td>    GA</td><td>    1788年1月2日</td><td>    59,425 sq mi （153,909 km）</td><td>    9,919,945</td><td>    $404,600</td><td>    亚特兰大</td><td>    亚特兰大</td></tr><tr><td>    夏威夷州</td><td>    Hawaii</td><td>    HI</td><td>    1959年8月21日</td><td>    10,931sq mi （28,311 km）</td><td>    1,392,313</td><td>    $68,900</td><td>    火奴鲁鲁（檀香山）</td><td>    火奴鲁鲁（檀香山）</td></tr><tr><td>    爱达荷州</td><td>    Idaho</td><td>    ID</td><td>    1890年7月3日</td><td>    83,642 sq mi （216,632 km）</td><td>    1,595,728</td><td>    $54,800</td><td>    博伊西</td><td>    博伊西</td></tr><tr><td>    伊利诺伊州</td><td>    Illinois</td><td>    IL</td><td>    1818年12月3日</td><td>    54,826 sq mi （141,998 km）</td><td>    12,875,255</td><td>    $644,200</td><td>    斯普林菲尔德</td><td>    芝加哥</td></tr><tr><td>    印第安纳州</td><td>    Indiana</td><td>    IN</td><td>    1816年12月11日</td><td>    36,418 sq mi （94,321 km）</td><td>    6,537,334</td><td>    $267,600</td><td>    印第安纳波利斯</td><td>    印第安纳波利斯</td></tr><tr><td>    艾奥瓦州</td><td>    Iowa</td><td>    IA</td><td>    1846年12月28日</td><td>    56,272 sq mi （145,743 km）</td><td>    3,074,186</td><td>    $147,200</td><td>    得梅因</td><td>    得梅因</td></tr><tr><td>    堪萨斯州</td><td>    Kansas</td><td>    KS</td><td>    1861年1月29日</td><td>    82,277 sq mi （213,096 km）</td><td>    2,885,905</td><td>    $128,500</td><td>    托皮卡</td><td>    威奇托</td></tr><tr><td>    肯塔基州</td><td>    Kentucky</td><td>    KY</td><td>    1792年6月1日</td><td>    40,409 sq mi （104,659 km）</td><td>    4,380,415</td><td>    $161,400</td><td>    法兰克福</td><td>    路易斯维尔</td></tr><tr><td>    路易斯安那州</td><td>    Louisiana</td><td>    LA</td><td>    1812年4月30日</td><td>    52,271 sq mi （135,382 km）</td><td>    4,601,893</td><td>    $213,600</td><td>    巴吞鲁日</td><td>    新奥尔良</td></tr><tr><td>    缅因州</td><td>    Maine</td><td>    ME</td><td>    1820年3月15日</td><td>    35,385 sq mi （91,646 km）</td><td>    1,329,192</td><td>    $53,200</td><td>    奥古斯塔</td><td>    波特兰</td></tr><tr><td>    马里兰州</td><td>    Maryland</td><td>    MD</td><td>    1788年4月28日</td><td>    12,407sq mi （32,133 km）</td><td>    5,884,563</td><td>    $300,000</td><td>    安那波利斯</td><td>    巴尔的摩</td></tr><tr><td>    马萨诸塞州</td><td>    Massachusetts</td><td>    MA</td><td>    1788年2月6日</td><td>    10,554sq mi （27,336 km）</td><td>    6,646,144</td><td>    $377,700</td><td>    波士顿</td><td>    波士顿</td></tr><tr><td>    密歇根州</td><td>    Michigan</td><td>    MI</td><td>    1837年1月26日</td><td>    97,990 sq mi （253,793 km）</td><td>    9,883,360</td><td>    $372,400</td><td>    兰辛</td><td>    底特律</td></tr><tr><td>    明尼苏达州</td><td>    Minnesota</td><td>    MN</td><td>    1858年5月11日</td><td>    86,943 sq mi （225,181 km）</td><td>    5,379,139</td><td>    $267,100</td><td>    圣保罗</td><td>    明尼阿波利斯</td></tr><tr><td>    密西西比州</td><td>    Mississippi</td><td>    MS</td><td>    1817年12月10日</td><td>    48,434 sq mi （125,443 km）</td><td>    2,984,926</td><td>    $98,900</td><td>    杰克逊</td><td>    杰克逊</td></tr><tr><td>    密苏里州</td><td>    Missouri</td><td>    MO</td><td>    1821年8月10日</td><td>    69,704 sq mi （180,533 km）</td><td>    6,021,988</td><td>    $246,700</td><td>    杰斐逊城</td><td>    堪萨斯城</td></tr><tr><td>    蒙大拿州</td><td>    Montana</td><td>    MT</td><td>    1889年11月8日</td><td>    147,165 sq mi （381,156 km）</td><td>    1,005,141</td><td>    $37,200</td><td>    赫勒拿</td><td>    比灵斯</td></tr><tr><td>    内布拉斯加州</td><td>    Nebraska</td><td>    NE</td><td>    1867年3月1日</td><td>    77,420 sq mi （200,520 km）</td><td>    1,855,525</td><td>    $89,600</td><td>    林肯</td><td>    奥马哈</td></tr><tr><td>    内华达州</td><td>    Nevada</td><td>    NV</td><td>    1864年10月31日</td><td>    110,567 sq mi （286,367 km）</td><td>    2,758,931</td><td>    $127,500</td><td>    卡森城</td><td>    拉斯维加斯</td></tr><tr><td>    新罕布什尔州</td><td>    New Hampshire</td><td>    NH</td><td>    1788年6月21日</td><td>    9,350sq mi （24,217 km）</td><td>    1,320,718</td><td>    $61,600</td><td>    康科德</td><td>    曼彻斯特</td></tr><tr><td>    新泽西州</td><td>    New Jersey</td><td>    NJ</td><td>    1787年12月18日</td><td>    8,729sq mi （22,608 km）</td><td>    8,864,590</td><td>    $497,000</td><td>    特伦顿</td><td>    纽瓦克</td></tr><tr><td>    新墨西哥州</td><td>    New Mexico</td><td>    NM</td><td>    1912年1月6日</td><td>    121,697 sq mi （315,194 km）</td><td>    2,085,538</td><td>    $75,000</td><td>    圣菲</td><td>    阿尔伯克基</td></tr><tr><td>    纽约州</td><td>    New York</td><td>    NY</td><td>    1788年7月26日</td><td>    54,556 sq mi （141,299 km）</td><td>    19,570,261</td><td>    $1,156,500</td><td>    奥尔巴尼</td><td>    纽约</td></tr><tr><td>    北卡罗来纳州</td><td>    North Carolina</td><td>    NC</td><td>    1789年11月21日</td><td>    53,865 sq mi （139,509 km）</td><td>    9,752,073</td><td>    $407,400</td><td>    罗利</td><td>    夏洛特</td></tr><tr><td>    北达科他州</td><td>    North Dakota</td><td>    ND</td><td>    1889年11月2日</td><td>    70,762 sq mi （183,272 km）</td><td>    699,628</td><td>    $33,400</td><td>    俾斯麦</td><td>    法戈</td></tr><tr><td>    俄亥俄州</td><td>    Ohio</td><td>    OH</td><td>    1803年3月1日</td><td>    44,825 sq mi （116,096 km）</td><td>    11,544,225</td><td>    $483,400</td><td>    哥伦布</td><td>    哥伦布</td></tr><tr><td>    俄克拉何马州</td><td>    Oklahoma</td><td>    OK</td><td>    1907年11月16日</td><td>    69,960 sq mi （181,195 km）</td><td>    3,814,820</td><td>    $160,500</td><td>    俄克拉何马城</td><td>    俄克拉何马城</td></tr><tr><td>    俄勒冈州</td><td>    Oregon</td><td>    OR</td><td>    1859年2月14日</td><td>    98,466 sq mi （255,026 km）</td><td>    3,899,353</td><td>    $168,900</td><td>    塞勒姆</td><td>    波特兰</td></tr><tr><td>    宾夕法尼亚州</td><td>    Pennsylvania</td><td>    PA</td><td>    1787年12月12日</td><td>    46,055 sq mi （119,283 km）</td><td>    12,763,536</td><td>    $575,600</td><td>    哈里斯堡</td><td>    费城</td></tr><tr><td>    罗得岛州</td><td>    Rhode Island</td><td>    RI</td><td>    1790年5月29日</td><td>    1,210sq mi （3,140 km）</td><td>    1,050,292</td><td>    $49,500</td><td>    普罗维登斯</td><td>    普罗维登斯</td></tr><tr><td>    南卡罗来纳州</td><td>    South Carolina</td><td>    SC</td><td>    1788年5月23日</td><td>    32,020 sq mi （82,931 km）</td><td>    4,723,723</td><td>    $164,300</td><td>    哥伦比亚</td><td>    哥伦比亚</td></tr><tr><td>    南达科他州</td><td>    South Dakota</td><td>    SD</td><td>    1889年11月2日</td><td>    77,184 sq mi （199,905 km）</td><td>    833,354</td><td>    $39,900</td><td>    皮尔</td><td>    苏瀑</td></tr><tr><td>    田纳西州</td><td>    Tennessee</td><td>    TN</td><td>    1796年6月1日</td><td>    42,181 sq mi （109,247 km）</td><td>    6,456,243</td><td>    $250,300</td><td>    纳什维尔</td><td>    孟菲斯</td></tr><tr><td>    得克萨斯州</td><td>    Texas</td><td>    TX</td><td>    1845年12月29日</td><td>    268,820 sq mi （696,241 km）</td><td>    26,059,203</td><td>    $1,207,432</td><td>    奥斯汀</td><td>    休斯敦</td></tr><tr><td>    犹他州</td><td>    Utah</td><td>    UT</td><td>    1896年1月4日</td><td>    84,899 sq mi （219,887 km）</td><td>    2,855,287</td><td>    $116,900</td><td>    盐湖城</td><td>    盐湖城</td></tr><tr><td>    佛蒙特州</td><td>    Vermont</td><td>    VT</td><td>    1791年3月4日</td><td>    9,623sq mi （24,923 km）</td><td>    626,011</td><td>    $26,400</td><td>    蒙彼利埃</td><td>    伯灵顿</td></tr><tr><td>    弗吉尼亚州</td><td>    Virginia</td><td>    VA</td><td>    1788年6月25日</td><td>    42,774 sq mi （110,785 km）</td><td>    8,185,867</td><td>    $427,700</td><td>    里士满</td><td>    弗吉尼亚海滩</td></tr><tr><td>    华盛顿州</td><td>    Washington</td><td>    WA</td><td>    1889年11月11日</td><td>    71,362 sq mi （184,827 km）</td><td>    6,897,012</td><td>    $351,100</td><td>    奥林匹亚</td><td>    西雅图</td></tr><tr><td>    西弗吉尼亚州</td><td>    West Virginia</td><td>    WV</td><td>    1863年6月20日</td><td>    24,230 sq mi （62,755 km）</td><td>    1,855,413</td><td>    $66,600</td><td>    查尔斯顿</td><td>    查尔斯顿</td></tr><tr><td>    威斯康星州</td><td>    Wisconsin</td><td>    WI</td><td>    1848年5月29日</td><td>    65,498 sq mi （169,639 km）</td><td>    5,726,398</td><td>    $251,400</td><td>    麦迪逊</td><td>    密尔沃基</td></tr><tr><td>    怀俄明州</td><td>    Wyoming</td><td>    WY</td><td>    1890年7月10日</td><td>    97,818 sq mi （253,348 km）</td><td>    576,412</td><td>    $38,200</td><td>    夏延</td><td>    夏延</td></tr></tbody></table><p style="text-align: center"><strong>美国联邦地区</strong></p><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width: 95%; font-family: arial"><tbody><tr><th>    州名中译</th><th>    州名原文</th><th>    缩写</th><th>    加入联邦日期</th><th>    总面积</th><th>    人口</th><th>    GDP</th><th>    首府</th><th>    最多人口城市</th></tr><tr><td>    华盛顿哥伦比亚特区</td><td>    Washington, D.C.</td><td>    DC</td><td>    1790年7月16日</td><td>    68 sq mi （177 km）</td><td>    632,323</td><td>    $93,820</td><td>    华盛顿哥伦比亚特区</td><td>    华盛顿哥伦比亚特区</td></tr></tbody></table><p style="text-align: center"><strong>美国领地</strong></p><table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width: 95%; font-family: arial"><tbody><tr><th>    州名中译</th><th>    州名原文</th><th>    缩写</th><th>    加入联邦日期</th><th>    总面积</th><th>    人口</th><th>    GDP</th><th>    首府</th><th>    最多人口城市</th></tr><tr><td>    美属萨摩亚</td><td>    American Samoa</td><td>    AS</td><td>    1900年4月17日</td><td>    76.1 sq mi （197.1 km）</td><td>    55,519</td><td>    $537</td><td>    帕果帕果</td><td>    塔富纳</td></tr><tr><td>    关岛</td><td>    Guam</td><td>    GU</td><td>    1950年8月1日</td><td>    209.0 sq mi （541.3 km）</td><td>    159,358</td><td>    $2,500</td><td>    阿加尼亚</td><td>    阿加尼亚</td></tr><tr><td>    北马里亚纳群岛</td><td>    Northern Mariana Islands</td><td>    MP</td><td>    1976年3月24日</td><td>    179.01 sq mi （463.63 km）</td><td>    53,833</td><td>    $633.4</td><td>    塞班</td><td>    塞班</td></tr><tr><td>    波多黎各</td><td>    The Commonwealth of Puerto Rico</td><td>    PR</td><td>    1898年12月10日</td><td>    3,515sq mi （9,104 km）</td><td>    3,667,084</td><td>    $98,760</td><td>    圣胡安</td><td>    圣胡安</td></tr><tr><td>    美属维尔京群岛</td><td>    U.S. Virgin Islands</td><td>    VI</td><td>    1917年3月31日</td><td>    133.73 sq mi （346.36 km）</td><td>    106,405</td><td>    $1,577</td><td>    夏洛特阿马利亚</td><td>    夏洛特阿马利亚</td></tr></tbody></table></div></div></div><a name="anchor12"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        美国海外领地</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p><strong>联邦：</strong></p><p> 波多黎各自由联邦、北马里亚纳（包括塞班岛，天宁岛，罗塔岛等）；这两个地区的居民享有美国公民身份，有内部选举权且有大选初级选举权，但没有大选的投票权。</p><p><strong>海外：</strong></p><p> 有人居住 美属萨摩亚、关岛、中途岛、约翰斯顿岛、美属维尔京群岛；这些地区的居民有美国常驻民身份，有内部选举权，但无美国大选选举权。</p><p> 无人居住 贝克岛、豪兰岛、贾维斯岛、金曼礁、纳弗沙岛、帕尔米尔岛、威克岛。</p></div></div></div><a name="anchor13"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        美国的行政区划制度</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="text-indent: 2em;"><a href="http://www.usbabyada.com/" title="赴美生子">去美国生孩子</a>的美爸美妈们，美国即将成为你们孩子的祖国，首先应当了解当地的地理知识，美国和中国的国土面积大小相当，而且美国的州就像中国的省份，但美国与<a href="http://114.xixik.com/xingzhengquhua/" title="中国行政区划">中国行政区域划分</a>差别比较大。</p><p style="text-indent: 2em;">	美国的「town」是什么概念？我喜欢这种属于我专业（地理）的问题。</p><p style="text-indent: 2em;">	题主所问的 town 在美国是一个含有歧义的单词，没有一个固定的定义。<a href="http://114.xixik.com/50states/" title="美国行政区划">美国的行政区划制度</a>和中国有些地方相似，有些地方却很不一样。先来介绍美国的行政区划制度：</p><p style="text-indent: 2em;">	大家都知道<a href="http://114.xixik.com/usa-stats/" title="美国州，美国50州">美国分50个州</a>（States）。这就是一级行政区，和中国的省（自治区，直辖区，特区）相同。</p><p style="text-indent: 2em;">	【点击此处进行赴美生子咨询或拨打热线4000-365-545 或者加微信号：Ada-usbaby进行咨询】</p><p style="text-indent: 2em;"><img border="0" src="http://img.xixik.net/cimg/018/xixik_22c49c2023714902.jpg" /></p><center><p>		&nbsp;</p></center><p style="text-indent: 2em;">	接下来，美国的二级行政区叫 County（中文翻译郡, 或者县）。我觉得美国的县和中国的县大小挺相同的。因为美国和中国国家面积很相同，县的数量也很相同 [美国总共分 3144 个县，中国总共分 2856 个县（区）。下面这个图显示 2008 年普选按县级行政区的结果。</p><p style="text-indent: 2em;"><img border="0" src="http://img.xixik.net/cimg/018/xixik_ab29eefd854e674a.jpg" /></p><p style="text-indent: 2em;">	&nbsp;</p><p style="text-indent: 2em;">	和中国一个重要的区别是在美国县是二级行政区，可是在中国县是三级行政区。中国还有一个美国没有的二级行政区就叫市或者地级市（州，自治州，盟等）。在中国，市比县大，可是在美国县比市大。我觉得这个事实导致了不少外国人对中国城市人口数据的迷惑。下面图是中国的二级行政区。</p><p style="text-indent: 2em;">	【点击此处进行赴美生子咨询或拨打热线4000-365-545 或者加微信号：Ada-usbaby进行咨询】</p><p style="text-indent: 2em;"><img border="0" src="http://img.xixik.net/cimg/018/xixik_f61e010f266ef342.jpg" /></p><p style="text-indent: 2em;">	在中国，除了西部的省和区以外大部分地方都属于某个地级市。这些地级市包括农村，山区。我看过不少外国媒体把重庆称之为&ldquo;世界人口最大的却你没听说过的城市&rdquo;，报告重庆市人口 3280 万。我觉得这是定义和概念不同造成的误会。3280 万这个数据包括很多农人口。按美国人对&ldquo;城市&rdquo;的定义来说，重庆的真正城市人口（中文叫非农人口）才是 750 万，远低于 3280 万。中国每个地级市都有这个问题，拿我最熟悉的城市昆明为例：昆明市总人口 650 万, 但其中非农人口才 390 万。</p><p style="text-indent: 2em;">	在美国，三级行政区是州政府设定的制度，不同的州有不同的制度。我用我最熟悉的加利福尼亚州作例。</p><p style="text-indent: 2em;">	加州有 58 个县。这些县之间的区别很多。有些县人口极少（Alpine 县总人口才一千多），有些却人口极大（Los Angeles 县人口 1000 万）。有些县面积极少（San Francisco 县 47 平方公里），有些极大（San Bernardino 县 5 万多平方公里）。</p><p style="text-indent: 2em;"><img border="0" src="http://img.xixik.net/cimg/018/xixik_5f35d590f6d25e3a.jpg" /></p><p style="text-indent: 2em;">	在加州，三级行政区叫 incorporated municipality （简称 municipality, 不太清楚如何翻译，百度建议[建制区]这个词）。加州有 482 个 municipalities,分两种：City（城市）和 Town（镇）。加州的 City 和 Town 法律形式上没有任何区别，区别是比较抽象，一般来说 Town 人口小，常出现在郊区或者乡村的环境中。不过，这个定义真的太歧义，因为很多市也挺小的。很多 cities 只有几千人或几万人。最终，市还是镇市可以算是种名称而已。还有一件事，县里有市，有镇，另外还有县直辖区（unincorporated areas），不属于任何市。市和镇有自己的政府和警察部门，县直辖区是由县政府，县 sheriff（警察）管理的。</p><p style="text-indent: 2em;">	【赴美生子点击此处进行咨询或拨打热线4000-365-545 或者加微信号：Ada-usbaby进行咨询】</p><p style="text-indent: 2em;">	下面是加州 municipaliy 地图的一个截图（原图太大，不好贴）。这里的红色区是 City，蓝色区是 Town。绿色区又是另外一种地方，叫 Unincorporated Census Designated Places （非建制区普查制定区），它们属于县直辖区（没有自己的政府）但是为了国家普查的统计方便，被划为制定的区域。其他白色的土地也是属于县直辖区，但不属于 Unincorporated Census Designated Places。 这可以算是美式 countryside（农村）或者 forests and mountains （森林，山区，等人口少的地方）</p><p style="text-indent: 2em;"><img border="0" src="http://img.xixik.net/cimg/018/xixik_9c90613ab80367ef.jpg" /></p><p style="text-indent: 2em;">	上面截图显示 Sonoma 县和 Napa 县，算是加州人口不大也不小的地区。下面截图显示的是洛杉矶都市区的一部分（在美国都市可以跨越县边境，比如洛杉矶都市区包括 Los Angeles 县，Orange 县,Riverside 县，San Bernardino 县，Ventura 县。这是加州人口最大最密集的地方。Los Angeles 既是县，又是市，但不要弄混了，洛杉矶县和洛杉矶市是两回事。县有县政府，市有市政府。县比市大。洛杉矶县总有 88 个市。下面浅黄色是洛杉矶市，其他颜色区是不同的市。</p><p style="text-indent: 2em;"><img border="0" src="http://img.xixik.net/cimg/018/xixik_6af9cca41b0caf24.jpg" /></p><p style="text-indent: 2em;">	为什么美国的都市会出现那么多小城市呢?这和历史，和种族有关系。美国的大城市大部分都在 1700s， 1800s 建立（&quot;incorporated&quot;）了。一直到 1940 年代，美国大部分的市民生活在这些大市的边界内。1950 年因为经济崛起，国家高速公路迅速发展，汽车普遍性，汽油廉价等原因，美国加入了郊区化（suburbanization）的时代。许多原住在城区的居民为了享受更大的一块属于自己的土地， 实现当年所谓&ldquo;美国梦&rdquo;，移民了到新建的郊区。&ldquo;郊区&rdquo;（suburbs）这个词没有一个精确的定义，因为它不是一种法律上的行政区。我觉得郊区和市区的区别在人口密度上（郊区密度较低，城区密度较高）以及居住形态（城区高楼大厦，公寓，多户房为主，郊区独户平房为主）。</p><p style="text-indent: 2em;">	1950 年代在老城市边境以外建立了许多新城市。 这是因为不少白种人因为种族偏见，不想生活在黑人多的地方，因此发生&quot;white flight&quot;的现象，就是白种人跑到郊区去，然后建立了自己的市政府。下面示意图显示 1960 年至 1970 年白种人口增加（白色）主要在郊区，白种人口下降（红色）在城区。</p><p style="text-indent: 2em;"><img border="0" src="http://img.xixik.net/cimg/018/xixik_49434b783717529d.jpg" /></p><p style="text-indent: 2em;">	因为郊区里的人大部分是白种人，年薪较高，建立自己的政府导致此地方居民能把自己交的税拨款在市内的教育和基础设施。这个 1950 年开始的现象是如今在美国区域和种族之间经济条件差距如此严重的一个重要原因。因为公立学校的资金大部分是来自市政府的税收，一个大部分居民属于中产阶级或者高产阶级的小城市的公立学校比有很多穷人的大城市的公立学校条件好很多。这是导致美国不同人群之间教育水平和改善生活条件机会如此差距那么大。这是一个邪恶循环的重要组成部分。穷人多的地方税收低，因此学校条件差，穷人很难受好教育，很难提高自己的能 力，找到好工作，挣钱，交税。</p><p style="text-indent: 2em;">	下面图是伦敦白种人的人口比例（蓝色越深白种人口比例越高），伦敦明显也在发生 white flight 的现象</p><p style="text-indent: 2em;"><img border="0" src="http://img.xixik.net/cimg/018/xixik_174a2084bbff3462.jpg" /></p><center><p>		&nbsp;</p></center><p style="text-indent: 2em;">	再说一声，在美式英文除了上面描述的镇行政区以外，Town 还经常可以指一个小地方，比如一个村庄。这个定义是不精确的，和法律上行政区划无关。这种说法在美国还是非常常见的。</p><p style="text-indent: 2em;">	去美国之前，把美国的地理了解清楚吧，这样即使去旅行，大脑中也有一份完整的地图，不至于迷路。</p><p style="text-indent: 2em;">	如果你有任何赴美生子方面的问题，欢迎进行询问或拨打免费热线 4000-365-545 或者加微信号：Ada-usbaby<b>&nbsp;</b>进行询问，我们将免费为你解答你的疑惑。</p></div></div></div><a name="anchor14"></a><div class="custom_border lindBox"><div class="custom_head"><div class="custom_title"><h2>                        美国的蓝州和红州</h2><!--Contents of this file are Copyright 2006-2017, Xixik.com.--></div><div class="custom_totop"><div class="ico"></div><a href="#top" target="_self">返回顶部</a></div></div><div class="custom_content"><div class='content_text'><p style="TEXT-INDENT:2em">	美国蓝州地区支持民主党，而美国红州地区支持共和党。</p><p style="TEXT-INDENT:2em">	美国共和党主要代表美国富人阶级，而美国民主党主要代表美国中产阶级和穷人。</p><p style="TEXT-INDENT:2em">	美国蓝州分布：新英格兰地区，纽约地区，五大湖地区，太平洋沿岸地区，夏威夷</p><p style="TEXT-INDENT:2em">	蓝州地区：纽约州，新泽西州，马萨诸塞州，新罕布什尔州，伊利诺伊州，威斯康星州，加利福尼亚州，华盛顿州，夏威夷州</p><p style="TEXT-INDENT:2em">	美国红州分布：美国东南部地区，德州地区，中部地区，西部内陆地区，北部山地地区，阿拉斯加</p><p style="TEXT-INDENT:2em">	红州地区：德克萨斯州，田纳西州，肯塔基州，怀俄明州，犹他州，爱德荷州，内布拉斯加州，阿拉斯加州，北达科他州</p><p style="TEXT-INDENT:2em">	摇摆州：佛罗里达州，俄亥俄州，弗吉尼亚州，密歇根州，北卡罗来纳州，科罗拉多州，新墨西哥州</p></div></div></div></div><script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script><div id="share" style="position:fixed;margin:auto;left:0px;right:0px;top:0px;bottom:0px;width:318px;height:388px;display:none;"><div  style="position:absolute; clear:both; width:100%;height:388px; overflow:hidden;background :url('http://news.images.xixik.net/content/windows/bg-windows-pc.gif');"><div id="close" onclick="$('#share').hide();" style="float:right;background:url('http://news.images.xixik.net/content/windows/icon-windows-closed.gif');width:14px;height:14px;margin:10px;cursor:pointer;"></div><div id="account" style="font-size:16px;font-family:Arial;width:90px;height:40px; margin-left:140px; margin-top:117px;-webkit-touch-callout:all;-webkit-user-select:all;" >Ada-usbaby</div><img src="http://news.images.xixik.net/content/windows/banner-windows-QR-code.gif" style="width:144px;height:144px; margin:auto;margin-top:15px;display:block" /></div></div><script type="text/javascript">
+       setTimeout(function () {
+           $("#share").show();
+       }, 1000 * 10);
+
+   </script><script type="text/javascript">        var value = '81';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script><div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/50states/" target="_self" title="美国50州_美国各州_美国行政区划">美国行政区划</a></div><ul style="width: 960px; margin: auto; overflow: hidden;"><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shicha/"
+                title="国际时差查询 - 世界各国主要城市和北京时差对照表">时差</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证更换新政策_过期了该怎么办？">中国旅行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangye/"
+                title="2017最新国民经济行业分类与代码（GB/4754-2017）,国民经济行业分类标准">国民经济行业分类与代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/yimiao/"
+                title="疫苗接种时间表 - 中国儿童预防疫苗接种时间表">儿童疫苗接种表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国历任总统名单_美国历届总统大全_美国总统">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2020年二十四节气">二十四节气</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chicun/"
+                title="服装尺寸对照表_男士服装尺寸对照表_中国女装尺寸对照表_美版服装尺码换算">服装尺寸对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country/"
+                title="全世界有多少个国家和地区？_世界上国家和地区一览表">全世界国家和地区</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-flag/"
+                title="世界各国国旗大全 - 世界各国国旗一览表,国旗图片下载">世界各国国旗大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/festival/"
+                title="节日大全_2020年法定节假日安排">节日大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/24jieqi/72hou/"
+                title="月令七十二候集解_二十四节气">月令七十二候集解</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_美国历届总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-visa/"
+                title="赴美生子诚实签攻略_赴美生子诚实签的好处_赴美生子为什么要诚实签">赴美生子诚实签攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-spending/"
+                title="赴美生子价格_去美国生孩子多少钱_费用清单">赴美生子价格</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-baoxian/"
+                title="赴美生子保险_去美国生宝宝生育险_孕中险">赴美生子保险</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-hospital/"
+                title="赴美生子医院_洛杉矶医院_洛杉矶接待华人孕妇医院价目和详细情况一览表">赴美生子医院</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-doctor/"
+                title="赴美生子医生_洛杉矶医生_赴美生子华人医生_赴美生子医生介绍">赴美生子医生</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-living/"
+                title="赴美生子DIY可行吗？_赴美生子DIY攻略">月子中心还是DIY</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="美宝证件_美宝需要哪些证件（美国出生纸_中国旅行证_美国护照_社会安全号_出生纸三级认证）">美宝需要哪些证件？</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-passport-ds11/"
+                title="美宝美国护照申请更新_DS-11怎么填图文">美国护照申请</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_去美国生孩子费用预算清单2020">赴美生子要多少钱</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/university/"
+                title="中国大学名单_2019年全国高等学校名单（截至2019年6月15日）">中国大学名单</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/ranking/"
+                title="美国总统排名_美国总统历史排名_美国最伟大的总统排行榜">美国总统排行榜</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/size/"
+                title="服装尺寸对照表_裤子尺寸_男装尺寸_女装尺寸_裙子尺寸">服装尺寸</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/cn-uk-time-zone/"
+                title="中英时差对照表,现在英国几点?中国和英国时差怎么算?现在英国时间是几点?">中英时差对照表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_去美国生孩子要多少钱？">赴美生子费用</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 最新中国护照免签国家一览2020">中国护照免签证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-passport/"
+                title="美国护照 - 美国护照上写的什么,美国护照免签证国家">美国护照</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/henley-passport-index/"
+                title="亨氏护照指数 - 亨氏护照受限制数2019">亨氏护照指数</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-process/"
+                title="赴美生子流程 - 干货！超详细的赴美生子流程攻略2020！">赴美生子流程</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-best/"
+                title="赴美生子机构哪家好？_合法的赴美生子机构">赴美生子机构哪家好</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-regret/"
+                title="2019生个美国孩子后悔了_后悔在美国生孩子_赴美生子利与弊">生个美国宝宝后悔了揭秘</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/visa/"
+                title="美国签证_美国签证DS-160表格在线填写_美国签证预约面谈_在线缴费">美国签证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/titanic/"
+                title="泰坦尼克号_沉没真相真实历史_泰坦尼克号电影_嘻嘻网">泰坦尼克号</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-flight/"
+                title="赴美生子航班怎么选_去美国生孩子中美航班信息大全">赴美生子航班</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/exit-and-entry-premit/"
+                title="出入境通行证_一次性出入境通行证_中华人民共和国出入境通行证">出入境通行证</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-prosandcons/"
+                title="赴美生子利弊_赴美生子的优势和弊端_生美籍宝宝的好处和坏处">赴美生子好处和弊端</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-born/"
+                title="赴美产子_赴美生子_去美国生孩子">赴美产子</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/14th-amendment/"
+                title="美国宪法修正案第十四条">美国宪法修正案第14条</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-president/greatest/"
+                title="美国最伟大的总统_美国总统排行榜">美国最伟大的总统</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-states/13states/"
+                title="美国13个州_北美13个殖民地_美国建国时的13个州">美国13个州</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/qs2020/"
+                title="2020年QS世界大学排名_世界大学排行榜">QS世界大学排行榜</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/born-usbaby/"
+                title="去美国生孩子_去美国生孩子多少钱">去美国生孩子</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/us-constitution/amendments/"
+                title="美国宪法修正案_Amendments to the Constitution">美国宪法修正案</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/the-world-university-rankings/"
+                title="2020年泰晤士报世界大学排名_2020年THE世界大学排名">泰晤士世界大学排名</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/ssn/"
+                title="美国社安号SSN_美国社安卡_美国社会安全号码">社会安全号码</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/declaration-of-independence/"
+                title="《美国独立宣言》（The Declaration of Independence）">独立宣言</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/birth-certificate/"
+                title="美国出生纸（Birth Certificate）_美国出生纸三级认证">美国出生纸</a></li><li style="float: left; margin-right: 20px;"><a target="_self" href="http://114.xixik.com/usbaby-living-cost/"
+                title="美国月子中心费用_赴美生子费用">美国月子中心费用</a></li></ul><div class="lindBox"><div class="btnGray"><div class="btnText"><a target="_self" title="美国50州_美国各州_美国行政区划" href="http://news.xixik.com/word/81/">另存为<br />                    Word格式</a></div></div></div><div class="lindBox" style="text-align: center;"><img src="http://news.xixik.com/qrcode/81/" alt="扫码手机上继续看" /><br /><br /><strong>用微信或者支付宝扫码在手机上继续观看<br />            可以保存收藏，也扫码后可以分享给好友
+        </strong></div><hr style="height: 1px; border: none; border-top: 1px dashed #999;" /><script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script><!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.--></body></html>
