@@ -1,0 +1,3933 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <title>天干地支对照表 - 天干地支与六十甲子,天干地支五行对照表</title>
+    <link href="http://static.xixik.net/css/custom/comm.css" rel="stylesheet" type="text/css" />
+    <meta name="description" content="天干地支，简称“干支”，是夏历中用来编排年号和日期用的。天干：甲、乙、丙、丁、戊、己、庚、辛、壬、癸；地支：子、丑、寅、卯、辰、巳、午；十二生肖用于记年，天干地支计时。" />
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.114.xixik.com/chinese-era/">
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <base target="_blank" />
+    
+    <script>
+        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+            "SymbianOS", "Windows Phone",
+            "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (!flag) {
+            location.href = "http://m.114.xixik.com/" + "chinese-era/";
+        }
+
+        
+    </script>
+    <style>
+        .btnGray {
+            width: 120px;
+            height: 40px;
+            background: url(http://static.xixik.net/img/bg/bg-word-down.png);
+            margin: auto;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+
+        .btnText {
+            width: 80px;
+            float: right;
+            margin-top: 5px;
+            height: 35px;
+            line-height: 15px;
+        }
+
+            .btnText a {
+                display: block;
+                font-size: 12px;
+                color: Black;
+                text-decoration: none;
+            }
+
+        #guideDisplay2 {
+            height: 230px;
+            margin: 0px;
+            overflow-y: scroll;
+            margin-left: 5px;
+        }
+
+        .guideFllow {
+            float: left;
+            width: 235px;
+            height: 275px;
+            margin-right: 15px;
+            position: fixed;
+            right: 0px;
+            top: 300px;
+        }
+
+        .guideFllowBorder {
+            width: 235px;
+            border: solid 1px #dedfe1;
+            height: auto;
+            position: absolute;
+            overflow: visible;
+            background: white;
+        }
+
+        .guideFllowTitle {
+            border-bottom: dashed 1px #ddd;
+            text-indent: 1em;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+        }
+
+        .guideFllowBorder ul {
+            margin: 10px;
+        }
+
+            .guideFllowBorder ul li {
+                width: 97%;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                border-bottom: dashed #dedfe1 1px;
+            }
+
+                .guideFllowBorder ul li a {
+                    font-size: 14px;
+                }
+
+        #guideFllowDisplay {
+            height: 225px;
+            margin: 0px;
+            overflow: hidden;
+            margin-left: 5px;
+        }
+
+        .guideFllowClose {
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .custom_border {
+            border: 1px solid #ccc;
+            padding-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .custom_head {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            font-weight: bold;
+            font-size: 14px;
+            border-top: solid 1px white;
+            background: #FFF url(http://static.xixik.net/img/custom-sprites-bg.png) repeat-x left top;
+        }
+
+        .custom_title {
+            float: left;
+            width: 800px;
+            text-align: left;
+            text-indent: 2em;
+        }
+
+        .custom_title {
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .custom_content {
+            width: 100%;
+            margin-top: 10px;
+            overflow:auto;
+        }
+
+            .custom_content a {
+                font-size: 14px;
+            }
+
+        .content_text {
+            margin: 10px;
+        }
+
+        .custom_totop {
+            float: right;
+            width: 80px;
+            margin-right: 10px;
+ 
+        }
+            .custom_totop .ico {
+                background:url(http://static.xixik.net/img/custom-sprites.png);
+                background-position: 15px -84px;
+                width:18px;
+                height:17px;
+                float:left;
+                margin-top:6px;
+            }
+            .custom_totop a {
+                color: #000;
+                float:left;
+            }
+
+        .custom_title h2 {
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            border-bottom: 0px;
+        }
+
+        .content_daodu{ width:84px; height:84px; margin-right:10px; float:left; display:inline; background:url(http://static.xixik.net/img/custom-sprites.png)}
+        
+    </style>
+</head>
+<body>
+    <a name="top4"></a>
+    <div class="topBox" name="top">
+        <div class="topMain">
+            <div class="topLeft"><a onclick="addBookmark('嘻嘻网！电子优惠券门户！','http://kfc.xixik.com')">加入收藏</a> | <a onclick="setHome(this,'http://kfc.xixik.com')">设为首页</a> |</div>
+            <div id="icoPhone"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/" title="手机嘻嘻网">手机嘻嘻网</a> | </div>
+            <div id="icoWechat"></div>
+            <div class="icoText"><a href="http://m.kfc.xixik.com/readme/" title="嘻嘻网微信公众号：xixikcom，或者搜索“嘻嘻网”">微信公众号：<strong>xixikcom</strong></a> </div>
+            <div id="icoSina"></div>
+            <div class="icoText"><a href="http://weibo.com/xixik" title="嘻嘻网_新浪微博"><strong>@嘻嘻网</strong></a>  </div>
+            <div class="topLeft"><a href="http://m.kfc.xixik.com/brand/kfc/" title="肯德基手机优惠券" style="color: #D11125; font-weight: bold;">肯德基手机优惠券</a> | 手机访问<a href="http://m.kfc.xixik.com/" title="手机优惠券" style="color: #D11125; font-weight: bold;">xixik.cn</a>，无需打印，出示即可享受优惠。</div>
+            <div class="topRight">
+            </div>
+        </div>
+    </div>
+
+    <div id="showqrCode">
+        <div><span></span></div>
+        <img src="" /><div><span></span></div>
+    </div>
+    <script type="text/javascript">
+        function addBookmark(title, url) {
+            try {
+                window.external.addFavorite(url, title);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");
+                }
+                catch (e) {
+                    alert("您的浏览器不支持此操作，请手动收藏。");
+                }
+            }
+        }
+
+        function setHome(obj, url) {
+            try {
+                obj.style.behavior = 'url(#default#homepage)'; obj.setHomePage(url);<a href="Model1.aspx">Model1.aspx</a>
+            }
+            catch (e) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                        alert(" 此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]设置为'true'");
+                    }
+                    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                    prefs.setCharPref('browser.startup.homepage', url);
+                }
+            }
+        }
+
+
+        document.getElementById("icoPhone").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoPhone").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoWechat").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoWechat").onmouseout = function () {
+            hidetip();
+        }
+
+        document.getElementById("icoSina").onmouseenter = function () {
+            showtip(this);
+        }
+
+        document.getElementById("icoSina").onmouseout = function () {
+            hidetip();
+        }
+
+        function hidetip() {
+            document.getElementById("showqrCode").style.display = "none";
+        }
+
+        function showtip(obj) {
+            var qc = document.getElementById("showqrCode");
+            var left = obj.offsetLeft;
+            if (obj.id == "icoPhone") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-m.kfc.xixik.com-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "扫描手机嘻嘻网";
+                qc.getElementsByTagName("span")[1].innerHTML = "即刻享受优惠";
+            }
+            else if (obj.id == "icoWechat") {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-xixikcom-weixin-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注微信公众号";
+                qc.getElementsByTagName("span")[1].innerHTML = "要什么券就发你";
+            }
+            else {
+                qc.getElementsByTagName("img")[0].src = "http://kfc.images.xixik.net/banner/qrcode/qrcode-weibo-suspend.gif";
+                qc.getElementsByTagName("span")[0].innerHTML = "关注嘻嘻网官方微博";
+                qc.getElementsByTagName("span")[1].innerHTML = "随时随地互动交流";
+            }
+            qc.style.left = left + "px";
+            qc.style.top = "30px";
+            qc.style.display = "block";//显示
+        }
+    </script>
+    <div class="body">
+        
+        <div class="lindBox" style="position: relative;">
+            <img src="http://img.xixik.net/custom/topic/001/chinese-era.jpg" alt="天干地支对照表 - 天干地支与六十甲子,天干地支五行对照表" />
+            <div class="title">
+                <h1>天干地支对照表 - 天干地支与六十甲子,天干地支五行对照表</h1>
+            </div>
+        </div>
+        
+
+        <div class=" custom_border lindBox">
+            <div class="special_content">
+                <div class="content_text">
+                    <div class="content_daodu">
+                    </div>
+                    <h2>天干地支五行八卦图</h2>
+                    <p>
+	<a href="http://114.xixik.com/chinese-era/" style="color:#000" title="天干地支"><strong>天干地支</strong></a>，简称&ldquo;干支&rdquo;，源自中国远古时代对天象的观测。<strong>十天干</strong>：甲、乙、丙、丁、戊、己、庚、辛、壬、癸；<strong>十二地支</strong>：子、丑、寅、卯、辰、巳、午、未、申、酉、戌、亥。十天干和十二地支依次相配，组成六十个基本单位，两者按固定的顺序相互配合，组成了干支纪元法。 <strong>2019年是什么年？</strong>2019是猪年，2019年是己亥年，又称己亥猪年。</p>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="lindBox" style="overflow: hidden;">
+            <div class="gg1">
+                <a href="http://114.xixik.com/usbaby/" title="赴美生子利与弊"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-weixin.jpg" alt="赴美生子利与弊"></a>
+            </div>
+            <div class="guide">
+                <div class="guideBorder" id="guideBorder">
+                    <div class="guideTitle">导读（目录）</div>
+                    <ul id="guideDisplay">
+                        
+                                <li>·<a title="天干" href="#anchor1" target="_self"> 天干</a></li>
+                            
+                                <li>·<a title="地支" href="#anchor2" target="_self"> 地支</a></li>
+                            
+                                <li>·<a title="六十年甲子（干支表）" href="#anchor3" target="_self"> 六十年甲子（干支表）</a></li>
+                            
+                                <li>·<a title="什么是天干地支？" href="#anchor4" target="_self"> 什么是天干地支？</a></li>
+                            
+                                <li>·<a title="天干地支的作用" href="#anchor5" target="_self"> 天干地支的作用</a></li>
+                            
+                                <li>·<a title="天干地支的起源" href="#anchor6" target="_self"> 天干地支的起源</a></li>
+                            
+                                <li>·<a title="十天干的含义" href="#anchor7" target="_self"> 十天干的含义</a></li>
+                            
+                                <li>·<a title="十二地支的含义" href="#anchor8" target="_self"> 十二地支的含义</a></li>
+                            
+                                <li>·<a title="甲子纳音的含义" href="#anchor9" target="_self"> 甲子纳音的含义</a></li>
+                            
+                                <li>·<a title="干支纪年法" href="#anchor10" target="_self"> 干支纪年法</a></li>
+                            
+                                <li>·<a title="干支纪月法" href="#anchor11" target="_self"> 干支纪月法</a></li>
+                            
+                                <li>·<a title="干支纪日法" href="#anchor12" target="_self"> 干支纪日法</a></li>
+                            
+                                <li>·<a title="干支纪时法" href="#anchor13" target="_self"> 干支纪时法</a></li>
+                            
+                                <li>·<a title="天干地支英文译法" href="#anchor14" target="_self"> 天干地支英文译法</a></li>
+                            
+                                <li>·<a title="天干地支与五行对应规则" href="#anchor15" target="_self"> 天干地支与五行对应规则</a></li>
+                            
+                                <li>·<a title="天干地支算人的生辰八字" href="#anchor16" target="_self"> 天干地支算人的生辰八字</a></li>
+                            
+                                <li>·<a title="天干地支五行八卦图" href="#anchor17" target="_self"> 天干地支五行八卦图</a></li>
+                            
+                                <li>·<a title="甲骨文分析" href="#anchor18" target="_self"> 甲骨文分析</a></li>
+                            
+                                <li>·<a title="各干、支的意义" href="#anchor19" target="_self"> 各干、支的意义</a></li>
+                            
+                                <li>·<a title="天干地支与生肖对照表" href="#anchor20" target="_self"> 天干地支与生肖对照表</a></li>
+                            
+                    </ul>
+                    <div class="guideOpen">展开&darr;</div>
+                </div>
+            </div>
+
+            <div class="guideFllow">
+                <div class="guideFllowBorder">
+                    <div class="guideFllowTitle">导读（目录）</div>
+                    <ul id="guideFllowDisplay">
+                        
+                                <li>·<a title="天干" href="#anchor1" target="_self"> 天干</a></li>
+                            
+                                <li>·<a title="地支" href="#anchor2" target="_self"> 地支</a></li>
+                            
+                                <li>·<a title="六十年甲子（干支表）" href="#anchor3" target="_self"> 六十年甲子（干支表）</a></li>
+                            
+                                <li>·<a title="什么是天干地支？" href="#anchor4" target="_self"> 什么是天干地支？</a></li>
+                            
+                                <li>·<a title="天干地支的作用" href="#anchor5" target="_self"> 天干地支的作用</a></li>
+                            
+                                <li>·<a title="天干地支的起源" href="#anchor6" target="_self"> 天干地支的起源</a></li>
+                            
+                                <li>·<a title="十天干的含义" href="#anchor7" target="_self"> 十天干的含义</a></li>
+                            
+                                <li>·<a title="十二地支的含义" href="#anchor8" target="_self"> 十二地支的含义</a></li>
+                            
+                                <li>·<a title="甲子纳音的含义" href="#anchor9" target="_self"> 甲子纳音的含义</a></li>
+                            
+                                <li>·<a title="干支纪年法" href="#anchor10" target="_self"> 干支纪年法</a></li>
+                            
+                                <li>·<a title="干支纪月法" href="#anchor11" target="_self"> 干支纪月法</a></li>
+                            
+                                <li>·<a title="干支纪日法" href="#anchor12" target="_self"> 干支纪日法</a></li>
+                            
+                                <li>·<a title="干支纪时法" href="#anchor13" target="_self"> 干支纪时法</a></li>
+                            
+                                <li>·<a title="天干地支英文译法" href="#anchor14" target="_self"> 天干地支英文译法</a></li>
+                            
+                                <li>·<a title="天干地支与五行对应规则" href="#anchor15" target="_self"> 天干地支与五行对应规则</a></li>
+                            
+                                <li>·<a title="天干地支算人的生辰八字" href="#anchor16" target="_self"> 天干地支算人的生辰八字</a></li>
+                            
+                                <li>·<a title="天干地支五行八卦图" href="#anchor17" target="_self"> 天干地支五行八卦图</a></li>
+                            
+                                <li>·<a title="甲骨文分析" href="#anchor18" target="_self"> 甲骨文分析</a></li>
+                            
+                                <li>·<a title="各干、支的意义" href="#anchor19" target="_self"> 各干、支的意义</a></li>
+                            
+                                <li>·<a title="天干地支与生肖对照表" href="#anchor20" target="_self"> 天干地支与生肖对照表</a></li>
+                            
+                    </ul>
+                    <div class="guideFllowClose" onclick="closeGuide">关闭&darr;</div>
+                </div>
+            </div>
+
+
+            <div class="gg2">
+                <a href="http://www.usbabyada.com/" title="赴美生子"><img src="http://images.xixik.com/magic/content/336x280-usbabyada-right.jpg" alt="赴美生子首选Ada出生在美国"></a>
+            </div>
+        </div>
+        
+        <a name="anchor1"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        天干</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                   
+                    <p>
+	<style type="text/css">
+table tr:hover{background-color: #f5f5f5;}	</style>
+</p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<th>
+				1</th>
+			<th>
+				2</th>
+			<th>
+				3</th>
+			<th>
+				4</th>
+			<th>
+				5</th>
+			<th>
+				6</th>
+			<th>
+				7</th>
+			<th>
+				8</th>
+			<th>
+				9</th>
+			<th>
+				10</th>
+		</tr>
+		<tr>
+			<td>
+				<img src="http://img.xixik.net/custom/section/chinese-era/10tiangan/jia.jpg" /><br />
+				甲jiǎ</td>
+			<td>
+				<img src="http://img.xixik.net/custom/section/chinese-era/10tiangan/yi.jpg" /><br />
+				乙yǐ</td>
+			<td>
+				<img src="http://img.xixik.net/custom/section/chinese-era/10tiangan/bing.jpg" /><br />
+				丙bǐng</td>
+			<td>
+				<img src="http://img.xixik.net/custom/section/chinese-era/10tiangan/ding.jpg" /><br />
+				丁dīng</td>
+			<td>
+				<img src="http://img.xixik.net/custom/section/chinese-era/10tiangan/wu.gif" style="height: 80px; width: 80px;" /><br />
+				戊wù</td>
+			<td>
+				<img src="http://img.xixik.net/custom/section/chinese-era/10tiangan/ji.jpg" /><br />
+				己jǐ</td>
+			<td>
+				<img src="http://img.xixik.net/custom/section/chinese-era/10tiangan/geng.jpg" /><br />
+				庚gēng</td>
+			<td>
+				<img src="http://img.xixik.net/custom/section/chinese-era/10tiangan/xin.jpg" /><br />
+				辛xīn</td>
+			<td>
+				<img src="http://img.xixik.net/custom/section/chinese-era/10tiangan/ren.jpg" /><br />
+				壬rén</td>
+			<td>
+				<img src="http://img.xixik.net/custom/section/chinese-era/10tiangan/gui.jpg" /><br />
+				癸guǐ</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-indent: 2em; text-align: center;">
+	图：十天干汉字写法</p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十天干">十天干</a></strong>发音：甲（jiǎ）、乙（yǐ）、丙（bǐng）、丁（dīng）、戊（wù）、己（jǐ）、庚（gēng）、辛（xīn）、壬（rén）、癸（guǐ）；</p>
+<p style="TEXT-INDENT:2em">
+	<strong>天干五行分为阴与阳</strong>，具体是：</p>
+<p style="TEXT-INDENT:2em">
+	甲木、乙木、丙火、丁火、戊土、己土、庚金、辛金、壬水、癸水，其中甲 丙 戊 庚 壬为阳性，乙丁己辛癸为阴性</p>
+<p style="TEXT-INDENT:2em">
+	诗曰：春季甲乙东方木，夏季丙丁南方火；秋季庚辛西方金，冬季壬癸北方水；戊己中央四季土</p>
+
+<p style="TEXT-INDENT:2em">来源：<a title="天干" style="color:#000;" href="http://114.xixik.com/chinese-era/"><strong>天干</strong></a>：<a title="天干" href="http://114.xixik.com/chinese-era/">http://114.xixik.com/chinese-era/</a></p>
+                </div>
+            </div>
+        </div>
+        
+        
+        <a name="anchor2"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        地支</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                   
+                    <div style="text-align:center;width:100%;height:180px; overflow: scroll;overflow-y: hidden; ">
+	<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width:90%">
+		<tbody>
+			<tr>
+				<th>
+					1</th>
+				<th>
+					2</th>
+				<th>
+					3</th>
+				<th>
+					4</th>
+				<th>
+					5</th>
+				<th>
+					6</th>
+				<th>
+					7</th>
+				<th>
+					8</th>
+				<th>
+					9</th>
+				<th>
+					10</th>
+				<th>
+					11</th>
+				<th>
+					12</th>
+			</tr>
+			<tr>
+				<td>
+					<img src="http://img.xixik.net/custom/section/chinese-era/12dizhi/zi.jpg" /><br />
+					子（zǐ）</td>
+				<td>
+					<img src="http://img.xixik.net/custom/section/chinese-era/12dizhi/chou.jpg" /><br />
+					丑（chǒu）</td>
+				<td>
+					<img src="http://img.xixik.net/custom/section/chinese-era/12dizhi/yin.jpg" style="width: 80px; height: 80px;" /><br />
+					寅（yín）</td>
+				<td>
+					<img src="http://img.xixik.net/custom/section/chinese-era/12dizhi/mao.jpg" style="width: 80px; height: 80px;" /><br />
+					卯（mǎo）</td>
+				<td>
+					<img src="http://img.xixik.net/custom/section/chinese-era/12dizhi/chen.jpg" style="width: 80px; height: 80px;" /><br />
+					辰（chén）</td>
+				<td>
+					<img src="http://img.xixik.net/custom/section/chinese-era/12dizhi/si.jpg" style="width: 80px; height: 80px;" /><br />
+					巳（sì）</td>
+				<td>
+					<img src="http://img.xixik.net/custom/section/chinese-era/12dizhi/wu.jpg" /><br />
+					午（wǔ）</td>
+				<td>
+					<img src="http://img.xixik.net/custom/section/chinese-era/12dizhi/wei.jpg" /><br />
+					未（wèi）</td>
+				<td>
+					<img src="http://img.xixik.net/custom/section/chinese-era/12dizhi/shen.jpg" /><br />
+					申（shēn）</td>
+				<td>
+					<img src="http://img.xixik.net/custom/section/chinese-era/12dizhi/you.jpg" /><br />
+					酉（yǒu）</td>
+				<td>
+					<img src="http://img.xixik.net/custom/section/chinese-era/12dizhi/xu.jpg" /><br />
+					戌（xū）</td>
+				<td>
+					<img src="http://img.xixik.net/custom/section/chinese-era/12dizhi/hai.jpg" /><br />
+					亥（hài）</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<p style="text-align: center;">
+	图：十二地支汉字写法（请左右拖动查看←→）</p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十二地支">十二地支</a></strong>对应<strong><a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a></strong>——子：鼠；丑：牛；寅：虎；卯：兔；辰：龙；巳：蛇； 午：马；未：羊；申：猴；酉：鸡；戌：狗；亥：猪。</p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<th>
+				子</th>
+			<th>
+				丑</th>
+			<th>
+				寅</th>
+			<th>
+				卯</th>
+			<th>
+				辰</th>
+			<th>
+				巳</th>
+			<th>
+				午</th>
+			<th>
+				未</th>
+			<th>
+				申</th>
+			<th>
+				酉</th>
+			<th>
+				戌</th>
+			<th>
+				亥</th>
+		</tr>
+		<tr>
+			<td>
+				鼠</td>
+			<td>
+				牛</td>
+			<td>
+				虎</td>
+			<td>
+				兔</td>
+			<td>
+				龙</td>
+			<td>
+				蛇</td>
+			<td>
+				马</td>
+			<td>
+				羊</td>
+			<td>
+				猴</td>
+			<td>
+				鸡</td>
+			<td>
+				狗</td>
+			<td>
+				猪</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-align: center;">
+	<a href="http://114.xixik.com/12shengxiao/" title="12生肖,十二生肖">查询详细十二生肖对照表</a></p>
+<p style="text-indent: 2em;">
+	<strong><a href="http://114.xixik.com/chinese-era/" style="color: #000;" title="十二地支">十二地支</a></strong>发音：子（zǐ）、丑（chǒu）、寅（yín）、卯（mǎo）、辰（chén）、巳（sì）、午（wǔ）、未（wèi）、申（shēn）、酉（yǒu）、戌（xū）、亥（hài）。</p>
+
+<p style="TEXT-INDENT:2em">来源：<a title="地支" style="color:#000;" href="http://114.xixik.com/chinese-era/"><strong>地支</strong></a>：<a title="地支" href="http://114.xixik.com/chinese-era/">http://114.xixik.com/chinese-era/</a></p>
+                </div>
+            </div>
+        </div>
+        
+        
+        <a name="anchor3"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        六十年甲子（干支表）</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                   
+                    <p style="text-align: center;">
+	<strong>六十甲子顺序表</strong></p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<th>
+				1</th>
+			<th>
+				2</th>
+			<th>
+				3</th>
+			<th>
+				4</th>
+			<th>
+				5</th>
+			<th>
+				6</th>
+			<th>
+				7</th>
+			<th>
+				8</th>
+			<th>
+				9</th>
+			<th>
+				10</th>
+		</tr>
+		<tr>
+			<td>
+				甲子</td>
+			<td>
+				乙丑</td>
+			<td>
+				丙寅</td>
+			<td>
+				丁卯</td>
+			<td>
+				戊辰</td>
+			<td>
+				己巳</td>
+			<td>
+				庚午</td>
+			<td>
+				辛未</td>
+			<td>
+				壬申</td>
+			<td>
+				癸酉</td>
+		</tr>
+		<tr bgcolor="#f5f5f5">
+			<td>
+				<strong>11</strong></td>
+			<td>
+				<strong>12</strong></td>
+			<td>
+				<strong>13</strong></td>
+			<td>
+				<strong>14</strong></td>
+			<td>
+				<strong>15</strong></td>
+			<td>
+				<strong>16</strong></td>
+			<td>
+				<strong>17</strong></td>
+			<td>
+				<strong>18</strong></td>
+			<td>
+				<strong>19</strong></td>
+			<td>
+				<strong>20</strong></td>
+		</tr>
+		<tr>
+			<td>
+				甲戌</td>
+			<td>
+				乙亥</td>
+			<td>
+				丙子</td>
+			<td>
+				丁丑</td>
+			<td>
+				戊寅</td>
+			<td>
+				己卯</td>
+			<td>
+				庚辰</td>
+			<td>
+				辛己</td>
+			<td>
+				壬午</td>
+			<td>
+				癸未</td>
+		</tr>
+		<tr bgcolor="#f5f5f5">
+			<td>
+				<strong>21</strong></td>
+			<td>
+				<strong>22</strong></td>
+			<td>
+				<strong>23</strong></td>
+			<td>
+				<strong>24</strong></td>
+			<td>
+				<strong>25</strong></td>
+			<td>
+				<strong>26</strong></td>
+			<td>
+				<strong>27</strong></td>
+			<td>
+				<strong>28</strong></td>
+			<td>
+				<strong>29</strong></td>
+			<td>
+				<strong>30</strong></td>
+		</tr>
+		<tr>
+			<td>
+				甲申</td>
+			<td>
+				乙酉</td>
+			<td>
+				丙戌</td>
+			<td>
+				丁亥</td>
+			<td>
+				戊子</td>
+			<td>
+				己丑</td>
+			<td>
+				庚寅</td>
+			<td>
+				辛卯</td>
+			<td>
+				壬辰</td>
+			<td>
+				癸巳</td>
+		</tr>
+		<tr bgcolor="#f5f5f5">
+			<td>
+				<strong>31</strong></td>
+			<td>
+				<strong>32</strong></td>
+			<td>
+				<strong>33</strong></td>
+			<td>
+				<strong>34</strong></td>
+			<td>
+				<strong>35</strong></td>
+			<td>
+				<strong>36</strong></td>
+			<td>
+				<strong>37</strong></td>
+			<td>
+				<strong>38</strong></td>
+			<td>
+				<strong>39</strong></td>
+			<td>
+				<strong>40</strong></td>
+		</tr>
+		<tr>
+			<td>
+				甲午</td>
+			<td>
+				乙未</td>
+			<td>
+				丙申</td>
+			<td>
+				丁酉</td>
+			<td>
+				戊戌</td>
+			<td>
+				己亥</td>
+			<td>
+				庚子</td>
+			<td>
+				辛丑</td>
+			<td>
+				壬寅</td>
+			<td>
+				癸卯</td>
+		</tr>
+		<tr bgcolor="#f5f5f5">
+			<td>
+				<strong>41</strong></td>
+			<td>
+				<strong>42</strong></td>
+			<td>
+				<strong>43</strong></td>
+			<td>
+				<strong>44</strong></td>
+			<td>
+				<strong>45</strong></td>
+			<td>
+				<strong>46</strong></td>
+			<td>
+				<strong>47</strong></td>
+			<td>
+				<strong>48</strong></td>
+			<td>
+				<strong>49</strong></td>
+			<td>
+				<strong>50</strong></td>
+		</tr>
+		<tr>
+			<td>
+				甲辰</td>
+			<td>
+				乙巳</td>
+			<td>
+				丙午</td>
+			<td>
+				丁未</td>
+			<td>
+				戊申</td>
+			<td>
+				己酉</td>
+			<td>
+				庚戌</td>
+			<td>
+				辛亥</td>
+			<td>
+				壬子</td>
+			<td>
+				癸丑</td>
+		</tr>
+		<tr bgcolor="#f5f5f5">
+			<td>
+				<strong>51</strong></td>
+			<td>
+				<strong>52</strong></td>
+			<td>
+				<strong>53</strong></td>
+			<td>
+				<strong>54</strong></td>
+			<td>
+				<strong>55</strong></td>
+			<td>
+				<strong>56</strong></td>
+			<td>
+				<strong>57</strong></td>
+			<td>
+				<strong>58</strong></td>
+			<td>
+				<strong>59</strong></td>
+			<td>
+				<strong>60</strong></td>
+		</tr>
+		<tr>
+			<td>
+				甲寅</td>
+			<td>
+				乙卯</td>
+			<td>
+				丙辰</td>
+			<td>
+				丁巳</td>
+			<td>
+				戊午</td>
+			<td>
+				己未</td>
+			<td>
+				庚申</td>
+			<td>
+				辛酉</td>
+			<td>
+				壬戌</td>
+			<td>
+				癸亥</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-align: center;">
+	<strong>六十甲子顺序表2</strong></p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%;">
+	<tbody>
+		<tr>
+			<td>
+				<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%;">
+					<tbody>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								<strong>顺序</strong></td>
+							<td>
+								<strong>干支</strong></td>
+							<td>
+								<strong>顺序</strong></td>
+							<td>
+								<strong>干支</strong></td>
+						</tr>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								1</td>
+							<td>
+								甲子</td>
+							<td>
+								16</td>
+							<td>
+								己卯</td>
+						</tr>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								2</td>
+							<td>
+								乙丑</td>
+							<td>
+								17</td>
+							<td>
+								庚辰</td>
+						</tr>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								3</td>
+							<td>
+								丙寅</td>
+							<td>
+								18</td>
+							<td>
+								辛巳</td>
+						</tr>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								4</td>
+							<td>
+								丁卯</td>
+							<td>
+								19</td>
+							<td>
+								壬午</td>
+						</tr>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								5</td>
+							<td>
+								戊辰</td>
+							<td>
+								20</td>
+							<td>
+								癸未</td>
+						</tr>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								6</td>
+							<td>
+								己巳</td>
+							<td>
+								21</td>
+							<td>
+								甲申</td>
+						</tr>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								7</td>
+							<td>
+								庚午</td>
+							<td>
+								22</td>
+							<td>
+								乙酉</td>
+						</tr>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								8</td>
+							<td>
+								辛未</td>
+							<td>
+								23</td>
+							<td>
+								丙戌</td>
+						</tr>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								9</td>
+							<td>
+								壬申</td>
+							<td>
+								24</td>
+							<td>
+								丁亥</td>
+						</tr>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								10</td>
+							<td>
+								癸酉</td>
+							<td>
+								25</td>
+							<td>
+								戊子</td>
+						</tr>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								11</td>
+							<td>
+								甲戌</td>
+							<td>
+								26</td>
+							<td>
+								己丑</td>
+						</tr>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								12</td>
+							<td>
+								乙亥</td>
+							<td>
+								27</td>
+							<td>
+								庚寅</td>
+						</tr>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								13</td>
+							<td>
+								丙子</td>
+							<td>
+								28</td>
+							<td>
+								辛卯</td>
+						</tr>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								14</td>
+							<td>
+								丁丑</td>
+							<td>
+								29</td>
+							<td>
+								壬辰</td>
+						</tr>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								15</td>
+							<td>
+								戊寅</td>
+							<td>
+								30</td>
+							<td>
+								癸巳</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+			<td style="text-align: center; ">
+				<p>
+					<strong>六</strong></p>
+				<p>
+					<strong>十</strong></p>
+				<p>
+					<strong>甲</strong></p>
+				<p>
+					<strong>子</strong></p>
+				<p>
+					<strong>顺</strong></p>
+				<p>
+					<strong>序</strong></p>
+				<p>
+					<strong>表</strong></p>
+			</td>
+			<td>
+				<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%">
+					<tbody>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								<strong>顺序</strong></td>
+							<td>
+								<strong>干支</strong></td>
+							<td>
+								<strong>顺序</strong></td>
+							<td>
+								<strong>干支</strong></td>
+						</tr>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								31</td>
+							<td>
+								甲午</td>
+							<td>
+								46</td>
+							<td>
+								己酉</td>
+						</tr>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								32</td>
+							<td>
+								乙未</td>
+							<td>
+								47</td>
+							<td>
+								庚戌</td>
+						</tr>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								33</td>
+							<td>
+								丙申</td>
+							<td>
+								48</td>
+							<td>
+								辛亥</td>
+						</tr>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								34</td>
+							<td>
+								丁酉</td>
+							<td>
+								49</td>
+							<td>
+								壬子</td>
+						</tr>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								35</td>
+							<td>
+								戊戌</td>
+							<td>
+								50</td>
+							<td>
+								癸丑</td>
+						</tr>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								36</td>
+							<td>
+								己亥</td>
+							<td>
+								51</td>
+							<td>
+								甲寅</td>
+						</tr>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								37</td>
+							<td>
+								庚子</td>
+							<td>
+								52</td>
+							<td>
+								乙卯</td>
+						</tr>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								38</td>
+							<td>
+								辛丑</td>
+							<td>
+								53</td>
+							<td>
+								丙辰</td>
+						</tr>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								39</td>
+							<td>
+								壬寅</td>
+							<td>
+								54</td>
+							<td>
+								丁巳</td>
+						</tr>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								40</td>
+							<td>
+								癸卯</td>
+							<td>
+								55</td>
+							<td>
+								戊午</td>
+						</tr>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								41</td>
+							<td>
+								甲辰</td>
+							<td>
+								56</td>
+							<td>
+								己未</td>
+						</tr>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								42</td>
+							<td>
+								乙巳</td>
+							<td>
+								57</td>
+							<td>
+								庚申</td>
+						</tr>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								43</td>
+							<td>
+								丙午</td>
+							<td>
+								58</td>
+							<td>
+								辛酉</td>
+						</tr>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								44</td>
+							<td>
+								丁未</td>
+							<td>
+								59</td>
+							<td>
+								壬戌</td>
+						</tr>
+						<tr bgcolor="#FFFFFF">
+							<td>
+								45</td>
+							<td>
+								戊申</td>
+							<td>
+								60</td>
+							<td>
+								癸亥</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT:2em">
+	<strong>六十甲子</strong>又称六十花甲子，其最古老的用途是纪年、纪月、纪日、纪时。纪年为60年一个周期，纪月为5年一个周期，纪日为60天一个周期，纪时为5天一个周期。六十甲子也指道家信奉的六十个星宿神﹐即六十甲子日值日的六十位神。用天干和地支循环相配作为称呼这些神的名字。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>中国历史上知名的干支年份</strong></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chinese-dynasties/" style="color:#000" title="中国历史">中国历史</a>上很多重大事件是以年份的干支命名的：辛酉政变（麒祥政变）、中日甲午战争、戊戌变法（百日维新）、庚子赔款、辛丑条约、癸卯学制、辛亥革命等等。</p>
+<p style="TEXT-INDENT:2em">
+	原因是当时还没有使用&ldquo;公元纪年法&rdquo;，&ldquo;公元纪年法&rdquo;直到1912年元旦中华民国成立时才开始使用。</p>
+<p style="TEXT-INDENT:2em">
+	（1）辛酉政变&mdash;&mdash;发生于1861年，农历辛酉年，慈禧太后夺权。</p>
+<p style="TEXT-INDENT:2em">
+	（2）甲午战争&mdash;&mdash;发生于1894年，农历甲午年，中日黄海大战。</p>
+<p style="TEXT-INDENT:2em">
+	（3）戊戌变法&mdash;&mdash;发生于1898年，农历戊戌年，变法仅维持103天。</p>
+<p style="TEXT-INDENT:2em">
+	（4）庚子赔款&mdash;&mdash;发生于1900年，农历庚子年，八国联军进攻中国。</p>
+<p style="TEXT-INDENT:2em">
+	（5）辛丑条约&mdash;&mdash;发生于1901年，农历辛丑年签定，使中国完全沦为半殖民地半封建社会。</p>
+<p style="TEXT-INDENT:2em">
+	（6）癸卯学制&mdash;&mdash;发生于1905年，农历癸卯年，晚清最后一次学制改革，废除了科举制度。</p>
+<p style="TEXT-INDENT:2em">
+	（7）辛亥革命&mdash;&mdash;发生于1911年，农历辛亥年，起义推翻了满清统治。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/7fb6d44dd73c7041" title="2019是什么年？"><strong>2019是农历什么年？农历的天干地支是什么？</strong></a></p>
+<p style="TEXT-INDENT:2em">
+	今年2019年为农历己亥年，己亥年的地支属猪，因此2019年出生的人属相为猪，所以2019年又称己亥猪年。2019年共365天，52周零1天。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://www.xixik.com/content/e484b7fee862c8d6" title="天干地支计算方法"><strong>天干地支纪年法计算的万能公式</strong></a></p>
+<p style="TEXT-INDENT:2em">
+	天干计算法：年减去3再除以10得到的余数对应的天干字就是干</p>
+<p style="TEXT-INDENT:2em">
+	地支计算法：年减去3再除以12得到的余数对应的地支字就是支</p>
+<p style="TEXT-INDENT:2em">
+	举例：2011年</p>
+<p style="TEXT-INDENT:2em">
+	计算天干：（2011-3）/10的余数是8，对应天干是字：辛，即为这一年的干。</p>
+<p style="TEXT-INDENT:2em">
+	计算地支：（2011-3）/12的余数是4，对应地支是字：卯，即为这一年的支。</p>
+<p style="TEXT-INDENT:2em">
+	所以2011年是辛卯年</p>
+<p style="TEXT-INDENT:2em">
+	例如：甲午战争发生于1894年，八国联军侵华的1900年应是：庚子年</p>
+
+<p style="TEXT-INDENT:2em">来源：<a title="六十年甲子（干支表）" style="color:#000;" href="http://114.xixik.com/chinese-era/"><strong>六十年甲子（干支表）</strong></a>：<a title="六十年甲子（干支表）" href="http://114.xixik.com/chinese-era/">http://114.xixik.com/chinese-era/</a></p>
+                </div>
+            </div>
+        </div>
+        
+        
+        <a name="anchor4"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        什么是天干地支？</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                   
+                    <table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width:60%">
+	<tbody>
+		<tr bgcolor="#efefef">
+			<td>
+				1</td>
+			<td>
+				2</td>
+			<td>
+				3</td>
+			<td>
+				4</td>
+			<td>
+				5</td>
+			<td>
+				6</td>
+			<td>
+				7</td>
+			<td>
+				8</td>
+			<td>
+				9</td>
+			<td>
+				10</td>
+		</tr>
+		<tr>
+			<td>
+				甲</td>
+			<td>
+				乙</td>
+			<td>
+				丙</td>
+			<td>
+				丁</td>
+			<td>
+				戊</td>
+			<td>
+				己</td>
+			<td>
+				庚</td>
+			<td>
+				辛</td>
+			<td>
+				壬</td>
+			<td>
+				癸</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-align: center;">
+	十天干</p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width:60%">
+	<tbody>
+		<tr bgcolor="#efefef">
+			<td>
+				1</td>
+			<td>
+				2</td>
+			<td>
+				3</td>
+			<td>
+				4</td>
+			<td>
+				5</td>
+			<td>
+				6</td>
+			<td>
+				7</td>
+			<td>
+				8</td>
+			<td>
+				9</td>
+			<td>
+				10</td>
+			<td>
+				11</td>
+			<td>
+				12</td>
+		</tr>
+		<tr>
+			<td>
+				子</td>
+			<td>
+				丑</td>
+			<td>
+				寅</td>
+			<td>
+				卯</td>
+			<td>
+				辰</td>
+			<td>
+				巳</td>
+			<td>
+				午</td>
+			<td>
+				未</td>
+			<td>
+				申</td>
+			<td>
+				酉</td>
+			<td>
+				戌</td>
+			<td>
+				亥</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-align: center;">
+	十二地支</p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width:50%">
+	<tbody>
+		<tr>
+			<th>
+				序号</th>
+			<th>
+				名称</th>
+			<th>
+				序号</th>
+			<th>
+				名称</th>
+		</tr>
+		<tr>
+			<td>
+				1</td>
+			<td>
+				甲子</td>
+			<td>
+				31</td>
+			<td>
+				甲午</td>
+		</tr>
+		<tr>
+			<td>
+				2</td>
+			<td>
+				乙丑</td>
+			<td>
+				32</td>
+			<td>
+				乙未</td>
+		</tr>
+		<tr>
+			<td>
+				3</td>
+			<td>
+				丙寅</td>
+			<td>
+				33</td>
+			<td>
+				丙申</td>
+		</tr>
+		<tr>
+			<td>
+				4</td>
+			<td>
+				丁卯</td>
+			<td>
+				34</td>
+			<td>
+				丁酉</td>
+		</tr>
+		<tr>
+			<td>
+				5</td>
+			<td>
+				戊辰</td>
+			<td>
+				35</td>
+			<td>
+				戊戌</td>
+		</tr>
+		<tr>
+			<td>
+				6</td>
+			<td>
+				己巳</td>
+			<td>
+				36</td>
+			<td>
+				己亥</td>
+		</tr>
+		<tr>
+			<td>
+				7</td>
+			<td>
+				庚午</td>
+			<td>
+				37</td>
+			<td>
+				庚子</td>
+		</tr>
+		<tr>
+			<td>
+				8</td>
+			<td>
+				辛未</td>
+			<td>
+				38</td>
+			<td>
+				辛丑</td>
+		</tr>
+		<tr>
+			<td>
+				9</td>
+			<td>
+				壬申</td>
+			<td>
+				39</td>
+			<td>
+				壬寅</td>
+		</tr>
+		<tr>
+			<td>
+				10</td>
+			<td>
+				癸酉</td>
+			<td>
+				40</td>
+			<td>
+				癸卯</td>
+		</tr>
+		<tr>
+			<td>
+				11</td>
+			<td>
+				甲戌</td>
+			<td>
+				41</td>
+			<td>
+				甲辰</td>
+		</tr>
+		<tr>
+			<td>
+				12</td>
+			<td>
+				乙亥</td>
+			<td>
+				42</td>
+			<td>
+				乙巳</td>
+		</tr>
+		<tr>
+			<td>
+				13</td>
+			<td>
+				丙子</td>
+			<td>
+				43</td>
+			<td>
+				丙午</td>
+		</tr>
+		<tr>
+			<td>
+				14</td>
+			<td>
+				丁丑</td>
+			<td>
+				44</td>
+			<td>
+				丁未</td>
+		</tr>
+		<tr>
+			<td>
+				15</td>
+			<td>
+				戊寅</td>
+			<td>
+				45</td>
+			<td>
+				戊申</td>
+		</tr>
+		<tr>
+			<td>
+				16</td>
+			<td>
+				己卯</td>
+			<td>
+				46</td>
+			<td>
+				己酉</td>
+		</tr>
+		<tr>
+			<td>
+				17</td>
+			<td>
+				庚辰</td>
+			<td>
+				47</td>
+			<td>
+				庚戌</td>
+		</tr>
+		<tr>
+			<td>
+				18</td>
+			<td>
+				辛巳</td>
+			<td>
+				48</td>
+			<td>
+				辛亥</td>
+		</tr>
+		<tr>
+			<td>
+				19</td>
+			<td>
+				壬午</td>
+			<td>
+				49</td>
+			<td>
+				壬子</td>
+		</tr>
+		<tr>
+			<td>
+				20</td>
+			<td>
+				癸未</td>
+			<td>
+				50</td>
+			<td>
+				癸丑</td>
+		</tr>
+		<tr>
+			<td>
+				21</td>
+			<td>
+				甲申</td>
+			<td>
+				51</td>
+			<td>
+				甲寅</td>
+		</tr>
+		<tr>
+			<td>
+				22</td>
+			<td>
+				乙酉</td>
+			<td>
+				52</td>
+			<td>
+				乙卯</td>
+		</tr>
+		<tr>
+			<td>
+				23</td>
+			<td>
+				丙戌</td>
+			<td>
+				53</td>
+			<td>
+				丙辰</td>
+		</tr>
+		<tr>
+			<td>
+				24</td>
+			<td>
+				丁亥</td>
+			<td>
+				54</td>
+			<td>
+				丁巳</td>
+		</tr>
+		<tr>
+			<td>
+				25</td>
+			<td>
+				戊子</td>
+			<td>
+				55</td>
+			<td>
+				戊午</td>
+		</tr>
+		<tr>
+			<td>
+				26</td>
+			<td>
+				己丑</td>
+			<td>
+				56</td>
+			<td>
+				己未</td>
+		</tr>
+		<tr>
+			<td>
+				27</td>
+			<td>
+				庚寅</td>
+			<td>
+				57</td>
+			<td>
+				庚申</td>
+		</tr>
+		<tr>
+			<td>
+				28</td>
+			<td>
+				辛卯</td>
+			<td>
+				58</td>
+			<td>
+				辛酉</td>
+		</tr>
+		<tr>
+			<td>
+				29</td>
+			<td>
+				壬辰</td>
+			<td>
+				59</td>
+			<td>
+				壬戌</td>
+		</tr>
+		<tr>
+			<td>
+				30</td>
+			<td>
+				癸巳</td>
+			<td>
+				60</td>
+			<td>
+				癸亥</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-indent: 2em; text-align: center;">
+	天干地支次序表</p>
+<p style="TEXT-INDENT:2em">
+	<strong>天干地支</strong>（ Chinese Era [combination of the Heavenly Stems and Earthly Branches] ），简称“<strong>干支</strong>”。《辞源》里说，“干支”取义于树木的“干枝”。人有云：“天干，犹木之干，强而为阳；支，犹木之枝，弱而为阴。”可见称为干支的原始用意。<strong>十天干</strong>（ Ten&#160;Heavenly&#160;Stems）：甲、乙、丙、丁、戊、己、庚、辛、壬、癸；<strong>十二地支</strong>（Twelve Earthly Branches）：子、丑、寅、卯、辰、巳、午、未、申、酉、戌、亥。十干和十二支依次相配，组成六十个基本单位，古人以此作为年、月、日、时的序号，叫“干支纪法”。干支用来纪年月日时的历法叫做干支历。从殷墟出土的甲骨文来看，天干地支在我国古代主要用于纪日，此外还曾用来纪月、纪年、纪时等。也用于卜卦、风水、术数等领域。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>十天干和十二地支</strong>合称“<strong>天干地支</strong>”，简称“干支”：</p>
+<p style="TEXT-INDENT:2em">
+	十天干：甲（jiǎ）、乙（yǐ）、丙（bǐng）、丁（dīng）、戊（wù）、己（jǐ）、庚（gēng）、辛（xīn）、壬（rén）、癸（guǐ）；其中甲、丙、戊、庚、壬为阳干，乙、丁、己、辛、癸为阴干。</p>
+<p style="TEXT-INDENT:2em">
+	十二地支：子（zǐ）、丑（chǒu）、寅（yín）、卯（mǎo）、辰（chén）、巳（sì）、午（wǔ）、未（wèi）、申（shēn）、酉（yǒu）、戌（xū）、亥（hài）。其中子、寅、辰、午、申、戌为阳支，丑、卯、巳、未、酉、亥为阴支（注：十二地支对应十二生肖——子：鼠；丑：牛；寅：虎；卯：兔；辰：龙；巳：蛇； 午：马；未：羊；申：猴；酉：鸡；戌：狗；亥：猪。）。</p>
+<p style="TEXT-INDENT:2em">
+	<img src="http://img.xixik.net/custom/section/chinese-era/xixik-3f73b4bd86d2847f.jpg" style="margin: 10px; float: right; width: 400px;" /></p>
+<p style="TEXT-INDENT:2em">
+	传说早在公元前2697年，于中华始祖黄帝建国时，命大挠氏探察天地之气机，探究五行（金木水火土），始作甲、乙、丙、丁、戊、己、庚、辛、壬、癸等十天干，及子、丑、寅、卯、辰、巳、午、未、申、酉、戌、亥等十二地支，相互配合成六十甲子用为纪历之符号。&#160;</p>
+<p style="TEXT-INDENT:2em">
+	中国历法以月球绕地球一周的时间（29.5306天）为一月，以地球绕太阳一周的时间（ 365.2419 天）为一年，为使一年的平均天数与回归年的天数相符，设置闰月。据记载，公元前六世纪中国开始采用十九年七闰月法协调阴历和阳历。 天干地支，是古人建历法时，为了方便做60进位而设出的符号。对古代的中国人而言，天干地支的存在，就像阿拉伯数字般的单纯，而且后来更开始把这些符号运用在地图、方位及时间（时间轴与空间轴）上，所以这些数字被赋于的意思就越来越多了。</p>
+<p style="TEXT-INDENT:2em">
+	古人（一说黄帝）观测朔望月，发现两个朔望月约是59天的概念。12个朔望月大体上是354天多（与一个回归年的长度相近似），古人因此就得到了一年有12个月的概念。在搭配日记法（十天干），产生阴阳合历，发展出现在的天干地支；较为成熟时应该是在夏商周三代。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>英文里如何描述天干地支？</strong></p>
+<p style="TEXT-INDENT:2em">
+	Xushen interpreted the Ten Heavenly Stems and the Twelve Earthly Branches as a system of the cycle of the seasons in "Shuowenjiezi".</p>
+<p style="TEXT-INDENT:2em">
+	《说文》中，许慎把“天干”、“地支”都解释为万物在一年中的萌发生长成熟衰亡的循环系统。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chinese-era/" title="天干地支对照表">天干地支五行对照表</a>：<a href="http://114.xixik.com/chinese-era/" title="天干地支五行对照表">http://114.xixik.com/chinese-era/</a></p>
+
+<p style="TEXT-INDENT:2em">来源：<a title="什么是天干地支？" style="color:#000;" href="http://114.xixik.com/chinese-era/"><strong>什么是天干地支？</strong></a>：<a title="什么是天干地支？" href="http://114.xixik.com/chinese-era/">http://114.xixik.com/chinese-era/</a></p>
+                </div>
+            </div>
+        </div>
+        
+        
+        <a name="anchor5"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        天干地支的作用</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                   
+                    <P style="TEXT-INDENT: 2em">考古发现，在商朝后期帝王帝乙时的一块甲骨上，刻有完整的六十甲子，可能是当时的日历。这也说明在商朝时已经开始使用干支纪日了。根据考证，春秋时期鲁隐公三年二月己巳（公元前720年二月初十），曾发生一次日食。这是中国使用干支纪日的比较确切的证据。而使用皇帝年号纪年则是汉武帝时期建元年号。 </P>
+<P style="TEXT-INDENT: 2em">干支法在中国古代一直使用，从未间断。因此对研究历史非常有帮助，非常容易推算历史时间。 </P>
+<P style="TEXT-INDENT: 2em">如《冯婉贞》：“咸丰庚申，英法联军白海入侵。”咸丰，皇帝年号；庚申，干支纪年。</P>
+<P style="TEXT-INDENT: 2em">中国在汉武帝以前用天干地支纪年；从汉武帝到清末，用皇帝年号加天干地支纪年；民国初期用民国诞生时间来纪年兼或使用公元纪年，民国以后广泛采用公元纪年。 </P>
+
+<p style="TEXT-INDENT:2em">来源：<a title="天干地支的作用" style="color:#000;" href="http://114.xixik.com/chinese-era/"><strong>天干地支的作用</strong></a>：<a title="天干地支的作用" href="http://114.xixik.com/chinese-era/">http://114.xixik.com/chinese-era/</a></p>
+                </div>
+            </div>
+        </div>
+        
+        
+        <a name="anchor6"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        天干地支的起源</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                   
+                    <P style="TEXT-INDENT: 2em">在中国古代的历法中，甲、乙、丙、丁、戊、己、庚、辛、壬、癸被称为“十天干”，子、丑、寅、卯、辰、巳、午、未、申、酉、戌、亥叫作“十二地支”。两者按固定的顺序互相配合，组成了干支纪法。从殷墟出土的甲骨文来看，天干地支在我国古代主要用于纪日，此外还曾用来纪月、纪年、纪时等。那么，干支纪法的发明者究竟是谁呢？ </P>
+<P style="TEXT-INDENT: 2em">虽然有以下一些说法来考证干支的起源，但是究竟是谁发明？最早出现于何时？始终都是一个谜。 </P>
+<P style="TEXT-INDENT: 2em">大约在战国末年，依据各国史官长期积累下来的材料编成的史书《世本》说：“容成作历，大桡作甲子”，“二人皆黄帝之臣，盖自黄帝以来，始用甲子纪日，每六十日而甲子一周”。看来干支是大挠创制的，大挠“采五行之情，占斗机所建，始作甲乙以名日，谓之干；作子丑以名月，谓之枝，有事于天则用日，有事于地则用月，阴阳之别，故有枝干名也。” </P>
+<P style="TEXT-INDENT: 2em">郭沫若在《甲骨文字研究·释干支》中认为，以往人们对干支的解释，都是望文生义的臆测，“十天干”纯属十进位记数法的自然发生，其中多半是殷人所创制。至于“十二地支”，起源于古巴比伦，在比较中国古代的十二时辰和古巴比伦的十二宫后，指出中国古代的十二辰和十二地支，都是从古巴比伦的黄道十二宫演变而来。其传入中国的途径，可作大胆推测，也许商民族“本自西北远来，来时即挟有由巴比伦所传授之星历知识，入中土后而沿用之”，或许“商室本发源于东方，其星历知识乃由西来之商贾或牧民所输入”。 </P>
+<P style="TEXT-INDENT: 2em">一些学者从我国上古的夏代帝王世系和商代汤王以下所有帝王的名字中，探究十天干中的字已被用于名号这一特有现象。为驳干支外来说，陈遵妫在《中国天文学史》中指出，“在四千多年前的夏代，可能已有干支产生了”。郑文光在所著《中国天文学源流》一书中认为，十天干起源于我国古代伏羲和“生十日”的神话传说，是十进位法概念在纪时中的反映，应当产生于渔猎时代的原始社会；“十二地支”则由常羲“生月十有二”的神话传说演变而来，产生于殷商之前，后逐渐演变为十二辰。所以，郑文光推断：“十二支宜乎是夏人的创作。”杜石然等则在编著的《中国科学技术史稿》一书中，主张夏代已有十天干纪日法，商代在夏代天干纪日的基础上，进一步使用干支纪法，从而把十天干和十二地支配合在一起形成六十循环的纪日法。 </P>
+
+<p style="TEXT-INDENT:2em">来源：<a title="天干地支的起源" style="color:#000;" href="http://114.xixik.com/chinese-era/"><strong>天干地支的起源</strong></a>：<a title="天干地支的起源" href="http://114.xixik.com/chinese-era/">http://114.xixik.com/chinese-era/</a></p>
+                </div>
+            </div>
+        </div>
+        
+        
+        <a name="anchor7"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        十天干的含义</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                   
+                    <p style="TEXT-INDENT: 2em">
+	<strong>天干地支的含义</strong>，在《史记》、《汉书》中均有部分记载。</p>
+<p style="TEXT-INDENT: 2em">
+	<strong>天干的含义</strong></p>
+<p style="TEXT-INDENT: 2em">
+	甲是拆的意思，指万物剖符甲而出也。</p>
+<p style="TEXT-INDENT: 2em">
+	乙是轧的意思，指万物出生，抽轧而出。</p>
+<p style="TEXT-INDENT: 2em">
+	丙是炳的意思，指万物炳然著见。</p>
+<p style="TEXT-INDENT: 2em">
+	丁是强的意思，指万物丁壮。</p>
+<p style="TEXT-INDENT: 2em">
+	戊是茂的意思，指万物茂盛。</p>
+<p style="TEXT-INDENT: 2em">
+	己是纪的意思，指万物有形可纪识。</p>
+<p style="TEXT-INDENT: 2em">
+	庚是更的意思，指万物收敛有实。</p>
+<p style="TEXT-INDENT: 2em">
+	辛是新的意思，指万物初新皆收成。</p>
+<p style="TEXT-INDENT: 2em">
+	壬是任的意思，指阳气任养万物之下。</p>
+<p style="TEXT-INDENT: 2em">
+	癸是揆的意思，指万物可揆度。</p>
+<!--Contents of this file are Copyright 2006-2009, Xixik Inc. -->
+<p style="TEXT-INDENT: 2em">
+	由此可见，<a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十天干">十天干</a>与太阳出没有关，而太阳的循环往复周期，对万物产生着直接的影响。</p>
+<!--Contents of this file are Copyright 2006-2009, Xixik Inc. --><!--Contents of this file are Copyright 2006-2009, Xixik Inc. -->
+<p style="TEXT-INDENT:2em">来源：<a title="十天干的含义" style="color:#000;" href="http://114.xixik.com/chinese-era/"><strong>十天干的含义</strong></a>：<a title="十天干的含义" href="http://114.xixik.com/chinese-era/">http://114.xixik.com/chinese-era/</a></p>
+                </div>
+            </div>
+        </div>
+        
+        
+        <a name="anchor8"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        十二地支的含义</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                   
+                    <!--Contents of this file are Copyright 2006-2009, Xixik Inc. -->
+<p style="TEXT-INDENT: 2em">
+	<strong style="text-indent: 2em;"><a style="color:#000" title="十二地支" href="http://114.xixik.com/chinese-era/">十二地支</a>含义</strong></p>
+<p style="TEXT-INDENT: 2em">
+	子是兹的意思，指万物兹萌于既动之阳气下。</p>
+<p style="TEXT-INDENT: 2em">
+	丑是纽，阳气在上未降。</p>
+<p style="TEXT-INDENT: 2em">
+	寅是移，引的意思，指万物始生寅然也。</p>
+<p style="TEXT-INDENT: 2em">
+	卯是茂，言万物茂也。</p>
+<p style="TEXT-INDENT: 2em">
+	辰是震的意思，物经震动而长。</p>
+<p style="TEXT-INDENT: 2em">
+	巳是起，指阳气之盛。</p>
+<p style="TEXT-INDENT: 2em">
+	午是仵的意思，指万物盛大枝柯密布。</p>
+<p style="TEXT-INDENT: 2em">
+	未是味，万物皆成有滋味也。</p>
+<p style="TEXT-INDENT: 2em">
+	申是身的意思，指万物的身体都已成就。</p>
+<p style="TEXT-INDENT: 2em">
+	酉是老的意思，万物之老也。</p>
+<p style="TEXT-INDENT: 2em">
+	戌是灭的意思，万物尽灭。</p>
+<p style="TEXT-INDENT: 2em">
+	亥是核的意思，万物收藏。</p>
+
+<p style="TEXT-INDENT:2em">来源：<a title="十二地支的含义" style="color:#000;" href="http://114.xixik.com/chinese-era/"><strong>十二地支的含义</strong></a>：<a title="十二地支的含义" href="http://114.xixik.com/chinese-era/">http://114.xixik.com/chinese-era/</a></p>
+                </div>
+            </div>
+        </div>
+        
+        
+        <a name="anchor9"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        甲子纳音的含义</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                   
+                    <p style="TEXT-INDENT: 2em">
+	十天干与十二地支按顺序两两相配，从甲子到癸亥，共六十个组合，称六十甲子。又每两组配一纳音五行，到底是什么意思，至今仍是一个谜。</p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<td>
+				甲子 乙丑 海中金</td>
+			<td>
+				丙寅 丁卯 炉中火</td>
+			<td>
+				戊辰 已巳 大林木</td>
+		</tr>
+		<tr>
+			<td>
+				庚午 辛未 路旁土</td>
+			<td>
+				壬申 癸酉 剑锋金</td>
+			<td>
+				甲戌 乙亥 山头火</td>
+		</tr>
+		<tr>
+			<td>
+				丙子 丁丑 漳下水</td>
+			<td>
+				戊寅 已卯 城头土</td>
+			<td>
+				庚辰 辛巳 白腊金</td>
+		</tr>
+		<tr>
+			<td>
+				壬午 癸未 杨柳木</td>
+			<td>
+				甲申 乙酉 泉中水</td>
+			<td>
+				丙戌 丁亥 屋上土</td>
+		</tr>
+		<tr>
+			<td>
+				戊子 已丑 霹雳火</td>
+			<td>
+				庚寅 辛卯 松柏木</td>
+			<td>
+				壬辰 癸巳 长流水</td>
+		</tr>
+		<tr>
+			<td>
+				甲午 乙未 砂石金</td>
+			<td>
+				丙申 丁酉 山下火</td>
+			<td>
+				戊戌 已亥 平地木</td>
+		</tr>
+		<tr>
+			<td>
+				庚子 辛丑 壁上土</td>
+			<td>
+				壬寅 癸卯 金箔金</td>
+			<td>
+				甲辰 乙巳 覆灯火</td>
+		</tr>
+		<tr>
+			<td>
+				丙午 丁未 天河水</td>
+			<td>
+				戊申 已酉 大驿土</td>
+			<td>
+				庚戌 辛亥 钗钏金</td>
+		</tr>
+		<tr>
+			<td>
+				壬子 癸丑 桑柘木</td>
+			<td>
+				甲寅 乙卯 太溪水</td>
+			<td>
+				丙辰 丁巳 沙中土</td>
+		</tr>
+		<tr>
+			<td>
+				戊午 已未 天上火</td>
+			<td>
+				庚申 辛酉 石榴木</td>
+			<td>
+				壬戌 癸亥 大海水</td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT: 2em">
+	甲子、乙丑，配海中金；</p>
+<p style="TEXT-INDENT: 2em">
+	丙寅、丁卯，配炉中火；</p>
+<p style="TEXT-INDENT: 2em">
+	戊辰、己巳，配大林木；</p>
+<p style="TEXT-INDENT: 2em">
+	庚午、辛未，配路旁土；</p>
+<p style="TEXT-INDENT: 2em">
+	壬申、癸酉，配剑锋金；</p>
+<p style="TEXT-INDENT: 2em">
+	甲戌、乙亥，配山头火；</p>
+<p style="TEXT-INDENT: 2em">
+	丙子、丁丑，配洞下水；</p>
+<p style="TEXT-INDENT: 2em">
+	戊寅、己卯，配城墙土；</p>
+<p style="TEXT-INDENT: 2em">
+	庚辰、辛巳，配白腊金；</p>
+<p style="TEXT-INDENT: 2em">
+	壬午、癸未，配杨柳木；</p>
+<p style="TEXT-INDENT: 2em">
+	甲申、乙酉，配泉中水；</p>
+<p style="TEXT-INDENT: 2em">
+	丙戌、丁亥，配屋上土；</p>
+<p style="TEXT-INDENT: 2em">
+	戊子、己丑，配霹雷火；</p>
+<p style="TEXT-INDENT: 2em">
+	庚寅、辛卯，配松柏木；</p>
+<p style="TEXT-INDENT: 2em">
+	壬辰、癸巳，配常流水；</p>
+<p style="TEXT-INDENT: 2em">
+	甲午、乙未，配沙中金；</p>
+<p style="TEXT-INDENT: 2em">
+	丙申、丁酉，配山下火；</p>
+<p style="TEXT-INDENT: 2em">
+	戊戌、己亥，配平地木；</p>
+<p style="TEXT-INDENT: 2em">
+	庚子、辛丑，配壁上土；</p>
+<p style="TEXT-INDENT: 2em">
+	壬寅、癸卯，配金箔金；</p>
+<p style="TEXT-INDENT: 2em">
+	甲辰、乙巳，配佛灯火；</p>
+<p style="TEXT-INDENT: 2em">
+	丙午、丁未，配天河水；</p>
+<p style="TEXT-INDENT: 2em">
+	戊申、己酉，配大驿土；</p>
+<p style="TEXT-INDENT: 2em">
+	庚戌、辛亥，配钗钏金；</p>
+<p style="TEXT-INDENT: 2em">
+	壬子、癸丑，配桑松木；</p>
+<p style="TEXT-INDENT: 2em">
+	甲寅、乙卯，配大溪水；</p>
+<p style="TEXT-INDENT: 2em">
+	丙辰、丁巳，配沙中土；</p>
+<p style="TEXT-INDENT: 2em">
+	戊午、己未，配天上火；</p>
+<p style="TEXT-INDENT: 2em">
+	庚申、辛酉，配石榴木；</p>
+<p style="TEXT-INDENT: 2em">
+	壬戌、癸亥，配大海水。</p>
+<p style="text-indent: 2em; text-align: center;">
+	<img  src="http://img.xixik.net/custom/section/chinese-era/xixik-f802c26a9bb98c4f.jpg" style="width: 90%; max-width: 700px;" /></p>
+<p style="TEXT-INDENT: 2em">
+	以下摘录《三命通会》之“论纳音取象”，以体味其义：</p>
+<p style="TEXT-INDENT: 2em">
+	昔者，黄帝将甲子分轻重而配成六十，号曰花甲子，其花字诚为奥妙，圣人借意而喻之，不可着意执泥。</p>
+<p style="TEXT-INDENT: 2em">
+	夫自子至亥十二宫，各有金、木、水、火、土之属，始起于子为一阳，终于亥为六阴，其五行所属金、木、水、火、土，在天为五星，于地为五岳，于德为五常，于人为五脏，其于命也为五行。是故甲子之属乃应之于命，命则一世之事。故甲子纳音象，圣人喻之，亦如人一世之事也。何言乎？</p>
+<p style="TEXT-INDENT: 2em">
+	子丑二位，阴阳始孕，人在胞胎，物藏其根，未有涯际；寅卯二位，阴阳渐开，人渐生长，物以拆甲，群葩渐剖，如人将有立身也；辰巳二位，阴阳气盛，物当华秀，如人三十、四十而有立身之地，始有进取之象；午未二位，阴阳彰露，物已成奇，人至五十、六十，富贵贫贱可知，凡百兴衰可见；申酉二位，阴阳肃杀，物已收成，人已龟缩，各得其静矣；戌亥二位，阴阳闭塞，物气归根，人当休息，各有归着。详此十有二位先后，六十甲子可以次第而晓。</p>
+<p style="TEXT-INDENT: 2em">
+	甲子乙丑何以取象为海中之金？盖气在包藏，有名无形，犹人之在母腹也；壬寅癸卯绝地存金，气尚柔弱，薄若缯缟，故曰金泊金。庚辰辛巳以金居火土之地，气已发生，金尚在矿，寄形生养之乡，受西方之正色，乃曰白蜡金；甲午乙未之气已成，物质自坚实，混于沙而别于沙，居于火而炼于火，乃曰沙中金也，壬申癸酉气盛物极，当施收敛之功，颖脱锋锐之刃。盖申酉金之正位，干值壬癸，金水淬砺，故取象剑锋而金之功用极矣；至戌亥则金气藏伏，形体已残，锻炼首饰，已成其状，藏之闺阁，无所施为，而金之功用毕，故曰庚戌辛亥钗钏金。</p>
+<p style="TEXT-INDENT: 2em">
+	壬子癸丑何以取象桑柘木？盖气居盘屈，形状未伸，居于水地，蚕衰之月，桑柘受气，取其时之生也；庚寅辛丑则气已乘阳，得栽培之势力其为状也，奈居金下，凡金与霜素坚，木居下得其旺，岁寒后凋，取其性之坚也，故曰松柏木，戊辰己巳则气不成量，物已及时，枝叶茂盛，郁然成林，取其木之盛也，故曰大林木；壬午癸未，木至午而死，至未而墓，故杨柳盛夏叶凋，枝干微弱，取其性之柔也；故曰杨柳木；庚申辛酉，五行属金而纳音属木，以相克取之。盖木性辛者，唯石榴木；申酉气归静肃，物渐成实，木居金地，其味成辛，故曰石榴木；观它木至午而死，惟此木至午而旺，取其性之偏也；戊戌己亥，气归藏伏，阴阳闭塞，木气归根，伏乎土中，故曰平地木也。</p>
+<p style="TEXT-INDENT: 2em">
+	丙子丁丑何以取象涧下水？盖气未通济，高段非水流之所，卑湿乃水就之乡，由地中行，故曰涧下水；甲寅乙卯，气出阳明，水势恃源，东流滔注，其势浸大，故曰大溪水；壬辰癸巳，势极东南，气傍离宫，火明势盛，水得归库，盈科后进，乃曰长流水也；丙午丁未，气当升降，在高明火位，有水沛然作霖，以济火中之水，惟天上乃有，故曰天河水；甲申乙酉，气息安静，子母同位，出而不穷，汲而不竭，乃曰井泉水；壬戌癸亥，天门之地，气归闭塞，水力遍而不趋，势归乎宁谧之位，来之不穷，纳之不溢，乃曰大海水也。</p>
+<p style="TEXT-INDENT: 2em">
+	戊子己丑何以取象霹雳火？盖气在一阳，形居水位，水中之火，非神龙则无，故曰霹雳火；丙寅丁卯，气渐发辉，因薪而显，阴阳为治，天地为炉，乃曰炉中火也；甲辰乙巳，气形盛地，势定高冈，传明继晦，子母相承，乃曰覆灯火也；戊午己未，气过阳宫，重离相会，丙灵交光，发辉炎上，乃曰天上火也；丙申丁酉，气息形藏，势力韬光，龟缩兑位，力微体弱，明不及远，乃曰山下火也；甲戌乙亥谓之山头火者，山乃藏形，头乃投光，内明外暗，隐而不显，飞光投乾，归于休息之中，故曰山头火也，庚子辛丑何以取象壁上土？气居闭塞，物尚包藏，掩形遮体，内外不交，故曰壁上土；戊寅己卯，气能成物，功以育物，发乎根茎，壮乎萼蕊，乃曰城头土；丙辰丁巳，气以承阳，发生已过，成其未来，乃曰沙中土也；庚午辛未，气当成形，物以路彰，有形可质，有物可彰，乃曰路傍土也，戊申己酉，气已归息，物当收敛，龟缩退闲，美而无事，乃曰大驿土也；丙戌丁亥，气成物府，事以美圆，阴阳历遍，势得期间，乃曰屋上土也。</p>
+<p style="TEXT-INDENT: 2em">
+	余见路旁之土，播殖百谷，午未之地，其盛长养之时乎？大驿之土通达四方，申酉之地，其得朋利亨之理乎？城头之土取堤防之功，五公恃之，立国而为民也，壁上之土明粉饰之用，臣庶资之，爰居而爰处也；沙中之土，土之最润者也，土润则生，故成其未来而有用；屋上之土，土之成功者也，成功者静，故止一定而不迁。盖居五行之中，行负载之令，主养育之权，三才五行皆不可失，处高下而得位，居四季而有功，金得之锋锐雄刚，火得之光明照耀，木得之英华越秀，水得之滥波不泛，土得之稼穑愈丰。聚之不散，必能为山，山者，高也；散之不聚，必能为地，地者，原也。用之无穷，生之罔极，土之功用大矣哉！</p>
+<p style="TEXT-INDENT: 2em">
+	五行取象，皆以对待而分阴阳，即始终而变化。如甲子乙丑对甲午乙未，海中沙中，水土之辨，刚柔之别也；庚申辛已对庚戌辛亥，白蜡钗钏，乾巽异方，形色各尽也；壬子癸酉对壬午癸未，桑柘杨柳，一曲一柔，形质多别也；庚寅辛卯对庚申辛酉，松柏石榴，一坚一辛，性味迥异也；戊辰己巳对戊戌己亥，大林平地，一盛一衰，巽乾殊方也；戊子己丑对戊午己未，霹雳天上，雷霆挥鞭，日明同照也；丙寅丁卯对丙申丁酉，炉中山下，火盛木焚，金旺火灭也；甲辰乙巳对甲戌乙亥，覆灯山头，含光畏风，投光止艮也；庚子辛丑对庚午辛未，壁上路旁，形分聚散，类别死生也；戊寅己卯对戊申己酉，城头大驿，东南西北，坤艮正位也；丙辰丁巳对丙戌丁亥，沙中屋上，干湿互用，变化始终也。圆看方看，不外旺相死休；因近取远，莫逃金木水火土。以干支而分配五行，论阴阳而大明始终。天成人力相兼，生旺死绝并类。</p>
+<p style="TEXT-INDENT: 2em">
+	呜呼! 六十甲子圣人不过借其象以明其理，而五行性情，材质，形色，功用无不曲尽而造化无余蕴矣。</p>
+
+<p style="TEXT-INDENT:2em">来源：<a title="甲子纳音的含义" style="color:#000;" href="http://114.xixik.com/chinese-era/"><strong>甲子纳音的含义</strong></a>：<a title="甲子纳音的含义" href="http://114.xixik.com/chinese-era/">http://114.xixik.com/chinese-era/</a></p>
+                </div>
+            </div>
+        </div>
+        
+        
+        <a name="anchor10"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        干支纪年法</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                   
+                    <!--Contents of this file are Copyright 2006-2009, Xixik Inc. -->
+<p style="TEXT-INDENT: 2em">
+	如甲子为第一年，乙丑为第二年，丙寅为第三年……六十年为一周。一周完了，再由甲子年起，周而始，循环下去。例如1929年是农历己巳年，1930年是农历庚午年……到1989年又是农历己巳年。我们在日历上看到的己巳年、庚午年，就是按干支纪年这种方法排列下来的。阳历年份除以60的余数减3便得该年农历干支序号数，再查上面的干支便是干支年纪。如果序号数小于、等于零则于支序号数加60。例如，求1991年干支；1991÷60=33余11，年干支序号数=11-3=8。查干支表知该年为辛未年。又如求1983年干支：1983÷60=33余3，干支序号=3-3=0，加上60，查干支表知该年为癸亥。</p>
+<!--Contents of this file are Copyright 2006-2009, Xixik Inc. -->
+<p style="TEXT-INDENT:2em">来源：<a title="干支纪年法" style="color:#000;" href="http://114.xixik.com/chinese-era/"><strong>干支纪年法</strong></a>：<a title="干支纪年法" href="http://114.xixik.com/chinese-era/">http://114.xixik.com/chinese-era/</a></p>
+                </div>
+            </div>
+        </div>
+        
+        
+        <a name="anchor11"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        干支纪月法</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                   
+                    <p style="TEXT-INDENT:2em">
+	干支纪月是指在干支历中用干支记录月序。部分书籍只用地支纪月，每月固定用<a style="color:#000" title="十二地支" href="http://114.xixik.com/chinese-era/">十二地支</a>表示。把<a style="color:#000" title="冬至" href="http://114.xixik.com/24jieqi/dongzhi/">冬至</a>所在之月称为&ldquo;子月&rdquo;（大概是农历十一月），下一个月称为&ldquo;丑月&rdquo;（大概是农历十二月），以此类推。故古历中的《夏历》以&ldquo;寅月&rdquo;为正月，又称建寅之月或建寅正月等。</p>
+<p style="TEXT-INDENT:2em">
+	干支纪月法未普遍实行，主要为星相家推算八字用。其方法为：若遇甲或己的年份，正月是丙寅；遇上乙或庚之年，正月为戊寅；丙或辛之年正月为庚寅，丁或壬之年正为为壬寅，戊或癸之年正月为甲寅。正月之干支知道了，其余月可按六十甲子的序推知。</p>
+<p style="TEXT-INDENT:2em">
+	干支纪月以<a style="color:#000" title="二十四节气" href="http://114.xixik.com/24-solar-terms/">二十四节气</a>的主气作为分界点。</p>
+<p style="TEXT-INDENT:2em">
+	干支纪月除了月建（月支）之外，月干在研究<a style="color:#000" title="中国历史" href="http://114.xixik.com/chinese-dynasties/">中国历史</a>时并不普遍，而较常在计算八字时使用。月建于春秋时期即已可见。&ldquo;以子建月&rdquo;即以日南至的十一月为一年的开始。可能到了<a style="color:#000" title="唐代" href="http://114.xixik.com/chaodai/tang/">唐代</a>才配上天干。闰月之月建同本月。</p>
+<p style="TEXT-INDENT:2em">
+	此外由于各帝王可能采用不同历法，因此干支纪月亦不见得准确。例如<a style="color:#000" title="三国" href="http://114.xixik.com/chaodai/sanguo/">三国</a>时期，由于景初历的使用，可能出现在不同国家，却在不同日换月分的情况；一国是初一，另一国是前一个月的月末，此时月干支即不同。</p>
+<p style="TEXT-INDENT:2em">
+	计算八字时使用的干支历，与史书、传统历法（包括农历）或使用太阴历的紫微斗数有所不同。传统历法以月亮的盈亏周期作为一月，而八字计算则以<a style="color:#000" title="二十四节气" href="http://114.xixik.com/24-solar-terms/">二十四节气</a>其中的十二节气（非中气）所在时刻（非以日首）分月，并赋以地支之名，如<a style="color:#000" title="大雪" href="http://114.xixik.com/24jieqi/daxue/">大雪</a><a style="color:#000" title="小寒" href="http://114.xixik.com/24jieqi/xiaohan/">小寒</a>之间为子月，<a style="color:#000" title="小寒" href="http://114.xixik.com/24jieqi/xiaohan/">小寒</a>到<a style="color:#000" title="立春" href="http://114.xixik.com/24jieqi/lichun/">立春</a>为丑月。因此八字计算过了当月节气发生之时刻才换月干支，可能产生月中与日中换干支的情况。</p>
+<p style="TEXT-INDENT:2em">
+	计算八字时使用的干支历每五年一循环，每月的天干由该月支所在年的天干决定。例如：若某年的子月所在之年为甲子年，则该子月为丙子月，紧接着其后的丑月是丁丑月。</p>
+<p style="TEXT-INDENT:2em">
+	具体的推算如下表：</p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: left; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<th>
+				月地支</th>
+			<th>
+				节气段</th>
+			<th>
+				中气</th>
+			<th>
+				近似农历月份</th>
+			<th>
+				近似公历月份</th>
+			<th>
+				甲或己年</th>
+			<th>
+				乙或庚年</th>
+			<th>
+				丙或辛年</th>
+			<th>
+				丁或壬年</th>
+			<th>
+				戊或癸年</th>
+		</tr>
+		<tr>
+			<td>
+				寅月</td>
+			<td>
+				<a style="color:#000" title="立春" href="http://114.xixik.com/24jieqi/lichun/">立春</a>至<a style="color:#000" title="惊蛰" href="http://114.xixik.com/24jieqi/jingzhe/">惊蛰</a>前一日</td>
+			<td>
+				<a style="color:#000" title="雨水" href="http://114.xixik.com/24jieqi/yushui/">雨水</a></td>
+			<td>
+				正月</td>
+			<td>
+				2月</td>
+			<td>
+				丙寅月</td>
+			<td>
+				戊寅月</td>
+			<td>
+				庚寅月</td>
+			<td>
+				壬寅月</td>
+			<td>
+				甲寅月</td>
+		</tr>
+		<tr>
+			<td>
+				卯月</td>
+			<td>
+				<a style="color:#000" title="惊蛰" href="http://114.xixik.com/24jieqi/jingzhe/">惊蛰</a>至<a style="color:#000" title="清明" href="http://114.xixik.com/24jieqi/qingming/">清明</a>前一日</td>
+			<td>
+				<a style="color:#000" title="春分" href="http://114.xixik.com/24jieqi/chunfen/">春分</a></td>
+			<td>
+				二月</td>
+			<td>
+				3月</td>
+			<td>
+				丁卯月</td>
+			<td>
+				己卯月</td>
+			<td>
+				辛卯月</td>
+			<td>
+				癸卯月</td>
+			<td>
+				乙卯月</td>
+		</tr>
+		<tr>
+			<td>
+				辰月</td>
+			<td>
+				<a style="color:#000" title="清明" href="http://114.xixik.com/24jieqi/qingming/">清明</a>至<a style="color:#000" title="立夏" href="http://114.xixik.com/24jieqi/lixia/">立夏</a>前一日</td>
+			<td>
+				<a style="color:#000" title="谷雨" href="http://114.xixik.com/24jieqi/guyu/">谷雨</a></td>
+			<td>
+				三月</td>
+			<td>
+				4月</td>
+			<td>
+				戊辰月</td>
+			<td>
+				庚辰月</td>
+			<td>
+				壬辰月</td>
+			<td>
+				甲辰月</td>
+			<td>
+				丙辰月</td>
+		</tr>
+		<tr>
+			<td>
+				巳月</td>
+			<td>
+				<a style="color:#000" title="立夏" href="http://114.xixik.com/24jieqi/lixia/">立夏</a>至<a style="color:#000" title="芒种" href="http://114.xixik.com/24jieqi/mangzhong/">芒种</a>前一日</td>
+			<td>
+				<a style="color:#000" title="小满" href="http://114.xixik.com/24jieqi/xiaoman/">小满</a></td>
+			<td>
+				四月</td>
+			<td>
+				5月</td>
+			<td>
+				己巳月</td>
+			<td>
+				辛巳月</td>
+			<td>
+				癸巳月</td>
+			<td>
+				乙巳月</td>
+			<td>
+				丁巳月</td>
+		</tr>
+		<tr>
+			<td>
+				午月</td>
+			<td>
+				<a style="color:#000" title="芒种" href="http://114.xixik.com/24jieqi/mangzhong/">芒种</a>至<a style="color:#000" title="小暑" href="http://114.xixik.com/24jieqi/xiaoshu/">小暑</a>前一日</td>
+			<td>
+				<a style="color:#000" title="夏至" href="http://114.xixik.com/24jieqi/xiazhi/">夏至</a></td>
+			<td>
+				五月</td>
+			<td>
+				6月</td>
+			<td>
+				庚午月</td>
+			<td>
+				壬午月</td>
+			<td>
+				甲午月</td>
+			<td>
+				丙午月</td>
+			<td>
+				戊午月</td>
+		</tr>
+		<tr>
+			<td>
+				未月</td>
+			<td>
+				<a style="color:#000" title="小暑" href="http://114.xixik.com/24jieqi/xiaoshu/">小暑</a>至<a style="color:#000" title="立秋" href="http://114.xixik.com/24jieqi/liqiu/">立秋</a>前一日</td>
+			<td>
+				<a style="color:#000" title="大暑" href="http://114.xixik.com/24jieqi/dashu/">大暑</a></td>
+			<td>
+				六月</td>
+			<td>
+				7月</td>
+			<td>
+				辛未月</td>
+			<td>
+				癸未月</td>
+			<td>
+				乙未月</td>
+			<td>
+				丁未月</td>
+			<td>
+				己未月</td>
+		</tr>
+		<tr>
+			<td>
+				申月</td>
+			<td>
+				<a style="color:#000" title="立秋" href="http://114.xixik.com/24jieqi/liqiu/">立秋</a>至<a style="color:#000" title="白露" href="http://114.xixik.com/24jieqi/bailu/">白露</a>前一日</td>
+			<td>
+				<a style="color:#000" title="处暑" href="http://114.xixik.com/24jieqi/chushu/">处暑</a></td>
+			<td>
+				七月</td>
+			<td>
+				8月</td>
+			<td>
+				壬申月</td>
+			<td>
+				甲申月</td>
+			<td>
+				丙申月</td>
+			<td>
+				戊申月</td>
+			<td>
+				庚申月</td>
+		</tr>
+		<tr>
+			<td>
+				酉月</td>
+			<td>
+				<a style="color:#000" title="白露" href="http://114.xixik.com/24jieqi/bailu/">白露</a>至<a style="color:#000" title="寒露" href="http://114.xixik.com/24jieqi/hanlu/">寒露</a>前一日</td>
+			<td>
+				<a style="color:#000" title="秋分" href="http://114.xixik.com/24jieqi/qiufen/">秋分</a></td>
+			<td>
+				八月</td>
+			<td>
+				9月</td>
+			<td>
+				癸酉月</td>
+			<td>
+				乙酉月</td>
+			<td>
+				丁酉月</td>
+			<td>
+				己酉月</td>
+			<td>
+				辛酉月</td>
+		</tr>
+		<tr>
+			<td>
+				戌月</td>
+			<td>
+				<a style="color:#000" title="寒露" href="http://114.xixik.com/24jieqi/hanlu/">寒露</a>至<a style="color:#000" title="立冬" href="http://114.xixik.com/24jieqi/lidong/">立冬</a>前一日</td>
+			<td>
+				<a style="color:#000" title="霜降" href="http://114.xixik.com/24jieqi/shuangjiang/">霜降</a></td>
+			<td>
+				九月</td>
+			<td>
+				10月</td>
+			<td>
+				甲戌月</td>
+			<td>
+				丙戌月</td>
+			<td>
+				戊戌月</td>
+			<td>
+				庚戌月</td>
+			<td>
+				壬戌月</td>
+		</tr>
+		<tr>
+			<td>
+				亥月</td>
+			<td>
+				<a style="color:#000" title="立冬" href="http://114.xixik.com/24jieqi/lidong/">立冬</a>至<a style="color:#000" title="大雪" href="http://114.xixik.com/24jieqi/daxue/">大雪</a>前一日</td>
+			<td>
+				<a style="color:#000" title="小雪" href="http://114.xixik.com/24jieqi/xiaoxue/">小雪</a></td>
+			<td>
+				十月</td>
+			<td>
+				11月</td>
+			<td>
+				乙亥月</td>
+			<td>
+				丁亥月</td>
+			<td>
+				己亥月</td>
+			<td>
+				辛亥月</td>
+			<td>
+				癸亥月</td>
+		</tr>
+		<tr>
+			<td>
+				子月</td>
+			<td>
+				<a style="color:#000" title="大雪" href="http://114.xixik.com/24jieqi/daxue/">大雪</a>至<a style="color:#000" title="小寒" href="http://114.xixik.com/24jieqi/xiaohan/">小寒</a>前一日</td>
+			<td>
+				<a style="color:#000" title="冬至" href="http://114.xixik.com/24jieqi/dongzhi/">冬至</a></td>
+			<td>
+				十一月</td>
+			<td>
+				12月</td>
+			<td>
+				丙子月</td>
+			<td>
+				戊子月</td>
+			<td>
+				庚子月</td>
+			<td>
+				壬子月</td>
+			<td>
+				甲子月</td>
+		</tr>
+		<tr>
+			<td>
+				丑月</td>
+			<td>
+				<a style="color:#000" title="小寒" href="http://114.xixik.com/24jieqi/xiaohan/">小寒</a>至<a style="color:#000" title="立春" href="http://114.xixik.com/24jieqi/lichun/">立春</a>前一日</td>
+			<td>
+				<a style="color:#000" title="大寒" href="http://114.xixik.com/24jieqi/dahan/">大寒</a></td>
+			<td>
+				十二月</td>
+			<td>
+				1月</td>
+			<td>
+				丁丑月</td>
+			<td>
+				己丑月</td>
+			<td>
+				辛丑月</td>
+			<td>
+				癸丑月</td>
+			<td>
+				乙丑月</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&nbsp;</p>
+
+<p style="TEXT-INDENT:2em">来源：<a title="干支纪月法" style="color:#000;" href="http://114.xixik.com/chinese-era/"><strong>干支纪月法</strong></a>：<a title="干支纪月法" href="http://114.xixik.com/chinese-era/">http://114.xixik.com/chinese-era/</a></p>
+                </div>
+            </div>
+        </div>
+        
+        
+        <a name="anchor12"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        干支纪日法</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                   
+                    <!--Contents of this file are Copyright 2006-2009, Xixik Inc. -->
+<P style="TEXT-INDENT: 2em">甲炎了第一日，乙丑为第二日，丙寅为第三日……60日为一周。一周完了再由甲子日起，周而复始，循环下去。例如农历己巳年（1989年）正月初一是丁酉日，初二是戊戌日……到三月初七正好是60天，因此三月初二又是丁酉日。 </P>
+<!--Contents of this file are Copyright 2006-2009, Xixik Inc. -->
+
+<p style="TEXT-INDENT:2em">来源：<a title="干支纪日法" style="color:#000;" href="http://114.xixik.com/chinese-era/"><strong>干支纪日法</strong></a>：<a title="干支纪日法" href="http://114.xixik.com/chinese-era/">http://114.xixik.com/chinese-era/</a></p>
+                </div>
+            </div>
+        </div>
+        
+        
+        <a name="anchor13"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        干支纪时法</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                   
+                    <!--Contents of this file are Copyright 2006-2009, Xixik Inc. -->
+<p style="TEXT-INDENT: 2em">
+	一天中时辰的地支也是确定的，所以二十四小时配十二地支，由夜间十一点至一点为子时，一点至三点为丑时，其余照推。时的天由该日所对天干推求，其歌戾如下：</p>
+<p style="TEXT-INDENT: 2em">
+	甲己还生甲，乙庚丙作初，</p>
+<p style="TEXT-INDENT: 2em">
+	丙辛从戊起，丁壬庚子居，</p>
+<p style="TEXT-INDENT: 2em">
+	戊癸何方发，壬子是真途。</p>
+<p style="TEXT-INDENT: 2em">
+	即若该日是甲或己的，在子时上配上甲为甲子；日是乙或庚的，在子时上配上丙为丙子；丙辛日子时配上戊为戊子；丁任日为庚子；戊癸日为壬子。知道了子时的干支，便可推知其余。</p>
+<p style="TEXT-INDENT: 2em">
+	以12时辰为1日之纪时法，在周髀算经已有雏型。干支纪时法则源起年代未明。《史记点历书》以十二支纪时，可能到了唐代才将十二支配上十干。</p>
+<p style="TEXT-INDENT: 2em">
+	以干支纪时，60时辰合5日一个周期；一个周期完了重复使用，周而复始，循环下去。日上起时亦有歌诀。下表列出日天干和时辰地支构成的时辰干支，以UTC+8为准：</p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<th>
+				时辰地支</th>
+			<th>
+				UTC+8</th>
+			<th>
+				甲或己日</th>
+			<th>
+				乙或庚日</th>
+			<th>
+				丙或辛日</th>
+			<th>
+				丁或壬日</th>
+			<th>
+				戊或癸日</th>
+		</tr>
+		<tr>
+			<td>
+				子时</td>
+			<td>
+				23时至1时</td>
+			<td>
+				甲子时</td>
+			<td>
+				丙子时</td>
+			<td>
+				戊子时</td>
+			<td>
+				庚子时</td>
+			<td>
+				壬子时</td>
+		</tr>
+		<tr>
+			<td>
+				丑时</td>
+			<td>
+				1时至3时</td>
+			<td>
+				乙丑时</td>
+			<td>
+				丁丑时</td>
+			<td>
+				己丑时</td>
+			<td>
+				辛丑时</td>
+			<td>
+				癸丑时</td>
+		</tr>
+		<tr>
+			<td>
+				寅时</td>
+			<td>
+				3时至5时</td>
+			<td>
+				丙寅时</td>
+			<td>
+				戊寅时</td>
+			<td>
+				庚寅时</td>
+			<td>
+				壬寅时</td>
+			<td>
+				甲寅时</td>
+		</tr>
+		<tr>
+			<td>
+				卯时</td>
+			<td>
+				5时至7时</td>
+			<td>
+				丁卯时</td>
+			<td>
+				己卯时</td>
+			<td>
+				辛卯时</td>
+			<td>
+				癸卯时</td>
+			<td>
+				乙卯时</td>
+		</tr>
+		<tr>
+			<td>
+				辰时</td>
+			<td>
+				7时至9时</td>
+			<td>
+				戊辰时</td>
+			<td>
+				庚辰时</td>
+			<td>
+				壬辰时</td>
+			<td>
+				甲辰时</td>
+			<td>
+				丙辰时</td>
+		</tr>
+		<tr>
+			<td>
+				巳时</td>
+			<td>
+				9时至11时</td>
+			<td>
+				己巳时</td>
+			<td>
+				辛巳时</td>
+			<td>
+				癸巳时</td>
+			<td>
+				乙巳时</td>
+			<td>
+				丁巳时</td>
+		</tr>
+		<tr>
+			<td>
+				午时</td>
+			<td>
+				11时至13时</td>
+			<td>
+				庚午时</td>
+			<td>
+				壬午时</td>
+			<td>
+				甲午时</td>
+			<td>
+				丙午时</td>
+			<td>
+				戊午时</td>
+		</tr>
+		<tr>
+			<td>
+				未时</td>
+			<td>
+				13时至15时</td>
+			<td>
+				辛未时</td>
+			<td>
+				癸未时</td>
+			<td>
+				乙未时</td>
+			<td>
+				丁未时</td>
+			<td>
+				己未时</td>
+		</tr>
+		<tr>
+			<td>
+				申时</td>
+			<td>
+				15时至17时</td>
+			<td>
+				壬申时</td>
+			<td>
+				甲申时</td>
+			<td>
+				丙申时</td>
+			<td>
+				戊申时</td>
+			<td>
+				庚申时</td>
+		</tr>
+		<tr>
+			<td>
+				酉时</td>
+			<td>
+				17时至19时</td>
+			<td>
+				癸酉时</td>
+			<td>
+				乙酉时</td>
+			<td>
+				丁酉时</td>
+			<td>
+				己酉时</td>
+			<td>
+				辛酉时</td>
+		</tr>
+		<tr>
+			<td>
+				戌时</td>
+			<td>
+				19时至21时</td>
+			<td>
+				甲戌时</td>
+			<td>
+				丙戌时</td>
+			<td>
+				戊戌时</td>
+			<td>
+				庚戌时</td>
+			<td>
+				壬戌时</td>
+		</tr>
+		<tr>
+			<td>
+				亥时</td>
+			<td>
+				21时至23时</td>
+			<td>
+				乙亥时</td>
+			<td>
+				丁亥时</td>
+			<td>
+				己亥时</td>
+			<td>
+				辛亥时</td>
+			<td>
+				癸亥时</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	<a href="http://114.xixik.com/chinese-era/">天干地支对照表</a>：http://114.xixik.com/chinese-era/</p>
+
+<p style="TEXT-INDENT:2em">来源：<a title="干支纪时法" style="color:#000;" href="http://114.xixik.com/chinese-era/"><strong>干支纪时法</strong></a>：<a title="干支纪时法" href="http://114.xixik.com/chinese-era/">http://114.xixik.com/chinese-era/</a></p>
+                </div>
+            </div>
+        </div>
+        
+        
+        <a name="anchor14"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        天干地支英文译法</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                   
+                    <!--Contents of this file are Copyright 2006-2009, Xixik Inc. -->
+<P style="TEXT-INDENT: 2em"><STRONG>天干：Heavenly Stems（H-S） </STRONG></P>
+<P style="TEXT-INDENT: 2em">简写形式 全称注释 </P>
+<P style="TEXT-INDENT: 2em">甲：1H （the first of the ten Heavenly Stems.） </P>
+<P style="TEXT-INDENT: 2em">乙：2H （the 2nd of the ten Heavenly Stems.） </P>
+<P style="TEXT-INDENT: 2em">丙：3H （the 3rd of the ten Heavenly Stems.） </P>
+<P style="TEXT-INDENT: 2em">丁：4H （the 4th of the ten Heavenly Stems.） </P>
+<P style="TEXT-INDENT: 2em">戊：5H （the 5th of the ten Heavenly Stems.） </P>
+<P style="TEXT-INDENT: 2em">己：6H （the 6th of the ten Heavenly Stems.） </P>
+<P style="TEXT-INDENT: 2em">庚：7H （the 7th of the ten Heavenly Stems.） </P>
+<P style="TEXT-INDENT: 2em">辛：8H （the 8th of the ten Heavenly Stems.） </P>
+<P style="TEXT-INDENT: 2em">壬：9H （the 9th of the ten Heavenly Stems.） </P>
+<P style="TEXT-INDENT: 2em">癸：10H （the last of the ten Heavenly Stems.） </P>
+<P style="TEXT-INDENT: 2em"><STRONG>地支：Earthly Branches （E-B） </STRONG></P>
+<P style="TEXT-INDENT: 2em">子：1E （the first of the twelve Earthly Branches.） </P>
+<P style="TEXT-INDENT: 2em">丑：2E （ the 2nd of the twelve Earthly Branches.） </P>
+<P style="TEXT-INDENT: 2em">寅：3E （the 3rd of the twelve Earthly Branches.） </P>
+<P style="TEXT-INDENT: 2em">卯：4E （the 4th of the twelve Earthly Branches.） </P>
+<P style="TEXT-INDENT: 2em">辰：5E （the 5th of the twelve Earthly Branches.） </P>
+<P style="TEXT-INDENT: 2em">巳：6E （the 6th of the twelve Earthly Branches.） </P>
+<P style="TEXT-INDENT: 2em">午：7E （the 7th of the twelve Earthly Branches.） </P>
+<P style="TEXT-INDENT: 2em">未：8E （the 8th of the twelve Earthly Branches.） </P>
+<P style="TEXT-INDENT: 2em">申：9E （the 9th of the twelve Earthly Branches.） </P>
+<P style="TEXT-INDENT: 2em">酉：10E （the 10th of the twelve Earthly Branches.） </P>
+<P style="TEXT-INDENT: 2em">戌：11E （the 11th of the twelve Earthly Branches.） </P>
+<P style="TEXT-INDENT: 2em">亥：12E （the last of the twelve Earthly Branches.） </P>
+<P style="TEXT-INDENT: 2em">60干支则由它们组合而成：</P>
+<P style="TEXT-INDENT: 2em">如：甲子 1H-1E、乙丑 2H-2E、丙子 3H-1E、丁丑 4H-2E 等</P>
+
+<p style="TEXT-INDENT:2em">来源：<a title="天干地支英文译法" style="color:#000;" href="http://114.xixik.com/chinese-era/"><strong>天干地支英文译法</strong></a>：<a title="天干地支英文译法" href="http://114.xixik.com/chinese-era/">http://114.xixik.com/chinese-era/</a></p>
+                </div>
+            </div>
+        </div>
+        
+        
+        <a name="anchor15"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        天干地支与五行对应规则</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                   
+                    <P style="TEXT-INDENT: 2em">天干地支纪时规则，对于稍微懂一些八字的人那当然是再简单不过的事情。但是对大多数不懂八字并且对命理抱有神秘感的朋友而言，这个问题并不是那么简单，所以索性写一篇通俗的文档来说明这个“简单而复杂”的问题。相信只要是会认识汉字的人都能根据本文来按图索骥。 </P>
+<P style="TEXT-INDENT: 2em">为了准确的回答问题，还是从定义上来入手： </P>
+<P style="TEXT-INDENT: 2em">一个人的“八字”就是一共八个字：四个天干，四个地支。而每个天干和每个地支都有对应的五行属性。 </P>
+<P style="TEXT-INDENT: 2em">所以要看一个人八字中是否缺什么五行，就是要分析组成八字的这四个天干和四个地支对应的五行是否缺什么了。比如这四个天干和四个地支中都不包含火这个五行，那就是八字缺火或者说命中缺火了。 </P>
+<P style="TEXT-INDENT: 2em">下面再来解释天干和地支的五行属性： </P>
+<P style="TEXT-INDENT: 2em">甲、乙为木，代表东方 </P>
+<P style="TEXT-INDENT: 2em">丙、丁为火，代表南方 </P>
+<P style="TEXT-INDENT: 2em">戊、己为土，代表中央 </P>
+<P style="TEXT-INDENT: 2em">庚、辛为金，代表西方 </P>
+<P style="TEXT-INDENT: 2em">壬、癸为水，代表北方 </P>
+<P style="TEXT-INDENT: 2em">地支的五行，就没有那么容易看出来了，因为地支之中往往藏有一个、二个或者最多三个天干，这种地支中所藏的天干也叫做“支藏人元”，取“天干为天元、地支为地元、人在天地之间”的意思，所以称为人元。 </P>
+<P style="TEXT-INDENT: 2em">上面的话，也就是说一个地支往往是由几种五行混合而成的，下面就讲讲这个地支藏干的问题，也就是看看各个地支中都藏了哪些天干藏有哪些五行。 </P>
+<P style="TEXT-INDENT: 2em">寅中藏：甲、丙、戊 </P>
+<P style="TEXT-INDENT: 2em">卯中藏：乙 </P>
+<P style="TEXT-INDENT: 2em">辰中藏：戊、乙、癸 </P>
+<P style="TEXT-INDENT: 2em">巳中藏：丙、庚、戊 </P>
+<P style="TEXT-INDENT: 2em">午中藏：丁、己 </P>
+<P style="TEXT-INDENT: 2em">未中藏：己、丁、乙 </P>
+<P style="TEXT-INDENT: 2em">申中藏：庚、壬、戊 </P>
+<P style="TEXT-INDENT: 2em">酉中藏：辛 </P>
+<P style="TEXT-INDENT: 2em">戌中藏：戊、辛、丁 </P>
+<P style="TEXT-INDENT: 2em">亥中藏：壬、甲 </P>
+<P style="TEXT-INDENT: 2em">子中藏：癸 </P>
+<P style="TEXT-INDENT: 2em">丑中藏：己、癸、辛 </P>
+<P style="TEXT-INDENT: 2em">注意：上面地支藏干的列表中，所藏的第一个天干也称之为地支的“本气”，简单说就是占主导作用的五行，就说本气五行在地支中占的比例最大。比如寅中藏有甲,丙,戊三个天干，如果寅的力量为100分的话，那么甲，丙，戊三者的力量比例依次大概为：60:25:15，甲占的比例比较大，所以甲叫做寅的“本气”。 </P>
+
+<p style="TEXT-INDENT:2em">来源：<a title="天干地支与五行对应规则" style="color:#000;" href="http://114.xixik.com/chinese-era/"><strong>天干地支与五行对应规则</strong></a>：<a title="天干地支与五行对应规则" href="http://114.xixik.com/chinese-era/">http://114.xixik.com/chinese-era/</a></p>
+                </div>
+            </div>
+        </div>
+        
+        
+        <a name="anchor16"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        天干地支算人的生辰八字</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                   
+                    <P style="TEXT-INDENT: 2em">道理说清楚了，下面看一个实例就清楚了： </P>
+<P style="TEXT-INDENT: 2em">假设一个小孩子生于此刻：2009年12月28日20点58分 </P>
+<P style="TEXT-INDENT: 2em">查一下<a href="http://114.xixik.com/calendar/" title="在线日历,万年历">万年历</a>（或网上排八字）就可以知道这个小孩子的八字就是： </P>
+<P style="TEXT-INDENT: 2em">己丑 丙子 丁末 己戊 </P>
+<P style="TEXT-INDENT: 2em">其实这个人就是生于：己丑年，丙子月，丁末日，己戊时 </P>
+<P style="TEXT-INDENT: 2em">其中日干，也就是丁末日的日干“丁”这个天干代表这个小孩子本身，这个小孩子五行属水，因为丁属水。 </P>
+<P style="TEXT-INDENT: 2em">再来看看四个天干的五行：戊，甲，辛，己，查列表一就知道它们分别属土，木，金，土。 </P>
+<P style="TEXT-INDENT: 2em">再来看四个地支：子，子，丑，丑，查列表二：子中只有癸，查列表一，癸为水，所以子属水。丑中藏有：己辛癸，分别为土金水。 </P>
+<P style="TEXT-INDENT: 2em">综合看上面的四个天干和地支，可以发现，这些干支中独独缺少五行火！ </P>
+<P style="TEXT-INDENT: 2em">所以说这个八字五行缺火！ </P>
+<P style="TEXT-INDENT: 2em">通过这个例子，相信绝大部分人都会懂得如何判断五行是否缺什么了，只要找一个万年历（或在网上排盘程序中输入生日时辰）找到对应的八字（四个天干和四个地支）就行了，这是再简单不过的查表工作了，相信人人都会。 </P>
+
+<P style="TEXT-INDENT: 2em">说到这里，就不得不提到一个问题了，坊间有不少“新手”命理师傅在看人八字判断五行是否有缺的时候，在判断地支的时候往往只看地支的本气，这样就会造成误判。 </P>
+<P style="TEXT-INDENT: 2em">比如这些命理师看到寅，认为寅属木（因为寅的本气为甲，甲属木）而忽略了寅中藏的火和土。所以如果按照这种看法，本来某人八字什么都不缺，这些算命师傅却认为此人缺某某五行，这一点必须引起大家注意，大家看了此文之后也自能分辨。 </P>
+<P style="TEXT-INDENT: 2em">还有另外一个问题也要引起注意，那就是：并非说一个人八字缺什么五行，就一定应该补这种五行。这种看法是不对的。准确的说法是，根据八字的格局，需要什么五行才要补什么五行。比如某人八字虽然缺水，但是此八字的格局却是忌讳水的，那么命中缺了水反而是好事。在这种情况下，你如果去补水，反而会弄巧成拙。</P>
+
+<P style="TEXT-INDENT: 2em"><span>相关链接：</span>天干地支表 <A href="http://114.xixik.com/tiangandizhi/" class=f14px title="天干地支,十天干,十二地支">http://114.xixik.com/tiangandizhi/</A></p>
+
+<p style="TEXT-INDENT:2em">来源：<a title="天干地支算人的生辰八字" style="color:#000;" href="http://114.xixik.com/chinese-era/"><strong>天干地支算人的生辰八字</strong></a>：<a title="天干地支算人的生辰八字" href="http://114.xixik.com/chinese-era/">http://114.xixik.com/chinese-era/</a></p>
+                </div>
+            </div>
+        </div>
+        
+        
+        <a name="anchor17"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        天干地支五行八卦图</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                   
+                    <p align="center">
+	<strong>天干五行分阴阳，</strong><strong>奇阳偶阴两分清；</strong></p>
+<p align="center">
+	<strong>甲乙为木丙丁火，</strong><strong>戊巳为土庚辛金，</strong></p>
+<p align="center">
+	<strong>任癸为水配五行。</strong></p>
+<p align="center">
+	<img src="http://img.xixik.net/custom/section/chinese-era/xixik-66e1d2223425462a.jpg" /></p>
+<p style="TEXT-INDENT:2em">
+	<wbr /></p>
+<p style="text-indent: 2em; text-align: center;">
+	天干地支五行八卦图</p>
+<p style="TEXT-INDENT:2em">
+	五行八卦： 乾（qi&aacute;n）、坤（kūn）、震（zh&egrave;n）、巽（x&ugrave;n）、坎（kǎn）、离（l&iacute;）、艮、（g&egrave;n）、兑（du&igrave;）。</p>
+<p style="TEXT-INDENT:2em">
+	天干地支：甲（jiǎ）乙（yǐ）丙（bǐng）丁（dīng）戊（w&ugrave;）己（jǐ）庚（gēng）辛（xīn）壬（r&eacute;n）癸（guǐ）。</p>
+<p style="TEXT-INDENT:2em">
+	十二时辰： 子（zǐ）丑（chǒu）寅（y&iacute;n）卯（mǎo）辰（ch&eacute;n）巳（s&igrave;）午（wǔ）未（w&egrave;i）申（shēn）酉（yǒu）戌（xū）亥（h&agrave;i）</p>
+<p style="TEXT-INDENT:2em">
+	八卦图有&ldquo;先天&rdquo;、&ldquo;后天&rdquo;之分，一般先天八卦图为体，后天八卦图为用。诸如天干、地支、五行生克等配置，均以后天八卦图作为背景参考。</p>
+<p style="TEXT-INDENT:2em">
+	先天八卦图又称伏羲八卦图，以乾坤代表天地定位，形成中轴经线；以坎离代表水火为界，作为横轴纬线。相对二卦阴阳爻相反，互成错卦。先天八卦数：乾一、兑二、离三、震四、巽五、坎六、艮七、坤八。</p>
+<p style="text-indent: 2em; text-align: center;">
+	<img src="http://img.xixik.net/custom/section/chinese-era/xixik-5513c3271ca26af4.jpg" /></p>
+<p style="TEXT-INDENT:2em">
+	后天八卦图又称文王八卦图，即震卦为起始点，位列正东。按顺时针方向，依次为巽卦，东南；离卦，正南；坤卦，西南；兑卦，正西；乾卦，西北；坎卦，正北；艮卦，东北。如象征节气，则震为春分，巽为立夏，离为夏至，坤为立秋，兑为秋分，乾为立冬，坎为冬至，艮为立春。后天八卦数：坎一、坤二、震三、巽四、中五、乾六、兑七、艮八、离九。</p>
+<p style="TEXT-INDENT:2em">
+	<strong><span style="text-indent: 28px;">天干地支及五行</span></strong></p>
+<p style="TEXT-INDENT:2em">
+	天干 甲 乙 丙 丁 戊 己 庚 辛 壬 癸</p>
+<p style="TEXT-INDENT:2em">
+	五行 阳木 阴木 阳火 阴火 阳土 阴土 阳金 阴金 阳水 阴水</p>
+<p style="TEXT-INDENT:2em">
+	地支 子 丑 寅 卯 辰 巳 午 未 申 酉 戌 亥</p>
+<p style="TEXT-INDENT:2em">
+	生肖 鼠 牛 虎 兔 龙 蛇 马 羊 猴 鸡 狗 猪</p>
+<p style="TEXT-INDENT:2em">
+	五行 阳水 阴土 阳木 阴木 阳土 阴火 阳火 阴土 阳金 阴金 阳土 阴水</p>
+<p style="text-indent: 2em;">
+	<strong>干支方位</strong></p>
+<p style="text-indent: 2em;">
+	甲乙东方木 丙丁南方火 戊己中央土 庚辛西方金 壬癸北方水&nbsp;</p>
+<p style="text-indent: 2em;">
+	亥子北方水 寅卯东方木 巳午南方火 申酉西方金 辰戌丑未四季土</p>
+<p style="text-indent: 2em;">
+	<strong>干支五行旺季</strong></p>
+<p style="text-indent: 2em;">
+	方位 旺季 天干 地 支&nbsp;</p>
+<p style="text-indent: 2em;">
+	东方 春 甲乙 寅卯&nbsp;</p>
+<p style="text-indent: 2em;">
+	南方 夏 丙丁 巳午&nbsp;</p>
+<p style="text-indent: 2em;">
+	中央 四季末 戊己 辰戌丑未&nbsp;</p>
+<p style="text-indent: 2em;">
+	西方 秋 庚辛 申酉&nbsp;</p>
+<p style="text-indent: 2em;">
+	北方 冬 壬癸 亥子</p>
+<p style="text-indent: 2em;">
+	<img  src="http://img.xixik.net/custom/section/chinese-era/xixik-2cac17171f35c5ca.gif" /></p>
+<p style="TEXT-INDENT:2em">
+	<strong>五行相生</strong></p>
+<p style="TEXT-INDENT:2em">
+	木生火：火要依靠柴薪来维持燃烧</p>
+<p style="TEXT-INDENT:2em">
+	火生土：土要依靠太阳来普照</p>
+<p style="TEXT-INDENT:2em">
+	土生金：金要依靠山岩来储存</p>
+<p style="TEXT-INDENT:2em">
+	金生水：水要依靠铁器来开导疏通</p>
+<p style="TEXT-INDENT:2em">
+	水生木：木要依靠雨露来灌溉</p>
+<p style="TEXT-INDENT:2em">
+	<strong>五行相克</strong></p>
+<p style="TEXT-INDENT:2em">
+	木克土：树木可以入土</p>
+<p style="TEXT-INDENT:2em">
+	土克水：土可以覆水</p>
+<p style="TEXT-INDENT:2em">
+	水克火：水可以灭火</p>
+<p style="TEXT-INDENT:2em">
+	火克金：烈火可以溶金</p>
+<p style="TEXT-INDENT:2em">
+	金克木：金可以伐木</p>
+<p style="TEXT-INDENT:2em">
+	天干相克（阳克阳，阴克阴）</p>
+<p style="TEXT-INDENT:2em">
+	阳干相克： 甲木克戊土，戊土克壬水，壬水克丙火，丙火克庚金，庚金克甲木。</p>
+<p style="TEXT-INDENT:2em">
+	阴干相克： 乙木克己土，己土克癸水，癸水克丁火，丁火克辛金，辛金克乙木。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>地支相冲</strong></p>
+<p style="TEXT-INDENT:2em">
+	子午相冲， 卯酉相冲 =&gt; 四正位之冲</p>
+<p style="TEXT-INDENT:2em">
+	寅申相冲， 巳亥相冲 =&gt; 驿马位之冲</p>
+<p style="TEXT-INDENT:2em">
+	辰戌相冲， 丑未相冲 =&gt; 土库位之冲</p>
+<p style="TEXT-INDENT:2em">
+	<strong>地支相害</strong></p>
+<p style="TEXT-INDENT:2em">
+	子未相害：为未土旺，子水旺，名为势家相害，不利六亲骨肉。</p>
+<p style="TEXT-INDENT:2em">
+	丑午相害：为午以旺火欺凌丑中死金，名为官鬼相害。</p>
+<p style="TEXT-INDENT:2em">
+	寅巳相害：各恃临官，擅能而进相害。</p>
+<p style="TEXT-INDENT:2em">
+	卯辰相害：卯以旺木欺凌辰中死土，以少欺长而相害。</p>
+<p style="TEXT-INDENT:2em">
+	申亥相害：各恃临官，竟妒才能，争进相害。</p>
+<p style="TEXT-INDENT:2em">
+	酉戌相害：戌以死火害酉旺金，为嫉妒相害。故酉人见戌人则凶，戌人见酉人无事。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>地支相刑</strong></p>
+<p style="TEXT-INDENT:2em">
+	子卯相刑，寅刑巳，巳刑申，申刑寅，丑刑戌，戌刑未，未刑丑。</p>
+<p style="TEXT-INDENT:2em">
+	辰午酉亥自刑（伏吟，暗地里痛苦）</p>
+<p style="TEXT-INDENT:2em">
+	<strong>地支相破</strong></p>
+<p style="TEXT-INDENT:2em">
+	子酉相破，丑辰相破，寅亥相破，卯午相破，未戌相破，申巳相破。</p>
+<p style="TEXT-INDENT:2em">
+	星命术认为世界万物都具有阴阳两性。而阴阳的此消彼长是由五行的相生相克引起。而人身本身是一个世界的缩影。同世界的多变相对应，由一个人的出生年、月、日、时所涵阴阳五行之气可测知某一生命运。人身是由五行和合而成，五行在人身的不同禀性又是由他出生时太阳的光线，地球的吸力，星宿的位置气候的不同等多种现象决定。出生时的自然环境不同，五行之气也不同，因而有了千差万别的人生命运。</p>
+<p style="TEXT-INDENT:2em">
+	第一，天干的五行之气比地支的五行之气强一些。</p>
+<p style="TEXT-INDENT:2em">
+	第二，因为天干地支有阴阳之分，所以同属五行之一的天干或地支也有不同。如同为属木的甲、乙，甲是阳木，为栋梁之木，乙是阴木，为花果之木。</p>
+<p style="TEXT-INDENT:2em">
+	第三，地支中每三字组成五行之一种，第一字为初兴，第二字之气为极盛，第三字为渐衰，代表了所属五行的发展变化。</p>
+<p style="TEXT-INDENT:2em">
+	第四，地支除本气之外，还包含一个或数个天干的成份。分别是子的本气是癸水；丑的本气是己土，还兼有辛金、癸水成份；寅的本气是甲木，而兼有丙火，戊土；卯只有本气乙本；辰的本气是戊土，兼有乙木和癸水；巳的本气是丙火，兼庚金和戊土；午的本气是丁火，还包括己土的成份；未的本气是乙土，兼有乙木和丁火；申的本气是庚金，兼有壬水和戊土；酉只是本气辛金；戌的本气是戊土，兼具辛金及丁火；亥的本气是壬水兼具甲木在其中。</p>
+
+<p style="TEXT-INDENT:2em">来源：<a title="天干地支五行八卦图" style="color:#000;" href="http://114.xixik.com/chinese-era/"><strong>天干地支五行八卦图</strong></a>：<a title="天干地支五行八卦图" href="http://114.xixik.com/chinese-era/">http://114.xixik.com/chinese-era/</a></p>
+                </div>
+            </div>
+        </div>
+        
+        
+        <a name="anchor18"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        甲骨文分析</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                   
+                    <p style="TEXT-INDENT: 2em">
+	<img src="http://img.xixik.net/custom/section/chinese-era/xixik-0a80fbdf47f8bf66.gif" /></p>
+<p style="TEXT-INDENT: 2em">
+	从干支的甲骨文字形上分析，十二地支字形源于十天干衍生。</p>
+<p style="TEXT-INDENT: 2em">
+	十二地支，是六天干怀孕了的特殊状态。十天干衍生十二地支。十天干（甲，乙，丙，丁，戊，己，庚，辛，壬，癸）两两而合，又产生新的天干子女，关系如下表</p>
+<p style="text-indent: 2em;">
+	父 母 儿 女 父娶母</p>
+<p style="text-indent: 2em;">
+	壬 丁 戊 己 壬娶丁</p>
+<p style="text-indent: 2em;">
+	戊 癸 甲 乙 戊娶癸</p>
+<p style="text-indent: 2em;">
+	甲 己 庚 辛 甲娶己</p>
+<p style="text-indent: 2em;">
+	庚 乙 丙 丁 庚娶乙</p>
+<p style="text-indent: 2em;">
+	丙 辛 壬 癸 丙娶辛</p>
+<p style="text-indent: 2em;">
+	十天干彼此结合，循环不息，不断产生新的天干。有种特殊的情况，即在母亲怀孕子女的状态下，尚未生出，称之为&ldquo;地支&rdquo;。</p>
+<p style="text-indent: 2em;">
+	壬、戊、甲、庚、丙，为男人，为阳，为父。称为五父</p>
+<p style="text-indent: 2em;">
+	丁、癸、己、乙、辛，为女人，为阴，为母。称为五母</p>
+<p style="text-indent: 2em;">
+	但是天干&ldquo;戊&rdquo;比较特殊，他（她）虽作为男人，但也能产子，戊不阴不阳，可以将他看成男人，也可以将戊看成女人，所以戊也能怀孕产生一对儿女。因此，五母（丁、癸、己、乙、辛）外加一个戊，一共六人，都能产子。六母都能怀上一对儿女，二六一十二，十二地支应运而生。我们称呼这六个天干为六母，六阴干，或六妊。</p>
+<p style="text-indent: 2em;">
+	举个例子，壬取了丁，丁怀孕己（她的女儿），己是个女胎，此时大肚子的丁，就是&ldquo;丁+己=巳&rdquo;，就是地支巳的本意（丁怀上了己）。同理，丁怀孕戊（她的男胎），称之为午。</p>
+<p style="text-indent: 2em;">
+	<strong>十二地支含义如下</strong></p>
+<p style="text-indent: 2em;">
+	癸怀孕甲，称子 己怀孕庚，称丑</p>
+<p style="text-indent: 2em;">
+	乙怀孕丁，称寅 乙怀孕丙，称卯</p>
+<p style="text-indent: 2em;">
+	己怀孕辛，称辰 丁怀孕己，称巳</p>
+<p style="text-indent: 2em;">
+	丁怀孕戊，称午 戊怀孕庚，称未</p>
+<p style="text-indent: 2em;">
+	辛怀孕癸，称申 辛怀孕壬，称酉</p>
+<p style="text-indent: 2em;">
+	戊怀孕辛，称戌 癸怀孕乙，称亥</p>
+<p style="text-indent: 2em;">
+	癸孕甲=子 己孕庚=丑 乙孕丁=寅 乙孕丙=卯 己孕辛=辰 丁孕己=巳 丁孕戊=午 戊孕庚=未 辛孕癸=申 辛孕壬=酉 戊孕辛=戌 癸孕乙=亥</p>
+<p style="text-indent: 2em;">
+	我们从上表可以看出，即使六阴干怀孕了，她的地支属性仍然同母体天干属性。癸怀孕甲，为子。子尚在母胎中，因此同母亲五行相同，所以&ldquo;子&rdquo;同&ldquo;癸&rdquo;，仍旧为北方水属性。乙怀上了女儿丁，称之为&ldquo;寅&rdquo;，寅同母亲丁，同为木属性。癸孕一甲男，称为子，犹如人呼之子，此不虚言哉！</p>
+
+<p style="TEXT-INDENT:2em">来源：<a title="甲骨文分析" style="color:#000;" href="http://114.xixik.com/chinese-era/"><strong>甲骨文分析</strong></a>：<a title="甲骨文分析" href="http://114.xixik.com/chinese-era/">http://114.xixik.com/chinese-era/</a></p>
+                </div>
+            </div>
+        </div>
+        
+        
+        <a name="anchor19"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        各干、支的意义</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                   
+                    <p style="TEXT-INDENT:2em">
+	中国古代纪年方法在汉武帝以前主要是使用干支纪年和帝王纪年。当时的干支主要是用在天文观测，历法和年岁的命名上。使用的岁星体系和当代的干支体系存在着如下对应关系：</p>
+<p style="TEXT-INDENT:2em">
+	<strong>干者犹树之干也</strong></p>
+<p style="TEXT-INDENT:2em">
+	甲：像草木破土而萌，阳在内而被阴包裹。</p>
+<p style="TEXT-INDENT:2em">
+	乙：草木初生，枝叶柔软屈曲。</p>
+<p style="TEXT-INDENT:2em">
+	丙：炳也,如赫赫太阳，炎炎火光，万物皆炳燃着，见而光明。</p>
+<p style="TEXT-INDENT:2em">
+	丁：草木成长壮实，好比人的成丁。</p>
+<p style="TEXT-INDENT:2em">
+	戊：茂盛也，象征大地草木茂盛繁荣。</p>
+<p style="TEXT-INDENT:2em">
+	己：起也，纪也，万物抑屈而起，有形可纪。</p>
+<p style="TEXT-INDENT:2em">
+	庚：更也，秋收而待来春。</p>
+<p style="TEXT-INDENT:2em">
+	辛：金味辛，物成而后有味，辛者，新也，万物肃然更改，秀实新成。</p>
+<p style="TEXT-INDENT:2em">
+	壬：妊也，阳气潜伏地中，万物怀妊。</p>
+<p style="TEXT-INDENT:2em">
+	癸：揆也，万物闭藏，怀妊地下，揆然萌芽。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>支者犹树之枝也</strong></p>
+<p style="TEXT-INDENT:2em">
+	子：孳也，阳气始萌，孳生于下也。</p>
+<p style="TEXT-INDENT:2em">
+	丑：纽也，寒气自屈曲也。</p>
+<p style="TEXT-INDENT:2em">
+	寅：髌也，阳气欲出，阳尚强而髌演于下。</p>
+<p style="TEXT-INDENT:2em">
+	卯：冒也，万物冒地而出。</p>
+<p style="TEXT-INDENT:2em">
+	辰：伸也，万物舒伸而出。</p>
+<p style="TEXT-INDENT:2em">
+	巳：巳也，阳气毕布已矣。</p>
+<p style="TEXT-INDENT:2em">
+	午：仵也，阴阳交相愕而仵。</p>
+<p style="TEXT-INDENT:2em">
+	未：眛也，日中则昃，阳向幽也。</p>
+<p style="TEXT-INDENT:2em">
+	申：伸束以成，万物之体皆成也。</p>
+<p style="TEXT-INDENT:2em">
+	酉：就也，万物成熟。</p>
+<p style="TEXT-INDENT:2em">
+	戌：灭也，万物灭尽。</p>
+<p style="TEXT-INDENT:2em">
+	亥：核也，万物收藏，皆坚核也。</p>
+
+<p style="TEXT-INDENT:2em">来源：<a title="各干、支的意义" style="color:#000;" href="http://114.xixik.com/chinese-era/"><strong>各干、支的意义</strong></a>：<a title="各干、支的意义" href="http://114.xixik.com/chinese-era/">http://114.xixik.com/chinese-era/</a></p>
+                </div>
+            </div>
+        </div>
+        
+        
+        <a name="anchor20"></a>
+        <div class="custom_border lindBox">
+            <div class="custom_head">
+                <div class="custom_title">
+                    <h2>
+                        天干地支与生肖对照表</h2>
+                </div>
+                <div class="custom_totop"> <div class="ico"></div> <a href="#top" target="_self">返回顶部</a> </div>
+            </div>
+            <div class="custom_content">
+                <div class='content_text'>
+                   
+                    <p style="TEXT-INDENT:2em">
+	中国的<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>，在科学上是作为纪年、纪时之用的。那么，<a href="http://114.xixik.com/12birthpet/" style="color:#000" title="十二生肖">十二生肖</a>为何会与天干地支扯上关系呢？这就要从中国古代的历法说起了。</p>
+<p style="TEXT-INDENT:2em">
+	在古代，我国有六种历法：黄帝历、顓顼历、夏历、殷历、周历和鲁历。而我们现在通用的阴历或农历，其实就是夏历。夏历是用天干、地支编排年号和日期得来的，比如甲子年、乙丑年、丙申年、丁卯年等。</p>
+<p style="TEXT-INDENT:2em">
+	十大天干与太阳出没有关，而<a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十二地支">十二地支</a>最初则是被用来纪月的。天干是十进制，容易直观地计算；地支是十二进制，在记录<a href="http://114.xixik.com/shichen/" style="color:#000" title="时辰">时辰</a>和月份方面具有优势。历法上，一个天干和一个地支相配合，排列起来，天干在上，地支在下，天干由甲起，地支由子起，阳干配阳支，阴干配阴支，共有六十个组合，因而被称做“六十甲子”。</p>
+<p style="TEXT-INDENT:2em">
+	我们俗话说的“六十年后又要回头一次”，就是来源于此。</p>
+<p style="TEXT-INDENT:2em">
+	其实，我们平时所说的生辰八字，就是指用干支组合来表达的年、月、日和<a href="http://114.xixik.com/shichen/" style="color:#000" title="时辰">时辰</a>。而<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>亦称“十二属相”或“十二属”，它们正好是分别与<a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十二地支">十二地支</a>相对应着的。</p>
+<p style="TEXT-INDENT:2em">
+	<strong>天干地支与生肖五行对照表</strong></p>
+<p style="text-indent: 2em; text-align: center;">
+	<img src="http://img.xixik.net/custom/section/chinese-era/xixik-6077c411130e019d.jpg" style="text-align: center;" /></p>
+<p style="TEXT-INDENT:2em">
+	五行属木：甲乙寅卯 生肖属虎属兔</p>
+<p style="TEXT-INDENT:2em">
+	五行属火：丙丁巳午 生肖属蛇属马</p>
+<p style="TEXT-INDENT:2em">
+	五行属土：戊己辰戌丑未 生肖龙狗牛羊</p>
+<p style="TEXT-INDENT:2em">
+	五行属金：庚辛申酉 生肖属猴属鸡</p>
+<p style="TEXT-INDENT:2em">
+	五行属水：壬癸亥子 生肖属鼠属猪</p>
+<p style="TEXT-INDENT:2em">
+	<strong><a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十二地支">十二地支</a>与生肖对照表</strong></p>
+<p style="text-indent: 2em; text-align: center;">
+	<img src="http://img.xixik.net/custom/section/chinese-era/xixik-a0866f4e66b6a60b.jpg?imageView2/2/w/622/h/497" /></p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十二地支">十二地支</a>：子 丑 寅 卯 辰 巳 午 未 申 酉 戌 亥</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/12shengxiao/" style="text-indent: 2em; color: rgb（0, 0, 0）;" title="十二生肖对照表">十二生肖</a>：子鼠 丑牛 寅虎 卯兔 辰龙 巳蛇 午马 未羊 申猴 酉鸡 戌狗 亥猪&#160;</p>
+<p style="TEXT-INDENT:2em">
+	五行属性：子水 丑土 寅木 卯木 辰土 巳火 午火 未土 申金 酉金 戌土 亥水</p>
+<p style="text-indent: 2em; text-align: center;">
+	<strong>天干地支与生肖</strong>（干、支的五行属相）</p>
+<table border="1" bordercolor="#cccccc" cellpadding="2" cellspacing="1" style="text-align: center; margin: auto; width:90%">
+	<tbody>
+		<tr>
+			<th>
+				01</th>
+			<th>
+				02</th>
+			<th>
+				03</th>
+			<th>
+				04</th>
+			<th>
+				05</th>
+			<th>
+				06</th>
+			<th>
+				07</th>
+			<th>
+				08</th>
+			<th>
+				09</th>
+			<th>
+				10</th>
+		</tr>
+		<tr>
+			<td>
+				甲子金鼠</td>
+			<td>
+				乙丑金牛</td>
+			<td>
+				丙寅火虎</td>
+			<td>
+				丁卯火兔</td>
+			<td>
+				戊辰木龙</td>
+			<td>
+				己巳木蛇</td>
+			<td>
+				庚午土马</td>
+			<td>
+				辛未土羊</td>
+			<td>
+				壬申金猴</td>
+			<td>
+				癸酉金鸡</td>
+		</tr>
+		<tr bgcolor="#f5f5f5">
+			<td>
+				11</td>
+			<td>
+				12</td>
+			<td>
+				13</td>
+			<td>
+				14</td>
+			<td>
+				15</td>
+			<td>
+				16</td>
+			<td>
+				17</td>
+			<td>
+				18</td>
+			<td>
+				19</td>
+			<td>
+				20</td>
+		</tr>
+		<tr>
+			<td>
+				甲戌火狗</td>
+			<td>
+				乙亥火猪</td>
+			<td>
+				丙子水鼠</td>
+			<td>
+				丁丑水牛</td>
+			<td>
+				戊寅土虎</td>
+			<td>
+				己卯土兔</td>
+			<td>
+				庚辰金龙</td>
+			<td>
+				辛己金蛇</td>
+			<td>
+				壬午木马</td>
+			<td>
+				癸未木羊</td>
+		</tr>
+		<tr bgcolor="#f5f5f5">
+			<td>
+				21</td>
+			<td>
+				22</td>
+			<td>
+				23</td>
+			<td>
+				24</td>
+			<td>
+				25</td>
+			<td>
+				26</td>
+			<td>
+				27</td>
+			<td>
+				28</td>
+			<td>
+				29</td>
+			<td>
+				30</td>
+		</tr>
+		<tr>
+			<td>
+				甲申水猴</td>
+			<td>
+				乙酉水鸡</td>
+			<td>
+				丙戌土狗</td>
+			<td>
+				丁亥土猪</td>
+			<td>
+				戊子火鼠&#160;</td>
+			<td>
+				己丑火牛</td>
+			<td>
+				庚寅木虎</td>
+			<td>
+				辛卯木兔</td>
+			<td>
+				壬辰水龙</td>
+			<td>
+				癸巳水蛇</td>
+		</tr>
+		<tr bgcolor="#f5f5f5">
+			<td>
+				31</td>
+			<td>
+				32</td>
+			<td>
+				33</td>
+			<td>
+				34</td>
+			<td>
+				35</td>
+			<td>
+				36</td>
+			<td>
+				37</td>
+			<td>
+				38</td>
+			<td>
+				39</td>
+			<td>
+				40</td>
+		</tr>
+		<tr>
+			<td>
+				甲午金马</td>
+			<td>
+				乙未金羊</td>
+			<td>
+				丙申火猴</td>
+			<td>
+				丁酉火鸡</td>
+			<td>
+				戊戌木狗&#160;</td>
+			<td>
+				己亥木猪</td>
+			<td>
+				庚子土鼠</td>
+			<td>
+				辛丑土牛</td>
+			<td>
+				壬寅金虎</td>
+			<td>
+				癸卯金兔</td>
+		</tr>
+		<tr bgcolor="#f5f5f5">
+			<td>
+				41</td>
+			<td>
+				42</td>
+			<td>
+				43</td>
+			<td>
+				44</td>
+			<td>
+				45</td>
+			<td>
+				46</td>
+			<td>
+				47</td>
+			<td>
+				48</td>
+			<td>
+				49</td>
+			<td>
+				50</td>
+		</tr>
+		<tr>
+			<td>
+				甲辰火龙</td>
+			<td>
+				乙巳火蛇</td>
+			<td>
+				丙午水马</td>
+			<td>
+				丁未水羊</td>
+			<td>
+				戊申土猴</td>
+			<td>
+				己酉土鸡</td>
+			<td>
+				庚戌金狗</td>
+			<td>
+				辛亥金猪</td>
+			<td>
+				壬子木鼠&#160;</td>
+			<td>
+				癸丑木牛</td>
+		</tr>
+		<tr bgcolor="#f5f5f5">
+			<td>
+				51</td>
+			<td>
+				52</td>
+			<td>
+				53</td>
+			<td>
+				54</td>
+			<td>
+				55</td>
+			<td>
+				56</td>
+			<td>
+				57</td>
+			<td>
+				58</td>
+			<td>
+				59</td>
+			<td>
+				60</td>
+		</tr>
+		<tr>
+			<td>
+				甲寅水虎</td>
+			<td>
+				乙卯水兔</td>
+			<td>
+				丙辰土龙</td>
+			<td>
+				丁巳土蛇</td>
+			<td>
+				戊午火马</td>
+			<td>
+				己未火羊</td>
+			<td>
+				庚申木猴&#160;</td>
+			<td>
+				辛酉木鸡</td>
+			<td>
+				壬戌水狗</td>
+			<td>
+				癸亥水猪</td>
+		</tr>
+	</tbody>
+</table>
+<p style="TEXT-INDENT:2em">
+	《易经》里有记载说，早在公元1世纪，中国人就以<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>与天干地支配对来纪年。而在甲子周期中，同一地支的年份就对应同一生肖，例如“申”对“猴壬申、甲申、丙申、戊申和庚申都是猴年，其他生肖的对应干支年份可以用同一方法列出。</p>
+<p style="TEXT-INDENT:2em">
+	而且，我国从汉代开始，便已经根据太阳升起的时间，将一昼夜区分为十二个<a href="http://114.xixik.com/shichen/" style="color:#000" title="时辰">时辰</a>，还采用<a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十二地支">十二地支</a>计时法来记录这十二<a href="http://114.xixik.com/shichen/" style="color:#000" title="时辰">时辰</a>。每个<a href="http://114.xixik.com/shichen/" style="color:#000" title="时辰">时辰</a>相当于两个小时，这样一昼夜便是现在所称的二十四小时。而<a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十二地支">十二地支</a>之所以正好与<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>相对应。</p>
+<p style="TEXT-INDENT:2em">
+	<a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十二地支">十二地支</a>中的子指的是滋的意思，指万物滋萌于既动之阳气下。草木生子，吸土中水分而出。夜里十一时到一时是子时，此时老鼠最为活跃。因此，<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>中老鼠就排在第一位了，并由此称为子鼠。</p>
+<p style="TEXT-INDENT:2em">
+	丑是纽，阳气在上未降。草木在土中出芽，成曲着将要出地面。在夜里一时到三时，是丑时，牛正在反刍，据说也是牛开始耕田的时刻。这个时间称为丑时，在<a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十二地支">十二地支</a>与生肖的关系中就取为丑牛。</p>
+<p style="TEXT-INDENT:2em">
+	寅是移，引的意思，湞也，淳也，指万物始生寅然也。寒土中屈曲的草木，迎着春阳从地面伸展。夜里三时到五时，在<a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十二地支">十二地支</a>中是寅时，此时老虎到处游荡觅食，最为凶猛。于是生肖虎的地支年就是寅。</p>
+<p style="TEXT-INDENT:2em">
+	卯是茂，官万物茂也。日照东方，万物滋茂。早晨五时到七时，为卯时，这时太阳尚未升起，月亮还挂在天上，此时玉兔捣药正忙，人间的兔子也开始出来觅食。<a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十二地支">十二地支</a>中兔属于卯时，因此被称为卯兔。</p>
+<p style="TEXT-INDENT:2em">
+	辰乃震也，物经震动而长。伸也，万物震起而生，阳气生发已经过半。上午七时到九时，为辰时，这正是神龙行雨的好时光。龙在<a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十二地支">十二地支</a>中属辰时，于是“辰龙”由此而来。</p>
+<p style="TEXT-INDENT:2em">
+	巳是起，指阳气之盛。万物盛长而起，阴气消尽，纯阳无阴。上午九时到十一时，在地支里面属于巳时，蛇比较甚欢在这个时间段活跃。因此，<a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十二地支">十二地支</a>中巳蛇说的就是这个时间段。</p>
+<p style="TEXT-INDENT:2em">
+	午是仵的意思，是万物丰满长大，阳气充盛，阴气开始萌生。上午十一时到下午一时，阳气正盛，为午时，为马儿最为活跃、最会撒欢儿的时间段，也正是天马行空的时候。因此在<a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十二地支">十二地支</a>中归为午马。</p>
+<p style="TEXT-INDENT:2em">
+	未是味，万物皆成有滋味也。味，果实成熟而有滋味。下午一时到三时，是未时，是羊吃草的最佳时机，而羊若在这时吃草，会长得更壮。<a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十二地支">十二地支</a>中属于未羊时间段。</p>
+<p style="TEXT-INDENT:2em">
+	申是身的意思，指万物之体都已长成。下午三时到五时，为申时，这时猴子就会显得十分活跃，到处乱跳。原本猴子就最接近人，因此极有灵性，下午三时到五时，身体都已经形成了，因此申时被<a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十二地支">十二地支</a>归为申猴。</p>
+<p style="TEXT-INDENT:2em">
+	酉是老的意思，万物成熟，也意为犹也，到这时都犹缩收敛。下午五时到七时，为酉时。此时，夜幕已经降临，鸡开始归窝。因此，在<a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十二地支">十二地支</a>中，酉与<a href="http://114.xixik.com/12shengxiao/" style="color:#000" title="十二生肖对照表">十二生肖</a>中的鸡配成一对。</p>
+<p style="TEXT-INDENT:2em">
+	戌是灭的意思，草木凋零，生气灭绝，万物尽灭。晚上七时到九时，为戌时，狗开始守夜。<a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十二地支">十二地支</a>中戌狗由此而得出。</p>
+<p style="TEXT-INDENT:2em">
+	亥是劾的意思，阴气劾杀万物，到此已达极点，万物收藏。晚上九时到十一时，为亥时，此时万籁俱寂，猪正在酣睡。亥时在<a href="http://114.xixik.com/chinese-era/" style="color:#000" title="十二地支">十二地支</a>的时间段处在最后，因此亥猪排在最后的一个时间段。</p>
+
+<p style="TEXT-INDENT:2em">来源：<a title="天干地支与生肖对照表" style="color:#000;" href="http://114.xixik.com/chinese-era/"><strong>天干地支与生肖对照表</strong></a>：<a title="天干地支与生肖对照表" href="http://114.xixik.com/chinese-era/">http://114.xixik.com/chinese-era/</a></p>
+                </div>
+            </div>
+        </div>
+        
+        
+    </div>
+  
+    <script src="http://news.static.xixik.net/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+      
+
+    <script type="text/javascript">
+        var value = '28';
+        url = "/ajax/diy/" + value + "/";
+        $.get(url);
+
+        $(".guideOpen").click(function () {
+            if ($(this).html() == "展开↓") {
+                $("#guideDisplay").css("height", "auto");
+                $(".guideBorder").css("height", "auto");
+                $(this).html("关闭&#8593;");
+            } else {
+                $("#guideDisplay").height(225);
+                $(".guideBorder").height(280);
+                $(this).html("展开&darr;");
+            }
+        });
+    </script>
+    <div class="lindBox" style="clear: both; text-align: center;">手机版请访问<a href="http://m.114.xixik.com/chinese-era/" target="_self" title="天干地支对照表 - 天干地支与六十甲子,天干地支五行对照表">天干地支五行八卦图</a></div>
+    <ul style="width: 960px; margin: auto; overflow: hidden;">
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chaodai/"
+                title="中国朝代顺序表 - 中国朝代更替表,中国历史朝代公元对照简表">中国朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/shicha/"
+                title="国际时差查询 - 世界各国主要城市和北京时差对照表">时差</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xingzhengquhua/"
+                title="中国行政区划_行政区划代码_中国行政区划调整">中国行政区划</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-travel-document/"
+                title="中国旅行证更换新政策_过期了该怎么办？">中国旅行证</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usa-stats/"
+                title="美国州名_美国50个州_美国各州名简称及首府">美国州名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/qinqi/"
+                title="亲戚关系图_中国亲戚关系图表_祖宗十八代_亲戚关系称呼大全">亲戚关系图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/ppt/"
+                title="个人所得税计算器 - 个人所得税税率表,2018年最新个税计算器">个人所得税计算器</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/cn-us-time-zone/"
+                title="中美时差对照表,现在美国几点?中国和美国时差怎么算?现在美国时间是几点?">中美时差对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-dynasties/"
+                title="中国朝代顺序表_中国历史朝代歌_历史朝代顺序表顺口溜">朝代歌</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/tiangandizhi/"
+                title="天干地支对照表 - 天干地支五行对照表,天干地支纪年法">天干地支对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/snsn/"
+                title="生男生女 - 生男生女清宫图,生男生女诀窍,生男生女技巧">生男生女</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangye/"
+                title="2017最新国民经济行业分类与代码（GB/4754-2017）,国民经济行业分类标准">国民经济行业分类与代码</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/yimiao/"
+                title="疫苗接种时间表 - 中国儿童预防疫苗接种时间表">儿童疫苗接种表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/shichen/"
+                title="时辰 - 时辰对照表,十二时辰查询">十二时辰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/semang/"
+                title="色盲检查图,色弱检查图,色盲色弱测试 - 色盲自测">色盲检查图</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-dynasties/"
+                title="中国历史朝代顺序详表 - 中国有多少个历史朝代？中国朝代更替表">朝代顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/"
+                title="美国总统_美国历任总统名单_美国历届总统大全">美国历任总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24-solar-terms/"
+                title="二十四节气,24节气表,二十四节气表,二十四节气歌,24节气歌">24节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24jieqi/"
+                title="二十四节气 - 24节气,二十四节气表,2020年二十四节气">二十四节气</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chicun/"
+                title="服装尺寸对照表_男士服装尺寸对照表_中国女装尺寸对照表_美版服装尺码换算">服装尺寸对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/country/"
+                title="全世界有多少个国家和地区？_世界上国家和地区一览表">全世界国家和地区</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/country-flag/"
+                title="世界各国国旗大全 - 世界各国国旗一览表,国旗图片下载">世界各国国旗大全</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/iata-icao/"
+                title="国际航空运输协会机场代码_IATA代码_ICAO代码">IATA代码</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/12birthpet/"
+                title="十二生肖排序 - 12生肖排序,十二生肖纪年对照表">十二生肖顺序</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/evus/"
+                title="EVUS - 美国签证更新电子系统_美国签证evus登记攻略">EVUS</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/festival/"
+                title="节日大全_2020年法定节假日安排">节日大全</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-aircraft-carriers/"
+                title="美国航母名称_美国有多少艘航母_U.S. Aircraft Carrier">美国航空母舰</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chepai/"
+                title="全国车牌归属地查询_机动车号牌归属地查询大全">全国车牌归属地查询</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-emperors/"
+                title="中国皇帝顺序表（完整版）_中国历朝历代皇帝一览表_中国历史上有多少个皇帝？">中国皇帝顺序表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/baijiaxing/"
+                title="百家姓排名_百家姓全文_最新百家姓排名2019">百家姓</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/domain/"
+                title="域名大全_域名后缀_全世界有多少种域名？">域名大全</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/24jieqi/72hou/"
+                title="月令七十二候集解_二十四节气">月令七十二候集解</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/potus/"
+                title="美国历任总统名单_历任美国总统名单一览表及就职情况_美国总统（POTUS）">美国历任总统名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/vice-president/"
+                title="美国副总统_美国历任副总统名单_美国现任副总统彭斯">美国副总统</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby/"
+                title="赴美生子利与弊_专门谈赴美生子的知名微博@Ada出生在美国 告诉您一个真相">赴美生子利与弊</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-visa/"
+                title="赴美生子诚实签攻略_赴美生子诚实签的好处_赴美生子为什么要诚实签">赴美生子诚实签攻略</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-spending/"
+                title="赴美生子价格_去美国生孩子多少钱_费用清单">赴美生子价格</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-baoxian/"
+                title="赴美生子保险_去美国生宝宝生育险_孕中险">赴美生子保险</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-hospital/"
+                title="赴美生子医院_洛杉矶医院_洛杉矶接待华人孕妇医院价目和详细情况一览表">赴美生子医院</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-doctor/"
+                title="赴美生子医生_洛杉矶医生_赴美生子华人医生_赴美生子医生介绍">赴美生子医生</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-living/"
+                title="赴美生子DIY可行吗？_赴美生子DIY攻略">月子中心还是DIY</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-certificates/"
+                title="美宝证件_美宝需要哪些证件（美国出生纸_中国旅行证_美国护照_社会安全号_出生纸三级认证）">美宝需要哪些证件？</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/compare/"
+                title="国民经济行业分类新旧类目对照表_GB/T 4754-2017_GB/T 4754-2011">国民经济行业分类新旧对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/hangyefenlei/"
+                title="2017年国民经济行业分类与代码（GB/T 4754-2017）,国民经济行业代码表_中华人民共和国国家统计局">国民经济行业分类</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-passport-ds11/"
+                title="美宝美国护照申请更新_DS-11怎么填图文">美国护照申请</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-cost/"
+                title="赴美生子要多少钱_去美国生孩子费用预算清单2020">赴美生子要多少钱</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/chinese-pr/"
+                title="中国绿卡_中国绿卡申请条件_中国绿卡真的很难拿吗？">中国绿卡</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/flotus/"
+                title="美国第一夫人_美国第一夫人梅拉尼娅_America's First Lady">美国第一夫人</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/china-emperor/"
+                title="中国历朝历代皇帝列表_ 中国历史皇帝顺序表完整版_中国共有多少个皇帝?">中国历朝历代皇帝</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-constitution/"
+                title="美国宪法_美利坚合众国宪法（Constitution of the United States）中英文版对照">美利坚合众国宪法</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/university/"
+                title="中国大学名单_2019年全国高等学校名单（截至2019年6月15日）">中国大学名单</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/ranking/"
+                title="美国总统排名_美国总统历史排名_美国最伟大的总统排行榜">美国总统排行榜</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/size/"
+                title="服装尺寸对照表_裤子尺寸_男装尺寸_女装尺寸_裙子尺寸">服装尺寸</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/travel-document/"
+                title="中国旅行证过期怎么办_中国旅行证更换攻略">中国旅行证更换攻略</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/stamp-duty/"
+                title="印花税税率,印花税税目税率表,2019年最新印花税税率表,印花税计算办法">印花税税率</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/gdp/"
+                title="2017世界各国GDP排名_2017世界各国人均GDP排名">世界各国GDP排名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/cn-uk-time-zone/"
+                title="中英时差对照表,现在英国几点?中国和英国时差怎么算?现在英国时间是几点?">中英时差对照表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/expenses-of-usbaby/"
+                title="赴美生子费用_去美国生孩子要多少钱？">赴美生子费用</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/xuexing/"
+                title="血型遗传规律表 - 如何根据父母血型判断孩子血型">血型遗传规律表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/country-code/"
+                title="国家和地区代码表（ISO 3166-1, E.164）_世界各国电话区号和国际代码表">国家和地区代码表</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/mdl/"
+                title="麦当劳优惠券,麦当劳手机优惠券,麦当劳电子优惠券尽在嘻嘻网">麦当劳优惠券</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/secretary-of-state/"
+                title="美国国务卿（Secretary of State） - 美国历任国务卿 - 美国现任国务卿迈克·蓬佩奥">美国国务卿</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/entry-into-us/"
+                title="美国入境 - 美国海关入境攻略流程">美国入境</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/prc-passport-visa-free/"
+                title="中国护照免签证 - 最新中国护照免签国家一览2020">中国护照免签证</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-passport/"
+                title="美国护照 - 美国护照上写的什么,美国护照免签证国家">美国护照</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/henley-passport-index/"
+                title="亨氏护照指数 - 亨氏护照受限制数2019">亨氏护照指数</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-process/"
+                title="赴美生子流程 - 干货！超详细的赴美生子流程攻略2020！">赴美生子流程</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-best/"
+                title="赴美生子机构哪家好？_合法的赴美生子机构">赴美生子机构哪家好</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-regret/"
+                title="2020生个美国孩子后悔了_后悔在美国生孩子_赴美生子利与弊">生个美国宝宝后悔了揭秘</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/visa/"
+                title="美国签证_美国签证DS-160表格在线填写_美国签证预约面谈_在线缴费">美国签证</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/titanic/"
+                title="泰坦尼克号真实历史_沉没之谜_泰坦尼克号电影_嘻嘻网">泰坦尼克号</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-flight/"
+                title="赴美生子航班怎么选_去美国生孩子中美航班信息大全">赴美生子航班</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/exit-and-entry-premit/"
+                title="出入境通行证_一次性出入境通行证_中华人民共和国出入境通行证">出入境通行证</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-prosandcons/"
+                title="赴美生子利弊_赴美生子的优势和弊端_生美籍宝宝的好处和坏处">赴美生子好处和弊端</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-born/"
+                title="赴美产子_赴美生子_去美国生孩子">赴美产子</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-constitution/14th-amendment/"
+                title="美国宪法修正案第十四条">美国宪法修正案第14条</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-president/greatest/"
+                title="美国最伟大的总统_美国总统排行榜">美国最伟大的总统</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-states/13states/"
+                title="美国13个州_北美13个殖民地_美国建国时的13个州">美国13个州</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/qs2020/"
+                title="2020年QS世界大学排名_世界大学排行榜">QS世界大学排行榜</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/born-usbaby/"
+                title="去美国生孩子_去美国生孩子多少钱">去美国生孩子</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/us-constitution/amendments/"
+                title="美国宪法修正案_Amendments to the Constitution">美国宪法修正案</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/the-world-university-rankings/"
+                title="2020年泰晤士报世界大学排名_2020年THE世界大学排名">泰晤士世界大学排名</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/ssn/"
+                title="美国社安号SSN_美国社安卡_美国社会安全号码">社会安全号码</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/declaration-of-independence/"
+                title="《美国独立宣言》（The Declaration of Independence）">独立宣言</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/birth-certificate/"
+                title="美国出生纸（Birth Certificate）_美国出生纸三级认证">美国出生纸</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/usbaby-living-cost/"
+                title="美国月子中心费用_赴美生子费用">美国月子中心费用</a> </li>
+        
+        <li style="float: left; margin-right: 20px;">
+            <a target="_self" href="http://114.xixik.com/guoqi/"
+                title="国旗大全_世界各国国旗">国旗大全</a> </li>
+        
+    </ul>
+
+    <div class="lindBox">
+        <div class="btnGray">
+            <div class="btnText">
+                <a target="_self" title="天干地支对照表 - 天干地支与六十甲子,天干地支五行对照表" href="http://news.xixik.com/word/28/">另存为<br />
+                    Word格式</a>
+            </div>
+        </div>
+    </div>
+    <div class="lindBox" style="text-align: center;">
+        <img src="http://news.xixik.com/qrcode/28/" alt="扫码手机上继续看" /><br />
+        <br />
+        <strong>用微信或者支付宝扫码在手机上继续观看<br />
+            可以保存收藏，也扫码后可以分享给好友
+        </strong>
+    </div>
+    <hr style="height: 1px; border: none; border-top: 1px dashed #999;" />
+    <script src="http://w.cnzz.com/c.php?id=30039331" language="JavaScript" charset="gb2312"></script>
+<!--Contents of this file5 are Copyright 2006-2016, Xixik Inc.-->
+
+</body></html>
