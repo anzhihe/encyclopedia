@@ -160,6 +160,9 @@ encyclopedia
     │   ├── 邓小平时代.pdf（https://pan.baidu.com/s/1cEiEzMHjea4wwSdNfovIRQ）
     │   ├── 周恩来年谱1898-1976.pdf
     │   ├── 《周恩来传》_[英]迪克·威尔逊+著.pdf
+    │   ├── 胡耀邦传.pdf
+    │   ├── 赵紫阳传（赵蔚）.pdf
+    │   ├── 赵紫阳：改革历程.pdf
     │   ├── 马基雅维里：君主论.pdf 
     │   ├── 论法的精神.pdf
     │   ├── 论自愿为奴.pdf
