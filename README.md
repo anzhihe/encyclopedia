@@ -217,6 +217,7 @@ encyclopedia
 - https://github.com/programthink/books
 - http://114.xixik.com
 - https://www.zhihu.com/question/27845854
+- https://chegva.com/read/
 - [编程随想的博客](https://program-think.blogspot.com/)
 - [美国历史系列 | ShareAmerica](https://share.america.gov/zh-hans/page/19/?s=%E7%BE%8E%E5%9B%BD%E5%8E%86%E5%8F%B2%E7%B3%BB%E5%88%97)
 - 网络
