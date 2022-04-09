@@ -22,3 +22,4 @@
 参考：
 
 - [这份暴雨自救指南，超详细实用！](https://chegva.com/4521.html)
+- [如果突然被通知要隔离，应该准备些什么？（附：囤货清单](https://mp.weixin.qq.com/s/sGU64pC72qT2OzPZfU7x-Q)
