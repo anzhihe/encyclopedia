@@ -18,6 +18,7 @@ encyclopedia
     │   ├── 中国历朝历代都城.doc
     │   ├── 中国历代皇帝谥号大全.doc
     │   ├── 中国历代皇帝庙号.doc
+    │   ├── 中国皇帝寿命列表.doc
     │   ├── 中国历史上的重大事件.docx
     │   ├── 五千年中国各朝代灭亡兴衰史.docx 
     │   ├── 中国历代王朝兴亡原因简要.docx
@@ -98,6 +99,7 @@ encyclopedia
     │   ├── 超高清晰世界地图.jpg
     │   ├── four_thousand_years_of_world_history.jpg
     │   ├── 全世界国家和地区.doc
+    │   ├── 世界货币符号.doc
     │   ├── 世界各国领土面积排名.doc
     │   ├── 世界各国首都.doc
     │   ├── 国旗大全.doc
