@@ -237,6 +237,7 @@ encyclopedia
 - [Mapping History](https://mappinghistory.uoregon.edu/english/index.html)
 - [中国历史地图](https://www.ageeye.cn/china/)
 - [太史古卷](http://hisgeomap.com/)
+- [全历史](https://www.allhistory.com/)
 - http://114.xixik.com
 - https://www.zhihu.com/question/27845854
 - https://chegva.com/read/
