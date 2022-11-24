@@ -1,4 +1,4 @@
-> 漫漫人生路，赠予有缘人。更新：20220408
+> 漫漫人生路，赠予有缘人。更新：20221124
 
 ❗Books and materials are only for personal learning and use, and the copyright belongs to the original author. If there is any infringement, please contact me!（书籍和资料仅供个人学习使用，版权归原作者所有，如有侵权请联系我！）
 
@@ -183,6 +183,7 @@ encyclopedia
     │   ├── 论自愿为奴.pdf
     │   ├── 《论美国的民主》上下卷-[法]托克维尔.pdf
     │   ├── 《常识》托马斯·潘恩.pdf
+    │   ├── 哈耶克作品集全六册.pdf
     │   ├── 英国《大宪章》中英对照.docx
     │   ├── 法国《人权宣言》中英译文.docx
     │   ├── 林肯葛底斯堡演说中英互译.doc 
