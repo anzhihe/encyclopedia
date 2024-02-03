@@ -241,6 +241,7 @@ encyclopedia
 - [中国历史地图](https://www.ageeye.cn/china/)
 - [太史古卷](http://hisgeomap.com/)
 - [全历史](https://www.allhistory.com/)
+- [香港大学推荐的50本经典书籍pdf & txt版](https://chegva.com/5945.html)
 - http://114.xixik.com
 - https://www.zhihu.com/question/27845854
 - https://chegva.com/read/
