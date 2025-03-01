@@ -1,4 +1,4 @@
-> 漫漫人生路，赠予有缘人。更新：20231023
+> 漫漫人生路，赠予有缘人。更新：20250301
 
 ❗Books and materials are only for personal learning and use, and the copyright belongs to the original author. If there is any infringement, please contact me!（书籍和资料仅供个人学习使用，版权归原作者所有，如有侵权请联系我！）
 
@@ -180,6 +180,7 @@ encyclopedia
     │   ├── 胡耀邦传.pdf
     │   ├── 赵紫阳传（赵蔚）.pdf
     │   ├── 赵紫阳：改革历程.pdf
+    │   ├── 制度基因：中國制度與極權主義制度的起源 (許成鋼).pdf
     │   ├── 马基雅维里：君主论.pdf 
     │   ├── 论法的精神.pdf
     │   ├── 论自愿为奴.pdf
@@ -230,6 +231,7 @@ encyclopedia
         ├── 论信望爱[古罗马]奥古斯丁.许一新译.三联书店(2009).pdf
         ├── 神曲(三册)意大利-但丁-田德望译.pdf
         ├── Chinese Quran Inside Text.pdf
+        ├── 道教神学概论 (陈耀庭).pdf
         ├── 邪教的十个特征.docx
         ├── 意识的解释-丹尼尔.丹尼特.pdf
         └── 看过的电影推荐清单.md
